@@ -1,0 +1,244 @@
+Cadence Design Systems, Inc (NASDAQ:CDNS) Q1 2021 Earnings Conference Call April 26, 2021 5:00 PM ET
+Company Participants
+Alan Lindstrom - Senior Group Director of IR
+Lip Tan - CEO
+Anirudh Devgannd - President
+John Wall - Senior VP and CFO
+Conference Call Participants
+Jason Celino - KeyBanc
+Jackson Ader - JPMorgan
+Gal Munda - Berenberg
+Joe Vruwink - Baird
+Jay Vleeschhouwer - Griffin Securities
+Gary Mobley - Wells Fargo
+John Pitzer - Credit Suisse
+Tom Diffely - D.A. Davidson
+Pradeep Ramani - UBS
+Ruben Roy - WestPark Capital
+Vivek Arya - Bank of America
+Operator
+Good afternoon. My name is Olivia, and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence First Quarter 2021 Earnings Conference Call. [Operator Instructions]
+I will now turn the call over to Alan Lindstrom Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Olivia. I would like to thank every -- welcome everyone to our first quarter 2021 earnings conference call. I am joined today by Lip-Bu Tan, Chief Executive Officer; Anirudh Devgan, President; and John Wall, Senior Vice President and Chief Financial Officer.
+A webcast of this call is available through our website cadence.com and will be archived through June 18, 2021. A copy of today's prepared remarks will also be available on our website at the conclusion of the call today.
+Please note that the discussion today will contain forward-looking statements. Forward-looking statements include, but are not limited to statements about our business outlook, product development, business strategy and plans, industry and regulatory trends, market size, opportunities and positioning. These statements are subject to known and unknown risks and uncertainties that could cause actual results to differ materially from those projected or implied in today's discussion.
+For information on factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, which was just filed and then also including the company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release that was issued today.
+You should not rely on our forward-looking statements as predictions of future events. All forward-looking statements we make on this call are based on estimates and information available to us at the time of this discussion and Cadence disclaims any obligation to update any forward-looking statements except as required by law.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. These non-GAAP financial measures should not be considered an isolation from or as a substitute for financial information prepared in accordance with GAAP.
+These non-GAAP financial measures are not based on any standardized methodology prescribed by GAAP and are not necessarily comparable to similarly titled measures presented by other companies. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results. A reconciliation between each non-GAAP financial measure and it's nearest GAAP equivalent may be found in our earnings press release following the financial statements.
+Copies of today's press release dated April 26, 2021 for the quarter and year ended April 3, 2021, related financial tables and the CFO commentary are also available on our website. For the Q&A session today, we would ask that you observe a limit of one question and one follow-up, you may re-queue if you would like to ask additional questions and time permits.
+And now I will turn the call over to Lip-Bu.
+Lip Tan
+Good afternoon everyone and thank you for joining us today. I'm pleased to report that Cadence had a great start to the year delivering outstanding financial results for the first quarter with broad-based demand for our innovative solutions, driving strong revenue growth, profitability, and cash flow. John will provide the details in a moment as well as our updated outlook.
+Generation trends like 5G, hyperscale computing, autonomous driving, and industrial IoT continued to propel the need for innovation in compute memory, networking, and storage from the edge to the cloud with massive amounts of new data being generated everyday. AI/ML and Data Analytics are helping transforming that data through intelligence providing actionable insights and accelerating digital transformation of several industries. These trends are continuing to drive strong semiconductor demand and design activity across a broad spectrum of end markets, and our Intelligent System Design strategy ideally positions us to capture these exciting opportunities.
+Now, let me talk about the Q1 highlights starting off with Core EDA and IP in the Design Excellence year of our ISD strategy. We had ongoing strength in aerospace and defense, and we significantly expanded our collaborations with marquee aerospace defense systems company that included the proliferation of our digital full flow as well as our functional and custom simulation solutions.
+Our Digital Signoff business had a strong revenue quarter, with multiple market shaping customers successfully hitting out at 5 nanometer and below process nodes using our digital full flow. Increasing design complexity, continuous driving of secular trend for hardware-assisted certification in Q1 was a standout quarter for our Palladium emulation and Protium prototyping platform. Significant expansions as well as multiple new wins contributed to Q1 in our best hardware revenue quarter ever.
+Additionally, we announced our new Palladium Z2 and Protium X2 platforms, delivering 2 times capacity and 1.5 times higher performance than our current leading Z1 and X1 systems. This next-generation system enables the highest throughput hardware debug and pre-silicon software validation for million -- multibillion sorry -- multibillion gig associate design and was endorsed by Nvidia, AMD, and ARM.
+Our IP business also delivered double-digit year-over-year revenue growth. There was strong demand for our high-speed SerDes IP by market shaping customers for their next-generation data center and networking environments as well as continued strength in our memory interface IP business. Tensilica continued to expand its footprint in true wireless stereo and Bluetooth headsets, and our Vision P6 and HiFi products proliferated in the Wearables and Smart Speakers end markets. It was another exciting quarter for system design and analysis segment, delivering over 30% year-over-year revenue growth. Early this month, we acquired Pointwise, a leader in mesh generation for Computational Fluid Dynamics. The addition of Pointwise Technologies and experienced teams both have broadened our system analysis portfolio, complements our recently acquired NUMECA CFD Technology and our organic multiphysics products.
+Pointwise provides highly innovative mesh and grid generation technologies to enable high fidelity CFD analysis, and its solutions are being used by several marquee customers, especially in the aerospace segment.
+We want to congratulate our NUMECA team for the role their products played in the design of the Emirates Team New Zealand racing boat, that won the America's Cup for New Zealand for the fourth time. The winning team used a simulator based on NUMECA's Fine/ Marine CFD software and their computational dynamic modeling and thanks to the unprecedented accuracy and realism of their simulators, we were able to accurately test new ideas and concepts long before the first boat ever touched the water.
+We introduced Sigrity X, our next generation signal and power integrity solution with endorsements on Samsung, MediaTek, and Renesas. These solutions leverage new simulation engines and a massively parallel architecture to deliver over 10% -- up to 10% performance and capacity gain for system level simulations of the most demanding hyperscale, 5G, automotive, and aerospace applications. And Qualcomm expanded their usage of our flagship Virtuoso and AWR products for advanced RFIC design and Clarity for system analysis.
+Let me conclude with a few comments on some macro level topics. We continued to monitor the semiconductor supply chain situation, and so far we are not seeing any slowdown in design activity across our customer base. Next regarding the evolving state of the COVID-19 pandemic, while some countries are edging toward normalcy, there is a growing concern with the escalating number of cases in certain regions, especially in India.
+As always, the health and safety of our employees, customers, and partners is paramount and we will continue doing what is in their best interest while working closely with local regulatory agencies.
+Lastly, this past year has brought to light many social justice challenges, including the recent acts of violence against Asian Americans. I strongly believe that we have an obligation as individuals and as a company, we'll take a stand against racism and set an example for inclusiveness and understanding. At Cadence, we are committed to listening with empathy, inclusive of different points of view and as a result ensure that our diversity enhances our experience and our innovative spirit.
+Now, I will turn it over to John to go over the Q1 results and present our Q2 and updated 2021 outlook.
+John Wall
+Thanks Lip-Bu, and good afternoon everyone. I'm pleased to report that we exceeded all of our key operating metrics for the quarter. Broad-based growth across many lines of our business combined with some earlier than anticipated hardware sales, resulted in strong revenue growth in Q1.
+We continue to invest heavily in building out a multiphysics platform for system design and analysis. We completed our second acquisition of the year in the CFD space, when we acquired Pointwise in April, a leader in CFD mesh generation. The focus over the past few months in completing acquisitions contributed to some delays to our expected pace of hiring in Q1, but we expect to get hiring back on track by the second half of the year.
+Now, let's go through the key results for the first quarter, beginning with the P&L. Total revenue was $736 million. Non-GAAP operating margin was approximately 38%. GAAP EPS was $0.67 and non-GAAP EPS was $0.83.
+Next, turning to the balance sheet and cash flow. At quarter end cash totaled $743 million while the principal value of debt outstanding was $350 million. Operating cash flow for Q1 was $208 million. DSOs were 48 days and during Q1, we repurchased $172 million of Cadence shares.
+Before I provide our updated outlook for fiscal 2021 and what we expect for Q2, I'd like to take a moment to share the assumptions embedded in our outlook. The ongoing chip capacity constraints along with the recent surge in COVID-19 cases in India are expected to create a headwind for IP revenue for the remainder of this year. The revenue impact has been factored into our outlook.
+We expect expenses to increase in the second half of the year, primarily due to headcount growth as we continue to invest in our expanding multiphysics platform. We've included the Pointwise acquisition in our 2021 outlook. And finally, our outlook assumes that the export limitations that exist today for certain customers will remain in place for all of 2021.
+Embedding these assumptions into our outlook for fiscal 2021, we expect revenue in the range of $2.88 billion to $2.93 billion, Non-GAAP operating margin in the range of 35% to 36%, GAAP EPS in the range of $2.01 to $2.09. Non-GAAP EPS in the range of $2.99 to $3.07. Operating cash flow in the range of $900 million to $950 million, and we expect to use at least 50% of our free cash flow to repurchase Cadence shares in 2021.
+For Q2 2021, we expect revenue in the range of $705 to $725 million, non-GAAP operating margin of approximately 36%, GAAP EPS in the range of $0.44 to $0.48 and non-GAAP EPS in the range of $0.74 to $0.78.
+Our CFO commentary, which is available on our website, includes our outlook for additional items as well as further analysis and GAAP to non-GAAP reconciliations. In conclusion, the Cadence team delivered another quarter of strong operating results and remain focused on driving profitable revenue growth.
+We'd like to thank our customers, partners and of course our employees for a solid start to 2021. And I'd like to remind them all, that their health and safety continues to be our first priority.
+And with that operator, we'll now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] And our first question comes from Jason Celino with KeyBanc. Your line is open.
+Jason Celino
+Hey guys, thanks for taking my questions. Maybe my first one, historically customers have gravitated toward the latest and greatest hardware products, especially on emulation side, but because emulation strength has been going on strong for several years now, how do you think the pace of uptake for that Z2 and Protium products could be?
+Lip Tan
+So thank you for the question.
+Anirudh Devgan
+Yes. That's a great question, Jason. Yes, I mean you might have noticed that we beat our midpoint of guidance in Q1, partly that was due to -- trying to manage the Osborn effect on transitioning to our new Palladium Z2 and prototyping X2 system. We had an incentive plan in place to try and sell as many of those Z1s and X1s before we launched the new products.
+So, we expect strong uptick for those new products with the incentive the plan worked really well, and Q1 was a really strong hardware quarter for us. It's a testament to the compelling value of our hardware solutions. They're providing both chip and system level customers across multiple use models.
+Jason Celino
+Okay, great. And then for my follow-up, maybe just an explanation here. I think John, you mentioned that chip capacity constraints and the COVID impact in India being a headwind for IP.
+John Wall
+Yes.
+Jason Celino
+Maybe coming from a -- my topper background, but maybe explain why this would be an impact and maybe you could quantify the dollar amount or the percentage?
+John Wall
+Yes, sure. Jason that's the -- on the COVID 19, I mean the worsening pandemic in India could have some impact to the timing of delivery for certain hardened IPs that required testing labs. And as we said on the -- in our prepared remarks that's been factored into our updated outlook, India build us out last year, if you recall, we had similar challenges back in Q2 last year in North America, and we're hoping we can do the same thing now, but it could cause some fluctuation in revenue timing between quarters.
+The bigger impact on the year is probably in relation to chip capacity constraints. Last quarter, when we talked about that, my expectation was royalties might be flat year-over-year. I now expect them to be slightly down. So, there is a slight headwind built into the guide this quarter for that.
+Jason Celino
+Great, thank you. I'll get back in queue.
+Operator
+Our next comes -- our next question comes from Jackson Ader with JPMorgan. Your line is open.
+Jackson Ader
+Thanks for taking my questions guys. I'd like to start on remaining performance backlog and calculated bookings. They are down a bunch in the quarter relative to a pretty tough compare, but I was just wondering if you guys had any additional commentary on the bookings performance in the quarter?
+John Wall
+Hi, this is John. I think that's just a reflection of a low renewals quarter. Yes, we'd expect remaining performance obligations to ratchet back up before the end of the year.
+Jackson Ader
+Okay, fair enough. And then on the geographic side, we saw remarkable growth from China in the second half of 2020, looks like that that geo kind of came back down to earth here in the first quarter. Any particular product segments, hardware, software, IP that would be impacted for that geography coming back down?
+John Wall
+Yes, China's back, I mean clearly it is back to more normal levels of business at the 12% level. The stats mainly because the strength appears to be more broad based across geographies this year. If you recall the -- in Q3, we had a really strong hardware quarter, and within China I mean, this quarter in Q1, a lot of the strength within North America and more balanced across all the regions, across all the geographies. The -- Yes in our outlook, I've assumed they returned to our usual recurring revenue mix in the region as well and that along with the fact that we have one less week in the second half of fiscal '21 kind of contributes to the conservative revenue outlook in the second half. When we get to the summer, we'll have increased visibility into the -- into revenue for the second half and the pipeline for the second half and we can update the outlook then at that time.
+Jackson Ader
+All right, thank you.
+Operator
+Our next question is coming from the line of Gal Munda with Berenberg. Your line is open.
+Gal Munda
+Hi, thank you for taking my question. First one is just, John, maybe a little bit expanding on what you just said. So when I look at your historical trends of revenues tends to be fairly and well kind of equally split throughout the quarters and Q2 tends to be sequentially slightly stronger than Q1. Is it because of this slight pull forward of hardware that you expect in Q2 potentially at the mid-end of the guidance be materially lower this year?
+John Wall
+Yes, Gal. We implemented a -- an incentive -- we incentivized the sales force to try and close some Z1 and X1 business as early as possible in the year in preparation for the launch of our new Z2 and X2 hardware systems. That was more successful than we originally thought and about $10 million of Q1's revenue, I'd originally forecast to happen in Q2. So of the $16 million beat, I guess at the midpoint for Q1, there's probably $6 million of that was a true beat and $10 million was what we originally thought would fall into Q2 that happened a little bit earlier in Q1.
+Gal Munda
+Got you. That's really helpful. Thank you. And then maybe just a little bit of a longer-term strategic question around building the CFD platform capabilities which kind of adds to your Clarity side. And then thinking about potentially other physics that you might be ending over -- adding over time, is that a potential for us or do you guys think that simulation is something that's kind of very applicable to the cooling and everything of the system, so because of that you kind of want to bring that in-house and the other ones maybe your partner, how you think about it?
+Anirudh Devgan
+Yes, Thank you for the question. Let me answer that this is Anirudh. So first of all, we are excited about CFD, like we mentioned last time and it is a very big segment into some analysis close to $1.5 billion, $1.6 billion. So we are excited focused on that. And Pointwise is a leader in machine technology, so we are glad to work with them and bring them in-house.
+So we think combining Pointwise with NUMECA and our organic capability in parallel and distributed computing can give a very, very state-of-the art solution for the CFD market. So we want to make sure we do well in CFD and as you know, we are already in electromagnetics with Clarity and Thermal with Celsius. So I think these are our focus areas for now. And then we'll see how things go in these segments. But so far, we are optimistic.
+And actually if you look at Q1 results, we had good growth versus Q1 of last year, so we -- like John said, we are continuing to invest in this space and we are still early in CFD, but optimistic about it.
+Gal Munda
+Got you. Thank you. That's really helpful.
+Operator
+Our next question coming from the line of Joe Vruwink with Baird. Your line is open.
+Joe Vruwink
+Great. Hi everyone. I was hoping just to talk about the product cycle for the new emulation and prototyping to get two platforms launching at the same time that have new silicon behind each. I think that's a pretty unique of that.
+So, John, I get kind of the timing and be incentivizing of the older generation, but could it be possible that just the performance on the new generation means that the net demand ultimately is -- maybe higher than being forecasted? Or do you think that's a possibility, but maybe, timing-wise, it's probably more of a second half driver for you?
+John Wall
+Yes, I think that's a good observation Joe. We're building the systems as quickly as we can. There is clearly demand there. That's -- the systems, the dynamic duo for the tight integration with unified compiler and interfaces. The Palladium Z2 and Protium X2 systems are designed to address the challenges faced by those designing for the most advanced electronic applications, including mobile consumer and hyperscale computing design.
+So we expect demand to be very strong and they have -- I mean the customers can achieve up to 2 times capacity and 1.5 times performance improvements with each platform. And they work so well together, like you see the team call them the dynamic duo, so it is important for us to launch them together which we're building them as quickly as we can and so there's plenty of demand for them, but like to say by the time we have built in everything it might impact the second half of the year more than the first.
+Joe Vruwink
+Okay, that's helpful. And then just a follow-up on the margin guidance for the year, because I think you ended up beating your forecast in 1Q by $28 million and the full year moves higher by $12 million or $13 million. Is that purely just a function of hiring being back half weighted or are there other things like product mix or some other investments to consider as well?
+John Wall
+That's exactly right Joe. It's -- I mean it's basically what you're seeing is the compounded effect of revenue happening a little bit earlier than originally forecast, because of the success of that incentive program and the success of the sales of Z1 and X1 in Q1 and then hiring getting delayed a little bit to later in the year as we focused on closing some acquisitions for the CFD space.
+Joe Vruwink
+Great, thank you very much.
+Operator
+Our next question comes from the line of Jay Vleeschhouwer with Griffin Securities. Your line is open.
+Jay Vleeschhouwer
+Yes. Thank you. Good evening. A couple of paired technical and financial questions for Anirudh and for John. First for Anirudh on the 4th quarter call, three months ago as you may recall, we talked about how customers design flows and methodologies are revolving. The follow-up therefore to that observation we made at the time is how might that affect as that takes place, Cadence is pricing and/or product packaging commensurate with customers' evolution of their methodologies? Could there be any effect on how you price the annual package your software or anything else.
+And then secondly, with respect to System Design strategy, and the overall computational software strategy, how would you compare the R&D and AE intensity or requirements system analysis, particularly as you add more in CFD and other physics versus core or classical EDA which is synthesis, implementation, RTL simulation and the like, do you expect any meaningful differences between those two parts of the business? Thanks.
+Anirudh Devgan
+Thanks Jay for the question. Those are very good question. Let me take the second one first. So I'll view -- Jay, even in our EDA business or EDA software business, maybe one-fourth of it is more simulation-based. Like circuit simulation and logic simulation. So invariably those simulation-based businesses are more profitable then overall EDA. So like Spectre usually is more profitable than place and route, for example. So I expect a similar trend to happen in System Analysis.
+So System Analysis by nature is simulation-based, whether it's Clarity, it's electromagnetic or CFD. So in steady state, I do expect that system analysis to be more profitable than Core EDA. Now as we build up and we scale revenue, there are some transient nature, but in steady state, I do expect that to be the case. And so far, we are pleased with the, not just the revenue growth, but actually even the margin performance of System Analysis business.
+And on your first question, I think we are looking at it carefully in terms of packaging and pricing discipline in that. I think one big trend, like I mentioned last time, there is more and more full flow use like lower nodes, as you know already. So we are selling lot of these tools together. So we just continue to monitor it and work discipline with our customers and internal teams. John, do you want to add anything on pricing?
+John Wall
+Yes, what I would add is that, Jay, I mean you're exactly right. I mean, you look at the tools that we create on the software side, there is a lot of R&D and AE intensity in terms of supporting those tools. And if you look at the software that we're selling, you can really bifurcate all the licenses into two groups.
+There is the interactive tools, where every license need the driver and then there is like simulation tools where they're kind of batch process tools, where one engineer can kick-off like 1,000 simulations if they want, and that's partly why the system analysis part of the business, the simulation part of the business is the most profitable part of our software business, because in all cases, our expenses are generally tethered to the R&D and AE engineers required to support the software, but the revenue is not headed in relation dissemination. It's not tethered to the numbered engineers in simulation licenses and I think that's why we see that being more profitable.
+Jay Vleeschhouwer
+Understood. Thanks very much.
+Operator
+Our next question coming from the line of Gary Mobley with Wells Fargo. Your line is open.
+Gary Mobley
+Hey, everyone, good afternoon. Thanks for taking my question. Wanted to ask about the news around of export restrictions from the US Commerce Department targeting China and about half a dozen supercomputer companies. I realize not all those are specifically focusing on developing processors, but presumably handful of those companies are Cadence's customers. With respect to those specific customers or any other export restrictions, what way has that impacted your ability to do business in China?
+Lip Tan
+Yes, this is Lip-Bu. Let me just have a -- answer that first and then John or Anirudh can add onto it. So first of all, we clearly we have and will continue to comply with all the export our control regulations including the military end user and the list that you've mentioned. But we -- clearly, we are not going to comment on certain specific companies. But everything we know we already built into the -- our guidance.
+Gary Mobley
+Okay. And John, can you confirm if that roughly $190 million as reported in your cash flow statement was the amount paid for NUMECA in the first quarter and how much you would expect from both Pointwise and NUMECA as a contributor to 2021?
+John Wall
+Hi, Gary. Nice try, I mean, we're not disclosing those separately, but we're very, very pleased with both acquisitions and delighted to have them as part of the Cadence family.
+Gary Mobley
+All right, thank you guys.
+Operator
+Our next question coming from the line of John Pitzer with Credit Suisse. Your line is open.
+John Pitzer
+Yes, good afternoon guys. Thanks for letting me ask the question. Gentlemen, I just wanted to go back to your commentary about some of the headwinds that you see this year. I think I understand the COVID India issue. I'm still a little bit confused by the royalty because even though we're in a very tight ship capacity market, unit volumes and revenue should be up pretty significantly year-over-year for the industry. Can you help me better understand what's causing that the royalty kind of -- headwind in kind of your volume-based businesses?
+John Wall
+Yes, John, good question. It's last quarter, I thought for the year, I thought we'd be flat because of unit volumes. We weren't expecting any improvement in unit volumes. And in fact in Q1, I think our royalty revenue for Q1 was flat on Q1 2020, but the forecast looking out over the next three quarters and my team goes through a detailed analysis, it depends on, I guess the mix of customers that we have the unit volumes that they have, but their forecast suggests that we'll be slightly down now and that headwinds being built into the -- into our forecast. So I don't mean that to be a commentary on the entire industry. It's just in relation to the customers that we generate royalty revenue from. We expect their unit volumes to be down.
+John Pitzer
+Is there any way to characterize sort of end market that those customers play into or is that a level detail you are not going to give?
+John Wall
+No. We can't give that, sorry.
+John Pitzer
+No, that's helpful. And then as my follow-up, maybe another way to ask sort of Gary's question about restrictions. I'm just kind of curious, when you think about the full year guide, what's embedded for China and I'm clearly asking because, well, I understand sort of the geographic mix broadened out in the current quarter. China was down significantly and there are some investor concerns that may be the back half of last year represented a pull forward. As you think about the full year guide, is there any sort of broad strokes you can give us on how you feel like China is being the trend for the rest of the year within that guide?
+John Wall
+Yes, John backed into the for China basically expecting us to mean revert back to our normal mix of business between upfront and recurring revenue. In the second half of last year we had more upfront revenue than average particularly in China. And I wasn't happy that I wouldn't -- I wasn't happy to extrapolate that for all of 2021, because I felt that's the second half look like an anomaly.
+So I thought for guidance purposes and to be conservative, we would assume that we may revert back to our normal recurring revenue mix right in the middle of that 85% to 90% range that we normally have for the company, even though, China is probably slightly more upfront than us. And that would kind of -- my expectation then is that China is very hard to predict, but somewhere in the 12% to 13% range for revenue and that's where it came out for Q1.
+So that's what we've embedded into the guide. We will have better visibility once we get to the middle of the year and we'll update then. But we're kind of assuming we revert back to me, than I thought that was the best way to derisk the year for China.
+John Pitzer
+Perfect. Very helpful. Thank you, John.
+John Wall
+Okay.
+Operator
+Our next question coming from the line of Tom Diffely with D.A. Davidson. Your line is open.
+Tom Diffely
+Yes. Thank you and good afternoon. Maybe John, just one more question on the really strong quarter for hardware. Did the incentives impact your margins at all in the quarter in any meaningful way?
+John Wall
+I would say it did naturally. The extra revenue would have boosted margins in Q1 at the expense of Q2, but that would only be a shift between one quarter and the other. The delay in hiring would have benefited Q1 and also benefited the year. We expect to catch up with the hiring, but of course, because we didn't higher in Q1 as quickly as we thought those savings are both in Q1 and the year.
+Tom Diffely
+Well, I was wondering more if the incentives included discounts, so the pricing went down in the first quarter.
+John Wall
+No the incentives, I'm sorry, let me clarify. The incentives I was talking about were more sales incentives for our sales team.
+Tom Diffely
+Okay.
+John Wall
+Non-incentives for customers.
+Tom Diffely
+All right. And then longer term question for maybe Anirudh or Lip-Bu, when you look at the node transitions in the industry and whether it goes between every two years or every three years, how impactful is that duration between nodes for you, if the underlying demand is still strong?
+Lip Tan
+I can start first and then Anirudh can chip in. Now, clearly I think the complexity and the dynamic of the demand is very strong on that five generation of phase. And so we are excited. We don't see any slowdown on the design. In terms of process node migrations, clearly we're marching forward down to five in production and 3 in design, always engaging right now. But clearly, that's a lot of demand on that. We are very heavily investing in that, because every nodes is a new opportunity for us and we are very excited about it. In terms of the technology and process might be Anirudh can update you where we are.
+Anirudh Devgan
+Yes. Thank you, Lip-Bu. I just want to add that I mean there is one exciting thing is not only the -- I believe the node transitions are continuing. In terms of R&D, we are mostly working on 2-nanometer now. 3-nanometer is an early kind of design activity, but what is also promising which you already know, is that there are multiple foundries doing these advanced nodes.
+So I think overall the industry seems pretty healthy. So not just -- there are several key foundries, all working on advanced mode. So we are optimistic and like Lip-Bu said, we see lot of activities as these advanced nodes. And that coupled with 3D IC, these advanced nodes, I think there is a lot of design activity that we see.
+Tom Diffely
+So when a fab comes out with a new flavor with the same node that's almost as helpful to you as a new node would be?
+Anirudh Devgan
+That, I think that just depends on the customer adoption. I mean there is some work we do from R&D standpoint to get ready for a new node or a variant of the same node. The variant -- work on variant of the same node is less than R&D work for a new node. So it just depends on, from a work standpoint. But in terms of customer adoption depends which nodes the customers will adopt and we would like to work with them in whichever flavor they choose based on their requirements.
+Tom Diffely
+Okay, thank you.
+Operator
+[Operator Instructions] Our next question coming from the line of Pradeep Ramani with UBS. Your line is open.
+Pradeep Ramani
+Hi, thanks for taking my question. I had a couple of questions on System Analysis. Maybe the first question is, now that you've had NUMECA and Pointwise, do you feel like you have more or less distribution that you need to sort of scale both NUMECA and Pointwise together or do you feel like it had to be finally bolted onto a Cadence platform in a integrated mode? And if so, what are sort of the R&D investment environment and even maybe their go-to-market investment environment look like -- time horizon look like, is it sort of a one-year thing or is it a longer duration sort of an investment cycle?
+Anirudh Devgan
+Yes, that's a great question. So first of all, we do feel pretty good about Pointwise and NUMECA, like I mentioned and they are good technologies. They already have some scale and we can scale them more with our sales force and customer connections. At the same time we will enhance them with our organically -- organic technologies of parallel and distributed computing, so we will definitely enhance them further.
+And like Lip-Bu and John mentioned, I think all these investments are built into our guidance and we feel good already in terms, so we -- at this point, we already have significant scale R&D investment in System Analysis. So because of Clarity and other products. So we feel good. In terms of the amount of R&D we have already invested and we'll go from there. So, but I think bottom line, we feel that the point was NUMECA and our organic development, we have lot of capabilities and scale it in the CFD market.
+Pradeep Ramani
+Okay. And as my follow-up, in terms of sort of AWR, can you sort of update us on how AWR is doing in terms of more customer tracking and sort of maybe year-over-year growth as part of the System Analysis business?
+Anirudh Devgan
+Yes, definitely. So, as you know our System Analysis business, if you compare from Q1 last year to Q1 this year is up significantly right, close to 30% and AWR is a key part of that. There is some part of it that is M&A, but organically, also our after acquisition both AWR and EMA integrand are going well -- growing well and if you see Lip-Bu's prepared comments, we mentioned Qualcomm is the expanded use of AWR and Clarity.
+So we don't break it out separately these different products, but overall they are growing well and we are happy of AWR and Integrand growth after acquisition there. Because we can provide a more complete solution along with Virtuoso, Clarity, the overall system design and analysis solution.
+Pradeep Ramani
+Thank you.
+Operator
+Our next question coming from the line of Ruben Roy with WestPark Capital, your line is open.
+Ruben Roy
+Thank you. John a quick follow-up on the chip supply situation. Obviously, you're talking about impacts on your full year and you've given us full-year guidance for 2021. The commentary from the industry has been sort of all over the place in terms of when we might see some improvement with some folks thinking as soon as the second half. I'm just wondering if you have any perspective on when and how you're thinking about seeing some improvement in supply and when that might impact your business? Is it a 2022 then?
+John Wall
+Yes. Sure Ruben, the forecast that my team provided may look like there was softness in Q2 and Q3 for the particular mix of customers that we generate IP royalty revenue from and it looked like it was recovering in Q4. I think that gets your point, but again, I don't mean for this to be any commentary on the industry in any way. It's just the mix of customers that we recognize royalty revenue from.
+Ruben Roy
+Okay. Yes. I appreciate that. And...
+John Wall
+We are not seeing any slowdown in design activity at Cadence.
+Ruben Roy
+Right, right. Okay, thanks for that. I am trying to get as many data points as I can. And I guess just the quick follow-up for Anirudh or Lip-Bu, just on -- sort of your customers and you talking about foundry, a little bit here, but large North American customer obviously is getting back again into the foundry business and has cited in early partnerships with you and your competitor. Just wondering if you have any perspective to add on what's going on here with that customer and if you're seeing any benefits coming from things like chip sector or things like that on your business as you look over the next several years?
+Lip Tan
+Yes, I think in that manufacturing in US is clearly a welcome and of course any new foundry or expansion is always good for us in terms of tool and IP enablement. And so we have excited opportunity and then you will increase the design activity and also meet the customer requirement of the advanced nodes and packaging also. So I think overall, we think as a positive development and we welcome that opportunity to provide service and the design and IP to enable that.
+Ruben Roy
+All right, thank you Lip-Bu.
+Operator
+And our last question coming from the line of Vivek Arya with Bank of America. Your line is open.
+Vivek Arya
+Lip-Bu I just wanted to kind of follow-up on your last commentary about US manufacturing. I'm curious if there is more US based manufacturing and packaging and other activities. Is that incremental to your business or is that just a substitute for what you're doing in other regions?
+Lip Tan
+Yeah, it's very hard to tell, but I think overall it should be a net increase, because clearly, now we're excited. We have a deep partnership with TSMC, Samsung of the world. Anything new and there is a lot of more IP in term of optimizing and also they have their own process and PDK and then, so I think overall, from my point of view, I think it would be a net increase.
+And then, we're happy to help. And at the end of the day, this is not the foundry, the EDA and then how to meet our customer requirements when they want to move into a new foundry, they need a lot of different tools and optimization and process and rivalry. And overall I think it will be a net improvement for us.
+Vivek Arya
+Got it. Very helpful. And then, John, maybe one for you on operating margin. So Q1, I think at about 38 I think Q2 you're guiding to 36 if my model is right. But for the full year you're guiding the 35% to 36%, so suggesting back half will be lower right and back half of this year could even be lower than what you had in second half of last year. Obviously you had the one extra week of last year. But I'm just curious, how are you thinking about leverage in the model and more importantly, when do you think you can get back to this rule of 50% that you were able to achieve before?
+John Wall
+Yes good questions Vivek. I mean we don't see any near-term ceiling on operating margins. I was glad to see that even with the outlook at 35.5% at the midpoint that's I think we're now at 50% incremental margins comparing 2021 to 2019. As long as we're delivering incremental margins of 50% that's where clearly there is operating leverage in the model.
+What you're seeing in the impact of the reason that operating margins are slightly lower in the second half it's the combination of two acquisitions and delayed hiring activity into the second half, that also we have a merit cycle that kicks in July 1. That puts -- with all that said we're heavily investing in building out a multiphysics platform for the future. Like I say, there is no near-term ceiling to that operating leverage.
+Vivek Arya
+Got it. Thank you.
+John Wall
+No worries.
+Operator
+Ladies and gentlemen that's all the time we have for questions today. I would now like to turn the call back over to Lip-Bu Tan for closing remarks.
+Lip Tan
+Thank you all for joining us this afternoon. I'm very excited about the growing market opportunity and the business momentum so far in 2021. Our Intelligent System Design strategy is playing out very nicely as we benefit from the new opportunities in Design Excellence, System Innovation and Pervasive Intelligence and an expanded total addressable market.
+I'm very pleased also to share that Fortune and The Great Place to Work as honored us as one of the 2021 100 Best Companies to Work For, which marks Cadence's seventh year in the role being named in this prestigious list. Cadence was recognized as one of the best company to work for, thanks to our outstanding people-first culture and the history of innovation. And lastly, on behalf of our employees and our Board of Directors, we want to thank our customers and partners for their continued trust and confident during this unprecedented time.
+Operator
+[Operator Instructions]

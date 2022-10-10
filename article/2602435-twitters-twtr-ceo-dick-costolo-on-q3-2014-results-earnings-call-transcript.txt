@@ -1,0 +1,358 @@
+Twitter, Inc. (NYSE:TWTR) Q3 2014 Results Earnings Conference Call October 27, 2014 5:00 PM ET
+Executives
+Krista Bessinger - IR
+Dick Costolo - CEO
+Anthony Noto - CFO
+Analysts
+Douglas Anmuth - JPMorgan
+Paul Vogel - Barclays
+Ross Sandler - Deutsche Bank
+Rich Greenfield - BTIG
+Mark Mahaney - RBC Capital Markets
+Heath Terry - Goldman Sachs
+Victor Anthony - Topeka Capital Markets
+Justin Post - Bank of America Merrill Lynch
+Ben Schachter - Macquarie Capital
+Daniel Ernst - Hudson Square Research, Inc.
+Eric Sheridan - UBS
+Mark May - Citigroup
+Anthony DiClemente - Nomura Securities
+Youssef Squali - Cantor Fitzgerald
+Brian Wieser - Pivotal Research
+Arvind Bhatia - Sterne Agee
+John Blackledge - Cowen & Company
+Brian Nowak - Susquehanna Financial Group
+Operator
+Good day, ladies and gentlemen and welcome to the Twitter Third Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. (Operator Instructions) As a reminder, this call is being recorded.
+I would now like to introduce your host for todayâs conference Krista Bessinger, Senior Director of Investor Relations. Maâam please go ahead.
+Krista Bessinger
+Thanks, Danielle, and good afternoon. Welcome to our Q3 earnings call and thanks for joining us.
+We have with us today our CEO, Dick Costolo and CFO, Anthony Noto. We'll begin with approximately 15 minutes of prepared remarks followed by Q&A. During the Q&A, we will take questions asked via Twitter in addition to questions submitted from conference call participants. Questions submitted via Twitter should be directed to @TwitterIR using the #TWTRearnings.
+We'd like remind everyone that we will be making forward-looking statements on this call, such as our outlook for Q4 and 2014 and our operational plans and strategies. Actual results could differ materially from those contemplated by our forward-looking statements and reported results should not be considered as an indication of future performance. Please take a look at our filings with the SEC for a discussion of the factors that could cause our results to differ materially. The forward-looking statements on this call are based on information available to us as of today's date, and we disclaim any obligation to update any forward-looking statements except as required by law.
+During this call, we will discuss certain non-GAAP financial measures. Reconciliations to the most directly comparable GAAP financial measures are provided in our earnings release. These non-GAAP measures are not intended to be a substitute for our GAAP results. An audio replay of this call will also be available via Twitter and on our website in a few hours.
+And with that, I would like to turn the call over to our CEO, Dick Costolo.
+Dick Costolo
+Hi everyone and thanks for joining us.
+I want to spend some time giving you a view of our strategy to build the largest audience in the world, a strategy we've started to lay out for you on the last two calls, but first an overview of the quarter.
+We had another very strong quarter financially; revenue growth of 114% year-over-year, totaling $361 million. Adjusted EBITDA rose to $68 million, up from $9 million just a year ago.
+We continue to make progress in user growth adding 13 million net new users in the quarter, including another three million net new users in the U.S. for the second straight quarter. That brings us to 43 million new monthly active users for the year and 284 million monthly active users in total.
+We've talked in the last several months about the size of our total audience and the additional reach of our ad exchange, so I want to put all the pieces together for you today and what you'll hear will echo some of my comments from last week at Flight, our mobile developer conference.
+You should think about the size of our total audience as a series of geometrically eccentric circle. At the core, you have our monthly active users. They are our most engaged users contributing and consuming the vast amount of great content on Twitter. Those contributions are the fuel that powers the entire system.
+In the circle beyond that, we have the logged out audience on our owned and operated properties. Hundreds of millions of users that come to Twitter every month, but don't log in. We've talked about the size of this group of users as another one to 2X the size of the core and that remains the case.
+In the third circle beyond this are the people we reach in syndication via embedded tweets and timelines across the web and now across the mobile app ecosystem through our new mobile developer platform Fabric, which I'll talk more about in a minute.
+We think about everything we do in the context of this set of geometrically eccentric circles and think it's useful for you too as well. Then I would say we have three objectives that we're focused on across this total audience. One, strengthen the core. We have to continue to grow our monthly active users and make Twitter an increasingly daily used case for them.
+Three of the priorities to strengthen the core include improving the new user experience and getting new users a high quality timeline the moment they sign up for the service.
+Second, providing much better rich media creation and consumption tools and experiences to drive more breadth and depth of content and lastly, adding functionality to our direct messaging service to enable users to move fluidly between the public conversation and private conversation all on Twitter.
+This quarter saw several launches along those lines as one example we rolled out a brand new web on-boarding flow that dramatically simplifies the sign-up process and that automatically creates a timeline based on what topics users choose as well as our browsing history.
+We get them into a fully populated timeline that does not require them to immediately know the language of Twitter or who is on Twitter etcetera. Expect to see this on mobile in short order.
+Not only is the breadth and depth of content expanding, but that content is some of the best across the digital landscape just looking at television and music we hosted the season premiere teaser of Showtime's hit show Homeland and one of ABC's new show Selfie and exclusive videos and music form such diverse musicians as U2, One Direction and even a Michael Jackson video, all exclusive to Twitter.
+Our second objective is to reduce barriers to consumption to help build the largest total audience in the world. We will continue to innovate on ways to better organize our content to deliver the right experiences at the right time for all types of users logged in, logged out and on syndicated partner properties.
+And the third objective is building new applications and services. Our announcement of Fabric, a week ago at our develop conference is the most recent initiative in this area and components of Fabric are already in use by tens of thousands of developers around the world collectively reaching well over one billion IOS and Android users.
+We believe Fabric can be the one SDK that any global app developer needs to embed in their application. We provide crash reporting, beta testing and analytics from the moment a developer is getting started, when developers are ready to launch their production apps, we provide identity services in the form of Twitter log in and Digits, our next generation native mobile sign-up service.
+Digits provides developers with multiple competitive advantages over other sorts of identity services including building their own native mobile sign-up and finally developers can easily turn on the MoPub kit, our mobile ad exchange when they're ready to monetize their apps at scale harnessing our best-in-class ad mediation and exchange technologies.
+In closing, I am happy with the strategy and the quality of the work we're doing, but given our significant aspirations and the breadth of the opportunity in front of us, it's more critical than ever that we increase our overall pace of execution.
+And with that, I'll hand it over to Anthony to go deeper into the financials.
+Anthony Noto
+Thank you, Dick and good afternoon everyone.
+I'll discuss our financial and operating performance for Q3 and provide our guidance for Q4. Q3 was another strong quarter for Twitter. Total revenue reached $361 million, up 114% from the year ago period, and $21 million above the high end of our guidance range.
+Ad revenue reached $320 million, up 109% year-over-year. Growth was strong across all channels with the DSO channel being the largest contributor, while the MMS and small-medium business channel growth rates outperformed.
+Looking by product, the vast majority of our year-over-year revenue growth was driven by promoted tweets, up 136% year-over-year as we saw a meaningful contribution from new ad formats including mobile app downloads website cards and promoted video ads.
+In Q3, USR revenue grew 88% while international ad revenue grew 164% year-over-year and accounted for 35% of total ad revenue. International growth outperformed the U.S., driven by strong growth in both APAC and EMEA countries.
+In Q3 we expanded our sales efforts to 12 new markets in Europe. We also expanded the reach of Twitter self-serve ad platform to 12 new countries. We now cover over 45% of our consumer footprint with the ability for advertisers to use our self-serve platform.
+We now have a sales presence in 60 countries around the world and see significant room for continued international revenue growth as we further expand and grow each channel around the globe.
+Looking by platform, our mix of revenue from mobile also continues to grow with 85% of total ad revenue now generated from mobile devices up from approximately 70% from the prior year period.
+Data licensing and other revenue contributed $41 million in the quarter, an increase of 171% year-over-year. This growth was driven by both mobile ad exchange business and a full quarter of the Gnip data licensing business.
+Moving on to cost and EBITDA. In Q3, total expenses were $341 million, up 85% year-over-year. The increase was primarily driven by headcount and related overhead cost as well as infrastructure investment. We continue to invest in our workforce to scale our business and drive continued product innovation and begin to drive broader trial of the product.
+We ended the quarter with approximately 3,600 employees. Adjusted EBITDA margin for Q3 was 19%, more than three times that of Q3 2013 and up 200 basis points sequentially. Adjusted EBITDA totaled $68 million, compared to just $9 million in the prior year period and above the high end of our expectations. Adjusted EBITDA significantly outperformed our expectations through the outperformance in revenue and lower than expected hiring in the period.
+Non-GAAP net income was $7 million in the third quarter up from a non-GAAP net loss of approximately $17 million in the same period a year ago. This includes approximately $600,000 in interest expenses from the convertible notes for the partial period as well as an unrealized FX loss of $8 million from the mark-to-market balance sheet accounts.
+Excluding the cash interest expense and the convertible notes, in the unrealized loss from FX adjustments, non-GAAP net income would have been $15 million.
+For modeling purposes, we expect the quarterly interest expense to be roughly $20 million to $25 million on a GAAP basis and $4 million on a non-GAAP basis. Our GAAP net loss in the third quarter was $175 million, which includes $170 million of stock based compensation expense.
+Before returning to metrics, I want to cover a few items related to cash and CapEx. We successfully completed a convertible note offering, raising approximately $1.7 billion, net of the convertible hedge at very attractive rates.
+We ended Q3 with roughly $3.6 billion of cash and marketable securities. Cash used in operations was $88 million, CapEx was $101 million, $62 million of which was financed through capital leases.
+Now I would like turn to our operating metrics, first on users. Average monthly active users reached 284 million for the quarter, reflecting 13 million net additions in the period.
+We added three million users in the U.S. and 10 million internationally. Net ads in the U.S. were in line with Q2, while international net ads slowed a bit sequentially due primarily to the implementation of increased authentication measures, which negatively affected users in a number of APAC countries.
+In addition Q3 did not have the benefit seen in Q2 from elections in India and news events in South Korea. Timeline views increased to approximately 181 billion up 14% from a year ago time period. Timeline views per MAU were down 7% versus the prior year to 636 as expected.
+The year-over-year decline primarily reflects the changes we've been making to allow users to more efficiently access to our content. We will continue to focus on driving the better product experience, which may pressure timeline views per MAU over time.
+That said, based on our current trends, we expect timeline views per MAU in Q4 could be flat on a year-over-year basis.
+Switching to monetization, ad revenue per 1,000 timeline views continue to show strong growth reaching $1.77 in Q3, up 83% year-over-year and 11% sequentially. U.S. ad revenue per 1,000 timeline views reached $4.28, up 66% year-over-year and international ad revenue per 1,000 timeline views reached $0.84 up 132% year-over-year.
+We continue to see steady improvement in monetization as we expand geographically, roll out new ad products and improve targeting, attribution and ROI. Given this and the expected seasonal fourth quarter strength in advertising demand, we expect to see sequential growth of approximately 28% to 30% in ad revenue per timeline view in the fourth quarter.
+Moving on to cost per ad engagement, in Q3 ad revenue grew 109% on a year-over-year basis despite a decline of 17% in cost per ad engagements. The increase was driven by total ad engagements, which grew more than 150% year-over-year, reflecting higher quality ads, improved prediction and targeting and media forward.
+Cost per ad engagement grew 3% quarter-over-quarter due to the increased adoption of higher price and higher performing ad units. Now I would like to turn to our guidance.
+Before I provide the detail on our guidance, I wanted to note that in the past, we've outperformed our guidance approach balance the opportunities and risk in setting expectations. This quarter however we're attempting to be more accurate in our revenue guidance relative to results.
+As we've placed more weight on the opportunities in the quarter come to fruition. For that reason and based on current visibility, we do not recommend projections that deviate meaningfully from our guidance.
+For the fourth quarter of 2014, we're raising the range for total fourth quarter 2014 revenue to $440 million to $450 million, which is $23 million higher than the previously implied fourth quarter range established after our Q2 results. We're raising our adjusted fourth quarter 2014 expected EBITDA range to $100 million to $105 million, which is $60 million above our previous range at the midpoint.
+We expect stock-based compensation expense in the range of $175 million to $185 million and we expect CapEx to be between $120 million and $150 million. We're raising our range for total revenue for 2014 to $1,365 million to $1,375 million, which is $50 million above our previous range at the midpoint.
+The increase in revenue guidance for the full year 2014 reflects our Q3 outperformance and our increased expectations for the fourth quarter. Moving on to adjusted EBITDA. We're raising our range for adjusted EBITDA to $260 million to $265 million, which is $43 million above our previous range at the midpoint. The increase in adjusted EBITDA guidance also reflects our Q3 outperformance and our increased expectation for the fourth quarter.
+Before we take your questions, I want to take this opportunity to remind all of you of our upcoming Analyst Day on November 12. We look forward to seeing you there.
+With that, we're ready to take questions. Operator, will you please announce the first question.
+Question-and-Answer Session
+
+Operator
+(Operator Instructions) And our first question comes from Douglas Anmuth from JPMorgan. Your line is now open. Please go ahead.
+Douglas Anmuth - JPMorgan
+Thanks for taking the question. Two things, first, can you guys just talk about the experiments that you're doing so far around content organization and when you think about your ability to potentially move away from somewhat reverse [cron] (ph) or give additional choices beyond that, how do you know when is the right time to implement that?
+And then Anthony can you also just comment on the impact and explain a little bit more around the authentication efforts that you mentioned around the international user number? Thanks.
+Anthony Noto
+Sure, Doug on your first question, I think the keyword that you mentioned is experiments. Obviously, Twitter will always be a real time network. That is our number one priority when we think about the user experience.
+But there are time periods when something incredibly relevant to you as a user could have occurred hours ago before you open up the Twitter app and we will see unique opportunities like that to give you content that's incredibly relevant even if it's not based on what happened most recently, but I want to emphasize more than anything else is Twitter will always be a real time network.
+We have been experimenting with a number of different initiatives. One example would be for user repeatedly post a refresh on the mobile app and there is no content delivered to them instead of giving them an [all set] (ph), we're now providing something that we think would be relevant to them and that's just one of the examples where we're trying in that area.
+In terms of the authentication efforts and impact on MAU, over the last two quarters, we've taken a more deep view of what can we attribute to our actions within a quarter through our over net MAU growth.
+And the specific comment I made about the authentication issues in Asia and that region, we saw a negative impact from a higher level authentication standard that we applied, that cause us to lose one to two million monthly active users because of that specific initiative.
+Douglas Anmuth - JPMorgan
+Okay. Thank you.
+Krista Bessinger
+Next question please.
+Operator
+Our next question comes from Paul Vogel from Barclays. Your line is now open. Please go ahead.
+Paul Vogel - Barclays
+Great. Thanks so much. I was wondering if you could just talk a little bit more about your retail initiative on the advertising side as well. So the experimentation on the buy button and the recent acquisition of CardSpring and how those all are going to play out together?
+Dick Costolo
+Thanks Paul, this is Dick. The CardSpring acquisition is definitely related to tying that team together around our ongoing commerce efforts. I wouldnât extrapolate too much from what youâve seen around the Buy Now button that we've launched on Twitter to any sort of forward-looking expectation.
+We're continuing to explore the way we think about in the moment commerce and now commerce and the different kinds of opportunities we see in that area and also to continue to play around with explorations there and look at opportunities in that area, as opposed to thinking about what you're seeing today as what we're launching permanently.
+Paul Vogel - Barclays
+Okay. Thank you.
+Krista Bessinger
+Next question please.
+Operator
+Our next question comes from Ross Sandler from Deutsche Bank. Your line is now open. Please go ahead.
+Ross Sandler - Deutsche Bank
+Thanks guys, just two quick questions. First on the off Twitter users and then a comment on the guidance Anthony. So can you guys just help us understand the behavior of logged off users specifically how often do they come to the Twitter pages on average per month and what percent of these folks are seeing content today versus a registration wall and then can you talk about maybe new products that might increase that level of engagement.
+And then Anthony, you just made the comment that guidance is kind of the guidance going forward and that implies about 80% ad revenue growth in the fourth quarter versus the 110 to 130 we've seen over the last couple of quarters and the comp looks to be about the same.
+So can you talk about where you think ad load is currently and what you -- is that the right way to think about the fourth quarter? Thanks.
+Anthony Noto
+Thanks Ross. First on the logged out users, we havenât provided specific metrics beyond the fact that our total audience consisting of logged in and logged out is 2X to 3X the size of the logged in and that hasnât changed.
+There are -- let me give you a little sense for qualitatively what's going on as opposed to giving you the specific numbers. We do know the specific numbers. We do study this. We're trying to create unique experience. Again each one of the four things I am going to articulate.
+The first used case that a logged out user comes to Twitter is mainly to do a search on one of the major search engines person and that person clicks on hash tag, person's name and then come to Twitter to a profile page.
+That is the one experience that we've actually experiment the most with and enhancing that profile page for the user and I'll share with you in a second on that on what we've seen since that initiative.
+The second experience is when someone does a general search not on a name, it could be on a topic or it could on an area of interest, they would land just on a Tweet Detail page. No other tweets just that one tweet, no advertising, no merchandizing, no collaborative filtering, just literally that one tweet.
+The third experience is when someone comes to our Home Page or Application and hasnât logged in and is looking to probably do a search, but they're looking for what's going on right now, they get nothing. They have to log in and many people do not log in and they bounce off of that page.
+The last experience is when someone sees one of our tweets on one of our syndicated partners like CNN or ESPN and they click on that tweet and come to our Application or our Home Page and that situation again, they'll get minimal content without logging in and so each one of these used cases is unique opportunity for us to create an experience that's immersive.
+It gives the user the value that we have in content in both breadth and depth and brings them into Twitter in a way that they want to come to Twitter and not the way that we historically provided the information or the requirement for them to log in.
+In terms of some stats on the profile pages, we launched the profile page and talked about it last quarter and we're measuring the impacts over that time period and what we've seen is an 83% increase in the number of profile impressions, a 77% increase in profile scrolls of the tweets on that profile page, over a 500% increase in media timeline impressions, over a 200% increase in media timeline scrolls, 11% increase in re-tweets on profiles and a 15% increase on favorites on profiles.
+So this just starts to highlight how we're scratching the surface on giving these individuals unique content that meets their specific need on that specific used case in which they come and we'll continue to experiment with the user base to capture the opportunity.
+And then in terms of the guidance, what I would say is this, our load rates or coverage as we refer to it remains very low. On a year-over-year basis, the bulk of our revenue growth, the majority of revenue growth came from click improvement, also coverage to contribute.
+And what we do believe we've significant upside in the monetization of our user base as we've talked about previously and none of that has changed. The change in the guidance outlook is nothing more than we've been a public company for over a year.
+We've a better understanding of the data that we have in quarter and it's predictability and have historically been there conservative and a highly confident number that we provide to the street and now we're just putting a little bit more of the balance towards the opportunities coming to fruition instead of equally balance between opportunities and risks.
+Ross Sandler - Deutsche Bank
+Great. Thank you.
+Krista Bessinger
+Great. Thanks and so the next question comes from Twitter. It comes from the Twitter account of Rich Greenfield at BTIG and he asks, as you reengage with third party developers, why are you not syndicating ads to TweetDeck, Flipboard etcetera?
+Dick Costolo
+This is Dick. First of all let me just set come context for the comment around reengaging with third party developers. When we announced Fabric last week, our mobile software development platform, that platform is all about providing services to developers, mobile app developers across platforms from the day they start developing their applications to the day they launch those applications and want to measure growth to the day they need to monetize and want to monetize usage at scale.
+When we think about the opportunity afforded by being part of the foundation of the entire mobile app landscape, we know that there are going to be enormous opportunities there. Those of course include helping developer monetize their apps which is why MoPub is such an integral part of the Fabric SDK.
+We will think about and look for opportunities to provide our native advertising units in syndication both to other Twitter based properties like TweetDeck and across the entire mobile application ecosystem.
+Krista Bessinger
+Great, thank you. Operator, next question please?
+Operator
+Our next question comes from Mark Mahaney from RBC Capital Markets. Your line is now open. Please go ahead.
+Mark Mahaney - RBC Capital Markets
+I want to ask about engagement trends and I know that in the past you've maybe had some misgivings or caveat in the views or looks on that timeline views per MAU. Any updated thinking on other metrics that you could disclose in the future that may have a better, give us a better picture on what's happening with the engagement?
+And then secondly, if you just look at engagement trends amongst different cohorts whatever different cohorts you look at do you see anything in there that shows a real gap of opportunity? Did you have a kind of a profile, I mean a cohort in mind that shows dramatically higher than what your average engagement levels are and that's where you're trying to steer the rest of the user base to? Thank you.
+Anthony Noto
+Yeah what I'd say is timeline view per MAU remains our measurement for engagement that we disclosed publicly. We look at a lot of other measurements as well. In terms of the engagement with re-tweets and favorites and those trends all remain positive. What I'd say about timeline view per MAU, we spent a fair amount of time digging into the cohort analysis and in fact relatively encouraging.
+If we look across 14 different cohorts the seven most recent cohorts which would be a cohort that just joined in the second quarter although back in time across 14 quarters, the seven most recent cohorts have lower timeline view per MAU than the seven oldest cohorts. But the trend that they show is they ultimately get to the average of those seven older cohorts. And we're seeing a convergence to that overall number.
+It's just the newer cohorts start out lover and then as they become more familiar with the product, they become more engaged and they actually reach the levels that state that the older seven cohorts have. So it's actually an encouraging sign.
+Dick mentioned that we have an aspirational goal having the largest audience in the world. We obviously do not provide the daily active user measurement. We really do not have specific initiative against that today. As those initiatives change in any or over time we could consider other measurements, but we're not doing that today.
+Mark Mahaney - RBC Capital Markets
+Okay, thank you.
+Krista Bessinger
+Question please?
+Operator
+Our next question comes from Heath Terry from Goldman Sachs. Your line is now open. Please go ahead.
+Heath Terry - Goldman Sachs
+Great thanks. Dick well I know you are focused on continuous improvement. When you think about the impact that your relatively new heads of product and engineering are having on the way that users see Twitter, how close are they to getting to what you would consider a normalized pace of development? And how would you characterize their vision for product and technology compared to what we've seen at Twitter over the past year?
+Dick Costolo
+Well, I would say that again I would go back to some of my initial comments and my remarks that I feel good about the strategy that we have in place and that we have been executing against over the course of the year and the quality of work that I'm seeing against that strategy.
+As I mentioned, it is critical that we increase the pace of execution and you just referenced that. Let me talk about what I mean by that maybe in a little bit more detail.
+When I talk about pace of execution, I'm really talking about faster iteration from hypothesis to prototyping against that hypothesis, to experimenting against that prototype, to launching against that experiment, and the iterating across that cycle.
+It's that kind of clock speed and coordination that I want to see more of from product and engineering working together and that's a combination of both one, as a CEO I think you always want to see those kinds of things and then two, infrastructure capabilities we need to develop to enable the team to move more quickly.
+Heath Terry - Goldman Sachs
+Great, thank you.
+Krista Bessinger
+Thanks. And the next question comes from Twitter, comes from the account of Victor Anthony of Topeka Capital Markets and he asks on the Q2 call you mentioned that there was nothing structural keeping you from monetizing at the same levels as other social networks. Over what timeframe do you see the gap closing and how are you getting there?
+Anthony Noto
+Yeah what I'd say is the overall statement holds true. We see nothing structurally preventing us from reaching the monetization levels of our industry peers and we needed about $10 of average revenue per user and getting to that level or higher. The key drivers from where we are today to getting there, today our load rate remains meaningfully below our industry peers and we have significant upside on absolute basis as well.
+The drivers that will ultimately result in monetization at that level or higher that we've mentioned with first the advertisers, today, we continue to drive nice growth in advertisers and spend per advertiser as we continue to improve the ROI that we provide for them, but importantly continue to offer new product, new advertising products as I mentioned our promoted video ads as well as the improved SMB platform in addition to mobile app downloads and then web based cards.
+These specific formats allow the advertisers pick the specific marketing tactic or initiative they want and better suit their needs, which provides better ROI.
+So as we continue to do that improve the ROI then advertiser will growth meaningfully. And where we are today versus the numbers cited by industry peers is we're at a very, very, very, low level and we have magnitudes of upside there. That would be number one. As that demand increases we'd increase our cover to load factor to meet the demand.
+Additionally, the more information we have and the better dashboards we have will drive continued higher quicker rates and that will result in better ROI. So it's a combination of those factors that allow us to really unlock the monetization opportunity that lies ahead of us. We continue to see nice improvements in the advertisers and the spend per advertiser and that's the bulk of what's driving it today. 
+Krista Bessinger
+Great, thank you. Operator, next question please?
+Operator
+The next question comes from Justin Post from Bank of America Merrill Lynch. Your line is now open, please go ahead.
+Justin Post - Bank of America Merrill Lynch
+Thank you. The first question is on app downloads and video ads, how much did they contribute in 3Q and could those get big enough to kind of stem the rate of revenue deceleration as you look forward? And secondly, maybe a little bit more color on the deceleration in 4Q guidance and is there any FX impact? Thank you.
+Anthony Noto
+Thank you for your question. We're not providing the specific magnitude of revenue from app downloads or video. We're encouraged by both the quantity of revenue we've achieved in both of those products as well as the trend versus prior periods. Obviously the video promoted video is still in beta and we havenât released it for general availability where app download has now been available for a quarter.
+In terms of the FX impact, what I'd say is, it really depends on what your starting point is. If you go back to July 1, versus our guidance today, the magnitude of the impact of FX would be a negative of $5 million. I would just emphasized it depends on what point you pick to have that reference point.
+In terms of the guidance for the fourth quarter, what I'd say is there is nothing inherent in that guidance that deviates from the other drivers of our business that we see and the only comment we have made philosophically is that it is a greater balance towards the opportunities coming to fruition versus an equal balance versus the risks.
+Justin Post - Bank of America Merrill Lynch
+Thank you.
+Krista Bessinger
+Next question please?
+Operator
+The next question comes from Ben Schachter from Macquarie. Your line is now open, please go ahead.
+Ben Schachter - Macquarie Capital
+At a high level just three to five years from now do you expect the majority of the revenue to be driven by the core logged in MAUs or it can be logged out and network users? And then more specifically on the Analyst Day what are the key focus area of the day is going to be and should we expect multiyear financial guidance? Thanks.
+Dick Costolo
+Yeah Ben, there's not a specific answer to your question three to five years from now, but the way I would qualitatively answer it is this, we always have a very large audience and logged out users to one to two acts the size of the monthly active logged in users. And so with a sizeable audience one that we feel confident we can monetize once we know the consumer experience and our approach has been to really now the consumer experience and to have high levels of engagement for introducing advertising.
+Our advertising team, led by Adam Bain are very much in favor of being able to monetize this universe of users because they come with a very specific intent, especially when they are coming from a search engine or do a search on our own properties where they come from embedded tweet on someone else's property.
+We know what their interest is and that's a key element of being able to target the advertising for them. So I think your question may be are they monetizable in our view is yes at the right point they are monetizable, but the exact magnitude differs between one versus the other. We would tell you our goals have the largest daily audience in the world and that will drive the largest value for shareholders.
+In terms of Analyst Day, it's been a year since we went public and I would characterize the vision for Analyst Day in the following way. Our strategy has evolved over the last 12 months. It's a much more aspirational strategy and one that can allow the company to be much larger than just going after a logged in user base.
+And so we wanted to at Analyst Day is lay out the opportunity that sits in front of us the specific strategy that we're using to capture it, where we are relative to that opportunity and what are the key priorities that lie ahead of us so you can track us relative to the opportunity. 
+Krista Bessinger
+Great, thank you. And the next question comes from Twitter. It comes from Daniel Ernst at Hudson Square and he asks would love to know DAU as a percent of MAU on the network on any given day.
+Dick Costolo
+So we get this question on every conference call and what I'd like to clarify is a couple of things. When the question is asked and what you DAU to MAU it depends on what time of the year it is and what portion of the overall user base you are focused on.
+So I want to provide more specificity on this call and then just be very clear that we're not going to continue to update DAU to MAU until we have a specific strategy behind driving this measurement. So if you look at our top-five markets in the second and third quarter because there is seasonality differences, you'll see that in our top-five markets the DAU to MAU ratio is in the low 50% range.
+If you look at our top 10 markets during that same time period, 2Q and 3 Q you'll see that our DAU to MAU is in the high 40s to low 50% range and if you look at our top 20 markets which make up 80% of overall user base you'll see in the second and third quarter that our DAU to MAU is in the high 40% range.
+It is pretty consistent with what we've told in the past, but I want to make it clear that certain markets are above 50% and certain markets are below them depending if they are emerging market or not and also depends on what time of the year you ask the question.
+Krista Bessinger
+Thanks. Next question please operator?
+Operator
+Our next question comes from Eric Sheridan from UBS. Your line is now open, please go ahead.
+Eric Sheridan â UBS
+Thanks for taking the questions, so may be two, one, I wanted to know if we can get a little bit of color on self serve ad products, the countries and regions that have launched it what you've seen to date as those have launched and how that will form your view about going forward with self serve?
+And then Anthony maybe I could take a swing one more time at the Q4 ad revenue. You are implying in the guidance where the comments made on the call that engagement actually gets a little bit better per MOU your timeline per MOU in Q4. So I wanted to dig in on the Q4 ad comment to whether that implies either ad load or price per ad might moderate in Q4? Thanks.
+Anthony Noto
+Thank you. On self serve what I'd tell you is we're very encouraged. We're not going to go through every country that was released in the most recent quarter we mentioned 12 of those and the footprint that it now covers.
+What I would tell you is the number of SMB advertisers that are coming to Twitter using our advertising product accelerated in the quarter and that's a direct result of the adoption of the self serve platform and we're very encouraged by that.
+In terms of Q4 guidance you know what I would say is our guidance reflects a combination of top-down and bottoms up and you're coming out from a bottoms up perspective. The top-down perspective is one driven by what we see already having been accrued in revenue in the quarter what we see in booked revenue and what we see in our pipeline revenue.
+We do not. We're not constrained by supply. So your question implies that there could be some constraint there and what I will tell you is demand is the key driver of our revenue and demand is obviously a function of ROI and advertisers current businesses. And so that's what's reflected in our guidance.
+Eric Sheridan â UBS
+Thanks Anthony.
+Krista Bessinger
+Thanks. Next question please?
+Operator
+Our next question comes from Mark May from City. Your line is now open, please go ahead.
+Mark May - Citigroup
+Thanks, I think most of it has been captured, but just wondering if you could talk a little about how the adoption of self-serve which I think is still kind of early in the process has helped improved coverage or sell through it or whatever you want to call it, and kind of where we are in that process, because we know from other similar businesses the adoption can be quite quick and I just want to get a sense of where we are in the process and how that's been impacting coverage?
+And then a question around content, just wondering what role exclusive or unique content plays in the value that your users get from the service and what if anything that you guys are doing to kind of secure the rights to more exclusive and unique content from celebrities and other brands? Thanks.
+Anthony Noto
+On your first question in terms of self serve and impact on coverage, our self serve business is relatively small compared to our overall business, we're still a predominantly direct sales organization without accounting for the bulk of our revenue. The trends we see in self-serve are very promising, but it is very early days and it is not really having an impact on how much we have in load or coverage.
+Dick Costolo
+The answer to your second question Mark, this is Dick, is that that kind of unique content and I would say unique regional content around the world plays a very important role in the value we can deliver to our users and we have a global media team led by Katie Stanton who focuses specifically on securing that kind of unique content from all sorts of verticals, be it film, TV, music, politics, et cetera.
+Krista Bessinger
+Thank you. Next question please?
+Operator
+Our next question comes from Anthony DiClemente from Nomura. Your line is now open, please go ahead.
+Anthony DiClemente - Nomura Securities
+Thanks. First for Anthony on international, can you just help us with the timing of the international expansion to those 12 additional markets in the quarter in Europe that you talked about in the release?
+And then if I may what proportion of new MAUs in the quarter may have come from those 12 new markets versus the existing? And then for Dick on video you talked about exclusive video content in youâre prepared remarks, on the advertisers side you have promoted video in Beta are in experimentation mode with video at this point or should we start to see Twitter rollout video app products more aggressively from here?
+Anthony Noto
+
+Anthony, on the international comments the rollout over SMB markets internationally didnât have an impact on MAU and I would tell you the initial performance financially from a market thatâs opened into quarter doesnât really have a significant impact on the overall SMB number. I think your MAU question I would answer in the following way.
+Weâve done a number of different initiatives in the third quarter and the second quarter that weâve gone back and have been able to tie the specific results of those initiatives against outcomes.
+And in the third quarter if you think about our MAU growth and the 13 million MAUs that we announced, about 3.3 million of those came from specific actions that we took and contribute their adoptions to the platform from and they would form the categories like discovery notification.
+Which leads you roughly 9.8 million that came from what I would call organic growth, the actual number for organic without the negative impact that I mentioned from the authentication bug would have been an 11.8 but it turns out to be 9 point because of that bug. 
+So we drove 3.3 million net MAU growth sequentially from exclusive actions we took in the categories of discovery notification. And that was a little bit better than what we saw in the second quarter it was 3.1 million. 
+Dick Costolo
+Hey Anthony, this is Dick. Regarding your question about rolling out video products more generally speaking, I would say yes a reference in my opening remarks that we want to focus on communicating through media and delivering both creation and consumption experiences that are more media centric and that applies to both images and video absolutely.
+So you will see us invest in both on the user side of that and in the Amplify side of that, Amplify being our professional video brought into the platform. I guess Iâll leave it to Anthony to comment on the advertising services related to video that we're providing.
+Anthony Noto
+And so today in the video side of the business we have two add products, one is Amplify which we launched last year remains a very important advertising vehicle where we partner with key content owners like the NFL.
+The second part is what we just release in beta which is promoted video which has got an very nice uptick an as you know well mobile obviously is benefiting from the secular advertising trend, additionally social advertising is benefiting from a secular trend and video mobile, social is even better.
+So weâre happy to have a product in this specific segment for our advertisers and so for the adoption has been really positive.
+Anthony DiClemente - Nomura Securities
+Ok, thanks.
+Krista Bessinger
+Thanks and the next question we are going to take from Twitter comes from the account of [Krim Delco] (ph) and he or she asks, are there any events this quarter that are similar to the World Cup last quarter that drove engagement and what did you learn from that?
+Dick Costolo
+Yeah, so the one thing Iâd like to make clear is when we did World Cup last quarter it was an experience that was focused on monthly active users and was not broadly advertised to nonusers and we saw nice engagement with the product, but we didnât see an impact on monthly active users.
+And weâve gone back and looked at the numbers a number of times now that weâre in the second quarter and want you have the same confidence that we have that the World Cup did not have an impact on monthly active users in the second quarter and then Iâll give you a sense for what weâve done in the third quarter as it may have been similar to the World Cup.
+As it relates to the second quarter monthly active users contribute to the World Cup, what we would say is the following; in Europe there was no change in monthly active user growth over the time of the world Cup. In fact monthly active user grow slowed in line with expected seasonality in each successful month of the World Cup.
+In Latin America there was a slight acceleration of net ads on the World Cup, but at most of the World Cup added 600,000 users which is immaterial and quite frankly we probably saw a derogation of those users in the following month before the quarter ended. The U.S. actually added more net ads this quarter than last quarter which is interesting on a sequential basis.
+We added 3.6 million net adds in Q3 versus Q2 and in Q2 we added 2.6 million net ads versus Q1. In terms of what have we done in this quarter, we have currently in the marketplace hashtag NFL and hashtag NFL leveraged the technology that we talked about or will be repeatable on other tailored timelines and other event timelines.
+We pulled together with the hashtag NFL initiative very late in the summer. You will continue to see it improve as it has since the season started. We currently donât have live scores. You can expect that to come over time. We've seen a nice influx of unique content from NFL teams, the NFL league as a whole and then a number of media properties.
+And quite frankly one of the experience is nowhere near what we think it can be over time as we continue to evolve it. The most encouraging thing I've seen is the amount of content that's been created by the NFL and the NFL teams themselves that's going into that timeline.
+I can't remember the last time the NFL actually created content for another third party to use at no cost.
+Krista Bessinger
+Thanks Anthony. Operator next question please.
+Operator
+Our next question comes from Youssef Squali from Cantor Fitzgerald. Your line is now open. Please go ahead. Pardon me Mr. Squali. Please check your mute button.
+Youssef Squali - Cantor Fitzgerald
+Can you hear me?
+Operator
+Yes sir, please go ahead.
+Dick Costolo
+The next question please.
+Operator
+And our next question comes from Brian Wieser from Pivotal Research. Your line is now open. Please go ahead.
+Brian Wieser - Pivotal Research
+Great. Thanks for taking the question. Just refining an earlier question, you mentioned APAC and EMEA performed well, but I was wondering if you could call any particular international markets that stood out for revenue growth, but also for net user additions, I was wondering what you thought roughly user growth was particularly pronounced.
+And separately you mentioned your last Q that I guess it was 8.5% of equity users used publications automatically contacting your servers with the user initiated action as the phrasing goes. I am curious if there is an updated stat for the supporter?
+Dick Costolo
+Yes, on your second question, 11% of our monthly active users come solely to third party clients, so that's just the third party client part of what we disclosed last time and your specific question, third party client and the use that maybe auto-pulling and you emphasized the word maybe, was approximately 8.5%, really there were two things we disclosed.
+The first was MAUs. Registered MAUs coming solely through third party clients was approximately 11.5% and the third party client MAUs that maybe auto-pulling was approximately 8.5%.
+And then in terms of user growth, the user growth is seasonal in different regions. We know that Japan continues to be a very strong contributor to growth and we see growth in many of the other Asia markets as well, but Japan is the largest of the strength in APAC markets, so to give you some more additional detail.
+Brian Wieser - Pivotal Research
+And inside of Europe, are you seeing any particular markets that are outperforming in terms of year-over-year revenue growth?
+Dick Costolo
+We're not going to get into the specific detail, but Europe continues to be a nice contributor overall revenue growth on a quarter-over-quarter basis. It was the second largest contributor to the sequential growth in revenue as a whole and APAC was the largest contributor outside the United States of course.
+Brian Wieser - Pivotal Research
+Okay. Thank you very much.
+Krista Bessinger
+Great. Operator next question please.
+Operator
+Our next question comes from Arvind Bhatia from Sterne Agee. Your line is now open. Please go ahead.
+Arvind Bhatia - Sterne Agee
+Yes, thanks for taking the question. Related mainly to the user growth discussion, I was wondering if you guys when you think about the ratio of logged out to logged on users, if you see any material differences across various geographies?
+And then also in the fourth quarter, are there any events that you would like to call out for the last year that are not repeatable that we should keep in mind? I know you had your IPO for example.
+Dick Costolo
+Yes, thank you for your question. In terms of logged out users versus logged in, on a geographic basis we're not prepared to share any deltas of segmented information at this point in time beyond the overall user size and then obviously the user cases that we have today with them.
+As it relates to our outlook for monthly active users, I gave a couple of piece of information and specific intent around timeline use per MAU and revenue per timeline view and then of course overall revenue. The combination of those three inputs will give you a range of outcomes for our outlook for MAU growth in the fourth quarter and is the best indicator to how to think about it.
+Arvind Bhatia - Sterne Agee
+Okay. Thank you.
+Krista Bessinger
+Great. Operator we'll take the next question please.
+Operator
+Our next question comes from John Blackledge from Cowen & Company. Your line is now open. Please go ahead.
+John Blackledge - Cowen & Company
+Great thanks. Just two questions. On promoted video, could you just talk about who the beta advertisers are and how long you expect it to be in beta? And then Anthony, I think you mentioned the engagement cohort analysis that you did. For the oldest cohorts, what's the trajectory of their engagement? Is it growing flat or down? Thank you.
+Anthony Noto
+On the promoted video, we're not disclosing specific advertisers. Obviously, Twitter is public and so you could spend some time going through your home timeline and see a number of instances in which we have big branded advertisers advertising promoted video tweets on the platform in addition to amplify, which is the other form of video that we have.
+In terms of the oldest cohorts, so we're anniversarying the big changes that we made in media [forward] (ph) last year in the third quarter and that had an impact on last year's fourth quarter. In fact, our timeline views per MAU in the fourth quarter of 2013 were down 10% sequentially. So we actually have a quite easy comp there.
+As you think about the cohorts, the older cohorts even though they're anniversarying those changes are relatively stable and there is a possibility that those cohorts over time will continue to increase, but right now they're still seeing those product changes that make it more efficient for them to find our content quickly as opposed to having spiraled through timeline view after timeline view to get to the score the Giants versus the Royals last night or a conversation that took place around that.
+So they are stable, the cohorts timeline view per MAU are stable, but they're still -- they're still anniversarying some of those changes and without those changes, they could possibly [indiscernible].
+John Blackledge - Cowen & Company
+That's great. If I could ask just one question, can you talk about ad targeting ability of Twitter versus industry peers? I know you gave some other benchmarks for Twitter versus industry peers, how do you view your ad targeting ability. Thank you so much.
+Anthony Noto
+We think we have and Dick has mentioned the interest graph and how it gives is so many signals about an individual of interest and that is very valuable to advertisers, we obviously do ROI now, it's an attribution analysis to compare ourselves versus competitors and we couldnât feel better about the value that we provide to advertisers.
+If you think about it the toughest advertisers that went over are those advertisers the top of the pyramid, the big branded advertisers and we've had great success and have started with the most challenging advertiser and the only way to continue to drive increased spend per advertiser, which we're seeing in our biggest channel the DSO channel still today is by delivering that ROI.
+So I would tell you that's the best way to measure us is the fact that our average revenue per advertiser in DSO is still growing.
+John Blackledge - Cowen & Company
+Thank you.
+Krista Bessinger
+Great. Thanks. And our next question comes from Twitter. It comes from the Twitter account of [Carter Mansbach] (ph) and here she asks are there any plans to monetize Vine?
+Dick Costolo
+Yes, this is Dick. Thanks for the question Carter. I would say that our near term and immediate term focus in Vine are continuing to build beautiful content creation tools or all of the users of that service.
+We have some really world-class content creation capabilities there that are allowing people to create these one of a kind experiences that you can only get on Vine and we want to continue to invest behind that.
+When I talked earlier about broadly speaking investing in communicating through media as a company, that of course applies to Vine and that will be our continued focus for the foreseeable future.
+Krista Bessinger
+Thanks Dick. And I think we have time now for just one just one last question. So operator we'll take our final question please.
+Operator
+Thank you. And our final question comes from Brian Nowak from SIG. Your line is now open. Please go ahead.
+Brian Nowak â Susquehanna Financial Group
+Thanks. I have two please. The first one Anthony you made a lot of changes to improve the user experience and the on-boarding. I was wondering if you could talk about rough user churn rates now or even direct certainly whether they're going up or down?
+And then secondly, on the quarterly MAUs, understanding that they're lumpy and every seasonal, can you just talk to the rough size of the impact of the India elections as well as the [soft] (ph) and news events?
+And then did you see a benefit from the Brazil Presidential election that you -- as well as the U.S. midterm election that you're embedding in the 4Q guidance?
+Anthony Noto
+Thanks Brian. So on the user experience, one of the things you mentioned, new user experience that we launched, I would like to share with you a few stats on the performance that we've seen since we launched the new user experience.
+First, after 30 days after launching we saw the number of new users that allowed us to have access to their contacts increased by 2X, which is an important piece of data that we can use to build a timeline for them and to also drive other engagement factors down the road.
+Additionally we saw 13% increase in those that have started the registration process actually making it to the home timeline and getting the benefit of all the great content we have and then we saw a 200% increase in the number of accounts followed, again an important measurement that ensure that we're delivering value to these new users as they come on Board.
+So in addition to reducing the number of steps it takes to be a new user from 12 steps to approximately six or seven and building our a very strong and robust timeline, we're seeing an improvement in some of the underlying metrics.
+In terms of the funnel dynamics I would say, nothing has really changed significantly on the funnel dynamics and that the changes that we're making will over time improve the funnel dynamics, but we're focused on both the top of the funnel as well as the bottom of the funnel.
+Brian Nowak â Susquehanna Financial Group
+And then on the quarterly MAUs.
+Anthony Noto
+In terms of your specific question as it relates to India and South Korea, it was around 1.2 million users in total.
+Brian Nowak â Susquehanna Financial Group
+And then did you see a bump from Brazil yesterday and are you expecting a bump from the U.S. midterm as you in the fourth quarter and your guidance.
+Anthony Noto
+We don't comment on specific events into the quarter. Use the three variables that I gave you to triangulate to the overall view for the fourth quarter.
+Brian Nowak â Susquehanna Financial Group
+Okay. Great. Thanks.
+Krista Bessinger
+Great. Thanks everyone for joining us. We appreciate your time and we look forward to speaking with you again next quarter. Thank you.
+Operator
+Ladies and gentlemen, thank you for participating in todayâs conference. This does conclude todayâs program. You may all disconnect. Everyone have a great day.

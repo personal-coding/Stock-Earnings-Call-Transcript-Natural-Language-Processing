@@ -1,0 +1,290 @@
+Arista Networks, Inc. (NYSE:ANET) Q4 2017 Earnings Conference Call February 15, 2018 4:30 PM ET
+Executives
+Jayshree Ullal - CEO
+Ita Brennan - CFO
+Marc Taxay - General Counsel
+Chuck Elliott - Director of Business and Investor Development
+Analysts
+Mark Moskowitz - Barclays Capital
+Rod Hall - Goldman Sachs
+Pat Newton - Stifel Nicolaus
+Eric Suppiger - JMP Securities
+Steve Milunovich - UBS
+Alex Henderson - Needham & Company
+James Fish - Piper Jaffrey
+Steve Enders - KeyBanc Capital Markets
+Paul Silverstein - Cowen & Company
+Stanley Kovler - Citigroup
+Simon Leopold - Raymond James
+James Faucette - Morgan Stanley
+Vijay Bhagavath - Deutsche Bank
+Aaron Rakers - Wells Fargo
+George Notter - Jefferies
+James Kisner - Loop Capital Markets
+Jeff Kvaal - Nomura/Instinet
+Hendi Susanto - Gabelli & Company, Inc.
+Tal LIani - Banc of America Merrill Lynch
+Operator
+Welcome to the fourth quarter 2017 Arista Networks Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. [Operator instructions] As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website following this call.
+I will now turn the call over to Mr. Chuck Elliott, Director of Business and Investor Development. Sir, you may begin.
+Chuck Elliott
+Thank you, operator. Good afternoon, everyone and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks' President and Chief Executive Officer; and Ita Brennan, Arista's Chief Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal fourth quarter and year ended December 31, 2017. If you'd like a copy of the release, you can access it online at the company's website. 
+During the course of this conference call, Arista Networks management will make forward-looking statements, including those relating to our financial outlook for the first quarter of the 2018 fiscal year. Industry innovations, our market opportunity and the impact of litigation, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements. These forward statements apply as of today and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that, I will turn the call over to Jayshree.
+Jayshree Ullal
+Thank you, Chuck and welcome back. Thank you everyone for joining us this afternoon on our fourth quarter 2017 earnings call. As you can see, our profitability growth combination was once again demonstrated with our non-GAAP revenue of $467.9 million, while our non-GAAP EPS grew to a record $1.71. Service contributed approximately 13% of revenue. We delivered non-GAAP gross margins of 65.9% due to the favorable cost and lower cloud titan mix. Overall, in 2017, gross margin came in at 64.8%. 
+In terms of customer trends, as of December 31, 2017, we have now acquired over 4,900 customers, with Microsoft becoming 16% of the total revenue for the year. The Q4 2017 international contribution was our strongest to date at 33%, with the Americas contributing 67%. For the full year, the Americas was 73% and the rest of International at 27%. In terms of verticals, in Q4 2017, Enterprise was our number one vertical for the very first time in our public company history. Cloud titans was the second largest vertical because of some 945 legal certifications, where some of the complex use cases testing spilled into Q1 2018. 
+In terms of new products, December 2017, Arista unveiled its next generation of cloud grade routing. Arista EOS version 4.20 with FlexRoute, delivers transformative routing and automation. And with that, we can now address a myriad of peering use cases across cloud, content delivery, and internet exchanges. One such example in cable networks is operators migrating from traditional head end to service rich virtualized access together with our technology partner, Harmonic. 
+Undoubtedly, 2017 has been a significant year for Arista. We increased our employee strength to 1,800, with 45.8% annual sales growth, and $1.646 billion in revenue. For the first time in nearly two decades of stagnant IP, Arista is offering that compelling alternative. Legacy vendors are on the wrong side of this trend, with traditional places in the network. Instead, what Arista is doing is converging pins into an elastic places-in-the-cloud or PICs, with LAN, WAN, layer 2 and layer 3 switching integration. 
+2017 has also been an important inflection year for both our routing and 100 gigabit Ethernet products. I expect robust growth to continue ahead in 2018, together with our entry into 400 gigabit Ethernet next year. We also delivered many powerful software innovations in containerization, data analyzers, and our hybrid any cloud offering with Amazon, Microsoft Google, Oracle and Equinix, to name a few. Coupled with meaningful traction of CloudVision, we see this as an emerging software category for us in a couple of years. 
+As we exit 2017, we have also surpassed a cumulative of a total 15 million cloud networking ports, and are now the number one market share leader in 100 gigabit Ethernet switching. Our focus on the top five verticals will continue this year. We foresee the balance across the verticals to be similar to 2017, where the cloud titans was the number one, followed by service providers, cloud specialty providers and Enterprise tied in a three way for second place, and financials at third place.
+Scaling my leadership team is also an important goal to adapt to all this growth. Many of you may recall that we hired John McCool in 2017 to drive hardware platforms and manufacturing as our Chief Platform Officer. Today, it's my pleasure to warmly and officially welcome Manny Rivelo as our Chief Sales Officer, who joined us this year in January. Manny brings seasoned general management and sales and SE leadership from F5 and Cisco. He comes at the right time for Arista. I have personally known Manny for 25 years and heâs working closely with and for our Chief Customer Officer, Anshul Sadana to formulate international expansion and tailored go to market models for all our verticals.
+What is becoming crystal clear to me is that Arista is in the forefront of the movement to software driven networking, beyond even data center and cloud boundaries. Our ecosystem of customers and partners are united in supporting us in this migration. And I want to give a special kudos and thank you to all my dedicated Arista employees and my leadership team for the systematic, focused and results in the typical Arista way.
+Now, I'll turn it over to Ita for more financial specifics. Ita?
+Ita Brennan
+Thanks, Jayshree and good afternoon. This analysis of our Q4 and full year 2017 results, and our guidance for Q1 2018, is based on non-GAAP and excludes all non-cash stock-based compensation impacts, legal costs associated with the ongoing lawsuits and one-time tax charges associated with the adoption of the Tax Cuts and Jobs Act of 2017. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total revenues in Q4 were $467.9 million, up 42.7% year over year, and above our guidance of $450 million to $464 million. Services revenues represented approximately 13% of revenue, consistent with last quarter. International revenues for the quarter came in at $153.8 million, or 33% of total revenue, up from 27% in the prior period. While some of this shift in geographical mix was driven by the timing of 945 related qualifications with our US customers, we also experienced healthy growth in our international businesses in the period. 
+Overall gross margin in Q4 was 65.9%, up from 64.4% last quarter and above the midpoint of our guidance of 63% to 65%. The solid performance on gross margin for the quarter reflected a more favorable customer mix, with a higher contribution from our enterprise and another verticals, offsetting lower cloud titan revenues.
+Operating expenses for the quarter were $139.3 million, up significantly from $112.9 million last quarter. R&D spending came in at $96 million or 20.5% of revenue, up from $68.6 million in the prior period. This reflected increased NRE spending, combined with continued headcount growth.
+Sales and marketing expense was $33.5 million or 7.2% of revenue, down from $35.5 million last quarter, with reduced demo and sales costs.
+Our operating income for the quarter was $168.9 million or 36.1% of revenue. Other income expense for the quarter was a favorable $2.2 million, and our effective tax rate was 19.8%, reflecting the favorable impact of the increased international revenue mix discussed above. This resulted in net income for the quarter of $137.3 million or 29.4%. 
+Our diluted share number for the quarter was 80.24 million shares, resulting in diluted earnings per share number of $1.71, up 64.3% from the prior year. 
+For those of you focusing on our GAAP results, our GAAP tax rate for the quarter came in at 26.7%. This reflected the favorable impact of significant excess tax benefit on share based awards in the quarter, combined with the favorable geographical mix mentioned above, and offset by the inclusion of $51.8 million of additional tax charges associated with the recently enacted Tax Act. This share related excess tax benefits and the one-time tax charges, have been excluded from the non-GAAP tax rates discussed above.
+Legal expenses associated with the ongoing lawsuits came in at $9.1 million for the quarter, and are also excluded from our non-GAAP results.
+Now turning to the balance sheet. Cash, cash equivalents and investment ended the quarter at approximately $1.5 billion. We generated $183.7 million from in-cash from operations in the December quarter. This reflects strong net income performance, combined with a decrease in supply chain related working capital, and deferred revenue amounts.
+DSOs came in at 49 days, up from 45 days in Q3, reflecting the timing of billings in the quarter. Inventory turns of 1.8 times, up from 1.7 in Q3. Inventory decreases were $306.2 million in the quarter, down from $332.3 million in the prior period. This primarily reflects reductions in raw materials as we continue to optimize our supply chain. In addition, consistent with last quarter, we maintained a further $34 million of inventory deposits recorded and other assets at the end of the quarter. 
+Our total deferred revenue balance was $515.3 million, down from $565.1 million in Q3. Our product deferred revenue balance declined in the quarter due to the expiration of prior period new product and new customer acceptance clauses. The 2017 year end product deferred revenue balance was essentially flat to 2016 levels. 
+Accounts Payable were 30 days, up from 19 days in Q3, reflecting the timing of inventory receipts and payments. 
+Capital expenditures for the quarter were $2.9 million. 
+Now turning to our outlook for the first quarter and beyond. We are pleased with the strong execution underlying our 2017 financial performance, with 46% revenue growth, and 70% growth in earnings per share on a year over year basis. Looking forward to 2018, we are pleased with the - we believe that the demand drivers for the business remain strong, and we are well positioned to benefit from the continuing growth in cloud networking across our customer base. That said, we will face some tough comparables for year over year revenue growth as we move through 2018. And with this in mind, I would reiterate Jayshreeâs comments from last quarter with respect to top line growth moderating to a more typical mid 20s for the year.
+On the gross margin front, we would reiterate our gross margin outlook of 63% to 65%, with customer mix being the key driver of where we operate within this range. This assumes a positive outcome on the remaining legal matters, with no disruption to our supply chain. While we will remain cautious in relation to our spending ramp, we also expect that over time, our operating expense investments will gravitate towards our long term model of 20% R&D, 10% sales and marketing and 3% G&A. 
+We will adopt ASC 606 in the first quarter of 2018. We expect this new guidance will have minimal impact on our operating model. We will re-class a small amount of sales commissions from retained earnings to other assets in the first quarter of 2018. And going forward, our CloudVision deferred revenue amounts, will be reported as contract liabilities on the balance sheet. In addition, following the adoption of the Tax Act in December, we expect our go forward non-GAAP tax rate to range from 19% to 21%, reflecting the lower tax rate on our US business, partially offset by higher US taxes on foreign earnings. This represents our current best estimate of the impact, knowing that elements of the tax legislation are still being refined. 
+With all of this as a backdrop, our guidance for the first quarter, which is based on non-GAAP results, and excludes any non-cash stock based compensation impacts and any legal costs associated with the ongoing lawsuits, is as follows. Revenues of approximately $450 million to $468 million, gross margin of approximately 63% to 65%, operating margin of approximately 32%. Our effective tax rate is expected to be approximately 20%, with diluted shares of approximately $81 million. Please note that based on our current outlook, we expect costs associated with the ongoing lawsuits to be approximately $8 million for the quarter.
+Iâll now turn the call back to Chuck. Chuck?
+Chuck Elliott
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. Due to time constraints, I'd like to request that everyone please limit themselves to a single question.
+Question-and-Answer Session
+Operator
+[Operator instructions]. Your first question comes from the line of Mark Moskowitz from Barclays. Your line is open.
+Mark Moskowitz
+Thank you. Good afternoon. So my question really is around the glide path for 2018 full year revenue growth of the mid 20s. How should investors think about the composition in terms of Enterprise? Will Enterprise still continue to be your top one or two vertical? Or will there be other changes with respect to the main verticals? And then within that, how important is routing to the enterprise as far as adoption? Thank you. 
+Jayshree Ullal
+Thanks, Mark. I did try to say this in my script. We had an unusual bump in Enterprise for Q4. But just to go back on 2017, our number one vertical was cloud titans, and our number two vertical was tied between Enterprise, service provider and cloud specialty providers, and number three was financials. I pretty much expect the same mix in 2018. I can't exactly tell between two, three and four, how theyâll go. They may be different in each quarter, but I fully expect cloud titans to be our number one vertical in 2018. So the mix will remain quite similar. 
+And in terms of routing, routing is really a horizontal across all our verticals. This is a transition as you know that has been going on for two years. I would say there are two forms of routing. Thereâs the heavy duty Flex Routing, which is largely for service providers, for Internet peering use cases. And there's more the layer 2, layer 3 switching, which frankly majority of our customers use. So routing is quickly becoming an option across our entire customer base. But in terms of heavy duty FlexRoute, what we've now seen is we've been steadily increasing our customer base. Weâre well over 200 customers in 2017, and I expect it to continue to be somewhere in the 15% to 20% of our new customer acquisitions.
+Operator
+Your next question comes from Rod Hall from Goldman Sachs. Your line is open.
+Rod Hall
+Yes. Hi guys. Thanks for taking the question. So I wanted to ask you I guess one question in two parts. One is related to 945. Can you just talk a little bit about, is there anything you can do to quantify that for us and also help us understand how 945 might have impacted the guidance. And then could you also talk about AI workloads and what you think your share there is? I know you guys own 25% share on 100 gig, but how are you doing in particularly the cloud titan AI workloads? Are you - do you feel like you have a higher share than what we see in some of the market data? Thank you.
+Jayshree Ullal
+Welcome, Rod to Goldman Sachs. Iâll take the first question and then punt it to my general counsel, Marc Taxay here. In terms of 945, we got some really good news on Valentineâs Day yesterday that Iâll let Marc elaborate on, that pretty much affirms the PTABâs decision to invalidate the 668 patent. But I think the patent you're talking about, the workaround is really the ACL patent, the 577. And we expected most of the testing and certifications, the simple ones to take two to four weeks, and the more complex ones to take 10 weeks. And because we ran into the holiday season, there were a couple of complex use cases that spilled into Q1 2018 that should have - should really impact our Q2, Q3, Q4 2018 revenue more than 2018 Q1 itself. So the certifications did take longer. I'm very comfortable that there's a light at the end of the tunnel in Q1, and most of the cases have been completed, but the complex ones will be completed in Q1. Marc, do you want to add to the legal update?
+Marc Taxay
+Yes, sure. I think first of all, we were very grateful that the federal circuit affirmed the PTABâs decision yesterday to invalidate the 668 patent. So this was a very important step towards the 945 case. The other remaining patents that Jayshree was alluding to, the (indiscernible) patent, that as a reminder is also subject to IPR appeal. We won the IPR on that last year. We do feel good about that as well. But regardless of the outcome on that one, that patent expires on June 30. At this stage, despite the recent federal court decision and the PTAB decision, we still remain subject to the IPC order in the 945. So we continue to sell those redesigns. We will be seeking a suspension of the IPC orders based upon the recent 668 decision, at least with respect to the 668. But in the interim, we continue to sell the redesigns and we continue to move forward with the modification proceeding.
+Jayshree Ullal
+So switching gears to AI workloads, as you know, Andy Bechtolsheim spoke about this at the technology conference. And we see this as a huge long term driver. Itâs still too early to talk about use cases in our cloud titans. Most of them are in experimental stage, but we are working very closely with storage vendors and NVidia and the network is clearly going to require more and more bandwidth. So 00 gigabit Ethernet workloads and in the future 400, will become an important requirement for the vast amount of data crunching and analytics required on AI workloads. 
+Rod Hall
+Thatâs great. Thank you, Jayshree.
+Operator
+Your next question comes from Pat Newton from Stifel. Your line is open.
+Pat Newton
+I guess recent commentary from your competitors is that they're addressing disruption in the routing market with routers architected to deliver cloud scale economics like the PPX or NCS. So do you view these solutions as cost and performance competitive with your R series? And then on the switching side, where competitors state their spine support routing functionality, can you comment on FlexRoute is fundamentally differentiated?
+Jayshree Ullal
+Okay. So first of all, I think like some of my competitors have noted, thereâs a routing transition and an architectural shift going on. I just want to be clear, it's been going on for three years, not one quarter. So legacy and core routers have been migrating to the spine for quite some time, and the Arista 7500R and 7280R has really become the gold standard for universal Leaf and Spine, both switching and routing. When you need that kind of cloud grade routing and performance, a large number of customers just love to go with that, both not just for the performance, but the unmatched availability and programmability. 
+In terms of products that are in the market, there's a lot of routers in the market. Arista is not a rather company. What we're really doing is moving to more and more use cases for routing and really peering use cases, peering across the Internet, across content, across the cloud. And the reality is, our Leaf Spine architecture has given us a real natural entry into that use case, because people have tested and qualified us so that they don't have to have a separate box or a separate functions. So I think the 7500R and 7280R really stand out for being not just great routing, but great switching. And as I said before, theyâre occupying multiple positions and places in the cloud for that. So there's not a like for like comparison. We think itâs truly unique and differentiated and that's reflected in why we've been so well accepted this last year. 
+Pat Newton
+Thank you for taking my question.
+Operator
+Your next question comes from Eric Suppiger with JMP. Your line is open. 
+Eric Suppiger
+Coming back to the 945 case, I thought you had introduced the workarounds in the September quarter. So I'm a little confused on the timing. Can you just walk us through the timing on what's stalling some of the titans?
+Jayshree Ullal
+Yes. So the first time we introduced it was absolutely the month of September. But maturity of the certifications, we did a little bit of it in September, but majority of the certifications were really completed in Q4, and then some of them spilled over to Q1. So September and Q1 was a few. Majority was Q4. Do you want to add anything?
+Eric Suppiger
+And you said in September you had some business that fell out of the September quarter in light of that. Did that business close in the December quarter and these are additional projects on top of that?
+Jayshree Ullal
+Yes, that's exactly correct. Those that we were testing in September, closed in Q4. The ones we couldn't finish were the more complex cases that we were not testing in September. 
+Eric Suppiger
+Okay. And those are going to probably fall into the Q1. Is that correct?
+Jayshree Ullal
+The completion of the testing will absolutely be in Q1. The business may be Q1 or Q2 or Q3 or Q4. We can't say exactly. 
+Eric Suppiger
+All right. Very good. Thank you. 
+Operator
+Your next question comes from Steve Milunovich with UBS. Your line is open.
+Steve Milunovich
+Thank you. You indicated that Microsoft was 16% of revenue, which I think was the same number the previous year. And you're coming into the year, you suggested it would be less. So it sounds like it did better than you expected. Can you talk about why that was the case and what you're looking for in 2018?
+Jayshree Ullal
+Yes. No. I want to give a big shout out to Anshul Sadana, my entire Microsoft engineering team and REs in Seattle. We didn't expect Microsoft spending to be so strong. And although we are still in the early to mid-innings with many of our cloud titans, we really attribute this to two things. One is the success of Microsoft itself and their expansion in Azure. And the second is Aristaâs expansion into a number of use cases. So we find ourselves going into a number of tiers ranging all the way from the Sonic tier, which is their layer zero tier to doing our tiers, one, two, three, four, five. So I think the use cases grew for Arista and grew for Microsoft as well. So it was a win-win.
+Steve Milunovich
+And your expectation for this year?
+Jayshree Ullal
+Well, since I guessed poorly last year, I'm going to refrain from guessing. But I think they'll still be a 10% concentration customer. 
+Steve Milunovich
+Thanks.
+Operator
+Your next question comes from Alex Henderson from Needham. Your line is open.
+Alex Henderson
+My primary question is just on the enterprise side. Can you give us some granularity on some the rate of growth within that and how that splits domestically, internationally? But I was hoping you would give us some guidance on the 2018 tax rate, which I don't think I heard earlier.
+Jayshree Ullal
+Yes. Actually, why donât I let Ita answer the tax rate question while I rummage through some stuff for you, Alex.
+Ita Brennan
+Yes. Alex, we said we think it will range from 19% to 21%, probably with 20% at the midpoint is a good place to start, given everything that we know now about the new rules.
+Alex Henderson
+Great. Thanks.
+Jayshree Ullal
+Okay. So looking at the Enterprise sector, we just had a very strong sector, just like we did in Q3. Another lots of new customer - and it was almost neck to neck with Q3, record number of million dollar customers in both Q3 and Q4. CloudVision is becoming a very important piece of the Enterprise customer purchase. So as you know, this has been something we launched in 2016, but we are now well over 200. In fact our customer count exceeds 250 cumulatively. So I'm going to challenge the team to double that in 2018. And I think a large contribution to that is our Enterprise customers. In terms of international and domestic mix, Mark Foss is helping me here. International is higher. So I would say it's like a 60/40 split in the Enterprise, approximately. And that speaks to also the way our improved stats on international overall from 2016 to â17. Enterprise is clearly contributing there.
+Alex Henderson
+Could you give us any sense of the rough magnitude of the growth rate on that or is that asking too much?
+Jayshree Ullal
+I think I - I don't have the answers, Alex, but probably asking too much as always, but no problem. Thanks for trying. 
+Alex Henderson
+Thanks. Bye-bye.
+Operator
+Your next question comes from James Fish with Piper Jaffrey. Your line is open.
+James Fish
+Great. Thanks for the question. Really appreciate it. I guess first you guys had a very strong free cash flow this quarter. How should we think about free cash flow going forward and the sustainability of these free cash flow margins? And then, any update to the 944 case at this point?
+Ita Brennan
+Yes. So I'll take the cash flow question. I mean our free cash flow is going to pretty much follow our operating - our net income performance, right, and the performance of the business. Thereâs very little CapEx and other adjustments that happen to that. So I think as the business performs, you'll see the free cash flow follow that pretty closely. Thereâs services deferred revenue that will continue to grow. Obviously that generates cash off the balance sheet. But outside of that, it's pretty much well tied to the net income performance. And Marc, if you want to take the other question.
+Marc Taxay
+Sure. So on the 944, there was a remand hearing in January. We believe that went well and we continue to feel upbeat about where we sit in that litigation. The judge is supposed to issue his decision in June, with the final decision by the commission in August, early August.
+James Fish
+Great. Thanks.
+Operator
+Your next question comes from Alex Kurtz with KeyBanc Capital Markets. Your line is open.
+Steve Enders
+Hi guys. This is Steve Enders on for Alex. I was hoping we could maybe get a better understanding of what youâre anticipating from a revenue glide path maybe over the year. How do you expect growth rates to kind of trend there? And also I just wanted to clarify, are you guys expecting a 400 gigabit adoption this year or is that more of a 2019 event? Thanks. 
+Jayshree Ullal
+Ita is going to take the first question.
+Ita Brennan
+Yes. I mean I think, Steve that you've seen the guidance for Q1. So obviously I think the comparables for Q1 have us growing 40% year over year, with the guide - the upper end of the guidance that we just gave you. I think for the rest of the year, we said kind of mid 20s for the total year. I donât know that thereâs any particular linearity to that that we can see at this stage. But thatâs kind of the two bookends, right?
+Jayshree Ullal
+Yes. And on 400 gig, I'll just step back and give you a little bit more of a tutorial. We saw that 10 gig had a very long tail for almost 10 years, and then many vendors jumped into 40 gig as did Arista. But 100 gig we believe first of all, has an extremely long tail, unlike 40 gig. So we think the relevant bandwidth points is really going to be 100 gig for a very long time, with the option to do 10 gig, 25 gigs or 50 gig on the service of storage IO connections. 400 gig is going to be very important in certain use cases, and you can expect Arista is working very hard at it. And we'll be as always first or early to market. The mainstream 400 gig market is going to take multiple years. I believe initial trials will be in 2019, but the mainstream market will be even later. And just because 400 gig comes by the way doesn't mean 100 gig goes away. Theyâre really going to be in tandem. The more we do a 400 gig, the more we will also do 100 gigs. So theyâre really together. It's not either or. 
+Steve Enders
+Great. Thank you. 
+Operator
+Your next question comes from Paul Silverstein with Cowen & Company. Your line is open. 
+Paul Silverstein
+Thanks. Given your response to Alex, I can't wait. Iâm just kidding, Jayshree. So going back to the delay by the - that you referenced last quarter and this quarter with respect to some of your cloud customers in connection with the workaround, can you give us a sense for the magnitude of the revenue that got displaced? I mean clearly from your comments, not all the revenue was displaced, but some of it in connection with the more complex use cases. Any boundaries you can put on that growth?
+Jayshree Ullal
+Yes. So Paul, I want to reiterate for everybody that not competitor displaced our revenue. 
+Paul Silverstein
+No. I don't mean to suggest competitor displacement, Jayshree. I just meant â¦
+Jayshree Ullal
+Okay. So I want to be very clear on that. But it did take longer and it was really as weâre going into some mission critical production sites in these complex use cases that the cloud operators and the cloud titans especially had extra testing in. so I would say, letâs - roughly in terms of percentage, 20% of the use cases were complex and moved out.
+Paul Silverstein
+Can you translate that for us in dollar terms?
+Jayshree Ullal
+No. nice try.
+Paul Silverstein
+If I may, you've been kind of update us periodically on the convertible landscape with respect to cloud in general. So my question to you is, has there been any changes, either in terms of competitive displacement among the web skill folks as well as your specialty as you call them your specialty providers, and either by other competitors or by any meaningful movement to white box solutions? And can you tell us - I think at your Analyst Day and periodically since, you've told us that your hyperscale folks, I think the number was 25% or thereabouts. Can you give us an update on what they were collectively for calendar â17?
+Jayshree Ullal
+We have seen no appreciable change in competitive landscape in our cloud titan or cloud customers. So the answer to all your questions is really in one nutshell, no. we havenât seen any change.
+Paul Silverstein
+And the contribution for â17 from the hyperscale?
+Jayshree Ullal
+It was the number one vertical. The cloud titans was the number one vertical out of our five.
+Paul Silverstein
+Okay. All right. I appreciate it. Thank you. 
+Operator
+Your next question comes from Stanley Kovler with Citi Research, your line is open. 
+Stanley Kovler
+Thanks for taking my question. Just to try on the qualification front one more time. 20% of workloads in clout titan being pushed out. That sounds like about 3% or so of revenue, if that makes sense. But the broader question on the cloud titans was that if you look at the spending of some of your cloud titan customers, some are doubling their CapEx spending. Do you expect to that to drive the international part of your business or will that be in the US? As we look at the business growing mid 20s, just curious how you think about the mix between US and international in that context. Thanks.
+Jayshree Ullal
+Yes. I think thatâs a really good question. So clearly - first of all, Iâve made this point before and Iâd really like to make it again. I know it's easy to put a one to one correlation between the cloud CapEx and the Arista spend. I think it's important not to look at it so precisely because the cloud CapEx has a lot of components to it and the networking is a very small piece. And the second point I want to make is our visibility with our cloud customers, although getting better, is still much stronger for one to two quarters and nothing beyond that. So even though the cloud cap expense for 2018 may be great, we have much more visibility to what might happen in one of two quarters, not the rest - not the whole year. So I think it's really important to understand that.
+Now, the one thing I will say is, one of the things we noticed as a trend in 2017 that we think will continue in 2018 with all the cloud titans, is since they began a lot of their expansion early in the US, a lot of the later expansion will be in international sites. So we expect at least a 50-50, maybe even a higher contribution from international with our cloud titan/
+Stanley Kovler
+Thanks.
+Operator
+Your next question comes from Simon Leopold with Raymond James Your line is open. 
+Simon Leopold
+Just check on something, whether or not your forecast for the first quarter reflects an assumption of some catch up from the titans, or whether that's an event you think is later in the year. And in terms of a big picture question, I wanted to see if you could comment on your thoughts about the pros and cons of Arista participating in the campus switching market. I assume that's something you're not that interested in, but just wanted to understand strategically how you would frame that. Thank you. 
+Jayshree Ullal
+Thanks, Simon. So as you know, our first quarter is usually our toughest quarter. Itâs seasonally slow and our guidance reflects that. It doesn't cooperate cloud titans like it always does. But nothing unusual in that guidance. It's normal and we think any completion of certifications will not have an immediate impact on Q1, but will have a more gradual impact over the rest of the year. In terms of campus, I think one of the phenomenas I'm seeing is, and I tried to say this in my opening script, that the well-defined boxes and places in the network where you have a campus box, a data center box, a branch box, a core box, is really changing. And what our customers are really pushing us to do is look at campus as an extension of the cloud, or look at new drivers in the campus. And so while we have no intentions of participating at this time in any kind of traditional campus markets, we have every intention of disrupting the traditional campus market as currently defined.
+Simon Leopold
+Thank you. 
+Operator
+Your next question comes from James Faucette with Morgan Stanley. Your line is open. 
+James Faucette
+Thank you very much. I just wanted to go back to the international markets, and maybe can you help us understand - theyâre bouncing around a fair amount in terms of contribution right now. Can you help us understand how those - where you think those might end up? And also give us any insight as to which geographies and types of customers you're seeing internationally and how we should think about the evolution of your opportunities outside the US. Thanks. 
+Jayshree Ullal
+Yes. I think I definitely look at the numbers for the year as a better way of looking at it. So if you look at it, we've got - we were at 27% international, which is up from our kind of typical 25% historically. I think that's a better way to think about it than some of the wings on the last couple of quarters, right. So I think we're seeing some good steady progress internationally. That business is growing well, like what I would call the in-region business, even if we carve out some of the cloud titan effects that we just talked about, right? The in-region business is growing well and it's still relatively small so you can see it be lumpy between APAC and Europe. But both are actually, if you look at it over time, growing at a faster rate than the US.
+James Faucette
+Thank you very much.
+Operator
+Your next question comes from Vijay Bhagavath with Deutsche Bank. Your line is open.
+Vijay Bhagavath
+Good afternoon, Jayshree, Ita. I would like to get like a state of state from you in the sense of international and also telcos here in the US. At least our view is that's kind of your next phase of growth. So give us a state of state on how business is proceeding, how it sails. Any really interesting projects you could share with us in the international markets and also at the telcos. Thanks.
+Jayshree Ullal
+Sure. I think in international, we are doing very well in several countries. And in general, I would tell you we're acquiring customers faster internationally than we are in the US. I think 60% of our customer acquisition in 2017 was international. So the projects are many and the size of deal is smaller, just to put it bluntly, right? In terms of service providers, switching gears though, those are not small deals by any means and we view service providers in the midst of a transformation where their traditional traffic engineering is going to start looking more and more like cloud networks and resemble what we're doing with Ethernet and IP and Leaf and Spine. 
+But these Leaf Spine cloud architectures are now permeating the service providers. Weâre starting to see some big RFPs and we've experienced some wins in 2017. I think 2018 will be an important year. Ken Kiser, Jonathan and the entire team, is really working hard on this worldwide with Manny. And what we really see is that deterministic performance weâre getting out of Lease Spine is going to transform the SP networks for many of the peering use cases. And this is a tremendous layer 2 and layer 3 opportunity for us. So we expect to see service provider contribute better in 2018 than 2017.
+Vijay Bhagavath
+Okay. Thanks, Jayshree.
+Operator
+Your next question comes from Aaron Rakers with Wells Fargo. Your line is open.
+Aaron Rakers
+Thanks for taking the question. A lot of questions already been answered, but - or asked and answered. But I want to go kind of back to the guidance and kind of how you're thinking about the flow through effect of deferred revenue as we progress through 2018. I can appreciate that you've communicated that you would have expected deferred revenue to decline here going forward. It looks like short term deferred was down 20 some odd percent sequentially. So I'm just curious of how we should think about that relative to the revenue expectations over the next couple of quarters. 
+Jayshree Ullal
+Yes. I mean I think now that kind of the deferred balance, the product deferred balance is back in line with what we've seen historically and itâs pretty much consistent with where we were at this time last year. Weâre not going to try to honestly guide the movements in the product deferred going forward. Weâve kind of worked through the acceptances, et cetera, that we had with the - associated with the R theories that have caused it to move around so much. But I think weâre through that now and itâs just back to a normal kind of deferred level. So I'm not sure that we're going to fork out that as we go forward.
+Aaron Rakers
+Okay. Thank you very much.
+Operator
+Your next question comes from George Notter with Jefferies. Your line is open.
+George Notter
+Hi. Thanks very much. I guess I just wanted to follow up on that last question. So was the step down in deferred sequentially? Was that consistent with what you guys were looking for coming into the quarter? And then also I assume that all of that R Series product revenue is largely out of the deferred number now. Is that correct?
+Jayshree Ullal
+Yes. I mean I think pretty much in line with what we were expecting coming in. a lot of it - a lot of whatâs left in the deferred revenue balance at this stage, a portion of that is going to be 945 qualification related, and then some other stuff. But kind of the concentration of R Series new product type stuff that was there during the year, thatâs definitely been processed at this point. 
+George Notter
+Okay, thanks very much.
+Operator
+Your next question comes from James Kisner with Loop Capital Markets. Your line is open.
+James Kisner
+Thank you for the question. Just going back to your comment, I understand your comment on tough comps in 2018. I just wonder if you could talk about whether you see any gating factors to your growth in 2018, whether it be external or internal, availability of optics, availability of silicon. CapEx, youâve been stretched and constraints and conversely, perhaps can you talk about any major screen factors that could lead to upside to your 25% growth forecast in 2018, and whether you would have any constraints to address potential upside opportunities. Thanks.
+Jayshree Ullal
+James, welcome to your first Arista call. No, we don't see anything major. Weâve done a good job of planning and forecasting our inventory and from a supply chain perspective, there's been a lot of work that's gone on. With our top customers, we have a great deal of intimacy on the forecast and they let us know even before they book orders sometimes what kind of demand they expect. Of course it can change dramatically. But we feel good about the projects ahead and the opportunity ahead, and we're putting all the right plans in place for it. 
+James Kisner
+I guess a clarification there. I mean I'm looking at the growth and Iâm looking at reports in optics for example in 2018, and obviously theyâre going to be up a lot more than 25. And Iâm just kind of wondering if it's perhaps because switches are offloaded in advance of the optics. And obviously youâre not all 100 gig, but there seems like quite a gap in the difference in volumes. Maybe you clarify that a little bit. Thank you. 
+Jayshree Ullal
+So the layer one optics decisions aren't always made in conjunction with Aristaâs switching and routing. Sometimes theyâre together and sometimes they're entirely separate, like data center interconnect decisions. So you won't see a one to one correlation. Thatâs - secondly, sometimes youâll only see a one to one correlation in our applications because they may already have acquired the optics from another vendor, or they may have failed. So that's one area where you really canât correlate a lot between the routers and the accessories.
+James Kisner
+Okay. Thank you.
+Operator
+Your next question comes from Jeff Kvaal from Nomura/Instinet. Your line is open.
+Jeff Kvaal
+Thank you very much. I wanted to ask about the mid 20% outlook for 2018. Starting from the 40%-ish number in the March quarter, that seems like an awfully sharp deceleration. I get it that we're not in the same 100G migration you don't have the buildup of 3500 to work with, but why might the market - why might you have written it so down that much? I mean CapEx is going up quite dramatically as was previously noted. 
+Jayshree Ullal
+Yes. I mean, Jeff, I think if you look at the comparables for last year, I mean we really saw the spike in growth kind of the 50% plus kind of growth rate happened in the middle of the year, right? So I think Q1 is starting off at a slightly different base, right? And again this is our outlook as we sit here today. We haven't kind of looked at all of the information that we have. We feel good about that. Itâs a good, solid outlook for next year and then weâll see where we go from there. 
+Jeff Kvaal
+Okay. So maybe it would be fair to say that you don't have the visibility beyond mid-year with some of the biggest accounts. So which is normal, so therefore take a pretty cautious view of how things might proceed beyond the window of visibility. 
+Jayshree Ullal
+Yes. I mean it's really hard to plan out the linearity a year out, right? I think - let me go back to - if you asked Ita and me whether we'd have 50% growth increases in 2017, we certainly didn't forecast it. It came upon us suddenly because the cloud titans suddenly had a use case and application. So when we look at the overall year and when we look at how to plan the year, just like we did in 2017, we think a growth rate in the 20s to 30s with an average of 25% is a very, very good growth rate. Itâs not cautious. Itâs realistic, and if something really good happens beyond that, that's great. Or something really bad happens, we'll let you know. Hope is not a strategy. This is our best effort at predicting what that growth would be. 
+Jeff Kvaal
+Yes. I didnât catch the 50% growth either, property growth. Okay, thank you very much.
+Operator
+Your next question comes from Hendi Susanto from Gabelli. Your line is open.
+Hendi Susanto
+Good evening, Jayshree and Ita. Good results as you finish 2017. Arista cash has grown to $1.5 billion and it generated strong free cash flow of over $600 million in 2017. How should investors think about the use of cash in the future?
+Jayshree Ullal
+Yes. I mean I think at this stage, Hendi, we're still in the mode of growing and investing in the business. So I think we look at that as something that will continue to generate and use for the business. Beyond that, we're not opposed to looking at some capital allocation stuff later on just philosophically. But itâs too early, right? Weâre still - weâre sort of relatively early stage, high growth company. So we think about that as cash that weâll hold for the business in the near term.
+Hendi Susanto
+Thank you.
+Jayshree Ullal
+And I think you're going to continue to invest where we've always been strong in execution, which is our R&D and our go to market and systems engineers and sales and marketing. So weâll certainly put it to good use. And you saw us spending a lot more than you probably forecasted in Q4. 
+Hendi Susanto
+Got it. Thanks, Jayshree and Ita.
+Operator
+Your next question comes from Tal LIani with Banc of America Merrill Lynch. Your line is open.
+Tal LIani
+Hi. Just a clarification on deferred. Whatâs driving deferred down? Is it timing of revenue recognition following announcements of features, or maybe following approvals of the workaround? Iâm trying to understand if there is - there are two trends here. On one hand, you get the orders in an orderly manner, and on the other hand, there is like odd fluctuation because of timing of certain things. So if it's not it, if you can just explain what are the puts and takes in the differed revenues. Thanks.
+Jayshree Ullal
+I mean there's probably two factors, right? One is we're closing out on features, et cetera, that we needed to deliver and on acceptances that we had in contract. The R Series is over a year and in the market now. So weâre seeing a lot of those close out. So weâre not generating as much deferred revenue because of that. I think secondly, we were still qualifying some of these designer rounds in the fourth quarter and that did affect the linearity of invoicing and stuff. I think the underlying business is solid. Itâs more the timing of shipments billing and how itâs long to the deferred. 
+Tal LIani
+So going forward, do you expect the deferred - I think you said normal level, but what I'm trying to understand is, going forward you would expect the deferred to go more in line with bookings kind of with the orders you're getting? If the orders go up and you can recognize, it goes up and vice versa? Or do you still have these backlog of things that need to be recognized because of timing of features and approvals?
+Jayshree Ullal
+Yes. No. I think it's more the deferred - product deferred revenue was never a topic of conversation prior to 2017. It was very much a factor of the new product features and new customers that we were engaging with in â17. Actually, under the new accounting rules, under 606, even a similar transition to that would not drive the same amount of deferred revenue going forward in the future. That guidance is very much geared towards an earlier recognition of revenue. So I think as we go forward, deferred revenue will be much less of a topic from a product perspective, and hence youâll see the services deferred revenue continue to grow.
+Tal LIani
+Thank you.
+Chuck Elliott
+This concludes the Arista Q4 2017 earnings call. I also want to mention that we've posted a presentation which provides additional information on our fiscal results, which you can access on the investor section of our website. Thank you to everyone for joining us today.
+Jayshree Ullal
+Thank you everyone. 
+Operator
+Thank you for joining, ladies and gentlemen. This concludes today's call. You may now disconnect.

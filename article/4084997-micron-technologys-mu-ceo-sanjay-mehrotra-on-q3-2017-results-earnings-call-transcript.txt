@@ -1,0 +1,314 @@
+Micron Technology Inc. (NASDAQ:MU) Q3 2017 Results Earnings Conference Call June 29, 2017 4:30 PM ET
+Executives
+Shanye Hudson - Investor Relations
+Sanjay Mehrotra - President and CEO
+Ernest Maddock - CFO
+Analysts
+Harlan Sur - JPMorgan
+Wayne Low - Citi
+Mark Delaney - Goldman Sachs
+David Wong - Wells Fargo
+Kevin Cassidy - Stifel
+Srini Pajjuri - Macquarie
+Romit Shah - Nomura Instinet
+Blayne Curtis - Barclays
+Joe Moore - MS
+John Pitzer - Credit Suisse
+Jagadish Iyer - Summit Redstone
+C.J. Muse - Evercore
+Operator
+Good afternoon. My name is Karen, and I'll be your conference facilitator today. At this time, I would like to welcome everyone to Micron Technology's Third Quarter 2017 Financial Release Conference Call. All lines have been placed on mute to prevent any background noise. After the speakersâ remarks there will be a question-and-answer period. [Operator Instructions] Thank you.
+It is now my pleasure to turn the floor over to your host, Shanye Hudson. You may begin the conference.
+Shanye Hudson
+Thank you, Karen. And welcome to Micron Technology's third fiscal quarter 2017 financial conference call. On the call with me today are Sanjay Mehrotra, President and CEO; and Ernie Maddock, Chief Financial Officer. This conference call, including audio and slides, is also being webcast from our Investor Relations website at investors.micron.com.
+In addition, our website contains the earnings press release, which was filed a short while ago, and supplemental information including a reconciliation of GAAP to non-GAAP financial measures, slides for today's conference call and a convertible debt and capped call dilution table. The prepared remarks from today's call will also be added to our website later today.
+Today's call will be approximately 60 minutes in length. A webcast replay will be available on our website for a year. We encourage you to monitor our website at micron.com thought the quarter for the most current information on the company, including information on the various financial conferences that we'll be attending. You can also follow us on Twitter, @MicronTech.
+As a reminder, the matters we will be discussing today include forward-looking statements based on the environment as we currently see it. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from the statements being made today. We refer you to the documents that the company files with the SEC, specifically our most recent Form 10-K and Form 10-Q for a complete discussion of these important risk factors and other risks that may affect our future results.
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or other achievements. We're under no duty to update any of the forward-looking statements after todayâs date to conform these statements to actual results.
+With that, Iâll turn the call over to you Sanjay.
+Sanjay Mehrotra
+Thank you, Shanye. Good afternoon, everyone. I'm pleased to be speaking with you for my first Micron quarterly earnings call and I'm particularly fortunate to be joining at a time when we are able to report record revenues and non-GAAP EPS. These results reflect healthy industry fundamentals, the strength of Micron's diversified technology and product portfolio and our broad customer reach.
+Micron also continues to make progress in improving its technology and product competitiveness. The current industry dynamic and the growing strategic importance of Micron's technologies and capabilities make this an exciting time to join the company. The unprecedented amount of data being created, stored and processed presents tremendous opportunities for Micron.
+Applications like autonomous driving, machine learning and big data analytics all promise to make an enormous impact on our lives. Memory and flash storage are the critical and increasingly strategic elements in every one of these applications.
+Market-leading companies from a broad array of industries who provide data center services, automotive applications and mobile solutions, just to name a few, are eager to partner with innovative companies like Micron that can provide leading-edge technology and systems solutions.
+Micron is uniquely positioned with the right technologies and capabilities to take a leadership position, and I'm delighted to have the opportunity to help the company maximize this potential.
+I will now share some details from each of our business units, followed by technology and operational highlights for the quarter. Finally, I'll share our perspective on current industry supply and demand dynamics.
+We had record revenues in all business units this quarter, nearly doubling our company level year-over-year revenue performance. In the Compute and Networking Business Unit, all segments posted significant gains from year ago levels.
+Revenue from cloud customers was more than four times higher year-over-year. And we saw increased enterprise demand as analytics workloads are driving more use of in-memory databases and higher server memory content.
+We continue to build upon our strong position in graphics and high performance memory technology, with shipments of our 12 gigabits per second GDDR5X, the industry's fastest discrete DRAM, which we successfully ramped to high volume during the quarter. Most CNBU revenue came from 20-nanometer DRAM products, and we also recognized initial revenue on our next generation 1X DDR4 products.
+Looking forward, we believe that we are well positioned to effectively serve both our traditional OEM customer base, as well as evolving opportunities around tailored solutions for large data center customers.
+Our Mobile Business Unit revenue increased slightly quarter-over-quarter with significant margin expansion, driven by lower costs associated with the continued shift to 20-nanometer LPD RAM and a favorable pricing environment. We expect increased demand ahead of anticipated flagship smartphone introductions planned for the fall.
+Requirements for multi-camera systems, augmented reality applications and high-resolution displays now dictate 4 and 6-gigabyte LPDRAM densities for a great user experience. This demand aligns well with our 20-nanometer and 1X offerings where we plan to introduce nearly 20 new 1X package-on-package variation in the next 12 months.
+We are focused on developing and diversifying our MCP and discrete NAND device offerings, which will position us to well to address the full range of smartphones, from basic entry level smartphones to content rich high-end devices.
+Many mobile OEM customers prefer MCPs in their design implementation to address their memory and storage requirements, as MCPs provide a single source for DRAM memory and NAND storage, simplifying system design, validation and supply chain considerations.
+We continue to sample our 32-layer MLC and TLC 3D NAND MCP, discrete UFS and e.MMC devices to both chipset partners and handset OEMs.
+Revenue shipments of these products will begin later in the second half of this calendar year following completion of qualifications by customers.
+Our Embedded Business Unit recorded a 44% increase in revenue year-over-year, driven by strong demand growth across all segments and a better pricing environment. We achieved record quarterly revenue for each of the automotive, consumer and connected home and industrial segments. We saw continued strength in automotive, DRAM and e.MMC NAND with the infotainment and instrument cluster applications driving this record level.
+We continue to maintain our strong market share leadership position in automotive, enabled by our focus on a high quality and deep customer relationships and support. Industrial and consumer connected home revenues were led by increased shipments into rapidly growing applications, such as voice-activated home assistance and set-top boxes.
+We continue to transition our non-automotive DRAM portfolio onto 20-nanometer designs. Our Storage Business Unit delivered record revenues as sales of our SSD products grew 33% quarter-over-quarter. Sales to cloud and enterprise SSD customers grew appreciably on a combined basis and exceeded revenue from client customers for the first time.
+The most significant growth came from our cloud customers, where revenue doubled quarter-over-quarter. Our SSD sales in the quarter were driven primarily by our SATA SSD solutions using our 32-layer TLC 3D NAND.
+During the quarter, we had first revenue shipments of our 8-terabyte SSD enterprise class SSD, which is an industry first. Several new OEM and hyperscale customer qualifications are underway for our SATA drives, and in calendar year 2018, we plan to introduce NVMe PCIe offerings using our 64-layer TLC 3D NAND.
+On the manufacturing operations front, we continue to make good progress toward achieving meaningful output by the end of our fiscal year on both our 64-layer 3D NAND and our 1X DRAM.
+Both of these technologies have already begun revenue shipments and are advancing well in their production yield ramp. We also continue to execute our plans to outfit our assembly operations as part of our DRAM center of excellence in Taiwan.
+These DRAM center, in addition to our NAND center of excellence in Singapore, will be essential to our ongoing efforts to optimize costs and improve our flexibility and speed to meet customer needs.
+On the technology front, we continue to make solid progress on the development of our third-generation 3D NAND and our next-generation 1y DRAM technologies. Our third-generation 3D NAND will continue to be based on our innovative CMOS-under-the-array architecture.
+This architecture, pioneered by Micron, provides the benefits of smaller die size and lower cost. We expect our 1y DRAM to further improve our competitive position in the industry.
+Looking at the industry broadly, Micron continues to see a healthy supply and demand environment that creates opportunities across both memory and storage markets.
+For calendar 2017, we expect DRAM industry bit supply growth of between 15% and 20%, slightly below our view of demand growth. For NAND, we expect 2017 industry supply growth in the high 30% to low 40% range, constraining what would otherwise be higher demand.
+We expect healthy industry demand to persist into 2018, supported by continued strong growth in both DRAM and NAND demand, reflecting broader trends in the data center and mobile markets, as well as increased adoption of SSDs across enterprise, cloud and client PCs.
+Finally, after my first two months at Micron, I would like to share some of my priorities. Our execution and competitiveness are my primary focus, particularly accelerating the ramp of new technologies into volume production and introducing new products quickly, both of which are essential to delivering innovative solutions at lower cost and strengthening Micron's business fundamentals.
+Micron has a tremendous portfolio of technologies and core capabilities. Our goal is to leverage these to provide high-value products and solutions that improve our revenue mix. We will target high growth opportunities and seek out partnerships with leading companies in the ecosystem to position Micron for long-term success.
+We are off to a good start. Our execution and the current business climate are creating more flexibility, which we are leveraging to solidify our foundation through technology, product and manufacturing investments, while also strengthening our balance sheet. I believe that through focus and solid execution, Micron can capitalize on the world's increasing reliance on memory and storage solutions.
+Iâll now turn it over to Ernie, who will walk through the specifics of our financial performance this quarter.
+Ernest Maddock
+Thank you, Sanjay. We had a strong quarter with record revenue, non-GAAP EPS and operating cash flow, driven by the continued positive industry environment, additional bit growth from our current technologies and progress on deploying our next-generation technologies into manufacturing.
+I will provide an overview of the fiscal Q3 results by technology and business unit, followed by comments on our overall corporate financial performance and guidance for F 'Q4.
+DRAM represented 64% of our total revenue with the following segmentation: Mobile was in the mid 20% range. PC was in the low 20% range, down from the prior quarter. Server represented approximately 30%, up from 25% the prior quarter, and specialty DRAM, which includes networking, graphics, automotive and other embedded technologies, was in the mid 20% range.
+Our trade NAND revenue represented 31% of total revenue with the following segmentation. Consumer, which consists primarily of component sales to partners and customers, was approximately 40%. Mobile, which includes managed NAND discrete solutions and the majority of our MCPs, was in the mid-teens percent range. SSDs were in the mid 20% range, up slightly from last quarter, and automotive, industrial and other embedded applications were in the high-teens percent range.
+Turning to performance by business unit. The Compute & Networking Business Unit reported fiscal Q3 revenue of $2.4 billion, up 25% sequentially due to increased bit shipments, ongoing success in penetrating growing segments like enterprise, graphics and high-performance memory and cloud and a stronger pricing environment.
+Non-GAAP operating income was $1.2 billion or 51% of revenue, up from 38% to prior quarter. 20-nanometer products were greater than half of CNBU revenue and were shipped primarily in the enterprise, cloud and client segments.
+Revenue growth in the enterprise segment was driven by the continued expansion of DRAM content per server. And in the cloud space, we experienced good sequential bit growth. Both segments also benefited from the current pricing environment. We saw ongoing growth of our 20-nanometer DDR4 products with particular strength coming from the latest industry server platforms.
+In networking, we saw shipment and revenue growth bolstered by the continued transition to 20-nanometer, 4-gigabit DDR3 and 8-gigabit DDR4 products. We also continue to see strong interest in our high-performance memory portfolio. This strength was primarily evident in data center networking equipment.
+Double-digit client revenue growth was driven by a continued firm pricing environment and product mix optimization, resulting in modestly declining bit shipments. Our 1X nanometer revenue was predominantly in this segment.
+Graphics also saw double-digit revenue growth, driven by strength in the game console market, as well as new PC graphics card product launches, including the G5X-based Titan Xp from NVIDIA.
+The Mobile Business Unit delivered fiscal Q3 revenue of $1.1 billion, up 4% sequentially, driven primarily by a stronger pricing environment and our non-GAAP operating income was $304 million or 27% of revenue, up from 16% to prior quarter.
+The embedded business unit delivered fiscal Q3 revenue of $700 million, up 19% sequentially. Non-GAAP operating income was $256 million or 37% of revenue, up from 33% the prior quarter.
+The results were driven by strong bit demand and increased average selling prices of DRAM, combined with record shipments of SLC and MLC NAND in the consumer and connected home segments and record shipments of DRAM and eMMC NAND into the industrial and automotive segments respectively.
+The Storage Business Unit delivered fiscal Q3 revenue of $1.3 billion, up 26% sequentially. Non-GAAP operating income was $276 million or 21% of revenue, up from 7% the prior quarter. The results were primarily driven by strong unit growth of SSDs and a stronger pricing environment.
+Moving to overall company results. Revenue for the third fiscal quarter was $5.6 billion, up 20% sequentially and driven by primarily stronger DRAM ASPs and higher NAND bit volumes.
+On a year-over-year basis, revenue increased 92%, primarily due to a stronger DRAM pricing environment, increased bit volumes in both DRAM and NAND and our focus on higher value-add solutions to improve our product mix.
+Examples of this improved mix includes SSDs where year-on-year revenue tripled, while in DRAM bits embedded in high-value solution for enterprise, cloud and graphics customers, together grew at a rate twice our overall DRAM bit output for the same period.
+Non-GAAP gross margin for the quarter was 48%, up from 38.5% in the prior quarter, driven by increased DRAM ASPs and cost per bit reductions in both DRAM and NAND.
+On a year-over-year basis, non-GAAP gross margin increased 30 percentage points, driven by a stronger DRAM pricing environment, a better product mix and lower cost per bit in both DRAM and NAND. Non-GAAP net income was $1.9 billion or $1.62 per share.
+Turning to results by product line. DRAM revenue increased 20% compared to the prior quarter as a result of a 5% increase in bit shipments and a 14% increase in ASPs.
+DRAM non-GAAP gross margins for the third quarter increased 10 percentage points sequentially to 54%, driven by a 6% cost per bit reduction and better product mix. As a reminder, we noted last quarter that second half fiscal year 2017 DRAM bit output would be about 10% higher than first half fiscal year 2017.
+As we look forward into fiscal 2018, the timing of the 1x technology transition is expected to result in our bit growth at or slightly below industry growth rates over the same period. We consider this bit growth pattern when we provided our 2 year bit growth CAGR earlier this year.
+Trade NAND revenue increased 21% compared to the prior year quarter, reflecting a 17% increase in bit shipments and a 3% increase in ASPs. Non-GAAP gross margin was 41%, up 10 percentage points, driven by a 12% cost per bit reduction and better product mix.
+As a reminder, we noted last quarter that second half fiscal year 2017 bit growth would be about 30% above first half fiscal year 2017. Based on the timing of technology transitions, we foresee relatively muted bit growth in the first half of fiscal 2018 follow by stronger growth in the second half. Consistent with DRAM, we considered this bit growth pattern when we provided our 2 year bit growth CAGRs earlier in the year.
+Non-GAAP operating expenses for the quarter were $600 million, down $12 million from the prior year quarter. The company generated operating cash flow of $2.4 billion in fiscal Q3 compared to $389 million in the year ago period.
+During the quarter, we deployed $1.3 billion for capital expenditures, net of partner contributions and free cash flow for the quarter was $1.1 billion as we retired approximately $1 billion of debt via a tender offer for certain of our high-yield notes. We currently expect fiscal year 2017 free cash flow of approximately $3 billion and continue to prioritize the deployment of our cash flow toward advancing our production technology capabilities and reducing our debt.
+For fiscal year 2017, we are trending to the upper end of our indicated net CapEx range of $4.8 billion to $5.2 billion. We will provide a fiscal year 2018 CapEx perspective later this year.
+We ended the third quarter with cash, marketable investments and restricted cash of approximately $4.9 billion. Our guidance for fiscal Q4 is informed by our view of sustained, healthy supply and demand dynamics, our ongoing work around cost reduction and the improvement of our product mix.
+On a non-GAAP basis, we expect the following, revenue in the range of $5.7 billion to $6.1 billion, gross margin in the range of 47% to 51%, operating expenses between $575 million and $625 million, and operating income ranging between $2.2 billion and $2.4 billion. EPS will range between $1.73 and $1.87 per share, based on 1,179 billion [ph] diluted shares.
+At our Analyst Day in February, we outlined how our production technology execution and the results in bit growth and cost reductions have enabled us to significantly strengthen our cash flow and financial performance in any market conditions.
+We've been reporting our incremental progress each quarter. However, I wanted to share the tremendous progress we've made over the 12-month period ending in fiscal Q3.
+During that time, our bit output has been above industry average for both DRAM and trade NAND and our cost per bit has declined approximately 25% and 30% in those technologies respectively.
+In addition, we continue to improve our competitiveness by successfully delivering solutions to deliver higher value-add opportunities. Our ability to deliver these results has enhanced our energy and excitement to make further progress, and we look forward to sharing that with you.
+With that, I will turn it back to Sanjay.
+Sanjay Mehrotra
+Thank you, Ernie. Last week we announced that Sumit Sadana joined Micron as Executive Vice President and Chief Business Officer, a role that unites our four business units and our strategy and business development team into a single organization. This structure will better equip us to align our product strategies to market trends and customer demands. 
+Sumit brings nearly three decades of industry experience. He is a proven leader in driving strategy and building businesses with the focus on high-value profitable growth. Sumit has a successful track record at multiple large technology companies, and his perspective and expertise make him an ideal fit for Micron.
+Earlier this week, we also announced that Jeff VerHeul joined Micron as Senior Vice President of Non-Volatile Engineering. Jeff has extensive experience in leading the development of advanced semiconductor products, including flash system-level solutions.
+I look forward to Jeff's contributions in advancing Micron's roadmap of flash memory technology and value-added products. We welcome both Sumit and Jeff to Micron.
+Finally, I would like to extend gratitude to my predecessor, Mark Durcan. His dedication and leadership has positioned Micron well for this next chapter of success. As I have toured Micronâs facilities and met with leaders and teams throughout the company and have begun to engage with some of our customers.
+I have been impressed by the strength of our technologies, scale, customer reach and innovative hard working spirit of our global team. My experience since joining Micron has reinforced what I have known for a long time. This company has tremendous potential and can become one of the world's most successful semiconductor companies. I'm proud to be part of this iconic company.
+We will now open for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from the line of Harlan Sur with JPMorgan.
+Harlan Sur
+Good afternoon. Thank you for taking my question and congratulations on the solid quarterly execution. Sanjay, welcome to the team. First question is for you. At the time that SanDisk was acquired by Western Digital, SanDisk had a number two position in the global SSD markets, strong number three position in enterprise SSD, I think you were growing that business about 15% to 20% year-over-year.
+If I look at the most recent market share stats, you know, Micron is sitting at about a number 5 market share position in both total SSD and enterprise SSD market share. So in what areas does the Micron team really have to focus on in order to drive leadership position in SSD, especially enterprise, is it systems capability, firmware, controller, OEM and cloud relationships and more importantly, what are you going to do to start to enable this?
+Sanjay Mehrotra
+Well, Micron team actually has over already been, as we said in our remarks, working on driving high-value solutions mix to greater levels in its portfolio. The company has made strong progress over a couple of quarters in client SSDs, as well as enterprise and cloud SSDs.
+And if you look at some of the market share numbers you will see that the market share over last couple of quarters has increased meaningfully. The market shares in enterprise, cloud stands at sub-10% levels and in client markets for SSDs, the market share is in high single digits at this point.
+So, all this definitely points to a much greater opportunity for the company in the times ahead. And key things that we had to focus on, this is absolutely an area of my priority here, is to increase the mix of system-level solutions in the NAND portfolio of the company. Things that have been going well, continue to build on them but expand, diversify our capabilities, our product portfolio and deepen our customer engagement.
+The thing that's really, really powerful for Micron here is that Micron has strong position in DRAM as well as NAND. And basically on the continent, this is the only company that has these strong capabilities. Therefore, customers are very much engaged with us in helping us drive the strength in the system level solutions on the NAND side.
+In the areas where we have to focus on, to answer your question further are certainly continue to strengthen our controller capabilities, as well as firmware capabilities. Today, some of them â most of them are based on external controllers and we have a roadmap of both, external and internal controllers going ahead. So, these will be an important area of focus for the company going forward.
+Harlan Sur
+Great. Thank you. And then, Ernie, for you on the gross margin front, you know, solid job over the team - by the team over the past few quarters. Going forward, you're looking for about another 100 basis points of improvements. The demand environment is shaping up to be stronger second half over first half. Supply outlook still seems pretty disciplined, and the team is doing a great job on driving the cost curves.
+So it seems like your gross margin expansion should be greater than the implied 100 basis points you're guiding to. Are there any mix-related impacts in Q4 which is holding back the margin profile?
+Ernie Maddock
+I don't think so. I think it's a function of pattern of our bit growth over the course of this year. So while we will continue to enjoy cost reduction in the final quarter of this fiscal year, it's going to be likely a bit of a slower rate than we've experienced for the first part of the year. And also as we look at the pricing environment, you know, we continue to view supply and demand in a favorable way.
+But bear in mind, we've now have had several consecutive quarters of nice quarter-over-quarter step-ups. And it isn't always advisable to bank on continued aggressive quarter-on-quarter pricing increases as you think about the business.
+Harlan Sur
+Thank you.
+Operator
+Thank you. And our next question comes from the line of Chris Danely from Citi.
+Wayne Low
+Hello. This is Wayne Low in for Chris Danely. Thanks for taking my question and congratulations on the quarter. Can you talk about any changes you are seeing in the server demand trends, is it possible that we'll see allocation or lead time expansion in this market?
+Sanjay Mehrotra
+The server demand definitely continues to be strong for DRAM. If you look at the growth for DRAM content combined with the unit server increases, the growth - bit growth rate that we are looking at for the industry is about 40% on a year-over-year basis. So this is really high-value segment of the market.
+And certainly as we know, that industry in 2017 is experiencing overall tightness on the DRAM side, driven primarily by the strong growth on markets such as server, as well as other markets like mobile continuing to be very strong, where the average capacities of DRAM content is increasing, you know, given all the features that the phones are implementing, and even markets like automobile where DRAM content continues to increase nicely.
+So the demand trends are being driven by multiple markets. Certainly server is the highest growth trend in the marketplace today. And that's all for the DRAM side of the business.
+Wayne Low
+Okay. Can I ask you just for a little bit more color on what you are seeing on as far as handset demand trends? What has the impact been from the China inventory correction? And also what do you anticipate the impact would be of high-end SKUs of flagship phones being delayed?
+Sanjay Mehrotra
+So I think when you look at the content of DRAMs in the mobile market, it really continues to increase nicely going in value smartphones from about a little over gigabyte per phone to about doubling by 2018 timeframe, so continued strong growth in terms of average capacity.
+And the same trend is certainly happening on the high end phones too, where you are starting to see 4- and 6-gigabyte DRAM content. And certainly on the multi-chip packages also, we are seeing high DRAM content, as well as high-NAND content being driven in the mobile phone market.
+So overall when you look at year-over-year trends in 2017, as well as when you look at the trajectory in 2018, mobile does continue to be a strong market. Certainly, there can be periods where there can be some inventory adjustments in certain parts of the market, but important thing to focus on is really the long-term trend.
+And that trend, due to all the features that are being implemented, even in the entry-level smartphones and certainly on the high-end smartphones are tending to drive higher average content and demand growth for DRAM, as well as for NAND.
+Wayne Low
+Thank you very much.
+Operator
+Thank you. And our next question comes from the line of Mark Delaney from Goldman Sachs.
+Mark Delaney
+Yes. Good afternoon. Thanks very much for taking the questions. First question is on DRAM ASPs. On the last earnings call the company commented about how some of the contracts that have been in place for a while - haven't caught up with the substantial increase in spot pricing.
+And I'm wondering to what extent you expect a similar dynamic to play out as you think about the August quarter?
+Ernie Maddock
+I think as I have mentioned in my earlier remark, we are still seeing some adjustments upward in certain segments of the market, certainly in terms of both frequency and magnitude. Those were a little less than we've experienced in the prior few quarters, Mark.
+Mark Delaney
+Okay. That's helpful. And then for follow-up question, the NAND gross margins expanded very significantly and the company did very well on the cost per bit reduction, down 12% quarter-on-quarter. I know, Ernie, you said we shouldn't expect cost reductions to come every quarter at those sorts of rates.
+But it seems like the company is on track to exceed the 20% to 25% cost target that have guided for the NAND business for this year. And I just wondered to what extend you think you have the ability to exceed that prior guidance, given how much you've already accomplished or is there maybe other factors like mix that we need to keep in mind for the August quarter on the NAND business on cost?
+Ernie Maddock
+Yes, I think it's important to remember that, that cost reduction was a 2 year CAGR. And certainly you'd expect with the kind of bit growth that we've experienced in our fiscal â17, that you would be at the upper end or above the upper end of that range. And if you go back and look at our fiscal â16, we were below.
+So it's important to blend those two years together, but the answer would get you to fairly significant cost reductions this year, commensurate with the type of bit growth that we've spoken of.
+Mark Delaney
+Understood. Thanks very much.
+Operator
+Thank you. And our next question comes from the line of David Wong with Wells Fargo.
+David Wong
+Thanks very much. Can you give us a bit more detail on 3D NAND, the third generation versus the second generation? You've somewhat answered this in terms of the cost. But just looking specifically at third and second generation, how much cost savings do you get, reduction in cost per bit and does third generation have more layers or a narrower line width or both?
+Sanjay Mehrotra
+So regarding the third generation, we will provide you more details as we get closer to production of that technology, obviously for competitive reasons.
+David Wong
+Okay, fine. Thanks.
+Operator
+Thank you. And our next question comes from the line of Kevin Cassidy with Stifel.
+Kevin Cassidy
+Thanks for taking my question. And congratulations on the great results. Can you say what's happening with your contract periods? It used to be PC DRAMs were negotiated every two weeks. I'm sure that customers are asking for extensions on those contracts. Can you just say in general what's your average contract time now?
+Ernie Maddock
+So there hasn't been a significant change during this period of time. Typically as you noted, PC DRAM contracts are the shortest, you know, we would actually say maybe a little longer than 2 weeks, but certainly roughly in the realm of a month or so. And then the other technologies tend to go up from there. But we haven't seen any material change in the duration as a result of the current market environment.
+Although, there may be some requests for that, it's typically not something that gets changed very much over the course of the cycle.
+Kevin Cassidy
+Okay. Great. And maybe just if you can give us your views adding more DRAM wafer capacity, what would stimulate that or what would be your decision to ever add wafer capacity on DRAM?
+Sanjay Mehrotra
+Our focus in DRAM is to continue to advance our technology and to ramp the new technology nodes into production as rapidly as we can, keeping in mind our customer requirements and there of course qualification of products built using those technologies. And weâre always keeping an eye on overall demand and supply balance and our own demand and supply balance as well. So basically prudent focus on supply growth management.
+But the primary focus, the one that provides highest return on investments is around technology transitions and that's where really all our priorities will be.
+In terms of any new capacity, I mean we would certainly have to first make sure that we have captured the maximum potential of our technology transition capability in manufacturing. And then weâll have to certainly see that there is sustained projection of sustained demand growth in the years ahead before we consider adding new capacity.
+Kevin Cassidy
+Okay. Great. Thank you.
+Operator
+Thank you. And our next question comes from the line of Srini Pajjuri with Macquarie.
+Srini Pajjuri
+Thank you. Hi, guys. A question on the PC segment, Ernie, I think you said PC's down. I just want to make sure it's not down in absolute terms. It doesn't look like it, I just want to make sure.
+And then if can you comment on what sort of demand trends you are seeing in the PC and also the pricing trends last quarter?
+Ernest Maddock
+Sure. So Sanjay may team up for this. But relative to the gigs shift or volume shift into the PC segment, as we said in our prepared remarks, we did have a slight decline in unit volume. It wasn't very significant at all, but that was part of our plan to address higher value-added markets. I don't think it was reflective of a decreased demand environment in any way, shape or form.
+We don't typically comment on the going forward pricing environment, other than the general statement that we see fairly good balance between supply and demand. And we're going to continue to monitor that segment quite carefully from a bit growth perspective.
+I think we're thinking that that segment would somewhere be in the range of plus low to mid-single digits in aggregate for us in fiscal '17 and I think that that addresses the three points you raised but if not, please let us know.
+Srini Pajjuri
+Yeah. That's great. That's helpful. And then in terms of the cash usage, Ernie, I think in the past, you said it's mostly your top priority is to pay off the debt or at least reduce the debt load, and obviously, a very strong free cash flow here.
+And then, given Sanjay's comments about the enterprise SSD focus, et cetera, Iâm just focus as to if and where M&A might come in, if I kind of take a longer-term view here? Thank you.
+Ernest Maddock
+In terms of driving our growth ahead, of course, we have several tools available to us. Our technology and product capabilities, our engagement with customers and our ability on the manufacturing side in terms of implementing the new technologies into production.
+We would never rule out any M&A, if and when appropriate, we would absolutely consider it, but it would have to be something that does provide ROI. So we just want to make sure that we focus on our priorities. And our priorities at this point are to strengthen our strategy and product execution and increasing the mix of high-value solutions in our portfolio mix, while engaging with customers on defining the future generation architectures.
+So again, I don't rule out any M&A, but it of course always has to be considered in the context of what value it brings and what ROI it brings.
+Srini Pajjuri
+Great. Thank you.
+Operator
+Thank you. And our next question comes from the line of Romit Shah of Nomura Instinet.
+Romit Shah
+Yeah. Thank you. Ernie, just on OpEx it's been coming in lower than anticipated, I think for a few quarters and in light of kind of your new product strategies and the upcoming fiscal year, can you give us just an advice on how to think about OpEx?
+Ernest Maddock
+We've mentioned earlier in the year that one of the biggest variables in terms of the quarterly level of OpEx is something we call pre-qual expense. So as we are going through the process of qualifying either new packages or new technologies for customers those carry with them significant expenses.
+When we went into this fiscal year, we suggested that they would be more heavily weighted toward the front part of the first year and you've seen that play out here as our operating expenses have flattened out. As we look forward, we're considering OpEx as part of our fiscal year 2018 planning process and we're not quite through that.
+So I think we'll be in a position to share a little bit more color on that with you on the next call. But we are, as always, very mindful of operating expenses and operating expense progression. So we're taking a very close look at that.
+Romit Shah
+Okay. Great. Thanks. And then, Sanjay, when the announcement was made that you were joining, I think, some of us, at least the initial reaction was that, yeah, there's a lot of potential to improve the mix within NAND.
+So sort of seeing consumer at 40% of the business, SSDs kind of in the mid-20s, where do you think you can take the mix of business within NAND and how long would it take for you to get it to where you want?
+Sanjay Mehrotra
+So at this point, we're not prepared to really lay out mix targets for the future. But I can certainly tell you that indeed there is great opportunity over time to strengthen the mix of the managed NAND solutions, that means SSDs, as well as in the mobile space, things like eMMC, UFS and MCP.
+And again, I would like to point out that there is a large part of mobile market, which demands MCP, and Micron is very well-positioned with this mix of DRAM and flash. So we will definitely focus on bringing up solution, more MCP solutions using our eMMC and UFS capabilities in the future.
+I would like to point out that these kind of transitions do take a period of time. Micron is, I would say, still in the early days of implementing this transition. Over extended period of time we definitely will be driving the mix. But it really has excessive focus of the entire leadership team here. And with the hire of Jeff VerHeul, we have certainly double down in this area in terms of focusing further on system level solutions for NAND.
+Romit Shah
+Thank you.
+Operator
+Thank you. And our nextâ¦
+Sanjay Mehrotra
+As you know, I will also just add that in terms of the components side of things, that includes some of the sales that the company makes to Intel, which as you know is our partner in terms of development, so that's part of that component mix that you were talking about as well.
+Operator
+Thank you. Our next question comes from the line of Blayne Curtis with Barclays.
+Blayne Curtis
+Thanks for taking my question. Ernie, I just wanted to go back to a prior answer you had. When you look obviously, I feel bad asking, your cash flow obviously has grown hugely in the last couple of quarters. I mean, if you look at this the cash in the next fiscal year, it wasn't that long ago people were asking how you're going to pay for CapEx and now your flush [ph] with cash.
+So just kind of curious your thought process, you pulled in a little in terms of transitions, but itâs only $200 million, just kind of you weight those options in terms of faster transitions, capacity adds, buybacks, as well as the debt retirement, which you did this quarter?
+Ernest Maddock
+Sure. So consistent with one of the earlier answers, we are in the middle of our planning process for fiscal â18 and certainly as we look at some of the priorities of the company, they have always been highly centered around continuing to drive our costs down.
+So, despite the fact that we have been, to some degree, mindful of in the context of the cash flow of the company in the past, weâre going to continue to do the right thing and be prudent and disciplined in that regard. We have ample opportunity to reduce the debt profile of the company. So I appreciate your thinking we're flush with cash. We're still not as flush as I would like to be. So that's going to continue to be a priority of â about generating that free cash flow, as well as reducing the debt.
+So consistent with our prepared remarks, those are the two things we're focused on. And you will continue to see us be very thoughtful in how we pursue both of those here as we enter our fiscal year 2018.
+Blayne Curtis
+Excellent. And I just want follow-up on the computing strength in terms of next platform from Intel has more, maybe talk about that as demand driver, and did that contribute, did you see anything in terms of the build ahead of that launch, which is more second half of this calendar year?
+Ernest Maddock
+We certainly do think that that will, as it gets launched it will be driving greater demand, certainly for bits, yes.
+Blayne Curtis
+Is that more â did you see any contribution yet or is it something that would be more next fiscal year?
+Ernest Maddock
+I would expect it to be increasing over time.
+Blayne Curtis
+Okay. Thanks.
+Operator
+And our next question comes from the line of Joe Moore with MS.
+Joe Moore
+Great. Thank you. Just following on the last question, in terms of CapEx trajectory, you've talked about a long-term number that sort of â it will be centered around 30% of sales, I believe.
+And I'm just curious, Sanjay, maybe changing some of the priorities and things like that, is that still the, without getting into the â18 plan that's not done yet, is that still the ballpark we should be thinking about long-term?
+Ernest Maddock
+I think it's important to remember that was a long-term target, and that there are years where we've been below, there are other years where we've been above. And so I don't know that relative to a long-term target that we would be prepared to be making any changes at this point.
+But by the same token - and if we do, certainly as we did earlier last year, will share that with you. But at present time that target remains the same. Bear in mind that it is a long-term target.
+Sanjay Mehrotra
+And I would agree with Ernie that the long-term target here is definitely I think very appropriately placed.
+Joe Moore
+Okay. Thanks for that. And then the growth that you saw in your compute and networking when you talked about quadrupling year-on-year in cloud, I guess, that number surprise me a little bit. And how much of that do you think is sort of Micron improving penetration versus things like memory content going up, just help us understand how that number's so good year-on-year? Thank you.
+Sanjay Mehrotra
+I think it's obviously a combination of both that we've been saying for some time, Joe, that this is a priority of the company to really become stronger in segments where we have the opportunity to develop deeper relationships, offer higher value add, more sustained customer relationships and I think we've done a great job at executing on that strategy.
+So while there is absolutely benefit from prizing, absolutely, we enjoyed the same benefit that others did. From the average content increase, I think we enjoyed a disproportional benefit by executing on our strategy, addressing these markets in ways that allow us to get deeper penetration.
+Joe Moore
+Great. Thanks very much.
+Operator
+Thank you. And our next question comes from the line of John Pitzer with Credit Suisse.
+John Pitzer
+Yeah. Good afternoon, guys. Thanks for letting me ask the questions. Sanjay, my first question is when you think about sort of the consensus view on long-term NAND demand it's fairly bullish, which makes sense given the SSD story.
+But when you think about the long-term view of DRAM demand, I think it's less sanguine. I think the view is sort of PC units start really growing, handset units probably not growing all that much.
+I'm just kind of curious though, when you think about these applications like data analytics, AI, maybe level four, level five autonomous driving, is there a bottoms-up argument to have a more bullish long-term view on DRAM demand?
+And Iâd be kind of curious because the consensus is sort of 15% to 20%, might be the long-term big growth, which would be well below sort of the historic level. I'd love to get your view, and if it's greater than 15% to 20%, is that something that's going to require more than just technology transitions to support?
+Sanjay Mehrotra
+Certainly, we have, I believe, strong opportunities in technology transition to meet the future growth expectations. As I said in a response to an earlier question as well that we definitely will have to be exploiting that fully before we would ever consider any capacity additions.
+And you are certainly right, that the demand drivers certainly are the DI, the machine learning with so much data being generated and all of that data require to be processed fast to provide â its great experience for consumers, as well as bring great value to businesses to enable and unleash the application.
+This is all the AI in the technology space. It's just extremely early days and extremely dynamic and definitely memory and storage will become, I believe, a key enabler for the capabilities that AI technology would be able to enable in multitude of applications, whether it is autonomous driving or it is cloud computing in variety of applications here.
+So, yes, I mean, the demand outlook here certainly is very interesting, but again, we just do not want to be getting ahead of ourselves. I think it is important that we stay focused on continuing to drive the business with focus on prudent supply growth here.
+John Pitzer
+That's helpful. And then Ernie, as my follow-up, I know you don't want give us quarter-by-quarter mix targets. But I'm kind of curious, as you sort of exit the back half of this fiscal year where you're outgrowing industry bits in both NAND in DRAM, and you move into next year where you'll be under growing.
+Could you help us just kind of frame, is there enough sort of mix up opportunity during the first half â18 where even though you might be losing some bit share, you might not be losing sort of profit share in the industry? How do we think about where you are on that mix optimization curve?
+Ernest Maddock
+Well, I think as we noted, we are making progress every single quarter with penetrating higher value-added solutions. And we would expect, if we are successful in continuing to execute on that, that we would be in a position to have greater revenue from those segments which may, depending on the pricing environment, to some degree mitigate a little bit the bit growth profile.
+But bear in min, John, that we talked about our bit growth in context of an industry that we were estimating. But we also used the words at or slightly below, not materially below. So I do think it's important to keep that in mind.
+And on the NAND front, we just simply said we would have a little slower growth in the first half of the year versus the second half of the year. I wouldn't expect that we were going to be dramatically different or so underperforming the industry that it would disadvantage the company.
+John Pitzer
+Helpful. Thanks, Ernie.
+Operator
+Thank you. And our next question comes from the line of Jagadish Iyer with Summit Redstone.
+Jagadish Iyer
+Yes. Thanks for taking my question. Two questions, Ernie and Sanjay. First, if you go from 20-nanometer to 18-nanometer in the case of DRAM and as well as 32 to 64 layer in case of 3D NAND, we just want to understand, what kind of cost reduction should we be thinking about and how was the trajectory as we look to calendar â18? And then I have a follow up.
+Sanjay Mehrotra
+So as you look through calendar 2018, we will certainly be continuing to ramp our 1x DRAM technology as well as our 64 layer technology during the course of that timeframe. We are still in early stages. As we said, we'll be achieving meaningful output of both 1x, as well as 64 layers this quarter here. But we continue to be ramping it during the course of next several quarters.
+In terms of the bit growth, 20-nanometer provided something like, let's say, 40%, slightly greater than that in terms of bit growth compared to the prior node and gave us a cost reduction of more than 20%. And then we look at 1x compared to 20-nanometer, that's also in that same range, although 1x gives us somewhat greater cost reduction than 20-nanometer node give us over the prior 25-nanometer node.
+And when we go from to 32-layer compared to the planer NAND that we had - here we had at Micron, the last edition of planar NAND, 32-layer gave us bit growth in volume die of about 100% or so and gave us a cost reduction of greater than â in the range of maybe sub-30%.
+And going from 32-layer to 64-layer bits gained is also about 100% and cost reduction going from 32-layer to 64 layer is also. At mature yields, comparing mature yields to mature yield and high volume wafer product to high volume product,
+32 layer to 64 layer will also give us about a 30% cost reduction.
+So a Micron has been really well positioned in NAND with the 32-layer technology, which has given it meaningful cost reduction over our last planar node and 64-layer continues that trend ahead as well.
+Ernest Maddock
+And Jagadish just add to that, I would refer you back to some of the 2 year cost reduction CAGR we've provided at our Analyst Day, which gives you a view of fiscal â17 and â18 together. So that might be helpful to you as well as you think about that.
+Jagadish Iyer
+Okay. That's very helpful. And finally, I just want to understand your thoughts on the DRAM channel inventory level at this point of time? Thank you.
+Ernest Maddock
+We think that the channel inventories are well within the range that we would considered to be normal. Certainly, they have improved from a quantity point of view over the first part of this year when they were extremely, extremely short. But in aggregate, I think that - we think that channel inventory levels are still within healthy ranges.
+Sanjay Mehrotra
+And I just want to add a comment to my response before to you, your question was very specific in terms of cost reductions between technology nodes on high-volume products essentially. And that - those numbers should not be confused with year-over-year cost reductions.
+Because year-over-year cost reductions on the overall blend of the business are very much a function of the technology mix that is in production. And as I indicated, these technologies will be gradually ramping up for us in production over the course of next several quarters, while the older technologies will still continue to be in production to meet our overall diversified customer requirements for diversified mix of technology and product and solutions.
+Jagadish Iyer
+Thanks so much for that. Thank you.
+Operator
+Thank you. And we have time for one more question. Our final question for today comes from the line of C.J. Muse with Evercore. Please go ahead.
+C.J. Muse
+Yeah. Good afternoon. Thanks for squeezing me in. I guess first question. Could you share your initial thoughts on what your outlook is for DRAM supply for the industry in calendar '18? And as part of that for 1x, when do you expect to reach a crossover point?
+Ernest Maddock
+You know C.J., we think the industry for calendar '18 could be slightly higher than the range of growth in calendar '17 which is 15% to 20%. So maybe add a couple of percentage points to either end of the range.
+And we haven't shared yet bit crossover for 1x. We've said we have meaningful output by end of fiscal year. We're clearly on track to do that and we'll provide more perspective on that as we more fully describe our 2018 plans.
+C.J. Muse
+That's helpful. And then I guess a quick follow-up on CapEx, you said you are going to spend towards the higher end of the range, so roughly 300 plus give or take million. Is that more DRAM or NAND, can you share what that spending is and is that translating to more bits or does it relate to rising capital intensity?
+Ernest Maddock
+So just to make sure we're on the same page, we have given a range this year of $4.8 billion to $5.2 billion. And we said we were trending toward that $5.2 billion range. So it's just a couple of hundred million dollars.
+And I would say that really there is no specific area that I would point you toward. It's just doing what we need to do to make sure we are well set up here as we exit the end of the fiscal year.
+C.J. Muse
+Very helpful. Thank you.
+Operator
+Thank you. This concludes today's Micron Technology's third quarter 2017 financial release conference call. You may now disconnect.

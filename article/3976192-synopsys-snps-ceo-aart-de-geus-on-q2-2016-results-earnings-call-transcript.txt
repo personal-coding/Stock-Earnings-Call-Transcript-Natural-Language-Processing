@@ -1,0 +1,261 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q2 2016 Earnings Conference Call May 18, 2016 5:00 PM ET
+Executives
+Lisa Ewbank - VP, IR
+Aart de Geus - Chairman and Co-CEO
+Trac Pham - CFO
+Analysts
+Rich Valera - Needham & Company
+Tom Diffely - D.A. Davidson
+Krish Sankar - Bank of America-Merrill Lynch
+Sterling Auty - JPMorgan
+Jay Vleeschhouwer - Griffin Securities
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the Synopsys Earnings Conference Call for the Second Quarter of Fiscal Year 2016. At this time, all participants are in listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] Todayâs call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, todayâs call is being recorded.
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thank you, Paul. Good afternoon, everyone. With us today are Aart de Geus, Chairman and Co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts and targets and will make other forward-looking statements regarding the company and its financial results.
+While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+In addition to any risks that we highlight during this call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release.
+The reconciliation of the non-GAAP financial measures discussed on the call to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, earnings press release, and financial supplement that we released earlier today.
+All of these items plus the most recent investor presentation are available on our website at www.synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+With that, I'll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon. I'm happy to report that our second quarter results were strong, and further solidify our outlook for the full year. We delivered revenue of $605 million and non-GAAP earnings per share of $0.81. We completed our $200 million accelerated share buyback; and we are raising our annual revenue and operating cash flow targets, as well as the midpoint of EPS guidance. Trac will discuss these in more detail shortly.
+Before reporting on our products, let me briefly comment on the landscape around us. We serve three types of customers: semiconductor companies, system houses, and, as of the last two years, software developers in multiple industries.
+When looking at the semiconductor industry, both maturation and rejuvenation are readily apparent as the industry is gearing up for the age of Smart Everything. By linking IoT cloud connectivity with big data analysis and digital intelligence, companies are readying for the next wave of impact.
+To get there, customers are both restructuring their business and accelerating investments in advanced technology nodes capable of dealing with the performance and low power requirements of Smart Everything computation.
+While the semi consolidations of the last 18 months are working their way through the system, Synopsys has executed well. In some cases, weâve even been able to broaden our business and position of trust with consolidating customers, contributing to our strong results. Simultaneously, our chip design tools are enabling a generation of Silicon that is amazingly, measured in single-digit nanometers.
+Reviewing the system houses, we see an equally intense drive towards leveraging the coming opportunities of 5G mobile networks, cloud-based data mining, virtual and augmented reality, and digital intelligence applications.
+While system houses rely on the semiconductor industry or on their internal semi teams for the chips, their value and differentiation is amplified at the intersection of chips and software.
+One only has to look at the progress made in automated driving to realize that a whole new innovation age is not only technically possible, but is now on the threshold of becoming economically viable.
+In other words, the race is on, and readying software in the context of the silicon hardware is on the critical path to market. Here too, Synopsys is both well-placed, and our hardware/software Verification Continuum is changing the game for system houses under time-to-market pressure and slowed by software readiness, which brings me to our third set of customers: software developers.
+The advances I just mentioned are triggering a whole new wave of applications in every industry segment, including financial institutions, medical, industrial, energy, and so on. Software complexity is increasing considerably and with it, quality lapses and security vulnerabilities are growing to untenable levels.
+Here as well, Synopsys expects to play a major enablement role. In the last 24 months, weâve assembled a great set of quality and security technologies, and this year weâre delivering the first Software Sign-Off platform aimed at code quality and security certification.
+So, while semiconductors and electronics are going through a transition with both churn and flat growth, weâre in a promising position to continue delivering on short-term expectations while balancing investments towards long-term growth. We accomplish this by first and foremost, being absolutely committed to our customersâ success via both technology and engineering support.
+Second, aligning our products on where the technology is going; third, balancing our short-term and long-term focus to ensure sustainable success; and finally, by executing, executing, and executing.
+Let me now provide some highlights from the quarter, beginning with our semiconductor customers. No matter what the economic state of the industry, the push towards bringing smaller, faster, low-power chips to market sooner is unabated.
+FinFET technology continues to advance towards still higher density and lower power. Our FinFET-proven flow, beginning with the earliest TCAD models, all the way to mask synthesis and yield optimization, is leading the way.
+Customers are clearly counting on us. Of the more than 300 FinFET designs either in progress or completed thus far, 95% rely on Synopsys digital tools. Our fastest-ramping product ever, IC Compiler II, continues its rapid adoption. This quarter alone, we added 32 new active customers.
+And design tape-outs increased by a third, now totaling over 60. The benefits of the new architecture are steadily rolling out, with the latest release delivering even better quality of results for performance-critical designs.
+These improvements, coupled with excellent turnaround time, led HiSilicon/Huawei and Movidius to standardize on IC Compiler II for their next-generation SoCs. In March, NVIDIA, HiSilicon, Socionext and Qualcomm spoke about their successes with IC Compiler II at a standing-room only Silicon Valley User Group luncheon.
+Toshiba selected IC Compiler II for performance-critical designs across its groups, expanding its use and making it the predominant place & route flow at Toshiba for internal and external designs.
+On the analog-mixed-signal side, weâve introduced a brand new product: Custom Compiler. The result of several years of development and integration of best-in-class technologies, Custom Compiler accelerates a number of tedious tasks from weeks to days.
+While custom design is very manual and does not automate the same way that digital design does, Synopsys has pioneered a novel set of interactive assistance techniques with great productivity impact.
+Custom Compiler is tuned for leading FinFET designs, and TSMC has already certified the product for its advanced 10 and 7 nanometer technologies. Rolled out in March, it has immediately generated enthusiasm and engagements in a field thatâs been stagnant for over a decade.
+ST Microelectronics has already deployed the product, and both GSI Technology and Asahi Kasei Microdevices have switched to our Custom Compiler solution from their previous flows.
+Now to the systems space, where verification challenges are rapidly growing at the intersection of hardware and software. We continue to roll out innovations in our Verification Continuum platform, which integrates all key software and hardware elements critical to robust verification.
+In March we unveiled Cheetah, a breakthrough simulation innovation that drives massive parallelism to speed up our franchise VCS simulation product. Q2 was also strong from a hardware perspective.
+Emulation continues to do well, with more logos and repeat orders, as customers adopt the fastest emulation system in the market today. Physical prototyping, which is focused on early software development and system validation, also had a strong quarter.
+Interestingly, as automotive is dramatically accelerating digital intelligence techniques and thus software content in cars, early adoption of functional verification and virtual prototyping is increasing, and our company-wide automotive solution is gaining traction. We delivered virtual prototyping to a leading supplier of driver assistance systems, enabling software development 15 months prior to silicon.
+During the quarter, we acquired WinterLogic, the leader in fault simulation, a key technology needed for compliance testing of that same standard. This technology fits well with our growing automotive portfolio. In addition, our verification solution was certified for the most stringent level of automotive safety measures defined by the ISO 26262 safety standard.
+Semiconductor IP blocks are also a key part of our automotive strategy and portfolio. During the quarter, we announced a broad set of IP for TSMCâs 16 nanometer FinFET Compact process, which is in high demand for automotive and many other applications.
+We also enhanced our portfolio of ARC processors optimized for automotive applications such as sensor processing and embedded control, by achieving ASIL-D Ready certification on an extended range of products.
+As our customer base tied to automotive expands to include new semiconductor entrants as well as companies such as Continental, Delphi and Bosch, we see this market segment growing for us over time.
+More broadly, in Q2 we saw strong demand across our IP product lines â from logic libraries, to memories, to embedded security, to interfaces, and low power processors. As a key member of many standards bodies, we consistently enable early customer adoption of new interfaces.
+For example, we are the only IP Company with USB 3.1 certification, and our solution is already embedded in many of the initial designs using this standard. Weâre also doing well with our security IP. Weâre engaged in multiple collaborations around our encryption cores, reflecting growing interest in an age of increased security concerns.
+This brings me to the software developers across many industry segments. As the web of interconnected devices expands, and with it increasing software impact, but also complexity, developers are looking for tools to find vulnerabilities at the root of development.
+In other words, quality and security are no longer desirable characteristics, but an absolute necessity. Theyâre also highly intertwined. Quality is the foundation for security; security is the foundation for safety.
+Our vision is to deliver the Software Sign-Off Platform that enables systematic testing during development and security certification to the entire software supply chain. Just last month, we announced that Underwriters Laboratories, or UL for short, a well-known, global safety science organization, evaluated and selected Synopsys security tools for use in the newly launched UL Cybersecurity Assurance Program. This certification program provides an independent third-party security assessment of network-connectable devices, and is the culmination of a multi-year collaboration.
+In summary, Q2 results were very strong. Weâre increasing our annual revenue and cash flow targets, as well as raising the midpoint of our EPS guidance range. We continue to execute well on an expanding customer base relying increasingly on our technology and support during a time of transition.
+And finally, our objective is to deliver long-term shareholder value by managing a portfolio of solutions and investments addressing near, medium, and long-term waves of opportunity. Weâre solidly on-track to doing so.
+Let me now turn the call over to Trac.
+Trac Pham
+Thanks, Aart. Good afternoon everyone. In Q2, we closed another excellent quarter and continued to execute very well, even in the context of a challenging semiconductor environment.
+Our results reflect solid growth in revenue and non-GAAP earnings, strong business levels and significant cash flow generation. Based on our performance in the first half and visibility to the rest of the year, we're raising our 2016 outlook for revenue and operating cash flow, and raising the midpoint of non-GAAP earnings per share guidance.
+Now to the numbers, as I talk through Q2 results and 2016 targets, all comparisons will be year-over-year unless I specify otherwise. Total revenue increased 9% to $605 million. Growth was solid across all product platforms, with particular strength in hardware. Over 90% of revenue came from beginning of quarter backlog, and one customer accounted for more than 10% of revenue.
+The weighted average duration of customer license commitments was approximately 2.3 years, which reflects normal quarterly fluctuation based on the mix of agreements. We expect the average for the full year to be approximately three years.
+Total GAAP costs and expenses were $518 million, and total non-GAAP costs and expenses were $452 million, within our target range. Non-GAAP operating margin was 25%.
+GAAP earnings per share were $0.45, and non-GAAP earnings per share were $0.81, at the high end of our target range. We generated $222 million of operating cash flow. Collections were strong, including a few large payments that came in earlier than expected. Based on the strength of our first half results and outlook for the year, we're raising our 2016 operating cash flow target to a range of $510 million to $530 million.
+We ended the quarter with cash, cash equivalents and short-term investments of $960 million, with 14% onshore and total debt of $250 million. We completed the $200 million accelerated share repurchase plan initiated in Q1 and bought back 4.5 million shares.
+As weâve previously communicated, we plan to increase buybacks this year to reduce the share count. We have $300 million remaining on our share repurchase authorization. In addition, we closed a couple of small acquisitions, adding products and technology to augment our internal development in key areas.
+DSO was 45 days, down from 57 in Q1, due largely to strong collections. We ended Q2 with 10,360 employees, with nearly half in lower cost geographies. The increase in headcount was due to acquisitions and planned hiring.
+Now to third quarter and fiscal 2016 guidance, which excludes the impact of any future acquisitions. For 2013, the targets are; revenue between $595 and $610 million. As weâve previously communicated, we expect more variability in quarterly revenue driven by factors such as our growing hardware business, which generates upfront revenue, along with the timing of our consulting business.
+Total GAAP costs and expenses between $517 and $536 million, total non-GAAP costs and expenses between $463 and $473 million; other income between 0 and $2 million; a non-GAAP normalized tax rate of 19%; outstanding shares between 153 million and 156 million; GAAP earnings of $0.42 to $0.51 per share; and non-GAAP earnings of $0.72 to $0.75 cents per share.
+For 2016, we're raising our revenue target to $2.36 to $2.4 billion; other income between $4 and $6 million; a non-GAAP normalized tax rate of 19%; outstanding shares between 153 million and 156 million; GAAP earnings of $1.67 to $1.79 per share; non-GAAP earnings of $2.95 to $3.00 per share; capital expenditures of approximately $80 million; and cash flow from operations of $510 million to $530 million.
+In summary, our Q2 results were excellent, highlighted by solid top and bottom-line growth and significant cash flow generation. Our priorities remain centered on managing the business to maximize long-term shareholder value, with solid execution, a disciplined approach to managing expenses, and our continued emphasis on investments to drive sustainable growth and profitability.
+With that, Iâll turn it over to the operator for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question today comes from the line of Rich Valera with Needham. Please go ahead.
+Rich Valera
+Thank you. Good evening. Aart appreciate the color across your three different customer sort of end markets there. Just wanted to confirm though on the semi side, it sounds like things are relatively unchanged from last quarter and I just wanted to get your thoughts on that is that how you view it?
+Aart de Geus
+Well, the answer is yes. And the problem is the change is not necessarily all that positive because it was pretty flat last quarter as well. And so I think in general the semiconductor industry is under quite a bit of transitional pressure and that is not necessarily a negative thing because I think there are great opportunities coming, but while the transition is occurring, clearly people clearly feel stressed, there's a lot of -- there's been, I should say, quite a bit of M&A, there is a bit of restructuring and so on.
+These are all preparations for the next wave. And we are thankful that we've been able to do quite well in this landscape and to be able to continue to invest strongly for this next wave of technology that is getting prepared, but meanwhile there's no question the semiconductor market field that is quite stressed.
+Rich Valera
+It sounds like you've been through a few of these probably renewals for companies that have gone through this M&A process. It sounds like some of them maybe if actually done a little better. I'm presuming some not so -- maybe not as well. Can you kind of give any more color on how that's going? It sounds like going maybe roughly as planned where there's some good are some or some bad, but any other color on that front would be helpful.
+Aart de Geus
+Well, first I think, yes, it has been very much as planned and you have heard us talk about it in not over-the-top terms, I think, for a number of quarters acknowledging that whenever there is change, there's some adaptation, need for synergies on the part of the customer.
+But we've also said during that these changes, invariably; there are opportunities where part of helping customers move forward is to also become a broader set -- part of their solution. Bring efficiency to them by virtue of having tools that work together that maybe before came up from a variety of sources.
+And so as far as we're concerned of the main areas, or sorry, of the main transactions, we're through those and there will be undoubtedly more coming down the pike, but there's no evidence that it would be yet another year like 2015.
+Rich Valera
+Okay. And then I wanted to ask a question or two about the software integrity business. You mentioned you've released a new product or platform, I think a Security Sign-Off platform.
+I wanted to try to get a feel for how you significant that see being the sort of platform concept, is that really new, does it fundamentally the -- sort of fundamentally change the proposition you're offering to your customers and potentially your ASPs?
+And then just stepping back I think you'd a while ago mentioned you thought business could maybe do 100 million of revenue this year and wonder if we were still tracking towards that number? Thanks.
+Aart de Geus
+Let me go backwards, the answer is yes, we're tracking towards that number and we see good long-term opportunity here because as we all well know, software is the fragile link in these much more sophisticated systems and fragility is accentuated by hackers that are trying to take advantage of this.
+Having said that, just to be sharp, what I tried to communicate is that we are in the process of putting the final touches on a Sign-Off Platform and we have a large set of technologies.
+The reason I say in the process because this is work-in-progress this year. As you probably know we acquired at least three or four companies last year, all with quite different, but enormously additive technologies around the security angle and this is all being integrated into the fundamental platform that we acquired with Coverity which was very well suited because it has a profound understanding of software.
+And so the -- of course these tools are all available and for sale and being sold and some actually quite well right now. But the interesting part is the notion of Software Sign-Off is being received very, very positively.
+And I think the alignment with under righteous [ph] laboratories is just a fabulous example of how our technology can be instrumental and central to really bringing about the next generation of certifications that will be needed for many products.
+Rich Valera
+That's helpful color, Aart. Thank you.
+Aart de Geus
+You're welcome.
+Operator
+We have a question from Tom Diffely with D.A. Davidson. Please go ahead.
+Tom Diffely
+Yes. I guess following up on the last security question, Aart what is your view of technology going forward as far as security in terms of either embedded in the hardware or in software? And how does that trend impact you specifically?
+Aart de Geus
+The answer is yes, meaning that the software clearly is one of these surfaces that has the most attack points. And it's sort of ridiculous in many ways to not eradicate those software vulnerabilities that can be found automatically.
+But it's easy to say ridiculous because in practice, it's not so easy. And so the first effort has to be to bring about executable discipline and the tools that automate this as much as possible. That's what we're doing.
+On the other side, at the root of all of this, is having to rely on hardware that is safe and secure. And there -- at the root of that trust lies algorithms and encryption technologies that are being added more and more to a variety of chips and systems and we have an encryption core, for example, that is finding good interest.
+To round this all out, obviously, this is a holistic proposition, meaning ultimately things get defeated by the weakest link. And so the more companies can take a holistic approach on security, the better. That will take some time, but there's no doubt that both by need and capabilities, we can see future where this will be more automated and we're intending to be a leader on the software automation of that.
+Tom Diffely
+So, do you think both the suppliers of the technology and the end customer need to be holistic or are we referring to just the end customer?
+Aart de Geus
+Excellent question, because if you look at the system houses, many of them develop software and then they also use software from others. And it's always interesting to go to people that manage very sophisticated supply chains like automotive, for example, and ask them are you using any open source software and they would immediately say of course not, it's way too dangerous and too many weaknesses and vulnerabilities in that. And then you ask them do you get software from anybody else? And then they sort of somewhat cheapishly look around the table, realizing that yes, there's a lot of software that creeps in via their suppliers.
+And that's just another way of saying what is arguably one of the most sophisticated supply chains, the automotive supply chain and has done so for safety reasons for decades is now moving rapidly to do same on the software side and that is why these certifications are as much -- exiting certification, meaning you develop some software and you have to display that its safe as well as incoming certification meaning that you incorporate some software from somebody else and you want to verify that it is indeed safe.
+Tom Diffely
+Okay, great. And I guess moving back to the environment for the semiconductor side, everybody is talking about how tough the environment is out there, but I was wondering on your viewpoint from EDA, are you seeing any negative impact as far as the number of engineer customers or pricing environment or the number of designs going down? Is there anything tangible that can be said after all the pressure on your customers?
+Aart de Geus
+Sure, well, our run rate continues to grow again this quarter, but we can clearly hear from the customers that there is a bit of churn and questioning and deciding where to cut and where to reinvest.
+And I agree with you. Maybe I should not have used the word tough because these tend to be more emotional than descriptive. I think it is really an industry that is going through a renewal again, and both technically and economically, things go up and then they gradually mature and then it's time to invest in the next generation and the next generation means the next silicone technologies, next design, next software and there's no question the computational capability of the hardware now multiplied by some of the newer breakthroughs in software will enable some products that are hard to imagine but that we will all understand the minute we see them. And the challenge is that until these have economic impact, it's an industry that is evolving.
+In that context, though, our focus has been very much on how much can we enable this and we enable it literally very much from the deep silicone, i.e. the generations of FinFET technologies through design, through verification, and now in early fashion, in helping enable better software. And so I think we're well-positioned. We should not underestimate and we should be helpful to our customers as they go through their challenges, but our industry I think has an opportunity to do well.
+Tom Diffely
+Okay, great. And finally Trac you've mentioned there is a particular strength of the hardware side, curious was that meaning emulation or were there other factors involved there? And what does that mean for your outlook going forward?
+Trac Pham
+Hi, Tom. Yes, Q2 was actually a very strong quarter for hardware and we saw strength in both emulation and has prototyping. That leads us to increase the guidance for this year. The large part leads to us increasing guidance for the year, but as you notice the growth across the different products, we're also very -- it will across multiple product lines.
+Tom Diffely
+Okay. Do you know roughly where you are on the market share spectrum for emulation at this point?
+Aart de Geus
+Well, we do, but we don't typically communicate. Much of that is specifically--
+Tom Diffely
+Is a safe to say it's been growing over the last year?
+Aart de Geus
+Yes, we have been growing.
+Tom Diffely
+Okay. All right. Thank you.
+Operator
+We have a question from Krish Sankar with Bank of America-Merrill Lynch. Please go ahead.
+Krish Sankar
+Yes. Hi. Thanks for taking my question. I had a few of them. First one what's the FX mainly due to yen? Was it a tailwind, or what is part of the reason for the raise, or has the dollar purely emulation product hardware driven?
+Trac Pham
+I'm sorry Kris, you're asking about the -- all the currency, yes, the only currency that would affect us is yen, but for the year, we expect about a 1% headwind from FX.
+Krish Sankar
+So, none of the guidance increase has to do with FX?
+Trac Pham
+Not at all. No.
+Krish Sankar
+Got it. Got it. And then when I look at the July quarter, it looks like the expenses are going up in the July quarter. I wanted to know exactly what it is tied to. Is it more due to like higher cost due to hardware; is it more like investing in the OpEx side?
+Trac Pham
+Yes, combination. Obviously, it will be the normal seasonality from Q2 to Q3 as well as COGS as well as the merit increases that we'll experience in Q3.
+Krish Sankar
+Got it. All right. And just a final question. If you assume that your topline growth rate slows down, let's just say hypothetically to like under 5%, % or 4% growth, in that environment, can your EPS still grow 8% to 10%?
+Trac Pham
+Long-term our model is focused on high single-digit EPS and the balance for us is targeting [ph] between whatever that revenue growth is with margin expansion to make that work.
+Krish Sankar
+So, the long-term target of 8% to 10% or high single-digit EPS growth, what is the embedded topline growth in it?
+Trac Pham
+As we talked about in the past, the mix of revenue that as talked about is on the EDA side. The core EDA side is low to mid-single-digits. IP and systems in the low double-digits and then on the software integrity side, probably in the 20% range.
+Krish Sankar
+Got it. All right. Thank you very much.
+Operator
+A question from Sterling Auty with JPMorgan. Please go ahead.
+Sterling Auty
+Yes. Thanks. Hi, guys. Aart you mentioned customers that are going through restructuring. Curious if any of those customers have come back to you looking to restructure their contracts and whether you've actually done that for of the customers at this point?
+Aart de Geus
+The answer is no.
+Sterling Auty
+Okay. And the maintenance and service revenue down year-over-year for the second quarter, how do we put -- is there anything that we can read into that either with the way that you're managing some of the services or how much of that may be on the maintenance side versus the service revenue? Anything to read into the transit there?
+Aart de Geus
+Sterling, are you referring to the revenue mix of time base versus maintenance?
+Sterling Auty
+Versus service as well.
+Aart de Geus
+Yes. So, there's nothing fundamental there. That would be a function of timing of revenues.
+Sterling Auty
+Okay, last question. The duration of the 2.3 years, any additional color or commentary you can get to that, how does some of the emulation hardware sales impact that if at all in terms of how the calculation is done and do you think that customers may be doing shorter deals is actually healthier for you given the environment because it gives you a chance to more quickly go back and have the next discussion around and kind of upsell/cross sell for the next renewal?
+Aart de Geus
+Okay. Let me say that Q2 bookings were strong and we saw growth in run rates for Q2. The 2.3 years of duration is just a function of the deals we booked in Q2. As we've said in the past that will vary from quarter-to-quarter depending on the mix of business we booked.
+Keep in mind that in Q1, we actually had a good quarter and our duration was 3.7. So, it can change quite a bit from quarter-to-quarter. We still expect for the full year, we'll end up around three years of duration.
+Sterling Auty
+Got it. Thank you.
+Aart de Geus
+You're welcome.
+Operator
+A question from Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Thanks, good evening. Aart a couple of our product questions to start. You highlighted the momentum that you're seeing with IC Compiler II and indeed the off roll industry data would suggest that the implementation category as a whole, that includes you, has seen it uplift now for a number of quarters.
+The question is if you could comment on other related projects in digital in terms of any approved growth you are seeing or expect to see for example RTL [ph] simulation which is important category for you that's also seemly showing some signs of uplift, analysis, physical verification, as well and if you can even talk about perhaps what your expectations are in custom where it's understood, of course, that [Indiscernible] quite small.
+Aart de Geus
+Well, in general, if you lump all of those together, you would have most soft core EDA which I think the trailing 12 months is somewhere between 8% and 9% growth. So, it has been very good.
+You mentioned a number of the categories that clearly stand out as having been very solid. Aside of the place and route space where we have enormous amount of involvement with customers. We also see that the verifications space is growing rapidly. And there is a reason for that which is that the verification space which many years ago for us was dealing with hardware circuitry, i.e. chips; today is very much at the intersection between hardware and software.
+And that's just another way to say people would like to exercise their software on hardware they don't have yet and so for that they use a simulation or emulation and that will continue to grow in my opinion. In that context, all of these fields also need continuously faster, higher capacity tools because the chips and the systems are growing in complexity.
+Now, around these tools are number of very fundamental tools such as all the Sign-Off tools and back in before timing, it can also be for physical verification. Those continue to do very well also because tolerance for errors, of course, are very low given that the cost of having to redo a chip is extremely high and the tools are technically doing very well and that I think and that we expect that to continue to be another solid part of our business. So, maybe what's remarkable about this quarter is that it's been doing well across the Board.
+And finally on Custom Compiler, I think this is finally the result of not only a large amount of internal development, but also on the integration of a number of tools that we've had and acquisitions that we've made.
+This was complex work and took maybe longer than what we wanted, but the result is actually quite impressive and now we're entering the market with this and it will be interesting to see how much we can do.
+Jay Vleeschhouwer
+A couple questions around hardware, could you comment on the comparative demand writers for ZeBu and HAPS both of which as you said did well. And more specifically are you seeing any kind of joint or common adoption by customers of both for different reasons, of course, but still going into the same customer with those products.
+And then for Trac on that subject, when you look at your cost of license revenue in the quarter, it was up quite significantly from Q1 and even up from Q4, which was known to be a quite strong hardware quarter. So, should we infer that your hardware business was in fact better than what was already a quite strong Q4 for that?
+Aart de Geus
+So, first about the ZeBu versus HAPS, and really its ZeBu HAPS and the rest of the verification continuum because at a minimum one should throw in the VCS simulator and a virtual prototyping, because those four tools are clearly part of a continuum depending on how much detail you want to look at versus how much speed you want to achieve.
+And so if you look at virtual prototyping and HAPS, they tend to set at the high architectural level or where software development needs to be really running blindingly fast.
+ZeBu is more at the intersection, VCS is clearly a little a -- is closer to the hardware side. And so yes, we have customers that have literally all of them, but it's also true that most customers have their own religion on verification depending on where they come from and that invariably determines how they enter this space and they are always surprised that there other ways of looking at it. So, I think there's a lot of opportunity to push this forward.
+Jay Vleeschhouwer
+Sorry, and then really cost of revenue question.
+Aart de Geus
+Yes. Your question about COGS was -- cost of license was up for the quarter and that was driven by hardware.
+Jay Vleeschhouwer
+All right. And then lastly in our latest assessment of your hiring plan or least your open positions, when you look at it by product and functional area, we noticed a pretty significant increase in your positions you're looking to fill having to do with D.C. Quite a bit more than you have in the past.
+And synthesis has been a fairly flat category for some time as far as revenues are concerned, so should perhaps we should infer you're looking to significantly invest more in synthesis and perhaps start to drive that category more than we've seen to-date.
+Similarly, we saw pretty significant increase in your open rack for AEs, which was of course perineal stage in EDA to hiring but it was a pretty large increase and perhaps you can comment on what you are looking to do there?
+Aart de Geus
+Well, the hiring wavelength from different products tend to be somewhat arbitrary as a function of are we shifting some resources from one product to another? Are there areas we want to emphasize more? Is there development going? Is there some need to connect the tools to each other more? So, there can be many reasons behind that which may be an elegant way of not quite answering your question.
+On the AEs, there's no question that demands from the customers for more support is unabated. And this is especially true as they are trying to look at how to save money on their own resources. And by the way, the skills that we have are quite unique and helping make them successful.
+I would add to that the other thing is that we are really proliferating quite a number of very powerful and successful products, but the proliferation itself require some effort.
+Last but not least there is a continual readjustment in terms of the geographies because different geographies are growing at different paces and they are sort of waves you need to engage in more. And it's an ongoing evolution of the company. I was personally not aware there was such a change on the hiring side. So, I guess you see something I don't know about yet.
+Jay Vleeschhouwer
+Thank you, Aart.
+Aart de Geus
+You're welcome.
+Operator
+[Operator Instructions]
+And we'll go next to line of Monika Garg with Pacific Crest Securities. Please go ahead.
+Monika Garg
+Hi. Thanks for taking my question. First generally if you look Q2 is your largest quarter, but it's more of the mid quarter Q3 guidance, Q4 is like flattish from Q2, Q3, why would that be the case? Are you just being conservative?
+Trac Pham
+Monica, it's just the normal nature of the profile. We -- based on how we executed in the first half, we feel pretty good about the guidance that we've given for the full year and the visibility for Q3, that's a pretty reasonable forecast and so there's nothing unusual about the quarter-on-quarter change.
+Monika Garg
+Okay. Then the question on operating margins, your margins are still kind of quite [Indiscernible] through these competitor events, almost 250 basis point lower, when do you think you would be able to catch up with the margin difference?
+Aart de Geus
+Well, as we have said for a long time is our objective continues to be in the mid-20s. We simultaneously also have continued to invest substantially in a number of new areas and techniques and the investment in the software integrity space is a good example of that.
+And where we are continuing to actually believe that this is a good move, it does take time to grow our business that has major impact on a company the size of Synopsys. But we are continuing on our track to grow earnings per share well.
+And so in the balances of all this, our objective is to do well in the EPS year-to-year and at the same time, make sure that we invest sufficiently in the long-term, especially in light of the opportunities that are being looked at by many of our customers.
+Monika Garg
+Got it. Then question on the other side, you talked about one design then on EDA side for auto, would you talk for any other designs which you think are in the pipeline, how big you think order could be as a percentage of revenue?
+Aart de Geus
+Sorry, it was hard little to hear you, did you talk about the automotive side?
+Monika Garg
+Yes. And especially on the EDA side.
+Aart de Geus
+Yes. The automotive is an interesting field because it's a feel that in the past was not only not very large in semiconductor, it was also viewed as extremely stogy, meaning slow moving and for many good reasons, right, safety was very key and so the development plans were very lengthy.
+That has changed quite radically because not only the increase on the electric side of car propulsion, but much more intensely on the control ADAS, the automatic driving, these are all revolutionary concepts that just a few years ago looked like science fiction and today are visibly in action and so the race is very much on.
+Well, that has brought about that's automation companies and their suppliers often refer to as the tier-1 suppliers are fully engaged in doing advanced design and looking at FinFET technologies and looking at computation to support a variety of digital intelligence capabilities.
+While those are all interesting and I think we're extremely well-placed for those because we certainly have FinFET experience, we can help them with that and we have also product that stretches all the way into the software and most importantly touches the security angles which, of course, are immensely important.
+So, from that perspective I think we will continue to do well and actually better and better and actually I think we have a number of companies in the automotive area that have done quite well with us in the last few quarters.
+Monika Garg
+Got it. And then last one Trac on the buyback, you had said this year buybacks should be up year-over-year, last year you did about 280 million, you have 200 million right now, how much can we expect in the back half?
+Trac Pham
+I won't comment on that specifically, but it would be north of 280.
+Monika Garg
+Okay. Thank you.
+Aart de Geus
+You're welcome.
+Operator
+And there are no further questions in the queue.
+Aart de Geus
+Well, thank you very much for attending this conference call again. I think we concluded a strong quarter against a somewhat turbulent background, but we're continuing to invest in things that are quite important for the future and I think we were placed certainly to deliver against the expectations for this year. As usual, please join us for the after-hour calls here. Thank you.
+Operator
+Gentlemen that does conclude our conference for today. Thank you for your participation and for using AT&T Teleconference Services. You may now disconnect.

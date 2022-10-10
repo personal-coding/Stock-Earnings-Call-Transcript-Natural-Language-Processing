@@ -1,0 +1,273 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q3 2015 Results Earnings Conference Call October 26, 2015 2:30 PM ET
+Executives
+Alan Lindstrom - Senior Group Director of IR
+Lip-Bu Tan - President and CEO
+Geoff Ribar â SVP and CFO
+Analysts
+Gary Mobley - Benchmark
+Rich Valera - Needham & Company
+Jay Vleeschhouwer - Griffin Securities
+Gus Richard - Northland
+Monika Garg - Pacific Crest Securities
+Sterling Auty - JPMorgan
+Tom Diffely - DA Davidson
+Mahesh Sanganeria - RBC Capital Markets
+Krish Sankar - Bank of America
+Operator
+Good afternoon. My name is Mike and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Design Systemsâ Third Quarter 2015 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakersâ remarks, there will be a question-and-answer session. [Operator Instructions]. Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you, Mike and welcome everyone to our third quarter 2015 earnings conference call. With me today are Lip-Bu Tan, President and CEO; and Geoff Ribar, Senior Vice President and CFO.
+The webcast of this call can be accessed through our website cadence.com and will be archived through December 18, 2015. A copy of todayâs prepared remarks will also be available on our website at the conclusion of todayâs call.
+Before I start, I want to call your attention to our new CFO Commentary which was included in our 8-K filing today and is available on our investor relations website at cadence.com. Since we are providing the CFO Commentary, Geoffâs prepared remarks will be streamlined and certain metrics not discussed in todayâs call including historical comparisons will appear in the CFO Commentary. The CFO Commentary should be referenced in conjunction with both todayâs comments or remarks and the earnings press release issued today.
+Next, please note that todayâs discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadenceâs most recent reports on Form 10-K and Form 10-Q, including the companyâs future filings and the cautionary comments regarding forward-looking statements in the earnings press release issued today.
+In addition to the financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today.
+Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial measures which can be found in the earnings section of the investor relations portion of our websites. Additionally a copy of todayâs press release dated October 26, 2015 for the quarter ended October 03, 2015 and related financial tables will also be found in the Investor Relations portion of our website.
+Now, I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone, and thank you for joining us today. Cadence delivered strong operating results for Q3. Revenue was $434 million, up 8% year-over-year. Non-GAAP operating margin was 27%, above the high end of our guidance range. Non-GAAP EPS was $0.28 also above the high end of our guidance range. And operating cash flow was $87 million, which keep us on track for our guidance of $360 million for the year.
+Let us first address the environment. Semiconductor business conditions remain challenging and slower semiconductor growth for the year now appears likely. As we reported last quarter, we remain mindful of the ongoing consolidation in our semiconductor customer base. While we do not expect the material impact on our business near term, consolidation could pose a challenge to industry growth over the next few years.
+Now let us turn to the Q3 highlights. Our System Design Enablement strategy continues to create new vertical opportunity. In Q3, we signed a significant contract with GE Aviation for IP, hardware and system level design services. A biomedical technology company adopted our low power mixed-signal design flow. We became the provider for the functional verification environment of a leading automotive chip supplier, and a global automotive supplier significantly expanded its contract for functional safety verification to reduce their effort for ISO 26262 compliance.
+In the digital and signoff space, the theme for the quarter was continued innovation, adoption and proliferation of our new products. We expanded our digital footprint across multiple growing industries and across multiple process nodes. We now have over 30 such customers using the Innovus Implementation System for the advanced-node production designs. This includes seven of the industryâs top 10 semiconductor customers, companies where our digital implementation position has increased significantly.
+In just three months, since its launch the Genus Synthesis Solution has already been purchased by multiple companies with many more in evaluation. Cypress Semiconductor is standardizing on the Cadence full digital flow and Spectre XPS for full customer verification for their next generation 40 nanometer mainstream products.
+Innovation continues with the introduction of another digital product, the Joules RTL Power Solution. Joules deliver time based, RTL Power analysis 20 times faster than previous solutions. One of our most exciting announcements of the quarter was that the nano-electronics research institute imec and Cadence completed a takeoff of the worldâs first five nano-meter test chip using EUV combined with 193 immersion, lithography and quadruple patterning.
+In Signoff, our Tempus Timing Solution surpassed 200 tape-outs, while the Voltus Power Solution and Quantus Extraction Solution continue to add new customers. Cadence earned a Partner of the year award from CSMC for joint development of the 10 nano-meter design input infrastructure.
+IP is the fast growing part of our business. It is one of the key [tenants] [ph] of our System Design Enablement strategy. The new Tensilica vision 5 Fourth Generation imaging DSP was introduced in Q3, which significantly improved capabilities and performance.
+The Vision P5 already have a major design win, and we believe the vision market present a huge opportunity especially in mobile, data and IoT applications. Design IP had the best quarter ever. Two major customers, a system company and a semiconductor company have adopted our 14/16 nanometer multi-protocol SERDES PHY for production design. Ours is the first multi protocol SERDES PHY at this node.
+We also released a broad portfolio of design IP for CSMC 10-nanometer FinFET process, for which we already have secure multiple design wins. We received the CSMC panel of the year award for analog/mixed-signal IP.
+Now, let us turn towards System Design and Verification. Verification remains the fastest growing challenge for our customers, who must deliver functionally correct products within ever tighter market windows. Addressing the Verification problem requires a holistic approach with the integration of multiple, complimentary products which we provide with our system development suite. The suite had a all-time record quarter in Q3, driven by the growth in North America and China.
+The exciting news for the hardware is that we have begun shipping our next generation emulation platform. Purchases of Palladium XP II, the existing platform continues at a good pace in Q3 with strong sales to system companies. Sales of Protium, our FPGA prototyping platform, ramped significantly in Q3.
+Formal Verification had a very strong quarter. A large system company renewed and increased adjustment goal capacity by 60%. This was our largest order ever for formal verification. As companies in China move towards the leading edge, they are adopting formal technologies. And in Q3, we have our largest formal verification order so far in China.
+Our system interconnect business which includes PCB, Security System Analysis and IC Packaging Tools again delivered strong growth with revenue up 9% year-over-year. Our Allegro system in Package Technology now supports TSMC's Integrated Fan-Out packaging technology, also known as InFO.
+InFO advanced wafer level packaging technology provides cost effective system scaling to increase bandwidth and will be our ideal solutions for mobile and IoT applications.
+In summary, Cadence continued to deliver strong operating results in the environment that remains challenging. The System Design Enablement strategy is bringing more innovation and an increased vertical focus to our business and solutions. In digital and signoff, we saw continuous innovation, adoptions and proliferation of our new products. We are steadily introducing new products and gaining customers in IP.
+We have started shifting our next generation emulation platform. And our PCB system analysis and packaging solutions post another strong quarter of growth.
+Now I will turn the call over to Geoff to review financial results and provide our outlook
+Geoff Ribar
+Thanks Lip-Bu, and good afternoon everyone. As Alan mentioned at the start of our call, we introduced our CFO Commentary this quarter. As a result, I will be focussing on the quarter highlights and operational drivers in my prepared remarks. You will find all of the numbers in the CFO Commentary which are included in our 8-K filing today and is also available on our website. The CFO Commentary should be referenced in conjunction with both my remarks and our earnings press release issued today.
+Now for the Q3 results. As Lip-Bu discussed, the environment remains challenging, and the pace of customer consolidation seems to continue unabated. So Iâm especially proud of the way weâve been able to achieve good results in this environment.
+Total revenue was $434 million, up 8% year-over-year. Revenue exceeded our expectations due to the timing between Q3 and Q4 of certain transactions. As Lip-Bu said, we began shipping our next-generation emulation platform. We expect to begin recognizing revenue in Q4.
+Total cost and expenses on a non-GAAP basis were $316 million, up 9% year-over-year. As previously discussed, the growth and expenses this year reflects the investments we are making in R&D and technical customer support.
+Non-GAAP operating margin was 27% unchanged from 2014. Results exceeded our expectations due both to higher revenue and at better expense management. GAAP net income per share was $0.25. Non-GAAP net income per share was $0.28 up 8% year-over-year.
+In addition to higher revenue and better expense management, lower than assumed interest expense contributed to the better than expected non-GAAP EPS. Operating cash flow was $87 million compared to $88 million for Q3, 2014. Cash and short term investments were $711 million at quarter end compared to $744 million at the end of Q2.
+DSO were 28 days. Our new stock repurchase program is off to a strong start. We repurchased 5.9 million shares of stock in Q3 for $120 million. Our program target remains 1.2 billion by the end of 2016 and we expect the pace of repurchases to pick up in Q1, 2016 after the final settlement in December of the warrants associated with the convertible debt we retired in June 2015.
+Now, letâs turn to our outlook for the fourth quarter. We expect revenue in Q4 to be in the range of $434 million to $444 million. And fair [ph] expectation takes into account, the timing of certain transactions between Q3 and Q4. Also pleased to recall that Q4 2014 included an extra $50 million of revenue due to the extra week in our fiscal 2014.
+This is also a good time to remind everyone that while our software maintenance revenue is highly predictable, revenue for both hardware and IP is lumpier, which may contribute to increased variability and quarterly revenue as these businesses grow.
+Non-GAAP operating margin is expected to be in a range of 27% to 28%. GAAP EPS for the fourth quarter is expected to be in the range of $0.20 to $0.22. Non-GAAP EPS for the fourth quarter is expected in the range of $0.28 to $0.30.
+Now for our fiscal 2015 outlook. Bookings are projected to be in a range of $1.87 billion to $1.93 billion, unchanged from last quarter. Revenue is expected to be in a range of $1.695 billion to $1.705 billion. The midpoint is unchanged from last quarter and hardware revenue is expected to increase in 2015 compared to last year.
+Non-GAAP operating margin is expected to be in the range of approximately 26% to 27%. This is up from our prior expectation of 25% to 26% due to strong execution and expense management. As we discussed last quarter, remember to think about the next year that our investments in hiring power and being a technical customer support have ramped throughout the year and would continue to do so in Q4, hence we will exit 2015 in a higher expense run rate than we are at present.
+GAAP EPS is now expected to be in the range of $0.75 to $0.77. Non-GAAP EPS is now expected in the range of $1.06 to $1.08, which is up $0.07 at the midpoint from our initial guidance for 2015 due to strong execution and expense management.
+We expect operating cash flow to be approximately $360 million, unchanged from last quarter. You will find additional guidance for the additional items in the CFO Commentary.
+So with that operator, weâll now take your questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from Gary Mobley from Benchmark.
+Gary Mobley
+Hi, guys thanks for taking my question. This is my first question on your call, so hopefully I donât ask it in a wrong way or offend anybody, but I wanted to start out by asking about the sequential decrease in deferred revenue. Is there anything to read into that as far as customer licensing activity?
+Geoff Ribar
+No, for us deferred revenue is really just cash that weâve collected upfront and we work very hard to match our cash collections with our revenue. So thatâs nothing -- itâs just a normal variability with that.
+Gary Mobley
+Okay, appreciate the fact that you havenât changed your outlook for total bookings for the year, but have you seen any early indication as to how your customer consolidation in particular on the semiconductor side has impacted the licensing pipeline, whether it be shorter license duration or maybe just in general hesitation on your customers part to commit to licensing activity?
+Lip-Bu Tan
+This is Lip-Bu, let me start with clearly the environment of semiconductor business condition continues to be challenging as I mentioned. Clearly the softer semiconductor growth for the year [indiscernible]. Saying that, I think clearly the ongoing consolidation in our customer base will continue. That potentially will have challenge in the longer term but we do not expect any material impact in the short term.
+And so, overall I think we see consolidation will continue and the pace will continue. But meanwhile, I think itâs a great opportunity for us to continue driving new product, new solutions that meets the customerâs challenging requirement in terms of design, and also we see a new breed of system company that are engaging heavily with us, thatâs our great opportunity in terms of the verticals.
+So overall we donât see any significant change in terms of their behaviour or pattern. Geoff, anything to addâ¦
+Gary Mobley
+Okay. Appreciate the response and an extension to that response. I'm not asking you to name any specific licensing opportunities with the system OEM, but could you share with us your opinion as to how the consolidation in semiconductor industry might increase verticalization amongst your system OEMs, in other words, taking on more responsibility for SoC design as a part of overall system design, and how that impacts your business long term?
+Lip-Bu Tan
+Yes. Good question. Let me try to answer. Clearly, I think the consolidation that increased in the system OEMs, the system company, those are great opportunity for us, because we have a whole suite of product offerings that has met their requirement. So, first of all, I think clearly our much improved digital flow we can talk more about it. And then, secondly our custom/analog will continue to move into the advanced node. And our IP portfolio has been increasing substantially and in the system engagement. And then also our PCB security system analysis, hardware, software co-design, co-verification, so we kind of call it system design enablement that we provide [Fan-out] [ph] will be a very welcome solution from the system company. They want to look at the entire set, beside the tool, beside the IP and also the hardware and software design so that time to market will be critical success for them and we have a key solution they are looking for and itâs something that we are very excited about.
+Gary Mobley
+Okay. That's it from me. Thank you.
+Operator
+The next question comes from Rich Valera from Needham & Company.
+Rich Valera
+Thank you. Lip-Bu, I just want to clarify your comments on the impact of M&A. So you're saying you're not seeing anything short term. What is that you're thinking you're going to see long term, you just saying it could be a headwind to the industry in general. I just want to clarify what you were saying about the longer term potential impact from semiconductor M&A?
+Lip-Bu Tan
+Sure. I think is a very good question. And clearly, as I indicated earlier we don't see any short-term behavior changes. But I think is more the impact in the longer term. The main reason I think that because itâs a longer term EDA is very complex, very difficult to predict. Weâre clearly seeing that in more consolidation and the customer have a greater economic power and that also have the energy â engineering synergy that will result with a fewer EDA [indiscernible].
+Saying that clearly it is a good opportunity for us, when we have the whole portfolio of solution that we can provide them. For them itâs very important, itâs time to market. And then help them to solve their most complex design in the 16, 14, 10 and 7 nanometer and we believe we have the right solution, the best product in the marketplace to provide that solution for them to meet that types market challenges, especially in the hardware, software, packaging, system design envelope that it can analyze. And then the power is critical. And then some of the massive [indiscernible] is critical for their success and that's where weâre trying to [indiscernible].
+Rich Valera
+Great, thank you that. Had a couple questions on your emulation box, shipping the new box, congratulations on that. One, just wanted to get a sense of how you see the manufacturing ramp for that going, where you stand with your contract manufacturing partner, are they up to speed? And how you think that trajectory goes? And then if you can talk at all about what kind of order book you have for that new box, and when do you think you maybe catch up with that production, assuming you do have some backlog already built up?
+Lip-Bu Tan
+Yes. Good question. We are extremely pleased with Q3 that weâre able to have begun shipping our next-generation emulation platform. We expect to recognize the first revenue in Q4 and we're delighted to see the booking building up. And so I think as we expected and predicted that we organize a team with a strong operation, manufacturing with contract manufacturing in place, so, this time around we are able to scale more efficiently. And so I think to answer your question, we have the right management team in place for the manufacturing realm and the order is coming in very nicely and we're happy with that and our first recognition of revenue in Q4.
+Geoff Ribar
+And this revenue is -- the expected revenues are included in our guidance.
+Rich Valera
+Great. Geoff, would you be willing to say anything at this point? One, I'm guessing, though, but would you say if you think emulation revenue is up sequentially in Q4 versus Q3, and then any thoughts on emulation revenue in 2016 versus 2015 at this point?
+Geoff Ribar
+Sure. The things that weâve said is we expect emulation revenue to be up in 2015 versus 2014 which we've already said. At this stage we're not ready to guide 2016; of course we'll do that in Q4.
+Rich Valera
+Okay. That's it from me. Thanks gentlemen.
+Geoff Ribar
+Thank you.
+Operator
+The next question is from Jay Vleeschhouwer from Griffin Securities.
+Jay Vleeschhouwer
+Thank you. Good afternoon. A couple of short-term product questions first. Following up on Richardâs question just now about emulation. For the business to be up year-over-year, which you reiterated would be the case, would it be fair to say that in Q4 you would probably have to have a record quarter ahead of what you did with emulation in Q4 of 2012 and Q4 of 2013, to eke out some gain for the year?
+The second product question is, at your CDNLive customer event in Boston early last month, it was mentioned that in October the month just ending of course, that Genus would become generally available commercially, and that you would ship a new version of Innovus 15.2, as well. Could you talk about whether either of those two events for Genus and Innovus occurred? 
+Lip-Bu Tan
+I'll take the emulation question, Jay, but we'd again we're going to say as 2015 is up over 2014 for emulation and that's all we're going to stay at this particular point in time.
+Geoff Ribar
+And then on the digital question that you have and first of all, we are very delighted with our Innovus penetration, only six months since we launched a product, as I mentioned in my remarks, over 30 customers using Innovus advanced node productions design and then includes 7 on the industry top 10 semiconductor companies and they have increased significantly with us. So back to your question on Genus side, three months being launched, we have over 40 customers evaluating on our solutions and then quite few of them already have multiple purchase with us and we're delighted with the progress that it's making. And then the fact, we are really excited is the IMEC 5 nanometer test chip using Innovus. So Innovus is proliferating very rapidly, across all the top customers and we're delighted to see that. But I think all in all, I think clearly we're working on the Innovus I'd mentioned 2.0, we don't ever stop. We continue to work on it. And then as time comes we're going to launch, we will announce that. But so far we continue to really see it by the customers at the most advanced node and stable performance that is really working well for customers and proliferate across all the product line, all the engineering team.
+Jay Vleeschhouwer
+Okay. Okay. Maybe we can talk about the issue of semi customer consolidation in the context of EDA consolidation. Over the last number of years, as you know, EDA has become increasingly consolidated, the big three including yourselves. You now have well over 80% of total industry revenue, wasn't that long ago, about 75% or so. So your increase in consolidation has occurred as your customers have become increasingly consolidated, but now the question becomes, how much more consolidation can there be in EDA to perhaps help offset the consolidation among your customers?
+When you break down the remaining, let's call it $900 million or so of EDA revenue that is not Cadence, Synopsys and Mentor, four or five companies account for the bulk of that. Ansys, Zuken, Keysight. Altium and of course, Trent [ph] is gone now. So that leaves you lots of little companies that probably wouldn't be all that material if you were to acquire them among the remaining non-big three companies. So, I guess the question is how are you thinking about further consolidation that would be meaningful from a revenue and technology standpoint for you in EDA, and perhaps where does that lead you to perhaps doing something outside of EDA, as Synopsys has done with Coverity?
+Lip-Bu Tan
+Yes. Good question, and clearly our customers are consolidating, but itâs a great opportunity for us as I mentioned earlier. We continue to double account on our product development. I'm very pleased and very proud of my team. The last two years we have sell new products organically developed. And so, clearly we're going to continue driving the innovation culture within Cadence non-stop and we continue to drive the innovation culture and development side.
+And I'm saying that, clearly we continue to look outside and clearly the M&A we really focus on disciplined approach to our M&A. We had to really had to fit our culture, our synergy that we plan to build in that System Design Enablement strategy, we already layout and clearly have to have a differentiated technology and clearly we can bring it Top 10 management team and then finding the talent that can augment our current team and of course, they are really providing the recent on investment that is attractive to us.
+So, all-in-all I'm saying is that continues focus on our internal development were closely with the Tier 1 customer and that's what we can learn from them and try the solution that they need. And then the other part is now using the M&A to augment and supplement our internal development where it makes sense. So I think overall we have very talent approach and we review with our Board, with our management team, every investment, acquisition remains with the synergy and execute well for us and we're not just buying revenue and we really focus on the product, the technology and the customer needs.
+Jay Vleeschhouwer
+Last one from me, if I may for Geoff, would it be fair to say that the larger than expected revenues in Q3 owing to the timing effects was related to IP and specifically IP service engagements?
+Geoff Ribar
+I think what we're going to say is that, there is timing deferred transaction between Q3 and Q4 that allowed to exceed in Q3 and so keep the second half of the year unchanged.
+Jay Vleeschhouwer
+Thank you.
+Geoff Ribar
+Thank you.
+Operator
+Your next question comes from Gus Richard from Northland.
+Gus Richard
+Yes. Thanks for taking my question. It looks R&D expenses are coming down little bit in the second half, is that a function of the maturing of your new digital tools that you're supplying?
+Geoff Ribar
+Yes. If they are probably down, its' because of shutdowns and vacations and those types of things, we are continuing to make investment as I think I said in my prepared remarks which will lead to our run rate and expenses being higher by the end of Q4 than we are right now, and certainly higher it wouldn't be in the year. 
+Gus Richard
+Okay. Got it. And then, in terms of the emulation products, can you just describe what trigger were in effect the fourth quarter, you obviously shift some tool, are you waiting on customer acceptance or how is that going to work for you since itâs a capital equipment?
+Geoff Ribar
+Yes. I think it's again a great news that we're shipping our next-generation emulation platform. We will recognize â we expect to recognize as revenue started in Q4, there is of course acceptance criteria that has to be met for revenue accounting and hardware.
+Gus Richard
+Okay. And after the first article does that change going forward and then will be little bit smoother in terms of recognizing revenue?
+Geoff Ribar
+The acceptance criteria remain very similar.
+Gus Richard
+Okay. All right. And could you just talk a little bit about the growth overall EDA, as you see it over the next couple of years. It looks like the core digital implementation has grown about 4%. Is that kind of what you think the industry growth rates going to be and how do you think you can do vis-Ã -vis that in terms of market share?
+Geoff Ribar
+Yes. Because of how we round those schedules, it looks like its 4%. The digital revenue was actually up 7% year-over-year, and is always like a lot of noise in quarterly revenue at the product group level. So itâs up 7% year-over-year and we're of course not challenging on long term EDA growth.
+Lip-Bu Tan
+I think and just to add on to what Geoff mentioned earlier, clearly our customer are facing a lot of challenges in terms of the complexity of design and then clearly when you move down the geometry to 14, 16 and some of them are moving to 10 and 7 and then clearly [Indiscernible] and then EDA becomes so essential for their design, and that's where we see the opportunity and we need to triple down in terms some of our solution to provide the needed solutions at the end of Q4 and start looking for other opportunities.
+Gus Richard
+Okay. Got it. Thank you so much for taking my questions.
+Operator
+Your next question comes from Monika Garg from Pacific Crest Securities.
+Monika Garg
+Hi. Thanks for taking my question. Since youâve release the new emulation platform, could you maybe talk about how do you expect the benefit on your operating margins with the new platform?
+Geoff Ribar
+Yes, obviously Monika, we're not going to be guiding individual product categories of product gross margin at the station.
+Monika Garg
+Okay. Then Geoff, you still have more than a 1 billion kind of $1 billion left in share repurchase which you announced last quarter, maybe could you talk about how do you plan the finance the same?
+Geoff Ribar
+Sure. We've been consistent in saying that the repurchase program was funded by U.S. cash on hand, future U.S. cash flow and additional debt. There is question lot of time between that and then 2016 and don't forget we have 250 million undrawn credit facility also at this time. We remain committed to the repurchase program.
+Monika Garg
+Got it. Thanks. And then the last one here. The service revenue has ramped in 2015 almost up 30% plus year-over-year, maybe can you talk about any particular reasons for that?
+Geoff Ribar
+Now, services revenue is going to be just based on business demand and how that system comes out, so we were quite happy with our business there and are doing quite at that business.
+Monika Garg
+Got it. Thank you so much.
+Operator
+Your next question comes from Sterling Auty from JPMorgan.
+Sterling Auty
+Thanks. Hi, guys. Can you actually quantify for us the timing impact in terms of the revenue, so how much revenue came into third quarter from the fourth quarter?
+Geoff Ribar
+We kept to year on change, Sterling, I think thatâs probably the best way to look at it. Right, so you know how the numbers played out were kind of based on time between Q3 and Q4, but we're not going to specify how much.
+Sterling Auty
+And then, there was question little bit earlier, but I just wanted to ask it this way. When you look at the last Paladium cycle, how many quarters does it take to get to either peak revenue or fully ramped revenue?
+Geoff Ribar
+So I think that the key point is how we did in the last time 2011 and 2010 and 2011 was materially different than we are this time. The cycle is clearly different based on the back of 2010 or 2011, we were coming out of the great recession. We also had when emulation was first become a requirement, once you get under 40 nanometer. So we expect this cycle to be different of course than that cycle was.
+We are seeing strong customer demand, probably with a good backlog and we expect healthy adoption rates but we want you to keep that in mind.
+Sterling Auty
+Okay. And then can you give at least some qualitative color as you talk abut constraints in the IP business in the quarter, how much of that would have been stuff that benefited primarily the third quarter versus, lot of your IP business is ratable as well. So, how much benefit would we see kind of in the fourth quarter and into 2016 from the strength in the IP business this quarter?
+Geoff Ribar
+Yes. So the IP business was up about 27% quarter over -- year-over-year right from the prior of Q3. That business is lumpy as I mentioned in my prepared remarks, and will likely continue to be lumpy. There is some parts that's recurring and there's some parts that's lumpy and so the revenue will fluctuate more as we continue to grow that business. So maybe that little bit of qualitative comment, hopefully that helps.
+Sterling Auty
+Okay. And last one from my side, the warrant settlement in December, the last part of the month, just because -- there are lots of question. Can you go ahead and give just some color around what the logistics around that look like in terms of how it settles any cash impact if any etcetera?
+Geoff Ribar
+Sure, so the warrant settles from the early part of December to the early part of December. The net share is settled, so no cash involved with that. And a potential dilution is already in the share count, so I think those are probably the three semi points, Sterling.
+Sterling Auty
+Thank you.
+Operator
+Your next question comes from Tom Diffely from DA Davidson.
+Tom Diffely
+Yes. Good afternoon. So, first I guess, Lip-Bu, is there something where you can gives us little more color on the capabilities of the new emulation tool as for the previous version or the competitive landscape?
+Lip-Bu Tan
+Now, clearly, we continue to improve our non-performance and the power and then most important, clearly we will provide you more detail when we announce the new platform 
+Tom Diffely
+Okay. And is there a certain customer type or chip type that it is designed for initially, or is it a fairly broad all-encompassing?
+Geoff Ribar
+Itâs drawn and clearly I think they are not just a semiconductor company in the high performance compact design and [Indiscernible]. And the system company, wholly [ph] appreciate I think if they can find the box earlier, that can help them tremendously in their time to market. So now anything that's below 40 nanometer contact design, in this [Indiscernible] that we have a very strong footprint. Clearly, our product development, or clearly our customer has exposed with, they love it and so weâll continue to give up the booking.
+Tom Diffely
+Okay. I guess switching gears then, when you look at IoT as potential driver going forward, obviously there will be simpler chips with very high units. How do you view IoT as a potential incremental driver for EDA?
+Geoff Ribar
+Good question. So, I think clearly IoT is very exciting, but I think couple of factors that drives the growth, one is IoT, a lot is connecting and collecting data and then mostly go to the cloud. And so that whole cloud big data infrastructure and that is our stronghold and we are delighted. You know a lot of our digital and verification portfolio that we can provide and helping out customer to succeed on that.
+And then on the IoT side, really the low power is critical and also clearly the IP block become very important to them. We are now seeing -- now the new Tensilica Vision key files and then so Tensilica being a programmable engine clearly have a huge opportunity for IoT application because there's something that you can programmable and then see what sticks and then particularly providing the solution, the diagnostics or monitoring the data that can collect from human being and then go up to cloud.
+So that kind of high speed connectivity, wireless capability would be critical. So our IP design IP benefits from it and then clearly our digital, a lot of those design are mix signal, so clearly the mix signal analog becomes critical, and of course all has to be within the power envelope, and that's why our packaging become very exciting.
+And lot of customer are using our PCB and also our Sigrity. Sigrity can enable to analyze the system level, so that you know we donât have to do the re-scheme, because it can predict the power and the performance more accurately. And encouraging on our new product called Joules that can provide a whole power estimation that is critical IoT.
+So I think all-in-all somewhat disciplined [ph] income market, we are very excited because we are building up or the building box needed providing the solution to our customers.
+Tom Diffely
+Okay. And then how long do you think it takes to really get hot?
+Geoff Ribar
+How long can you get up?
+Tom Diffely
+How long until this market really is a robust market for you? It sounds like you are putting all the pieces in place, but at what point do you think both the units and also the infrastructure is going to create a big business for you?
+Geoff Ribar
+So I think clearly just in the early stage of evolution. And now clearly if you look at the bids and then some of this came through from Samsung and Apple Watch. They are all starting into the flow of getting the data that can be useful for data analytics. Frankly speaking, I think the business model it could be clear that in terms of my personal belief the data analytics or the big data will be the big driver.
+And so I think even I'll see [Indiscernible] to say that proliferating very rapidly in terms of healthcare, in some of you know the fitness and then overtime, people are going to come out with the better solution to keep us more aware of our wellbeing. And also more connected through our community assembly members, and to me that is very -- of moving that. And then the other part is also IoT link up to some of the smart devices, connected device, and also of dumb devices can be devices can be connected. So that low power is critical and that's way I think a Cadence Solution will be shining and then providing to the customer in the low power environment providing the latter targeting.
+Tom Diffely
+Okay. That's helpful. And then, Geoff, over the next couple of years when you see an increase in your business moving towards IP and hardware how do you view that impact on the margin structure?
+Geoff Ribar
+So, Tom, itâs a good question. Its something we think about all the time, but right now we're not guiding beyond 2015, what you know, little bit more when we guide 2016 in January, February timeframe.
+Tom Diffely
+Okay. Thanks.
+Operator
+Your next question comes from Mahesh Sanganeria from RBC Capital Markets.
+Mahesh Sanganeria
+Yes, thank you. Geoff, you are increasing the operating margin guidance by 100 basis points, that's pretty significant. So can you talk about a little bit what is driving that? One of the things you talked about vacations and time off, or shutdowns. Pretty sure that's not the only thing. Is the timing of your projects are moving out, or what drove that upside?
+Geoff Ribar
+I think our projects remained on-track and it's been strong execution, foreign exchange and expense management have clearly contribute. We will continue to ramp expenses in R&D and technical customer support through the year and honesty in Q4 also, so just remember that we will exit 2015 at a higher expense run rate than we currently are running. Again for us itâs been strong execution thus far foreign exchange and expense management.
+Mahesh Sanganeria
+Great. And in terms of your expense trend, would you be done by end of 2015, or the pace will continue into 2016?
+Geoff Ribar
+We're not counting 2015 at this stage.
+Mahesh Sanganeria
+Okay. Then in terms of the revenue, if I look at the segment of course, there is rounding issues but this year you are doing strongest in IP of about 20%, and followed by functional verification more than 10%. Is that how we should be looking at going forward, those are the long-term -- are those the strongest growth segments for you?
+Geoff Ribar
+No. Again a couple of points, we don't guide individual segment Mahesh, it is just something that we don't do, and clearly right now we're not guiding 2015, stay tuned for January, February time frame.
+Mahesh Sanganeria
+Okay, let me try asking different way. You have talked about a significant market share, potential market share gain in digital design. And so the question is, when do we see that in numbers? Is it something, because of the way you recognize the revenue, should we be seeing that to be just down the road, how do -- when do we seen those in the numbers from the current growth rate?
+Geoff Ribar
+Yes, there is always going to be a lot of noise in the quarterly revenue as the product level grew. But fundamentally winning and proliferating will proceed the revenue growth and revenue ramp is digital. And just to give you the numbers again we were up 7% year-over-year in digital. So weâre quite happy with how we are doing.
+Mahesh Sanganeria
+Okay. Thank you.
+Operator
+Your next question comes from Krish Sankar from Bank of America.
+Krish Sankar
+Yes, hi thanks for squeezing me. And I have two quick questions, one for Geoff. On the mechanics of the buyback, would the warrants settling between September 10 and December 10, is it fair to assume the $120 million in buyback in Q2 was done before September 10, and any buyback in Q4 will start after December 10?
+Geoff Ribar
+No, first we pretty much buy on a regular basis. We do not want to have us being in the market impact the warrant settlement, but we pretty much buy on a steady basis and if we walk on a daily basis when business is open.
+Krish Sankar
+Okay, all right. Another question for Lip-Bu, I think it has been spoken quite a bit now, but from a consolidation impacting, maybe in the long run you guys, we're just trying to figure out if you look at it, some of these M&A deals that are being announced have not yet completed yet. So is it fair to assume based on the time lag any impact on EDA budgets would be more of a 2017 event not a 2016 event, is this the right way to think about it?
+Lip-Bu Tan
+Yes, I think thatâs a good question. I think the consolidation I mentioned earlier that are getting bigger and bigger and now clearly we want that company and we are going for action. So we continue to engage with the acquiring company and also being acquired company and make sure that we have a very strong footprints going forward. And clearly, some of this consolidation, the first thing they are -- to drive the efficiency and now in term of G&A that will be obvious. And then in terms of engineering side, we watch carefully in term of how they are locating and the resources thatâs usually the last thing they want to change. And, but even today, thatâs shows what the engineering talent you will grab somebody else, if thereâs good talent.
+So I think we have -- keeping track of the talents, where they go to, mission that we continue to engage and then providing the solutions to them. So I think itâs very hard and very complex to predict publicly but very close to high and proactively. So weâre reaching out to the foreign company and thatâs a mission that we continue to increase our footprint and providing the best solution and clearly they are going to drive some of their engineering synergy and immediately we -- and the fewer EDS shift, but hopefully not at our expense. So hopefully we will continue to increase because we have a best solution for them designed the most complex shift where they can depend on us.
+Krish Sankar
+Got it. Then if I could just squeeze in one last. How many contract manufacturers do you have for the current new emulation platform?
+Lip-Bu Tan
+Yes, we donât provide that and they come purely from the competitive point of view and but we have a very strong leader thatâs driving the whole supply change and clearly we have the whole messing up even as we started developing the product. So we are very strong in terms of plan and execution and I have very very good uptake from him. So I think clearly all in good places and of course we are also managing the risk associated within managing the risk and so I think you can read between lines we have a very strong plan in place for the manufacturers.
+Krish Sankar
+Got it. Thanks a lot gentlemen. Thank you.
+Lip-Bu Tan
+Thank you.
+Operator
+Our final question comes from Farhan Ahmad from Credit Suisse.
+Farhan Ahmad
+Thanks for taking my question. I just had a very high-level investor question. Lip-Bu, you kind of highlighted some of the concerns that are on more and more M&A in the semi space. I wanted to get some insight into how much of your revenues are coming from semi customers versus some of the new systems company that are doing semi conductor design? And you kind of started the call by highlighting some of your wins in aerospace, autos and bio medical.
+And I just wanted to see like if there is an offsetting defect to the M&A, in terms of systems companies becoming bigger and bigger part of the overall semi design and thatâs something thatâs not captured in these semi revenues. So I just wanted to understand if you can provide some commentary on that that will be really helpful.
+Lip-Bu Tan
+Yes, itâs a very powerful [ph] question. So I think you know a couple of things to highlight. And I think as I mentioned [Indiscernible] continue. Meanwhile you know we had been emphasizing on this system design development, the enablement. And that basis is providing the entire vertical solution spec that is from IT tool and PCB and a host of system design and verification and we strongly believe that is the strategy important and successful going forward to meet the requirement of some of this vertical that we mentioned earlier.
+We are very excited about some of this vertical. And so as I mentioned earlier, the IoT, the cloud infrastructure and the massive cloud infrastructure fuelling up, and the automotive is kind of the connective devices and then some of the medical field and DNA sequencing and all this chip data required income of cancer treatment and a few others and then those can be clear application for some of our IT portfolio and some of our EDA flow and also some of our hardware PCB and system analysis requirement.
+So all this time bodes well and synergistically providing a solution to attract some of this vertical. And answering your question the system company right now is more than 40% of our business and then some of that is very hard to categorize because some of the company system company also have a semiconductor subsidiary. And so we have to be very careful how to quantify that, but overall in general it is the fast growing increasing and also we have the right choice of platform for system company. We mentioned one, in my remarks, in the GE Aviation that is a very good example of EBITDA and then the hardware emulation and even some of the high end system levels and services that we can provide a solution to them and that is critical for some of these vertical markets.
+Farhan Ahmad
+Thank you. Thatâs all I had.
+Operator
+I will now turn the call over to Cadenceâs President and CEO, Lip-Bu Tan for closing remarks.
+Lip-Bu Tan
+In closing, I am very proud to highlight that Great Place to Work Institute has recognized Cadence and our hardworking employees by including Cadence in -- in their 2015 list of the worldâs 25 best multinational work places. I would like to thank all our employees, shareholders, customers and partners for their support. Thank you all for joining us this afternoon.
+Operator
+Thank you for participating in todayâs Cadence Design Systems third quarter 2015 earnings conference call. This concludes todayâs call. You may now disconnect

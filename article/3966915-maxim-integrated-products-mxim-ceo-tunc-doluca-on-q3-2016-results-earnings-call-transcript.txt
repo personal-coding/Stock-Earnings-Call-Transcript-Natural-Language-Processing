@@ -1,0 +1,348 @@
+Maxim Integrated Products, Inc. (MXIM) Q3 2016 Earnings Conference Call April 21, 2016 5:00 PM ET
+Executives
+Kathy Ta - Managing Director, IR
+Tunc Doluca - President and CEO
+Bruce Kiddoo - SVP, CFO
+Analysts
+John Pitzer - Credit Suisse
+Craig Hettenbach - Morgan Stanley
+Harlan Sur - JPMorgan
+Vivek Arya - Bank of America Merrill Lynch
+Ross Seymore - Deutsche Bank
+Amit Daryanani - RBC Capital Markets
+Ambrish Srivastava - BMO Capital Markets
+CJ Muse - Evercore ISI
+Chris Danley - Citigroup
+Romit Shah - Nomura
+Steven Chin - UBS
+Craig Ellis - B. Riley & Co.
+Mike McConnell - Pacific Crest Securities
+Will Stein - SunTrust Robinson Humphrey
+Doug Freedman - Sterne Agee
+Steve Smigie - Raymond James
+Ian Ing - MKM Partners
+Cody Acree - Drexel Hamilton
+Operator
+Good day, ladies and gentlemen, and welcome to the Maxim Integrated Third Quarter of Fiscal 2016 Conference Call.
+[Operator Instructions] As a reminder, today's program is being recorded.
+I would now like to introduce your host for today's program, Kathy Ta, Managing Director, Investor Relations. Please go ahead, Kathy.
+Kathy Ta
+Thank you, Jonathan, and welcome everyone to Maxim Integrated's fiscal third quarter 2016 earnings conference call.
+With me on the call today are Chief Executive Officer Tunc Doluca and Chief Financial Officer Bruce Kiddoo.
+I would like to highlight that we have posted a supplemental financial presentation to our external Investor Relations website. The information in this presentation accompanies the financial disclosures in our earnings press release and on this conference call.
+During today's call we will be making some forward-looking statements. In light of the Private Securities Litigation Reform Act, I'd like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear in our SEC filings. Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty and that future events may differ materially from the statements made. For additional information, please refer to the Company's Securities and Exchange Commission filings which are posted on our website.
+Now I'll turn the call over to Tunc.
+Tunc Doluca
+All right. Thank you, Kathy, and good afternoon to everyone on the call. We appreciate your interest in Maxim Integrated and thank you for joining us today.
+I would like to start our prepared remarks by highlighting three important takeaways. First, we recorded a strong March quarter as revenue recovered sequentially in our major end-markets. Second, our revenue guidance for the June quarter reflects seasonal growth in automotive and core industrial, growth in consumer from diversification, and a modest increase in communications and datacenter following a strong March quarter.
+Third, we executed well on our $180 million cost savings plan. Two milestones were completed during the quarter. We closed the sale of our fab in San Antonio to TowerJazz. The transition of the fab to its new owner is going smoothly. We also completed the divestiture of our energy metering business to Silergy. Bruce will provide more details on our cost savings progress right after me.
+Let me now turn to our quarterly results and outlook by major market. First, I will comment on automotive.
+Our March quarter automotive business was up strongly and in line with the expectations. Automotive was up from the same quarter of last year by 25%, reflecting content growth and continued strong adoption of new products. In the June quarter we expect automotive to again be strongly up. In fact, we expect June quarter revenue to exceed the $100 million milestone for the first time in Maxim's history. This milestone achievement and continued growth was driven by a broad set of products and customers across multiple geographies.
+Let me provide some color on several Maxim technologies that are experiencing strong adoption by our automotive customers.
+In power management, new infotainment and safety features in car electronics require innovative solutions to support application processors, USB ports and LED lighting. The data processing demand for these applications processors require not only higher clock rate GPUs and CPUs but also multiple cores to satisfy the heavy workload. In turn, our customers need higher integration power management solutions that are small yet efficient and can deliver high currents when data-processing activity heats [ph]. Our process technology design, product definition, advanced packaging, and [inaudible] and expertise provides significant advantages in winning over customers.
+We continue to see strong revenue growth in our high-speed serial-linked technology for next-generation, ultra-high-definition dashboard and infotainment system displays. In addition to displays, we are layering on new serial-linked design wins for video camera applications for safety and driver assist, or ADAS.
+In the quarter we saw a strong growth in automotive battery management systems for electric vehicles and hybrid cars across multiple customers, with particular strength in China. Going forward we expect battery management systems to be a meaningful driver of revenue growth. Customer requirements play to our strengths in power management technology. We win because we have deep understanding of batteries from two decades of developing fuel gauge products and design expertise gained during a decade of investment in automotive-grade robustness.
+Let me next turn to the industrial market. Our March quarter industrial business was strongly up, with a strong seasonal uptick in core industrial. In the June quarter we expect our industrial business to be up seasonally, normalizing for the sale of our energy metering business. This increase is primarily driven by core industrial, with broad-based strength across products sold into the factory automation market.
+We experienced strength across various interface and power products. Our strategy to deliver small form factor interface and power products to factory automation electronics is bearing fruit. We use integration and low-power consumption to drive size down in interface products and high-voltage efficient synchronous switching regulators and modules to reduce size and minimize wasted power.
+Together, automotive and industrial markets contributed nearly half of the total Company revenue in the March quarter.
+Next, let me discuss communications and datacenter. Our March quarter comms and datacenter business was strongly up, reflecting a broad-based recovery across our products in networking and data comm, cable, and optical for the datacenter. We expect that our June quarter will be modestly up sequentially as broad-based growth is partially offset by our cable business.
+In the longer term, we expect the cloud and datacenters to be a significant growth driver for Maxim. This quarter we announced our 48-volt power management solution for cloud and datacenter applications. Our solution provides significant improvements in end-to-end power efficiency. This reduces the total cost of ownership since less electricity is consumed throughout the life of the datacenter. Additionally, higher density server and storage solutions are enabled by our new 48-volt approach, compared to traditional power architectures.
+Despite the excitement about 48-volt, we see design win opportunities for both our 12-volt and our 48-volt solutions going forward.
+Beyond power management, modern datacenters require faster optical connectivity between racks to handle increased data rates. Maxim provides 25, 40 and now 100G optical connectivity between server racks in the datacenter. During the March quarter, we began shipping our 100G products to customers.
+Lastly, let me turn to consumer. Consumer was strongly up in the March quarter, with a flagship smartphone ramp. We expect consumer revenue to be strongly up in the June quarter, with improved diversification across customers, products and platforms. The sequential growth is expected to be driven by new wins in fitness wearables, tablets and smartphones. Together these products are expected to provide revenue growth in consumer despite approximately flat smartphone shipments to our leading mobility customer.
+In closing, we are executing well on our profitability initiatives, transforming our manufacturing footprint, and focusing on R&D investment toward the highest returns. We have design win momentum and revenue growth across the automotive, datacenter and industrial markets, and we are benefiting from improved diversification in consumer. Power management is the largest and fastest-growing market in analog [ph], and power is Maxim's core technology franchise.
+With that, I will now turn the call over to Bruce for a summary of our financial performance.
+Bruce Kiddoo
+Thanks, Tunc. Before I cover our financial results, I would like to briefly update our progress against our $180 million cost savings plan.
+We closed the sale of our San Antonio fab to TowerJazz in early February. The transition of the fab and its employees to the new owner is underway and progressing smoothly. The run rate of Maxim wafers running at the fab has been stable throughout the transition, without service interruptions. We've started to increase wafer loadings at our Oregon fab, which will support higher utilization and lower costs for our internally produced wafers.
+We closed the sale of our energy metering business in March and received $105 million in cash. We signed agreements to sell our Dallas campus, including office buildings and manufacturing facilities, and to sell our MEMS assets. Both transactions are expected to close in Q4.
+In summary, we are executing well on our manufacturing transformation and cost reduction initiatives, which will enable us to reach our long-term target model of mid-60s percent gross margin and mid-30s percent operating margin. In Q4, we expect to achieve two significant milestones: 63% gross margin and 30% operating margin.
+Now I will discuss Maxim's third quarter financial results.
+Revenue for the third quarter was $555 million, up 9% from the second quarter and at the midpoint of our guided range. Our revenue mix by major markets in Q3 was approximately 29% consumer, 28% from industrial, 22% communications and datacenter, 17% automotive, and 4% computing.
+In the March quarter, our automotive business was strongly up sequentially, reflecting normal seasonality and multiple customer ramps. Our industrial business was strongly up sequentially, better than expected, driven by a stronger-than-normal seasonal increase in our core industrial business, with particular strength in factory automation products.
+Let me now provide some commentary on our distribution business. Distribution comprise 38% of Maxim's revenue in the March quarter. Globally, retails were slightly down sequentially, with the U.S. and Europe up and Asia down. However, end-market bookings were up strongly, led by the U.S., China and Taiwan.
+Globally, we ended the March quarter with 58 days of inventory in the distribution channel, up five days from the December quarter. The increase in the number of days was driven primarily by timing issues in North America and Europe. We expect a reduction in inventory days in the June quarter driven by seasonality.
+Our communications and datacenter business was strongly up sequentially, driven by a broad-based recovery in our communications infrastructure markets. And finally, our consumer business was strongly u sequentially due primarily to smartphones, but below our expectations.
+Turning to the P&L, Maxim's gross margin excluding special items was 61.4%, up from 60.5% in the prior quarter, driven by cost savings from our manufacturing transformation and higher utilization. Special items in Q3 gross margin included intangible asset amortization from acquisitions, accelerated depreciation, and a patent license settlement.
+Operating expenses excluding special items were $191 million, up from $187 million in the prior quarter. This increase in expenses was primarily due to higher profit sharing bonus, with a smaller-than-expected offset due to a delay in closing the energy metering divestiture. Special items in Q3 operating expenses included normal acquisition-related charges, restructuring charges, and a one-time gain related to the sale of the energy metering business.
+Q3 GAAP operating income excluding special items was $150 million. Operating margin at 27% of revenue is up from the prior quarter, due to higher revenue and gross margin, and is up from 25% in the same quarter a year ago. This 200-basis-point year-over-year operating margin improvement was achieved at lower revenue relative to a year ago, driven by the manufacturing transformation and cost saving initiatives.
+Q3 GAAP tax rate excluding special items was 18%, a fixed rate set at the beginning of FY16. In GAAP earnings per share excluding special items was $0.41, in line with the midpoint of our guided range.
+Turning to the balance sheet and cash flow. During the quarter, cash flow from operations was $168 million or 30% of revenue. Inventory days ended at 100, down 24 days from Q2, and inventory dollars were down 15% from the prior quarter. The decline was due to the transfer of inventory with the sale of the San Antonio fab and the energy metering business, work-down of inventory that was built ahead of the San Jose fab closure, and tight controls.
+Net capital expenditures were $17 million in the quarter. Capital expenditures are we well below our normalized level of $29 million per quarter of depreciation, enabling cash flow to outpace earnings, and in line with our long-term CapEx-to-revenue model of 1% to 3%.
+Trailing 12-month free cash flow ending in Q3 using net capital expenditures was $681 million or 31% of revenue and up 5% year over year. Our free cash flow yield is approximately 6.5% at yesterday's closing stock price.
+Share repurchases totaled $84 million in Q3 as we bought back approximately 2.5 million shares. We also paid $0.30 in dividends per share, which totaled $86 million in the quarter. The dividend yield is approximately 3.3% at yesterday's closing stock price.
+Overall, total cash, cash equivalents and short-term investments increased by $87 million in the third quarter to $1.86 billion.
+Moving on to guidance, our beginning Q4 backlog was $370 million. Based on this beginning backlog and expected turns, we forecast Q4 revenue of $555 million to $595 million. As our guidance indicates, Q4 revenues are expected to grow 4% sequentially, led by continued strength in automotive, diversification in consumer revenue, a modest increase in comms and datacenter after a strong March quarter, and seasonal growth in industrial, excluding the energy metering divestiture that closed in March.
+Q4 gross margin excluding special items is forecasted at 62% to 64%, up from the prior quarter, as we begin to realize significant benefits from our manufacturing transformation. Special items in Q4 gross margin are estimated at approximately $16 million, primarily for amortization of intangible assets. Q4 operating expenses excluding special items are expected to be down 1% to 2% from the prior quarter, consistent with our $180 million quarterly target after adjustments, for increased profit sharing and accruals and timing of our MEMS divestiture.
+Special items in Q4 operating expenses are estimated at approximately $3 million, primarily for amortization of intangible assets. Our tax rate for Q4 excluding special items will be 18%.
+For Q4 GAAP earnings per share excluding special items, we expect a range of $0.45 to $0.51. For fiscal year 2016, gross capital expenditures are expected to be within the target range of 1% to 3% of revenue.
+And finally, we expect buybacks in Q4 to be consistent with our commitment to return 80% of free cash flow to shareholders.
+In summary, we look forward to a solid revenue quarter in Q4, driven by strong performance across all our end-markets. In parallel, we continue to execute well on our manufacturing transformation and cost reduction initiatives and we are on track to achieve 30% operating margin in Q4.
+With that I'll turn the call back over to Kathy. But before I do that, I actually want to clarify one item as I was reading my script and I saw that it said operating expenses were down 1% to 2%, I was thinking that was from our target of 187 versus 191. So to be very clear, we expect operating expenses to probably be $185 million plus or minus a little bit, maybe a little bit on the lower side, just to be very clear on that guidance.
+With that, I will now turn it over to Kathy.
+Kathy Ta
+Thanks, Bruce. That concludes our prepared remarks and we will now open the call up for questions.
+We'd like to introduce a change to our Q&A process this quarter. We will take one question from each caller so that we can get to more people in queue. If you have more than one question, please hop back into the queue. We're doing this in the spirit of getting to as many of you as possible.
+Jonathan, could we please have our first question?
+Question-and-Answer Session
+Operator
+Certainly. Our first question comes from the line of John Pitzer from Credit Suisse. Your question please. 
+John Pitzer - Credit Suisse
+Yeah, good afternoon guys. Thanks for letting me ask a question, and congratulations on the solid results.
+Tunc, I just wanted to get a little bit more into the consumer part of our business for both the March quarter and the June guide. Can you help us understand what percent of revenue the largest customer represented in the March quarter? And given that your flagship customer is going to be flat into the June quarter, is it now a situation where you think that that growth from here is going to be dependent upon sell-through of that new flagship phone and that builds have kind of got to a level that they need to be?
+Tunc Doluca
+Okay. So in terms of the percentage of our largest customer, it's kind of been this mid-teens range, and that's pretty much where it was.
+And in terms of how to predict, I think you're really asking how to predict what happens after this quarter. And we really don't have enough visibility to be able to tell that, on what their sell-through is going to be. But I think that what we've told you is that it's going to be flat this quarter. And as I indicated in the prepared remarks, what we're really excited about is the fact that the business is diversifying and we're getting the growth coming from other customers and other applications and types of products and products as well.
+So I think going further into fiscal Q1 at this point, it's not something that we can give guidance about.
+John Pitzer - Credit Suisse
+Thanks.
+Tunc Doluca
+But you're right, it depends on sell-through basically.
+Kathy Ta
+Thank you, John.
+Operator
+Thank you. Our next question comes from the line of Craig Hettenbach from Morgan Stanley. Your question please.
+Craig Hettenbach - Morgan Stanley
+Yes, thank you. A question on the automotive market, as you're talking about some of the opportunities in BMS. If I look back, kind of a very strong growth up into this point on things like infotainment. Just on a go-forward basis, how you see that mix of opportunities evolving over the next 12, 18 months.
+Tunc Doluca
+So from an opportunity and a revenue growth in the short term, we're going to get strong growth in the traditional markets that we said we had good presence in, and infotainment is one you mentioned, some of the ADAS or safeties is another area. What we're seeing is that, on top of that, we're layering in very strong growth in this BMS space, and we're going to see that rapidly grow and grow at a faster rate than we've been seeing in automotive in the next few years.
+So this was an area we actually have not talked too much in the past. But we've, you know, we've been in this market developing products for almost ten years. We had a significant amount of business, if you -- those of you that remember us in the days when we made fuel gauge products for lithium-ion batteries in notebook PCs and cameras and so on. So, pretty much about nine years ago we took some of those resources and put them on automotive BMS products.
+And we've now developed multiple generations of parts. We've got intimate knowledge of the battery systems from that old experience. Combine that with what we learned about automotive robustness, because these systems need very high levels of redundancy, communications have to be never get lost between the different BMS chips and so on.
+So we've got a long-term investment in it and we're now really seeing it begin to become significant in terms of revenue. And that momentum that's come in the last few years is going to continue.
+So in essence we're going to continue to grow the rest of our product portfolio and applications. And on top of it, later, a pretty fast growth BMS revenue as well.
+Kathy Ta
+Thank you, Craig.
+Operator
+Thank you. Our next question comes from the line of Harlan Sur from JPMorgan. Your question please.
+Harlan Sur - JPMorgan
+Hi. Good afternoon and congratulations on the solid results and outlook. On the second half opportunity for you to start to drive some incremental revenues from the datacenter power management products that will be deployed by some of your large power customers, just wondering if you can give us an update there. Obviously we're getting closer, maybe give us your confidence level on these starting to fire, and maybe sizing the dollar opportunity potential either on a quarterly or on an annual basis? Thank you.
+Tunc Doluca
+Okay. So let me try to kind of summarize what we're seeing here. So we, you know, there was a lot of news about the 48-volt architecture that was announced. But obviously we've got some great products in that space. But our initial revenue ramps really are coming from our older generation 12-volt products going into the datacenter. And we do expect in the near to medium term, probably by the end of this calendar year we'll begin to see some revenue.
+And in terms of the 48-volt, that's really we expected more in 2017. The exact timing and the amount of these revenues are difficult for us to really predict, mainly because it depends on some new programs ramping, and we don't quite exactly know when -- what volumes are going to get ramped by our customers.
+So in the power side, we do expect to get some revenue from our 12-volt solutions, let's say by the end of this year that's appreciable. And on 48, it's probably into 2017.
+On the optical side, which is the other side of our datacenter business, I mean those revenues are now, they're happening now. We've seen a substantial growth quarter over quarter. In the just-ended March quarter it was in the mid-30s percent growth quarter over quarter. And now that we've also started shipping our 100G products, which I talked about in the prepared remarks, we expect that growth to continue. And I think that we feel pretty bullish about the datacenter market.
+Harlan Sur - JPMorgan
+Thanks for the insights.
+Tunc Doluca
+Welcome.
+Operator
+Thank you. Your next question comes from the line of Vivek Arya from Bank of America Merrill Lynch.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you for taking my question. I think, Tunc, you mentioned diversification across consumer, and that has historically been a very volatile part of the business. And I know you're not providing guidance for the second half. But when I think about last year, typically there is a big inventory correction at your largest customer. So, how do I just conceptually think about the second half of this year? Do you think you have enough diversification to help offset whatever inventory correction there might be at that customer? Or do you still think that you're still going to be in a trajectory as further back you were at last year? I'm just trying to get a sense for when you said diversification, is that enough yet to help you prevent the volatility that we have seen in the second half of your calendar year over the last few years?
+Tunc Doluca
+So, Vivek, I agree, I think in previous years we've always had this inventory correction that's looming in the second half, from our largest customer. I don't think that's going to be much different this year. I think there will be that correction again.
+I think the business is going to be a bit more diversified this year. So the effect will not be felt as large as it was in previous years. But I think the effect will still be there. It's not -- the diversification is not enough to completely overcome what happens at our largest customer. So I hope that kind of helps. As I said, I can't really quantify it, but the diversification is not big enough right now to be able to overcome that.
+Kathy Ta
+Thanks, Vivek.
+Operator
+Thank you. Our next question comes from the line of Ross Seymore from Deutsche Bank. Your question please.
+Ross Seymore - Deutsche Bank
+Hey guys. Thanks for letting me ask a question. I had one on the industrial side. I guess, first, a quick clarification on how much the smart meter business was in the March quarter and/or how big of a headwind it is in June. But importantly, looking forward in the core business, I know that's an area you've reinvested in. Can you just talk about some of the new areas you can expect to grow in industrial over time and whether you think you can get that business back to growing at least in line with peers if not even faster?
+Bruce Kiddoo
+So, Ross, I'll take the first half of your multi-part single question. But the answer on the energy metering business is, it was just under $9 million in the March quarter. So that will be a headwind going into the June quarter.
+Tunc Doluca
+Yes. So, on the, Ross, on the second part of your question, we have been investing more in the space, especially on the factory automation side. We presented some of this at the Investor Day. But factory automation is the largest piece of that business. It's about 40% of the total industrial business in the Company.
+If you look at third-party data, the growth rate expected for that piece is about 6% per year. As you said, we've been investing more in this space, since 2012, and more products have come out as a result of that. And what we're seeing is a lot of interest in our products, mainly because of some great products we've introduced in the market in interface and also in power management, which, especially in power management, we didn't have too much of a presence if you look back five or six years.
+So these products are for I/O link, which is an interface product for IESD [ph], very robust, 45 circuits, digital inputs and digital outputs, it's called digital but in fact they're really analog in terms of the interface itself. And we introduced a whole new line of 60-volt high-efficiency power supply chips because most of the applications these days everybody is trying to shrink the size of whatever is used for factory automation, and our solutions provide that capability, because they're either higher integration or they're providing very high efficiency, so that the heat removal not become a challenge for our customers.
+So a result of all these products, I really expect our industrial business to grow. And if we do achieve what you said first, which is grow at a rate like our peers, that would be great. But obviously internally our goal is to be able to beat that in the long term. But that's what -- the first place we want to get to, is kind of get to the market rate and then get above that.
+Ross Seymore - Deutsche Bank
+Thank you.
+Kathy Ta
+Thank you, Ross.
+Tunc Doluca
+You're welcome.
+Operator
+Thank you. Our next question comes from the line of Amit Daryanani from RBC Capital Markets. Your question please.
+Amit Daryanani - RBC Capital Markets
+Thanks a lot. Good afternoon guys. Bruce, when I look at the June quarter guide, you guys are talking about 63% growth, 30% op margins. Can you walk us through and talk about what's left to accomplish the 65/35 model in the gross and operating margin line, especially if revenues stay in the current -- current to the guided range, in the mid to high $500 million range?
+Bruce Kiddoo
+Yeah. So on the gross margin side we're at the 63% now. We have the full benefit of the San Jose fab closure. We'll probably be at this range, you know, probably for the -- kind of the remainder of the calendar year. When we get into 2017, we'll get the benefit of a small packaging fab closure in Dallas and we'll start achieving more the benefit from the San Antonio fab closure. So in 2017 we expect to kind of step up all else being equal to 64%. And then by exiting calendar 2017 we'll get, you know, kind of start to get more benefits from San Antonio, start to see some benefits of the depreciation falloff towards the CapEx rate and we'll, you know, our expectation is to exit 2017 at the target 65%.
+I think from an overall operating margin point of view, we've gotten down now with a guidance that we've given now for the fourth quarter for OpEx, right, at 185 or below. We're going to manage in that area, within a pretty narrow range. I wouldn't expect a lot more savings there. And so, to get to that 35%, there will be some dependency on revenue growth to get there from the current levels.
+Certainly our expectations are, as we presented on our Investor Day, is that we do believe there's, between automotive and datacenter and industrial and wearables, opportunities to do that growth, but you can expect that we're committed to get to our -- that 65/35 model.
+Kathy Ta
+Thanks, Amit.
+Operator
+Thank you. Our next question comes from the line of Ambrish Srivastava from BMO. Your question please.
+Ambrish Srivastava - BMO Capital Markets
+Hi, thank you. I'm going to keep it to one so that I don't violate the rule and get in the penalty box. Just going back to the Analyst Day, Bruce and Tunc, one of the points in your stronger long-term business model that you made, I've wondered myself and I've gotten questions from investors as well, which is the revenue growth target which in the new model you've set 50% above industry. So the question, which of the -- if you strip out consumer in the last three, five-year CAGR, you have struggled to match up with the peers [inaudible] consumer. So, looking out, which segments do you feel will be instrumental in helping you grow above the industry? Thank you.
+Tunc Doluca
+Yes. So the first obvious answer is automotive. I mean that's been growing in the 20s, 30s percent per year. And that's gotten pretty large now. So that growth, I think that's got good momentum. It's not going to, you know, drop the market rates in the near term, it's going to keep growing pretty fast. And because it is large now, its contribution to overall Company growth gets bigger and bigger.
+We do -- we did make investments in industrial, as Ross pointed out earlier in one of his questions, in the last five years. So those are going to begin to bear fruit. So that's going to help kind of change the trajectory compared to let's say in the last five years of not growing as fast as some of our peers.
+Comms and datacenter, we've really put our investments in places were we see better opportunities for us and took it out of areas where it was high risk. So now we've got a more concentrated effort in power and we've added a whole new capability combined with Maxim -- with Voltera and Maxim, being able to deliver solutions now to customers that they really can't get from other companies. And our optical business is very focused.
+So, you know, things have really changed for us in terms of how we're running the business, how we've added capabilities and reduced investments in areas that are high risk. So, all of those changes over time are going to make -- have an effect and be able to get those businesses that we're investing more in the last few years, turn that into revenue growth that we were not able to get in our past.
+Bruce Kiddoo
+And Ambrish, this is Bruce. You are allowed -- we're allowed two responses for every question. And I just want to add on that, I think we probably have to clarify that for investors, that was our long-term model. Near term we need consumer to stabilize because today all of those positive that Tunc talked about have been offset by, at least historically, by decline in the consumer business. We are starting to see that diversification, our largest customer is becoming a smaller part of our business. We do believe that's getting to a manageable point.
+Once that business stabilizes, then we'll be able to see all of the benefits of the growth drivers that Tunc talked about.
+Ambrish Srivastava - BMO Capital Markets
+That is helpful, Bruce. Thank you.
+Bruce Kiddoo
+Yup.
+Kathy Ta
+Thanks, Ambrish.
+Operator
+Thank you. Our next question comes from the line of CJ Muse from Evercore. Your question please.
+CJ Muse - Evercore ISI
+Yeah, good afternoon. Thank you for taking my question. I guess focusing on the auto side. As you balance normal typical auto seasonality, with share gains that you have on your pipeline, how do you expect that business to track in the second half of the calendar year?
+Bruce Kiddoo
+Yeah. So this is Bruce. I think when we look at that business, it's clearly strong in the first half of the year, right? That's when you're starting to ship into the new platforms and you start getting that layering process where you layer on the new design wins on the existing kind of long-lived revenue that you've had prior design wins.
+When we look at the second half of the year, usually it's flat to maybe down slightly. And when I look historically over three, five years, the September quarter is usually flat and then the December quarter is usually down a little bit. So I think that's the reasonable thing to expect. I think it's obviously impacted by just momentum in the business. And in some quarters we do better than seasonality. But I don't think that's something you can predict with certainty.
+Kathy Ta
+Thank you, CJ.
+Operator
+Thank you. Our next question comes from the line of Tore Svanberg from Stifel. Your question please.
+Unidentified Participant
+Yes, thanks for taking my question. This is Evan [ph] calling in for Tore.
+In the emerging growth areas of factory automation, automotive battery management, and even your diversification in consumer electronics, could you point to any specific geographies that's getting more of your attention? And are you needing to do anything organizationally to address these opportunities? Thank you.
+Tunc Doluca
+Okay. So in these growth areas that you mentioned, they're pretty across the geographies. It's probably best to talk about them one at a time. You asked about automotive, industrial factory automation, and consumer.
+So in the automotive space, the focus we've got is it's pretty broad in terms of geographies. I did mention that a little bit in our prepared remarks. We really have good field coverage and technical support in all the major geographies for automotive. So we're not seeing that as something that requires any big changes.
+In industrial factory automation, most of that business is really coming from the expected places where Maxim already has good presence, Europe, U.S. and Japan basically. So we're, I think, we're pretty well-positioned, from sales and delivering solutions and services to our customers in that area.
+Consumer, a lot of that is in, basically, in -- some of it's in the U.S. but a lot of it is in Korea, in China. And we've got presence in those locations as well.
+So to your question as to whether we need to make some deep changes in the way that we're approaching these customers and geographies, we don't really see a need for change. We've -- I think we're pretty well-positioned in those places. Having said that, you need adjustments once in a while and we do those as we run the business.
+Kathy Ta
+Thank you, Evan [ph].
+Operator
+Thank you. Our next question comes from the line of Chris Danley from Citigroup. Your question please.
+Chris Danley - Citigroup
+Thanks guys. I just have one question in 37 parts. Kidding.
+On your largest customer being flat in the June quarter, is that -- was that what you guys expected, say, a month or two ago?
+Bruce Kiddoo
+So -- I'll take that. So I think when we look at it, certainly the -- sort of the new phone ramp is still up and the kind of the order products are falling off, and so that's how it kind of ends up being flat.
+When I look at it -- when we looked at the March quarter, probably March came in a little bit lower than we thought for our consumer business and for that largest customer. And so -- but I would have to go back and check. I'd say it's probably similar to what we thought or maybe even a little bit lower in general.
+Chris Danley - Citigroup
+Okay. Thank you.
+Bruce Kiddoo
+Yup.
+Kathy Ta
+Thanks, Chris.
+Operator
+Our next question comes from the line of Romit Shah from Nomura.
+Romit Shah - Nomura
+Yes, thank you. Tunc, you guys have done a pretty good job of just getting the house in order, the end-market mix is certainly much better than it was in the past and you're sort of at the tail-end of your cost synergies, getting your costs down. I'm just curious, from here, what's really the next leg of the story for Maxim? Do you just continue to try to grow sales, earnings cash flow organically, or could we see the Company get more aggressive about adding scale and just diversifying your channel through acquisitions?
+Tunc Doluca
+Yes. That's a pretty multiple-part question I think. But I think there's still some runway on the cost reduction because there is, as Bruce was explaining to another caller, we've not completely realized all of the gross margin expansion pieces. But all of the motions we've put in place are in place, so that's kind of executing into a plan. At this point we do need to start to begin to grow the Company. If we don't do that, then obviously we don't achieve the model that we talked about.
+I think we're pretty well-positioned in terms of where we're investing, kind of narrowing down the focus of the Company to areas where -- that are our core strengths. So we've made those changes. Those are going to have -- I believe they're going to have a positive impact on the Company.
+In terms of what you mentioned for, you know, should we be open to doing buying companies and doing some of the consolidation -- participating in the consolidation activity, that's an area that, as we've said in the past, we've always been open to looking at other companies. And we have strong capacity to be an acquirer. But we will be financially disciplined and really pursue these strategic acquisitions where they're accretive to us.
+But there's also another piece of that equation which is the targets that meet what we've said is our strategic objectives, they look a little expensive to us. So I think that we're definitely open to that and are kind of looking at our options. But we've not been in a position where we've met all of our conditions to be able to really act on it, as you know.
+Kathy Ta
+Thank you, Romit.
+Romit Shah - Nomura
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Steven Chin from UBS.
+Steven Chin - UBS
+Hi. Thanks for taking my question. A question on the consumer diversification that you guys are doing right now [ph], specifically on the fitness and wearable devices, are you seeing a maybe seasonality helping the business in the near term or are there new customers and new design wins coming into the fold? Is it still primarily, is it a mix of power management products or is it also including more biosensor type components in the new products? Thanks.
+Tunc Doluca
+Okay. So on the fitness wearable side, the strength that we're seeing right, you know, in the quarter we ended and the quarter that we said that we have good growth, they're mostly new designs. It's not seasonality, it's our ability to penetrate customers in terms of really giving them solutions that they value. And most of those ramps have been in the power management side, frankly and less on the sensor side. And it's, you know, multiple customers. So we feel good about it because it is multiple customers and multiple models. And I think that that's going to be an area that's good for our power business.
+Some of the revenues also coming from our very specialized micro-controllers, but I think it's mostly dominated by power at this point. And they're not driven by seasonality, they're driven by new design wins.
+Steven Chin - UBS
+Thanks, Tunc.
+Kathy Ta
+Thanks, Steven.
+Operator
+Thank you. Our next question comes from the line of Craig Ellis from B. Riley.
+Craig Ellis - B. Riley & Co.
+Thanks for taking the question. I just wanted to follow up on a couple of the industrial comments, both from the prepared remarks and then in response to earlier questions. I thought I heard that the metering [ph] business was about $9 million in the reported quarter. So if we exclude that, did the core industrials business grow in the March quarter? And if so, what were the primary drivers for that growth?
+Bruce Kiddoo
+Yeah. So, concerning the energy metering business, so we put that into our vertical market, so you're right it was about $9 million that shipped in the March quarter that will not ship in the June quarter. But when we look at our results for the quarter, the strong growth that we saw in core industrial was independent of the metering business. So, all the kind of the strength that Tunc mentioned in his script was independent of that.
+Craig Ellis - B. Riley & Co.
+Thanks, Bruce.
+Bruce Kiddoo
+Yup.
+Kathy Ta
+Thank you, Craig.
+Operator
+Thank you. Our next question comes from the line of Mike McConnell from Pacific Crest Securities. Your question please.
+Mike McConnell - Pacific Crest Securities
+Thanks. Tunc, wanted to kind of think about something for next year, this next-generation heart rate monitoring sensor platform that you guys introduced at Mobile World Congress, I was curious to see, you know, it's been a few months since that launch, and just how the sampling is going, design win traction, and if you could remind us if it is successful at some of your top mobile customers, what it could mean for dollar content increases per unit. Thanks.
+Tunc Doluca
+Yes. So we, I think we showed several [inaudible] I wasn't there, so I'm not sure exactly what we showed. But I think we showed products for, both for optical and also electrical measures for EKG, I believe we showed. So we are presently showing those products to customers. Frankly, I don't know if we've won anything or close to winning anything, so it's hard to -- for me to comment. But we'll report out in future quarters when we find out more.
+I do know that the product actually has very good performance. There what's important is your ability to really reject all the noises and all the things you get from a very sensitive measurement. And what we're hearing from customers is that we have a frontend circuit which is mostly an analog circuit that does a really great job of being able to sense the signal at once and reject the ones that it doesn't. But in terms of traction and design wins, I think it's too early to tell.
+Kathy Ta
+Thank you, Mike.
+Operator
+Thank you. Our next question comes from the line of Will Stein from SunTrust.
+Will Stein - SunTrust Robinson Humphrey
+Great. Thanks for taking my question. I'm wondering if you can help us understand or remind us, in the industrial end-market, how much of that business that's remaining after the divestiture to the power meter business is vertical versus sort of catalog? And are there any other pieces of the business either in industrial or elsewhere that would be candidates for divestiture?
+Bruce Kiddoo
+Yes. So this is Bruce. So when we look at our businesses now, it's a probably two-thirds of our industrial business is now core, versus a third for the verticals. And then from additional divestitures, we did announce on the call that we've signed agreement to sell our MEMS assets. I think from the strategic review that we had done last year in our $180 million cost savings plan, that's probably the last major item that was on our list. Obviously from a portfolio management point of view, we're always looking at where do we need to make investments and where there are opportunities to help fund those investments by looking at areas that maybe haven't -- or markets haven't developed as we have expected.
+Will Stein - SunTrust Robinson Humphrey
+Thank you.
+Kathy Ta
+Thanks, Will.
+Operator
+Thank you. Our next question comes from the line of Doug Freedman from Sterne Agee. Your question please.
+Doug Freedman - Sterne Agee
+Thanks guys for taking my question. If I could, I'm trying to see if you can share with us some of the leading indicators in the business, whether it be your ability to capture higher dollar content in the units you're shipping into or whether new products are actually winning at a greater percentage than some of your legacy products or design win tracking metrics, any of those things that would give us a sense of leading indicators about the health of the business.
+Tunc Doluca
+Yes. So from my viewpoint, a good leading indicator is your design win dollars, if it were very accurate. And in my experience I found that it's pretty difficult to use that as a gauge because it's very hard to put in a discount rate that's accurate for customers' success rates with the producst they make, or even bringing them to market.
+So we essentially are -- we look at very short term the design win numbers, but there's a lot of variation in that. So it's really difficult to come up with a really good metric in terms of predicting the future by looking at your design win activity.
+The other piece of that that's challenging is the fact that a large amount of business is going through the channel that you don't get a lot of this information from, other than design registrations that you get.
+So for our direct business, we use design wins. They're, in my view, they're really not that accurate. They're not accurate enough to share with investors.
+The other front from distribution front, we look at design registrations via distributors, and we've kind of stopped doing that. We shared that for a long time actually with some of you, but those, you know, were actually good indicators for us. They did show that we were getting -- the registrations were going up year after year, especially after we changed our distribution strategy. And we have seen that result. I mean, our distribution part of our business has grown in the last five or six years.
+So those are the kind of metrics we use internally, you know, when Bruce and I discussed it at some point, it -- these are definitely not things that would be good to share because they don't have the level of accuracy we need to share with investors.
+Bruce Kiddoo
+And on a more qualitative basis, I agree with everything Tunc said, I think on a more near-term basis we do say, you know, in our growth drivers, are we continuing to see kind of the momentum that we want to see in the market? So like in automotive where we've always done very well, and infotainment, and continue to do well, but we see, like we talked about today, sort of the beginnings of a nice growth in battery management systems or layering on ADAS applications on the [inaudible] business. We've seen kind of the beginning of good traction within the datacenter initially on optical where we've already started to have the initial shifts on 100 gig and the traction around our 48-volt and 12-volt products, or even in wearables.
+So today where we have small markets and they're not really material to our results that we reported today, that we see that business starting to grow off a small base at very fast rates. And I think as far as kind of predicting revenue opportunities a year out, those are probably kind of good indicators. The design wins are, to the extent that they're accurate, they're more of an indicator of probably two, three years out.
+Kathy Ta
+Thank you, Doug.
+Operator
+Thank you. Our next question comes from the line of Steve Smigie from Raymond James.
+Steve Smigie - Raymond James
+Great. Thanks a lot guys. I was hoping you could comment a little bit further on the batter management wins in auto. And I was just curious, when you win a design on a vehicle, are you typically winning that whole vehicle platform or would you share that with other power management players?
+Tunc Doluca
+It really depends on the individual strategy of the car manufacturers. There's models in both camps. There's some that are really won completely. In others, we have seen some that are shared.
+But just to give you some idea here of the momentum that we're seeing in this thing, I mean we're working in -- at OEMs that are probably in the low-teens in terms of numbers, so that tells you that it's very broad. We're in over 40 platforms in terms of working on designs.
+I think some of these are -- have multiple solutions, with multiple suppliers. But that's really not the norm. I'd say that they're more aspired [ph] for a platform, picks a company to work with, and works with them until they take it to manufacturing. So it's, you know, it's varied, but I think the majority is you pick a company that's got history, that's got a product portfolio that fits, that's got a product that's robust, that's got a product they can depend on, in terms of delivering that function for many years, as you all know in automotive that's a must.
+So we're seeing it as a good business and it's got a lot of various entrants. That's why we like it.
+Steve Smigie - Raymond James
+Thank you.
+Kathy Ta
+Thank you, Steve.
+Operator
+Thank you. Our next question comes from the line of Ian Ing from MKM Partners. Your question please.
+Ian Ing - MKM Partners
+Yes. Thank you. So, how much do you expect 48-volt power management to proliferate? I'm hearing more about 48 management -- 48 volts for energy efficiency for automotive and for datacenter, I mean perhaps which applications, how much of the power management BOM [ph] do you think 48 volts will take?
+Tunc Doluca
+Okay. So there's a 48-volt -- obviously 48-volt has been around for a while in industrial systems, but the penetration -- your question is more about penetration into automotive and communications and datacenter products.
+Ian Ing - MKM Partners
+Yeah, we're hearing about energy efficiency requirements.
+Tunc Doluca
+Yeah. So in terms of energy efficiency, the biggest impact really is in the datacenter application, because that new architecture, as a large customer had shown, really does provide a lower cost of ownership, so it does definitely save energy if you're the operator of the equipment, if it's in your datacenter. It is, you know, there is an initial, the BOM [ph] is a little bit higher than 12-volt solutions. So it's got more chances to be used in those customers that are cloud customers, because they carry the cost of paying for that electricity for the life of the product.
+Now what the adoption rate will be is really, you know, it's hard for us to predict. We only know that, from an engineering standpoint, it makes sense. But adoption is a funny thing. Sometimes something that makes sense does take a long time to be adopted by customers because it's new.
+So we're, you know, we're very bullish about it getting into many more designs at the cloud customers. But I also am realistic and I think that it will take some time, because it's something that's new.
+On the automotive front, the reasons are a little bit different. There the reasons are there's more and more high watt usage equipment that's getting into cars, things like start/stop motors at lights, put more demands on the battery. There's more -- there's regenerative breaking to take more energy out of -- and put it somewhere. A 12-volt battery is typically not big enough to store all that energy. There's other applications that require high peak usage. And that I think is going to drive more 48-volt requirements, or essentially a second battery in cars, even in gasoline cars. So in automotive, that'll probably take even longer than in the datacenter market.
+The good news in both markets is it's great for companies like us because it's -- the 12-volt -- in cars, 12-volt electronics is still needed, so we need those products still. And this is a story of now you need more electronics because the 48-volt battery needs a batter management system chip it didn't have before, it needs electronics for the energy transfer between the 12-volt battery and the 48-volt battery. I mean it's just more and more electronics. So it goes through the basic story we've been telling, that car's content is going to keep growing, and it's another proof point in that direction.
+In the comms and datacenter, it's really good for us because all of the very high-current requirements for these, you know, power-hungry processors, we still have to service. In addition to that, it's opening up more revenue potential for us because now we need visual isolators to drive the 48-volt side power Mosfits [ph], we need another controllers on that side. So it's driving additional incremental SEM [ph] for companies that have those technologies, like Maxim.
+So I think your question was really about adoption. I think that's going to take some time. But that's okay. I mean, as long as we've got advantages and we can increase our SEM [ph], that's a good thing for the Company.
+Kathy Ta
+Thank you. And Jonathan, I think we have time for just one more question.
+Operator
+Okay. Our final question comes from the line of Cody Acree from Drexel Hamilton. Your question please.
+Cody Acree - Drexel Hamilton
+Yeah, thanks for getting me in guys. Maybe just broadly talk about your exposure in China across your major verticals and maybe just relationship to China GDP volatility.
+Tunc Doluca
+Okay, I didn't understand the last part of the sentence.
+Cody Acree - Drexel Hamilton
+Just the tie to China GDP volatility.
+Tunc Doluca
+Oh, GDP volatility. I see.
+Well, it's -- I think China GDP is slowing down, but I don't know if I'd class, you know, I'd say it's a volatility issue there. Our plans are kind of independent of really what's going on in their economy. There's a lot of opportunities for our products and we continue to have a strong field sales force and a field applications force there to be able to win designs. And frankly, we're not tied too much to what's happening to their GDP. But obviously if something does happen to -- that creates a financial crisis, that probably has an impact on us because it'll affect our customers. But in making our day-to-day decisions, we're kind of working independently of what's happening in the headline news.
+So our focus in China has been in optical. That's a good market for us. That's where most of the modules are made. Automotive has been a great growth areas, especially recently with the requirement to do more electrification of cars coming from the government. And obviously we have some mobility customers there that we also work with.
+So the way we're operating the business is kind of like everything is going normally. And that's the discipline you need to be able to win, regardless of everything that's happening around you.
+Cody Acree - Drexel Hamilton
+Thanks guys.
+Kathy Ta
+Thank you, Cody.
+Operator
+Thank you --
+Kathy Ta
+Go ahead, Jonathan.
+Operator
+This concludes the question-and-answer session.
+Kathy Ta
+All right. Thank you, Jonathan.
+And that concludes today's conference call. We would like to thank you for your participation and for your interest in Maxim.
+Operator
+Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
+

@@ -1,0 +1,262 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q3 2016 Earnings Call October 24, 2016 5:00 PM ET
+Executives
+Alan Lindstrom - Cadence Design Systems, Inc.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Analysts
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Krish Sankar - Bank of America Merrill Lynch
+Farhan Ahmad - Credit Suisse Securities (USA) LLC (Broker)
+Mitch Steves - RBC Capital Markets LLC
+Monika Garg - Pacific Crest Securities
+Richard Valera - Needham & Co. LLC
+Sterling Auty - JPMorgan Securities LLC
+Thomas Robert Diffely - D.A. Davidson & Co.
+Operator
+Good afternoon. My name is Mike, and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Design Systems Third Quarter 2016 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there'll be a question-and-answer session. Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom - Cadence Design Systems, Inc.
+Thank you, Mike, and welcome everyone to our third quarter 2016 earnings conference call. With me today are Lip-Bu Tan, President and CEO, and Geoff Ribar, Senior Vice President and CFO.
+The webcast of this call can be accessed through our website, cadence.com, and will be archived through December 16, 2016. Copy of today's prepared remarks will also be available on our website at the conclusion of today's call.
+Next please note that today's discussion will contain forward-looking statements (1:05) that our actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q including the company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release issued today.
+In addition to the financial results prepared in accordance with Generally Accepted Accounting Principles, or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results, which can be found in the quarterly earnings section of the Investor Relations portion of our website.
+Additionally, a copy of today's press release dated October 24, 2016 for the quarter ended October 1, 2016 and related financial tables can also be found in the Investor Relations portion of our website.
+Now, I'll turn the call over to Lip-Bu.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Good afternoon, everyone, and thank you for joining us today. We were pleased by our results for the third quarter, as Cadence continues to execute on (2:42-3:00) $84 million. Let me start with the environment today. Semiconductor conductors business conditions continue to be mixed with some sectors performing better than others. Favorable trends including cloud and datacenter, automotive, artificial intelligence, and video.
+While semiconductor consolidation has not had a material impact on our business this year, it may present challenges over the next few years. And at the same time, our relentless focus on innovation, execution, and helping our customers succeed is driving our momentum in the marketplace and our opportunity continue to grow with system companies.
+Which leads me to our System Design Enablement or SDE strategy. SDE open up additional growth opportunity, as it take us beyond a horizontal focus on semiconductors and moves us to a system company focus on end-market products and vertical market segments, thus increasing our customer base. One important SDE trend is the adoption of our market leading IC packaging solutions for applications in which the IC package is becoming a primary system integration platform.
+In Q3, we expanded our business with BAE Systems, including system-level integration using our IC packaging solution and with significant adoption of our Innovus and Genus Digital IC design flow for SoC design. And we delivered a comprehensive system design solution for TSMC advanced wafer-level Integrated Fan-Out packaging technology known as InFO. TSMC awarded Cadence with a Partner of the Year award for development of this solution.
+Our System Design and Verification group delivers a holistic verification suite of connected solutions that are based on strong core engines and optimized for total verification throughput which include Palladium for emulation, Incisive for simulation, and JasperGold for formal verification.
+In Q3, Palladium Z1 continued its strong momentum adding nine new customers. Continuing with the SDE theme, five of the new Palladium customers were system companies including a major aerospace company.
+Mobileye adopted the Palladium Z1 for the development of automotive vision technology for ADAS applications. And Fujitsu adopted Palladium Z1 for the development of its ARM v8-based Post-K supercomputer, the next-generation flagship supercomputer in Japan. Overall, verification is especially critical in automotive applications, and to that end in Q3, we expanded our business with Infineon in the area of automotive functional safety.
+Our digital and signoff products continue to gain momentum with the top 20 semiconductor companies. Overall, we had six full digital flow wins in Q3. A global system company is deploying our Innovus implementation solution for advanced node designs. And a market-shaping semiconductor company, pleased with the performance of our digital solutions, exercised the growth option in its contract to begin proliferation across its design groups.
+Tempus, our timing signoff solution, now has nearly 150 customers with rapid growth in mixed-signal timing signoff. The number of 10-nanometer tape-outs with our solutions is growing rapidly. And we work closely with TSMC to certify our implementation and signoff tools, and integrated flow for 7-nanometer designs.
+Next I will move on to IP, which is a strategic business for us, a key component for our SDE strategy. First, I will discuss our strategy, and then will provide highlights for the quarter.
+During the quarter, we completed our review of our IP business strategy. The result of the review is that we significantly increased our focus on: standardized, off-the-shelf IP; certain strategic vertical markets; and most advanced process nodes, while deemphasizing more customized IP.
+IP remains an important business for us. The IP market opportunity is strong as the outsourcing trend continues, thus creating opportunities for future growth. We are confident that these refinements will drive sustainable and scalable growth, and we expect our IP business to return to modest sequential growth for Q4.
+We have some great IP product highlights for Q3. Virtual and augmented reality are exciting new technologies that I'm watching closely. The Tensilica architecture provides unmatched performance and power efficiency of this type of application. I'm thrilled that our Tensilica processors are at the heart of the holographic processing unit in Microsoft's HoloLens AR headset, using 24 Tensilica Xtensa cores.
+Cadence has worked closely with TSMC to develop some of the first design IP offerings for the 7-nanometer process, offering earlier access to protocols that are optimized for mobile and high-performance computing applications. We have already delivered 7-nanometer DDR IP to a top tier Asia-Pacific customer.
+We also introduced a broad portfolio of interface and memory design IP solutions for automotive applications using TSMC's 16-nanometer FinFET Compact process. Cadence delivered the first design IP for MIPI SoundWire Version 1.1 for high quality audio solutions and demonstrated interoperability with Realtek.
+So, now, in summary, we are executing on our strategies and Cadence delivered good operating results for Q3. Interest in the Palladium Z1 remains strong with adoption by nine new customers in Q3. Our digital and sign-off solutions maintained their momentum with market-shaping customers. We completed the review of our IP business strategy, and with our new focus we expect the business to return to modest sequential growth in Q4.
+Our IC packaging solutions are growing in importance as a key component of System Design Enablement. And we won four TSMC Partner of The Year awards for collaboration on both 7-nanometer mobile and high performance computing design flows; InFO IC packaging solution and our analog and mixed signal IP.
+Now, I will turn the call over to Geoff to review the financial results and provide our outlook.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Thanks, Lip-Bu, and good afternoon, everyone. Execution was good in Q3 with key operating metrics meeting or beating our expectations.
+Total revenue was $446 million, in line with our expectations. Non-GAAP operating margin was 26%. GAAP net income per share was $0.23, and non-GAAP net income per share was $0.30. Operating cash flow was $84 million, and we repurchased 9.6 million shares of stock for $240 million, over 3% of the shares outstanding at the end of the prior quarter.
+Also note that the weighted average contract life was 2.5 years. Recurring booking and revenue mix has remained approximately 90% for the past year. DSO was 34 days, down 1 day from Q2. Due to an increase in hardware leases driven by strong hardware sales, DSO has increased by 6 days and long-term receivable has increased by $13 million compared to Q3 of 2015.
+Now let's turn to our outlook. There are no changes to our fiscal 2016 outlook for the midpoints of bookings, revenue, operating margin, EPS or cash flow. We have narrowed the ranges on bookings, revenue and EPS.
+We expect: bookings in the range of $2.03 billion to $2.07 billion, which equates to 8% growth at the midpoint; revenue in the range of $1.81 billion to $1.82 billion, which would be a 7% growth at the midpoint; non-GAAP operating margin of approximately 26%; GAAP EPS in the range of $0.74 to $0.76; non-GAAP EPS of $1.19 to $1.21; and operating cash flow in the range of $380 million to $420 million.
+And for Q4, we expect: revenue in the range of $463 million to $473 million; non-GAAP operating margin of approximately 27%; GAAP EPS in the range of $0.18 to $0.20; and non-GAAP EPS in the range of $0.32 to $0.34; approximately 90% of the revenue is expected to come from beginning backlog.
+Also note that we are launching a voluntary retirement program in Q4, and we've included the estimated cost of $12 million in our GAAP outlook. You can find guidance for additional items in the CFO Commentary.
+Now with that, operator, we'll take your questions.
+Question-and-Answer Session
+Operator
+Your first question comes from Jay Vleeschhouwer from Griffin Securities.
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Yeah. Thank you. Good evening. Lip-Bu, let me start with you with a couple of related market questions. You noted in your prepared remarks that you've so far been able to avoid the anticipated adverse effects of semiconductor customer consolidation. Perhaps, remind us why you've been able to avoid that so far?
+And relatedly, it would seem that EDA, as a percentage of semiconductor R&D, has remained fairly steady. That relationship has held more or less the same. But could you talk about other current or leading indicators that you're relying upon now to forecast or anticipate your business? What else would you be looking at besides semi R&D to gauge the environment?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+So, thank you, Jay, for good questions. So, couple of things. One, first of all, I think, let me touch on a little bit about the environment. So, I think we all know that the semiconductor business is very challenging and quiet mixed. And some of the statistics shown that this year will not have growth for semiconductor overall in the sector. But meanwhile, I think fairly there's some great opportunity in terms of longer term, and I mentioned the mobile video related machine learning, deep learning, artificial intelligence automotive and it will be significantly increased some of the design opportunity especially in the system company and also in an IP core area.
+And so, to get back to your question about consolidation, so, clearly, I think this year is slower than last year in terms of the large consolidation. And then, clearly, we are very mindful, we pay a lot of attention about the consolidation activity. We do not expect any material impact to our business in 2016, but the next couple of years and challenging for us to forecast and it's too early estimate some of the impacts.
+And then a question about how do we avoid, and clearly, we're engaging with our customers, collaborate deeply with the customer and make sure that whatever the new design, new product development we are heavily engaging, especially some of the new product development and also some of the new advanced node they are embarking on either the 10-nanometer or 7-nanometer. And so those are the things that we try to really engage steadily with the customers and that's the best way to kind of avoid some of the consolidations.
+And then the other part, the impact. And then the other part in term of your question about the indications, the best indication for me is when we view it, as you know, very legally (18:55) with the customers. They see our new technology, new development and new product, and then quite early (19:01) embarking on something that is really exciting like machine learning, deep learning is going to be a huge impact to our overall industry across all the different verticals either in automotive or in the search engine in some of the genomic sequencing developments. And we are actively engaging with our customer in R&D development. And as a trend, we've seen that they're very firm (19:26) with us, and then we make sure that our products and our tools providing the differentiating solutions that we're looking for in order to success in the marketplace.
+Jay Vleeschhouwer - Griffin Securities, Inc.
+All right. Thanks. Let me finish up with just couple of related product questions. When we look at the industry data over the last number of years, we see a number of product categories each of which you participate in that have had fairly steady growth on a trailing 12-month basis, and in some cases for a couple of years or more. For example, custom layout has been consistently a good category for a number of years, place and route, parts of physical verification have been doing pretty well on a steady basis.
+On the other hand, analog/mixed-signal has been flat to down; RTL simulation, important category, flat to down; and synthesis as well. So, you participate in each of these categories to varying degrees. And my question is, what headwinds or impediments would you anticipate for those categories that had been consistently good so far. On the other hand, what possible tailwinds would you anticipate for those categories like AMS and RTL and so forth that have otherwise been kind of lagging for the last couple of years?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. Very good question. So let me touch on some of the topic that you mentioned earlier about the category of products. And so, as I mentioned earlier, we are very focused on the customer engagement in some of their new product development, and that's where our tool come in and IT come in. And so clearly, the complexity of some of this design and the opportunity become very clear to us. For example, in the machine, deep learning our Tensilica (21:20) and a lot of customers very interested in our Tensilica related area.
+In term of some of this aggressive either in machine learning or graphic or the CPU related, place and route and then synthesis and then the verification becomes critical for them in term of get to market quicker and the complexity of the design and the layout. And also they're worried about the power and signal integrity issue in terms of the end-to-end. So, our IC packaging that I highlight become very critical. And then the PC part, in terms of security, in terms of power, signal integrity become very, very compelling for them to engage with us.
+So I think overall, I will say that across the board all the product looking forward we're excited about the opportunity, and the customer feedback and then they really like the performance that we have and then the engagement model that we continue to stay humble, working with them and then with the can-do attitude to really drive success for the customer, they love it. And that's why I think across the portfolio that you look at, even the custom analog side, we see continued growth especially in the mixed-signal side and then we are the de facto standard and for the last decade. And a lot are moving into the advanced node. So, we are really aggressive more on the 10-nanometer and 7-nanometer, and also proactively, more than 100 customers right now are using our Virtuoso in the most advanced FinFET.
+And so I think I see continual growth because of mixed signal requirements and especially in the automotive side and in some of this power related concern that they have, they're starting to really embrace our solution that we can really drive the low-power solution they need to meet their envelope requirement.
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Thanks very much.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Thank you.
+Operator
+The next question comes from Krish Sankar from Bank of America.
+Krish Sankar - Bank of America Merrill Lynch
+Yeah. Hi. Thanks for taking my question. Actually I have a few of them. Lip-Bu, just to follow up on the semi R&D impacting EDA industry down the road, is the voluntary retirement program you announced kind of tied to that where you expect the growth to slow?
+Along the same path, you've done about, in the last couple of years â this year, you're going to grow about 7%, in the last couple of years between 8% to 10%. On a go-forward basis, what do you think is the right growth rate for the industry? Then I had a few other questions to follow up. Thank you.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. Good question. And I think you mentioned about the R&D impact and then some of the retirement program that Geoff will be able to highlight to you. But clearly, we continue to drive the innovative part in driving the solution, the performance of the tool, the PPA power performance area and the runtime drive the productivity for the customer to work with them to really drive some of this efficiency, time to market.
+Like for example, our Palladium is a very good one that we can really drive some of this verification requirement they need and also the Incisive with our Rocketick acquisition we can really drive some of this runtime and then the build time requirement the customer needs. And then so, I think, all in all, not just to help our customer to drive efficiency and we also look at ourselves how we can drive efficiency in terms of our own organization, and so that we can really drive the customer engagement so that make sure that we cannot just continue pull a lot of AE and support and we drive some of the product quality performance. We have a big quality effort so that we can really drive efficiency across the organization.
+And then, Geoff can highlight a little bit more about the retirement program.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+So, on the voluntary retirement, it is something that we've done from time to time in the past for our employees. It does allow us to, of course, focus on our return to our shareholders also. So I think it's a win-win solution.
+Krish Sankar - Bank of America Merrill Lynch
+Got you. Got you. All right. And then I had a couple of other quick questions. One is, for Lip-Bu, you guys are gaining traction on the emulation market. Curious to know your view on the physical prototyping, would the HAPS business be something of interest to you? So, it looks like lot of the customers are beginning to outsource, would that be of interest for your emulation hardware platform or is it too smaller market?
+And then along the same type for Geoff, you guys have done about $240 million a quarter share buyback pretty consistently that's going to get done by Q4 this current quarter. So, I want to know your thoughts on capital returns when you look into 2017, buybacks, any dividend or plan to take on any more leverage. Thank you.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. Good question. So, let me address the first question you have about the emulation and the prototyping. So, clearly our Palladium Z1 is the most successful launch for our emulation business. We continue to see a lot of growth and then used models. And so we continued to drive some of the new used models that are very exciting for us. And then the other part is clearly beside selling a lot to our clear leading semiconductor company and anything below that 40-nanometer process design, this is a must have and it's very scalable, the capacity is very strong, 9.2 billion gates over 2,000 concurrent users, and that is the scale that we have and also is a very datacenter-class reliability that we have. I think customers just love it.
+We continue to see more new customers, and we mentioned about the aerospace, mobilize and Fujitsu for the super supercomputer, they're all using ours. I think that clearly we also double down on the prototyping side. We have the Protium, the series of product family, and we're adding our FPGA prototyping scale and capacity and performance and stay tuned. And we're going to continue to drive that and a mixture that is fully integrated verification, not just a Palladium prototyping Protium and then with our Incisive Rocketick and then also our kind of very successful the formal verification JasperGold. And in fact, this quarter is the best quarter we have. And so, we continue to drive success and some people think about verification, they think about Cadence verification suite of products and that drive the performance that they need.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+And, Krish, on the buyback, we remain committed to the $1.2 billion repurchase program, which as you point out ends in Q4. So far we've repurchased over 45 million shares for $916 million. That's approximately 15% of the shares outstanding when the program began in July of 2015.
+As always, we look at how our program balances our need for investment in our business. The appropriate level of risk for our business model and operating environment, and of course opportunities to return cash to shareholders. We regularly review our capital structure along those same lines and will continue to do so. At this time, we're not commenting on 2017.
+Krish Sankar - Bank of America Merrill Lynch
+Thanks, guys.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Thank you.
+Operator
+The next question is from Farhan Ahmad from Credit Suisse.
+Farhan Ahmad - Credit Suisse Securities (USA) LLC (Broker)
+Thanks for taking my question. My question is regarding your revenues, the breakup between semi versus systems. You've noted in the past that about 40% of the revenues for you guys come from systems. I was wondering if you can provide some color on your overall growth. How is the growth for semi versus systems tracking this year? And is one portion of the business growing faster than the other?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Hi, Farhan. So, welcome to the call. So, our ratable model means that we don't see large swings in revenue-based metrics from quarter-to-quarter, period-to-period. Our system business was strong in Q3, as Lip-Bu pointed out in some of the prepared remarks and is growing nicely, but also our semi businesses is growing. And so the differential isn't as great as you would expect. We remain approximately 40% of our businesses in systems business, and we'll let you know when that changes materially.
+Farhan Ahmad - Credit Suisse Securities (USA) LLC (Broker)
+Got it. Thank you. And then one question on your IP. Lip-Bu noted in the prepared comments that Tensilica, the HoloLens when it was pretty significant. I was wondering if you could provide some color on what's the long-term opportunity of DSP cores and high performance computing or like in visual processing if you guys have done any kind of market sizing related to that, that would be helpful.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Sure. So let me touch on that topics. So I think clearly Tensilica, as you know, is a DSP programmable processor engine, and very low power. And so, this is really suitable for all the kind of vertical computing engine, something that really, really excite me is this whole machine learning, deep learning and vision processing related area for ADAS and also for genomic sequencing and for search engine.
+And I think this is going to be a really â open up a lot of opportunity for us. And so, clearly, not just the hardware itself, and also the software, the algorithm, the library that can be playing a very important role providing a solution. So, I think, overall, we are excited about it. And this Tensilica is an area that we are doubled down in that investment. And meanwhile, we did refines in our strategy refinement that we make to the design IP that integrate with our Tensilica providing that kind of interface we need and high-speed and intermodal memory that they need to drive some of these applications. So, overall, we're excited about this opportunity for Tensilica opportunity for us.
+Farhan Ahmad - Credit Suisse Securities (USA) LLC (Broker)
+Thank you. That's all I have.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Sure. Thank you.
+Operator
+The next question is from Mitch Steves from RBC Capital Markets.
+Mitch Steves - RBC Capital Markets LLC
+Hey, guys. Thanks for taking my question. Just two quick ones. So, first on the semiconductor IP, so can you talk about when you expect that piece to start showing some growth and then maybe some share change that's happening in that segment.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Your question is when? So, I think, clearly, we...
+Mitch Steves - RBC Capital Markets LLC
+(32:28).
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. So, clearly, as I mentioned, with the refinement of our strategy and our more focus on the standard off-the-shelf IP and then some of the vertical markets strategically for us and also the most advanced process and deemphasize the customized IP. And we believe that this is going to be a return to that moderate sequential growth for Q4, and this outsourcing trend that is happening and that will grow even further future growth.
+And I mentioned earlier some of the highlights I make in the VR, AR, machine learning, deep learning and then the most advanced node, the 7-nanometer process, the design IP with our partners at TSMC and our IP partners, and then also in the automotive applications side on the 60-nanometer FinFET and then some of the audio standard and VIP 10 new â critical new standard protocols. So I think those are the things that we're going to help driving the future growth.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Hey, Mitch, and welcome to the call. This is Geoff. So, as we always do, we normally provide our 2017 outlook when we do our Q4 earnings. So, stay tuned for January-February timeframe.
+Mitch Steves - RBC Capital Markets LLC
+Got it. And then just one small one on the cash flow. If we were to look out kind of in the, I guess, 2017, is there any reason why you guys can't continue to grow that line? I know it wasn't really uptick for the full year and just maybe talk about the dynamics there.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. So, stay tuned for our 2017 guidance in January-February. We'll let you know then.
+Operator
+And the next question is from Monika Garg from Pacific Crest Securities.
+Monika Garg - Pacific Crest Securities
+Hi. Thanks for taking my question. First, on the R&D line. Geoff, if we look R&D's percentage of revenue is like 38.4% this quarter, year-over-year definitely, it used to be 33% to 34% of revenue. So, do you see it normalizing from here or is it a new normal and kind of factors leading to such high revenue, especially in 2016?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+So, couple points. Obviously, in Q3, revenue stepped down from Q2, which obviously changed the denominator of the equation. The second thing I want to point out is, we've focused from the beginning of this year and talked about this being an investment year for we're investing in our innovative solutions. And I think you're seeing that show up in R&D expense. We'll comment on the future in the future.
+Monika Garg - Pacific Crest Securities
+Got it. Then if I look at acquisitions, what Cadence has historically made is more tuck-in smaller acquisitions. Going forward, could you comment on the scale of acquisitions, which you would be interested to? Is it similar scale we should think about or could it be much larger than previously you've done?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah, Monika, let me address that issue. I think, clearly, if you follow our last eight years, we are very disciplined in terms of our approach to M&A, and clearly the acquisitions have to meet some of the key criteria. One is the fit and further our strategy, the FTE strategy that we embark on. And then secondly, clearly, we want to look for products that are differentiating technology, and a lot of time our leading customer will indicate to us what are the new technology we need to integrate into ours. And then, clearly, the top talent either managerial and technical talents. If you look our executives, we all spot for the good talent for the managerial or technical leadership that we're looking for. And of course, we hold ourselves accountable to our team and also to our board, and in term of the ROI, the return on investment synergy that we're looking for and we hold ourselves accountable for that.
+So, with that in mind, either it's a big or small acquisition, we apply the same strategy, same criteria and then we work very close with our board and then our executives work as one team. We debate and decide what is the right thing to do for the company and what is the product enhancement to meet our customer. At the end of the day, it's really meet the customers and satisfy our customers in terms of helping them design the best products they can in a timely fashion.
+Monika Garg - Pacific Crest Securities
+Got it. Thanks. Then just as a follow-up on the IP question. If we look year-to-date IP revenue, year-over-year is down high single digits, 7%, 8%. So first of all, is it in line with your expectations? And then, IP is a secular growth market, as you also highlighted. Do you see it going back to the industry growth rate over the next couple of years?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. I think as I mentioned in my remarks, and this is very important business, IP to us, and clearly, there's a lot of growth opportunity because of outsourcing trend. Many of my top customer, they would love to outsource some of them to us, especially the industry standard off-the-shelf IP and also the most advanced node process. And then just to meet and to fulfill the various protocol that keep changing, they will prefer to outsource, it's a very heavy investment.
+So I think we are very good in terms of try to do that and then meet our customer requirement. But what we did is the refinement is to de-emphasize some of the kind of one-off customized IP and then really focus on some of the standard and in the market that we are pursuing â we mentioned quite a few of that â and then also in the most advanced nodes.
+So I think overall, we look at the IP business, it should be a growing business because of the trend, because of the portfolio we have in Tensilica, the design IP and VIP, and those I think will have the foundation for us to grow in some of the vertical that we are pursuing and the advanced node and the mixed signal we are pursuing.
+Monika Garg - Pacific Crest Securities
+Thank you so much.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Thank you.
+Operator
+The next question is from Rich Valera from Needham & Co.
+Richard Valera - Needham & Co. LLC
+Thank you. Lip-Bu, you mentioned the term System Design Enablement several times in your prepared remarks, and I understand this is sort of part of your focus on system customers. But is there anything more to that than sort of a marketing statement? Are there actual products you're developing, or channels or infrastructure within the company that you're developing incrementally to kind of pursue this System Design Enablement strategy as you put it?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. Very good question, Rich, and a couple of points I just want to highlight. And it's not just a marketing campaign work, as you know, for the last eight years, we had been very focused on executions. And then the System Design Enablement, what it really mean is to provide the solution that a system company can optimize for their differentiations and then with the end product in mind.
+And that's something that I think we have a unique position. Beside the tool, beside the IP, we also have the PCB and IC packaging uniqueness that I highlight in my earnings script this time and because a lot of this system company and service provider, they're looking for that software, hardware co-design, co-verification, and also the packaging and become end-to-end solution providing the power, signal integrity, the interference, all within the envelope of the system company and that they have that requirement they need to meet.
+And of course, the time to market is critical, and also, they need to have that scalability they're looking for. And that's why you see Palladium has that kind of scalability and performance checking that they need in terms of complex system. And I mentioned earlier this one major aerospace company see the benefit of using our Palladium and again really testing the system level solution that meet their requirement of their design.
+And then, same thing, this Fujitsu on their supercomputer design, they're starting to see the benefit of we not only providing the tool, the hardware, the IP portfolio. And so those are the things that we're going to continue to highlight. Previously â last quarter, we mentioned about Northrop Grumman, and then this time, we mentioned about BAE Systems, and that are not only using our digital flow and also using our IC packaging that are uniquely qualified for their spec, that requirement they need.
+Richard Valera - Needham & Co. LLC
+Got it. Thank you for that, Lip-Bu. And then, Geoff, I think, this one's for you. You mentioned you're seeing more leasing of emulators. Can you talk about how that could impact your model, revenue and otherwise, if that continues to become a bigger piece of your business?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. I mean we've had a lot of strength in our hardware business as you know this year. It's been a very good year, and Z1 has been a very successful product. I think the point is our DSO will go up, and so our long-term receivables go up as we sell more hardware and as we lease more hardware. So I think that's the key point that I want to make.
+Richard Valera - Needham & Co. LLC
+Got it. Okay. Thank you. That's it for me, gentlemen.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Thank you.
+Operator
+The next question is from Sterling Auty from JPMorgan.
+Sterling Auty - JPMorgan Securities LLC
+Yeah. Thanks, guys. Had a couple of questions. Hopefully, it's not a repeat of the prepared remarks. But Lip-Bu, you were very difficult to hear. I couldn't really catch much of what you were saying in the beginning.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. We're sorry. We understand that we've had audio problems today. So we want to remind you that our prepared remarks will be posted on our website after the call. So thanks for mentioning that.
+Sterling Auty - JPMorgan Securities LLC
+Great. Thank you. We appreciate it. So just following on what Rich was talking about in terms of functional verification or the emulation specifically, I think the functional verification revenue line only grew 7% if I'm not mistaken year-over-year as compared to 40% last quarter, 23% the quarter before that. How much of that was something that was happening in emulation versus the rest of it, so just can you give us some more color as to what's driving that significant deceleration?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. As you would expect and as I think we said in our Q2 call, we expected Q3 to be actually have lower revenue than Q2. Certainly, functional verification in emulation was a large piece of that.
+Sterling Auty - JPMorgan Securities LLC
+What goes into that? Is that lease versus sales? Is it lead times on emulators?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. It's the fact that we're taking our business as it kind of naturally occurs. Right? We don't want to change our dynamics or our value calculations in any way, so we want to take it when our customers want the product. By the way, that came after two record quarters in both Q1 and Q2. So I think we expect a little bit of a downturn and that's what happened in Q3.
+Sterling Auty - JPMorgan Securities LLC
+And on the lease idea, can you give us a sense of what portion of that emulation business is leased? And I think Rich started to allude to it, but is that recognized ratably when you're leasing the equipment? So maybe just start with those two.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. So leasing is recognized, the revenue is recognized upfront because it's a lease, but we collect the cash over a period of time. And I think that's key for us.
+Sterling Auty - JPMorgan Securities LLC
+Okay. And what percentage of that emulation business is leased?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+It remains a small portion. We don't break out the details, but it remains a small portion of it. We do want to point out that we've had a very good year. Right? And we expect that to continue in Q4. The guidance at this point for Q4 includes everything we know. Product mix has certainly been a factor this year. Hardware has been better than expected for us, offset by IP revenue, that was a little bit below our expectations. We do also expect â in Q3, we saw some and in Q4, we'll see some of the costs at the end of the life of Palladium XP.
+Sterling Auty - JPMorgan Securities LLC
+Got it. And then last question, since it is a public forum and I know you can't answer too directly around Mentor Graphics and some of the comments and thoughts around possible acquisition, et cetera. I wouldn't expect you to say yes, you're interested in buying the whole company, but wondering if I could ask the question this way.
+Given the history with the company, I think there's always been an attractiveness for the Caliber line from the other vendors in EDA. But your product portfolio has changed over time. Is Caliber as a technology is interesting and is complementary to Cadence today as it was, say, in 2007?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah, I think the â Sterling, first of all, and we have a lot of respect for our friend, Mentor, and then the management team. And they are very important industry player, and clearly, as you know, we don't comment on some of these topics. And we have lot of respect for them, their products, as you know, Caliber is well known in the industry. And so I think we'd just stop there and we're not going to comment on any of the specific.
+Sterling Auty - JPMorgan Securities LLC
+Okay. Thank you, guys.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Sure. Thank you.
+Operator
+The next question is from Tom Diffely from D.A. Davidson.
+Thomas Robert Diffely - D.A. Davidson & Co.
+Yes. Good afternoon. One more IP question. Could you quantify how your change in focus affects the served available (47:19) market that you're going after in IP directly?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. So I think, and as you know, IP is a new business a few years ago and we embarked on that and we grew nicely to 10%, 12% of the revenue for our company and is very strategic for us in our whole key component of our SDE strategy.
+We reviewed recently IP business strategy, and as I mentioned earlier, we're going to be focused on standard off-the-shelf IP, pursuing the vertical market that we want to pursue. And then the most advanced process nodes. And with de-emphasizing the customized IP, that are kind of more once-off. And it's not many of IP reuse and that's where you're going to make money.
+And so, I think long-term we like this. It's very important this outsourcing trend continue because a lot of company or customer we talk to, just to catch up and then follow this various protocol that keep coming up. And if they have silicon-proven IP and then they will love to outsource that. So we see that as opportunity.
+But we're going to be really disciplined just like when we do the M&A. And again, this refined strategy, we are focused on scalability, sustainable and are more focused on the profits and more focused on the quality of the customer, more focused effort into this whole vertical market we're going to go after and the most advanced nodes and then de-emphasizing some of this customized IP.
+Thomas Robert Diffely - D.A. Davidson & Co.
+From a strategic point of view, that makes a lot of sense. But what percentage of your IP business historically has been in the customized part that you're moving away from?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Tom, we don't break out that. We don't break out the segments of our IP business.
+Thomas Robert Diffely - D.A. Davidson & Co.
+Okay. I was just wondering if â you're expecting another leg down in that business and then growth from that point on.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Now, all we can say is, clearly, this is a refocus. And as you know, when you grow to 10%, 12%, then you're starting to look at, okay, now, you grew to 10, 12%, how is it, is it scalable, is it sustainable and is it profitable. And then, we kind of refine the strategy, then for the next phase of growth and then are more focused and more IP reuse and more repeatable, scalable business model going forward.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+And again, we expect sequential growth from â a modest sequential growth from Q3 to Q4.
+Thomas Robert Diffely - D.A. Davidson & Co.
+Okay. All right. So, I guess moving over then on to the geographical basis, Asia ticked up in the quarter. I was curious is that hardware driven or is that an increase in just the level of software that the Asian customers are starting to use?
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. We don't break down the segments by geographic, but obviously, Asia continues to be a strong market for us and a strong driver for us and we anticipate that going forward.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+And just to add on to it, this is Lip-Bu here, the China semiconductor sector actually this year growing at 26% compared to the overall global market is kind of not growing. And so, government have put a lot of effort into it, and Cadence is very well positioned for the two design in IP. And so we are excited about the opportunity, and you see that over time that region is growing.
+Thomas Robert Diffely - D.A. Davidson & Co.
+Okay. And, I guess, just finally here then, when you look at the end markets, Lip-Bu, you talked a lot about how semis is a very little or no growth this year. But I'm curious what are you seeing in the growth in the key areas for you like in the logic area and then what are you seeing just for overall design activity with your customers?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Yeah. Very good question. And in terms of the growth in the semiconductor and system company area, thing that I like a lot is the cloud data center. That's a C change in terms of the workload requirement and then how to optimize some of the hardware and the container software. I think that's going to be a C change and then the IoT and all this data going to be in the cloud. So the cloud infrastructure are going to be a great opportunity for us.
+And then the other part is, clearly, the machine, deep learning and that is very broad application to the ADAS and automotive to sequencing genomics, single cell sequencing, to the search engine from the eye to the brain function, that whole neuroscience is intriguing to me. And I think those are going to be driving some of this growth opportunity going forward and then, of course, the security-related across all this vertical will be very interesting to me.
+And all too is try to optimize to address some of the design challenges and all the different applications and different challenges and also our IP and that the refinement that we make can now be focused on some of this vertical market and then also some of this application opportunity for Tensilica to explore. And with the DSP programmability and low power, it will be really shy just as a Microsoft HoloLens as a example.
+Thomas Robert Diffely - D.A. Davidson & Co.
+Okay. I mean in general, do you see design activity picking up because of the complexity or is the softness with some of the memory divisions and stuff slowing down overall design activity for you?
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Well, in fact, one of the indicator I always look at is how much the new design engagement we have and our hard working, capable employees, they're working really hard. I haven't seen any time in the last eight years, they work harder than today and that tells you the good indication that we are so heavily engaged with some of this new product development.
+Thomas Robert Diffely - D.A. Davidson & Co.
+Great. Thank you for your time.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+Think you.
+Operator
+The next question is from Krish Sankar from Bank of America.
+Krish Sankar - Bank of America Merrill Lynch
+Hi. Thanks for taking my follow-up. I have two of them. One is, Geoff, you mentioned systems is about 40% of revenues. Can you help us understand how much is auto as a percentage of total revenues or as a percentage of systems? And the second question is, is there any update on this whole ratable accounting thing that you guys have been working with KPMG and the SEC? Looks like at least things are going to be fine for 2017. Kind of curious to know, is the ratable revenue model at risk when you look into 2018 and beyond either for Cadence or the EDA industry? Thank you.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. So we don't breakout auto. We just stay with system companies as about 40% but we do believe it's growing as a portion of our business. On the revenue recognition, my favorite topic, we are still working through the details with our advisors to determine how we'll implement it and what will be the impact if any. There's still a lot of work to be done, not just by us but by most companies. And we expect to retain recurring revenue treatment. I think that's the takeaway I want you to have.
+Krish Sankar - Bank of America Merrill Lynch
+Thanks, Geoff.
+Operator
+And the next question is from Jay Vleeschhouwer from Griffin Securities.
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Thank you. I just wanted to follow up on Tom's earlier geographic line of questioning. First, it looks like your Americas revenue was down sequentially for the second consecutive quarter and also down slightly year-over-year. Was that largely a function of variability in hardware? And then similarly, your Japan business was down year-over-year for the first time in a year. There had been some hope that Japan might be bottoming for EDA as a whole and perhaps, that was a little premature, but if you could comment on both those regional trends.
+And then lastly, Geoff, to continue the triangulation of your emulation business, would it be fair to say that the sequential decline of emulation Q2 to Q3 was larger than the corporate decline of revenue? In other words you declined by more than $5 million or so in total corporate in emulation. But you also seem to have had a pretty significant increase in the gross margin year-over-year.
+You had a decline in cost of revenues for the first time in over a year, but revenues had to have grown in emulation. So it looks like you had a pretty substantial increase year-over-year in the gross margin there, even with a sequential decline of revenues.
+Geoffrey G. Ribar - Cadence Design Systems, Inc.
+Yeah. So, Jay, to take the geographic question first, I wouldn't read too much into the Americas or Japan or Asia, or whatever else. I think the long-term trends remain intact. Asia will continue to grow. Japan, I think, has probably bottomed out. North America will fluctuate sometimes from quarter to quarter, and clearly, hardware always plays a portion in that because that's the part of our revenue that's upfront. So, I don't read too much into it.
+As far as emulation, I think the key thing is, the math isn't simple here because we're going through a pretty big change in product mix. We're moving from the Palladium XP, the old generation product to the Z1 and we've said the Z1 will have higher margins, right, than the XP. And I think it's complex to do the accounting from within, it's probably even more complex from you. Please don't read too much into that either.
+Operator
+And I will now turn the call over to Lip-Bu Tan for closing comments.
+Lip-Bu Tan - Cadence Design Systems, Inc.
+In closing, we are continuing to innovate and deliver System Design Enablement solutions to our customers. And we're looking forward to continue to execute our strategies and creating value for our shareholders. I want to take this opportunity to thank all our hardworking employees, shareholders, customers and partners for their continued support that made this possible. Thank you all for joining us this afternoon.
+Operator
+This concludes today' conference call. You may now disconnect.

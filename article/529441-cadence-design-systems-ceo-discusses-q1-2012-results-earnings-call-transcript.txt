@@ -1,0 +1,172 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q1 2012 Earnings Call April 25, 2012 5:00 PM ET
+Executives
+Alan Lindstrom - Director, IR.
+Lip-Bu Tan - President and CEO
+Geoff Ribar - Senior Vice President and CFO
+Analysts
+Richard Grace - RBC Capital Markets
+Gus Richard - Piper Jaffray
+Tom Diffely - D. A. Davidson & Co.
+Thomas Yeh - BofA Merrill Lynch
+Simran Brar - Cowen
+Jay Vleeschhouwer - Griffin Securities
+Operator
+Good afternoon. At this time, I would like to welcome everyone to the Cadence Design Systems first quarter 2012 earnings conference call. (Operator Instructions) I will now turn the call over Alan Lindstrom, Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you. And welcome to our earnings conference call for the first quarter of fiscal 2012. The webcast of this call can be accessed through our website, cadence.com and will be archived for two weeks.
+With us today are Lip-Bu Tan, President and CEO of Cadence, and Geoff Ribar, Senior Vice President and CFO. Please note that today's discussion will contain forward looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause the difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings, and the cautionary statements regarding forward-looking statements in the earnings press release issued today.
+In addition to financial results prepared in accordance with generally-accepted accounting principles, or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with the most direct comparable GAAP financial results which can be found in the quarterly earnings section of the Investor Relations portion of our website.
+A copy of today's press release dated April 25, 2012, for the quarter ended December 31, 2011 and related financial tables can also be found in the Investor Relations portion of our website.
+Now I'll turn the call over to Lip-Bu.
+Lip-Bu Tanb
+Good afternoon everyone and thank you for joining us. Cadence is off to a good start for 2012 for both software and hardware exceeding expectation for Q1. The quarter included two major renewal in North America and Japan.
+For Q1 revenue totaled $316 million. Non-GAAP operating margin was 21%, and we generated $61 million of operating cash flow. Based on Q1 results and our visibility into the rest of 2012, we are updating our outlook. Geoff will present the details in a few minutes.
+Let us look at the few of the highlights for Q1. I will start with silicon realization. We have significantly increased, improved our digital design flow over the last three years. In Q1, we introduced version 11.1 of our Encounter RTL-to-GDSII flow for high performance and large scale design at 20-nanometers. This new version includes in-design double-patterning support for the 20-nanometer silicon.
+The growing strength of our digital flow enables us to pursue additional opportunities. At the most advance nodes, for designs using advance multi-core processors and for high performance mixed signal designs.
+In Q1, a major North American customer of our virtual custom and analog design flow replace the existing digital flow with the Cadence Encounter digital flow in order to deploy a fully integrated mixed signal design flow. A major European customer also renewed a commitment to our mixed signal flow in Q1.
+These wins for lower trend we started to see in recent quarters which is the need for integrated mix signal design and verification solution. Our market segment leading Virtuoso product lines enables us to deliver value added solutions when integrated with our Encounter and incisive platforms to meet this market requirement.
+In Q1 Virtuoso AMS Designer, our mixed signal simulation product won the 2012 ACE award in China in the category of best EDA product. AMS Designer is used to verify mixed signal SoCs like those used in mobile devices. DSM Technology is a key requirement for manufacturing SoCs at advance process nodes.
+We work closely with Samsung foundry to develop DSM flows for in-design optimization and physical sign-off for 32, 28 and 20-nanometer SoC designs. This new flows improved chip yield by addressing critical random and systematic yield issues. We are seeing an increase in interest for design solutions for 3D-IC. Cadence invested early in this space working closely with several leading customers.
+With TSMC we collaborated on the Test Vehicle, implying 3D-IC technologies including two silicon VS to integrate an SoC and embedded DRAM on the silicon interposer.
+Through our continuous investment in R&D and ecosystem development, we intend to remain well positioned to capitalize on this major shift in semiconductor and manufacturing.
+Next let us look at the SOC realization. Expanding our design IP business is a priority for Cadence. Martin Lund joined Cadence in March to lead our SoC realization group. Martin joined us from Broadcom where he served for 12 years, most recently as Senior Vice President and General Manager for their Network Switching Business. The addition of Martin further strengthened my integrated management team.
+We continue to expand our design IP portfolio in Q1 with the introduction of a high-performing, low-power, controller PHY for the LPDDR3 mobile memory standard and 40/100 Gigabit Ethernet media access controller that enables directed deployment of SoCs for networking and high-performance computing.
+Verification IP is one of our fastest growing businesses. It is used to facilitate SoC verification and increasingly to verify interface between multiple chips and peripherals such as memory, cameras and display. Our strategy is to continuously expand our portfolio in fast growing vertical markets segments. 
+In Q3, 2011, we expanded our verification IP catalogue with offerings targeted at mobile application, one of the key drivers of the electronic industry. In Q1, 2012, we added verification IP for two popular protocol standard used in cloud computing and data center applications.
+Now let us talk about system realizations. The Cadence Virtual System Platform was named a winner in the 2012 UBM Electronics ACE Awards in software Software Ultimate Products Category. In Q1, we also released the production version of our Virtual Platform for the Xilinx Zynq-7000 platform.
+Even the Cadence Virtual System Platform is enable the simultaneous development and validation of hardware and software before the hardware is even available, providing significant savings in development costs and time-to-market.
+In another highlights for the system realization Palladium XP hosted stronger than expected sales in Q1 driven by continuing trends towards more purchased by the systems companies and growing sales in China.
+Let me conclude with a few comments on our recent CDNLive! User Conference held in Silicon Valley. The success of our CDNLive! Conference held last month is a clear indicator of Cadence Technology progress and our strong focus on deepening customer relationship, featuring key notes by Senior Executive from ARM and TSMC. 
+CDNLive! highlighted the collaboration Cadence is fostering in the semiconductor industry to tackle that greatest technology challenges. Attendance was up significantly as were customer-contributed papers.
+With that, I will turn it over to Geoff, who will review the financial results and provide our outlook.
+
+Geoff Ribar
+Thanks Lip-Bu, and good afternoon everyone. Cadence posted strong financial results for Q1. I will review the results for the first quarter, present our outlook for Q2 and update the outlook for 2012.
+Total revenue for the third quarter was $316 million compared to $308 million for Q4 2011 and $266 million for the year ago quarter. The year-over-year increase was 19%.
+Product revenue was $190 million, maintenance revenue was $96 million and services revenue was $30 million. The revenue mix for the geographies was 44% for the Americas, 19% for EMEA, 19% for Asia and 18% for Japan.
+Total cost and expenses under non-GAAP basis for Q1 were $215 million compared to $244 million for Q4 2011 and $230 million for the year ago quarter. Q1 headcount was 4,766 compared to 4,728 for Q4 2011.
+Non-GAAP operating margin for Q1 was 21%, compared to 21% for Q4 2011 and 13% for the year ago quarter. For Q1 we reported GAAP net income per share of $0.11 compared $0.02 for Q1 2011. For Q1 2012, non-GAAP net income per share was $0.17 compared to $0.17 for Q4 2011 and $0.09 for the year ago quarter.
+Operating cash flow for Q1 was $61 million compared to $62 million for Q4 2011 and $56 million for the year ago quarter. Total DSOs for Q1 decreased to 25 days down from 43 days from Q4 2011 and from 62 days for the year ago quarter. The reduction was due to our success of our ongoing efforts to match cash collections and the timing of revenue recognition.
+These efforts have also led to course money reductions in accounts receivable and deferred revenue. As a result our new DSO target is 25 to 35 days. Capital expenditures for Q1 were approximately $8 million. Cash and cash equivalents were $660 million at quarter end. Approximately 50% of our cash is in the U.S.
+For Q1, over 90% of orders book were addable including the product maintenance and services. Weighted average contract life for Q1 was approximately 2.8 years, higher than our target range of 2.4 to 2.6 for the year due to a large multi-year contract booked in Q1.
+On a weighted average basis, run rates in Q1 contract renewals increased. It is worth noting due to the success of Palladium XP, hardware has become a larger part of our product mix.
+Now let's address our outlook for the second quarter of 2012 and I'll update for fiscal 2012. We are increasing our fiscal 2012 outlook for bookings, revenues and earnings per share due to strong Q1 results and expectation of continued strong demand in Q2. For Q2 2012, we expect revenue to be in the range of $315 to $325 million.
+Q2 non-GAAP operating margin is expected to be in the range of 21% to 22%. Non-GAAP total cost in expansion should be up slightly compared to Q1 due to increased hardware sales.
+GAAP EPS for the second quarter is expected to be in the range of $0.13 to $0.14 and non-GAAP EPS for Q2 is expected to be in the range of $0.17 to $0.18.
+Now, for our update of our fiscal 2012 outlook. Bookings are expected to be in a range of $1.259 billion to $1.335 billion compared to the prior range of $1.265 billion to $1.315 billion. We expect weighted average contract life in the range of 2.4 to 2.6 years for the year and to book at least 90% of our business for the year under ratable arrangements.
+We now expect revenue to be in the range of $1.27 billion to $1.3 billion for 2012 compared to the prior range of $1.24 billion to $1.28 billion. Non-GAAP operating margin is now expected to be in a range of 21% to 22% for the annual basis for 2012 compared to the prior range of 19% to 21%. Non-GAAP and the other income and expense for 2012 is expected to be in the range of negative $14 million to negative $10 million. For 2012, we are assuming a non-GAAP tax rate of 26% and weighted average shares outstanding from 279 million to 285 million shares.
+GAAP EPS for 2012 is expected to be in the range of $0.45 to $0.49 compared to the prior range of $0.39 to $0.49. Non-GAAP EPS is now expected to be in the range of $0.66 to $0.70 compared to the prior range of $0.60 to $0.70. For 2012, we are expecting operating cash flow in the range of $275 million to $305 million compared to prior range of $255 million to $295 million. DSOs for 2012 are projected to be in the range of 25 to 35 days. Capital expenditures for 2012 are expected to be in the range of $30 million to $35 million.
+So to conclude, Cadence again posted strong operating results. We are making good progress towards achieving our goal of mid-20s non-GAAP operating margin in 2013. While we do have concerns about the risk of the world economy, at this point as we look at Q2, design activity and demand for our products and services is still strong.
+Operator, we'll now take questions.
+Question-and-Answer Session
+Operator
+(Operator Instructions) And your first question comes from the line of Mahesh Sanganeria.
+Richard Grace - RBC Capital Markets
+This is Richard Grace here for Mahesh. You're talking about positive impacts from double and multiple patterning as you see strength to smaller geometries. Can you give a little more color on that, how much revenue growth that might drive in the future and any other benefits you're seeing as the geometries move to 22-nanometer and you see marked increase in double patterning, at times multiple patterning?
+Lip-Bu Tan
+Richard and Mahesh, out of question I think on the 20 nanometer FinFET. So I think this is fair that we are making significant investment, heavily engaging in our EDA tool and IP. This is a very important area. We have several collaborations with deep foundry IP customer engagement. And clearly, when you move up the geometry, the FinFET has become very important, 3D-IC has become very important. So not just for the 20-nanometer, also for the 40-nanometer. And in fact, we're engaging and preparing for the 40-nanometer process tool.
+Along this progress, we have about 2,000 complete and ongoing 20-nanometer, 22-nanometer projects. And as you know, we have over 100 32-nanometer and 28-nanometer designs. So this is a very important area.
+In terms of the revenue growth, I can't comment on that, but this is a very early phase of the development and we're getting ourselves ready on the tool and IP. So when the customer is ready, it will be seamlessly from the tool to the foundry. And that's kind of we have preparations.
+Richard Grace - RBC Capital Markets
+What are your thoughts on when EUV starts ramping?
+Lip-Bu Tan
+I think that we continue to look at it and it's an important development in operating. It's ready for deployment. I think it's year's away. But we keep our breakthroughs high and we're collaborating with our leaders. I think it's very much a manufacturing challenge and issues. And clearly, we work with our foundry. We're keeping a close eye on that.
+Richard Grace - RBC Capital Markets
+What solutions do you see in the market beyond 22-nanometer if EUV is not available?
+Lip-Bu Tan
+Again, it's a manufacturing issue. I think some of our equipment company and also the foundry. It's difficult for me to address that.
+Operator
+Your next question comes from the line of Gus Richard.
+Gus Richard - Piper Jaffray
+You mentioned you had large bookings in the quarter. Just hoping to get a little bit more color on that. What that a digital design or it was something else?
+Geoff Ribar
+We're not disclosing, but it affected a lot of different segments of our business.
+Gus Richard - Piper Jaffray
+And then on the verification side, it sounds like it's a lumpy business like you had a little bit less of that in Q1 and you can have a little bit more of it in Q2. And I was just wondering if you could give some thoughts on what that growth rate of that business will be over the next two or three years?
+Geoff Ribar
+I think you're referring to our Palladium XP business, our hardware business, and that business was a huge grower for us last year. We also believe it's a secular trend that more and more customers are going to be dependent on that, not just traditional chip companies, but system companies also.
+In that business, we continue to be thoughtful and when we guide our future quarters, it's been a strong business for us, but there is competition in the marketplace. We look forward to that competition and we look forward to the strength of our business. So we anticipate that business to be relatively flat this year after such a strong growth last year.
+Lip-Bu Tan
+If I can add a little bit, Gus, clearly all the major complex SoC system or anything below 30-nanometer did become very critical. (inaudible) in your design and verification is a huge time-to-market advantage. So we continue to see tremendous growth in that area. And we have a very strong offering and we continue to drive for excellence on that.
+Operator
+Your next question comes from Tom Diffely.
+Tom Diffely - D. A. Davidson & Co.
+A couple of questions first, Lip-Bu, on the markets. We've seen a lot of growth in the Asian markets. Less than 20% of your business in Asia, do you see that as a big growth opportunity and maybe you can quantify how big that opportunity is for you going forward?
+Lip-Bu Tan
+I think clearly the Asia potential is quite significant and are of 300 billion-plus industry, and China alone comes to almost 100 billion-plus. And so clearly it's a very fast growing. And also if you look at some of the fabless semiconductor company grow I think it's coming up really strong.
+If you look at Spectrum, you look at HiSilicon, there is a long list of company and are hugely engage. I think clearly this is our strength and I think we're going to see more growth in that area. And so you're correct that's a lot of opportunity and clearly we want to make sure that we capitalize on that.
+Geoff Ribar
+I think, Tom, to add to it, we did comment on our Palladium XP business being particularly strong in China during this past quarter.
+Tom Diffely - D. A. Davidson & Co.
+And over the last couple of years it looks like you're going for maybe 15% or close to 20% of your business in Asia in particular. Does that get to 30% over time or is it quite that large?
+Lip-Bu Tan
+I don't think we can quantify that, but that clearly is a growing pattern. I think you saw announcement, we just opened up our Shanghai R&D center. This is a very major commitment for us and we are very well positioned to capitalize on that Asia-Pacific growth area.
+Geoff Ribar
+And I also think I would add that is we grew from 15% to 20% approximately in Asia, that when the revenue was growing very, very fast for the company as a whole too.
+Tom Diffely - D. A. Davidson & Co.
+And then also this is like every quarter we're hearing more about some of these large system houses like Apple, and Samsung, and HTC, trying to develop their own chips or wanting to develop their own chips. What do you think this does as if someone who quantify how big this expands the market having more players, more chips?
+Lip-Bu Tan
+And that's why I think in 2010 we launched our EDA 360 and this is really the heart of the whole. EDA 360 is application-drive design and clearly from the different company you mentioned Apple, you mentioned some of the big run, and Oracle, and Google, a long list, they all want to be differentiating much from their application area. They also really want to differentiate from their hardware side. So we are seeing tremendous growth in that area and we are well positioned to capitalize on it.
+Tom Diffely - D. A. Davidson & Co.
+And, Geoff, the last few years your revenues in a certain year have been about 20% larger than the booking in the previous year. Are there some reasons why that math keeps working or is it just a coincidence?
+Geoff Ribar
+Actually, Tom, we don't look at it that way. With the ratable model really what matters is how much is in backlog and how much is coming out of backlog. And then it's a little bit different as it goes to hardware, which had some amount of revenue that's upfront. So we don't look at it that way. I'm glad the math works for you though.
+Tom Diffely - D. A. Davidson & Co.
+All right, then finally, when you look at your margin expansion, it sounds like you're planning still to get into the mid-20s for next year, for the out year?
+Geoff Ribar
+Yes. It's still mid-20s for 2013 in total.
+Operator
+Your next question comes from Krish Sankar with BofA Merrill Lynch.
+Thomas Yeh - BofA Merrill Lynch
+This is Thomas Yeh for Krish Sankar. Can you elaborate a little bit more on how much the beat was caused by earlier than expected customer renewals? How should we think about bookings for the full year? And how does the quarterly renewal calendar look through 2012 compared to the previous year?
+Geoff Ribar
+We raised our bookings guidance by $20 million at our midpoint. I think our performance vis-Ã -vis our guidance is always a subject to a bunch of things. I do think we had extremely strong bookings in Q1. And the timing of bookings continues to be very good, more linear than I think historically been the case in the EDA.
+The hardware business is, as Lip-Bu mentioned came in strong also. So I think all of those things contributed. We also raised the revenue guidance at midpoint by about $25 million. So I think we're seeing both strong bookings and strong revenue.
+Thomas Yeh - BofA Merrill Lynch
+And given some of the yield problems that are still occurring at the foundries, can you provide us with some color on how yield issues impact EDA spending? How have your conversations with customers change compared to the last quarter in terms of the R&D spending budgets?
+Lip-Bu Tan
+Yes, Tom, let me answer that. First of all, I think that some of the supply challenges in 28-nanometer and others clearly are more manufacturing related, are not related to design. And we don't see slowdown and design activities remain very strong, especially in the 28-nanometer and 20-nanometer we are heavily engaged. And I think so far we are very well-positioned. And I think this has kind of no impact to our design activity.
+Thomas Yeh - BofA Merrill Lynch
+And then, finally, longer term, what are your views on an average EDA industry growth area, assuming for example that you reach a more normalized year in 2013?
+Lip-Bu Tan
+First of all, I think we remember it and I'm excited about this industry. Clearly the semiconductor industry outlook is very bright. And now, if you look at all beautiful, and exciting, and new gadget, and electronic devices, and semiconductors is really the heart of it. And so EDA is very critical essential part of the design.
+And so all-in-all I think we're going to see continue good growth. Especially I mentioned earlier the application-driven design given that they are significantly even more. And so overall I think in other industries is going to be healthy. And I think overall we look at the semiconductor industry growing in a mid-single digit. But overall in our design activity, we have been very strong. We're excited about this industry.
+Operator
+Your next question comes from Raj Seth with Cowen.
+Simran Brar - Cowen
+This is Simran Brar in for Raj Seth. I had a few quick questions. The first one is for Lip-Bu. Lip-Bu, you've talked before on how you expect the Synopsys plus Magma combination to be good for you as well as the industry. Have you seen any customer activity that validates that view for you or is it too early to tell right now?
+Lip-Bu Tan
+Simran, first of all let me answer the question and Geoff will fill in to add on to it. So overall we see that merger that have opened tremendous stock for us. We are heavily engaging and capitalize on it. And clearly a lot of customer are looking for automated designed flow.
+And also, I think I mentioned in my script the mixed signal flow, the mixed signal design verification become more and more important. We see a trend of customer that have decided to integrate and analog in digital. And that really bring to our strength and a lot of customer looking for at least a second source of the design flow. And that is very exciting for us.
+Simran Brar - Cowen
+I had a couple of quick ones for, Geoff. Geoff, can you talk about how your emulation business did this quarter versus your internal expectations? And then secondly, you've talked about how expense growth for this year would be slightly higher, if you restore some of the pre-reduction you took during the downturn. Is there any change on how you're thinking about OpEx linearly in the second half? Any color that you could give us that would be great?
+Geoff Ribar
+I think we said during our prepared remarks, Simran, that emulation business was stronger than our expectations in Q1. It's the one area that we look at going forward. And we've again had great growth last year. We expect to go to be relatively flat to maybe slightly down as we said in our last call. But again that business has continued to consistently surprise us on upside.
+As far as the growth and expenses, you're exactly correct. We are essentially fully restoring benefits to the employees that we cut during the downturn. We've traditionally dropped more than 50% of our revenue growth to bottomline. This year we had originally forecasted slightly less than that with the growth in revenue a little bit. We're actually closer back to the 50% right now. So we're pretty much in line with that and I think you can probably do the math and come up with the answers for your model.
+Operator
+(Operator Instructions) Your next question comes from the line of Jay Vleeschhouwer from Griffin Securities.
+Jay Vleeschhouwer - Griffin Securities
+Geoff, a financial question for you first following up in your comments regarding cash flow and accounts receivable especially, is there beneath, what's going on there in terms of DSOs, a change in the customer concentration at all. You've typically had a fairly narrow range of top 10, 20 customers as a percent of your AR, is that concentration do you think going to change it all either in terms of AR or for that matter even in bookings.
+Geoff Ribar
+No. I think we actually have a pretty good balance as far as AR and bookings and revenue as far as the customer concentration. Our top 10 is less than 40% overall, the sense of all those numbers. We don't have any top 10 or 10% customer's in any of those categories. So I think we're pretty happy with the distribution of our product and our revenue and our AR and our bookings.
+Jay Vleeschhouwer - Griffin Securities
+And Lip-Bu, follow-up on an earlier question regarding Asia, one of the drivers to the growth of Asia-Pac as a consumer of EDA over the last number of years has been their consumption of IP. I think the second largest market after North America for IP. And I'm wondering if you could comment on your positioning with IP for that market and as well if you foresee having to make any significantly new investments in services and all of the support your IP strategy in that part of the world or globally?
+Lip-Bu Tan
+Good question. I think clearly, Jay, as you already point out in you know the Asia growth is significant. And we are well positioned to capitalize on that. On the IP stand, yes, there is some significant market for the China and Asia on the IP side. Clearly, in my remarks that IP is very important priority for us, we are delighted to have Martin Lund to join us and so he is spirited our whole SoC that include IP and service.
+And so that area we're going to tapped out double down and we are very focused on that area and that clearly high high-end waver with the EDA360. And then clearly, we have a very strong footprint in the memory Denali acquisition exceeding our expectations, we're delighted on that.
+We mentioned about 40/100 Ethernet and clearly is a good market in Asia for the computer products. So we are evident by accelerating our strategy on the IP and we are engaging quite heavily with our customers.
+Jay Vleeschhouwer - Griffin Securities
+With respect to the Magma acquisition, are you seeing or have you been making any hires of former Magma employees either in term of R&D or product management or sales or any other areas?
+Lip-Bu Tan
+I think and we continue to recruit and hire the best talent, clearly, not just targeting the Synopsys' Magma merger. We are looking all the best talent we can get in the industry. And so we're excited about that.
+Jay Vleeschhouwer - Griffin Securities
+And lastly, in a bit of news of the day it appears that Mentor has announced the new Emulation Platform to day, the Veloce2. And I'm wondering if you've taken new and improved competition in Emulation into account or if you could talk about a product refresh that you're planning for and the Palladium area?
+Lip-Bu Tan
+So I think first of all that clearly we know and have and have seen that products and creating as a surprise to us and we'll keep a very close eye on it. And then meanwhile we welcome competitions and we remain confident about our Palladium product and features and performance.
+And but seeing that we are not taking our competitors lightly, we are take it very seriously and we seen them in couple of accounts. And that's how we know that product performance and we welcome the competition. And we continue to rely and confident our product offering.
+Operator
+And we will now turn it over to Mr. Lip-Bu Tan, President and CEO of Cadence for his closing remarks.
+Lip-Bu Tan
+Thank you. In closing, Cadence is off to a good start in 2012. The stronger momentum of our technology which is leading to the expansion of the existing relationships as well as new engagements give me confidence that the rest of 2012 will be good for Cadence. Thank you to everyone for joining us this afternoon and I look forward to talking with you soon.
+Operator
+Thank you for participating in the Cadence first quarter and fiscal year 2012 earnings conference. You may now disconnect your lines.

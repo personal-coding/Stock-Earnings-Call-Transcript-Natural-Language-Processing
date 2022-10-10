@@ -1,0 +1,225 @@
+VeriSign (NASDAQ:VRSN) Q2 2010 Earnings Call August 2, 2010 5:00 PM ET
+Executives
+Mark McLaughlin - Chief Executive Officer, President and Director
+Brian Robins - Chief Financial Officer, Principal Accounting Officer and Executive Vice President
+Nancy Fazioli - Investor Relations
+Analysts
+Sterling Auty - JP Morgan Chase & Co
+Daniel Cummins - ThinkEquity LLC
+Shaul Eyal - Oppenheimer & Co. Inc.
+Kerry Rice - Wedbush Securities Inc.
+Philip Winslow - CrÃ©dit Suisse AG
+Steven Ashley - Robert W. Baird & Co. Incorporated
+Edward Maguire - Credit Agricole Securities (USA) Inc.
+Walter Pritchard - Citigroup Inc
+Rob Owens - Pacific Crest Securities, Inc.
+Craig Nankervis - First Analysis Securities Corporation
+Todd Raker - Deutsche Bank AG
+Sarah Friar - Goldman Sachs Group Inc.
+Scott Kessler - S&P Equity Research
+Operator
+Welcome to the VeriSign Second Quarter 2010 Earnings Call. [Operator Instructions] Now at this time, I'd like to turn the conference over to Nancy Fazioli, Director of Investor Relations. Please go ahead.
+Nancy Fazioli
+Thank you, operator. Good afternoon, everyone, and thank you for joining us for VeriSign Second Quarter 2010 Earnings Conference Call. I'm Nancy Fazioli, Director of Investor Relations, and I'm here today with Mark McLaughlin, President and CEO; and Brian Robins, Executive Vice President and CFO. 
+Please note that this call and accompanying slide presentation are being webcast through our Investor Relations website located at investor.verisign.com. Please refer to our website for important information, including the Q2 2010 earnings press release. A replay of this call will be available on our website within a few hours. Today's slide presentation will also be available for download after the call.
+Financial results in today's press release are unaudited and the matters we will be discussing today include forward-looking statements, and as such, are subject to the risks and uncertainties that we discussed in detail on our documents filed with the SEC, specifically the most recent report on Forms 10-K and 10-Q and in the applicable amendment, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements. I would like to remind you that in light of Regulation FD, VeriSign retains its long-standing policy to not comment on financial performance or guidance during the quarter unless it is done through a public disclosure.
+The financial results in today's press release and the matters we will be discussing today include non-GAAP measures used by VeriSign. GAAP to non-GAAP reconciliation information is appended to our press release and slide presentation, both of which can be found on our Investor Relations website. In a moment, Mark and Brian will provide some prepared remarks, and afterwards, we will open up the call for your questions. Unauthorized recording of this conference call is not permitted. With that, I would like to turn the call over to Mark. Mark?
+Mark McLaughlin
+Thanks, Nancy. Good afternoon, everyone. Q2 is a good quarter for us. Both our Naming Services and Authentication businesses performed well, as we continue to see favorable economic and Internet trends. But before I could discuss our quarterly results, I want to touch on some other highlights during the quarter. First, as you know, on May 19, we announced a definitive agreement to sell the Authentication Services business to Symantec, with an expected close of the transaction within 90 days of that date. We're on track to close within this time frame. Second, we have an update on the status of the case filed against VeriSign by the Coalition for ICANN transparency or CFIT. As we reported in an 8-K that we filed on July 9, U.S. Court of Appeals for the Ninth Circuit denied VeriSign's motion for rehearing, which means that CFIT's complaint against VeriSign can proceed. The denial is based on the application of law and not the merits of the case. 
+In our view, the amended opinion changes in two respects the court's earlier decision. First, the Court of Appeals changed its opinion by explaining that for purposes of reviewing the sufficiency of the complaint, it was not considering the role of the U.S. government in the 2006 agreement. And second, the amended opinion clarifies the earlier decisions by explaining that competitive bidding is not required as a predicate to complying with the antitrust laws. Procedurally, we have two options at this point and 90 days to make a decision of which to pursue. We can either request further appellate review or have the case remanded to the District Court for proceedings. We remain confident about our position in the case, and we'll vigorously defend this position.
+Now moving on to financial highlights. Authentication Services was placed into discontinued operations in the second quarter. I'm going to give highlights of continuing operations. Revenue in the second quarter for Naming Services was $168 million, representing a 9% year-over-year increase. Naming Services is comprised of Registry Services and Network Intelligence and Availability. Network Intelligence and Availability is our iDefense and DDoS Mitigation businesses. 
+Non-GAAP earnings per share was $0.24 compared to $0.16 in Q2 2009. Non-GAAP operating margin was 40.5% compared to 33.9% in Q2 2009. On the cash side, we generated cash from operations of $149 million. And in the quarter, we repurchased 8.1 million shares for $227 million under our repurchase program. Following our share repurchases in the quarter, we had approximately $420 million authorized for share repurchases under our existing repurchasing authority. Last week, the Board of Directors increased the repurchase authorization by approximately $1.1 billion, tripling our current authorized repurchase plan to $1.5 billion. We've periodically considered repurchases in the form of open market purchases, block purchases, ASRs and other strategies.
+Now moving to the business unit results for the quarter. The base of registered names in .com and .net this quarter totaled 101.5 million names at the end of June, a 9% increase year-over-year. 2.2 million net names were added to the domain name base this quarter, in line with our guidance from last quarter's call of 2 million to 2.3 million names. During the second quarter, we processed 7.9 million new registrations, which is a 13% increase year-over-year. The 2010 Q1 renewal rate was 72.1%, up from 71.2% in Q4 2009. While renewal rates are not fully measurable until 45 days after the end of the quarter, we believe that the renewal rate for Q2 2010 will be approximately 72.5% to 73%. For net domain name additions, we expect the Q3 net names added to the base to be between 1.9 million to 2.2 million names, considering the July and August have historically been seasonally slower months.
+On July 1, the price for .com and .net new and renewing names increased from $6.86 to $7.34 and from $4.23 to $4.65, respectively. I'm also excited to announce the recent milestone for VeriSign in the Naming business that we're proud of. DNSSEC, which stands for Domain Name System Security Extensions, was implemented in the root zone in July. DNSSEC is a marriage of cryptography and authentication technologies that validate DNS data, which strengthens the Internet's defenses against cache poisoning and man-in-the-middle attacks. The technology will help give Internet users more confidence in their online experience.
+DNSSEC is the most significant change to DNS since its creation, and VeriSign technologies were among the elite industry group that made it happen. Designing of the root was a culmination of months of preparation, testing and deployment in coordination with the U.S. Department of Commerce, ICANN and the root server operators. In remarks made at the White House Cybersecurity Policy Review Meeting early in July, U.S. Secretary of Commerce Gary Locke recognized Verisign's workflow in this groundbreaking accomplishment and praised the effort as an example of successful public-private partnerships. I want to knowledge and thank the DNSSEC group deployment team for their efforts in getting the group DNSSEC-enabled. 
+And now moving to Authentication Services for the second quarter. In Business Authentication, we saw the installed base of SSL Certificates increased to 1.27 million certificates in the second quarter compared to 1.25 million in the first quarter. From a bookings perspective, Business Authentication had another healthy bookings quarter, where bookings again exceeded our plan and exceeded revenue. The annualized average unit revenue, or AUR, for the installed base at VeriSign, GeoTrust and Thawte-branded certificates for the second quarter was $222, which is flat from Q1. While product mix shift has been a consistent trend, we are pleased to see stabilization in AUR this quarter, with the strong bookings that we have seen over the past couple quarters starting to flow direct.
+The feedback on the new Trust Seal product launch in late February continue to be strong. There were two key developments since our last earnings call, including the launch through the partner channel in May and the roll out through existing SSL customers in mid July. And with the impending close of the sale of Authentication, I want to take this opportunity to recognize and thank all the employees in Authentication Services for their hard work and contribution to VeriSign over the years and wish them the best of success as part of Symantec. This is an exceptionally talented team, and they'll be missed.
+As we look forward post the sale of Authentication, we think we are well positioned in the market for a number of reasons. First, a world-class technology. We have strong technical expertise that's demonstrated by our success in running a scalable network infrastructure, with 100% availability for more than a decade. Second, we are the market leader in a competitively defensible position. We've enjoyed strong unit growth and have a healthy renewal rate in a business that should benefit from continued Internet adoption globally. Third, we have a solid financial position, including strong cash flows and an enviable balance sheet to support the existing business and to pursue evolutionary growth opportunities. And finally, we have a team that is seasoned and possesses unique insight into our industry position and core strengths. We think this will prove to be a potent combination as we move the company forward. And now I'll turn the call over to Brian for additional discussion of our results. Brian?
+Brian Robins
+Thanks, Mark, and thanks, everyone, for joining us this afternoon. As Mark highlighted, and as we discussed on the May call, Authentication Services is classified as discontinued operations for the second quarter. The balance sheet for the second quarter is based on the consolidated operations, with Authentication Services placed in held for sale. 
+We're pleased with our performance this quarter. I would like to highlight a few key financial metrics we reviewed in Analyst Day that we're focused on for the year: Revenue, deferred revenue, non-GAAP operating margin, non-GAAP EPS growth and free cash flow.
+Revenue for Naming Services was $168 million, up 4% from the prior quarter and up 9% year-over-year. As indicated in our filings, revenue from Registry Services for the operation in .com and .net is in U.S. dollars, so we have minimal FX exposure on the top line. Deferred revenue growth for Naming Services was strong in Q2. We ended the quarter at $641 million, up $24 million or 4% in Q1 and up 11% from the same period in 2009.
+Non-GAAP operating expense were approximately $100 million, up 2% quarter-over-quarter and down approximately 2% year-over-year. Non-GAAP operating margin was 40.5% in the second quarter compared to 39.4% in Q1.
+The Q2 operating margin includes certain overhead costs associated with Authentication Services that will decrease over time with the transition of the business. I'll discuss that in more detail in a minute following the close of the deal.
+We will continue to focus on cost optimization and efficiency. Non-GAAP net income for the second quarter was $43 million, resulting in non-GAAP earnings per share of $0.24 compared to $0.22 in Q1 and $0.16 in the same period in 2009, a 50% increase year-over-year. Contributing to the strong sequential growth was revenue growth and share repurchases during the quarter of 8.1 million shares, resulting in a diluted share count of 183 million shares. We initiated the repurchase of approximately 900,000 additional shares in the second quarter that did not settle until July and thus will be reflected in the third quarter share count.
+Operating cash flow on a consolidated basis was approximately $149 million in 2Q. Free cash flow was $131 million in 2Q, given $4 million excess tax benefits and $23 million capital expenditures in the quarter. In the quarter the deal closes, we anticipate an impact to free cash flow as a result of losing Authentication Services working capital to proceeds from sales. Our balance sheet is strong with ending cash, cash equivalents, marketable securities and restricted cash of approximately $1.34 billion, a decrease of $213 million after share repurchases of $227 million. 
+Following the close of the transaction, we anticipate that approximately 35% of our cash balance will be held internationally. We may, at some point, consider repatriation a portion of the cash but recognize that would likely result in significant income taxes. As Mark mentioned, we now have $1.5 billion authorized for share repurchases. With regard to current expectations around the transition of the Authentication Services business to Symantec, as we indicated at the time of the announcement, we expect that the bulk of the transition services agreements, or TSAs, will be completed within a year of the close of the transaction taking us through the first half of 2011. While we exited the quarter with 2,225 employees, 1,100 of those employees are part of continuing operations. We expect headcount to be reduced to fewer than 1,000 employees at some point in late 2011, after the fulfillment of the transition services agreement is completed.
+Following the close, our focus will again be on seeking opportunities to achieve cost optimization as we transition Authentication Services business. VeriSign has taken a disciplined approach to restructure the company over the past three years, and we will continue to focus on that trajectory with the transition of the Authentication business, as well as the implementation of our growth initiatives.
+Moving on to guidance. At this point, we believe we are making good progress to achieve and or exceed the targets we provided on the May call: Naming Services revenue growth for 2010 in the range of 8% to 11%, which is on track based on our performance in the first half of the year, resulting in full year 2010 revenue of between $665 million and $685 million; non-GAAP gross margin in the 77% to 78% range; non-GAAP operating margin in the 40% to 41% range for the remainder of the year. Anticipating closing the transaction on schedule, we expect second quarter 2011 exit operating margin to be in the range of 45%. Non-GAAP other loss net is expected to be $20 million for 2010. Our guidance is based on continued growth and increased operating efficiencies on our business.
+I have covered our performance this quarter and last with key metrics of the business, accomplishments in top and bottom line execution and an overview of our goal for cost optimization going forward. As Mark highlighted, VeriSign is entering a new phase, and we believe we are well positioned in the market to move the business forward. We are fortunate to have a nimble culture that adapts well to change, and I'm confident about our ability to execute effectively. I'd like to thank all of our employees for their hard work and focus. Our continued execution is and has been a testament to their capabilities, dedication and professionalism.
+Thank you for your time this afternoon. Before I turn the call over to the operator to take your questions, I'd like to remind you that Mark will be presenting at the Pacific Crest Technology Leadership Forum on Tuesday, August 10. The webcast registration details are available on the Investor Relations website. Operator, we're ready for the first question.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question will come from Walter Pritchard with Citi.
+Walter Pritchard - Citigroup Inc
+Brian, if you could clarify in the margin, the 45% exit. That's exiting which period?
+Brian Robins
+2Q 2011.
+Walter Pritchard - Citigroup Inc
+And then as it relates to the buyback, I thought you guys bought back more stock than we expected, about 230 million in the quarter, and it sounded like you had some settling at the end of the quarter. Were you at all restricted in buying back stock in the quarter? Did you have some program in place to be able to go throughout the quarter and buy back stock? Or just if you could kind of clarify how the buyback proceeded to the quarter, and that be helpful to us understanding it.
+Brian Robins
+So we bought about 8.1 million shares in the quarter. That's reflected in our weighted average share count, and there's 900,0000 shares that settled after the quarter ended. As folks are aware, we had a material transaction that we disclosed during the quarter, and such transaction would prevent certain blackout periods.
+Walter Pritchard - Citigroup Inc
+And then just lastly on the renewal rate, I guess, I asked you this last quarter, and it seems like the renewal rate continued to creep up here, or I guess your estimated renewal rate in Q2. Mark, could you talk about, are you seeing different renewal rates on subsequent renewals versus first time? And is that continuing to drag up the renewal rate? Or what was the driver of renewal rate continuing to creep up there?
+Mark McLaughlin
+A couple of things, Walter. We continue to see previously renewed names renewing at a higher rate than first-time renewed names. And then the base is trending more towards previously renewed names, so you get an uptake from that. And the second is last year, as I mentioned, registrars run a number of motions around renewals just given the way the economy was trying to keep customers as opposed to spending a lot of money on new customers, and we're seeing the benefit of that come through the renewal rate now.
+Walter Pritchard - Citigroup Inc
+Did the pricing increase at all impact the renewal rates as we did hear from some registrars that may have pulled forward some renewal activity into June?
+Mark McLaughlin
+It's possible, but if it is based on our looks into this, I think it would be immaterial.
+Operator
+Our next question comes from Dan Cummings with ThinkEquity.
+Daniel Cummins - ThinkEquity LLC
+Regarding the employees involved in transition services. Do these tend to be kind of discrete job descriptions? Or could it be people who are involved in recurring activities as well? I'm just kind of asking about how orderly this is going to go. I think you said your going forward headcount is around 1,100 and that will trend down over the next couple of quarters.
+Brian Robins
+Dan, this is Brian. The TSAs are not employee-specific. Some of them are employee-specific but they're more task-specific. And so the TSAs range from one month to 24 months, with most of them ending in about nine to 12 months. And so you will see a gradual roll off of the employees over that time period. And they're designed really to create a smooth transition for the customers. And so it's in both of our objectives to get them done sooner than later. And we are working with the transition team that's working hand-in-hand with Symantec on the agreement and on transitioning the certain capabilities over to Symantec.
+Daniel Cummins - ThinkEquity LLC
+Does it involve contractor people as well? Or are these tend to be full-time employees?
+Brian Robins
+Most of them are full-time employees.
+Operator
+Our next question will come from Ed Maguire with CLSA.
+Edward Maguire - Credit Agricole Securities (USA) Inc.
+Could you talk about the geographic characteristics of the common net growth, what the contribution was for U.S. versus international registrations?
+Mark McLaughlin
+It's Mark. We're fairly consistent in a couple of things. One is the zone today, our zone in .com and .net is approaching 40% on an international basis. So it tends to grow nicely and faster than the domestic base. So we haven't seen any changes in that trend over the last six to eight quarters and its positive effect.
+Edward Maguire - Credit Agricole Securities (USA) Inc.
+Also on the new global TLDs, any updates on initiatives that you maybe working on there?
+Mark McLaughlin
+In order to do that, we have to have that all group from an ICANN perspective as far as them releasing new ccTLD, which a portion of that is the non-english versions of existing TLDs. And that all still appears to be on track for negotiations applications in 2011 with the launch of those things either late 2011 or early 2012.
+Edward Maguire - Credit Agricole Securities (USA) Inc.
+And just finally, any updates on progress on the Internet Defense Network and the traction you're seeing there?
+Mark McLaughlin
+Yes, it's good. Let's say, with niche in [ph] business, as you know, so just getting that off that ground, Ben Petro joined us recently to think that over, and his doing a good job with the business. We've got a nice pipeline there. One of the things we have to do, given the sale of the Authentication business to Symantec, it's most of our sales resources are going to Symantec. We have been sharing that to get this business off the ground. So we have a little building effort going on there. But Ben is doing a good job, and it's a little early to talk about specifics because I think it's not material enough yet, but we like what we see there.
+Operator
+Our next question is from Sterling Auty with JPMorgan.
+Sterling Auty - JP Morgan Chase & Co
+Just in preparation for the close, the TSA agreements that you have, will that flow through other income? Or will that show up in revenue?
+Brian Robins
+Other income. The expense will be above the line and then the revenue will be down in other income.
+Sterling Auty - JP Morgan Chase & Co
+Exiting 2Q of '11, the 45% operating margin, what are some of the examples of the things that might be left to kind of impact phase out off that will drive up margins once you're through with those TSAs?
+Brian Robins
+There is a number of things, one is on the infrastructure side. Prior to the divestitures, we look at we're building the company where $1.5 billion in revenue, 5,500 employees. And so the corporate infrastructure on the system side is currently slated for a lot more capacity. If you look at the international facilities, facilities around the world, where we obviously need to slim down our facilities, the maintenance cost on those systems and then just the optimization across the entire company on a number of other areas.
+Sterling Auty - JP Morgan Chase & Co
+Mark, on the 7.9 million new names that came in during the quarter, you mentioned international, but are there any other kind of trends or sources to those new name additions that you see?
+Mark McLaughlin
+No, Sterling, we're fairly consistent quarter-over-quarter here as far as the sources of the names. So PPC is a dead thing. And it's hard to tell any longer, anymore what's in there at all. So it's really just to where we used to call traditional and then broken out between domestic and international. It continues to trend as we've seen, like I said, the last six or eight quarters.
+Operator
+Our next question is from Philip Winslow with Credit Suisse.
+Philip Winslow - CrÃ©dit Suisse AG
+Back on the TSA agreements, wondering if you could just quantify that for us in dollar terms what you're expecting for the second half? And then also, when you do look at the exit rate in Q2 fiscal '11, you mentioned getting down below 1,000 heads. Is that exit rate of 45% including getting below 1,000 heads or is that still for the second half?
+Brian Robins
+I'll take the headcount first and then I'll talk about the TSAs. On the headcount side, that would be down under 1,000 heads and then we will gradually add back as we look at some of the new investment areas, which would be small and incremental in nature. So you'll see some come out and some net additions, but will be under 1,000 heads. And then on the TSA side, these are structured in a way to the extent that they if they're able to transition them over to Symantec, that the TSAs can be canceled. And so I don't want to give out a number per se and say, "Hey, here's a number that you can build in your model." It maybe longer, it may be shorter, and we want to make sure that the customers have a very smooth transition from VeriSign over to Symantec. You can think about, on an annual basis, it's approximately in the $5 million range. But there may be some puts and takes there on the timing.
+Mark McLaughlin
+And Philip, it's Mark. Just one clarification. What Brian said earlier was the 45% range was the exit rate coming out of Q2 2011, not the full year. And we're reticent trying to call the floor here yet without having developed a 2,000-head employment operating plan yet, which it's just too early to do that.
+Philip Winslow - CrÃ©dit Suisse AG
+And that 45% includes an assumption that you'll be below 1,000 exiting in Q2 correct?
+Mark McLaughlin
+Yes.
+Operator
+Our next question will come from Steve Ashley, Robert W. Baird.
+Steven Ashley - Robert W. Baird & Co. Incorporated
+Wondered if maybe qualitatively you could discuss how aggressive you might be buying back your stock once you receive the $1.3 billion in proceeds from the divestiture?
+Mark McLaughlin
+It's Mark. We really can't talk about that, but there are a couple of things to highlight here. The increases of the repurchase authorization up to a total of $1.5 billion now and the fact that we bought about $200 million, close to $230 million in the last quarter or so. I think it's safe to say, as we have in previous calls, that we fully -- we have more than enough cash to run the business and we'd be looking for ways to return some [indiscernible].
+Steven Ashley - Robert W. Baird & Co. Incorporated
+Brian, is there any kind of comment you could make around what cash flow from operations might have looked like just in the Naming business?
+Brian Robins
+So we didn't give out any specific, on the last call, any specific data around it. Part and parcel because the cash flow is highly dependent on margin and future price increases. And so we haven't given out specific guidance on what cash flow will be for Naming.
+Steven Ashley - Robert W. Baird & Co. Incorporated
+And is there any rule of thumb, maybe on the CapEx side, of what we could think about in for CapEx needs on the Naming side?
+Brian Robins
+Yes. When we had our last call, we said 8% to 10% of revenue. And so you can expect the CapEx and then maybe some confusion around the CapEx that we reported this quarter. The balance sheet is still consolidated and the P&L was reported into discontinued operations and continuing operations. The CapEx reported this quarter was about 60% Naming and about 40% Authentication.
+Operator
+Our next question comes from Rob Owens of Pacific Crest.
+Rob Owens - Pacific Crest Securities, Inc.
+Given that you've got three consecutive quarters of strong double-digit new name growth and you have an improving renewal rate here, how should we think about net new names going forward? Could we see them kind of transition up to a new level for 2011?
+Mark McLaughlin
+It's possible, Rob. We're looking at on the new names coming in the system about a 13% increase in the quarter-over-quarter basis, which is up nicely. So if we go back historically, that's the number that is a high number over the last eight, going on nine quarters. So we've got a nice combination going here if it sticks, of more than double-digit growth on new names coming in and renewal rates trending up nicely as well. So I think we could see nine plus percent unit growth for a while.
+Operator
+Our next question is from Sarah Friar with Goldman Sachs.
+Sarah Friar - Goldman Sachs Group Inc.
+Mark, maybe just a follow-up to that question on the Naming growth. As the new gTLDs come next year, what have you got [ph] is kind of change it could make to the growth you've got in .com and .net, if any?
+Mark McLaughlin
+I think it's positive. So a couple of things. One is just related to .com and .net, with the introduction of new TLDs, the expectation that just brings more people to the market. We generally do find that when more people shop to the market. And the second thing, we intend to participate with some of those [indiscernible] growth opportunities for us.
+Sarah Friar - Goldman Sachs Group Inc.
+On a follow-up on the lawsuit, is there anything that you can do other than going back to court or taking it to Supreme Court or whatever? Just settle and put it behind you or is that just not even an option that can be pursued?
+Mark McLaughlin
+It is an option that could be pursued, but it's not one of the things that I've mentioned that we're -- the few choices we have procedurally, as the case today.
+Operator
+Our next question will come from Todd Raker with Deutsche Bank.
+Todd Raker - Deutsche Bank AG
+I was wondering if you could talk about the contract duration around the Naming business and talk about how we should expect the most recent price increase to kind of flow in to the base?
+Mark McLaughlin
+By contract duration, do you mean the average term license?
+Todd Raker - Deutsche Bank AG
+The Name, yes.
+Mark McLaughlin
+It's holding steady at about 1.17 for names that have been in the cage for a while now. So no expectations that would change up or down dramatically for the time being. And then as far as the flow through of the price increase, we've said that, that would be immaterial for this year and then the deferred impact we'd enter it next year.
+Todd Raker - Deutsche Bank AG
+And if we look at the 1.17, is it fair to think that the majority of names are one year and then there are some type of barbell where you have a bunch of names that are multi-year?
+Mark McLaughlin
+It's possible. One of the things that we don't get to see, Todd, is is that registrars will sometimes sell a name for more than one year to a registrant so they collect the money from the registrant for more than one year. But for cash management purposes, they'll turn around to us and register it for a year at a time. So we may only be seeing a year of a name when somebody registers for three years. We'll get all three, but as far as day one, it looks like one year to us.
+Todd Raker - Deutsche Bank AG
+Can you talk about under the existing .net and .com agreements, your future price increases and what the timing around announcements would be contractually?
+Mark McLaughlin
+Yes, in both .com and .net, we have the ability to take one remaining current price increase under the current terms of the contract. We chose to do so and if we did that, we would have to give six months advance notice and it would take an impact next year, May 2011. That's as far away as we could go since we've taken one and it took effect in 2010. If we were to do another one, we'd furlough the effective date effective in 2011.
+Todd Raker - Deutsche Bank AG
+Given the commentary around the renewal rate kind of ticking up here, is it fair to read into that, that you guys are not seeing any kind of price sensitivity from the price increases?
+Mark McLaughlin
+I think that would be, I wouldn't be prepared to make that statement, Todd. I think that there's a number of things to be applied here, which is like I said, more names in the base that had previously been renewed, renewing at a higher rate, and then also some of the renewal programs that have been run by the community, I think are primarily what's going on here.
+Todd Raker - Deutsche Bank AG
+If you think Pay Per Click has really gone away, do you think the traditional base is price sensitive at current levels?
+Mark McLaughlin
+I think that the traditional base is price sensitive at the current levels. I think that what traditional base is trying dig in a lot of value from the name, for whatever purposes you're using it or they like to keep them so they're buying them and they renew them.
+Operator
+[Operator Instructions] We'll next go to Craig Nankervis with First Analysts (sic) [First Analysis].
+Craig Nankervis - First Analysis Securities Corporation
+Just to be sure I understand, given the renewal programs that you were referring to, is that a one-time thing or is that ongoing? In other words, in Q3, would there be reasonable likelihood that the renewal rate might go down from Q2?
+Mark McLaughlin
+I'll take that in two parts, Craig. One is programs are generally run all the time. They tend to be in one or two categories. They're either run for new names being sold or renewals, and we've seen the registrar community focus on those more heavily at different times for various reasons. So as far as how they're spending their money, they generally go to those two categories. So does the renewal rate go down from this part [ph], yes, it's possible and if it were the case, then one of the things could be if you had more first-time names up for renewal in a specific quarter, then another quarter, you might see a slight decrease because of that. But as a general matter, we'd said that healthy historical renewal rates trending in the business look to be like in the 70% to low 70%. We saw that last year and we think we're seeing that here.
+Operator
+Our next question will come from Scott Kessler, Standard and Poor's.
+Scott Kessler - S&P Equity Research
+So I got on the call a little late so I apologize if this question or the gist of it was already asked, but basically what I'm looking for is some detail around going forward, what the growth strategy is given that you're now essentially going to be meaner and meaner, if you will. And in addition to the notion of international growth, which is something that I think a lot of people see in front of you guys, can you give us a sense of where you see the growth coming from and if, potentially, acquisitions might play a part in that? I know it's ironic to some extent that you're completing this divestiture and I'm asking about acquisitions, especially given that obviously, you guys have talked about looking at some things, but not really necessarily having been able to move forward on them for whatever reason. But I'm wondering if you could provide some comments.
+Mark McLaughlin
+So I think of things in three kind of categories there. The first is just in our core business around .com and .net, we tend to benefit from their growing use of the Internet on a global basis. So if you look at the trend, folks coming online, broadband penetration, e-commerce sales, advertising sales, all those things tend to benefit us if they're growing. And all indications are that they will continue to grow for quite some time despite the recessionary that we. So things seem to be back on uptick there. So first and foremost, we believe it will, in fact, continue to grow just from being -- benefiting at having a central location, if you will, on a fast-growing Internet infrastructure on a global basis. The second thing is we have growth opportunities right around that infrastructure related to like the new gTLDs I just discussed, both the new gTLDs themselves plus the internationalized version of the TLDs we run today. And if you take into account everything I've been saying about international growing very nicely, we think that there's some growth opportunities around the non-English versions of the TLDs we run. So that's the second category. And the third category is in the infrastructure itself. So we spent, we continue to spend a lot of time and money on the infrastructure on .com and .net. And in doing that, we know that we have had to do things for a number of years for ourselves to make that infrastructure robust and secure and scalable. And we turn our attention recently to providing services around that for other folks. So we're utilizing some of our learnings from the network, and that some of the things in this network intelligence and availability to discuss we currently have the Investment Mitigation service. We have the network for intelligence. We recently launched a Managed DNS service. And you'll see us do more services that are very close in around the infrastructure itself where we can utilize what all the work and experience we have there. In to the last part of your question, from an acquisition standpoint, I said earlier that you should not expect us to go off and do a big acquisition or try to leverage our way into a different industry. I don't see that in our future. If we have the opportunity, in any of the areas I just went through, to do bolt-on acquisitions that would give us higher growth rates that we're seeing today on things that we understand very, very well and if we can get an attractive price, we would be open to look at that. But we're being very careful and disciplined in doing that.
+Scott Kessler - S&P Equity Research
+If I could just also follow up on a prior question, it seems to me like to some extent, you commented on the Ninth Circuit Court of Appeals, denying, I guess, your request for a dismissal. I'm wondering if you'd give us a sense of what the next steps are going to be in the related timetable there?
+Mark McLaughlin
+I wanted to clarify in my prepared comments I said that -- let me answer your question and I'll clarify. The -- procedurally one or two things can happen with the case right now. We could request further appellate review, which means we could request a review at the Supreme Court level. Or if we don't do that, if we choose not to do that, then the case would be what's called remanded back to the District Court where a trial would start. We have 90 days from the date of the Ninth Circuit decision, which was on July 9, to make the decision as to which of those two avenues we would go.
+Operator
+Our next question is from Kerry Rice with Wedbush.
+Kerry Rice - Wedbush Securities Inc.
+Just maybe a quick clarification. You guys, in the latest 8-K, indicated that you are moving the facilities or headquarters kind of everything to Dulles, and the needless doubt [ph] kind of the total incurred cost of being about $35 million to $38 million. Is that all related to the move or is that just the cost associated to the move that are included in that in the $35 million to $38 million is just all in now what we expect related to the cost of the Authentication business sale?
+Brian Robins
+This is Brian. There's a couple -- there is a restructuring related to the Authentication sale and then there is the restructuring related to moving Corporate Services from California to the Dulles area; and its outplacement, severance, retention, a lot of exit costs and so forth. And so that's not -- if you have a lease here, you break a lease, there's certain exit costs associated with that and so that's in there.
+Kerry Rice - Wedbush Securities Inc.
+Is there a way to break out those two from the $35 million? You've got the $21 million related to the severance costs and the $14 million to $17 million related to the excess facility. Is that the way to think about the breakout of those two or are there mixed in there so it's not that easy to break it?
+Brian Robins
+That's the way to think about it.
+Kerry Rice - Wedbush Securities Inc.
+Moving to the Dulles area, is going to occur about the same time that the Authentication Services business sale is closed. Is that correct?
+Brian Robins
+It'll be over the next six to 12 months. There would be a transition related to that.
+Kerry Rice - Wedbush Securities Inc.
+I know that you've got some verbage in here talking about estimates, but can you talk at all about potential cost savings or additional costs, besides the kind of separation cost that are related to the move? Is that a move that helps you save cost and if you can't, can you quantify them? Or is there -- the rent higher, how should we think about the impact?
+Brian Robins
+There will be a little increase immediately because you'll have a duplication staff on both those. And then once you have a transition completely done, you'll see lowering cost since we have a smaller and more simple business. You'll see lots of back office staff, supporting sort of the front office, if you will. So you will see a reduction over time. And part of what really drove the decision to move from California to Dulles was the fact that 95% of our business is based on the East Coast. And for the people in the back office supporting the business, just better efficiency that they're located closer, same time zone.
+Kerry Rice - Wedbush Securities Inc.
+Is this all kind of inclusive of the below 1,000 headcount or it will only be addition to that due to this move?
+Brian Robins
+That's built in to the below 1,000 headcount.
+Operator
+And we'll next go to Shaul Eyal with Oppenheimer & Co.
+Shaul Eyal - Oppenheimer & Co. Inc.
+You mentioned the DNSSEC, is that a homegrown technology or are you using or working with some other security vendors?
+Mark McLaughlin
+Shaul, it's Mark. We're working with a number of vendors so DNSSEC is -- the best way to think about is that it's a standard that has been developed over the past 10 years by the IETF, a lot of groups involved with this. And then based on that standard, it's now being rolled out across the entire domain name system, which will affect the Internet. The very first step in that is to apply at the root level and some serve [ph] runs to root servers, the A and the K. We were involved for the last 10 years in working on this with a whole host of folks in standards, bodies, industry, ICANN, Commerce Department [Department of Commerce] international governments, a lot of players. What you'll see now is the DNSSEC technology rolled out across the entire domain name system, .com, .net, other TLDs, etc. ISPs will do some updates. So this is just the beginning of a large scale rollout, but it's taken some time to get everything dealt with.
+Operator
+And with that, this does conclude today's Q&A session. I'd like to turn the call to Nancy Fazioli for closing.
+Nancy Fazioli
+Thank you, operator. Please call the Investor Relations department for any follow-up questions for this call. Thank you for your participation and continued support. This concludes our call. Thank you and good evening.
+Operator
+And again, this does conclude today's conference call. Thank you for participating.

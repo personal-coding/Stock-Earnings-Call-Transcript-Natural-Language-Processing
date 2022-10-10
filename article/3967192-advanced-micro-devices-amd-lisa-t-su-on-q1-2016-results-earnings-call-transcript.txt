@@ -1,0 +1,324 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q1 2016 Earnings Call April 21, 2016 5:00 PM ET
+Executives
+Ruth Cotter - Chief Human Resources Officer and Senior Vice President of Corporate Communications, Investor Relations
+Lisa T. Su - President, CEO & Non-Independent Director
+Devinder Kumar - Chief Financial Officer, Treasurer & Senior VP
+Analysts
+Mark Lipacis - Jefferies LLC
+David M. Wong - Wells Fargo Securities LLC
+Hans C. Mosesmann - Raymond James & Associates, Inc.
+Joe L. Moore - Morgan Stanley & Co. LLC
+Ian L. Ing - MKM Partners LLC
+Stacy Aaron Rasgon - Bernstein Research
+Bill C. Peterson - JPMorgan Securities LLC
+Suji De Silva - Topeka Capital Markets
+Sidney Ho - Deutsche Bank Securities, Inc.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+John William Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+Deepon Nag - Macquarie Capital (USA), Inc.
+Jaguar Bajwa - Arete Research Services LLP
+Operator
+Greetings, and welcome to the Advanced Micro Devices First Quarter 2016 Earnings Conference Call. At this time, all participants are in listen-only mode. A question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded.
+It is now my pleasure to introduce your host, Ruth Cotter, Senior Vice President, Human Resources, Corporate Communications and Investor Relations. Please go ahead, Ms. Conner.
+Ruth Cotter - Chief Human Resources Officer and Senior Vice President of Corporate Communications, Investor Relations
+Thank you, and welcome to AMD's first quarter conference call. By now you should have had the opportunity to review a copy of our earnings release and the CFO commentary and slides. If you've not reviewed these documents, they can be found on AMD's website at ir.amd.com.
+Participants on today's conference call are Lisa Su, our President and Chief Executive Officer; and Devinder Kumar, our Senior Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on amd.com.
+I would like to highlight a few dates for you. Devinder Kumar will present at the JPMorgan Global Technology Media and Telecom Conference on May 24 in Boston, and our second quarter quiet time will begin at the close of business on Friday, June 17, 2016.
+Before we begin, let me remind everyone that first quarter 2016 was a 13-week quarter for AMD, and we expect to record our extra week in the fourth quarter of 2016.
+Today's discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations; speak only as of the current date, and as such involve risks and uncertainties that could cause actual results to differ materially from our current expectations. Please note that we will be referring to non-GAAP figures during this call except for revenue, which is on a GAAP basis. The non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measures in the press release and CFO commentary posted on our website at quarterlyearnings.amd.com.
+Please refer to the cautionary statements in today's earnings press release and CFO commentary for more information. You'll also find detailed discussions about our risk factors in our filings with the SEC, and, in particular, AMD's Annual Report on Form 10-K for the year ended December 26, 2015.
+Now with that, I'd like to hand the call over to Lisa. Lisa?
+Lisa T. Su - President, CEO & Non-Independent Director
+Thank you, Ruth, and good afternoon to all those listening in today.
+Our strategy to improve our business by gaining share in the Graphics and PC markets, growing our Semi-Custom business and expanding into the datacenter market is progressing as planned.
+First quarter revenue decreased in line with expectations to $832 million, driven largely by an anticipated reduction in Semi-Custom shipments. Looking at our Computing and Graphics segment, against the backdrop of one of the largest sequential Q4 to Q1 declines in the PC industry and ongoing softness in the Chinese PC market, we continue to execute our multi-quarter plan to improve the financial performance of this part of our business. Revenue decreased 2% sequentially, as improved notebook processor, desktop GPU and professional graphics sales offset declines for our other PC products.
+We reduced our operating loss from the prior quarter, outperformed the PC market and believe we regained processor and GPU share. Importantly, we accomplished this while maintaining our disciplined approach to managing inventory in the quarter, as our inventories with MNCs and downstream channel partners were flat to slightly down sequentially.
+We had our second straight quarter of double-digit sequential percentage growth in mobile APU sales. We began shipping our seventh-generation Bristol Ridge APUs in March, and have secured new design wins that continue our expansion into more premium notebook offerings, including HP's new ENVY x360 convertible notebook. Compared to our previous generation 15-watt APU mobile offering, Bristol Ridge delivers a 20% improvement in our already industry-leading graphics performance, and up to 20% CPU performance uplift.
+In Graphics, we delivered a strong sequential double-digit percentage increase in desktop discrete unit shipments largely driven by increased sales of our Radeon 300 Series GPUs in the channel. Our investments in Graphics and our focus on creating industry-leading drivers and software are starting to pay off. We have delivered seven new Graphics drivers releases in the first quarter alone, not only improving the performance and user experience of our GPUs, but also adding support for a new AAA game titles and features like our innovative XConnect external GPU technology. We expect to grow our investment in Graphics throughout the year as we further update our Graphics software and extend our leadership in DirectX 12 gaming and VR.
+We believe VR will be a key long-term demand driver for AMD, across both our consumer and Professional Graphics offerings, especially as content creators require more powerful GPUs to create fully immersive VR experiences. To capitalize on this trend, I'm proud to share that we plan to launch the industry's most powerful platform for VR creation and consumption at the end of this month, when we introduce the $1,500 Radeon Pro Duo.
+We remain on track to introduce our new 14-nanometer FinFET based Polaris GPUs midyear. Polaris delivers double the performance per watt of our current mainstream offerings, which we believe provides us with significant opportunities to gain share.
+Now turning to our Enterprise, Embedded and Semi-Custom segment. Revenue declined 24% sequentially due to lower Semi-Custom sales. Based on our current visibility, we expect Semi-Custom unit shipments and revenue to grow, on an annual basis, based on strong demand for game consoles and the ramp of our previously announced new business in the second half of the year.
+In Embedded, we secured new designs across our target markets. Highlights from the quarter include our first significant CPU design win with one of the leading network infrastructure providers. I'm also pleased to share that we are making excellent progress on our strategy to reestablish our presence in the datacenter market, as we successfully passed several key milestones related to our next-generation Zen-based server processor. The Zen silicon running in our bring-up labs is meeting our expectations, and priority customer sampling is on track to begin this quarter in advance of datacenter system availability in 2017.
+Our EESC results in the quarter also benefited from the latest step in our strategic IP monetization efforts. As we've disclosed earlier today, we have licensed high performance microprocessor technologies to a newly created JV we formed with THATIC. The JV will develop SoCs tailored to the Chinese server market.
+The $293 million licensing agreement is a great example of how our IP monetization efforts can accelerate the adoption of AMD technologies in key markets while also strengthening our balance sheet and financial results.
+Today's announcement is a key part of our overall strategy to re-enter the datacenter market, with the JV providing AMD with a differentiated approach to gain share in the fastest growing regional server market.
+In closing, we're making steady progress on the clear strategy we have developed to return AMD to growth and profitability through delivering great products. We are executing well to our product and technology roadmaps, including the introduction of our seventh-generation APUs, our midyear launch of new Polaris GPUs and our future Zen-based processors.
+As we enter into the second quarter, we see strong demand for our Semi-Custom and Graphics products, which we believe will lead to stronger than seasonal sequential revenue growth. For the full year, we are confident that our product portfolio and business execution can further strengthen our financial results and enable us to grow annual revenue and return to non-GAAP operating profitability in the second half of the year.
+Longer term, we expect a strong customer interest in AMD's datacenter offerings will result in new design wins that can deliver profitable revenue growth in 2017 and beyond.
+Now I'd like to turn the call over to Devinder to provide some additional color on our first quarter financial performance.
+Devinder Kumar - Chief Financial Officer, Treasurer & Senior VP
+Thank you, Lisa, and good afternoon, everyone. From a financial perspective, the first quarter came in as expected.
+We continued funding our roadmap products and also made progress on our IP monetization strategy with the execution of a licensing agreement that is expected to generate $293 million of cash before tax, contingent upon achieving certain milestones.
+Let me review the results for the first quarter. As a reminder, our first fiscal quarter was a 13-week quarter. Revenue was $832 million, down 13% sequentially, driven primarily by lower sales of Semi-Custom SoCs. The year-over-year decline was 19%, due primarily to lower sales of Semi-Custom SoCs and client notebook processors.
+Gross margin was 32%, a 2-percentage-point improvement from the prior quarter due primarily to a more favorable product mix and a mix of revenue between the business segments. Operating expenses were $332 million, up $9 million from the prior quarter primarily due to increased R&D expenses related to new products, partially offset by lower SG&A expenses.
+Operating expenses were $12 million higher than guided, primarily due to the timing of mass and hardware for our new products and some incremental investments in Graphics. Operating loss was $55 million, and net loss was $96 million with loss per share of $0.12 calculated using 793 million shares. We recognized a $7 million licensing gain associated with our IP monetization efforts in the quarter.
+Net interest, other expense and taxes were $41 million in the quarter, down from $53 million in the prior quarter, primarily due to a $13 million tax settlement in Q4 2015, which was included in the GAAP results. Adjusted EBITDA was negative $22 million, compared to negative $5 million in the prior quarter.
+Now turning to the business segments. Computing and Graphics revenue was $460 million, down 2% from the prior quarter, primarily due to lower desktop processor sales. Computing and Graphics segment operating loss was $70 million, compared to $99 million in the prior quarter, primarily due to decreased operating expenses.
+Enterprise, Embedded and Semi-Custom revenue was $372 million, down 24% from the prior quarter, primarily due to lower sales of our Semi-Custom SoCs. The operating income of this segment was $16 million, down from $59 million in the prior quarter, driven primarily by lower revenue and higher R&D expenses, partially offset by the IP licensing gains.
+Turning to the balance sheet, our cash and cash equivalents total $716 million at the end of the quarter, down $69 million from the end of the prior quarter, primarily due to lower sales and higher debt interest payments of $69 million in Q1. Additionally, our Q1 results include $52 million net of taxes received from our IP licensing agreement.
+Inventory was $675 million, down $3 million from the end of the prior quarter. Total wafer purchases from GLOBALFOUNDRIES in the first quarter were $183 million, including $155 million related to the 2015 WSA amendment taken in Q1 2016.
+Debt, as of the end of the quarter, was $2.24 billion, flat from the end of the prior quarter, including total borrowings of $230 million on our secured revolving line of credit, unchanged from the prior quarter. Free cash flow in the first quarter was negative $68 million, compared to a positive $27 million in the fourth quarter of 2015.
+Before providing our outlook for the second quarter, let me provide an update on our ATMP joint venture with Nantong Fujitsu Microelectronics. Earlier this month, NFME's shareholders approved the transaction. And we are currently in the final stages of obtaining regulatory approvals, and expect to close the transaction this quarter.
+Now turning to our outlook, which is based on the 13 fiscal week quarter. For the second quarter of 2016, we expect revenue to increase 15% sequentially, plus or minus 3%, driven by a strong demand for our Semi-Custom and Graphics products; non-GAAP gross margin to be approximately 31%; non-GAAP operating expenses to be approximately $335 million; IP monetization licensing gain to be approximately $25 million; non-GAAP interest expense taxes and other to be approximately $45 million, including approximately $3 million of taxes related to the IP licensing gain; cash and cash equivalents to be approximately $950 million, including approximately $320 million related to our ATMP joint venture; inventory to be up slightly from first quarter levels.
+For the full-year 2016 we continue to expect revenue to grow year over year, to be non-GAAP operating profitable in the second half of 2016, and to generate positive free cash flow from operations for 2016. Also we now expect non-GAAP operating expenses to be between $330 million and $350 million per quarter; IP monetization licensing gain of approximately $52 million, with $7 million already recognized in Q1 2016; and capital expenditures of approximately $80 million. For the rest of the full-year 2016 outlook, please refer to the written CFO commentary document posted on amd.com.
+In closing we continue to strengthen AMD's core business, while leveraging our IP and technology. As we look to the rest of the year, we are focused on introducing compelling new products, regaining market share, and improving our financial performance.
+With that I'll turn it back to Ruth. Ruth?
+Ruth Cotter - Chief Human Resources Officer and Senior Vice President of Corporate Communications, Investor Relations
+Thank you, Devinder. Operator, we'd be very happy for you to poll the audience for questions, please.
+Question-and-Answer Session
+Operator
+Thank you. At this time we'll be conducting a question-and-answer session. Our first question today is coming from Mark Lipacis from Jefferies. Please proceed with your question.
+Mark Lipacis - Jefferies LLC
+Thanks for taking my question. And I guess this is one of the most exciting developments that we've heard about in a while, the license agreement. And I was hoping that you could maybe provide some more color on that.
+Could you help us understand â maybe just go back in time and just explain the cross license agreement that you have with Intel? What should investors understand about that? And assessing any kind of a risk associated with this IP agreement? Do you tell Intel that this is going on? And did you get clearance from them? Or is this something you just kind of run with? And do you have to wait for like regulatory approval to get this through or â and how should we think about timing and milestones? So that's a lot of questions. I'll stop there. Thank you.
+Lisa T. Su - President, CEO & Non-Independent Director
+Okay, Mark. This is Lisa. Thank you for your question. And regarding the JV that we just announced, yes, we are very excited about it, partnering with THATIC and really focusing on the Chinese market for server processors. What we are licensing in this agreement is microprocessor technologies and system-on-chip technologies. All of the technologies licensed are AMD technologies. So, there are no encumbrances from that standpoint.
+We have closed on the deal, and we are starting execution of the deal. So, we've talked about, from a financial standpoint, there's a $293 million licensing payment over a number of years. What we expect is the first payment we received in the first quarter of $50 million-ish. And we expect that over the first two years that about half of the licensing payments would be paid upon completion of some development milestones.
+So, overall for us, I talked about IP monetization in a very broad sense. For us, that includes patents as well as technology licensing. This one is very positive for us, not just from the standpoint that it leverages our IP, but it also gives us a very key partner in the Chinese market, which we all believe is going to be very, very important for datacenter growth going forward. So, hopefully, I addressed your questions there.
+Mark Lipacis - Jefferies LLC
+Yeah. And if I might just one quick follow-up. Are you of the view that you just can go and hit the ground running? I guess, you do, because you're expecting a $15 million payment right away, is there like any risk in the regulatory front on this deal? Thank you.
+Lisa T. Su - President, CEO & Non-Independent Director
+Mark, we don't expect any risk on the regulatory front. We believe that the technologies that we're licensing are compliant with all of the regulations, the U.S. regulatory issues. And I would also say that the joint venture is starting, and we do believe that we will execute quickly.
+Mark Lipacis - Jefferies LLC
+Thank you very much.
+Lisa T. Su - President, CEO & Non-Independent Director
+Thanks, Mark.
+Operator
+Thank you. Our next question today is coming from David Wong from Wells Fargo. Please proceed with your question.
+David M. Wong - Wells Fargo Securities LLC
+Thanks very much. Could you give us some idea â you called out your sequential growth guidance was in part due to Graphics. Are you able to give us any feel for what sequential growth in Graphics your guidance assumes? And what products are driving the sequential growth? Does this come from Polaris or do Polaris revenues start after the June quarter?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yes. So, David, our sequential guidance, as we mentioned, is due to both Semi-Custom and Graphics. I would say, it's more heavily weighted on Semi-Custom. But if you look at our Graphics progression over the last couple of quarters, even though Q1 is normally a weaker market than Q4, we grew units overall in the desktop Graphics business. So, we believe that was on some of the strength of some of our new software work and our work with the ecosystem. So, going into the second quarter, again, we believe that we have an opportunity in Graphics to drive some volume. Polaris is on track to launch in the middle of the year. And we will expect that will drive further strength in the second half.
+David M. Wong - Wells Fargo Securities LLC
+Okay, great. And just a clarification. You mentioned $53 million license gain, but if I understand correctly, your guidance is for $25 million in the second quarter. Is that part of that $53 million or is that something different?
+Devinder Kumar - Chief Financial Officer, Treasurer & Senior VP
+Yeah, David. I can take that. So, the total proceeds in the Q1 timeframe were $57 million, but there are taxes related to that. So the net cash for us was $52 million. We recognize $7 million in Q1 of 2016. We're recognizing $25 million in Q2. And then the rest of it will be over the second half of 2016, which is the balance $20 million.
+David M. Wong - Wells Fargo Securities LLC
+Great. Thank you.
+Devinder Kumar - Chief Financial Officer, Treasurer & Senior VP
+You're welcome.
+Operator
+Thank you. Our next question today is coming from Hans Mosesmann from Raymond James. Please proceed with your question.
+Hans C. Mosesmann - Raymond James & Associates, Inc.
+Thanks. Hey, Lisa, can you give us a sense on Zen â based on you're hitting all your performance milestones, what part of the server market are you addressing? What's the size of the opportunity? And I'm assuming that you can go after both enterprise and datacenter because it's an x86. Thanks.
+Lisa T. Su - President, CEO & Non-Independent Director
+Yes. So, Hans, we are pleased with the progress on Zen. Obviously, there are lots of engineering milestones to pass, but a key one is that we're on track to sample to our priority customers in the second quarter. In terms of the markets that we can address, yes, we do believe that Zen has brought applicability across enterprise and datacenter. And we will continue to work with both OEMs and ODMs to ensure that they have the right boards and platforms for our products.
+Hans C. Mosesmann - Raymond James & Associates, Inc.
+Okay. Thank you.
+Lisa T. Su - President, CEO & Non-Independent Director
+Thanks, Hans.
+Operator
+Thank you. Our next question today is coming from Joe Moore from Morgan Stanley. Please proceed with your question.
+Joe L. Moore - Morgan Stanley & Co. LLC
+Great. Thank you. I wonder if you could talk a little bit about how the JV is going to be set up over time. Will you compete with them with standard products within China, or is there some kind of dividing of the market? And will they be manufacturing the products with their own foundry relationships or will you be delivering the manufactured product?
+Lisa T. Su - President, CEO & Non-Independent Director
+Okay. So, Joe, the way to think about it is, the JV roadmap will be a complimentary roadmap to our own server roadmap. So, we think there will be enough differentiation. But taken as a whole, it'll be a compelling roadmap. In terms of foundries, I think we're not ready to talk about foundries, but we'll update more about the products as we get further into the execution.
+Joe L. Moore - Morgan Stanley & Co. LLC
+Okay. And will the monetization of this over time, I mean, you mentioned that there's a royalty component as well. Will most of the monetization come from the licensing? Or do you think the royalty portion could be of similar size down the road?
+Lisa T. Su - President, CEO & Non-Independent Director
+I would say that it's probably a bit early to call that. The licensing payment is well understood. The royalties will come over time depending on the strength of the products and the number of products that are being done.
+Joe L. Moore - Morgan Stanley & Co. LLC
+Okay. Thank you very much.
+Lisa T. Su - President, CEO & Non-Independent Director
+Thanks, Joe.
+Operator
+Thank you. Our next question today is coming from Ian Ing from MKM Partners. Please proceed with your question.
+Ian L. Ing - MKM Partners LLC
+Yes. First question on the server JV, your products are going to go up against some deep incumbency in the China server market. So, how advantage do you think this JV will be in terms of perhaps being a locally-sourced product or are there other advantages that this JV would bring to the table to address the incumbency?
+Lisa T. Su - President, CEO & Non-Independent Director
+I think, Ian, we believe that there is a large opportunity in the datacenter market across the board. I mean, that's why we're investing so much in Zen, and its follow-ons. As it relates to the China JV that we're doing with THATIC, I think there is certainly a benefit to having someone local that has experience in the market and knowledge of the market. And THATIC is an investment consortium that is partially led by the Chinese Academy of Sciences. So, we think that both from a technical and a commercial standpoint, they will be a value-added partner in this joint venture.
+Ian L. Ing - MKM Partners LLC
+Thanks. And for my follow-up for your June guidance, you're getting some strength in from this new Semi-Custom ramp. I mean, how sustained should we think that ramp to be? And is it a seasonal ramp? Does it come back every year? Any granularity would help. Thanks.
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So, as it relates to our guidance for the second quarter and then the full year, if you think about the Semi-Custom business in the last few years, the third quarter is always the peak, and it will be the peak this year as well. We are starting some of the ramp in the second quarter, as we build up to the stronger third quarter. But overall, I think, we feel good about the Semi-Custom business. The business overall will grow year-on-year as a result of the product momentum we have.
+Ian L. Ing - MKM Partners LLC
+Okay. Thanks. I'll re-queue.
+Lisa T. Su - President, CEO & Non-Independent Director
+Thanks.
+Operator
+Thank you. Our next question today is coming from Vivek Arya from Bank of America. Please proceed with your question.
+Unknown Speaker
+Hi. This is Shankar on behalf of Vivek. I have a question on the gross margin. Given the strong growth in Q2, why isn't the gross margin growing? And longer term, what are the levers behind the gross margin? Can it grow from 32% to 35%, 40%, and what do you have to do to get there?
+Devinder Kumar - Chief Financial Officer, Treasurer & Senior VP
+Yeah. I can take that, Shankar. So, I think if you look at the business, in particular as I said even in my prepared remarks, you have gross margin levers, but one of the things that obviously comes into play is the mix of business between the Semi-Custom business or the EESC business and then the CG business. So that obviously comes in play. As Lisa said, we have the growth with our guidance for revenue in Q2, and it's weighted towards the Semi-Custom business in addition to the growth that we're seeing in Graphics. And that's primarily what's driving the guidance at 31% as compared to where we came in, in Q1, at the 32% level.
+And then as far as the levers going out from then, I think it partly is a mix of the business overall from a viewpoint of the Semi-Custom business and other businesses, but also the continuing investment we're making in the roadmaps, as you see from our OpEx guidance for the rest of the year, that we want to go ahead and invest in products, in Graphics and in other areas that will help us improve the gross margin. And then getting into later on when the Zen product is introduced, having even higher gross margin compared to where we are today.
+Unknown Speaker
+All right. Thanks. As a follow-up on the Semi-Custom side, didn't some Embedded revenue will likely come in, in the second half, like you guided before, $1 billion of total revenue spread over, I think, three years? How much of the second half growth in Semi-Custom comes from Embedded versus Semi-Custom?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So maybe let me give you some explanation on that, Shankar. So the Semi-Custom, just to recap on what we've said about the Semi-Custom designs in the past. We have a total of three design wins that have a lifetime revenue of about, let's call it, $1.5 billion or greater. And that will come across over the next three years to four years.
+In addition we have our current game console business as well. So when you look at the aggregate of that, we do expect to start ramping that new business in the second half of the year. But we also expect the seasonal uplift of our traditional game console business. So that's adding to what we expect will be a strong year for Semi-Custom overall.
+Unknown Speaker
+If I can just slip in. The $1.5 billion you said, is that evenly split over the next three years to four years? Or is it ramps towards the end of 2018 or so?
+Lisa T. Su - President, CEO & Non-Independent Director
+I mean it takes some time to ramp, right? So this year will be lower, since it's half a year, and it's not all of the designs. And as we go into the next few years, it will ramp to a steady state. So...
+Unknown Speaker
+Okay. Thank you.
+Operator
+Thank you. Our next question today is coming from Stacy Rasgon from Bernstein Research. Please proceed with your question.
+Stacy Aaron Rasgon - Bernstein Research
+Hi, guys. Thanks for taking my questions. First on the licensing agreement, can you be a little more specific on exactly what you're licensing? You said it was like high performance CPUs and SoCs. Is this x86? Is it ARM? Is it both? And what are the other pieces besides CPUs potentially that you're licensing?
+Lisa T. Su - President, CEO & Non-Independent Director
+Okay. So, Stacy, what we're licensing is microprocessor technology and system-on-chip technology. So they're technologies, not products. The technologies are applicable to both x86 and ARM. But as you know most of our investments are in x86. And then in terms of other aspects, there are other aspects that are needed to put together a system-on-chip, so they include things like fabrics and other IP.
+Stacy Aaron Rasgon - Bernstein Research
+So let me ask the question a different way. Will the JV be able to manufacture and sell x86 based server chips into China?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yes. The JV will be able to manufacture and sell x86 server chips.
+Stacy Aaron Rasgon - Bernstein Research
+Thank you. Thank you. I have one more question for you on IP. Is this JV exclusive? Or would you be free to sign other server-based JVs with other parties, both either inside China or outside of China?
+Lisa T. Su - President, CEO & Non-Independent Director
+It is not an exclusive deal.
+Stacy Aaron Rasgon - Bernstein Research
+Okay. And one more if I could. Just in your current quarter you launched Bristol Ridge in March. So maybe that led to some of the incremental, like, better than market unit growth. But why were ASPs overall down, given the product refresh that started? And what do you expect for pricing into Q2?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So if you talk about the Bristol Ridge launch, we did start the launch in March, including on the mobile side. And that did contribute to some of the mobile units up.
+If you look at the overall ASPs, actually mobile ASPs were up, desktop ASPs were down. And that's why we said overall down, but it was quite modest. So if you look overall I think the ASP trends are about what we would expect. Going into the second quarter and in general, I mean it depends on the mix and the mix of the product. We are certainly trying to sell further up the stack. But we'll have to see how the exact mix comes out. But there's not a dramatic change in ASPs, if that's what you're asking.
+Stacy Aaron Rasgon - Bernstein Research
+Got it. Thank you.
+Lisa T. Su - President, CEO & Non-Independent Director
+Thanks, Stacy.
+Operator
+Thank you. Our next question today is coming from Harlan Sur from JPMorgan. Please proceed with your question.
+Bill C. Peterson - JPMorgan Securities LLC
+Yeah. Hi. This is Bill Peterson calling in for Harlan. Thanks for taking the question. A clarification on the earlier question. You said most of the new growth is coming from Semi-Custom and some from Graphics. Is there any channel fill or related Polaris revenue in the second quarter or planned in the second quarter? Or is it really a second half story?
+Lisa T. Su - President, CEO & Non-Independent Director
+Again, not being specific, because we haven't actually announced our launch date, but I would say the majority of Polaris is a second half story.
+Bill C. Peterson - JPMorgan Securities LLC
+Okay. Thanks. And then more of a broader question related to PCs, obviously becoming less important. But what is AMD's view on the PC market in terms of unit shipments this year? And what is the expectation in terms of AMD's growth in that segment, if we think about the full year?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So again, on the PC market I think our view of the PC market is very consistent with what's out there, probably down, let's call it, high single digits. Certainly the first quarter started off a bit weaker than any of us would have liked. I would say though in that environment, we still believe that we can gain share in both the client compute and the Graphics side, really as we are transitioning to a new product portfolio on the Graphics side. So I think that's a strong driver for us.
+And then on the client compute side, between our product refresh and also our partnership with OEMs, I think in general OEMs are getting more comfortable using us higher up in the stack, and our A8s, our A10s, our commercial-based processors. So we're continuing to work with OEMs to ensure that we get into the right priority platforms. And so that would be our focus even in a down market.
+Bill C. Peterson - JPMorgan Securities LLC
+Okay. Thanks for that.
+Operator
+Thank you. Our next question today is coming from Suji De Silva from Topeka Capital Markets. Please proceed with your question.
+Suji De Silva - Topeka Capital Markets
+Hi. How you're doing? So, on the arrangement with THATIC, can you talk about what end markets the server product would be specifically targeting? Is it going after government business there, research institutions or maybe the China Internet companies?
+Lisa T. Su - President, CEO & Non-Independent Director
+I think it's fair to say that the market range for the joint venture will be across China, so, across all of the markets that you mentioned.
+Suji De Silva - Topeka Capital Markets
+Can you talk about the pipeline for the licensing business? You instituted, I guess, announced it a couple of quarters ago and you already have a success here. I'm wondering how robust the pipeline might be for further licensing opportunity.
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. Look, we're thinking about our IP monetization strategy as really a broad strategy that's going to unfold over the next number of years. So, I wouldn't say that these things are all going to be immediate. The IP monetization includes patent licensing, it includes sale of a certain parts of our patent portfolio that are no longer core to our business, as well as the strategic technology licensing. We have a good solid pipeline. I would say, there are lots of opportunities out there. We are looking for ones that are very additive to our product portfolio into our roadmap objectives. And I think we will look for the right partners to enable that.
+Suji De Silva - Topeka Capital Markets
+One last quick question. Would it be possible to tell us how long you've been in discussions for this licensing agreement? And understand (35:23) how long the lead times are for them to close?
+Lisa T. Su - President, CEO & Non-Independent Director
+It's fair to say that any one of these deals takes a while. So, they're fairly involved to go through, but I think we have a good set of conversations. And we certainly believe that there's a lot of value in this IP portfolio that we will continue to leverage.
+Suji De Silva - Topeka Capital Markets
+I'm sorry by what I mean a while means. Thank you.
+Operator
+Thank you. Our next question today is coming from Ross Seymore from Deutsche Bank. Please proceed with your question.
+Sidney Ho - Deutsche Bank Securities, Inc.
+Hi. This is Sidney Ho calling on behalf of Ross. Thanks for taking my question. So, first question is, you talked about EESC revenue will be up annually. And I think you talk about the different components. So just to be clear, do you expect game console revenues specifically to be up? And kind of related to that, do you expect the C&G revenue to be up this year as well?
+Lisa T. Su - President, CEO & Non-Independent Director
+Okay. So, again, I'd like to keep it at the segment level. And at the segment level, we expect both segments to be up to contribute to our overall guidance of revenue being up. As it relates to our EESC business, the majority of the EESC business is Semi-Custom. So, Semi-Custom would have to be up year-over-year. And then I think that's about as specific as I would like to get.
+Sidney Ho - Deutsche Bank Securities, Inc.
+Okay. Great. And my follow-up question is on the discrete GPU market. Your competitor has grown very nicely, by what 35%, in the last two years. Clearly some of that is coming from share gains. I mean, you guys have also gained game share in Q1, seems like. What do you think the Graphics market itself is growing on a normalized basis? And it wasn't that long ago you guys were like 50% share in discrete Graphics, that is, but with the traction you're seeing right now and with Polaris right around the corner, how quickly do you think you can regain share? And which segment do you think has the biggest opportunities?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So, look, I think the Graphics business is very strategic to us. And I think it's not just a unit story, it is really also the mix going to higher-end Graphics driven by VR and driven by AAA gaming and all the things going on there.
+As it relates to our share, I will say that we certainly have aspirations to regain shares to our historic levels. It will take us some period of time. So, it'll happen over multiple number of quarters. We're optimistic about the second half of the year, and we think Polaris is positioned well. We're particularly positioning in some of the mainstream segments that are higher volumes that would drive share growth faster. And we'll have to see how that plays out in the second half of the year.
+Sidney Ho - Deutsche Bank Securities, Inc.
+Great. Thanks.
+Operator
+Thank you. Our next question today is coming from Christopher Danely from Citigroup. Please proceed with your question.
+Unknown Speaker
+Good afternoon. This is Marco speaking on behalf of Chris Danely. In light of your IP licensing agreement with THATIC, can you just kind of talk about your expectations for the China server market in 2016 and 2017, and is there any longer term milestone?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So, with regard to our China JV with THATIC, we're starting the development phase in 2016. So, I would say that we view this as a longer term opportunity for us. But overall, I think all of the trends in the datacenter market are certainly positive. And we believe we can participate in those trends with both the AMD products as well as the JV products.
+Unknown Speaker
+Thank you. And then my follow-up regarding your days of inventory. It looks like this quarter is about 110 days. Why is it so high, and if there's any worries?
+Devinder Kumar - Chief Financial Officer, Treasurer & Senior VP
+Hi. I think, if you look at it from a day standpoint, essentially we've managed the inventory pretty well. It's up slightly in Q1, but we also guided the revenue up pretty significantly from where we ended in Q1. And we've also said that second half of the year we're expecting strength over first half, and obviously that leads to higher inventory. And so, Q1 to Q2 up slightly, revenues up. And then we expect second half to be stronger than the first half.
+Unknown Speaker
+Okay. Thank you very much.
+Operator
+Thank you. Our next question today is coming from Kevin Cassidy from Stifel. Please proceed with your question.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Thank you for taking my question. On the licensing and JV, are there opportunities â would you consider the mobile market or the desktop market?
+Lisa T. Su - President, CEO & Non-Independent Director
+When you say, you mean mobile PCs or mobile other...?
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Yeah, mobile PCs.
+Lisa T. Su - President, CEO & Non-Independent Director
+I see. Look, I think, as it relates to the overall licensing strategy, I think we are open to licensing that makes sense. And so, strategically placed with the right market drivers. I don't think we have anything that is necessarily off limits. I will say that it does need to be strategic and additive to our product business. Our first priority is the product business, and the IP monetization effort is an overlay on top of that.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay. And what is the timeframe for the JV? I guess, does this license go on through the life of the patents or...
+Lisa T. Su - President, CEO & Non-Independent Director
+It's for a number of years through the product development and sales cycle.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay. Nothing specific right now?
+Lisa T. Su - President, CEO & Non-Independent Director
+No, nothing specific right now.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Thank you.
+Lisa T. Su - President, CEO & Non-Independent Director
+Thank you.
+Operator
+Thank you. Our next question today is coming from Vijay Rakesh from Mizuho Securities. Please proceed with your question.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Hi, guys. Thanks. Just on this licensing agreement, obviously when you license it to China, do you think they have the manufacturing process experience to go into production with this? And what's the timeline to get commercial products in the market with this licensing agreement?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah, Vijay. Thanks for your question. Actually, we're not talking about sort of the details of the product timelines just yet. We'd like to really get the JV off and running before we disclose those details, and those will be disclosed as part of the joint venture. As it relates to manufacturing, I think there might be interest in manufacturing in China, although that is certainly not a condition of the deal.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Got it. And as you look at this Semi-Custom ramp, the 15% to 18% very encouraging. How do you split it up between gaming and the new VR strategy, VR market? Obviously, VR seems to be a huge market as you look out. Thanks.
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. I think the way to think about it is, for the near term, I think the Semi-Custom business and gaming is probably the larger driver. We believe VR is a strategic area where you will see more pickup over the next number of quarters and over the next years, but it's not the near-term driver.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Got it. Thanks.
+Operator
+Thank you. Our next question today is coming from John Pitzer from Credit Suisse. Please proceed with your question.
+John William Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+Yeah. Good afternoon guys. Lisa, I guess, my first question, when you look at your full-year guide for revenue to grow, I'm kind of curious to what extent is that based upon sort of market forecast versus market share gains. I know you don't want to get into division by division, but maybe at a high level, as you look at your year-over-year growth, how do you differentiate between what the market's doing and kind of the market share gains that you need to get to that year-over-year growth?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. That's a fair question, John. So, let me break it up into the two segments. When you look at the EESC segment and especially Semi-Custom, I mean, that's less about a general market and more about what we see in terms of the customer forecasts, and what they're seeing the market to be. So, I think those are, let's call it, fairly well understood by us, and we're very interlocked with our customers.
+When you talk about the Computing and Graphics market, I think that's where you get a little bit more of how much uncertainty is there with the PC market trends. There's no question that the PC market is weaker than any of us would like. I think from our standpoint, though, if you remember the last few quarters and how many times we've talked about inventory normalization and ensuring that we got ourselves into a healthy position relative to our OEM and channel customers, I think we feel that we've done a good job there. And we're now in a place where the consumption is more in line with the selling.
+So we believe that even in this market, there's enough opportunity for us to gain share. And obviously we have to prove that out over the next couple of quarters. But just given where our business is, where we see the products, and where we see the design wins, that's how we see the market right now.
+John William Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+Yeah. And then, Lisa, I apologize if you addressed this, but just going back to the JV in China. I'm just kind of curious. The IP licensing gains you expected this year, are there any milestones that you need to hit to get that? And as we think about 2017, if you hit the milestones in 2017, would we expect licensing to grow year over year from the JV?
+And then lastly on the JV, just given that you guys have the opportunity to go into China today and sell your own product, I'm just kind of curious how we should think about $100 of server product in the JV? And what that means to you from an economic standpoint? Versus you just going into China today and selling $100 worth of server product as AMD.
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. No. Good question. So, look, on the JV licensing payments, so we will expect about half of the licensing revenue to come over the next two years, so over 2016 and 2017. Our current forecast for 2016 was that $50 million-ish that Devinder mentioned. And it is contingent on several milestones that we believe are on track.
+To your broader question about why do a JV? And versus just selling right into servers? Look, we're very cognizant of where our share is in servers. So I believe we have the technology to get there. And we will continue to make progress.
+But given the importance of China, and the fact that having a partner who is very much familiar with both the Chinese market from a customer as well as just a technology standpoint, I think can only be additive. And there's more than enough server market to go after, given where we are. So I think it's an additive deal to our baseline strategy.
+John William Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+Thanks, guys.
+Ruth Cotter - Chief Human Resources Officer and Senior Vice President of Corporate Communications, Investor Relations
+Operator, we'll take two more callers, please.
+Operator
+Certainly. Our next question is coming from Deepon Nag from Macquarie. Please proceed with your question.
+Deepon Nag - Macquarie Capital (USA), Inc.
+Yeah. Thanks, guys. So, Lisa, for the Semi-Custom wins that you're going to get in the back half of the year, are those going to be purely incremental to existing products? Or is there any risk of cannibalization to existing products?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. I don't believe that we've gone through any detail about what those wins are. So I would prefer to let that come out as our customers are ready to launch.
+Deepon Nag - Macquarie Capital (USA), Inc.
+Okay. Thanks for that. And then on the game console side, so clearly VR is going to be a pretty big deal in Q4 with Sony PS4 VR. And there's been some chatter about obviously maybe a faster refresh for some of the game consoles. Because the value of Graphics is becoming higher in these game consoles, is there any potential for you to get higher content and more specifically higher margins in future console refreshes? And is there also any ability to renegotiate terms if â because of the value of your IP is getting more valuable inside these consoles?
+Lisa T. Su - President, CEO & Non-Independent Director
+So let me take that in several pieces. Relative to our current game consoles, those deals were well negotiated at the beginning. And I don't think we will be renegotiating. I think the ASPs and all that stuff are also well understood.
+Relative to what VR brings â and again not being specific to any particular customer, because there's just a lot of speculation out there in the industry. I will say that VR is very exciting not just for game consoles, but for PC gaming, for the headset guys, for the ecosystem. So yes. We believe that Graphics becomes much more valuable in this framework. And we will be looking for how to leverage and monetize that across both our Semi-Custom business as well as our discrete Graphics and APU businesses.
+Deepon Nag - Macquarie Capital (USA), Inc.
+And just one quick clarification if I could squeeze it in. So for any future console refreshes though, you do have the ability to reset ASP terms? Or is it already pre-negotiated in your initial contracts?
+Lisa T. Su - President, CEO & Non-Independent Director
+Well, I think if anybody were to do a different console or a new console, then that would be a new negotiation. But for the current generation consoles, those terms are locked.
+Deepon Nag - Macquarie Capital (USA), Inc.
+Okay. Great. Thanks a lot.
+Operator
+Thank you. Our final question today is coming from Jaguar Bajwa from Arete Research. Please proceed with your question.
+Jaguar Bajwa - Arete Research Services LLP
+Hi. Thanks for taking the question. Just on the Polaris launch in midyear, you talked about attacking the mainstream segment of the GPU market. I just wonder when you look at potential share gains in the second half, do you expect that to come more from the discrete desktop side in the AIB channel or the notebook space, where you have a relatively higher share, market share?
+And given your ASPs in that space, roughly in the discrete desktop spaces, I think you've got about a third of the ASP of your competitor. Just wondering on the trend of that? And how you see that over the second half of the year?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So we believe that we have a share gain opportunity in both mobile and desktop/AIB as we look at Polaris and how it will launch in the second half of the year.
+Relative to the ASP trends, I think that depends a bit on the mix of the business. So I think I'll defer that to how things look. But from a macro standpoint we believe we can get a larger revenue share in discrete Graphics, but we'll certainly have to look at how the individual quarters shape up.
+Jaguar Bajwa - Arete Research Services LLP
+Okay. And then also, given your IP licensing deal in China, I'm just wondering on the acceleration side for GPU, I mean, do you see opportunity there potentially with that deal? And also, just on a more general sense, we hear a lot about acceleration with GPU. Can you just talk about how you're approaching that kind of acceleration in general? I mean, will Polaris be suited to that? Or we have to wait for Vega to come out later in the year? And how do you differentiate versus your competitors?
+Lisa T. Su - President, CEO & Non-Independent Director
+Yeah. So, in terms of your first question on GPU acceleration, so, the JV that we announced with THATIC is focused on microprocessor technologies only. So, it doesn't cover Graphics.
+And then to your comment about Graphics acceleration or just in general becoming more important and a growth driver, we would agree with that. I think going forward, you'll see a bit more focus from us in that area. We have launched some new professional graphics products recently. We've also introduced this new software initiative called GPUOpen that really focuses on building an open ecosystem around the Graphics area, both in compute and gaming. And so, we do believe it's a good opportunity and an area that we will invest more.
+Jaguar Bajwa - Arete Research Services LLP
+Great. Thanks very much.
+Operator
+Thank you.
+Ruth Cotter - Chief Human Resources Officer and Senior Vice President of Corporate Communications, Investor Relations
+Operator that concludes today's call if you'd like to wrap it up, please. Thank you.
+Operator
+Certainly. That concludes today's teleconference. You may disconnect your line at this time. And have a wonderful day. We thank you for your participation today.

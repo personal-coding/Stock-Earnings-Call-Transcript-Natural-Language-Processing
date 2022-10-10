@@ -1,0 +1,291 @@
+Teradyne, Inc. (NASDAQ:TER) Q1 2021 Results Conference Call April 28, 2021 8:30 AM ET
+Company Participants
+Andrew Blanchard - Vice President Corporate Relations
+Mark Jagiela - President and Chief Executive Officer
+Sanjay Mehta - Vice President, Chief Financial Officer
+Conference Call Participants
+Christopher Muse - Evercore ISI
+Atif Malik - Citigroup Inc
+Vivek Arya - BofA Securities
+Mehdi Hosseini - Susquehanna Financial Group
+Toshiya Hari - Goldman Sachs
+John Pitzer - CrÃ©dit Suisse
+Timothy Arcuri - UBS Investment Bank
+Krish Sankar - Cowen and Company
+Brian Chin - Stifel, Nicolaus & Company
+Joseph Moore - Moore Morgan Stanley
+Blake Gendron - Wolfe Research
+Shek Ho - Deutsche Bank AG
+Operator
+Ladies and gentlemen, thank you standing by, and welcome to the Q1 2021 Teradyne Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions]
+I would now like to hand the conference over to your speaker today, Andy Blanchard. Thank you sir, you may begin.
+Andrew Blanchard
+Thank you, April. Good morning, everyone, and welcome to our discussion of Teradyne's most recent financial results. I'm joined this morning by our CEO, Mark Jagiela; and our CFO, Sanjay Mehta. Following our opening remarks, we will provide details of our performance for 2021's first quarter, along with our outlook for the second quarter of 2021.
+The press release containing our first quarter results was issued last evening. We are providing slides on the investor page of the website that may be helpful to you in following the discussions. Replays of this call will be available via the same page after the call ends.
+The matters that we discuss today will include Forward-Looking Statements that involve risk factors that could cause Teradyne's results to differ materially from management's current expectations. We encourage you to review the safe harbor statement contained in the earnings release as well as our most recent SEC filings. Additionally, these forward-looking statements are made as of today, and we take no obligation to update them as a result of developments occurring after this call.
+During today's call, we will make reference to non-GAAP financial measures. We have posted additional information concerning these non-GAAP financial measures, including reconciliation to the most directly comparable GAAP financial measure were available on the Investor page of the website.
+Looking ahead between now and our next earnings call, Teradyne expects to participate in technology or industrial-focused investor conferences hosted by Wolfe Research, ISI Evercore, Baird, Bank of America, Bernstein and Stifel.
+Now let's get on with the rest of the agenda. First, Mark will comment on our recent results and the market conditions as we enter the new quarter. Sanjay will then offer more details on our quarterly results along with our guidance for the second quarter, and we will then answer your questions. The call is scheduled for one hour. Mark.
+Mark Jagiela
+Hello, everyone, and thanks for joining us today. In my remarks, I will summarize our Q1 results, review current market conditions and provide an update on how we are looking at Q2 and the full-year. Sanjay will then take you through the financial details of the quarter and our outlook for the second quarter.
+As you saw in our press release, our Q1 sales and profits grew double digits from Q1 of 2020's record level. Test sales grew 9% on broad-based demand with notable strength in automotive, industrial compute, memory and storage. Industrial Automation sales grew 33% in the quarter with strong demand at both UR and MiR.
+Notably, since our January call, the market demand in both Test and IA has been greater than we expected, as you can see from our Q2 guidance. In Semiconductor Test, customer orders are very strong as complexity continues to increase and chip units are expected to grow almost 15% this year, more than twice last year's rate.
+Regarding the sustainability of this demand, our visibility is limited to just a quarter or two but the growth in WFE from 50 billion in 2017 to 60 billion last year to over 75 billion this year should translate into a healthy tester market in the years ahead.
+Looking at SOC demand, the auto industrial segment is especially robust, with our Q1 Eagle shipments up nearly 90% year-on-year, and deliveries expected to grow further in Q2. Test demand for mobility and compute devices is also running ahead of our January estimates as these end markets push the performance limits of advanced process nodes and drive the highest complexity growth. This higher complexity drives longer chip test times and often demand's unique tester capabilities. Our UltraFLEX platforms are well aligned to these performance dynamics.
+As a result of this demand strength, we now expect the SOC test market to be in the $4 billion to $4.4 billion range, up about $700 million at the midpoint from our January estimate. This equates to about 16% growth from 2020, and we expect our share in SOC to be at about the 50% level.
+In memory test, we are seeing continued strength in both flash and DRAM. We now expect the full-year memory test market to be in the $900 million to $1.1 billion range, up about $100 million from our January estimate and up about 5% from 2020 levels.
+Our Magnum platform is in lockstep with the performance trends in both markets, and we expect another strong year in 2021. However, since most of the test market growth is expected to be wafer test applications, where we have less exposure, we are likely to see our share dip a few points into the upper 30s.
+In System Test, revenue grew 14% from Q1 2020, primarily on higher Storage Test shipments. As we have noted in past calls, Storage Test is linked to increasing density and complexity of data center hard disk drives and the expanding adoption of system-level test per chip test.
+Our full-year outlook for this business has improved from January as well on strength in both applications. The defense and aerospace and Board test units of STG are also performing well, and we expect the overall group will grow revenue 5% to 10% this year.
+Our LitePoint business is driven by the complexity of new wireless standards and the connectivity cellular and other wireless markets. In Q1, connectivity demand was the dominant revenue driver as WiFi 6E ramps in smartphones and access points. We expect LitePoint to grow in the 0% to 5% range in 2021.
+Shifting to Industrial Automation, we are on-track to grow 30-plus percent for the year. At the macro level, industrial economies are recovering with global PMIs above 50, indicating growing manufacturing investments. At the ground level, we are seeing increasing customer buying driven by economics, quality and lack of available shop floor labor.
+At UR, revenue grew 32% from Q1 2020 with a notable recovery in China where sales more than doubled in the quarter. Our China performance reflects the compelling value proposition UR offers, even in the face of low-cost competitors.
+We not only have the durability to operate in high-intensity production environments where downtime can't be tolerated, but we also offer a unique suite of organic and ecosystem provided software and peripherals to address a wide range of tasks with short deployment times.
+We are also seeing growth outside of the traditional manufacturing tasks. In the last several quarters, we have seen volume shipments of cobots to perform industrial service tasks, such as maintenance of high-power transmission lines while energized and robotic inspection of wind turbine blades.
+Together, these two applications account for over 500 installed cobots, and this should approximately double in 2021. Both examples highlight the flexibility of UR arms and value in performing dangerous service tasks.
+MiR also delivered strong results in the quarter, growing 55% year-on-year. A big part of that success has been the new MiR 250, which was introduced in March of last year and was our leading seller in Q1.
+We are also seeing a nice expansion of applications for mere products. Initially, most applications were moving goods to and fro. Last year, we saw a dramatic expansion in the use of MiR robots as a platform for mobile tasks such as disinfected workspaces.
+And now we are seeing growing use in the conveyor market where our mobile platform replaces fixed conveyors. This provides owners greater flexibility than traditional fixed conveyor system and allows them to reconfigure their factory on the fly as production requirements dictate.
+Although both UR and MiR, our expanding range of plug-and-play apps, now totaling over 430 in our UR+ and MiRGo ecosystem shortens the deployment time and increases the addressable market for cobots, adding additional growth factors for us.
+But we are not firing on all cylinders in IA yet. At AutoGuide, we have lowered our expectations for 2021. The this year, we will focus on expanding existing customer deployments while we complete a series of engineering projects designed to scale and win new customers in the future.
+While this is surely a reset at our AutoGuide plan, we remain confident in the potential of the nascent market for high payload autonomous mobile robots and our ability to leverage AutoGuide's unique product architecture to deliver differentiated value to this growing market.
+Rolling it all up, the demand environment in our test businesses has strengthened dramatically since January and the wafer front end equipment forecasts suggest that tester demand over the next few years will continue to grow.
+In Industrial Automation, UR and MiR are benefiting from their differentiated products and the improving global economy, which puts us on-track for a total IA group revenue growth of 30-plus percent for the year. Our employees are doing a great job, and our operating model is delivering strong financial profits and free cash flow.
+And finally, I would like to recognize and thank our Board chair, Roy Valley, who will be retiring next month after 20-years on the Teradyne Board. Roy's leadership, integrity and wise counsel have been invaluable to me and the executive team, and we all wish him the best in his future pursuits.
+Sanjay will now take you through the financial details. Sanjay.
+Sanjay Mehta
+Thank you, Mark. Good morning, everyone. Today, I will provide details on our Q1 results, offer additional color on the operating environment, along with our plans to address a very strong demand environment and describe our Q2 outlook. During the appropriate sections, I will provide some full-year expectations.
+Now to Q1. First quarter sales were $782 million with non-GAAP EPS of $1.11. Non-GAAP gross margins were 59.1% and our non-GAAP operating expenses were $230 million, above our high guidance due to high variable compensation and G&A expenses.
+Non-GAAP operating profit rate was 29.6%. We had two 10% customers in the quarter. Tax rate, excluding discrete items for the quarter, was 14.75% on both a GAAP and non-GAAP basis.
+Looking at the results from a business unit perspective, semi test revenue was $528 million, was up 9% from Q1 2021. SOC revenue was $420 million, up from prior year, driven by strength in compute, industrial and automotive markets, offset by a decline and our mobility shipments.
+Memory revenue was $108 million, up from prior year, driven by strength in flash final test segment. System Test Group had revenue of $133 million which was up 14% year-over-year. This was driven by $95 million in storage test sales, including HDD and SLT solutions and $38 million in defense and aerospace and production board test. At LitePoint, revenue of $41 million was above plan, but down about 6% from prior year due to lower cellular test shipments.
+Looking at our test portfolio overall. We are very optimistic about the market and technology trends unfolding over the midterm. The growing attach rate of electronics across the economy, the increasing complexity of those devices and significantly, a faster refresh rate for many of these complex devices benefit all of our test businesses.
+Looking at a significant example, the increasing number of companies creating high-performance processors to serve a growing range of end applications, each with unique performance and design cycles, is driving an estimated doubling of the compute portion of the SOC test market this year compared with 2018. We have designed our UltraFLEXplus platform to serve this growing market and are having early success. This trend has complementary impacts on memory and SLT markets as well.
+Now to Industrial Automation. Given 2020 was a contraction year; I will provide revenue metrics comparing Q1 2021 results with Q1 2020 and Q1 2019. Industrial Automation revenue was $80 million, was up 33% year-over-year and 21% over Q1 2019. Q1 2021 was a record for the seasonally soft first quarter of the year.
+U.S. and Europe represented over 70% of our IA revenue in the first quarter. As Mark noted, strength in China for UR, I will add that we saw the IA group revenue in China more than double year-over-year and grow greater than 50% over Q1 2019. UR sales were $66 million in Q1, up 32% year-over-year and 15% over Q1 2019. MiR sales were $14 million, up 55% from both Q1 2020 and Q1 2019.
+Sales increased in every region over Q1 2020. In addition to the success of MiR 250 that Mark noted, we also are starting to see a positive shipment trend towards higher payload MiR 500 and MiR 1,000 models, which should improve our ASPs overtime. Demand at both UR and MiR continues to improve as the global economy recovers and companies work to add production capacity.
+The opportunity of automation is growing. Our IA portfolio is solving problems for companies such as improving economics with a typical ROI of approximately one year, addressing labor shortages experienced by manufacturing and warehousing firms and adding supply chain resilience over the long-term.
+From a financial perspective in IA, we continue to lean into engineering, ecosystem and distribution investments to expand the range of applications in IA products - our IA products address and extend our global distribution reach.
+Our goal in the short-term is to balance investments with sales growth in order to deliver an annual IA group operating profit of between 5% and 15%. However, given the reset mark described at AutoGuide, we now expect Ag revenues of less than $10 million in 2021, and Ag will not be profitable in 2021.
+As a result, at the IA group level, we expect we will operate above breakeven in 2021, but below that target profit range. We do expect both UR and MiR each operate above the rule of 40 in 2021. That is the sum of the operating profit; revenue growth will be over $40 million. We continue to have confidence in our IA growth over the midterm, as articulated in our January earnings model update and expect the overall group to grow revenue over 30% in 2021.
+Shifting to supply. As Mark noted, the test market size has increased significantly across the board. From a supply perspective, we are dealing with increasing lead times and cost increases, predominantly in the semiconductor area. Given the significant demand increase in the challenging supply environment, we are experiencing some shipment delays.
+This is most acute in the automotive and industrial tester markets where demand is significantly outstripping supply. We are working with our customers on a daily basis to minimize the impact of these delays. We see this challenge accelerating into the third quarter with supplier lead times increasing.
+I appreciate the incredible pace of our operations team and partners around the world have operated for over a year and continue to be impressed with their efforts to meet the needs of our customers.
+To sustain that pace and create a more resilient operation, we are continuing to invest in manufacturing capacity around the world. This includes qualifying redundant suppliers, production sites for critical components and redundant manufacturing capacity in new locations.
+Shifting to the balance sheet and cash flow. Our cash and marketable securities at the end of the quarter totaled $1.43 billion. We had $1 million in negative free cash flow in the quarter and spent $45 million and $17 million on buybacks and dividends, respectively. To-date, $67 million of the RTI convertible bondholders have elected to convert early. And in Q1, we paid $51 million of it to the bondholders.
+Regarding the buyback, we plan to increase our daily buying throughout the year and expect to purchase a minimum of 600 million in 2021, as noted in January. The relatively low volume of buybacks in Q1 was planned for three reasons.
+First, recall Q1 is a seasonally high use of cash, where we typically pay out our variable compensation and ramp up our prepayments to support increased Q2 test production. Second, we wanted to understand how much of our convertible debt would be redeemed in Q1. Third, we wanted to confirm the global recovery from the pandemic remained on-track.
+Now to Q2. As you have heard this morning, customer demand is strong and in nearly all parts of the business, our guidance assumes that we will continue to be successful dealing with the numerous material shortages we noted earlier and that we won't see additional pandemic related issues.
+With that said sales in Q2 are expected to be between $1.01 billion and $1.09 billion, with non-GAAP EPS in a range of $1.62 and to $1.83 on 177 million diluted shares. The second quarter guidance excludes the amortization of acquired intangibles and the non-cash imputed interest on the convertible debt.
+Second quarter gross margins are estimated at 58%. OpEx is expected to run at 23% to 25% of second quarter sales. The non-GAAP operating profit at the midpoint of our second quarter guidance is 34%.
+Regarding OpEx for the full-year. We now expect OpEx will grow 17% to 19% over 2020. Note that this is up from our January plan for 2021, where we guided growth over 2020 at 8% to 10%. The increase from January in order of magnitude is in three general categories. One, higher revenue-driving higher estimated variable compensation and higher engineering costs related to mitigating supply constraints.
+Two, higher incremental spending to accelerate several engineering projects in test and IA. And three, higher-than-expected G&A spending related to legal, insurance and IT costs. As we noted in January and included in the estimate, we expect travel and marketing expenses to increase through the remainder of the year as pandemic restrictions ease.
+As outlined last quarter, we set our sight on reaching $5.25 to $6.75 in EPS by 2024 in our earnings model. In 2021, we expect our largest end market, semi test, to grow 14% and at the estimated midpoint above the estimate in our earnings model.
+Combined with industrial end markets recovering from the pandemic slump, these data points reinforce that our midterm earnings plan is on a solid foundation. We update our earnings model each January. In our next update, we will look closely at both the WFE forecast and test growth rates.
+To sum up, the demand environment across nearly all of our markets remain strong, and we are working closely with our suppliers and customers to expand shipments and minimize the impact of material shortages. We have had an outstanding start to the year, and we are on a path to healthy sales growth and profit growth for 2021.
+At the midpoint of our Q2 guidance, we will see sales grow 19% and non-GAAP EPS grow 21% above the first half of 2020, which itself was a record. We are well on our way to achieving our midterm revenue and earnings goals we set in our new earnings model.
+With that, I will turn things back to Andy.
+Andrew Blanchard
+Thanks, Sanjay. April would now like to take some questions. And as a reminder, please limit yourself to one question and a follow-up.
+Question-and-Answer Session
+Operator
+[Operator Instructions] And your first question is from C.J. Muse with Evercore.
+Christopher Muse
+Thanks for taking the question. I guess first question, as it relates to the higher SOC test outlook, can you share with us what you are seeing in terms of arm gaining momentum in both servers and PCs and how we should think about that impacting your SOC test revenue growth and market share?
+Mark Jagiela
+Yes. I think it is a sub theme of what is happening in the compute area. The compute market for test this year will potentially double. Arm is eroding certain established share positions, and we are doing very well with arm. But I think we are still in early innings there. I don't think this is sort of the end; it is sort of the beginning.
+And the proliferation of other bespoke architectures that are high 10 billion plus transistor count devices is proliferating, at least in design. They haven't started to ramp yet, but they are being worked on in design. So it looks to me like over the next few years that compute segment just is going to be very strong.
+Christopher Muse
+Very helpful. I guess as a follow-up, can you share with us your outlook for system-level test combined with HDD growth in 2021 and then thinking about the acceleration in nearline demand, how we should think about the growth CAGR there beyond 2021?
+Mark Jagiela
+Yes. I think the system-level test and HDD markets are both still on a growth trajectory. We had a big, big year last year. We didn't expect that we might have a little digestion this year, but no, it is still heading north.
+And I think on the HDD front, that one looks like line of sight for several years ahead is positive. The Exabyte growth in the 18-terabyte and above drive space just is very test intensive. And I don't see anything sort of blunting the transitions in the cloud storage to anything, but those high-intensity drives.
+SLT is a little more of a, I think, a lumpy market at this point. It could continue to sequentially grow, but it is still limited to very I would say, a small subset of the market, manufacturers building very high complexity devices in high volumes.
+Now engineering work is going on to make SLT more meaningful to lower complexity devices. And I think as those products come to market over the next few years, you will start to see customer expansion in SLT and the market will grow. But I would sort of say, I wouldn't be surprised to see plus or minus 25% year-over-year swings as we try to get to a broader adoption of SLT.
+Christopher Muse
+Thank you.
+Operator
+Your next question is from Atif Malik with Citi.
+Atif Malik
+Congratulations on another strong quarter in guide. Mark, can you compare or contrast the mobility and compute piece at your largest customer, which was 25% of sales last year versus the 2018, 2019 period where you saw correction, obviously, the dynamics are quite different with 5G and now the compute piece this year?
+Mark Jagiela
+Yes. Unfortunately, I'm not going to be able to break down anything related to any customer's mix. So I can't address your question specifically. I do think though that the lumpiness compared to prior years has smoothed a bit because of the bigger portfolio of devices that are at play here.
+And one of the big revisions, I would say, to our market size estimate as we move through the year. I have always talked about and our largest customer, the demand profile becomes clear in April. And up until April, there is a lot of variability. And it is starting to become clear, and it is stronger than we had expected. So that is part of the story of what is driving up the market and our revenue this year.
+Atif Malik
+Great. And as a follow-up for Sanjay. Sanjay, if you can comment on the M&A strategy from here on the last earnings call, you mentioned that even some areas in Semi Test are interesting to you guys. So just curious with the setback in the AutoGuide area, what are you thinking of M&A? Thanks.
+Sanjay Mehta
+Sure. Thanks. Yes. So as you know, M&A is to keep of our allocation strategy. And over the years, we have had a focus on industrial automation. We have an active business development organization that continues to look at different opportunities. And we will continue to do so. And we are spending time as a management team kind of reviewing them. And when an opportunity makes sense both financially and a strategic product fit, we will act and we will advise at that time.
+Atif Malik
+Thanks.
+Operator
+Our next question is from Vivek Arya with Bank of America.
+Vivek Arya
+I think, Mark, you mentioned something interesting in your prepared remarks, which is that there could be some correlation between the rising front end WFE investments at some point; they will have a pull-through effect on testers. I'm curious, what have been your impressions over this correlation from a historical perspective? Because this year will be kind of the second very strong year for WFE and that are expectations for almost 30% kind of growth this year. When do you see that impacting the demand for testers? Does it happen with a six month lag, does it happen with a one year lag? And what is the kind of - should we be expecting a 30% growth in testers next year, right? So just curious what you think the correlation is?
+Mark Jagiela
+Yes. So there is a correlation and a lag, as you alluded to. So front end equipment usually goes into fabs, there is a period of time then after all of that is installed. Revenue gets recognized on behalf of those equipment makers and the fab gets tuned. The recipe, the yields and things before the fab has put into commission for real customer shipments.
+So that can take anywhere from - the good suppliers these days maybe get through that phase in about three to four months. But then it is not a light switch that turns on. It is more like a knob on a faucet because you start to ramp wafer outs slowly and you proportionately start adding testers.
+So what you can expect to see is, let's say, maybe the beginning of tester orders lag four to five months, but they really get going kind of a year after the fab equipment goes in. So if you offset the tester market from the fab investments by about, let's say, a year plus or minus three months, you get a good indication of growth.
+Now if you go back for the past five years, you will see there is been pretty steady monotonic growth in WFE and there is been pretty steady monotonic growth in the tester market. I think the most recent step, though, from 60 to 70 plus is larger than we have seen historically. So if all of that happens and it is truly put into commission, I would expect it to be something that pulls up the growth rate a little bit higher than we have seen in the past.
+But the one caution I would add is that what drives test again is transistor count, which we sometimes call complexity, but it is transistor count. And the capital intensity to build transistors at three nanometers and such on a per transistor basis is getting to be quite high. So it may turn out that it takes more CapEx per transistor at some of these nodes than it has historically.
+So that could mute a little bit the cause and effect. If you follow what I'm saying, but overall, the big, big picture is, you are right, it is correlated. Maybe it is a year plus or minus three month delay.
+Vivek Arya
+Got it. And for my follow-up, maybe one for Sanjay on the cost and the operating leverage perspective. So on the cost side are you seeing any rise in your input costs and what are you doing in response? Are you passing those along and will those be sticky overtime? And then kind of part B of that, I think, Sanjay, you mentioned operating expenses could grow 17% to 19%. Do you think when you grow OpEx that much, there is still leverage left in the model that could sales also grow in that neighborhood somewhere this year?
+Sanjay Mehta
+Sure. So first on the cost of sales, yes, we have seen certain cost increase. Raw materials, semiconductor components, et cetera. And fundamentally, we have been able to manage through those. And we expect, from a full-year perspective, we will be at model from a gross margin, 58% to 59%. And so we are just kind of managing through those cost increases.
+And from an operating expense perspective, yes, we are seeing a lower operating leverage in Q1, really some OpEx increases, but really throughout the year, you should expect to see us improve our operating leverage throughout the year.
+Vivek Arya
+Okay, thank you.
+Operator
+Your next question is from Mehdi Hosseini with SIG.
+Mehdi Hosseini
+Mark, I just want to go back to your earlier comment regarding transistor. It is interesting in your press release last night, you also talked about a smartphone unit as contributing to upside to SOC Test growth. So in that context, test growth. So in that context, can you please help us understand how smartphone unit growth and transistor density are driving the SOC Test growth or which one do you think is going to be a bigger factor this year versus 2020? And I have a follow-up.
+Mark Jagiela
+Okay. Good question. Obviously, they are related, they are correlated. But for example, in 2020, we saw a dramatic increase in the tester market when cell phone units weren't growing. And that was all driven by complexity growth. So you can see the power of complexity growth alone by examining 2020, it is big.
+Now in 2021, interestingly, we are getting a year where the, I would say, complexity growth of the silicon going into phones is less than it was in 2020, but that is been more than offset by the fact that units are going to grow. So now we have units working for us a little more in a year where complexity, it is going up, but not as dramatically as it did last year.
+So it is almost a multiplicative effect of the two. And this year is really a story of both, but I would say without the unit growth, we would be looking at a smaller market, a smaller overall TAM than we are seeing.
+Mehdi Hosseini
+Got it. And just moving on to system test, what is the mix between SLT and HDD and how are each one of these two pieces growing on a year-over-year basis. Thank you.
+Sanjay Mehta
+Yes. Mehdi, it is Sanjay here. It is roughly a 50/50 split, plus or minus a bit. And as Mark indicated, from an HDD perspective, really strong end market growth and SLT, there is some investments going to expand that market. But we see growth in both.
+Mehdi Hosseini
+Great, thank you.
+Operator
+Your next question is from Toshiya Hari with Goldman Sachs.
+Toshiya Hari
+Hi good morning, thanks for taking the questions. Mark, I wanted to ask about your market share traction in memory test. 2020 was a very strong year for you guys. Particularly in DRAM package test. You talked about customer mix or spending mix this year, driving maybe a little bit of a decline year-over-year. But in terms of customer pull and your expectations through cycle, what are you seeing in memory test right now?
+Mark Jagiela
+Yes. So memory test is strengthening. At the midpoint of the new market estimate, it will actually grow compared to last year, which again was a good year. It is the sort of areas that are growing, some of them were participating in and some of them were not. So China is growing dramatically, and we are doing very well in China. So we are seeing good pickup there of the products in both flash and DRAM, and we are gaining market share.
+In other geographies where DRAM is growing, the piece of the DRAM market, final test for LPDDR5 that we targeted our new product for and have a design wins. That is also looking very good and growing. But what is growing even faster is wafer test for DRAM, which is an area we really don't participate.
+It tends to be a low technology tester product that serves that market; it is not a big profit pool. And because of that, I alluded to the fact that our share might drop from 40%, 41% down to maybe 38%, 39% for the year.
+Toshiya Hari
+Got it. That is helpful. And then as a quick follow-up, I just wanted to go back to the AutoGuide reset. And sorry if I missed this, Mark, but what has changed in that business over the past three to six months and perhaps more importantly, does this change how you think about your growth strategy, our M&A strategy within overall IA? Thank you.
+Mark Jagiela
+Yes. It doesn't change anything about our thinking on M&A and growth strategy in IA just to sort of take that one first. And over the course of many acquisitions we have done in the past 10-years, we have had various levels of success, I would say.
+The bigger acquisitions like the Nextest, the Eagles, the URs and the MiRs of the world have gone really, really well. And some of the smaller ones have taken longer to realize their potential than we expected at the beginning.
+And so AutoGuide is a case where we are kind of in that same situation. We started out last year, deploying the product into multiple big name, high potential accounts. And we are sort of lilly pad - lilly pad getting these initial deployments up and running.
+As we reflected back on where we stood, we were getting overextended on new accounts where the current accounts potential could be jeopardized by not doing more to augment the product with the ability to dock into other factory automation systems that these customers are implementing.
+So we have just decided, let's retrench around the five or six big accounts we have today, get them rock solid, develop these linkages to warehouse automation, manufacturing systems, strengthen our linkage to our MiR product line, so we have more of a seamless connection there. And just grow within those accounts and then go on to a more expensive footprint.
+So it is absolutely not what we planned a year ago when we acquired AutoGuide. But in the light of today, the opportunity looks so large that we think better off taking this task than just trying to proliferate more and more accounts.
+Toshiya Hari
+Makes sense, thank you.
+Operator
+Your next question is from John Pitzer with CrÃ©dit Suisse.
+John Pitzer
+Good morning guys. Congratulations on the solid results. Sanjay, I just want to go back to your commentaries around supply constraints and duration. It sounds like from your prepared remarks, that this is going to last at least into the calendar third quarter. Do things get worse from here? Is there any way to quantify the impact it is having to your revenue and usually, when customers can't get what they want, they tend to order more than they need. So how are you safeguarding against the inevitable sort of double ordering and excess build out?
+Sanjay Mehta
+Yes, great question. So we are seeing shortages, and we have been able to - through our inventory strategies as well as multiple suppliers been able to work through them. Fundamentally, in the rise of the demand in 2020 and through COVID and then in [2020] (Ph) in Q1.
+We are seeing it in Q2, and we see it getting supply getting tighter. We are seeing lead times increase from our suppliers across the board. And we are booked out pretty much for the year. And as I said in my prepared remarks, we are spending more engineering dollars and qualifying different suppliers. So it is getting tighter as demand continues to increase throughout the year.
+And Q2, we feel pretty good about where we are at in the range. Of course, there is always things we are managing. But Q3, we see it getting tighter. Visibility, we have good visibility into Q3, some issues we are working through. And then Q4, the visibility, obviously, further out, it goes down.
+I would say on the duplicate orders perspective, I don't really see in the demand statement, a whole set of duplication of orders. We are working with our customers, we are understanding their specific needs and working to get them what they need and just working through that.
+John Pitzer
+That is helpful. And then, Mark, as my follow-up, clearly, a lot of conversation coming out of Washington about trying to get more domestic front end production inside the U.S. if the goal here is to kind of secure the supply chain, it seems kind of silly to build a wafer here that you have to then ship over to Asia to test and package. I'm just kind of curious from your perspective, are you seeing any drive towards sort of regionalization test capacity, what might that mean for your business in the future and maybe beyond even Semi Test, are you seeing across other supply chains, sort of a redomiciling of that supply chain that might actually help your IA business.
+Mark Jagiela
+Yes. So I think there is a lot in what you just said. It is interesting and also possibly a deterrent to these regional fabs because a regional fab is, in my view, meaningless without the associated infrastructure around it, including test, supply of the chemistry, the local supply thing makes the whole venture economical.
+And as an alternative to doing everything in Taiwan, if you want to do in the U.S. or Japan or Europe, you really need a competitive infrastructure to get it done, so it will necessarily require test if it is not going to be an orphan.
+And I'm a little bit skeptical, will all of these jurisdictions have the 10-year sort of intestinal fortitude to move forward and invest in that kind of infrastructure build-out. But I think in the U.S. case, my read is that the answer is probably yes. The national security issues, there is just a lot behind this that suggests it is probably going to happen.
+And in the case of test and robots as well, I think the fracturing of the supply chain to be more geographically dispersed, on the one hand, maybe for a global economy is a little bad because it creates some inefficiency in the market, but for a supplier of equipment into that market.
+It is a helpful, it is a tailwind. And so I do think you are going to find probably globally a little bit less utilization efficiency of equipment because of this trend. But the national instincts around secure supply chains are going to overdrive that and probably subsidize it to some level. And I think both of our businesses will be a beneficiary of that.
+John Pitzer
+Thank you.
+Operator
+Your next question is from Timothy Arcuri with UBS.
+Timothy Arcuri
+Hi, thanks. I guess a couple of things. First, Mark, I think you said that compute. So I guess my question really is for you to break down what the Semi Test TAM, if I take your $4.2 billion midpoint this year for SOC. I'm just wondering if you can break that down. I think you had said last year, of the 3.45 billion, it was like 600 million compute and so I'm wondering, out of the 800 million that is going to grow this year from 3.45 billion up to 4.2 billion. I'm wondering if you can kind of break that down. It sounds like most of it is compute because you said compute is going to double from 600 million last year. But I'm just wondering if you can sort of reset the segments for us as well.
+Mark Jagiela
+Yes. I will give you some rough numbers, but take it a little bit with a grain of salt because here we are three months later, talking about a big revision to our view of what the market size is. So I don't profess to be overly wise on this. But our current view on compute would be about $1 billion-ish market this year, for example.
+So not quite doubling, the year is not even halfway over. So who knows what could happen, but that is our current view. Mobility compared to last year is probably flattish, could be down a little bit compared to last year. The one part of mobility we haven't talked about that of all the places that are surging for demand, there is a pocket where demand is softer this year and that is in millimeter wave test capability.
+And last year, there was a lot of tooling for millimeter wave as some of the phones were early adopters of millimeter wave technology. But the fact of the matter is that telcos globally aren't deploying millimeter wave to any large extent spotty deployment in the U.S. and almost nothing outside of the U.S.
+And so that is suppressing demand this year for millimeter wave test equipment. That makes the - it is a little bit of a headwind for the mobility market. So call it flat to slightly down in mobility. At about, let's say, it is about 1.6 billion or 1.65 billion or so.
+The automotive and MCU market is closer to 450 for the year. That is up from about 225 last year, so big, big jump there. And the last segment that we sort of track is industrial, and that one is up to about 500 million from maybe 340, 325 last year. So that is how we segment it right now.
+Timothy Arcuri
+Awesome. Awesome, thank you. And then I guess I just wanted to maybe push back a little bit on the correlation between WFE and Test TAM. It is been a little more consistent in memory the past couple of years, of course, when you get these big pricing swings, that is going to probably go away. But on the SOC side, wouldn't you agree, your big customer is a significantly larger portion of the SOC Test TAM than they are of consumption in the front end non-memory WFE world. So doesn't the SOC market depends a lot more on what the large customer is doing in the test world than in the WFE world. So the correlation in SOC could sort of break down a bit because of what the large customer is doing. And I guess on that point, they've never been good three years in a row, not once, and this is the second big year. So how do you handicap the odds that next year is a big down year and that works against you in terms of share, even if the market doesn't come down that much? Thanks.
+Mark Jagiela
+Alright, a lot in there Tim, but I will try to take it on. So your point about the large customer or our large customer, never having sort of as a proportion of our revenue, three big years in a row. I think there is truth to that, but there is also a difference in what is happening, because the portfolio there is growing.
+If you go back to the sort of 2013, 2014, 2015, 2016 area, it was kind of one device type that was driving the story and the demand. And now we are into a much broader portfolio, so I would just offer that that dynamics changed. And that is a fact that could propel this more sequential growth for a longer period of time.
+On the correlation between WFE test, SOC Test demand and whether that is stronger than who's buying, let's say, certainly, customers have different test intensities. And so part of the noise that is running under the hood, certainly as it relates to our revenue is related to large high test intensity customers and how much they are buying.
+We are fortunate that we participate in segments of the market that tend to have high test intensities, but that is by design. We target those segments. And it is not just one large customer that produces devices that have high test intensity. There are others, and that is where we play.
+So I would agree with you that if the market shifted away from high test intensity customers meeting high complexity devices, you could see a disconnect an anchor on the test market that was disconnected from WFE. But it just doesn't seem likely because the reason these investments are being made in the front end.
+And the reason they are so expensive to make is that they are going after three nanometer EUV lines to build devices for these very customers we are talking about. So I just don't see that the disconnect can emerge unless the fab sit idle. If the fabs are going to say, idle, yes. But if the fabs aren't going to be idle, it is the exact customers we are talking about that are going to utilize them. So I don't disabuse your point. It actually has some merit, but I just think the correlation, almost by definition, has to occur unless the fabs are idle.
+Timothy Arcuri
+Okay. Awesome Mark, thank you.
+Operator
+Your next question is from Krish Sankar with Cowen.
+Krish Sankar
+Yes, thanks for taking my question. And Mark thanks for the color on the SOC Test. I just wanted like focus on the compute test market and it looks like you said it is going from 600 million to one billion. Is the incremental growth all coming from custom silicon and if that is the case, can you just tell us how much your market share in compute was last year and how much do you think it is going to be this year? And then I have a follow-up.
+Mark Jagiela
+Yes. So most of the growth is, I would say, coming - what is it non custom silicon, I couldn't say that. I think growth is coming from the nontraditional suppliers of compute devices is a disproportionate amount of it. But the other usual suspects are growing too. AMD, obviously, is growing and NVIDIA is obviously growing. So it is broad-based.
+But as a proportion, I would say, yes, you are right. It is probably some of the newer players that are growing the market faster than others. And as to our share position, historically, our share in compute has been below our overall market share. So maybe in the 30s and moves around in the 30s is where it is been.
+We are trending into a period of time because of this change of who is building these devices where our share is more likely to move up closer to our overall average share in the market. So if our SOC average share is somewhere in the 50-ish range, it might take a little bit of time, but that is kind of where we are trending to.
+Krish Sankar
+Got it that is really helpful, Mark. And then just a follow-up, I think you made a comment that you are kind of booked out for the rest of the year. Is that a Semi Test and a Storage Test comment and if so, should we assume that you would not see seasonality in the back half in Q4 because the demand is strong or in other words, it is your Q2 Semi Test revenue run rate sustainable?
+Sanjay Mehta
+It is Sanjay. So I made the comment that we were booked at, and it was really tied to our supply perspective. We are working with both contract manufacturers and our direct suppliers to fundamentally make sure that we have orders on the books until the end of the year, just given the supply constraints environment.
+Krish Sankar
+Got it. Thanks Sanjay.
+Operator
+Your next question is from Brian Chin with Stifel.
+Brian Chin
+Hi there, good morning and thanks for letting us ask a few questions. First, on the Semi Test business, I definitely respect that visibility in this or any year has limitations. But if I do take the midpoint of your new expectations for the test markets, take your market share projection and assume the majority of the second quarter growth will be Semi Test driven. I think I back into about a 10% or so sales decline in Semi Test in the second half of the year. Am I kind of in the ballpark here and to what extent is your backlog coverage supportive of this?
+Sanjay Mehta
+Yes. When you take a look at the numbers, overall, maybe I will comment overall. We are expecting to see, given the visibility and obviously, with a significant reset of the market size, and as we move throughout the year, the lack of visibility in the second half. But with all of those provisions, we are seeing overall an expectation that the second half of the year revenue will be slightly down, both for the enterprise. And that is a similar direction down for Semi Test.
+Brian Chin
+Got it, thanks Sanjay. And then maybe just on the industrial automation business and sorry if I missed some of this, but I definitely heard about China as a geography showing strong year-over-year growth a lot of growth in MiR and a snapback in the UR business as well. Can you characterize maybe Europe and North America; obviously, key markets as well sort of where are they in terms of their snapping back relative to where you might expect them to get this year?
+Sanjay Mehta
+Yes, hi it is Sanjay. Yes. So from a U.S. perspective, we are seeing the snapback, whether you look at increases over Q1 of 2019, pre-COVID year or even Q1 of 2020, similar with Europe, a very strong kind of double-digit snapback over either year.
+Brian Chin
+Okay, great. Thank you.
+Operator
+Your next question is from Joe Moore with Morgan Stanley.
+Joseph Moore
+Great, thank you. I wonder if you could talk about in the automotive and the broader markets. The degree to which test is one of the bottlenecks they are dealing with, like we hear about shortages on wafers packaging, a little bit test just how severe do you think your bottlenecking them and then when you look at a 90% comparison in auto, it would seem like there is some catch-up in that, like does that create sustainability risk in your mind maybe next year?
+Mark Jagiela
+Yes. I think the big issue is wafers, not in terms of bottlenecking, the automotive manufacturers. That doesn't mean that we are completely aligned on deliveries for test equipment to the chip suppliers who are trying to ramp shipments. We are misaligned by a few weeks here and there.
+And we are pulling like mad and they are pulling like mad. But the big, big, bigger issue is getting wafer capacity. So we are not in the headlights quite yet, but we are certainly in intense conversations to try to pick up a week or two here or there so that they can get a little bit more out a week or so sooner.
+Joseph Moore
+Great and absolute level you have.
+Mark Jagiela
+Automotive always kind of goes in fits and starts. And I think the supply chain in automotive is going to come out of this, having learned a lesson that they can't be so lean on just in time. And I know that raises the specter of everybody's worry that there is inventory being going to be built in addition to real line demand. And I think that will happen.
+That is certainly not happening yet, that is to come. So there is going to be a phase here where we get through the urgency, then there will be investments made to build more, I would say, slack in the system for the devices that go into automotive. So that will be a bit of a balloon.
+But then it will settle back to, I think it is normal rhythm. Where increasing electronic and chip attach rates in automobiles will drive the market. And we are going to get to kind of a peak level of test investment in automotive this year, close to that $500 million number.
+And that could even - certainly, I think it could sustain through the end of the year because of this inventory catch up. But my guess is as we get into the 2022 area and beyond, it will sort of back into oscillating between the 300 million to 500 million range.
+Joseph Moore
+Very helpful. Thank you.
+Operator
+Your next question is from Blake Gendron with Wolfe Research.
+Blake Gendron
+I want to come back to the Arm's SOC commentary, not from a market share perspective, but rather the complexity discussion. Because as we have seen large customers accelerating this Arm's rollout here a bit. So it seems like the architecture consolidates the number of wafers for various compute functions, simplify the circuit a bit. So share opportunity is notwithstanding. I'm wondering what the complexity in test intensity puts and takes are with this arms trend specifically?
+Mark Jagiela
+Yes. That is a little tricky. So first of all, let me say that most of the applications processors in your phone, which is a 1.5 billion unit market, are Arm-based processors. And those devices in the high-end phones, which comprise maybe 400 million to 500 million units out of the 1.5, have transistor counts on par with any desktop or laptop computer you might buy, 10 billion-plus kind of transistors.
+So when you look at the test intensity there compared to a traditional microprocessor, it is a little bit more efficient, I would say than the traditional microprocessor, but not a lot, more efficient. So for the same, let's say, 10 billion transistor x86 architecture compared to a map device in your phone, maybe it is at 90% versus 100% kind of test time delta, so not big.
+Now when you get into Arm-based compute devices for more non-phone applications. There is different cash requirements, different IO technologies needed that further complexify the Arm implementation that bring it back up to test intensity is very similar to the x86 world. So I don't see a big difference there.
+Blake Gendron
+That is really helpful and then a follow-up on industrial automation. You noted peripheral services that demand additional software apps and likely hardware. We have seen a bit of proliferation of companies that are attacking things like computer vision, machine learning other AI capabilities. So wondering what kind of artificial intelligence capabilities Teradyne has in IA to keep up with these trends. It seems like robotics peers, both large and smaller really descending on the cobot space here. Or could this be a focus of M&A moving forward?
+Mark Jagiela
+So it is certainly in our M&A funnel, there is various opportunities like that. But what I would say is that many of the startups in the IA and machine learning space that are exploring ways to enhance robots, cobots, are doing it on our platform as a partner.
+If you go into our again, UR+ ecosystem or a MiRGo ecosystem, you will see a variety of machine learning and AI tools. That have been targeted and customized for our products. So we are benefiting from them whether we own them or not. We do have organic IA products that we have on our MiR platform already.
+But it is going to be important for the evolution of ease of use and applications expansion for cobots, for sure. And whether we need to own it, or whether we need to be the preferred platform that they all write their apps for, I think, is still kind of a case-by-case consideration for us.
+Blake Gendron
+Very helpful. Thank you.
+Andrew Blanchard
+We are just about at the limit, but we can sneak one quick question in, if you would, April, please.
+Operator
+Okay. And your last question is from Sidney Ho with Deutsche Bank.
+Shek Ho
+Thanks for taking my question. Can you give us an update on your revenue opportunity related to 5G for both SOC Test and LitePoint? And maybe in the 5G infrastructure side, are you seeing a recovery of that market in any region right now?
+Mark Jagiela
+Yes. I think infrastructure is really not driving much tester demand generally. It did for us back in 2019 when China was going crazy, rolling out sub-6G and Huawei was investing heavily at the time. But the kind of what is now a $5 billion tester market, infrastructure, 5G investments are, I think, always going to be sub-100 million and maybe more in the sort of $60 million to $70 million range.
+The bigger one is what happens with the phones and the terminals and such. And there, the U.S., the spectrum auction around sub-6G is concluded. I think that carriers are kind of clearly going to roll that out as their next step. That is, as I said earlier, going to suppress the demand for millimeter wave, which is the most test intensive portion of 5G.
+And so in the past calls, I have talked about LitePoint and Semi Test combined driving an incremental $400 million to $500 million worth of tester demand in the 5G era. And I think where we are in that now is we are probably in that $250 million to $300 million piece of it.
+And I think it is going to go sideways here for a while because of the fact that millimeter wave this year will be less probably investment than last year. And that will be the last kicker. Maybe it is still a couple of years out to bring it up to that full potential.
+Shek Ho
+Great. Maybe just lastly on the system level test, what is the size of that market today and how big could that be when those lower complexity devices that you alluded to starting to come into the market and maybe just a little bit on the competition side, how do you sustain your market share in that market?
+Mark Jagiela
+Yes. I think the market is pretty thin. We don't have a good number to give you on market size. But I think if you look at us in Advantest, you can kind of get a general sense. We probably, again, have 80% of the market between us. There are some other bespoke custom products that certain suppliers provide, but that is the way you could get at the market.
+And Advantest and Teradyne are kind of, I think, both hard-core players here. We each have our own benefits. And as we said earlier, this additional test step that high complexity devices are requiring is likely to proliferate into other markets. But two things are kind of important.
+I think some like the automotive market, as an example, is a very high-quality demanding market. But the volumes, frankly, are relatively low compared to something like a phone, 100 million cars versus 1.5 billion phones.
+So for a market like that with lower volume devices to take advantage of SLT, which they would love to. We need a different architecture that we are developing to address these, I would say, higher mix, lower volume markets.
+And I think our position and the sustainability of this is pretty good. It is like semiconductor tests, where the changeover costs are pretty high. Once you are in, somebody else has really got to have a better mousetrap by a long shot to sort of dislodge you.
+Shek Ho
+Thank you.
+Andrew Blanchard
+Okay. We are out of time. Thanks so much for joining us today, and we look forward to talking to you in the days and weeks ahead. Thanks again. Bye-bye.

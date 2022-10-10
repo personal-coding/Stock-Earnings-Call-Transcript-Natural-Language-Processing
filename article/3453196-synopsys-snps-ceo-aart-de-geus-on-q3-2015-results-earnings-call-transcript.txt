@@ -1,0 +1,270 @@
+Synopsys Inc. (NASDAQ:SNPS) Q3 2015 Results Earnings Conference Call August 19, 2015 5:00 PM ET
+Executives
+Lisa Ewbank - Vice President, Investor Relations
+Aart de Geus - Chairman and Co-CEO
+Trac Pham - Chief Financial Officer
+Analysts
+Krysten Sciacca - Needham
+Krish Sankar - Bank of America Merrill Lynch
+Sterling Auty - JPMorgan
+Tom Diffely - D.A. Davidson
+Jay Vleeschhouwer - Griffin Securities
+Monika Garg - Pacific Crest Securities
+Mahesh Sanganeria - RBC Capital Markets
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the Synopsys Earnings Conference Call for the Third Quarter of Fiscal Year 2015. At this time, all participants are in listen-only mode, and later, we will have a question-and-answer session, and instructions will be given at that time. [Operator Instructions]
+Today's call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today's conference call is being recorded.
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thank you, Paul. Good afternoon, everyone. With us today are Aart de Geus, Chairman and Co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts and targets, will make other forward-looking statements regarding the company and its financial results.
+While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+In addition to any risks that we highlight during this call, important factors that may affect our future results are described in our most recent quarterly report on Form 10-Q, and today's earnings press release.
+The reconciliation of the non-GAAP financial measures discussed on this call to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, earnings press release, and financial supplement that we released earlier today.
+All of these items plus the most recent Investor Presentation are available on our website at www.synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+With that, I'll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon. Iâm happy to report that our third quarter results were very strong, as we achieved revenue of $556 million, non-GAAP earnings per share of $0.63 and $275 million in cash flow from operations. In addition, we closed several key acquisitions, as we continue to strengthen and evolve the company for long-term growth. As a result, we are again raising our annual revenue guidance.
+Characterizing the customer environment around us, the semiconductor and systems industry results and outlook remain mixed. Customer growth rates appear more challenged than three months ago as some customers thrive while others struggle.
+Consequently, consolidation continues, be it through asset purchases or full company combinations. While consolidations overall are somewhat of a headwind for EDA, our customers continue to invest heavily in designing highly advanced chips.
+They seek long-term relationships with trusted suppliers to meet the very demanding time-to-market expectations of their customers. In addition, our expansion into the software quality and security space has broadened our long-term opportunity to grow well beyond traditional EDA. Thus, Synopsys, continues to be well-positioned as partner of choice for electronic design and software development.
+Ranging from silicon to software, our multi-year strategy has three pillars. First, continue to build on our EDA leadership by providing state-of-the-art design and verification platforms with best-in-class support.
+Second, offer high-impact productivity solutions such as outsourced IP and extremely fast hardware/software prototyping, enabling customers to beat their relentless time-to-market constraints.
+And third, invest in and grow our software quality and security solutions. Software complexity is escalating in both electronic systems and in the broader application space, and security vulnerabilities are visibly creating ever-greater challenges.
+Let me provide some product and customer highlights that demonstrate our progress. Throughout our entire history, Synopsys has endeavored to be the technology leader in the highest impact areas of EDA. The investments weâve made both internally and through acquisitions continue to bear fruit in terms of, new game-changing products, clear leadership in advanced node enablement, amazing customer design successes and the resulting customer wins. While Iâm sure itâs difficult for you to sort through the many claims of leadership in advanced designs, we are confident in our position and momentum.
+Let me provide some color and data points. The number of FinFET designs continues to grow rapidly, as leading-edge companies race to take advantage of significant power efficiencies.
+The number of active FinFET designs and tape-outs to-date continues to grow quickly now reaching almost 240. Synopsys is relied on for 95% of these. Technology differentiation matters, and customers and partners count on us.
+For example, in June, we announced Intel Custom Foundry certification for Synopsys design tools for 14-nanometer FinFET production. During the quarter, we achieved certification from multiple standards organizations for our IP portfolio for TSMC 16-nanometer FinFET-Plus and in June, we announced an expanded collaboration with UMC on embedded memory and test solutions for their 14-nanometer FinFET process.
+In physical design, our game-changing new product, IC Compiler II, continues to gain traction with rapidly growing adoption. Customers are seeing 10X improvement in throughput and are using IC Compiler II in designs throughout the process spectrum.
+During Design Automation Conference in June, AMD, ARM, MediaTek, SocioNext and Samsung spoke to a standing-room-only crowd about their successes and deployment plans for IC Compiler II. TSMC signed off on IC Compiler II certification for their latest 16 nanometer FinFET Plus process.
+Demand is very strong and broad-based, as evidenced by the fastest ramp-up in bookings for any product in our history. As customers move rapidly from IC Compiler I to IC Compiler II, so does our support. We have transitioned a majority of our dedicated application engineers to IC Compiler II, a further indication of its momentum. We are already serving 38 different customer logos with well over 100 production designs and tape-outs, a significant increase over last quarter.
+Now to verification, where requirements have exploded as designs have become much, much more complex. Here, too, our Verification Continuum platform is truly a next-generation solution with both breadth and depth of technology. Approximately 80% of advanced designs already use Synopsys as the primary simulator and over the past year, we have steadily introduced many enhancements and a whole different level of integration throughout the platform.
+Propelled by multi-year collaborations with some of the hardest-driving semiconductor companies in the world, our Verification Continuum now integrates all the critical software and hardware verification tools onto a common infrastructure. As a result, Q3 was another strong quarter for verification, particularly in emulation, where growing demand is benefitting the entire EDA industry.
+At the Design Automation Conference, Altera, ARM, Cavium, AMD and Freescale spoke at a customer luncheon about their verification challenges and how Synopsys is helping them achieve success. On the analog/mixed-signal side, a technically challenging area, we introduced significant advances in our CustomSim product, which delivers a 2X speed-up.
+Finally, earlier this month we closed the acquisition of Atrenta, a recognized leader in static and formal verification. Its SpyGlass product is an anchor technology in the industry that effectively addresses verification and power challenges early in the design cycle.
+The Atrenta technologies further enhanced both our Verification Continuum platform and our implementation solution. While weâre in the early stages of integration, customer and employee reactions have been very positive.
+Let me now move to IP, where our optimized solutions for the Automotive and Internet-of-Things market segments continue to strengthen. About six months ago, we launched a major initiative to robustly address the automotive space by augmenting our product portfolio to include automotive-grade IP.
+In June, we rolled-out a broad set of IP optimized for automotive chip development. The portfolio now meets key safety, reliability and quality requirements while continually being enhanced to address new emerging standards. We have also worked with industry leaders such as Freescale, Infineon and Renesas to create Automotive Centers of Excellence with our virtual prototyping products, enabling our mutual customers to accelerate software development.
+Clearly, semiconductor content in automotive systems will grow significantly over the next five to six years. With this offering, we are expanding our influence in this
+important vertical market segment.
+For the Internet of Things, the ability to connect multiple smart devices to the cloud and to each other is fueling great application innovation, ranging from wearable devices to machine-to-machine markets. Synopsys provides a comprehensive portfolio of IoT-ready IP, ranging from interfaces, to memory and logic, to power-efficient processors, to pre-validated subsystems.
+During the quarter, we announced a collaboration with TSMC to develop an integrated IoT platform for TSMCâs 40 nanometer ultra-low-power process. We also acquired Bluetooth Smart IP from Silicon Vision, for key low-power smart home, portable health, and industrial applications that require on-chip wireless integration.
+Lastly, and second only to connectivity, security of these devices is paramount. Through the acquisition of Elliptic Technologies, we added proven security IP solutions for identification, authentication, data encryption and content protection, which brings me naturally to our Software Quality and Security products. While security in the cyber world has been an issue for years, the combination of increasing connectivity and highly publicized breaches, including recently in the automotive domain, are spurring an intense security focus on the entire electronics and software applications space.
+Our entry into Software Quality and Security comes at just the right time and Q3 was significant for our promising business unit. As a refresher, last yearâs Coverity acquisition expanded both our total available market and our customer base. Itâs a compelling combination of technical, customer and channel adjacency to our existing business as well as a significant TAM broadening into a new, higher-growth space that truly differentiates us as a company and investment.
+During the quarter, we bolstered our security presence significantly with two acquisitions that are already showing great promise. The first is cyber security company, Codenomicon, a leader in the area of dynamic security analysis, and well-known for independently discovering the infamous Heartbleed bug.
+We also acquired key assets from Quotium, specifically, the well-regarded Seeker product, a leader in application security testing. While we're in the early stages of building and scaling our presence in this space, we're already making a notable impact. Evident earlier in the month at the Black Hat security conference, a conference renowned for its hacker, and security company attendees.
+For example, at a standing-room-only Synopsys event that featured speakers from Underwriter's Laboratories and the Department of Homeland Security, UL spoke about its developing Cybersecurity Assurance Program and the collaboration with Synopsys to drive it forward.
+Itâs designed to help companies manage security risks via a certification process, similar to what they have been doing for years for electrical hardware devices. UL's program, which is still under development, is expected to provide a baseline for Cybersecurity Assurance. Initially focused on medical devices, industrial control systems, and networking and telecom equipment, it would utilize technology from a number of key suppliers, including Synopsys.
+Finally, reflecting the growing brand recognition in this space, we were named by Gartner as a visionary in their application Security Testingâs Magic Quadrant. This is a big deal. Out of hundreds of companies in the Application Security Testing space, only 19 are identified in this market-making group. Stay tuned as we evolve our software quality and security strategy in the coming months and quarters.
+In summary, we delivered strong Q3 results and expect to exit the year with approximately 10% non-GAAP earnings per share growth. Our new products are driving excellent customer design successes and adoption momentum. And, lastly, we closed several key acquisitions, strengthening our technology and evolving Synopsys towards promising higher-growth market segments.
+Let me now turn the call over to Trac Pham.
+Trac Pham
+Thanks, Aart. Good afternoon, everyone. As you heard from Aart, we're seeing good momentum in the business. Our internal investments and key acquisitions are paying off in terms of broadening our portfolio with new technology and expanding our TAM with new growth opportunities.
+Our results reflect a business that is not only strong today, but also well positioned for future opportunities. Our excellent Q3 performance and Q4 outlook solidify another year of increased growth and profitability. In fact, we're raising our annual revenue outlook again, reflecting the strength of our business. We continue to execute very well, and we are committed to maximizing long-term shareholder value.
+Now to the numbers. As I talk through Q3 results and targets for the rest of the year, all comparisons will be year-over-year unless I specify otherwise. Total revenue increased 6.5% to $556 million. Greater than 90% of Q3 revenue came from beginning of quarter backlog, and one customer accounted for more than 10%.
+The weighted average duration of our renewable customer license commitments was about 2.5 years, and we expect duration for the full year to be about 2.7 years. Total GAAP costs and expenses were $494 million and total non-GAAP costs and expenses were $432 million, at the lower end of our target range.
+Non-GAAP operating margin was 22.4% for the quarter and 24.2% for the first three quarters of 2015. Because of the technical complexity inherent in our customers' design processes, it's critical that we prioritize leading edge product development. Nonetheless, we continue to drive global operational efficiency in order to deliver solid non-GAAP operating margin in the mid-20s range.
+GAAP earnings per share were $0.35 and non-GAAP earnings per share were $0.63.
+Turning to cash flow, we generated $275 million of operating cash flows for the quarter. We are reiterating our full year target of approximately $450 million.
+Cash flows to date have been strong and we are able to offset the net outflows related to acquisitions. We ended Q3 with cash, cash equivalents and short-term investments of $1.1 billion with 31% onshore and total debt of $213 million. We have since funded the Atrenta acquisition from that U.S. cash, so would expect it to be lower at the end of Q4.
+Over the years we have utilized our balance sheet very effectively for both stock repurchases and M&A. Since 2010, we have repurchased more than $1.1 billion of Synopsys stock. We have simultaneously made a number of important acquisitions to enter new higher growth areas, most recently software quality and security, and prioritized P&L investments to expand our technology leadership. We believe this ongoing strategy will create significant value for our shareholders.
+We closed several acquisitions in Q3, as well as Atrenta earlier this month. In addition, we completed the $180 million accelerated share repurchase plan initiated in Q1, in which we bought back a total of 4 million shares. For the trailing four quarters we've spent $220 million buying back more than 5 million shares, and have $200 million remaining on our share repurchase authorization.
+Finally, DSO was 50 days, and we ended Q3 with approximately 9,835 employees, with more than one-third in lower-cost geographies.
+Now to the fourth quarter and fiscal 2015 guidance, which excludes the impact of any future acquisitions. For the fourth quarter, our targets are revenue between $570 million and $585 million, a wider range than we have provided in the past, to reflect increased variability due to lumpiness of hardware and consulting revenue; total GAAP costs and expenses between $503 million and $521 million; total non-GAAP costs and expenses between $450 million and $460 million; other income between $0 and $2 million; a non-GAAP tax rate of 19% to 20%; outstanding shares between 155 million and 159 million; GAAP earnings of $0.31 to $0.38 per share; and non-GAAP earnings of $0.65 to $0.67 per share.
+For fiscal 2015, revenue of $2.225 billion to $2.240 billion, a growth rate of approximately 8% to 9%; other income between $10 million and $12 million; a non-GAAP tax rate of 19% to 20%; outstanding shares between 155 million and 159 million; GAAP earnings of $1.43 to $1.50 per share, which includes the impact of approximately $87 million in stock-based compensation expense; non-GAAP earnings of $2.76 to $2.78 per share, which reflects the slight dilution from our recent acquisitions, largely offset by operational overachievement; capital expenditures of approximately $100 million; and cash flow from operations of approximately $450 million.
+While we continue to expect a revenue model that is approximately 90% time-based, going forward we will expand our quarterly guidance ranges to better reflect the variability inherent in hardware deals, for which revenue is recognized upfront, along with the timing of consulting projects.
+In summary, we're seeing good momentum in the business. Our internal investments and key acquisitions are paying off, with game-changing new technology and a brand new TAM. We continue to deliver strong results and are well-positioned for future opportunities. And our excellent Q3 performance and Q4 outlook solidify another year of strong cash flow and increased growth and profitability.
+With that, I'll turn it over to the operator for questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question is from Rich Valera with Needham. Please go ahead.
+Krysten Sciacca
+Hi. This is Krysten Sciacca in for Needham. I donât know sorry in for Rich Valera. So I am looking at your fiscal 2015 guidance and I just want to know, is the increase in revenues only due to the inclusion of Atrenta or is there some other driving force there?
+Aart de Geus
+Well, in general, most of that is not due to Atrenta, that is continuation of the execution of the overall company engine so to speak. Atrenta, of course, adds a little bit to it by virtue of having joined us this quarter, but most of it is just continuation of the path that Synopsys has been on.
+Krysten Sciacca
+Okay. Great. Thank you. And then how is hardware this quarter?
+Aart de Geus
+We had a very good hardware quarter and so you will see that reflected in both the upfront revenue line as well our COGS expenses.
+Krysten Sciacca
+Great. Thanks very much.
+Aart de Geus
+You are welcome.
+Operator
+We have question from Krish Sankar with Bank of America Merrill Lynch. Please go ahead.
+Krish Sankar
+Yes. Hi. I had a few questions actually. First one is, Aart, when I look at your IP system software integrity revenue, it seems like it is down sequentially about 10%. What is going on there that Coverity should be growing at this point, right?
+Aart de Geus
+Well, those businesses combined have actually a very high degree of fluctuation from a one quarter to another because they are quite lumpy in how we recognize revenue. And this is largely due because many of the large IP deals have a variety of milestones attached to them or even some services. And so that is why these numbers have continued to be up and down. On a trailing 12-month basis, the numbers are actually very good.
+Krish Sankar
+Got it. And then in the past you guys mentioned how you should be breakeven in Coverity this year and you know accretive next year, but looks like youâre doing some investments. So at what point, will Coverity become accretive to the broader company?
+Aart de Geus
+Well, in general, we look at it being slightly accretive in '16. The addition of acquisitions may change that as they always do, but fundamentally read that as we continue to invest in the business that we see a very good future for.
+Krish Sankar
+But at some point next year, youâre saying Coverity would be accretive?
+Aart de Geus
+Yes. This would be as the -- the Coverity that we acquired, by now weâve already added I think four different acquisitions. And so this is a very rapidly evolving business unit for us. And so from a philosophy point of view, the way to think about it is that as we add acquisitions, we aim to within I would say 12 to 18 months make them accretive, or if they are technology acquisitions, they get integrated very, very fast into the existing product. And objective obviously is to build a profitable business, but the other objective is to also create a strong footprint in an area that we expect to grow in the future.
+Trac Pham
+Krish, this is Trac. I think you're referencing what we had originally guided when we bought Coverity in general. As we look at '16, we're looking at that business to be more than $100 billion and accretive, '16.
+Krish Sankar
+Got it.
+Trac Pham
+And as you think about the acquisitions that we made in the recent quarter, as you saw in the earnings guidance we have tweaked our earnings guidance to reflect the slight dilution from those deals and we do expect them to be slightly diluted in 2016 as well.
+Krish Sankar
+Got it. And then if I could ask a big picture question. If you look at the EDA industry, everyone says it could grow at like 5%, 6% topline growth, but looks like next year 10 nanometers have been pushed out from 2016 to 2017. So my question is that with that backdrop, do you still think EDA industry can grow 6% or so, and what is it means specifically to Synopsys given 10 nanometers from some of the biggest customers are getting pushed out?
+Aart de Geus
+Well, let me take it still in reverse order. Yes, of course, we understand that some deliveries on technology have been slowed down or just feathered in, but that doesnât mean at all that the work for us has diminished around 10 nanometers, because a lot of people are essentially looking as when do they ship product and that is really the more relevant data from a macro perspective for the semiconductor industry.
+But for EDA, the work starts long, long before that. And as a matter of fact, we have a significant amount of work right now already on 7-nanometer to make the technologies, the tools, the IP ready.
+So if you look at it as a macro picture, I did guide a bit in my preamble to the fact that the overall semiconductor industry is quite turbulent right now. And if you look at the expectations for this year and for next year in terms of growth rate of the industry, they have gone down somewhat. But it is also true that within these ups and downs of the semiconductor industry, historically EDA has fared quite well, because not only do we attach the more stable R&D efforts, we also are very much the investments that let people come back out of the troughs within a year or two. And so therefore, a high degree of stability.
+Last but not least within that, I think Synopsys has done particularly well, because we are -- I hope viewed as a trusted partner and the company that you can count on and we continue to invest quite aggressively in technology to make sure that weâre there tomorrow as well.
+Krish Sankar
+Got it. And if I can just squeeze one last question. In the last several quarters of for like few years, your R&D as a percentage of sales has been somewhere in the 30% to low 30% range. Is there any chance for that, even if Mooreâs Law does slowdown and I understand you still have to do a lot of design work? Is there an opportunity for that R&D as a percentage of sales to come down or you think 30 is the bogey?
+Aart de Geus
+I honestly think that that is about the bogey and for the simple reason that weâre seeing nothing that says that technology is getting somewhere. In many ways, itâs the opposite. And the reason people go there is because the value is extremely high if you could deliver chips that had even less power utilization with even more computational speed, because in the coming years it will open up a whole new domain of smart devices that literally applies to everything.
+Now that complexity comes from at a minimum two sources. One is the advanced silicon technologies that just demand much more sophisticated modeling, and we are well on top of that. And secondly is that very sophisticated silicon is what enabling a lot of these super sophisticated software and the intersection of those two were also well on top of that.
+And so, I think, that we are in the right place, while we see an industry that is morphing and changing around us and this happens continually in this industry and has been one of the reasons for its tremendous impact.
+Krish Sankar
+Got it. Thanks, Aart. Thanks Trac.
+Aart de Geus
+Youâre welcome.
+Operator
+We have a question from Sterling Auty with JPMorgan. Please go ahead.
+Sterling Auty
+Yeah. Thanks. I wanted to go back to the Atrenta question for a minute. I thought 2014 they were doing something in kind of 55 million range, what did you guys loose for acquisition accounting, it seem like you should get some material revenue for the back half -- even for the one quarter and then moving into 2016?
+Trac Pham
+Hi, Sterling. This is Trac. Yeah. The acquisitions have a very small impact on our results for this year. If you think about just the size of the deals in general, the timing of when they're closed and you factor in the deferred haircut, the guidance that we gave is, there is very little impact from revenues.
+We did tweak the earnings guidance at the midpoint by about penny or $0.02 to reflect a dilution. But overall most of it is in the -- most it is organic business. We -- when we think about the deferred haircut. It can range anywhere from 50% to 80% depending on particular deal.
+Sterling Auty
+Right. So can you give some guidelines in terms of where you at the upper end of that range on these acquisitions in terms of what the write-down was and perhaps, you can remind people what the business model at Atrenta was in terms of what have been in deferred revenue that perhaps were lost?
+Trac Pham
+So we donât disclose the specifics of each individual deal. But, again, where we are operationally, we are still working through the contracts to get evaluation analysis of that and to determine the deferred haircut.
+Aart de Geus
+But fundamentally, their business model is ratable model or just like ours and so in many ways they had a very similar philosophy both financially and technically, and I think the fit is actually going to be remarkably good.
+Sterling Auty
+And then looking at the sales and marketing expenses in the quarter, it seems to come in light relative to the street models and our model as well. Any insight into why the sales and marketing expenses were -- what looks to be as much as [$4 million, $4.3 million] [ph] spike?
+Trac Pham
+Sterling, the difference between where we came in versus the model is really just a function of how you model it. As far as internally that that the sale and marketing line can vary from quarter-to-quarter depending on conditions expense it could vary by customer events or tradeshows. So it does vary quarter-to-quarter.
+Sterling Auty
+And there is oneâ¦
+Trac Pham
+But there is no issue there. Itâs a reflection of the underlying health of the business thatâs what you are try to get out the run rates for the quarter and year-to-date were actually very healthy and up.
+Sterling Auty
+Okay. And then, one last high level question, Aart, you kind of talk about the headwinds in the near-term is going to help semiconductors and just the M&A environment? I am particularly interested in terms of some of the consolidations that have happened? Is there a sense over what timeframe you might yield some of impacts of those consolidations and I do agree that I think ultimately will end up with healthier customer. So maybe itâs even better for your long-term? But are we going to go into a six-month, 12-month, 18-month period, where perhaps as you go through contract renewals, you have a little bit of headwind? [Technical Difficulty] could you quantify or give qualitative commentary would be helpful?
+Aart de Geus
+Sure. Well, in general the reason one looks at consolidation as a bit of headwind for an industry is because none of the consolidators ever says, well, not that consolidated, let me spend more money with you.
+They do regroup however and often reassess what is the wisest way to spend their money and in a number of cases this has been actually very positive for us, because we're not only a safe haven in times of turbulence, but also by virtue of driving technology very hard, if this is an advanced user of this there is opportunity sometimes to align better with us making them successful.
+So the timeline that you are highlighting around consolidation is correct. It takes typically a number of months for the companies to figure out what they want to do. Many of the EDA companies have multiyear contracts. They can shift based on mutual agreements but there is some stability in all of this.
+So I don't want to over dramatize any of this. I think this is part of the industry that is evolving and we are visibly so, there are non-industry-related pressure points by virtue of what we see in the overall markets, in the stock market and some of the currency changes.
+And this all comes to their at the very moment that there is also big technology change and as a company, Synopsys, we've been through this many times in our history, and I think, we know what to do, but it is also true that the better we execute here, the better we will do.
+Sterling Auty
+All right. If I may, just want to squeeze one more in, we watched the technology leapfrog one another between yourselves and Cadence for many, many years, in terms of the industry. I think, Cadence has been very upfront in terms of they believe that they have been gaining share on the software. Aart, you not have that conversation, in terms of percentage of valet. So what I am particularly interested in is IC Compiler II, have you hit that inflection point and do you think we're about to go through a leapfrog back the other way?
+Aart de Geus
+Well, for starters, let me respectfully disagree with your notion that weâve seen leapfrogging between our companies. I think that I would humbly submit that for majority of the products for our entire history, Synopsys has been the state-of-the-art and that is not to degenerate anybody elseâs products because all of these products are hypersophisticated and at times can get very good results for specific customer situation.
+I think said that, itâs a very nature of both companies or all the EDA companies being actually very strong, that has propelled technology forward and is one of the key drivers behind the success of Mooreâs Law. And so I expect that race to continue. Specifically, an IC Compiler II, we are getting now very systemically, very strong results. And the challenge that we face is the great opportunity, itâs not the challenge approving that we have strong technology. It is to now help migrate our customers to the next generation.
+And we sort of reported to you a number of the chips being done but underneath this, there is actually much more activity in the number of chip blocks that are being migrated with Synopsys actually quite substantial. And so while there is a lot of hard work thatâs left to be done, I highlighted the fact that most of our support engineers now are already on IC Compiler II. And we consider that situations where the customer has sort of voted for the long term.
+Sterling Auty
+Great. Thank you, guys. I appreciate it.
+Operator
+We have a question from Tom Diffely with D.A. Davidson. Please go ahead.
+Tom Diffely
+Yeah. Good afternoon. One more question on the consolidation front. Historically, have you seen the biggest impact in EDA based on the number of engineers or seats that have gone away or is it just the customers get better pricing because of volume discounting?
+Aart de Geus
+Itâs an excellent question. I think as far as I can tell, engineers donât go away. And what happens is that in consolidations, the company that buys other company the minute it closes by nature has to push on efficiency for starters to try to repay or recoup the premium that they paid. And so itâs really an efficiency mechanism in an industry.
+Now that efficiency can also manifest itself on the technology side where company say well you know we now have more critical mass in an area or we vertically integrate and we can have a more technical differentiation. And so as an earlier question highlighted, the opportunity space tends to grow after some period of time because the resulting companies are actually in most cases truly healthier and are aimed at the next decade of success.
+And so for us, it is be responsive to the customers as they are often in a financial time of need situation but at the same time keep an eye on making sure that weâre in the game for the long term. And most importantly that we deliver something for the customers that truly increases their value and their differentiation going forward.
+Tom Diffely
+Did they just view that as an inflection points whether there is some share shifting that goes on as well?
+Aart de Geus
+Iâm sorry. I didnât understand the question.
+Tom Diffely
+When you look at consolidations, do you look at it as an opportunity for maybe some share shifting going on?
+Aart de Geus
+Yeah. Absolutely. Sorry. Yeah, of course, there is always share adjustments in various ways. And historically, we have been blessed with having been chosen while often than not in a number of categories to become the lead provider. We hope that will be the case again but that is the discussion of the customer and our job is to make ourselves as attractive as possible to them.
+Tom Diffely
+Okay. And then when you look at kind of midpoint of your fourth quarter guidance, the margins are little bit lower, previous expectations had them. I wonder if the biggest impact there is just increased cost structure from the acquisitions or is it the larger percentage of hardware in the business in the fourth quarter?
+Trac Pham
+Itâs a combination. This is Trac, Tom. Itâs a combination of few things, one is just the continued hiring in our business to the head count for the acquisitions and also traditionally Q4 is our historically the highest expensed quarter.
+Tom Diffely
+Okay. All right. And finally you mentioned emulation in your prepared remarks, it sounds like you're doing well there. We are hearing that there is some pricing pressure in emulation these days. And just kind of curious what your view of the industry is right now and what your longer-term industry growth view is for emulation?
+Aart de Geus
+Sure. Well, I think emulation is interesting field because it has a natural growth just by virtue of the complexity of the circuits having grown immensely but also because the intersection of hardware and software demands just very fast, stimulation of various forms of application. And so in that context, I think that we've seen good growth in all of the EDA companies that provide these technologies.
+Now, when you use the word pricing pressure, you could have used it for last 30 years on any product in our field. The race is always on and so that the pricing pressure is mostly mitigated by saying well therefore, we have to develop better products that are more differentiated than that sort of manages the economic equation. So frankly nothing new under the sun and it applies to any field, be it hardware or software.
+Tom Diffely
+Okay. Youâve not seen any degradation of that market based on your litigation with Mentor Graphics?
+Aart de Geus
+No, none so far.
+Tom Diffely
+Okay. Thank you.
+Operator
+Question from Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Yeah. Thanks. Good afternoon. Aart, I would like to ask first about the business impact of the two new markets that you highlighted as opportunities for you, namely automatic and IoT. And the question is two-fold. First, what do you think the relative benefit to your tools, IT and software integrity businesses might be from either of both of automotive and IoT? Do you think it would be mostly a tools play for you, an IT play or software integrity play?
+And similarly, how do you think one or both of these markets as they develop for you might change the services intensity or services profile of the company? When you look at your counterparts in engineering software for example that serve the automotive market, those engagements are often very services intensive. We know that Mentorâs won some nice deals in automotive that are largely services oriented thus far. So if you or as you develop in automotive yourself and in IoT, you think there is going to be a significant ratcheting up of the kind of services you are going to have to provide and invest in?
+Aart de Geus
+Okay. Let me try to answer Part A, B, C and D of your question here. Maybe going backwards which is for starters. Overall initially these areas, the two focuses is bigger than either services or the software integrity just by virtue of -- these are markets that we have already interacted with quite a bit, only not necessarily in a vertical fashion. And so if we take automotive as an example, automotive has the characteristic that relatively speaking, they are not a super big EDA market but they are sophisticated EDA market not because they drive the state-of-the-art or FinFET for example, but because they have a stringent requirements, first and foremost for safety and then for reliability.
+When you think that that many of these products have to be in tiptop shape for 30 years, you can imagine that thatâs not a trivial task. And so increasingly with the growth of smarts in the cars, I can collect it that and therefore the increase of electronic content. One can see that therefore the attention on this type of conditions has to be higher. And so what we're doing in our tools and you heard in preamble in the IP, we are essentially making it conformant with the automotive standards that apply to the type of areas we touch, which are chip design and other companies may have other aspects.
+I cannot say that we see a lot of services there at the present time. But itâs good you mentioned, we will think about it a bit more. On the IoT side of things, the IoT, unfortunately is a little bit of catch-on for the entire industry and Internet of Things, whatever the things are can lead to many different ways. I sometimes like to call it immensely optimized mystic thinking. And that is because right now many of the actual IoT parts are very low cost sensors connected to some data processing, quickly connecting it into the web where the monies made on the application.
+On the other hand, I do want to take my little optimistic thinking also in a positive direction, which is I think over time, this is really the root of where smarts will come about, because if all of these IoT devices can have a bit more computational capabilities at low power, over time one will see that they will have to work some degree of artificial intelligence, sounds like a big word. But adding smarts to many devices, which brings me to the software integrity aside because the other way to think about IoT and by the way in many ways cars as well, this is the intersection of hardware and software.
+And when you know that there are in advance cars, there is about a hundred million lines of code, as a minimum some shivers need to go down your spine because as you probably have read recently that code too has been hacked by now. And so aside of the traditional, safety and reliability constraints for automotive now security will be on par. And that is where of course our software integrity group will have impact. And the same is too for IoT.
+IoT are really hardware, software intersections where they touch the real world and then they create in many cases a lot of data and maybe some reasoning around it. And all of that has software quality and software security issues. So that is how these all ties together for us. Itâs early from a business size point of view but itâs certainly very promising.
+Jay Vleeschhouwer
+Okay. Thanks. And secondly, you said language to describe the guidance was certainly different. You talked about in future having a wider range of revenues, having to do with the variability of IT and hardware. Now those have been variable all along in anyway as weâve seen and your hardware business to date has sometimes had a good quarter but it's not on the whole have been a particularly large business for you. Has something changed, however, in terms of either market conditions or your competitiveness or both suggesting that over time your emulation business, particularly could be materially larger than itâs been to date and hence the wider range of revenue outcomes?
+Aart de Geus
+So the reason why we increased the revenue guidance range is in fact driven by both, hardware and IP. On the hardware side as youâve seen year-to-date, weâve been doing very well progressively with hardware and that includes both, rapid prototyping and emulation. So, as that business continues to grow and becomes a more material part of our business, we would expect it to be more variable from quarter-to-quarter.
+Jay Vleeschhouwer
+All right. Lastly, as everyone knows from the last six quarters or so, you focused on ICC II of course and that's going to continue to be a major product event for you. The question is now that thatâs undelayable or stipulated or continue to be adopted of course, whatâs next on the tool side do you think as a next major driver to the business? If you set aside IT and the new software business, what else in let's say core EDA might also become a next good incremental way for you, not necessarily as large as implementation, but it might it be simulation or something else in verification? What do you think is next in terms of an incremental driver besides ICC II?
+Aart de Geus
+Well, we actually do think that the other big investment that is now turning to seeing growth and return is actually the Verification Continuum. And the Verification Continuum is coming back because on one hand, itâs many different tools that do get sold individually. But really the value that we are providing here is increasingly inability to use these tools with each other in a fashion that let them be adoptive -- adapted, sorry, adapted much better to the problem that people like to solve.
+And so in order to get there took quite a bit of effort, multiple of years extremely sophisticated programming. And in technical terms that means a common compilation platform meaning the description is understood in the same fraction. It also means a common debugging platform meaning that you can see and interpret and analyze your results in a user-friendly fashion.
+Those were very big investments. And they are now starting to bear fruit. At the very moment that another angle has started to increase in importance, which is this intersection between hardware and software. Are you there finding the hardware in the context of the software or you finding the software in the context of the hardware, or are you really verifying both simultaneously in order to get to market as fast as possible?
+And whichever is the long pool in the tent, you try to eliminate that one. And so that means that the spread that what one verifies is quite broad. Another area that we will see, we expect some good growth in the future is actually the custom area and this is an area that we have invested in for quite a while. We have a number of very new capabilities that we will be talking more about in the coming quarters. But these are all investments that invariably take many years and then when they rollout, the rollout itself is a major enterprise and thatâs what we are doing in verification right now.
+Operator
+We have a question from Monika Garg with Pacific Crest Securities. Please go ahead.
+Monika Garg
+Well, hi. Thanks for taking my question. So, Aart, in the [indiscernible], you were talking about like a 20% growth rate for that segment. Are you still seeing similar growth rates in that?
+Aart de Geus
+Yes. Weâve not changed our perspective on the opportunity space. Of course, since then the good news is I think we've learned a lot, including the fact that it's a space that is extremely fragmented with many loud voices and some that actually have impact on customers. And the fact that we have been able to close what we think are some very, very good acquisitions that have strengthened and broadened our position is a sign that we are, I think gaining confidence.
+No market is simple or easy, but I think itâs rarely visible to most people that software has reached a stage where it needs the next level of -- I will use the word discipline and therefore the tools to enforce that. And by the time you throw the security in it, now you really have to start paying very systematic attention. And our objective is to provide the toolset that allows people to do that.
+Monika Garg
+Thanks. Then question on the Atrenta, maybe you can help us understand how to think about the impact on growth and margins from Atrentaâs acquisition next year?
+Aart de Geus
+Well, normally we donât breakout individual acquisitions of that size in terms of impact. Obviously, it will add revenue and as the haircut as you know, gradually goes away, it becomes rapidly less and less dilutive. It will be slightly dilutive in â16.
+But the reason always hesitant, frankly, to speak about that in those terms is, and the first think we do is to try to integrate tools into something bigger and better. And so, by the end of next year, I don't think that the Atrenta as we knew it quite exist. We have something better and that's actually mostly in the Verification Continuum.
+And so, we think it's actually fabulous technical acquisition and the customer loyalty and utilization has been very good and so this will also help us with a number of key customers as we look at the overall solution.
+Trac Pham
+Iâd add, even though, we stated earlier that collectively the acquisitions will be dilutive for next year. Our goal is still to drive EPS growth in the high-single digits.
+Monika Garg
+Got it. Then last one for me. We have seen massive share buyback by one of your peers. Now you guys have a strong net cash position, generated lot of cash then why not accelerate the buyback?
+Trac Pham
+So, Monika, we think that the combination of buybacks and acquisitions definitely create a lot of value. We -- this particular quarter we happen to emphasize M&A, but overall early this year we did complete the -- we did announce the $180 million of ASR. And when you look back since 2010 to now, weâve bought back more than $1.1 billion of stocks, so we are very committed to that.
+Monika Garg
+Got it. Thank you so much.
+Aart de Geus
+Youâre welcome, Monika.
+Operator
+At this time we have time for one more question. It will come from line of Mahesh Sanganeria with RBC Capital Markets. Please go ahead.
+Mahesh Sanganeria
+Yes. Thank you very much, Aart. Just sure if you can if you can talk a little bit about your strategy on the software security and quality market, you have been pretty active on that in terms of acquisitions? Are we going to see your growth strategy more focused on organic growth or youâre going to be more aggressive on the acquisition side for this market?
+Aart de Geus
+Both an easy answer, yes. Meaning that the good news is we have a very, very good R&D team here. And itâs quite remarkable how for the technology depth point of view and for many of the concept around calculation, understanding of languages, interpreting things, they are just as deep as the deepest people here at Synopsys and they have lot of similarity.
+At the same time, it is also very clear that if we invest in certain areas to broaden the impact they have. For example, with adding some more languages which we are doing, it immediately broadens the potential time of the solutions that we have.
+Having said that, the reason we invested in the security domain is because thatâs too is the domain of specialists. And specialist at times can be a two edge sword because they are sometime specialist that are very narrow problems, where itâs very important to solve them, but it is very difficult to actually make a business off.
+And therefore, you wouldnât be surprised if I said that there are many essentially service companies in that space thatâs new -- if not a great job at least adequate job based on what is understood today.
+Our aim is slightly different. Our aim is to acquire or invest in areas where the problem is systematically growing and where we can offer much more of a platform solution, rather than either a service solution or some very low cost tools. And thus build the business not just similar to what EDA was in the early days for chip design, but now or for IP as a matter of fact, but now do the same in this domain, that is in our opinion still very much emerging.
+And so the acquisitions happen to be cornerstone pieces with very, very talented and experienced people, but that weâre relatively small versus the opportunity space. And having the Synopsys machine and in some ways also the brand behind this gives an opportunity for these technologies to be leveraged much more. So I guess I sort of answered your question by not answering it, because we're doing really both.
+Mahesh Sanganeria
+Okay. Thatâs very helpful. And one more follow-up on the question Krish asked about the Intel talking about extending the development of the product and you answered. But I just want to simplify that a little bit and see if I understand that clearly. Is it fair to say that even if the technology rollout changes from two years to three years, is that the complexity has increased so much that the rate of consumption of EDA doesn't changes? Is that the right way to look at it?
+Aart de Geus
+That is exactly the right way to look at, because the way to look at it is, EDA and that includes all EDA companies, weâre running as fast as we can at this point in time. And by the way I think the semiconductor, the manufacturing guys on technology, theyâre running as fast as they can and the users are adopting as fast as they can and as fast as is economically reasonable.
+And so the reason I make a distinction with the users is because economically reasonable is determined by one more variable, which is ultimately the production yield. And so of course, the manufacturers are trying to drive the yield up like crazy. We are trying to make the designs as yield friendly as possible, and the ultimate volume adoption is a function of that.
+But there is no question that, there is no change whatsoever in the speed of drive of the semiconductor industry, itâs at max, it has always been at max and I think that will continue.
+Mahesh Sanganeria
+All right. Thank you very much.
+Aart de Geus
+Youâre welcome.
+Operator
+At this time, Iâll turn the call back for closing comments.
+Aart de Geus
+Well, I guess that brings us to the turn of the hour. Thank you very much for a very interesting set of questions. And I hope that you have an impression of Synopsys that captures both the momentum and the opportunity space going forward. And we will be available for further questions in one-on-ones as usual. Thank you so much.
+Operator
+Ladies and gentlemen, that does conclude our conference for today. Todayâs conference will be available for digitized replay after 4 PM Pacific Time through midnight on August 26. You may access the AT&T Executive Replay Service at anytime by dialing 1 (800) 475-6701, entering access code, 366153. International participants dial (320) 365-3844. The number again is 1 (800) 475-6701, (320) 365-3844, access code 366153.

@@ -1,0 +1,231 @@
+Alphabet Inc. (NASDAQ:GOOG) Q1 2021 Earnings Conference Call April 27, 2021 5:00 PM ET
+Company Participants
+Jim Friedland - Director, Investor Relations
+Sundar Pichai - Chief Executive Officer
+Philipp Schindler - Senior Vice President and CBO
+Ruth Porat - Chief Financial Officer
+Conference Call Participants
+Brian Nowak - Morgan Stanley
+Doug Anmuth - JPMorgan
+Brent Thill - Jefferies
+Justin Post - Bank of America
+Colin Sebastian - Baird
+Mark Mahaney - ISI
+Michael Nathanson - MoffettNathanson
+Brian Fitzgerald - Wells Fargo
+Operator
+Welcome, everyone, and thank you for standing by for the Alphabet First Quarter 2021 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakersâ presentation, there will be a question-and-answer session. [Operator Instructions]
+Iâd now like to hand the conference over to your speaker today, Jim Friedland, Director of Investor Relations. Please go ahead.
+Jim Friedland
+Thank you. Good afternoon, everyone, and welcome to Alphabetâs first quarter 2021 earnings conference call. With us today are Sundar Pichai; Philipp Schindler; and Ruth Porat.
+Now I will quickly cover the Safe Harbor. Some of the statements that we make today regarding our business, operations and financial performance, including the effect of the COVID-19 pandemic on those areas may be considered forward-looking and such statements involve a number of risks and uncertainties that could cause actual results to differ materially. For more information, please refer to the risk factors discussed in our most recent Form 10-K filed with the SEC.
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP to GAAP measures is included in todayâs earnings press release, which is distributed and available to the public through our Investor Relations website located at abc.xyz/investor.
+And now, I will turn the call over to Sundar.
+Sundar Pichai
+Thank you, Jim, and good afternoon, everyone. After hard year, people in some parts of the world are beginning to rebuild their lives, businesses and communities. But recovery is far from uniform across the globe as the tragic scenes in countries like India and Brazil remind us.
+We are continuing to help support public health officials in their vital and urgent work. Our focus is on providing authoritative information. We are helping over 100 government agencies and non-profits worldwide, distribute critical information and billions of PSAs about COVID-19 and vaccines, and Google Cloud technologies powering a virtual agent to help make vaccination appointments over the phone, supporting 28 languages and dialects for those with limited internet access. We are focused on doing our part to help.
+In some parts of the world, the economy began to rebound, which created a rising tide in the first quarter that benefited a number of sectors, including existing and emerging companies and partners. For example, data suggests that investment in startups is at an all-time high.
+Our product releases are returning to a regular cadence. I am particularly excited that our developer event Google IO is back this year, all virtual and free for everyone on May 18th through 20th. We will have significant product updates and announcements and I invite you all to tune in.
+Today, I will briefly mention a few highlights from the past quarter and go a bit deeper on Cloud. Then Philip will discuss advertising and partnership developments. Finally, Ruth will cover the quarterly results.
+Quickly turning to product highlights of the quarter. Our knowledge and information services like Search and Maps remain at the heart of our mission to provide helpful and accurate information during important moments.
+People have turned to Google Search more than ever since the pandemic began. We see hundreds of millions of searches every day for COVID and related to health information. People are also searching for jobs. To help them, job seekers can now use search to quickly and easily find roles that do not require a college degree and we are working together with a top employment websites to make the service even better.
+Maps, we will be adding over 100 AI-powered improvements this year, such as indoor Live View, which helps you navigate airports, transit stations and malls using augmented reality.
+Last quarter, I mentioned Google News Showcase, our $1 billion investment in the news industry. I am pleased to see continued momentum this quarter with new launches in the UK, Italy, Argentina and Australia. In Q1, we added more than 170 publications across 12 countries with more coming soon.
+With respect to YouTube, people continue to find all types of informational content from educational videos to podcast. In fact, according to a recent study conducted by Ipsos, 77% of respondents say they used YouTube during 2020 to learn a new skill. YouTube Shorts continues to gain popularity with over 6.5 billion daily views as of March, up from 3.5 billion at the end of 2020.
+We have added a new metric to our transparency reports called the Violative View Rate, which will help us estimate what percentage of views on YouTube come from content that violates our policy. In Q4 of last year, YouTubeâs Violative View Rate was between 16 and 18 views out of every 10,000. This is down over 70% compared to the same quarter in 2017, in large part, thanks to our investments in machine learning.
+And we also mentioned Chrome OS, which this quarter celebrated 10 years. Itâs been a valuable tool for millions of students and teachers during the pandemic. According to third parties, Chromebooks were the most popular device in K-12 Education globally for the last year.
+Next, I will move to Cloud, where we continue to see strong performance across both Google Cloud Platform and Workspace. Q1 revenue grew 46% year-over-year, with GCPâs revenue growth rate once again meaningfully about Cloud overall. We continue to unlock the value of the Google ecosystem by signing multi-year multi-product partnerships with companies like Global Payments and Grupo Global.
+And just yesterday, we announced a new Google-wide partnership with Univision, which is migrating to our cloud, continuing to distribute content on YouTube and reaching customers we are play and act.
+In cloud, there are three distinct market trends, shaping our growth and driving our product and go-to-market strategy. First, we see very strong customer momentum in the Data Cloud. Our expertise in real-time data and analytics is winning companies like Twitter and Ingersoll Rand, who are moving their complex data workloads to Google Cloud.
+Our strength in AI and ML is also helping financial services customers, like HSBC, Commerce Bank, SCB Group and BBVA improve efficiency of payments, reduce fraud and risk, and deliver faster payment solutions. This past quarter, we released new functionality for BigQuery, delivering significantly better performance for business intelligence queries.
+Second, we are seeing customers wanting a robust infrastructure cloud in order to create operational efficiencies and reduce IT costs. We are winning large IT transformation deals with companies that are migrating their data centers to Google Cloud. Multi-cloud remains a differentiator as it provides the easiest and most open development environment for customers like Taylorâs allowing them to access and move their data between various plants.
+Third, we continue to deliver helpful innovations to enable hybrid work with Google Workspace. This includes digital tools for frontline workers like nurses and retail store workers, as well as new security offerings. These innovations have helped grow our revenue proceed and the number of seats in the last quarter. Workspace is being adopted by customers, including Keralty in healthcare, Sun Life in financial services and Airbus in manufacturing and aviation.
+Now, a brief update on Other Bets. Waymoâs fully autonomous public ride hailing service in Phoenix is providing hundreds of rides per week. In San Francisco, Waymoâs began limited employee testing. I am pleased by the progress here and look forward to Waymoâs continued momentum under the leadership of new co-CEOs, Tekedra and Dmitri.
+Calico and its partner, AbbVie, announced that it has entered clinical stage programs for new drug therapies for cancer and neurodegenerative diseases, like ALS, Parkinsonâs disease and traumatic brain injury.
+Before I close, I want to mention that in 2021, in the U.S. alone, we plan to invest over $7 billion in offices and data centers, and create at least 10,000 new full-time jobs. And as we do this, we continue to make progress on our sustainability goals.
+We matched our operations with 100% renewable energy for the past four years and we are working towards operating on carbon-free energy round the clock by 2030, a far more ambitious goal that we hope will be transformative for the industry. Five of our data centers in Europe and North America are already operating near or at 90% carbon-free energy around the clock.
+We are also working towards our commitment to help 1 billion people make more sustainable choices with our services by 2022. One example of how we are doing this is a new AI-powered feature in Maps that will show the route with the lowest carbon footprint when ETAs are the same. You will also be able to compare the carbon impact between routes.
+Finally, as we look ahead to the rest of 2021, our four big themes continue to guide us; first, building and providing the most helpful products and services; second, continuing to earn the trust of our users by investing in high-quality information and keeping usersâ data safe and private; third, strong execution as a company, particularly as we start to reopen our offices; and fourth, building sustainable value in our own business and for our partners.
+As always, thank you to our Googlers around the world for a great start to the year. To everyone, I look forward to seeing you at IO. Over to Philipp.
+Philipp Schindler
+Thanks, Sundar, and good afternoon, everyone. Itâs great to be joining you again today. We are pleased with a strong growth in Google Services revenues in the first quarter. Year-on-year performance reflects elevated consumer online activity, broad-based strength and advertiser spend, and lapping of the initial impact of the pandemic on advertising revenues that began in March last year.
+In the first quarter in Search, we saw sustained strength across most categories led by retail. We also saw strong performance in tech and CPG. In YouTube, we had phenomenal growth driven by Direct Response, followed by continued strength in brand.
+We have seen great momentum in TrueView for action ads, with a number of advertisers using the format doubling over the past year. In Network exceptional growth was driven by AdMob and Ad Manager with particular strength in app campaigns. Google other revenues were driven by growth in Google Play and YouTubeâs non-advertising revenues, followed by hardware.
+I would now like to take a few minutes to dive deeper into the trends we are seeing in our business. As Sundar touched on earlier, the pandemic is evolving in different ways across the world. Some countries are in advanced stages of reopening, others are facing reacceleration of cases and thereâs everything in between. Itâs never been more important to help businesses navigate the pandemic as circumstances change.
+On travel, we are starting to see a renewed interest from users as they turn to Google to plan their next trip, even before they are ready to book. Every travel partner is looking to understand where demand is going and we are helping them find these opportunities through insights and automation.
+For American Airlines, for example, that meant using our insight tools to anticipate demand on untapped routes. These newly prioritized routes had a significantly higher booking rate in Search this quarter, compared to last quarter.
+Also, just last month, we made it free for hotels and travel companies to list their booking links, similar to what we did with shopping last year. For consumers, it means more choice. For hotels and travel companies, it means free exposure on Google. For advertisers, it means paid campaigns can be augmented with free listings. We are already seeing positive results across the Board.
+Let me switch gears now and talk about retail where we had a very strong quarter. As you know, we have taken important steps over the past year to accelerate an open retail ecosystem. We made product listings free, remove commission fees and open our shopping platform to Shopify and PayPal.
+We are also helping retailers lean into some key opportunities, such as innovating in omnichannel, as the line between digital and physical retail continues to blur and tapping into commercial intent on YouTube and other surfaces. Let me talk about both.
+Over the last six months peopleâs shopping preferences have shifted constantly in response to changing conditions. Itâs not just online. Itâs not just offline. Itâs a mix. And thatâs our sweet spot with Search, Maps and YouTube.
+Last quarter we talked about a search and searches for available near me and curbside pickup. That trend has not changed. Searches for local and businesses are up 80% versus last year. Omnichannel is here to stay.
+Take Dickâs Sporting Goods. Throughout the pandemic they accelerated curbside pickup, pickup in store and ship from store fulfillment options in Search. This approach contributed to 100% year-over-year increase in e-commerce sales in 2020. And just recently, they activated YouTube to build awareness for new store concepts.
+Michaels, the arts and crafts store also activated their omnichannel fulfillment approach using Search and Maps. And to meet surging demand for art supplies, they use TrueView for action to tap into the vast number of arts and crafts searches happening on YouTube. In 2020, their e-commerce sales were up 350%.
+We are also doing more to help merchants tap into the incredible innate commercial behavior across Search and YouTube. Google Merchants can now plug their product feeds right into the video action campaigns and early adopters are seeing huge results.
+Luxury cosmetics company, Clarins HK had beautiful product imagery from their Google Merchant feed as an extension and saw 68% conversion rate uplift within three weeks. Any merchant can now light this up with a single click in our Google Merchant Center.
+Speaking of YouTube, we are helping advertisers address both brand and performance goals at scale, driving higher return on ad spend at a time when they needed most. We are only a few years in on Direct Response and we think thereâs significant opportunity for innovation that will improve the user experience and provide better ROI for advertisers.
+On the performance side, advertisers of all sizes are actually seeing incredible results. Like Globo Group fitness company, Les Mills was hit hard when their 20,000 partner gyms closed during lockdown. They accelerated digital and grew app subscribers by almost 7x with TrueView for Action.
+We are seeing strong growth in YouTubeâs Brand business, fueled by global consumer trend from linear TV toward streaming video. With over 2 billion monthly logged in users and over 1 billion hours of video watched every day, YouTube is offering advertisers efficient reach to large audiences, which are incremental to those found on TV.
+Large brands are benefiting from this trend. Taco Bell saw 27% incremental reach for their limited time offer campaigns and Kelloggâs saw incremental reach of over 30% for their recent Special K campaign.
+Before I close, I want to take a minute to highlight our work with partners. Sundar mentioned Google News Showcase. We now have deals with 600 plus publishers across more than 12 countries. Le Monde in France, Der Spiegel and Stern in Germany, Clarin in Argentina, Evening Standard in the U.K., just to name a few and we are continuing to expand the program.
+We are also developing more valuable relationships with some of our strategic partners. By teaming up, we are able to build new experiences for our users while helping our partners innovate and grow.
+We have gone well beyond ads to bring the best of Google across Cloud, Play, YouTube and more to help them do just that. Sundar mentioned Univision, in the quarter we also announced T-Mobile, Albertsons, Allianz and Munich Re.
+I want to thank our customers and partners for their collaboration. We have always said, we succeed only when they succeed. And I also want to think of product, partnership, sales and support teams for their amazing work and innovation.
+I will now hand off the call to Ruth.
+Ruth Porat
+Thank you, Philipp. Our very strong financial results in the first quarter reflect both lapping the impact of COVID on our business beginning in March 2020, as well as the benefit of excellent underlying operating performance.
+My focus will be on year-over-year comparisons for the first quarter unless I state otherwise. I will start with results at the Alphabet level, followed by segment results and conclude with our outlook.
+For the first quarter, our consolidated revenues were $55.3 billion, up 34% or up 32% in constant currency, reflecting elevated consumer activity online and broad-based increases in advertiser spending within Google Services, as well as ongoing strength in Google Cloud.
+Our total cost of revenues was $24.1 billion up 27%, primarily driven by other cost of revenues, which was $14.4 billion up 25%, followed by TAC, which was $9.7 billion, up 30%. Within Other cost of revenues, the biggest factors are, first, content acquisition costs, primarily driven by costs for YouTubeâs advertising supported content, followed by costs for subscription content.
+And second, costs associated with data centers and other operations, offset partially by a reduction in depreciation expense due to changes to estimated useful lives of servers in certain network equipment.
+Operating expenses were $14.8 billion, up 4%. In terms of the three component parts of OpEx. First, the increase in R&D expenses was driven primarily by headcount growth.
+Second, sales and marketing expenses were essentially flat, reflecting headcount growth, which was offset by lower spend on ads and promo, as well as on travel and entertainment.
+Finally, the decline in G&A reflects the benefit of lapping the unusually high allowances for credit losses recorded in the first quarter of 2020 due to the impact of COVID offset by charges relating to certain legal matters.
+Headcount was up 4,694 from the fourth quarter, including more than 1,800 Fitbit employees who joined us in Q1. Again, the majority of new hires were engineers and product managers.
+Operating income was $16.4 billion, up 106% and our operating margin in the quarter was 30%. Other income and expense was $4.8 billion, which primarily reflects unrealized gains in the value of investments in equity securities. Net income was $17.9 billion. Operating cash flow was $19.3 billion, with free cash flow of $13.3 billion in the quarter and $50.7 billion for the trailing 12 months. We ended the first quarter with $135 billion in cash and marketable securities.
+Let me now turn to our segment financial results, starting with our Google Services segment. Total Google Services revenues were $51.2 billion up 34%, consisting of Google Search and other advertising revenues of $31.9 billion in the quarter up 30%, with strength across most categories led by retail.
+YouTube advertising revenues of $6 billion up 49%, driven by exceptional performance in Direct Response and ongoing strength in brand advertising. Network advertising revenues of $6.8 billion up 30%, driven by AdMob and Ad Manager.
+Other revenues were $6.5 billion up 46%, primarily driven by growth in Play and YouTube non-advertising revenues followed by hardware, which benefited from the addition of Fitbit revenues. Google Services operating income was $19.5 billion, up 69% and the operating margin was 38%.
+Turning to the Google Cloud segment, including GCP and Google Workspace, revenues were $4 billion for the first quarter up 46%. GCPâs revenue growth was again meaningfully above Cloud overall. Strong growth in Google Workspace revenues was driven by growth in both seats and average revenue per seat. Google Cloud had an operating loss of $1 billion. As to our Other Bets, in the first quarter, revenues were $198 million. The operating loss was $1.1 billion.
+Let me end with our outlook for each segment and our investments more broadly. For Google Services, for the remainder of 2021, year-over-year comparisons will be affected meaningfully by the impact of COVID last year, with a greater benefit in Q2 from an easier comp relative to what you saw in Q1 and then beginning to lap stronger performance in the second half of the year.
+In the first quarter, we continue to benefit from elevated consumer online activity and broad-based strength in advertiser spend. It is too early to say how durable this consumer behavior will be as economies recover and restrictions on mobility are lifted.
+Within Other revenues, Play benefited from an increased level of user engagement starting in Q1 last year due to the pandemic, which we are now beginning to lap.
+In terms of investment levels within Google Services, we still intend to invest aggressively to support the extraordinary opportunities we see. That being said, in some areas, like, travel and entertainment and marketing events, the pace of investment through the balance of the year may be affected by the pace of COVID recovery globally.
+As for Google Cloud, our approach to building the business has not changed. We remain focused on revenue growth and we will continue to invest aggressively in products and our go-to-market organization, given the opportunity we see.
+The operating results in Q1, in part reflects some notable items in the quarter. First, the lapping of the unusually high allowances for credit losses recorded in the first quarter of 2020, as I already mentioned. And second, lower depreciation expense due to the change in the estimated useful lives. Although, the dollar benefit will diminish throughout the course of the year across segments.
+As we have noted previously, operating results should benefit from increased scale over time. However, at this point, we do remain focused on continuing to invest to build the cloud organization for long-term performance. In terms of Other Bets, we continue to invest with a focus on the long-term value creation opportunity.
+Turning to CapEx, at a consolidated level, the results reflect ongoing investment in our technical infrastructure, offset by a slower pace of investment in office facilities, given the ongoing impact of COVID. Within technical infrastructure, servers continue to be the largest driver of investment, as we continue to invest to support Cloud, Search, Ads and machine learning.
+Finally, with respect to capital allocation, our primary use of capital continues to be to support organic growth in our businesses, followed by retaining flexibility for acquisitions and investments. We complement these growth drivers with a return of capital. As we indicated in our press release today, our Board has authorized the repurchase of up to an additional $50 billion of our Class C stock.
+Thank you. And now, Sundar, Philipp and I will take your questions.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] And our first question comes from the line of Brian Nowak from Morgan Stanley. Your line is now open.
+Brian Nowak
+Thanks for taking my questions. I have two. First one for Sundar. I appreciate the color on the four key priorities. I wanted to dig a little more into the build and provide the most helpful products and services. Maybe if you can sort of talk to us about Search, how do you think about the key investment priorities and innovation areas to continue to make Search more and more helpful for your users and your advertisers?
+And the second one for Philipp, maybe similar question on YouTube. Youâve done such a great job in innovation around YouTube. Where do you see the largest incremental opportunities for further innovation at YouTube to deliver more outsized value for your advertisers? Thanks.
+Sundar Pichai
+Thanks. On Search, great question. I still think we are in very early stages. Recent example, which I was proud of was when the ship was stuck in the Suez Canal and then it got out. If you ask the question to Google, I think, very soon after that we had the right answer. It seems obvious to do except we need to provide right answers and without giving wrong answers or misinformation for many other things. So to do that is where all our underlying investments go and thatâs how we think about it over the long-term.
+BERT last year, I think, was a great example of it. It was one of our biggest quality improvements and that was based on the transformer breakthrough from our Google AI team, which laid the foundation for it.
+So we are continuing to invest that way in the deep technology as the web is scaling up. Thereâs more information than ever before. So thatâs a big part of what we are doing. Beyond that, there is a lot of opportunity to improve the user experience. You have seen our efforts around shopping. Thatâs one aspect of how we are working hard to improve the experience there. So - but we are looking at it pretty deeply. Philipp?
+Philipp Schindler
+Yes. On the YouTube side, let me start with our Direct Response business, growth was truly exceptional this quarter. DR was practically non-existent on YouTube a few years ago and itâs now a large and fast-growing business and we are just getting started in my view.
+People already, as you know, go to YouTube to decide what they want to buy, and we want to make it easier for them to buy and make the discovery process overall a lot easier. And for creators, we launched new shoppable capabilities. So viewers can actually make purchases from their favorite creators directly on YouTube.
+Just as an example, as part of our Brand Connect program, Calvin Klein tested these and drove over. I think it was, 200% lift in brand search and sold out multiple products actually. For merchants, they can now bring their product feeds directly into their video campaigns and I think we are still scratching the surface on whatâs possible really with commercial intent on YouTube.
+And then there is, of course, the opportunity to be a major platform for brands. Historical approaches to reaching audiences through, letâs just say, call it, linear TV donât really work anymore. Advertisers are using YouTube now to reach the audience they canât find anywhere else. And remember, more 18- to 49-year-olds are actually watching YouTube than all linear TV combined and brands are also seeing more incremental reach on YouTube compared to TV.
+So we are starting to see advertisers by a mix actually of awareness and more action-oriented formats. They are driving reach and results across the funnel from awareness to consideration to action. So we see a lot of really interesting opportunities here.
+Brian Nowak
+Great. Thank you both.
+Operator
+Thank you. And our next question comes from Doug Anmuth from JPMorgan. Your line is now open.
+Doug Anmuth
+Thanks for taking the questions. I have two. First, Ruth, just want to ask you about Cloud. You saw some significant benefits just from the change in useful life. But I think in the past, you talked about 1Q perhaps being the biggest loss of the year. I was just curious if thatâs still the case in your view going forward? And then, secondly, just given the management transition that we have seen at Waymo, should we expect any change in terms of how things are operated there going forward? Thank you.
+Ruth Porat
+Thanks for the question. So in terms of Cloud and overall performance, I think, the main point I would say is, I wouldnât extrapolate generally from quarter-to-quarter, given we are still in the early stages of building the business. We do intend to continue to invest meaningfully in Cloud given the opportunity.
+And so, as you said, there were a couple of things that benefited margins in the quarter, both the depreciation expense item, but also lapping the unusually high allowance for credit losses that were recorded back in the first quarter.
+So, the main takeaway is we are continuing to invest. We will invest aggressively in products and go-to-market where we have talked about quite consistently over time. And itâs much as operating losses and operating margin will benefit from increased scale over time. At this point, we do remain focused on investing to build the organization for long-term performance.
+Sundar Pichai
+And Doug on Waymo, John is stepping down our CEO and itâs been -- heâs been planning for this transition, and Dmitri and Tekedra have been working closely with him. And so, we will continue our investments there.
+Pretty excited that the fully autonomous experience of Waymo One is available in Phoenix and we are also accelerating the development of our next-generation Waymo Driver to deploy it in San Francisco.
+And this past quarter, Waymo had begun limited rider testing in San Francisco. And so really focused on making sure we make the hard technical progress, so that we can operationalize this and so we will continue as executing towards that.
+Doug Anmuth
+Okay. Thank you both.
+Operator
+Thank you. And our next question comes from Brent Thill from Jefferies. Your line is now open.
+Brent Thill
+Thanks. As it relates to some of the harder hit industries, I am curious if you could just characterize the shape of the recovery what you are seeing across travel and in some of the other sectors? And have there been any verticals that you have yet to see recover that may pullout in the second-half of the year? Thank you.
+Ruth Porat
+So, overall, what we indicated is the strong results reflect, in part lapping the impact that we saw starting late in Q1 of last year and then a pickup in a number of areas. I think the main thing we would want to leave you with is that, we are seeing, in part an acceleration in the shift to digital, but itâs too early to forecast the extent to which these changes in consumer behavior and advertising spend will endure.
+There are some obvious examples, if you think about, for example, the bump in consumption for things like outfitting your home to work-from-home, obviously, that doesnât repeat. And so our main thing is that we think itâs premature at this point to really assess that how durable this consumer behavior trends are.
+Brent Thill
+In travel, specifically, have you -- can you just give us any color in terms of what you are seeing on that front?
+Ruth Porat
+Yes. Nothing more to add. Philipp had a couple of comments about some of the areas where we are trying to innovate to be helpful to our partners, but beyond that nothing to add.
+Brent Thill
+Great. Thank you.
+Operator
+Thank you. And our next question comes from Justin Post from Bank of America. Your line is now open.
+Justin Post
+Maybe one for Philipp and one for Ruth. First, Philipp, you mentioned a couple of times the durability of the improvement is tough to gauge. Maybe you can help us understand what the key drivers of Search that you are thinking about over the next couple of years? Is it queries, product improvements, certain changes in verticals like shopping? How are you thinking about driving Search growth? And then maybe for Ruth, model showed great efficiency last year on the cost side and margins. Anything you are learning or experiences during the pandemic that we can think about post-pandemic on cost efficiencies or things like that? Thank you.
+Philipp Schindler
+Yes. Thank you. Thank you so much for the question. I usually look at the different components of Search as basically four key drivers. The first one obviously being the queries, so are we really the best place for users to turn to when they need information.
+The second one is, I would call it, as coverage. So what percent of coverage is really commercial and then what percentage are we actually covering with ads. And then we need to ask ourselves, do both of these have upside.
+The third one is click-through rates or individual. At click-through rates close to being optimized, is there more we can do it here by just delivering better creative, better ads, better answers, to what extent can we deploy next-generation machine learning here.
+And then the last one is obviously the CPC, right? How much is someone willing to bid for click on their ad and this is obviously to a large extent driven by the quality of traffic we are sending, and then conversion rate is a big driver of this.
+So we are working very closely with our partners, advertisers and so on across the world to help them optimize their conversion rates and their O/I. Those are really the four big components and I am excited about all four of them actually.
+Ruth Porat
+In terms of your question on efficiency, appreciate the question. I think, at the highest level, the approach is unchanged. Our approach on investing capital allocation is first and foremost to support long-term growth with financially sustainable businesses. Itâs about being sharper within product areas and then making sure we are investing.
+And what I keep referring to is operational excellence, things like our technical infrastructure, systems to improve productivity, to improve velocity of our product teams and then the very important efforts around privacy and security and content moderation.
+And I think, to your question, the experiences of this past year underscored really the value of having made those investments to protect and support operational excellence. It really served us well and customers in our ability to deliver throughout this period of time.
+So that framework is unaltered. I think that part of what you are seeing in the first quarter, I have said it a couple of times now, but are some notable items in the quarter. The lapping of the allowance for credit losses, the benefit from depreciation life and then there were certain things that were due to COVID just the lower impact for things like T&E and marketing.
+And so the main point is we will continue to invest for long-term growth, so that in both areas, Google Services and Cloud, and we will continue to maintain that framework that you referenced about looking for efficiencies where they are, but ensuring that we can deliver for users and customers.
+Justin Post
+Great. Thank you.
+Operator
+Thank you. And our next question comes from Colin Sebastian from Baird. Your line is now open.
+Colin Sebastian
+Great. Thanks. Good afternoon. Sundar, first, you have highlighted for years that machine learning is clearly a strength and differentiation of the overall platform, including in Cloud Services, where we are also seeing competitors focus more on their capabilities here. So I am wondering if you could talk about the pace of change around data science and how Google can sustain its competitive advantage in those areas? And then, Philipp, I wanted to follow-up on the momentum in Search that you attribute to Google Shopping. Is it fair to say that the shift to free product listings has led to the desired increase in retail advertising across the platform or are there other reasons beyond the pandemic that you attribute for that success? Thanks.
+Sundar Pichai
+Colin, on -- thanks. Obviously, as we are thinking about AI, it all starts with foundational R&D we do. I think we are one of the largest R&D investors in AI in the world. And so thinking ahead and doing that and we are doing it across all the foundational areas and we are taking many diverse approaches.
+So as we make breakthroughs, I earlier spoke about transformers and how that translated as BERT to improve search quality. And similarly we are very committed to taking the AI improvements and bringing it through our GCP offerings to our enterprise customers as well.
+So itâs an approach we are deeply committed to and we are thinking as it -- at all layers of the stack. So this is why you see us work hard on TPUs and we think about the tool chain for developers on top of all that.
+And so -- and I think if I look at the progress ahead, I think, thereâs a lot more progress coming down the pipe and so I am pretty excited and thatâs why I feel Google -- GCP will be differentiated over time as our competitive advantage. Philipp, over to you.
+Philipp Schindler
+Yes. And on the Shopping side, look, itâs been a year since we brought Bill onboard, Bill Ready and we pivoted our Shopping strategy to better support retailers and consumers, trying to really build an open retail ecosystem and we are pleased with the progress we are making.
+As you said, free listings and zero commissions have actually lowered various online retail. Shopping ads continue to be a powerful way for retailers to promote their products and the combination of free and paid is a meaningful one.
+We had a set of new partnerships with Shopify and PayPal that are giving retailers a lot more choice. And we will continue to simplify the, let me call it, end-to-end user and merchant experience, of course.
+In particular, we are trying to streamline and working hard to streamline the back-end experience for merchants, especially for hybrid retailers. So, retailers that play in both brick-and-mortar and in digital. And overall we want to make it much, much easier for retailers to get started on Google and have their information appear across surfaces and I mentioned overall strength in retail before. So thank you.
+Colin Sebastian
+Thanks, guys.
+Operator
+Thank you. And our next question comes from Mark Mahaney from ISI. Your line is now open.
+Mark Mahaney
+Thanks. I wanted to ask about your attempts to retain advertisers, and I ask it this way, I think, we have had record numbers of new business formations in the country and around the world on the unfortunate impact of COVID. But I think thatâs my guess is, itâs been a huge tailwind for your business? At the same time we have had this real tip over I think of linear TV ad budgets in the back half of the year onto online channels like YouTube. So talk about these new advertisers that you have brought on to the Google platform? What you have been able to do? How confident you are in your ability to retain them, you are advertiser retention strategy? Thanks a lot.
+Philipp Schindler
+So, I can take this. I mean a lot of the new advertisers that you are referring to are obviously SMBs and there is no doubt that this has been a challenging year for SMBs. The pandemic has disrupted how many of them connect with their customers.
+But frankly, the pandemic has also been a catalyst for key consumer trends. Obviously, creating a lot of new opportunities for small businesses, and obviously, consumers are spending more time online. They are buying more online. They were willing to try new brands and they are eager to support local businesses, SMBs.
+So searches for support local businesses are up significantly since last year and we have been focused really on helping SMBs with simpler tools, so they can actually embrace digital a lot faster.
+And thatâs where we have really invested over the year, making everything simpler. We had a very wide range of solutions to help them get online, get discovered across all of our key product, Search, Maps, YouTube and so on. There is multiple, multiple fascinating stories from them coming back to us and we see this positively reflected in our rates here as well.
+Mark Mahaney
+Okay. Thank you, Philipp.
+Operator
+Thank you. And our next question comes from Michael Nathanson from MoffettNathanson. Your line is now open.
+Michael Nathanson
+Thank you. I have two, one, Philipp, one for Ruth. So on -- the question is on Search. I wonder if we step back, which categories, which geographies, do you think you are still underrepresented as a percentage of marketing spending, where we could see potentially even more lift to come? And then to Ruth, we always asked in the past that CapEx spending in order to change useful life. But I wonder has this pandemic change maybe your approach to the office space that you bought and thinking about how the company is going to deploy capital in terms of space going forward and how we think about the future of CapEx next couple of years based on post-pandemic?
+Ruth Porat
+Philipp seems to be on mute. I will go ahead and start on the CapExâ¦
+Michael Nathanson
+Okay. Yes
+.
+Ruth Porat
+â¦ question.
+Michael Nathanson
+Thank you.
+Ruth Porat
+So, in terms of CapEx, I think, I will address two parts. You asked about office facilities, but I do think itâs important to know, we are continuing to invest in our technical infrastructure and thatâs what you saw again here this quarter and we will continue to do so to support growth that we are seeing in Cloud, in Search, in Ads and machine learning, no change there.
+So you will be seeing that. But the core of your question was really about office facilities and I think itâs -- we have been very clear, we do value bringing people together in the office and we are looking at a hybrid work-from-home/work-from-office model.
+As we look forward at developing our real estate footprint for offices, what we factor into it is, first, we are growing our headcount, we are looking at less density per employee. So even with a hybrid work environment, we will continue to need space and so we are continuing to build out our campuses and office facilities.
+What you saw in the first quarter was a slightly slower pace for that and a slower pace on fit-outs, as well as we are evolving what does the space look like. But we expect to continue to pick up the pace there as we fit out our spaces for this kind of a new re-imagined environment. So we will continue to be investing in campuses around the globe as we have been.
+Philipp Schindler
+Yes. And on your first part of your question, look, we are looking at our business from a very global perspective and are excited about it. Keep in mind, we are not just addressing above the line marketing budgets from an addressable market perspective, so not just traditional advertising, TV advertising and so on.
+Below the line budgets are really significant, everything promotional pricing, product placements, sponsorships and so on and so on. So there is this massive acceleration in e-commerce due to the pandemic. Still more than 80% of commerce is still offline. So there is a huge opportunity here across the world for us to tap into those other budgets.
+There are really traditional use in a very different context. So there is plenty of room for growth here and I talked about how we look at it from a queryâs perspective from a commercial instant -- intent perspective. We are trying to use machine learning really smartly here.
+But the real focus in the end has to be, how do we actually make our partner successful, how do we drive incremental ROI for them and as long as we continue this well, I think, we should continue to see budgets move our way as well.
+Michael Nathanson
+Thank you.
+Operator
+Thank you. And our final question comes from the line of Brian Fitzgerald from Wells Fargo. Your line is now open.
+Brian Fitzgerald
+Hi, guys. You mentioned the strength in the supply side products in the Network business. I am wondering if you might be able to comment on how the demand side products are doing. And maybe in a similar vein, some of the changes you have made in that technology over the last few years? May have had the effect of drawing some of your advertiser customers more deeply into your tech stack, wondering if this is also creating a strong on ramp in GCP specifically around data analytic products like BigQuery? Thanks.
+Ruth Porat
+So in terms of overall on Network revenues, as I think I noted briefly in opening comments, what we are really seeing is the ongoing strength in advertiser spend, both Philipp and I talked about that.
+Particularly what we saw was AdMob and Ad Manager, and particular strength in app campaigns. And all of this just underscores what each of us commented on that. The results do reflect what was broad based strength across our partnersâ properties in the first quarter.
+Brian Fitzgerald
+Thanks, Ruth.
+Ruth Porat
+Thank you.
+Operator
+Thank you. And that concludes our question-and-answer session. Iâd like to turn the conference back over to Jim Friedland for any closing remarks.
+Jim Friedland
+Thanks everyone for joining us today. We look forward to speaking with you again on our second quarter 2021 call. Thank you and have a good evening.
+Operator
+This concludes todayâs conference call. Thank you for participating and you may now disconnect.

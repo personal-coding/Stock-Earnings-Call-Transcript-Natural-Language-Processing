@@ -1,0 +1,258 @@
+Skyworks Solutions (NASDAQ:SWKS) Q2 2012 Earnings Call April 26, 2012 5:00 PM ET
+Executives
+Stephen Ferranti - 
+David J. Aldrich - Chief Executive Officer, President and Director
+Donald W. Palette - Chief Financial Officer, Principal Accounting Officer and Vice President
+Liam K. Griffin - Executive Vice President and General Manager of High Performance Analog
+Analysts
+Parag Agarwal - UBS Investment Bank, Research Division
+Anne Edelstein
+Blayne Curtis - Barclays Capital, Research Division
+Alex Gauna - JMP Securities LLC, Research Division
+Craig A. Ellis - Caris & Company, Inc., Research Division
+Aalok K. Shah - D.A. Davidson & Co., Research Division
+Ittai Kidron - Oppenheimer & Co. Inc., Research Division
+Edward F. Snyder - Charter Equity Research
+Cody G. Acree - Williams Financial Group, Inc., Research Division
+Matthew Thornton - Avian Securities, LLC, Research Division
+Dale Pfau - Cantor Fitzgerald & Co., Research Division
+Jonathan Goldberg - Deutsche Bank AG, Research Division
+Jaeson Schmidt - Craig-Hallum Capital Group LLC, Research Division
+Sujeeva De Silva - ThinkEquity LLC, Research Division
+Vijay R. Rakesh - Sterne Agee & Leach Inc., Research Division
+Quinn Bolton - Needham & Company, LLC, Research Division
+Operator
+Good day, everyone, and welcome to the Skyworks Solutions Second Quarter Fiscal Year 2012 Earnings Call. This call is being recorded. At this time, I'll turn the conference over to Mr. Steve Ferranti, Investor Relations for Skyworks. Mr. Ferranti, please go ahead.
+Stephen Ferranti 
+Thank you, Jamie. Good afternoon, everyone, and welcome to Skyworks' Second Fiscal Quarter 2012 Conference Call. Joining me today are Dave Aldrich, Don Palette and Liam Griffin. Dave will begin today's call with the business overview, followed by Don's financial review and outlook. We will then open the lines for your questions. 
+Please note that our comments today will include statements relating to future results that are forward-looking as defined in the Private Securities Litigation Reform Act of 1995. Actual results may differ materially and adversely from those projected as a result of certain risks and uncertainties including, but not limited to, those noted in our earnings release and those detailed from time to time in our SEC filings. 
+I would also like to remind everyone that the results and guidance we will discuss today are from our non-GAAP income statement, consistent with the format we've used in the past. Please refer to our press release within the Investor Relations section of our company website for a complete reconciliation to GAAP. 
+With that, I'll turn over the call to Dave for his comments on the quarter.
+David J. Aldrich
+Thanks, Steve, and welcome, everyone. I'm pleased to report another strong performance for our second fiscal quarter 2012, in which we exceeded prior guidance, and we outpaced seasonal trends. Our second quarter results demonstrate how our diversification strategy, our flexible business model and ongoing focus on operational execution contributed to healthy financial returns in the seasonal trough, but more importantly, positioned us to outperform through the remainder of the year. 
+Specifically during the second quarter, we posted revenue of $365 million. That's ahead of our guidance of $360 million and is up 12% year-over-year. We maintained best-in-class margins, producing second quarter operating income of $84 million. We earned $0.42 in diluted earnings per share, and that's $0.02 better than our guidance. And we generated cash flow from operations of $117 million. 
+And looking back at the first half of our fiscal year, despite a product transition at one of our key customers and despite March quarter seasonality, we maintained strong profitability, producing a cumulative $189 million in operating income, we earned a combined $0.92 in diluted earnings per share, and we produced $194 million in cash flow from operations. These accomplishments demonstrate Skyworks' differentiation and highlight the sustainability of our business model. And we see our momentum strengthening in the current June quarter and accelerating in the September quarter based on strong first half design win activity and a robust opportunity pipeline. 
+At a higher level, the global megatrends of mobile computing and ubiquitous connectivity will provide powerful growth engines for Skyworks in the coming years and are fundamentally reshaping the world around us. As an example, wireless is becoming the next strategic pipe for content delivery. Upcoming smartphone and tablet platforms feature multi-core processing, high-definition displays and lightning-fast data speeds, making them the ideal third screen for consumers and blurring the traditional boundaries between televisions, PCs and mobile devices. 
+Cloud-based services are expanding at an incredible pace. Content providers like Google, like Microsoft, HBO, Amazon and many others are building out massive libraries of cloud-based on-demand content. And the result is an exploding demand to be connected to the cloud. 
+And also, mobile is displacing landline broadband. Today, the capabilities of LTE can exceed equivalent wireless services like DSL to a point where mobile broadband is becoming a viable alternative to wireline. This is especially the case within the emerging markets where virtually all of the growth in new broadband subscriptions is from mobile devices. These megatrends are in the early stages, and they'll play out in the span of the next decade. But there is some very tangible offshoots that were strengthen -- that we see strengthening our business today. 
+During 2012, LTE devices will hit critical mass. A recent forecast by Strategy Analytics suggests that LTE shipments could grow by nearly ten-fold in 2012. As demand for global roaming expands, smartphones and tablets that incorporate only 1 or 2 regional LTE bands will begin to adopt additional LTE frequency, along with full backward compatibility to 3G and to 2G. Also during 2012, smartphone adoption will skyrocket in developing countries. According to recent market research, smartphone growth in China and India could nearly double this year and approach 200 million units. The embedded base of 2G subscribers is tremendous, creating a massive upgrade cycle that will play out over the next few years. 
+And finally, wireless connectivity will expand into even more consumer devices. By 2016, analysts forecast that there will be over 10 billion connected devices. Wireless attach rates are exploding in traditionally unconnected devices like gaming platforms, like televisions, appliances, set-top boxes and many others. 
+So as an enabler of wireless connectivity in all its forms, Skyworks is uniquely positioned to capitalize on these trends. We see all of these driving substantial growth in our TAM, driven primarily by 3 factors. First, the average dollar content will continue to rise within our RF front-end market. As smartphones replace feature phones, our core TAM will grow at around a 15% compounded rate, as band count and complexity rise with the adoption of new LTE bands. Second, on top of all this, we are capturing incremental -- the incremental new dollar content within mobile devices with our growing portfolio of antenna switch modules or ASMs, wireless networking front-end solutions, a GPS low-noise amplifiers, and now power management and display and backlighting solutions. And I think it's worth noting that none of these products were in our portfolio just 18 months ago. In fact, today, we find ourselves pursuing as many as 7 or more addressable sockets per device as compared to 1 or 2 PA sockets just a couple of years ago.
+And finally, we're leveraging the core competencies from our mobile segment to expand into entirely new high-margin vertical markets. For example, within our high performance analog products, we're seeing a tremendous amount of activity in wireless networking and wireless networking solutions. Wireless connectivity is becoming a critical link to access content in the cloud or to stream video and other rich media content. And next-generation technologies, like 802.11ac, utilize multiple transmit and receive chains, dramatically ratcheting up RF complexity. Much like the cellular market, performance requirements are becoming more critical, complexity is going up and overall RF dollar content is rising. 
+And Skyworks has established a strong early-mover leadership position, and we've already secured over 20 design wins across a variety of 802.11ac-enabled devices including routers, set-top boxes, netbook PCs, USB dongles and others. And we expect to begin high-volume product shipments later this year in support of late 2012 product launches. 
+Okay, now, turning to our second quarter in our mobile internet business, we secured new design wins on Samsung's Galaxy S3 platform with an entire suite of Skyworks products. This include multi-mode transmit modules that include high-efficiency LTE amplifiers, wireless LAN front-end, GPS LNAs, antenna switch modules and power management products. In addition, during quarter, we captured new socket wins on a host of new smartphone and tablet platforms from Huawei including the LTE-enabled MediaPad and Ascend smartphone lineup. We ramped our integrated multi-mode engine on the HTC 1 smartphone platform. 
+And finally, we entered into high-volume production with our SkyHi family of ultrahigh-efficiency amplifiers in support of several major platform launches for 2012. These are the highest efficiency amplifiers in the market today, and we're seeing tremendous design and activity across our customer base. 
+Now within our high-performance analog business, we captured new design wins in the quarter across a number of very diverse applications. These include connectivity sockets in Sony's high-end gaming platform, custom switch modules in a military avionics applications for ITT systems, a 16-channel backlighting controller for high-definition LED televisions from LG and others, a next-generation leadless implantable defibrillators with our portfolio of optocouplers, and remote gas meter reading solutions with Aclara. Increasingly across all of our markets, we see a narrower pool of competitors with the engineering capabilities and the full technology portfolio of Skyworks. Looking ahead, we see this trend accelerating. With the advent of more sophisticated RF signal processing and more complex modulation requirements to support higher and higher data rates. 
+So in closing, our second quarter marked another strong performance for Skyworks. We believe that our strategy of continuing to diversify our business, expanding into new vertical markets, while maintaining a laser focus on operational execution, is clearly working. 
+And with that, I'll turn it over to Don for his financial review.
+Donald W. Palette
+Thanks, Dave, and thanks for joining us, everyone, today. I'll first provide a summary of our second quarter results and then outline our business outlook for the third quarter of fiscal 2012. 
+Revenue for the second fiscal quarter was $364.7 million. That's up 12% year-over-year. Gross profit was $157.5 million or 43.2% of revenue. Operating expenses were $73.7 million, consisting of R&D expense of $45.4 million and SG&A expense of $28.2 million, which yielded $83.9 million of operating income and a 23% operating margin. 
+Cash taxes were $3.8 million, translating into a 4.5% tax rate, slightly better than our prior guidance. Net income was $79.8 million or $0.42 of diluted earnings per share, $0.02 better than our guidance, including a $0.01 tax benefit. 
+Turning to our second quarter balance sheet and cash flow statement. We generated $117 million in cash flow from operations. We invested $26 million in capital expenditures and had depreciation of $18 million. We expect capital expenditures to remain above depreciation levels through the remainder of fiscal 2012 as we increase capacity across all of our facilities in preparation for second half product ramps. These investments -- these CapEx investments consist of equipment add-ons within our existing facilities which have a very quick payback. That expands our product margins and our return on invested capital. And finally, we exited the quarter with $307.3 million in cash. 
+I wanted to briefly highlight for you how the strength of our business model has translated into strong earnings and cash flow, and that's enabled us to significantly improve our balance sheet and capital structure. Since the beginning of fiscal 2011, we've generated a cumulative $560 million in cash flow from operations. We retired the remainder of our convertible debt in favorable terms and without any equity dilution. That makes us debt-free for the first time in Skyworks' history. We completed strategic all-cash acquisitions, which significantly expanded our addressable markets, and we repurchased 3.5 million shares of our common stock at an average price in the low $20 range. 
+Now for our third quarter 2012 business outlook. We are guiding third quarter revenue to be a 5% sequentially. So assuming revenue of $383 million, we suggest modeling gross margin in the 43.5% range. Looking ahead, we do see gross margins continue to improve as revenue growth accelerates through the remainder of the year and as we realize synergies associated with our recent acquisitions. We expect third quarter operating expense to be roughly $76 million. Below the line, we expect $300,000 in expenses from interest income and other expenses. And we now expect our cash tax rate to be around 7% for the remainder of fiscal 2012. And as a result, we expect our non-GAAP diluted earnings per share to be $0.44, and that's on a base of 192 million shares. 
+So that concludes the prepared remarks. So, operator, why don't you go ahead and open up the line for questions?
+Question-and-Answer Session
+Operator
+[Operator Instructions] And we'll take our first question from Parag Agarwal with UBS.
+Parag Agarwal - UBS Investment Bank, Research Division
+The first question is there has been -- I mean, there had been some shortages of baseband from Qualcomm on 28-nanometer products. Just wondering if that shortage has impacted your results or the outlook for the next quarter, and by how much.
+David J. Aldrich
+Thanks, Parag. This is Dave. We have seen some demand pushout based on shortages. It's been factored into our June guidance. And I'll just add that diversification in our end markets and diversification among the -- our customer set within our mobile business is helping us -- it always helps us to minimize the impact of these kinds of swings. But it's all been factored into what we talked about in our Q3 guidance.
+Parag Agarwal - UBS Investment Bank, Research Division
+Okay fair enough. And the second question is that you are leaded to a strong second half starting from the September quarter. Just I'm not asking for a specific guidance, but do you think the strengths in your business will be better than seasonality in the second half?
+David J. Aldrich
+I do, and it's really driven by specific program ramps across both our high-performance analog and our mobile business.
+Operator
+We'll take our next question from Vivek Arya with Bank of America Merrill Lynch.
+Anne Edelstein
+It's Anne Edelstein calling in on Vivek's behalf. We just had some questions about your diversification strategy. It seems like you guys did a good job with that last quarter. We were wondering how exactly your strategy is going to change as the top 2 players, Apple and Samsung, continue to concentrate smartphone handset customers, and as your competitors seem to steadily gain share at those platforms, how you can differentiate yourself?
+David J. Aldrich
+Okay well, that's a pretty broad question. Let me kind of break it up a little bit. The way we are able to deal with customer concentration is the best way possible, which is to try to be a strategic partner and aligned with all of the customers, with all the major customers. We've done a very good job of being able to do that. Furthermore, we focus on our chipset and baseband partners. And by being lined out with virtually every chipset in the market today, we are able to address those swings. So as OEMs look to bring forth a new platform and they begin with a reference design, we're on that reference design, and we're well positioned with their chipset partners. So I think those 2 things allow us to be as diversified as one can be within the mobile business. It has some inherent concentration. Beyond that, we look to diversify into new markets. Logically, we have a high-end performance analog business. We have a strong, robust catalog business, so we're able to address markets like wireless infrastructure, automotive, we talked today about medical, so we have a diverse set of markets we address, which also gives us an opportunity to have less volatility.
+Anne Edelstein
+Okay. And then can you just tell us how many, and if so, which ones are your 10% customers, 10% or greater, and if any of them are over 20%?
+Donald W. Palette
+Sure, Anne. We had 3 10% customers for the quarter, and they were Foxconn, Samsung and Nokia. And -- but we don't break it out beyond who is the top 10% customers in a quarter.
+Operator
+And we'll take our next question Blayne Curtis with Barclays.
+Blayne Curtis - Barclays Capital, Research Division
+Maybe just for reference, if you could just, in the March quarter, breakout RF and linear. And then when you look at the strength you're seeing in June, I mean, clearly, one of your competitors had a customer that was down in June. You seemed to be able to offset that. Any color on where your offsets are coming from would be helpful.
+Donald W. Palette
+Blayne, I'll just take the housekeeping question first. The -- for the quarter, we were at 35% linear HPA and 65% handset smartphone, which is consistent with the percentage we were at last quarter. There really wasn't a change in it.
+David J. Aldrich
+And to explain the second part of your question, we're seeing some strength in our Korean customer base, we're seeing strength with some of our Chinese customers like Huawei, our HPA portfolio is performing very well, the catalog business is strong, and we're seeing WiFi and some of the connect rate with gaming and some of the home automation markets doing very well for us. It's a combination of those things.
+Blayne Curtis - Barclays Capital, Research Division
+And then maybe just following up on the WiFi, I mean, you highlighted 802.11ac. You talked about late year ramps. I was wondering if you could just frame -- I know it's a high content, maybe just from the unit opportunities this year, and next is sort of the adoption curve there.
+David J. Aldrich
+Sure. Yes, I think this year, we have right now, just to give you a little bit of a backdrop, we have a very strong position with the leading chipset provider, and by virtue of that, have a fairly strong insight into the OEMs and the ramp that we'll see late 2012 and into 2013. So we believe that's going to be a pretty aggressive phase in. We're bringing ac up in 11, and we'll roll out. You see gigabit speed with 11ac, you see MIMO, we have literally multiple screens, so you'd double or triple your RF content. We see that playing out late 2012 as a ramp and then into 2013 and beyond. We're really excited about it. And as I said, we have very good visibility into the chipset in the OEM side.
+Operator
+And we'll take our next question from Alex Gauna with JMP Securities.
+Alex Gauna - JMP Securities LLC, Research Division
+I was wondering if you could talk about your Nokia exposure, that it's greater than 10%, how is that revenue trending for you? I know you can't get into too much detail, but with regard to the upgrade cycles with some of the legacy exposure, how should we think about that as a risk factor for you or an opportunity?
+David J. Aldrich
+Thank you, Alex. Liam?
+Liam K. Griffin
+Certainly, Nokia, as Don indicated, are 10% customer for us, and we have a very broad footprint from 3G, very high-end, even LTE-enabled phones, and in this year, down to the lower-end 2G business. We continue to work very hard to gain share. I think one of the things that you should expect from us, as we get into 2013, is to go beyond the power amplifier space. We're currently working with them on GPS products. We have a great opportunity for the antenna switch modules. And quite frankly, the power management IP that we bring forth today could be a real driver for us into 2013.
+David J. Aldrich
+And I think, just to add onto that, Alex, it really is, again, part of our diversions -- our diversification strategy. Nokia has been a great customer of ours. They build a lot of phones. And as we see, shares move and the strategy has changed. We just always want to make sure that as we see our OEM share shifts, we're there to address the entire base, and we do a pretty good job with that.
+Alex Gauna - JMP Securities LLC, Research Division
+Yes and a follow-up on that, could I ask -- you mentioned Huawei earlier. Are there any other players getting close to that 10% mark? I know HTC has been important to you, Huawei, how are those second tranche customers doing? Anybody knocking on the door at 10%?
+Liam K. Griffin
+Yes. Huawei and ZTE both -- they're not 10% customers, but I think that they are really the big guns that they are in, in China, of course. And what we like is, unlike some of the challenges that you see with 2G business in open-market China, Huawei and ZTE really have been playing up with 3G and LTE ramps. We also like the infrastructure opportunities there. As you start to see subscribers increase in China, more smartphone adoption, and that's predicated now by our ramp in infrastructure. We play there as well, so that's the story we like.
+Operator
+And we'll take our next question from Craig Ellis with Caris & Company.
+Craig A. Ellis - Caris & Company, Inc., Research Division
+Just a follow-up on the either 2011 ac activity that you're seeing. Liam, when we look at applications like notebooks or home routers or dongles for TVs, how should we think about the dollar content for Skyworks in those types of applications?
+Liam K. Griffin
+Sure, Craig, thanks. Well, we actually are seeing a couple of things. First of all, on a unit-per-unit basis, the 11ac product is much more complex. You're driving 256K QAM versus 64K. The channel bandwidth virtually doubles versus 11n. So on a part-by-part basis, this is a more complex device, higher ASP, higher value. But now when you bring in MIMO, multiple in/multiple out, you could take 2, 3 or 4 screens. So you have an individual power increase, and then you have the multiplication factor of MIMO. So this is a substantial TAM pop for us.
+Craig A. Ellis - Caris & Company, Inc., Research Division
+And can you put any numbers to that, Liam? Is it from $1 to $2 up to mid-single digits or any further quantification there?
+Liam K. Griffin
+Yes. I mean, it's certainly a multiple of 2x to 3x what you'd see in 11n.
+David J. Aldrich
+And in the routers -- in the MIMO routers, the dollars are huge.
+Liam K. Griffin
+Yes the dollars are huge because that's certainly you want a screen, and you also look at extended range. So we're really pleased by it. And I will say that we've had the benefit of early engagement with the leading chipset provider, and that's put us in a great leadership position.
+Craig A. Ellis - Caris & Company, Inc., Research Division
+And then just related to that business, but at a higher level, for Don perhaps, as you look at the deals that you've done, how do you look at the integration progress and any positive or negative surprises now that we've got 2.5 to 3 quarters of SiGe underneath the belt and a fourth quarter of AATI underneath?
+Liam K. Griffin
+Yes, Craig, this is Liam. With respect to the integration with both of these franchises, we're very pleased with what we've seen. Certainly, SiGe we've had under our wing here for a little more time. And I think what you're seeing now is the benefit of our customer engagements, the Skyworks sales force and the relationships we forged. With AATI, we love the product, we love the technology, and I think you're going to start to see real benefits again as we roll that out to Tier 1 accounts that had not been addressed in the past.
+Donald W. Palette
+Yes so I think and when you think of it, Craig, it's a timing thing. And as Liam said, SiGe, we've just had to integrate it longer, so we're starting to look [ph] at the benefits curve a little faster. But we fully expect AATI to be there as well. This is just a question of timing, but they're going very, very well. They're very -- going very, very well.
+Operator
+And we'll take our next question from Aalok Shah with D.A. Davidson.
+Aalok K. Shah - D.A. Davidson & Co., Research Division
+Just a couple of quick questions. Maybe, Liam, if you could talk about the China market a little bit more in detail. We've been hearing that, of course, the 2G market, there has been a pricing war between all these guys. But trying to get a sense of how you view the 2G market going forward in China. Is that a market you want to continue to play in? And how do you think pricing will look like? Secondly, in terms of 3G, can you give us a sense of how we should think about the 3G market for you guys in China market share-wise and in pricing?
+Liam K. Griffin
+Sure. Yes, the 2G market in China, as we indicated earlier, it's really a very broad open market portfolio of small OEMs and a number of chipset providers. We have a very good position there. We had been a partner with MediaTek for quite some time. But that portfolio now, in general, as the market is compressed, the ASPs have come in a little bit, and the overall share of China's overall demand is lessened in 2G. Now having said that, we are excited with the 3G ramp. We're starting to see that being led by the 2 main players I mentioned before, Huawei and ZTE. We have a very good position there. They tend to use chipset and baseband providers that we know well. Very often, we lead with a reference design. And those accounts are also more willing to leverage the complexity and the value and add additional components, ASMs, et cetera.
+David J. Aldrich
+And I'd add to that, that we have -- we've established a product lineup, everything from CMOS devices, an acquisition we did a couple of years ago with ultra low-cost, and it's very high-performance, very low-cost HPT devices for the next tier of that 2G market. And so the way we think about this is, while the ASP pressure has been felt in that part of the market, we are convinced that we have by far the lowest cost structure, we have the scale, and we've got the right -- and positioned on the right reference design. So for us, it's points of market share, and we leveraged that volume to continue to drive down the cost curve in our factories and drive our utilization higher. So we like that business, but we're careful with it to make sure that it continues to have a positive contribution and that we maintain our overall worldwide market share because that's very important to us.
+Operator
+And we'll take our next question from Ittai Kidron with Oppenheimer.
+Ittai Kidron - Oppenheimer & Co. Inc., Research Division
+Can you give us -- I want -- Dave, I want to go back into your comments about TAM. Just started going through the 3, 4 opportunities that you see ahead for yourself. And you've talked about, if I'm not mistaken, the opportunity in your core cellular business of 15% CAGR. Correct me if I'm wrong.
+David J. Aldrich
+Yes, no, you're right. You're right, Ittai.
+Ittai Kidron - Oppenheimer & Co. Inc., Research Division
+If we layer that in, and assuming that we add the other things that you've talked about, which are the antenna switch modules, GPS LNAs, displays, power, and also the 802.11, like the high-margin markets that you've talked about, is that the assumption we need to take, that your business starting 2013 and thereafter will grow north than 15%? Is that the conclusion here?
+David J. Aldrich
+Well, I'll say it a little bit differently. The market is going to grow for the core RF TAM by more than 15%, and as you know, we've been very clear that we intend to gain share. And so, that 15%, by the way, is looking at the -- looking at multiple bands of amplification, it's looking at the complicated switching and conditioning and filtering that occurs, that needs to occur, and fortunately, for us, all that complexity is creating real problems with size, with shielding, with interference. And so we've spent a great deal of time and effort working with our customers to solve those problems for them. And as a result, we were able to, not only take points in share, but really work through a real issue that they have right now which is hitting the current consumption battery talk time with all of this -- as they try to add more functionality into these devices. And so it's really a great time for us.
+Ittai Kidron - Oppenheimer & Co. Inc., Research Division
+So in short, is that a yes?
+David J. Aldrich
+Yes.
+Ittai Kidron - Oppenheimer & Co. Inc., Research Division
+Okay. And, Don, it's been a while since you've kind of -- you've gone through the 2 acquisitions in the last couple of quarters. Clearly, you've been working internally to strengthen those out, as they say. But can you give us a little bit more color now, and have you given some thought on how do you think then longer-term your margin profile needs to look like? And now with the addition of these 2 businesses, what are sort of like the margin profile we need to think about, let's say, 24 months out, that is something aspirational?
+Donald W. Palette
+Well, clearly that there's been no change in our aspiration to have a 30% operating model. That's still where we're focused. And the best way for you is to step back and look at our businesses. We're still -- and we've talked about this a lot, we're still dropping through our incremental revenue on a gross margin line 48% to 50%. So you start with that. Okay, we are going to be making some targeted investments in OpEx in future opportunities. You see that in our Q3 guidance. Those aren't going to be material, but there will be something there. So you're still going to see leverage. And as you layer in this revenue and drop it to the 50%, you get a real good feel as to when that 30% target is doable. That is really, Ittai, the best way to do it. But that goal is clearly in front of us. We're going to continue to expand product margins, and there's a tremendous amount of leverage in the business. There is no doubt in the short term that the acquisitions have stalled that a little bit because as we -- we're synergizing them and incorporating them into the business, they've had a little bit of a diluting impact on the incremental returns. But we're going to go through that, and as the revenue ramps, you're going to see the leverage in the model. That's for you to do that, just to run those scenarios and you see it.
+Operator
+And we'll take our next question from Edward Snyder with Charter Equity Research.
+Edward F. Snyder - Charter Equity Research
+A couple of questions, if I could. First off, on the high-efficiency PA, SkyHi, you're one of the very few people that -- companies that have this. Who else are you seeing when you compete for these sockets? Can you give me a rundown of maybe who else you think your competition is on that? And then, Don, the linear business seems to be doing particularly well. Any color on what your aspirations are for growth in the next quarter, and maybe for the full year? But you've added a couple of new companies. That's giving you a lot more traction. I know part of the rationale for that was to port their products into your much larger client base. How is that going, and what can we expect for growth on it? And then I have a couple of questions on pricing.
+David J. Aldrich
+Okay. Ed, the SkyHi PA, as you said, that's a product line that's really tailored to our ultrahigh-efficiency amplifiers, LTE bands and the like, and the difference in our model over the last couple of years is we see different competitors when we sell PADs, when we sell discretes, multi-mode devices, ASMs, we tend to see a different customer set. To answer your direct question about SkyHi, we'd probably RFMD more than anybody else today.
+Liam K. Griffin
+Sure. And Ed, with respect to high-performance analog, we certainly expect to be at least growing as fast as our mobile business. But by benefit of some of the new product categories we have and design win traction that we're pursuing right now, we hope to do even better than that getting into 2013.
+Operator
+And we'll take our next question from Cody Acree with Williams Financial.
+Cody G. Acree - Williams Financial Group, Inc., Research Division
+Maybe you can go back to the dollar content question, I think, was asked earlier, and look at it on an incremental PAs as we kind of grow band into 3G and 4G, and then also as you're layering in things like the antenna switch modules and the power management, can you talk about maybe the percentage growth that you expect over the years or just dollar content growth as you get into these new markets that -- and how those might offset just typical ASP decline?
+David J. Aldrich
+Well, I think that's -- Cody, maybe I misunderstand the question. I think that's the 15% answer. What we -- the way we get to 15% is we increase the number of bands the way we think the market will morph over years. We've -- typically, we take the 2G market, which, of course, has the lowest ASP, and that is now in decline, a fairly rapid decline as a matter of fact. It's not going to go away, but it's in decline. And then we look at the mix of high-end, mid-tier and low-end smartphones, those that may be addressing local or regional content, and therefore, have fewer bands. And when we do that, and then factor in ASP on a phone-to-phone basis over time, we think that 15% for the next few years is a good number. In fact, we've come at that in many ways, we'd seem to come to that -- close to that answer, cut lots of different ways. And then of course, the other products we're talking about that we didn't previously address, that expands beyond that. So -- and you're going to begin to see in 2012, as you look at teardown reports and so on, you're going to start to see it -- lots of examples of Skyworks having a front-end, having a PAD, having filter and PA technology, ASMs, GPS products, multiple modes of WiFi, and you're going to see that being not an atypical lineup for Skyworks in teardown reports.
+Cody G. Acree - Williams Financial Group, Inc., Research Division
+But some of these markets are relatively new for you, so would you expect that wowed [ph] maybe 15% CAGR over a longer term that you actually have an acceleration of that growth in the shorter term as you start to get into some of these new markets?
+David J. Aldrich
+That's absolutely the intent.
+Operator
+And we'll take our next question from Matt Thornton with Avian Securities.
+Matthew Thornton - Avian Securities, LLC, Research Division
+Can you guys break out, I guess, in the March quarter, 2G versus 3G? And then as we look out too to the June quarter and beyond, if I kind of understood you correctly on some prior comments, should we continue to think about 2G as in continuous decline here, and then the HPA piece, then the 3G, 4G piece kind of growing in step with one another over time here? Is that a fair way to look at that?
+Donald W. Palette
+Matt, I'll just give you the statistics real quick. The 2G was roughly 25%, and EDGE, WEDGE, with WCDMA was roughly 75% for the quarter.
+David J. Aldrich
+And I think the answer to the second part of the question is yes. You should see 3G and 4G continuing to displace and become a bigger percentage of our business, as it will become a bigger percentage of the market as well.
+Matthew Thornton - Avian Securities, LLC, Research Division
+Got you. And then one follow-on, if I could, on the next-gen Samsung Galaxy products, it sounds like -- I think I probably lost count, but there's at least 5 sockets that you rattled off there. Do you care to throw a content -- a dollar number around that? And would that be the global variant? Or is that a CDMA-only variant or any color you have there?
+David J. Aldrich
+It would be the global variant. And I really rather not get into the specific dollar content. That's a little proprietary. And our customer probably wouldn't appreciate that. But it is high, and I think you're doing the part count right.
+Liam K. Griffin
+Yes, I mean, it's one that's -- one real good case study of about seeing that diversification. You see our product in their traditional product. You see switch product, wireless LAN, GPS, and even some other technologies, so I think it's a great example of what we're capable of doing now at this full suite in technology.
+David J. Aldrich
+It's also -- I'll add on to what Liam said. It is also a case, if you look at a lot of products, we've talked over time about their being discrete, high-dollar content, high-performance and then much more highly integrated, and even those sockets where the amplifiers themselves are highly integrated, there's a lot of opportunities. So I think it kind of -- it reverses this notion that when you put lots of bands in a multi-mode device, all of a sudden you TAM-drops it. That's really not the case. We're not seeing that.
+Operator
+And we'll take our next question from Dale Pfau with Cantor Fitzgerald.
+Dale Pfau - Cantor Fitzgerald & Co., Research Division
+Let's talk about your antenna switch modules. As I look at the competitive landscape out there, that seems to be one of the areas where you're really beginning to differentiate yourself from -- there's always been only a handful of guys really good in switches. Could you talk a little bit about what you're seeing there in the competitive landscape? How many people there that might really be able to address some of these multi-throw switches and even the multi-throw that we're going to see in wireless LAN? And then how fast do you think that TAM could actually grow? I think that could grow much faster than your 15% CAGR?
+Liam K. Griffin
+Sure, Dale. Yes, I mean, so a couple of things. As you know, Skyworks has been a major, major supplier of switch for many years. I mean, we ship over 0.5 billion devices here, primarily out of Woburn. So we understand that business, but what's been great is, as you move into these multiband phones, you always need to be switching among bands, right? So you need to basically be communicating across bands, you need isolation, you need low insertion loss, and we've been masters of that for quite a while. The beauty now is that the throws are going up. The number of bands that we need to interact with are going up substantially. And our technology and our IP and our R&D team here is well-equipped to do that. We also have the unique advantage of working very closely with the RF amplifier team at Skyworks, so we can build solutions that work in concert. So with having said all that, we're seeing an opportunity now in some of these handsets where the ASM value could be over $1, in some cases $2 dollars, and we're starting to enjoy our first taste of those design wins in the second half of this year.
+David J. Aldrich
+And, Dale, one of the reasons why we steered away from that market in the past is why we did a lot of switches, mode switches, TR switches and the like. And as the antenna switch module in a simple dual-band phone, for example, it's more about the filter device, and the switching was done in pin diodes, and it really wasn't that complex. The ASPs were low. What's happening with the complexity is it can no longer be done with a pin diode matrix on a hunk of LTCC and some ceramic. It is really now requiring some pretty sophisticated signal processing and multi-throw switches. We do a lot of that SOI, for example. We don't need to do that in gallium arsenide, where we can integrate some logic and functionality. And so it's now become semiconductor-heavy, so it plays into Skyworks' strength.
+Dale Pfau - Cantor Fitzgerald & Co., Research Division
+And to my question there, is the TAM on that growing at faster than a 15% CAGR?
+David J. Aldrich
+For us, yes. And I think for the market as well because of the complexity.
+Operator
+And we'll take our next question from Jonathan Goldberg with Deutsche Bank.
+Jonathan Goldberg - Deutsche Bank AG, Research Division
+So I wanted to just dig a little bit more in something you said in your opening remarks about your platform wins, the Huawei and the Samsung Galaxy 3 and the HTC 1. Could you just talk a little bit more about which products you're selling into those? Because those are 3 sort of -- aside from Apple, those are probably the 3 leading smartphone platforms out there. I want to get a better sense of what your content there is -- sort of looks like?
+David J. Aldrich
+It's a little different curve, but it is -- in all cases, it's fairly broad. It has amplifications, so transmit amplification. And in some cases, it's more functionality, where we're sweeping in things like ASMs. So amplifiers in all cases, but ASMs, GPS LNAs, WiFi devices, and I think maybe WiFI [indiscernible].
+Liam K. Griffin
+And some power management. And I think in some cases, Jay, we have some really customized multi-mode, multi-band engines in our apps, so we noted those as kind of marquee wins that reflected the customer but also some of the newer technology that we're releasing.
+Jonathan Goldberg - Deutsche Bank AG, Research Division
+Those are substantive, meaningful dollar contents in each -- in all of those?
+David J. Aldrich
+In each case, yes.
+Liam K. Griffin
+Yes, each case.
+Operator
+And we'll take our next question from Jaeson Schmidt with Craig-Hallum.
+Jaeson Schmidt - Craig-Hallum Capital Group LLC, Research Division
+Just 2 quick questions for me. Don, what's your backlog coverage to your guide? And then just wanted to get your thoughts on channel inventory.
+Donald W. Palette
+Yes, our backlog coverage, as we do typically when we provide an outlook, is we're pretty much 100% booked at this point in time, and that's a combination of hard purchase orders and also the humbles [ph]. It's a combination of both forecasts that get us to that level.
+Jaeson Schmidt - Craig-Hallum Capital Group LLC, Research Division
+And then just kind of your thoughts on current channel inventory?
+David J. Aldrich
+I think current channel inventory is normal. I don't see any areas where there is excess inventory. So I think it's pretty normal for this time in year.
+Operator
+And we'll take our next question from Sujee De Silva with ThinkEquity.
+Sujeeva De Silva - ThinkEquity LLC, Research Division
+In terms of -- just under a year ago, you guys pulled up 2 big acquisitions. I want to understand today, sitting here, maybe the conditions that are different in terms of thinking about more acquisitions, or whether there are any holes you still need to plug to do more acquisitions?
+David J. Aldrich
+Well, our strategy has been pretty clear. We look for acquisitions that are very quickly or immediately accretive, and that have an opportunity for us to add a platform that we can grow from. So this on bolt-on, wedge fillers, we're really looking for growth engines and -- so we don't see any technological -- technology gaps per se today, at least not major ones. So you have -- but you have to think of us looking at it that way. We opportunistically look for a cultural fit, something that we could integrate very quickly, and something that would be immediately accretive.
+Sujeeva De Silva - ThinkEquity LLC, Research Division
+Okay. And then a follow-up to the Samsung Galaxy 3 questions. Across the variant around world, are you sole source to -- on the PAs for those, or is that shared through the variance?
+David J. Aldrich
+It's not typically -- we're not sole source on the platform, although on the models, it would be sole source, so the custom per model, but not on the platform. We have company on the platform.
+Operator
+And we'll take our next question from Vijay Rakesh with Sterne Agee.
+Vijay R. Rakesh - Sterne Agee & Leach Inc., Research Division
+Just wanted to catch up on the mix in the 3G, what was it? And how did it grow Q-on-Q?
+Donald W. Palette
+The 3G mix -- well, 2G was 25%. And as I said, our EDGE, WCDMA mix was 75%.
+Vijay R. Rakesh - Sterne Agee & Leach Inc., Research Division
+And then what was the -- when you look at this switch side -- switch -- antenna switch module, what was the revenues in the March quarter?
+David J. Aldrich
+What sort of revenue was this ASM?
+Vijay R. Rakesh - Sterne Agee & Leach Inc., Research Division
+Yes.
+David J. Aldrich
+It was a few million dollars, below $10 million. It's really just beginning. But it ramps pretty -- it ramps solidly in the second half.
+Operator
+And we'll go next to Quinn Bolton with Needham & Company.
+Quinn Bolton - Needham & Company, LLC, Research Division
+Don, just a quick question. You talked about acceleration in revenue growth based on the new platform ramps. Just wondering if that is a comment you're talking about in calendar year or fiscal year? And then was just wondering, Don, you talked about the -- I'm sorry, Dave, you talked about the customer diversification at prepared comments. Is there a way you can quantify that maybe, say, looking outside of your top customer, what the next, say, numbers 2 to 5, I mean is there some metric you can give us about how you're spreading it out over the customer base?
+Donald W. Palette
+As far as the growth opportunity, I really -- refers to the fiscal quarters for us through the calendar year as well. We just see what's the design pipeline and the wins that we've had in place earlier in the year. We just see some really nice growth opportunities. For the balance of our fiscal and the calendar year as well.
+David J. Aldrich
+And I think it's quite -- it's a little tough to answer that question because it really depends upon how the market evolves. In the case of we're about 65% in the mobile space, 35% in our diversified HPA business, and within the high-performance analog. And within that 65%, our goal would to be as diversified as we possibly can be with the products that we address. In which case, a really good strategy would be implemented such that we mirror the customer concentration of the market. And that's as good as we can do it. And we're not exactly there today, but we're pretty close. So when you look at who's beyond the top 2 or 3, it really is a who's who among OEMs. So you'd look at LG, you'd look at ZTE, you'd look at Huawei, Motorola and others, almost stacked as if you would see them in the market.
+Liam K. Griffin
+Right. And within HPA, you can expand that suite beyond mobile, so you can start looking at gaming opportunities. You can look at the wireless infrastructure space. And there's a lot of things now with our power management suite that we can expand. So you've got customer diversification across the major Tier 1, but there's also a whole another's opportunity base now with newer products coming in through acquisition and organic growth, and also newer verticals that we're penetrating.
+Operator
+And that does conclude our question-and-answer session. At this time, I'd like to turn the call back to you, Mr. Aldrich, for any additional or closing remarks.
+David J. Aldrich
+Well, thank you for participating on today's call, and we look forward to seeing all of you in upcoming conferences.
+Operator
+And that does conclude today's conference. We do thank you for your participation.

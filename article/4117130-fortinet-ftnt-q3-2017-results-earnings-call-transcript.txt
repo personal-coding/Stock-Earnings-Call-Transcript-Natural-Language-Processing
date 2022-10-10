@@ -1,0 +1,344 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q3 2017 Earnings Call October 26, 2017 6:30 PM ET
+Executives
+Kelly Blough - Fortinet, Inc.
+Ken Xie - Fortinet, Inc.
+Andrew H. Del Matto - Fortinet, Inc.
+Analysts
+Jayson A. Noland - Robert W. Baird & Co., Inc.
+Anne M. Meisner - Susquehanna Financial Group LLLP
+Melissa Franchi - Morgan Stanley & Co. LLC
+Michael Turits - Raymond James & Associates, Inc.
+Erik L. Suppiger - JMP Securities LLC
+Fatima Boolani - UBS Securities LLC
+Ken Talanian - Evercore ISI
+Patrick E. Colville - Arete Research Services LLP
+Ugam Kamat - JPMorgan India Pvt Ltd.
+Howard S. Smith - First Analysis Securities Corp.
+Saket Kalia - Barclays Capital, Inc.
+Gabriela Borges - Goldman Sachs & Co. LLC
+Catharine Trebnick - Dougherty & Co. LLC
+Hendi Susanto - Gabelli & Company, Inc.
+Andrew James Nowinski - Piper Jaffray & Co.
+Operator
+Good day, ladies and gentlemen, and welcome to the Fortinet Third Quarter Financial Analyst Q&A Call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will follow at that time. . As a reminder, this conference is being recorded.
+I would now like to introduce your host for today's conference, Ms. Kelly Blough, Vice President of Investor Relations. Ms. Blough, the call is yours.
+Kelly Blough - Fortinet, Inc.
+Thanks, Sherry. Thank you, everybody for dialing back in. I would like to remind everyone that the disclosures and cautionary language that I read at the beginning of the call at 1: 30 today still applies to this call. We will be making forward-looking statements and all of those are subject to risks and uncertainties as outlined in our presentation online.
+This call is entirely Q&A, so I will turn the call back over to the operator to moderate that Q&A session, and we request, again, that you try to limit your questions to one at a time and then you can dial back in for more.
+Operator, you can go ahead and pool for questions.
+Question-and-Answer Session
+Operator
+Thank you. Our first question comes from Jayson Noland with Baird.
+Jayson A. Noland - Robert W. Baird & Co., Inc.
+Okay. Great. Thanks. I wanted to follow-up on the Fabric, it's come up a lot on the call today, and it's a term that's used widely across the industry, so I guess my question is, how do you differentiate relative to others? Is there a good way to do that in a proof-of-concept, or what's the best approach there?
+Ken Xie - Fortinet, Inc.
+Yeah. This is Ken. We have a more broad product to cover different applications than other vendors. That's where â we're also working on this for a long time in the last seven, eight years since the company started, like whether it's the Mail product, the FortiWeb product, the Client product, it's all in-house developed. On this product â actually when we develop the product, we also intend to make it working together with FortiGate which is the firewall, next-generation firewall UTM product. So all these kind of integrate well, and they can also â ease of the management. So we have the FortiSIEM, also one of the fastest growing in the last couple of quarter, which also help in manage all this together. So that's different than some other company they may have one or two products that are working together. We have much broader, not only that, but also the Access part, WiFi, like the networking part, like the cloud side, and also the endpoint and the IoT side.
+So all this tied together is the internal develop â the intent to make it working together from the beginning. So that's different than some other company, whether by acquisition or by some like mostly integrated product. So I think that's where we feel the Fabric start that we have is much better and work more tightly integrated better than the other vendors.
+Jayson A. Noland - Robert W. Baird & Co., Inc.
+And maybe just a quick follow-up there, Ken. Is the pricing offer concessions for bundles or volume deals, be it an enterprise agreement or something similar?
+Ken Xie - Fortinet, Inc.
+Right now, the bundle more tied to different function. Yeah, the Enterprise that you'll have â to say in some enterprise they may even have like ELA, Enterprise Liable Agreement, so that's where we all were open for that and we are definitely working together to try to see, some time we may sell all this together, but right now it's still in the early stage. It's more like â the FortiGate is still leading a lot of our deal, so we learn is FortiGate first and then eventually expand into some other product, upsell, cross-sell, but going forward could be all bundled together.
+Jayson A. Noland - Robert W. Baird & Co., Inc.
+Okay. Thank you.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from Anne Meisner with Susquehanna Financial.
+Anne M. Meisner - Susquehanna Financial Group LLLP
+Great. Thank you. So I wanted to follow-up a little bit on the product revenue growth. The Q4 guidance implied somewhat flattish growth and if I take this year's sort of sequential growth rates and I apply them to 2018, I basically also get flat growth. Now I know you're not guiding for 2018, so I'm not going to specifically ask you, but I was hoping you could just tell us kind of how you're thinking about the product revenue line longer-term? Because if you're running the business to maximize subscription revenue, which I would argue is probably the right thing to do anyways since it's profitable, it's recurring, not so volatile in the quarter. I guess you could ask yourself, does products really need to grow longer-term? Can it just stay flat? And then we'll let the services revenue line kind of pick up the slack in terms of driving the growth for the company? Is that one way to think about it? Because it wouldn't necessarily be a terrible thing if that's sort of what happens as long as the growth in services is it's more sustainable. But I guess the question is, if that's kind of the case, and that's how you're thinking about it, maybe it's better to just sort of message that a little better to the Street, so it's better understood?
+Andrew H. Del Matto - Fortinet, Inc.
+Fair enough, Anne. I think what you're seeing, however, is it is what you said. We're definitely seeing a mix shift. As we do more enterprise business, as customers buy more of the non-FortiGate, they buy higher products, more content-rich bundles, and they buy higher level of service. And I think I've mentioned a couple of times now that they're buying more 7x24 than 5x8 for instance. But what happens along with â as you go into the enterprise, we tend to get customers buying three-year deals or longer. They're really just spending out, because they don't want to be doing the renewals. We're seeing that on a competitive basis, that competitive landscape, I think our competitors see the same thing.
+And what happens when you mix those two things together, they end up compounding the deferral of revenue from the product line to deferred revenue. And that's why you see product revenue at 7%. But deferred revenue you see growing 30% and off of maybe a one month increase in average duration. And so basically that's what's happening there on the product line. I think that becomes harder to forecast, if you will. But at the end of the day, it has the effect of what you're saying, where you're just ending up basically becoming more subscription oriented, more routable, more predictable on the revenue line so to speak.
+Ken Xie - Fortinet, Inc.
+Yeah. Makes sense. We are not intend to slow down the product growth. The way we calculate maybe have a few percentage impact. But also we're a little bit behind hiring the sales capacity. So we already realized that a couple months ago, starting to try to accelerate hiring, but also that takes some time to see the results. So that's where we're a little bit cautious about Q4. But we do intend to keeping growing the product side together with service.
+Anne M. Meisner - Susquehanna Financial Group LLLP
+Okay. Great. And then quick follow-up on the service provider vertical that's been a topic of conversation for you guys. Some of your competitors have also discussed kind of making a bigger push into that market. And again, I'm talking about the traditional service provider markets and not the cloud providers. Maybe you can just kind of talk about what you're seeing in terms of the competition? Are you seeing anything different there, are sales cycles lengthening because customers are just taking more time to evaluate other products in the market as well? Maybe you can kind of speak to what you're seeing competitively, specifically in service provider.
+Ken Xie - Fortinet, Inc.
+Yes. Service provider, like a few years ago is a big sector for us. They account more than 25% of business. But in the last couple of years, there's some changes shifting there. The call provider starting have more interest compared with traditional service provider, so we realized this one or two years ago starting build a team, the call team, the service product team together and grow both. So if you combine these two together, we have healthy growth, but the traditional service provider they're also try to position themselves compared to the new cloud provider. That's where we view, long-term wise, the service provider â that means together with call provider is still a big potential, big growth. But somehow the industry has some change in transition going on right now. The traditional service provider, kind of, whether they slowed down some investment infrastructure, whether (9:01), and then the new call provider have some impact there. And some of the traditional service provider also moved to the cloud.
+So that's the part we feel is not quite settled down yet, and we see a lot of new testing going on. But they are not quite reached some of the decision or like big deployment yet.
+Anne M. Meisner - Susquehanna Financial Group LLLP
+Okay. Great. Thank you.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from Melissa Franchi with Morgan Stanley.
+Melissa Franchi - Morgan Stanley & Co. LLC
+Thank you. Just a quick follow-up on the discussion on the product revenue and the deferral. So, when you do have to defer a higher percentage of product revenue than you've seen in the past, I just want to clarify, does that go into product deferred and then eventually it gets recognized into product? Or is that really the percent is moving to subscription, the value goes into subscription, and then that eventually flows through to subscription revenue line?
+Andrew H. Del Matto - Fortinet, Inc.
+Good question, Melissa. And just to back up, I mean, by the way all of this is a characterization of an improving enterprise business, to be frank, right? We're getting more complicated deals, they're buying more, and they're buying more of the services and subscriptions. To answer your question directly, yes, it ends up being in services, in subscriptions. So it gets â I use the word carved out, a product, and then re-characterized as services and subscriptions and recognized over time. Not back into product.
+Melissa Franchi - Morgan Stanley & Co. LLC
+Okay. That's perfect. Thank you.
+Andrew H. Del Matto - Fortinet, Inc.
+Yes.
+Operator
+Thank you. Our next question comes from Michael Turits with Raymond James.
+Michael Turits - Raymond James & Associates, Inc.
+Hey, guys, a couple of questions. First I just want to â just kind of a housekeeping on CapEx. I was wondering if we're still in line for doing $150 million or so this year, maybe $90 million next year, and then growing from there?
+Andrew H. Del Matto - Fortinet, Inc.
+We're â I didn't â Michael, we're in line for $150 million this year. I didn't hear the second part of the question.
+Michael Turits - Raymond James & Associates, Inc.
+And then I have it at $90 million for next year, and then growing after that?
+Andrew H. Del Matto - Fortinet, Inc.
+Yes, we haven't guided for next year, but I think we said â I suspect the way you're getting there, and not to put words in your mouth, but it's probably roughly $30 million of general CapEx and maybe $60 million of real estate. Because I think we said $60 million and $60 million of real estate for the next couple of years, if I go back to the last calls.
+Michael Turits - Raymond James & Associates, Inc.
+Okay. But then it (11:34)
+Andrew H. Del Matto - Fortinet, Inc.
+That would get me â that would get to about $90 million, again, we haven't formally guided for next year, but I think people tend to ask us what's our run rate CapEx, and it generally weights out to be around $30 million. You know, could be plus or minus a little bit, and then the real estate has, as we fill out the headquarter property, we've said $60 million and $60 million for, I think 2018 and 2019.
+Michael Turits - Raymond James & Associates, Inc.
+Okay. And then I just wanted to understand, Ken, you were talking about the traditional service providers. I assume you mean the carriers, and then you were talking about the cloud service providers, but I didn't understand. Was your point that the cloud â that you're starting to sell more to the cloud service providers as opposed to the carriers? But that's not making up the difference? I was trying to understand what you were trying to convey.
+Ken Xie - Fortinet, Inc.
+We category a little bit differently the call provider and also the traditional service provider. I think so far the service provider still more count on the traditional service provider, not (12:32), the service provider line, the vertical. Yeah. That's where the one we gave out I think it was 17% adjusted traditional service provider, there's no cloud provider there, but they do have a cloud provider starting to...
+Andrew H. Del Matto - Fortinet, Inc.
+It's actually in there. I think it includes â from a provider perspective it's in there, right? If it were a virtual license, it would either be a product or on the subscription services line, if it's routable.
+Ken Xie - Fortinet, Inc.
+Okay. Yes, we can confirm with you later. Yes.
+Andrew H. Del Matto - Fortinet, Inc.
+Yes. Yes.
+Michael Turits - Raymond James & Associates, Inc.
+Okay. And then another question. So it sounds as if one of the major factors is lumpiness in the enterprise business, longer sale cycles, bigger deals, more complex. And this sounds like something that you went through a couple of years ago where enterprise got really good, and then it got tougher and the way you explained it at that time, was that you were doing well with winning a lot of those large, high-end box and larger deals, but you weren't getting â I think you termed it as the run rate enterprise business that would drive more consistency. I'm wondering, is that the same dynamic that we're seeing this time around?
+Andrew H. Del Matto - Fortinet, Inc.
+I think it's different. What we're seeing now is more complexity because they're thinking architecturally. Again, to step back and you think about security spend, I think Ken mentioned earlier that post-Target everyone, there was a lot of reactionary buying. What you're seeing now is more strategic buying, and the Fabric resonates extremely well because, as Ken said, it's broad, integrated, and an open architecture, if you will, provides the management capabilities. And so if they buy the full package, the Fabric or more of the Fabric, like the example I gave, they end up with more products. And then from a forecasting perspective I think it becomes more of a challenge because they may buy some or all at the same time and I think that's where it generally from a sales perspective becomes harder to forecast.
+You know they believe they may get a customer for instance, but forecasting the actual deal size when there were a variety of products on it, may shift some in or out of the quarter and like you said, you know some of it may become more run rate, some of it may become more upfront, but as they think architecturally, I think this just becomes more of a challenge to basically forecast at a basic level.
+Again, and to revisit, again we did a very good job I think of drilling into our geographies and trying to understand what was going on in the business, and I'm going to repeat myself here but we did, when we look at North Asia we saw some macroeconomic issues there, really we believe due to geopolitical issues and then we're talking to our people on the street there and that's what they're telling us.
+And in Latin America, we have a sizable business especially in Mexico and somewhat in the Caribbean and we saw some softness there in Q3 and the team is telling us to call that forward into Q4, and that's a bit of the explanation. And then as Ken said, just to go back, we're a bit behind on head count.
+And I think all of those factors weigh in and blend together and it's hard to weight one ahead of the other, but they blend to form the forecast or the guidance this quarter.
+Michael Turits - Raymond James & Associates, Inc.
+Okay, Drew, Ken. Thanks very much.
+Operator
+Thank you. Our next question comes from Erik Suppiger with JMP.
+Erik L. Suppiger - JMP Securities LLC
+Yeah. Thanks. I know you don't want to give guidance for next year, but your gross margin guidance has bumped up over the course of fiscal 2017. Is there any reason why it would reverse and go back down in 2018 or are there any trends that were anomalistic in 2017 that we should be factoring in?
+And then similarly, you did about 18% to 19% operating margins for Q2 and Q3, and that's your guidance for Q4. How can we think of trends in terms of your hiring as you look into fiscal 2018? Is it likely to come down because you're going to be hiring aggressively? Or how should we think about that?
+Andrew H. Del Matto - Fortinet, Inc.
+So I think there's two questions in there. There is a bit of a head count question I think, Erik, is the second part in that ramp. And I believe the first part is related to gross margin.
+Erik L. Suppiger - JMP Securities LLC
+Yeah.
+Andrew H. Del Matto - Fortinet, Inc.
+And so on the gross margin, one of the interesting things is it actually would have been better if we didn't have the carve-outs that Anne and I were discussing earlier. Because effectively, we're recognizing the cost of goods sold â the hardware cost upfront, yet we're deferring more of the product revenue onto the balance sheet. And so that margin ends up coming back over time in that strong, ratable revenue recognition, if you will. So structurally â the way to think about it is, structurally our business is driving higher margins all around with this mix shift to one, more enterprise, and then more Fabric. And that Fabric's composed not only of non-FortiGate products, but more margin rich services and subscription and if you blend that together, Erik, you end up with a higher-margin business, because most of that's higher margin and to the extent that some of that's product revenue coming back on through the services and subscription line, I've already taken the cost of goods sold in the quarter I shifted. So that's the first part.
+Headcount, we're behind. And again, we believe, structurally our business has changed, it's driving higher margins, and we need to make sure that we catch up on head count so that we can continue to grow. And so we're balancing that out and we'll talk about guidance when we get into 2018.
+Erik L. Suppiger - JMP Securities LLC
+Ken, can you just comment, though, how far behind are you on head count? I think you added over 100 this quarter. Would you have liked to have added 300? Or how can we think about the plans on the head count front?
+Ken Xie - Fortinet, Inc.
+I think to supporting some of the growth target we have, we probably need to add little bit over 100 a quarter, but in the first two quarter we are less than half of that. And that's also making margin probably above the target, and the Q4 guidance will be low. So we realized that. We (19:23) in Q3, but it's Q4 we need to keep and catch up some of head count hiring.
+Erik L. Suppiger - JMP Securities LLC
+Very good. Thank you.
+Kelly Blough - Fortinet, Inc.
+Thanks.
+Operator
+Thank you. Our next question comes from Fatima Boolani with UBS.
+Fatima Boolani - UBS Securities LLC
+Thank you. Just a question for you on the product gross margin. You did talk a lot about the traction that you're seeing in the enterprise, and we saw the products mix skew very nicely to the high end of your portfolio. But the product gross margins were essentially flat sequentially. So is there any other dynamic that we need to consider that's kind of going into that line?
+Andrew H. Del Matto - Fortinet, Inc.
+Sure.
+Fatima Boolani - UBS Securities LLC
+And then just a quick follow-up on free cash flow and any modeling points you could share with us?
+Andrew H. Del Matto - Fortinet, Inc.
+Okay. So Fatima, I think I heard two questions, product gross margin and then I think you're talking free cash flow guidance. Fair enough?
+Fatima Boolani - UBS Securities LLC
+Correct. Yes. Thanks.
+Andrew H. Del Matto - Fortinet, Inc.
+Good. So what I was attempting to explain to Erik earlier is that basically because we end up with a combination of more content-rich services being sold, if you will, more higher level of FortiCare support 7x24 versus 5x8. And then richer content in the subscriptions that are higher priced, like the enterprise bundle for instance. That combined with duration, longer duration we shifted from 24 to 25 months, causes more of a carve-out if you will, more of a deferral from the product line being re-characterized onto the services and subscriptions line, if you will, the services line ultimately, the services and subscription. And what that does is, while we're effectively taking that product revenue over time on those lines, the cost is recognized upfront.
+And so if you really looked at it on a deal-by-deal basis, the margins actually are better than reflected in the gross margin line. It would be higher, for instance, if you just looked at it on a billings perspective. And that's really what's going on there. There were no other anomalies in the quarter. I think last quarter we referenced taking some reserves on inventory. We didn't do anything out of the ordinary on that front this quarter. It's just really a reflection of some of that product revenue ending up in deferred revenue, which grew 30%.
+Fatima Boolani - UBS Securities LLC
+Very clear. Thank you. And just any directional color you could share on free cash flow and how that shakes out because you had a very strong collection quarter this quarter.
+Andrew H. Del Matto - Fortinet, Inc.
+What we guide is â to be frank we've been focused on linearity and cash conversion cycle, Fatima. It becomes a little harder to predict because there's a lot of timing differences in there. I think I can share CapEx. We expect still to end up at CapEx at $150 million for the year.
+Fatima Boolani - UBS Securities LLC
+Thank you. I'll jump back in line.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. And we spent $122 million to-date I believe.
+Operator
+Thank you. Our next question comes from Ken Talanian with Evercore ISI.
+Ken Talanian - Evercore ISI
+Hi. Thanks for taking the question. I was curious, have you made any changes to either the frequency or the methods you're using to evaluate your pipeline?
+Andrew H. Del Matto - Fortinet, Inc.
+No, Ken. We continue to look at it very closely. No, we haven't made any changes.
+Ken Talanian - Evercore ISI
+Okay. And just as a follow-up, obviously, there's a greater shift of ratable revenue. Can you give us a sense for maybe for 4Q how much of your ratable revenue is expected to be rolling off the balance sheet from deferred?
+Kelly Blough - Fortinet, Inc.
+I don't think we've ever released that metric, how much of the in-quarter revenue came off the balance sheet. I mean, it's reflected in the services line. If you look at the balance between product and services revenue in an individual quarter, it should sort of reflect that percentage.
+Ken Talanian - Evercore ISI
+Okay. All right. Thank you.
+Operator
+Thank you. Our next questions come from Patrick Colville with Arete Research.
+Patrick E. Colville - Arete Research Services LLP
+Thanks for taking my question. I've got quite an easy layout one first. You guys are still growing product revenue faster than the markets. Who are you taking shares from right now, October 2017?
+Ken Xie - Fortinet, Inc.
+I think, if you look in the first half of this year, our building growth probably faster than any other major security vendor, and so probably we take some share. I think anyone grow below the market range, so we take share from them. I cannot name the...
+Andrew H. Del Matto - Fortinet, Inc.
+I would say we're playing on the theme of where integration and that organic integration really sells well, where we can get the visibility end-to-end, Patrick, and that tends to be large enterprises. And so that could be a variety of incumbents, quite frankly, and I think you could probably guess the names.
+Ken Xie - Fortinet, Inc.
+Yeah. And the enterprise section grow faster than the other section, so that's where some traditional enterprise player will take quite some share from there.
+Patrick E. Colville - Arete Research Services LLP
+Got it. Okay. Sure. Thanks. And then if I can add two quick follow-up.
+Ken Xie - Fortinet, Inc.
+And also especially in U.S. I have to say, you can see U.S. is a fast-growing region. So that's where we take most share from some of the U.S. player.
+Patrick E. Colville - Arete Research Services LLP
+Got it. Okay. I mean, I guess the basis of the question is that some investors are nervous that Cisco and Juniper have less share to give up. And one of the reasons for the kind of slowdown in the products' growth is because there's less share to take from those guys.
+Ken Xie - Fortinet, Inc.
+Yeah. Some of other competitor also, their U.S. slowdown probably below the market growth. We also take some share from there.
+Patrick E. Colville - Arete Research Services LLP
+Okay. And then, Drew, quick question on the share repurchases. It looks like you guys are doing that more consistently now. And the kind of dollar amount increases (25:57). Is that something we should kind of think about modeling forward, just much more consistent quarter-on-quarter share repurchasing?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, as we said on the call, the board I think is signaling a more aggressive approach to share repurchases. And they approved up to $1 billion, the current authorization. I think we have $765 million remaining, or had, as of the end September. And so as far as consistent, I think it's a little harder to say, but more aggressive for sure.
+Patrick E. Colville - Arete Research Services LLP
+Great. Thank you so much.
+Operator
+Thank you. Our next question comes from Sterling Auty with JPMorgan.
+Ugam Kamat - JPMorgan India Pvt Ltd.
+Hey. Hi, guys. This is Ugam Kamat on for Sterling Auty. I wanted to understand the price difference that happens when you actually sell a virtual firewall in lieu of a physical firewall. Assume that you are going into an enterprise and selling a physical box, and in lieu of that, if you sell a virtual firewall to them, what is the pricing economics on that for the same throughput?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, Ugam, the way we answer the question is that it's an accretive model to the overall business because right now what we're selling, we're seeing multi-cloud environments where they're buying a variety of products. And whether it's the virtual â the cloud orientation is pulling the hardware as well because it's a hybrid model. And so the economics work out and it's accretive to our model. The other way to think about it is that to the extent that there's virtual, it's a higher-margin business.
+Ugam Kamat - JPMorgan India Pvt Ltd.
+Okay. Okay. That's pretty helpful. And secondly, just to expand on the share repurchase program, in terms of assuming, are you planning to do share repurchases that offsets the dilution in share count, or are you willing to go beyond that and do more share repurchase to offset more than the dilution?
+Andrew H. Del Matto - Fortinet, Inc.
+Right now we are focused on being more aggressive on the share repurchases. Again, I'll repeat what I just said, and I'll have to leave it that. And you can see, first of all, the board approved up to $1 billion of share repurchases. We have $765 million remaining. You could see that we're becoming more profitable on a GAAP basis, and we are very focused on the equity comp aspect of the dilution, if you will, and that's how I would answer that question.
+Ugam Kamat - JPMorgan India Pvt Ltd.
+Okay, perfect. Thank you so much.
+Operator
+Thank you. Our next question comes from Howard Smith with First Analysis.
+Howard S. Smith - First Analysis Securities Corp.
+Yes. Thank you for taking my question. I wanted to follow up on kind of the other side of the gross margin, not product but services. That continues to grow, and I know part of that is the opposite of what we just talked about, the deferred coming through and being very high-margin. I calculated about 95%-plus incrementally this quarter on a non-GAAP basis. Is there some head count adjustment, a catch-up that needs to be done that would affect that line? Or is it just that profitable as the incremental services come in?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, we're effectively â I think you're getting scale benefits is the way to think about the answer, because you're really getting more revenue on a not completely constant head count or infrastructure basis. There are some scale investments. There are some investments you need to make in head count over time. We're probably a little behind on that, which helps a little bit, but I don't think it's significant and probably not the right way to think about it, but a little bit behind on head count on the support side, if you will.
+We've become more efficient all around on just managing the business, and things like RMAs, for instance, RMA costs are I think managed better over time, and so we're driving efficiencies like that. And so even though you might hire more people and it's not a huge ramp there, we're finding ways to offset it by driving other efficiencies in the business. And then you offset it again by just increasing revenue on the services line, like we talked about, that mix shift benefit.
+Howard S. Smith - First Analysis Securities Corp.
+Great. I'll leave it at one. Thank you very much.
+Operator
+Thank you. Our next question comes from Saket Kalia with Barclays Capital.
+Saket Kalia - Barclays Capital, Inc.
+Hey, guys. Thanks for taking my follow-ups here. So first, Drew, just on the billings guidance. I've just got â sort of got a philosophical kind of question on the approach. If you compared your approach to billings guidance today, compared to the approach that you took at the end of Q2, and what we (31:01) raised it in Q2, we're trimming it now. If we exclude some of the regional stuff, has the pipeline for enterprise this year gone down? Or is it maybe more prudent close rates on that enterprise pipeline than you expected before? Does that make sense?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. So as the pipeline goes down, or do you need higher â I think are you asking if you need higher close rates?
+Saket Kalia - Barclays Capital, Inc.
+Right. Or are you assuming lower close rates in the fourth quarter guide than maybe you did before?
+Andrew H. Del Matto - Fortinet, Inc.
+Not really. I think overall, we're billing off â it's a variety of things. I mean that's one of the factors in there, Saket, but we're really relying on our sales force to tell us what they're going to do and call the shots. And when you dig into it, as we said, take out the macroeconomic issues by the various geographies and the carrier business, what they're all trying to sell is the broader fabric, and I think it just becomes more complicated on exactly what a company is going to buy at any given point in time. And so that really creates the complexity we have in forecasting going forward. I would point that as the issue.
+Saket Kalia - Barclays Capital, Inc.
+Got it. Got it. And then a quick follow-up, if I could squeeze in, and forgive me, it's probably a dumb question. But I just wanted to understand the pricing just a little bit better.
+Andrew H. Del Matto - Fortinet, Inc.
+Sure.
+Saket Kalia - Barclays Capital, Inc.
+I guess on the carve-out accounting, I think we get sort of the idea of additional content that enterprise customers are getting. You mentioned 7/24 instead of 5/8, but if an enterprise customer is getting more, wouldn't the carve-out be of a higher number? Or are we maybe discounting that, so the carve-out is actually impacting the same number? Could you just talk about that number, that approach to pricing a little bit? Maybe that could help clear some of the confusion about sort of the carve-out and the products...
+Andrew H. Del Matto - Fortinet, Inc.
+Sure. Saket, I'm going to ask you to â if you could â I didn't quite â I'm trying to answer the right question. If you could perhaps maybe ask it again?
+Saket Kalia - Barclays Capital, Inc.
+Yeah, sure. So can you talk a little bit about the pricing in a carve-out situation. So in a situation where an enterprise customer maybe opts for more content-rich items like an enterprise bundle or 7/24 support, that would presumably be additive to a deal. And so the carve-out, right, would be a carve-out of a larger number. But I guess it almost implies that maybe we're seeing larger carve-outs of the same number. Am I thinking about that right?
+Andrew H. Del Matto - Fortinet, Inc.
+I think two factors. I would say two factors. Generally speaking, if we're going to discount on a deal, and we can talk about discounting if you want, it's not a big issue. But to the extent there's always some discounting, the discount would tend to be on the product line to preserve the annuity stream on the recurring revenue lines, which are the subscriptions and services. As you discount across the board, you end up carving more out from product to deferred. And I think the compounding factor tends to be the duration that we pointed out, quite frankly. And that's what's going on where the duration impact, we've gone from 24 to 25 months I think average duration. That compounds. So on a three-year deal, you end up carving out 3x of whatever you were going to carve out, and regardless of where the discounting occurred.
+Saket Kalia - Barclays Capital, Inc.
+Got it. Got it. That's helpful. Thanks very much.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah.
+Operator
+Thank you. Our next question comes from Gabriela Borges with Goldman Sachs.
+Gabriela Borges - Goldman Sachs & Co. LLC
+Great. Thank you. It's a follow-up on Saket's question, actually, so for Drew. One of the things that has been mentioned a couple of times is that enterprise deals are becoming more complex, they are a larger pieces of the business. Given that that seems a little more structural or ongoing in nature rather than temporary, I'm wondering if there are business intelligence tools or forecasting tools that could maybe help internally to drive a little more consistency in the forecasting, given that it feels like this is something that will be ongoing over the medium-term.
+Kelly Blough - Fortinet, Inc.
+I mean, I think it's fair to say that we know what tools are available at our disposal. We do pay a lot of attention to forecasting. We have regular meetings with our executive team and our sales team to go over the forecasts. I mean we get your point, Gabriela. In this particular case, it feels more like there were things that were in the forecast that came out because of, for example, the things that Drew mentioned, the Mexico environment, (35:54), Latin America, and other parts of the world.
+Andrew H. Del Matto - Fortinet, Inc.
+We take your input, Gabriela. I would say this. We're very diligent in drilling down on the forecast and getting the explanation from our sales team and understand what's going on all around. And at the end of the day, that's the most important thing, is really getting the story and getting what their commitments are and why, and effectively, that's the story we're relaying to you.
+Gabriela Borges - Goldman Sachs & Co. LLC
+Yeah. That makes sense. Thank you.
+Andrew H. Del Matto - Fortinet, Inc.
+You're welcome.
+Operator
+Thank you. Our next question comes from Catharine Trebnick with Dougherty.
+Catharine Trebnick - Dougherty & Co. LLC
+Thanks for taking my question, and I apologize if it's been asked, we've had five calls tonight. One thing I noticed during the quarter was channel, you brought back a person that had been at Fortinet and promoted him. Can you just give a little update and more color on the channel strategy, where are you headed with it, U.S. versus Asia versus other geographies? Thank you.
+Andrew H. Del Matto - Fortinet, Inc.
+Yes. Jon Bove came back. He was excellent. He came back from Proofpoint, and an excellent employee. Nothing's really changed in the strategy. We believe our business is doing fine there. We look at that in detail. We haven't seen any issues there, and we believe Jon is a great addition coming back into the team, and we think we're fine.
+Catharine Trebnick - Dougherty & Co. LLC
+All right. Thanks.
+Kelly Blough - Fortinet, Inc.
+Is there a second part to that, Catharine?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah.
+Catharine Trebnick - Dougherty & Co. LLC
+No. That was really what I was looking for. I noticed he came back. Obviously he likes working for you, so congratulations.
+Andrew H. Del Matto - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from Hendi Susanto with Gabelli & Co.
+Hendi Susanto - Gabelli & Company, Inc.
+Drew, product gross margin is lower this year than last year, and you alluded that it's driven by the shift of products to different revenue. Should we view this gross margin trend to amplify to a larger degree down the road? In other words, whether product gross margin may slide down further as this trend grows.
+Andrew H. Del Matto - Fortinet, Inc.
+The way I would think about it is to re-characterize revenue that in some way causes a slightly-lower gross margin this quarter will shift the trend, that's on the product line slightly-lower gross margin on the product line this quarter â excuse me â will tend to come back as ratable revenue over time. And, really, I think you want to look at them in tandem, as a blend of gross margin, because it comes back as a higher gross margin altogether. And if you look back over the last several years, gross margin has gone up from Q3 of 2014 about 71.5% to 76% this quarter-end. So that's a bit of what's going on. And if I look back over the quarter, 59% is not out of line with some of the past quarters.
+Hendi Susanto - Gabelli & Company, Inc.
+Got it. And one question for Ken, with regard to the challenges of less predictability and more complexity in enterprise deals, do you see this as unique to Fortinet? Or do you see this as a general situation that applies to your market and your competitors?
+Ken Xie - Fortinet, Inc.
+We just need to get a sales force, more trend for some enterprise, especially the new sales force. We are starting our salary hiring, so that's taking a little bit more time to ramp up. That's where â like I said, you can improve your margin quickly, easily, probably the same quarter or the next. But to invest in growth, that takes about 6 months to 12 months. So if we are behind or early in (39:39) the year, we're catching up, and that's probably we'll not see the result in the quarter right away.
+Hendi Susanto - Gabelli & Company, Inc.
+And if I understand that correctly, so that implies that partially it's due to the sales force situation and partially it may be driven by the customers in the market overall. I don't mean to put some words on your mouth, but is that the right interpretation?
+Ken Xie - Fortinet, Inc.
+Also sometime we will sell multiple products. It's a little bit more complicated and maybe take a little bit more training, more time compared to traditionally more single firewall product.
+Hendi Susanto - Gabelli & Company, Inc.
+Okay. Thank you.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from Andrew Nowinski with Piper Jaffray.
+Andrew James Nowinski - Piper Jaffray & Co.
+All right. Thanks. Your operating cash flow, you said that's going to grow in line with the operating income going forward. But obviously, in 2017, it looks like operating cash flow clearly outpaced operating income. Do you think it'll more closely track operating income growth in 2018 and beyond?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, when you step back, I think a couple of things have happened. One, as you said, I think you've had some margin expansion, if you will. And that characterized part of it. And we've also done a really good job I think on cash conversion cycle growing, basically increasing our working capital. We'll continue to focus on that Andrew, but it's a little early to really call that for next year.
+Andrew James Nowinski - Piper Jaffray & Co.
+All right. Fair enough. And then DSOs continued to decline as well, despite the lumpiness in the large deals that you called out. So what are your expectations for DSOs going forward?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, again we've been focused on as I would say cash conversion cycle, and that includes linearity as a component and working with sales to drive more even linearity. And we saw that in Q3. It's a little harder to predict what will happen in Q4. Quite frankly, it'd be nice to see that continue, but it'd be a little early to call that one too. But we remain focused on it to be fair, we do. We talk about it.
+Andrew James Nowinski - Piper Jaffray & Co.
+All right. Then, Ken, I think you mentioned that you started to see a refresh cycle having a more material impact two years out. Are you seeing any customers thinking about upgrading their firewalls to get better SSL decryption performance, given the increasing amount of encrypted traffic that's coming into a data center now?
+Ken Xie - Fortinet, Inc.
+Yes. Some service providers, some call providers, for them I treat SSL encryption acceleration is very important. And using (42:05) approach, difficult to achieve that high performance, so with our SPU, the secured processor, they can run that acceleration 10 to 100 times faster, and even at lower costs after 100 times acceleration. So that's where we see quite some opportunity and also business from there. So it's SSL definitely driving some of the major growth, especially on the e-commerce, on the web based.
+Andrew James Nowinski - Piper Jaffray & Co.
+Got it. Thanks, guys.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from Erik Suppiger with JMP.
+Erik L. Suppiger - JMP Securities LLC
+My question has been asked. Thank you.
+Operator
+Thank you. Our next question comes from Fatima Boolani with UBS.
+Fatima Boolani - UBS Securities LLC
+Hi. Back at it (42:55) again. Drew, just a question for you on some of the longer-term targets that you've talked about historically. So, you're tracking at about 18% billings growth for this year, but the longer-term aspiration is to hit kind of the 20% mark. So the acceleration there, can you help me understand what the input would be to help you drive towards that?
+And maybe contrast that with some of your comments around you being behind on hiring? As well as some of your comments around 150 basis points to 200 basis points of per annum (43:31) expansion on the operating margin? So just help triangulate your billings acceleration, you being behind on hiring, but then also sort of driving operational efficiencies to drive margin expansion?
+Andrew H. Del Matto - Fortinet, Inc.
+Sure, Fatima. Structurally, our business is driving higher margins and you could see that primarily from the gross margin impact, and I think we spent a lot of time talking on the mix shift and more enterprise business and how that reflects more on the deferred revenue, where you have some of the upfront margin due to the product side over time, and then you take â the ratable revenue comes back really in pure margin over time.
+And so that's a tailwind to the business and it's a structural change that's driving. Also, you get more subscription and services revenue, not on a completely flat cost basis on the gross margin line, but it drives, there's scale benefits in that business. And you've seen the leverage as we move forward on the operating lines as well. In terms of head count, we absolutely need to catch up, and that would really be the question in the balance at this point in time.
+Fatima Boolani - UBS Securities LLC
+Got it. And if I can sneak another one in.
+Kelly Blough - Fortinet, Inc.
+Sure.
+Fatima Boolani - UBS Securities LLC
+You talked at a high level about the penetration success you've seen with the enterprise bundles as well as the SMB bundles. You have a tremendously large base and, historically, because you sold your security functionalities sort of a la carte, if you will, can you help us understand what proportion of the base still not had a chance to buy into the bundle proposition, whether it's SMB or enterprise?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. There's actually a couple of things, Fatima. One is the enterprise bundle. Then there's also selling a higher level of support, if you will. We talked about 7x24 versus 8x5. And then we continue to focus on developing more higher-priced higher-content bundles, if you will, which seem to be resonating very well as we continue to sell the Fabric. And so I would characterize it as early, still in that process. We believe we have way to go to upsell and cross-sell and move that into our install base. We're very focused on it and so there's plenty of opportunity there.
+Fatima Boolani - UBS Securities LLC
+Thank you.
+Operator
+Thank you. Our next question comes from Ken Talanian with Evercore ISI.
+Ken Talanian - Evercore ISI
+Hey, guys. Thanks for the follow-up. Just a quick question. Have your hiring plans been altered at all by your real estate investment plans? I mean is there a correlation there?
+Andrew H. Del Matto - Fortinet, Inc.
+No.
+Ken Talanian - Evercore ISI
+Okay. Thank you.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah.
+Operator
+Thank you. Our next question comes from Anne Meisner with Susquehanna Financial.
+Anne M. Meisner - Susquehanna Financial Group LLLP
+Thank you. Drew, quick follow-up for you. I don't think we've discussed everyone's favorite subject yet, which is ASC 606. And I know that the last time you gave an update, you felt that there wasn't going to be a ton of change in sort of the recognition part of that on the rev rec side, I guess. But since we're kind of talking about product recognition and carve-outs, I just wanted to ask you again because some other security vendors have talked about how ASC 606 may require them to ratably recognize the appliances because they would be kind of tied to their subscription components. And I'm just wondering if that's something that might end up being the case for your model as well.
+Andrew H. Del Matto - Fortinet, Inc.
+We're not finding that to be the case, Anne, obviously we're not through it, but right now we would still say that we don't see a significant impact on the revenue line.
+Anne M. Meisner - Susquehanna Financial Group LLLP
+Okay. Great. Thanks.
+Andrew H. Del Matto - Fortinet, Inc.
+You're welcome.
+Operator
+Thank you. I'm showing no further questions at this time. I would now like to turn the call back over to management for any closing remarks.
+Kelly Blough - Fortinet, Inc.
+Thank you again, everyone, for being on both calls today, and if you have any follow-up questions, please feel free to call me. Thank you. Bye-bye.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude this program. You may all disconnect, and have a wonderful day.

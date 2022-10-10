@@ -1,0 +1,255 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q3 2021 Earnings Conference Call October 25, 2021 5:00 PM ET
+Company Participants
+Alan Lindstrom - Senior Group Director of Investor Relations
+Lip-Bu Tan - Chief Executive Officer
+Anirudh Devgan - President
+John Wall - Senior Vice President and Chief Financial Officer
+Conference Call Participants
+Joe Vruwink - Baird
+Jason Celino - KeyBanc
+Jackson Ader - JP Morgan
+Pradeep Ramani - UBS
+Jay Vleeschhouwer - Griffin Securities
+Gal Munda - Berenberg
+Gary Mobley - Wells Fargo Securities
+Tom Diffely - D.A. Davidson
+John Pitzer - Credit Suisse
+Charles Shi - Needham & Company
+Vivek Arya - Bank of America
+Operator
+Good afternoon. My name is Jumeirah, and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Third Quarter 2021 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+I will now turn the call over to Alan Lindstrom, Senior Group Director of Investor Relations for Cadence. Please go ahead.
+Alan Lindstrom
+Thank you, Jumeirah. I would like to welcome everyone to our third quarter 2021 earnings conference call. I am joined today by Lip-Bu Tan, Chief Executive Officer; Anirudh Devgan, President; and John Wall, Senior Vice President and Chief Financial Officer.
+The webcast of this call is available through our website cadence.com and will be archived through December 17, 2021. A copy of today's prepared remarks will also be available on our website at the conclusion of the call today.
+Please note that the discussion today will contain forward-looking statements. Forward-looking statements include, but are not limited to statements about our business outlook, product development, business strategy and plans, industry and regulatory trends, market size, opportunities and positioning. Due to known and unknown risks and actual uncertainties results may differ materially from those projected or implied in today's discussion.
+For information on those factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, and the cautionary comments regarding forward-looking statements in todayâs earnings press release.
+You should not rely on our forward-looking statements as predictions of future events. All such statements are based on estimates and information available to at the time and Cadence disclaims any obligation to update any forward-looking statements except as required by law.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non- financial or non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to review results using certain non-GAAP financial measures. These non-GAAP financial measures should not be considered an isolation from or as a substitute for GAAP results.
+These non-GAAP financial measures are not based on any standardized methodology prescribed by GAAP and may not be comparable to similarly titled measures from other companies. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results in todayâs earnings press release.
+Copies of todayâs press release dated October 25, 2021 for the quarter ended October 2, 2021, related financial tables and the CFO commentary are also available on our website. For the Q&A session today, we would ask that you observe a limit of one question and one follow-up and you may re-queue if you would like to ask additional questions and time permits.
+Now, I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone, and thank you for joining us today. 
+Cadence delivered strong financial results for the third quarter, driven by accelerating customer demand for our innovative solutions and continued solid execution by the team. Driven by the broad-based strength of our business, we are raising our financial outlook for the third time this year and are expecting about 11% revenue growth and 37% non-GAAP operating margin for 2021. John will provide the details in a moment for both our Q3 results and the updated outlook for the year.
+The data driven era is being fueled by generational trends like 5G, hyperscale computing, autonomous driving and industrial IoT that are accelerating the digital transformation of several industries. This requires continued innovation in key areas such as compute, connectivity, storage, and data analysis, which in turn is driving secular semiconductor growth and design activity across a wide range of end markets.
+Before I ask Anirudh to go through the business and product highlights for the quarter, I would like to remind you that I will be transitioning to the role of Executive Chairman on December 15, with Anirudh becoming our President and CEO at that time.
+It has truly been an honor leading Cadence for the past thirteen years. Iâm very proud of the teamâs accomplishments and grateful for the confidence and trust that our customers and shareholders have placed in us. Cadence is extremely well-positioned, and as I hand the baton over to Anirudh, I can think of no one better to lead the company through its next phase of growth and I eagerly look forward to him taking Cadence to new heights. While I will remain engaged with shareholders, that will be my -- this will be my last earnings call.
+Thank you very much for your continued support, and I will now turn the call over to Anirudh.
+Anirudh Devgan
+Thank you, Lip-Bu. Our Intelligent System Design strategy leverages our strong computational software expertise as we expand beyond EDA into new markets, and weâre uniquely positioned to capture the exciting opportunities that Lip-Bu talked about.
+As we execute to our strategy, we are especially pleased to see our EDA, IP and systems solutions being increasingly adopted by a growing number of systems companies. For instance, Tesla utilized a broad set of Cadence EDA software solutions and hardware platforms to enable the successful delivery of their innovative Dojo system.
+Delighting customers and accelerating growth requires a relentless commitment to innovation. This quarter we launched the Integrity 3D-IC Platform, Tensilica AI Platform, Midas Safety Platform and the Helium Virtual and Hybrid Studio. We have now introduced 13 significant, innovative products this year across all of our business groups, and these will be key drivers of our future growth.
+Let me share some of the business highlights starting with Digital and Signoff, which had another strong quarter with 18% year-over-year revenue growth. 
+Our digital full flow delivering industry leading quality of results at the most advanced nodes, continued to proliferate with market shaping customers, and was adopted by 13 new customers. We are very pleased with the growing momentum of our transformative Cadence Cerebrus solution, that incorporates unique reinforcement learning AI/ML technology, to deliver significant PPA, power, performance and area, and productivity gains.
+In addition to the Samsung and Renesas endorsements at the time of launch, several market shaping customers have added Cadence Cerebrus to their production flows and are realizing great benefits. As an example, a global mobile semiconductor company used Cadence Cerebrus on their manually tuned CPU design to reduce total power by almost 10% and improve timing by over 25% automatically in only eight days.
+Additionally, Cadence Cerebrus enabled a marquee mobile systems company to reduce the power consumption of their 4 nanometer design by over 25% and get over 10X improvement in productivity. We continued growing our business with hyperscaler customers, including a broad expansion of our EDA software with a marquee hyperscaler, that included a significant commitment to our digital products .
+Next, I will talk about our Verification business, which had a strong quarter with 13% year-over-year revenue growth. Growing system design complexity and need to get first time right silicon continues to drive strong demand for our Verification Suite, which provides a comprehensive solution across IP, SoC and system verification, hardware/software regressions, and early software development.
+This momentum is especially noticeable in our hardware business, where customers are deploying a significant additional capacity as they reap the performance, quality and productivity benefits of our industry-leading hardware platforms. Accelerating adoption of our new Dynamic Duo, the Palladium Z2 and Protium X2, led by hyperscaler and global marquee customers, drove the majority of hardware orders in this quarter.
+In Verification software, Xcelium-ML, our machine learning optimized logic simulator delivering up to 5X faster regressions, was adopted by marquee customers in North America and Asia. We launched the Helium Virtual and Hybrid Studio, a new platform that accelerates the creation of virtual and hybrid prototypes of complex systems, enabling early software bring up. Helium was endorsed by Nvidia and several other engagements with leading customers are underway.
+We also announced the Midas Safety platform, which is part of the comprehensive Cadence Safety solution featuring integrated digital and analog safety flows and engines for faster certification of safety critical automotive designs.
+Moving onto System Design & Analysis, I am particularly pleased that this segment which is driving our market expansion beyond EDA, continued to deliver strong double-digit growth, increasing revenue by 17% year-over-year, as we grew our footprint in several verticals including aerospace and defense and 5G communications.
+With 5G and AI/ML applications pushing silicon vertical limits, and transistor scaling slowing down, thereâs an accelerated move to disaggregate SoCs into a heterogenous set of discrete die that can be integrated together with sophisticated packaging technology.
+Leveraging over two decades of pioneering packaging expertise, weâre very excited to have launched Integrity 3D-IC, the industryâs first and only comprehensive platform that ties together our best-in-class system planning, implementation and thermal, timing and power analysis technologies, along with a multi-technology database, all in a unified cockpit.
+This third-generation 3D-IC solution enables designers to achieve system-driven PPA with reduced design complexity and faster time to market, and weâre engaged with several leading semi and system houses, foundries, and packaging companies.
+Our organically developed system analysis products continued to make good headway, with Clarity, our electromagnetic 3D simulator, displacing the incumbent solution and becoming plan-of-record at a marquee hyperscaler. And Celsius, our electro-thermal 3D simulator, was deployed at a global marquee systems
+customer. Our recently acquired CFD solutions also delivered strong results, winning new business with several automotive, and aerospace and defense customers.
+And now before I turn it over to John, I wanted to say a few words about the upcoming CEO transition on December 15. On behalf of the Cadence Board and our employees, I want to thank Lip-Bu for his outstanding leadership and his numerous illustrious accomplishments over the past thirteen years, that have made a lasting impact on our industry and on Cadence.
+With his laser focus on creating a highly innovative and results-based culture, he drove a cultural transformation at Cadence that was rooted in customer and shareholder success, leading to trusted partnerships with market-shaping customers and delivering shareholder return of over 3500%.
+I am especially grateful to Lip-Bu for his mentorship and guidance and look forward to continuing our partnership in our new roles, as along with our talented team, we relentlessly drive to deliver strong business results and delight our customers and shareholders.
+Now, I will turn it over to John to go through the Q3 results and present our Q4 and updated 2021 outlook. 
+John Wall
+Thank you, Anirudh and thank you Lip-Bu. They say values are like fingerprints. Nobodyâs are the same, but you leave them all over everything you do. Your impact on Cadence has been significant and will last for many, many years to come. Itâs been a truly remarkable run over the past 13 years, and I feel blessed to have had the chance to work so closely with you.
+Iâve also heard it said that, legacy is not something you do for yourself, but itâs something you leave for the benefit of the next generation, and on behalf of all Cadence stakeholders, Iâd like to thank you both for conducting such a smooth CEO transition. We havenât missed a beat.
+Focused execution by the entire Cadence team, combined with broad-based strength across our product portfolio and customer base, drove another strong quarter of top and bottom line results. We exceeded our expectations for all key financial metrics, and we are raising our financial outlook for the year.
+Now letâs go through the key results for the third quarter, beginning with the P&L. Total revenue was $751 million. Non-GAAP operating margin was 35.7%. GAAP EPS was $0.63, and non-GAAP EPS was $0.80.
+For the balance sheet and cash flow, cash totaled $1.014 billion at quarter-end, while the principal value of debt outstanding was $350 million. Operating cash flow was $296 million. DSOs were 40 days, and we repurchased $110 million of Cadence shares during the quarter.
+Next letâs turn to our updated outlook. Our outlook continues to assume that there will be no changes to the export limitations that exist today. For fiscal 2021, we now expect revenue in the range of $2.960 billion to $2.980 billion. Non-GAAP operating margin of approximately 37%. GAAP EPS in the range of $2.36 to $2.40, non-GAAP EPS in the range of $3.24 to $3.28, and operating cash flow in the range of $975 million to $1.025 billion.
+For the fourth quarter, we expect revenue in the range of $745 to $765 million, non-GAAP operating margin of approximately 35%, GAAP EPS in the range of $0.49 to $0.53, non-GAAP EPS in the range of $0.76 to $0.80, and we expect to repurchase $110 million of Cadence stock in Q4.
+Our CFO Commentary, which is available on our website, includes our outlook for additional items as well as further analysis and GAAP to Non-GAAP reconciliations.
+In closing, I am pleased that revenue growth continues to accelerate with our three-year revenue CAGR now approximately 11.5% at the midpoint of guidance. We are expecting approximately $1 billion of operating cash flow for 2021 at the midpoint, and we are on track to deliver over 50% incremental operating margin for the year.
+As always, I want to thank our customers, partners, and of course, our employees for their continued support. And with that, operator, weâll now take questions.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions]
+Your first question will come from the line of Joe Vruwink with Baird. Please proceed with your question.
+Joe Vruwink
+Great. Hi, everyone. And let me just start by extending my best to Lip-Bu. Maybe I'll begin with the next-generation hardware with simulation of prototype thing. I'm wondering, was component availability at all a factor in either meeting demand in the quarter, or does component availability factor in at all to the forward outlook, either in a good way catching up on maybe things that slipped this quarter or considering maybe demand getting extended into next year.
+John Wall
+Hi, Joe. This is John. Thanks for the question. Yes, we're delighted with the demand for our hardware verification systems and we're building the systems as quick as we tend to meet that demand. Yeah, we're very, very pleased with the customer reaction and like building the systems as quickly as we can. I'd say it's fair to say that demand is outstripping supply right now, but we're building as fast as we can and you can see it in the inventory number, inventory slightly up.
+Joe Vruwink
+Okay. That's helpful. And then maybe more of a product or, strategy question. When you announced 3D-IC and the co-design that needs to happen between package and chips being stacked. Is it as simple when you think about the opportunity for Cadence as simple as customers adopting the new Integrity platform, or is it maybe broader than that? And this trend across the industry actually happens to impact, and kind of said multiple areas of the Cadence product portfolio.
+Anirudh Devgan
+Yeah. That's a great question. Let me take that. This is Anirudh. So, we believe that 3D-IC is the future, right? So the road to the future goes through 3D-IC for multiple reasons, which I mean, putting multiple chips on a package, mixed technologies ability to be to bigger and bigger systems. And I do believe that Cadence is uniquely positioned for that and it affects multiple technologies. Now some of it is because of our history. So you have had a leading platform in packaging for a while with Allegro and a leading platform in analog with virtual so for awhile, and then over the last five years, we have done very well in digital. And then, if you remember over the last two, three years, we have done lot of investment in system analysis. Like Clarity and Celsius are also critical for 3D-IC. Given that terminal is a big challenge when you put these things together.
+So, I believe Cadence is uniquely positioned. And with Integrity, put this altogether. And it's not just Integrity draws into the other parts of Cadence, like I mentioned. And then as a comparison when -- as we work with customers and leading foundries to do something similar in other products, it's not even one company can bring -- you need a three or four companies to do the same thing whereas if you come to Cadence, we have a comprehensive solution across multiple segments. So I think as 3D-IC takes more momentum going forward, I believe we are well-positioned.
+Joe Vruwink
+That's great. Thank you very much.
+Operator
+Your next question will come from the line of Jason Celino from KeyBanc. Please proceed with your question.
+Jason Celino
+Great. Thanks for taking my question. And Lip-Bu, it's been an absolute pleasure, glad to have you on for one more earnings call. So to my question, with the supply chain shortages, we've seen several different automakers, like Honda and Volkswagen announced intentions to design some of their own semiconductors, but we know that these design cycles are quite long and it's a multi-year investment. So how do we think about this as maybe an incremental dollar opportunity versus just market shift from customers taking some of those workloads in-house?
+Lip-Bu Tan
+Yeah. Jason, first of all, thank you so much for the kind words. I encumbered the global supply change we monitoring the semiconductor global supply change very carefully. So far we don't see any slow down in our design activity across our customer base. And then as you know, our product is very much focused on the R&D engineering, designing that chip system. And so --and this is a multi-year approach. And I mentioned earlier, the generation's drivers have been really driving a lot of increase in the design activity.
+And then answer your question in term of automotive buy cycle, yes, you are absolutely correct itâs a multiple year increments and then lately, because of more and more electronics in the automotive. So we see a lot of design activity like autonomous driving. And I think Anirudh mentioned about the Tesla, autonomous driving, the AI chips and using our broad-based Cadence tool. That's one good example and many more coming. And so I think clearly we're excited about the automotive platform that will create opportunity in the multi-years to come.
+Jason Celino
+Okay. And then -- good -- thanks for that. That was helpful. And maybe my quick follow-up is, I think the automotive customers have been maybe the one more vocal, but are you seeing these type of trends in other industries as well in terms of the -- with that? Thank you.
+Lip-Bu Tan
+Yeah. I think it's a very interesting, challenging opportunity time in this whole supply chain. Clearly in our part, the automotive industry is starting to become a very realized that in not the whole visibility to the supply chain and become very important for them. And so in different automotive company, they experienced different challenges in the supply chain, and we are here to help them in term of that design automation and the whole system level in a complexity of design and then time to market. And then, so we try to be available and be helpful to them as a design partner and then -- and also support them throughout this period. So, I think you are going to see more and more opportunity and the automotive is a big platform for us.
+Jason Celino
+Great. Thank you.
+Operator
+Your next question comes from the line of Jackson Ader from JP Morgan. Please proceed with your question.
+Jackson Ader
+Great. Good evening guys. Thanks for taking my questions. And I'll just quickly echo all the kind words that have already been said about Lip-Bu. Yeah, congratulations and looking forward to continuing the relationship. So Anirudh, you mentioned that in the last few years, digital tools have been driving a lot of growth, and I think you also mentioned that a hyperscaler this past quarter significantly increase their digital footprint. I'm just curious, what tools or at least what parts of the digital design flow, just from a high level of synthesis place and route, what have you are actually driving the increase uptick maybe in the last 12 to 18 months in digital?
+Anirudh Devgan
+Yes. Thanks Jackson for the question. So I think as you know, like at lower notes, we're always believed that the integration of the whole digital full flow is critical. So that said, this is a place and route and signoff. So what we are pleased to see, especially in the last, let's say 12 months is, is a wider deployment of our digital tool flows. So we went back like few years ago, the engagement would start with Innovus and that was the leading kind of product that we would do well in. But now I think overall market has accepted our full flow and we see more and more signs of that. So that includes synthesis and signoff along with Innovus and that is becoming more the norm than anything else.
+So to answer your question, not only Innovus as well, but now synthesis and signoff, which is Genus and Tempus and Quantus, we are pretty happy with the proliferation. And I think that's the trend here to stay.
+Jackson Ader
+All right. Awesome. Thank you. And then, quick follow-up John, can we just get -- what is going on with backlog and the implied bookings it's really swung around a bunch this year, just curious if there were integration impacts or, what would you be reading into in terms of the implied bookings number this quarter?
+John Wall
+Yes. Jackson, thanks for the question. But I wouldn't read too much into it. Again, it's like the timing of contract renewals. We had a similar phenomenon in Q1. We would expect to end the year with a higher backlog and RPO than we started the year. And that's reflected as well. If you have a look at the margin guidance for Q4, margin guides for Q4 is slightly down on what we achieved in Q3 because of the impact of some hiring and an expectation for higher sales commission costs in Q4, because we expect a lot of bookings to come through in Q4.
+Jackson Ader
+All right. Awesome. Thank you.
+Operator
+Your next question comes from the line of Pradeep Ramani from UBS. Please proceed with your question.
+Pradeep Ramani
+Hi. Thank you for taking my question. I just wanted to get some more insight on the Verification team. It seems like the Verification for September was flattish to down a little bit versus June, and yet hardware seems to be doing well. So I read this interpret that it's more on the software side that you see maybe the let go then what might have been anticipated, or are used being constrained on the hardware side. And I just want to get a sense of ramp on the hardware side as well.
+John Wall
+Hi, Pradeep. This is John. We're absolutely delighted with the customer reaction to our new hardware systems. That's a -- and we're building in installing inventory as fast as we can to meet their demand. But I'd remind you that Cadence is part of the design cycle, but -- so I mean, it hasn't really impacted us too much with our customers that -- and then in relation to your comments on growth, we raised guidance for the year. We were very happy with growth. We were seeing accelerating growth. When you look at the three-year CAGR and I've called them out on the CFO commentary, it's rounding up to 12%, now it's approximately 11.5%. And that seems to continue to increase year after year. And that's reflecting strong demand across all lines of business.
+Pradeep Ramani
+Okay. And so my follow-up on, the digital IPs. I mean, it has been very strong. Are you seeing increasing competitor displacements, or is it more of a market being strong? Can you speak to maybe qualitatively on how you're sort of using digital IP going forward as well?
+Anirudh Devgan
+Well, it continues to do well, like you saw, and I think it's a combination of things. I mean, the market is definitely growing, because of all this digital connectivity, as you can see in these multiple domains. The market is growing and we believe that we are also taking market share. So I would say it's a combination of both these things driving our digital growth.
+Pradeep Ramani
+Thank you.
+Operator
+Your next question will come from the line of Jay Vleeschhouwer with Griffin Securities. Please proceed with your question.
+Jay Vleeschhouwer
+Thank you. Good evening. Anirudh, both of my questions are for you, but first, on a personal note, Lip-Bu, it's been a pleasure working with you for the last 13 years. And certainly look forward to continuing the dialogue with Anirudh. So first question Anirudh, at the Cadence slides, Europe conference a week or so ago, Cadence said in one of your presentations that Allegro had recently undergone a major overhaul, which we certainly saw with Allegro X, the question is what's next in terms of anything you might be working on for an additional major overhaul. We do see this periodically in EDA, for example, Synopsys a few years ago, significantly ramped up its internal investments in synthesis and they launched their new version of DC.
+And I'm wondering, based on what seems to be your internal investment patterns, if you're undergoing a rejuvenation or reinvestment cycle for your synthesis or what else you might be able to talk about in terms of any major overhauls.
+Secondly, with regard to the ingredients you need to succeed with the computational software strategy, there was an interesting announcement two weeks ago of the relationship between Synopsys and Dassault. And I'm wondering if you see youâre having to partner more for both technical and channel expansion reasons to succeed in computational software.
+Anirudh Devgan
+Yeah. Jay, both great questions. I think in terms of new kind of -- you said new products or revamp of existing products. So we are continuously looking at that in all the time. You want to make sure all our products are doing well. As you can see this year, we have launched 13 new products. Several of them are improvement of existing products like Allegro X or Sigrity X. So I think this is a continuous process. As you know, we have a very high investment in R&D compared to our peers. So we are constantly looking at that and you'll see more things come out, of course, as we go forward.
+On the second one, we are confident in our computational software strategy, that's delivering good results. I think we have lot of organic ability to innovate, which we demonstrated with Clarity and Celsius. And at the same time, we are definitely looking at a new partnerships that make sense, like you said, both on the product side and on the go-to-market side. So I think we will talk about them when they're ready, but Cadence always has a culture of partnering. We partner, for example, with MATLAB, that was a great partnership. At the system level, we partnered with National Instruments, then we bought AWS from them. We have partnership with Green Hills, so we're always looking for win-win partnerships and that continues to be the case going forward.
+Jay Vleeschhouwer
+Yeah. Got it. Thanks Anirudh.
+Anirudh Devgan
+Thank you.
+Operator
+Your next question will come from the line of Gal Munda from Berenberg. Please proceed with your question.
+Gal Munda
+Yeah. Hi, thanks for taking my questions. Just this first one in terms of strong margin outperformance again, and then kind of thinking about for the rest of the year, maybe John, to you. You mentioned that a little bit it has to do with the timing, a little bit it has to do with investment, but we thinking about kind of sustainability of the margin performance. How much is it kind of inability, or maybe not being able to hire and invest as much as you'd like right now versus just the top line really driving the additional scale that you're seeing, if that makes sense.
+John Wall
+Yeah. Great, great question Gal. And we're back on track with hiring. I think our hiring performance has been really good and we're delighted to be recognized on so many of these top 100 places to work around the world. That's certainly helping us with our hiring activity.
+Yeah. On the margin side, it's really outperformance on the revenue side on like right across all our lines of business. We thought IP would have a soft middle to the year and it would recover toward the end of the year, started recovering a bit earlier that they had a strong finish to Q3 and we're expecting good things for them in Q4.
+On the hardware side, again, demand, customer reaction has been tremendous and demand is really strong there. And on the software side, all lines of business are performing really, really well. And like to say over -- if you look over a contract cycle over a three-year CAGR basis that we're continuing to see accelerated revenue growth. So on the operating leverage side, we're delighted with the operating margin performance. Second half of the year include some double up on expenses. We did an early retirement program. But I think the overall businesses is pretty much -- I mean, if you take out the one-time things, we're operating pretty much at the guide we've given for the year, which is about 37%.
+Gal Munda
+Gotcha. And then as a follow-up, just on the top line again, we mentioned -- you touched a little bit on the supply chain issues in the semis. And when you moved kind of through the year, you said it's incrementally affecting the business on the royalties. Now we're talking about the hardware demands being stronger than kind of the ability to supply. Is there a way to kind of quantify that from your perspective in order to kind of understand that the magnitude of the impact that's kind of demand is there, but we're kind of limited by the supply side?
+John Wall
+Yeah. There's a very small impact to us. Like saving the majority of our revenue comes from part of the design cycle. The chip capacity constraints that you're referring to is really impact the production side of the cycle. And that's where -- it touches us in terms of royalty revenue. I think last year royalty revenue for Cadence was around $50 million, but this year would be slightly lower than $50 million. But we'd expect that to recover again next year. Yeah. So the impact is pretty small.
+On the same -- then on the hardware side, we're happy with our supply chain and you see inventory growing a little bit. We talked a couple of years ago about moving from just-in-time to just-in-case in terms of our inventory management. So, we carry a lot of inventory. So we're -- I think we're well protected certainly for the next few quarters on the supply chain side, which we're very happy with where we're positioned right now.
+Gal Munda
+Right? I mean just to clarify, the royalties, nothing has changed over the last couple of quarters. Once you kind of said that the impact is -- they slightly down from last year, that's kind of consistent to what you said.
+John Wall
+That's right. That's right. I mean, there's -- our IP business is mix of licensing and royalty business, and chip capacity constraints from last year could feed into unit production this year and royalties are slightly down, but it's very, very small in terms of the impact of Cadence on our overall numbers.
+Gal Munda
+Thank you so much.
+Operator
+Your next question will come from the line of Gary Mobley from Wells Fargo Securities. Please proceed with your question.
+Gary Mobley
+Hey, guys. For different reasons, let me extend my congratulations for the next chapter for Anirudh and Lip-Bu. I wanted to start out by asking about the X2, Z2 products in the step function increase in processing power that these neutrals facilitate. And the way I understand it, it allows customers to not only bring up hardware, but also in parallel bring up software. And so my question is, can you give us a sense of the magnitude of how this increases the potential dollar opportunity with each customer engagement or, how it improves your sort of available market with this new software bring up capability? Thank you and a follow-up.
+Anirudh Devgan
+Yes, Gary, that's a good -- that's a great question. And you're absolutely right. I mean, the reason for doing also Protium X2 with having the same front end as Palladium is to expand our reach to more and more software bring up. And if you -- this quarter, when we launched Helium for the same reason. So, not only we can run RTL, but with Helium, we can run hybrid models, high level models with RTL, all this is for software bring up. And historically I think Cadence has done well in RTL, with Palladium, but not as well -- the market is growing more in the software bring up. And now we are doing pretty well with Palladium -- with the combination of Palladium and Protium and Helium for software bring up.
+So I think those are the market, of course, itâs difficult to quantify, but at a high level, I think the market opportunity is maybe one and a half to two X larger once you combine the software and the hardware bring up together. Of course, it takes several years to fully realize all this. But I think the market opportunity for Cadence with Protium, Palladium and Helium is much expanded because of the software bring up opportunity.
+Gary Mobley
+I appreciate that Anirudh. And perhaps this is for John, but I want to ask about navigating the China export restrictions. And maybe if you could give us a sense of whether any more difficult or any easier to obtain licenses to serve -- service those customers based in China. And then maybe gets a sense of what the various puts and takes are there for China revenue growth or lack thereof as we sit here in the second half of fiscal year 2021.
+John Wall
+Yeah. Gary, good question. Yeah. When I look at China revenue, I think it's probably easier to look at China over a two-year period because last year with the pandemic impact in the 53rd week impacting Q4, I think if you look at where we're on track for 2021, it's probably 30% CAGR in terms of growth in China since 2019. We're working our way through all the export controls and everything that we -- all the complaints that's required. And we have, and we will continue to comply with all export control regulations, but the situation is fluid and we have to continuously monitor it. But our outlook assumes everything that exists today remains in place today.
+We haven't predicted any changes that, of course, if there are changes, we would have to take another look at our outlook. But essentially for the sake of guidance, we just assumed that all export limitations that exist today for certain customers would remain in place for the remainder of the year. And then for 2022, we'll update you all in 2022 when we give you our year-end results in February.
+Gary Mobley
+Thanks, John.
+John Wall
+Thanks.
+Operator
+Your next question will come from the line of Tom Diffely from D.A. Davidson. Please proceed with your question.
+Tom Diffely
+Yes. Good afternoon and thanks for taking my question. So, Lip-Bu, I guess I've only been around for the last 12 years, but since then the stocks gone from $6 to $1.67. So, obviously very impressive, but I look forward to the interview taking it to 4,000 over in the next 12, 13 years. So, I guess, a question on the supply chain, from maybe a little different angle, what are you seeing in terms of capacity at the foundries? And just curious if you're taking steps to diversify foundry activity from either geographic or company specific reasons.
+Anirudh Devgan
+Well, let me -- yeah, that's a good question. I think, like Lip-Bu and John mentioned, we are more on the design side, so we are trying to make sure that we can serve all our customers as they continue to do all these designs. And in that process, we work with all the foundries, all the major foundries, of course, in U.S. and Asia and different parts of the world. So, we have a pretty healthy relationship with all the major ones and we are encouraged to see more investment in the U.S. So, with our overall position, Tom, we are pretty active with all the major foundries and we hope to continue that.
+Tom Diffely
+I was wondering more on the manufacturing of your chips that you design and build and put in your Palladium and what have you?
+Anirudh Devgan
+Okay. Got it. Yeah. So I think the current set of Palladium chips -- I mean, the Palladium has -- itâs a big system, so it has lot of chips that goes into it. And some of them we buy and some of them we make ourselves. So, the ones we make ourselves are made by TSMC, which is one of the leading foundries and we continue to work with them. And we are designing new systems, the next generation of Z2. And we always look at all the foundries, but overall, we are very happy with our foundry partners for the Palladium Z2 system.
+Tom Diffely
+Okay. Great. And then I'm curious, are you seeing an impact from COVID in any of the kind of mini regions that you participated in around the world from this manpower point of view?
+Anirudh Devgan
+I think it's fair to say that the impact was more like a few months ago. I mean, you still have impact, and we are still mostly, of course, working from home in several parts of the world. And we are slowly opening some offices. But in terms of -- we had a big impact in India a few months ago, I think that has thankfully improved and so it's become more of the norm now and we just continue to work through it. So, no new things, I think in the last three months.
+Tom Diffely
+Great.
+Anirudh Devgan
+Our return to work was delayed a little bit, because of Delta. So, we hope to take that up early next year, but other than that, we are working through all the COVID issues.
+Anirudh Devgan
+Great. Okay. Thank you, Anirudh.
+Anirudh Devgan
+Thank you, Tom.
+Operator
+Your next question will come from the line of John Pitzer with Credit Suisse. Please proceed with your question.
+John Pitzer
+Yeah. Good afternoon guys. Thanks for letting me ask the question and I'll add my thanks and congratulations to Lip-Bu. My first question, John and Anirudh is really on that three-year CAGR acceleration. And John, I know we've got to wait another 90 days before you give us a full outlook for calendar year 2022, but it's impressive that you guys have seen this acceleration over the last two years in the midst of sort of a global pandemic. And if you look at Street consensus numbers for next year, they've got growth that goes back to that high single digits. And yet you talked earlier about demand outstripping supply.
+Just wondering if you think these double-digit CAGR are sort of here to stay. And if so, to what extent is this sort of the fruits of your labor in some of your SAM expansion efforts versus some of the dynamics of the core business?
+John Wall
+John, that's a great question. I think the nature of our revenue model is such that I wouldn't expect any dramatic changes in our three-year revenue CAGR because 85% to 90% of the revenue is recurring in nature. So, I mean, when we calculate three-year CAGRs by the end of 2022, we'll be including 2020 and 2021 in that. But -- so you're not going to -- you shouldn't really have a dramatic change.
+But I think if you have a look at the CFO commentary, you'll see the kind of step function that we've seen over the last few years, it's been slowly accelerating, but it's pleasing to see that it continues to accelerate. And that we're just up over 11.5% now. So weâre running up to 12% this year. So very, very pleased with the way the business is going. Again, we will refrain talking anymore about 2022, until -- we need another 90 days just to get through -- just to get through Q4 for that. But yeah, very, very pleased with the way it's going and because of the recurring revenue nature of so much of our business, I wouldn't expect the three-year CAGR to change pretty much.
+John Pitzer
+That's helpful. And Anirudh, I'd love to get your thoughts. Clearly the U.S. and Europe had to have, I guess, rediscovered how strategically important the semiconductor business is. And you're seeing sort of this push to regionalization of supply, but it's not just about manufacturing. I think that world governments are going to incentivize sort of IP domestically as well. And so, I'm kind of curious if you guys have kind of thought through or could help us think through what you think the impact to your business will be from things like the chips act and similar legislation that's trying to make its way through the EU right now.
+Anirudh Devgan
+Yeah, that's a good point. And we are eagerly awaiting all the details. But if you -- as you know, and the chip side there is funding for manufacturing, but there's also funding for R&D and then as you said, it's not just the hardware or the other manufacturing spend. It's also the IP and the software that enables all these themes. So I think we are optimistic about all this investment in different parts of the world, but I think the details as you know still have to be sorted out. But overall, we have a strong portfolio in multiple geographies. So, as there is more investment in U.S. and Europe, I think that that is a systematically positive for â¦
+John Wall
+Yeah, John, that's a great indication. I am sorry. That's a great indication of all the design activity that's going on. I mean, we're seeing strong secular demand across all these generational drivers. We have a great strategy, great portfolio and solid execution that -- and everything you mentioned kind of just indicates more design activity globally, and that's good for Cadence.
+John Pitzer
+Perfect. Thanks, guys.
+Operator
+Your next question will come from the line of Charles Shi from Needham & Company. Please proceed with your question.
+Charles Shi
+Hi. Good afternoon. Thank you for taking my question. So, I want to go back to your prepared remarks, you mentioned about Integrity, 3D-IC being the industry's first and only comprehensive platform for3D-IC, but a few days ago, your competitor put out the press release. They said their product is a complete end to end solution.
+I just wonder how do I kind of reconcile the two different comments around these two competing products. And in addition, your competitor, Synopsys they announced a strategic collaboration with TSMC, yet folks obviously we did not see a similar press release coming from you guys right ahead of TSMC opening that innovation platform forum, which will start tomorrow. So, kind of kind of wonder what -- how your positioning and whatâs the progress of Integrity 3D versus your competing platform? Thank you.
+Anirudh Devgan
+Yeah. Thank you. Thatâs a good question. So, in terms of Integrity, like I said in my remarks, I think we are pretty confident of our position. And you know lot of the 3D-IC thing, itâs not one thing, itâs a combination of lot of things. So, for example, some 3D-IC systems are more package based, some are more package technology based. Some of them are more interpolar based, which is a more digital technology, but all in all, Cadence is the most unique platform. We are leadership in packaging with Allegro, with analog in Virtuoso, with digital in [indiscernible] and all the analysis tools with Clarity and Celsius and they are all integrated and best of class solutions. So, we are pretty confident of our position and the response we are getting.
+And to your question with TSMC, TSMC is a great partner of Cadence. And we are working with them on a variety of things, including integrity 3D-IC. And actually to give you, example, one of the leading mobile customers did a 3D-IC solution with that with us and TSMC. And one of the key things there was the thermal profile and they used Celsius to do silicon validation that Celsius is accurate for 3D-IC temperature simulation. So, I think 3D-IC is going big. And it requires multiple products and multiple implementation flows, and we are pretty confident in our position.
+Charles Shi
+Thank you, Anirudh. And maybe a second question. Not sure if this has been asked before since I recently just started following you guys. I want to ask a question about Intel, that the Intel IBM 2.0 strategy. I know you probably donât want to be too customer specific about that turnaround offered by Intel is too material more in my opinion. Any thoughts on how Cadence can do to support Intelâs turnaround efforts over the coming years. And if you donât want to comment Cadence specific maybe give us some color at the industry level? Thank you.
+Anirudh Devgan
+Yeah. Thank you for the question. I think Intel -- we are glad to do more with Intel. Actually they have the Intel foundry announcement and also some new programs like Ramsay with the government. And Iâll just quote what is already public by Randhir, who is the Head of Intel Foundry. He says along with our customers and ecosystem partners, including IBM, Cadence, Synopsis and others, we will bolster the domestic semiconductor supply chain. So, this is official comment from Intel, and I think we let them speak for the strategy, but we are glad to do more with Intel. Thank you.
+Charles Shi
+Thank you.
+Operator
+Our final question will come from the line of Vivek Arya from Bank of America. Please proceed with your question.
+Vivek Arya
+Thanks for taking my question. And congrats and best wishes to Lip-Bu and Anirudh from my side as well. For my first one, on your NUMECA and Pointwise acquisition and just kind of the general expansion into System Analysis and CFD, could you give us a sense how big is it today? How big can it be over the next one year, two years? And importantly, when does that start becoming accretive, right, to the 11% -- 11.5% kind of growth model that you have?
+John Wall
+Yeah. We are very pleased -- I am sorry Anirudh.
+Anirudh Devgan
+No. Go ahead John.
+Anirudh Devgan
+Iâm just saying weâre very pleased with the M&A integration for NUMECA and Pointwise, but not hugely significant from a revenue standpoint right now, but we would expect them to be accretive next year.
+Vivek Arya
+Got it. And then maybe as a follow-up, I think John, you mentioned some higher costs in Q4, are they one-off costs or do they become kind of the baseline as we start thinking about OpEx for next year?
+John Wall
+Yeah. Great question. I mean, slightly -- I expect slightly higher cost in Q4 versus Q3 partly due to -- we did a bit of catch-up in hiring in Q3. And of course, anyone we hired in the second half of Q3 will have a full quarter of their expense in Q4 where you didnât have a full quarter of expense in Q3. So, slight uptick for that.
+And then secondly, I expect a little bit more on commission costs because we expect bookings to be stronger in Q4. Because I would anticipate that we will finish the year with a stronger RPO then we started the year. So, weâre expecting a good bookings quarter in Q4, which will add a little bit of commissions expense and then also we have slightly higher T&E impact than forecasted.
+Vivek Arya
+That continues into Q1? I know youâre not giving Q1 guidance, but all else being equal, does that become kind of the baseline for going into Q1?
+John Wall
+Yeah. I feel very good about the continuing operating leverage. So, I donât think thereâs any near term ceiling on operating leverage. I mean, you will see that weâre up to 37% now, but itâs the fifth year in a row that weâve delivered more than 50% incremental margins. So, every dollar revenue growth from 2017 until now we're dropping through more than $0.50 of that revenue growth through to operating income. So, as long as we're delivering incremental margins of over 50% that operating leverage will -- should continue to rise.
+Vivek Arya
+Got it. Thanks very much.
+John Wall
+Thanks.
+Operator
+And that concludes our question-and-answer session. I would now like to turn it back over to Lip-Bu Tan for closing remarks.
+Lip-Bu Tan
+Thank you all for joining us this afternoon. It is an exciting time for Cadence with growing market opportunities and strong business momentum. Our intelligent system design strategy is playing out very nicely, as we benefit from new opportunities in design excellence, system innovation and pervasive intelligence, and an expanded total addressable market.
+We are proud of the innovative and inclusive culture that we have built at Cadence and are grateful for the recognitions weâve received over the years, including most recently being named as One of the Worldâs Best Workplaces for the sixth time by Fortune and Great Place to Work, as well as being named to Newsweekâs List of Most Loved Workplaces for 2021.
+And lastly, on behalf of our employees and our Board of Directors, we thank our customers and partners for their continued trust and confidence during these unprecedented times.
+Operator
+Thank you for participating in today's Cadence third quarter 2021 earnings conference call. This concludes today's call. You may now disconnect.

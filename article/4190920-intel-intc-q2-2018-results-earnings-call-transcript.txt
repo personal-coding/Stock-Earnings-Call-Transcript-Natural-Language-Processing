@@ -1,0 +1,236 @@
+Intel Corp. (NASDAQ:INTC) Q2 2018 Earnings Call July 26, 2018 5:00 PM ET
+Executives
+Mark H. Henninger - Intel Corp.
+Robert Holmes Swan - Intel Corp.
+Venkata S. M. Renduchintala - Intel Corp.
+Navin Shenoy - Intel Corp.
+Analysts
+Vivek Arya - Bank of America Merrill Lynch
+Pierre C. Ferragu - New Street Research LLP (US)
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Stacy Aaron Rasgon - Bernstein Research
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Blayne Curtis - Barclays Capital, Inc.
+Timothy Arcuri - UBS Securities LLC
+Joseph Moore - Morgan Stanley & Co. LLC
+Ambrish Srivastava - BMO Capital Markets (United States)
+Christopher Brett Danely - Citigroup Global Markets, Inc.
+Christopher Rolland - Susquehanna Financial Group LLLP
+C.J. Muse - Evercore ISI
+Kevin Edward Cassidy - Stifel, Nicolaus & Co., Inc.
+Tristan Gerra - Robert W. Baird & Co., Inc. (Broker)
+Operator
+Good day, ladies and gentlemen, and welcome to the Intel Corporation second quarter earnings conference call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will be given at that time. As a reminder, today's program is being recorded.
+I would now like to introduce your host for today's program, Mark Henninger, Head of Investor Relations. Please go ahead, sir.
+Mark H. Henninger - Intel Corp.
+Thank you, operator, and welcome, everyone, to Intel's second quarter 2018 earnings conference call.
+By now you should have received a copy of our earnings release and the earnings presentation. If you've not received both documents, they're available on our investor website, intc.com. The earnings presentation is also available in the webcast window for those joining us online.
+I'm joined today by and Bob Swan, our Interim CEO and Chief Financial Officer, Murthy Renduchintala, Group President of the Technology, Systems Architecture and Client Group and Chief Engineering Officer, as well as Navin Shenoy, Executive Vice President and General manager of the Data Center Group. In a moment, we'll hear brief remarks from Bob, followed by Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.
+A brief reminder that this quarter we have provided both GAAP and non-GAAP financial measures. Today we will be speaking to the non-GAAP financial measures when describing our consolidated results. The earnings presentation and earnings release, available on intc.com, include the full GAAP and non-GAAP reconciliations.
+With that, let me hand it over to Bob.
+Robert Holmes Swan - Intel Corp.
+Thanks, Mark.
+Our results for the quarter were outstanding, marking a record second quarter on our way to what we expect will be a record 2018. Last week we celebrated Intel's 50th year as a company, which is a big deal in an industry that never stops evolving. Even more remarkable is that after five decades in tech, Intel is poised to deliver its third year in a row of record financial performance.
+We set a course five years ago to transform the company. To do that, we made investments to enhance and extend our core microprocessor business along with a series of bold bets to compete and win in new markets. Our thesis was that Intel is uniquely positioned to capitalize on the world's insatiable need to process, store, and move data.
+The results have been dramatic. We are now competing for a $260 billion TAM, the largest in the company's history, and we have lots of room to grow. Just five years ago, roughly a third of our revenue was data-centric. Today, nearly half of our revenue is data-centric and growing at a double-digit rate. Data has never been more pervasive nor more valuable. In fact, 90% of the digital data ever created was generated in just the past two years. But of that data, only 1% has been analyzed, indicating massive untapped potential.
+I'd like to highlight a few indicators of Intel's accelerating transformation before going into our financial results. First, in our Data Center business, our focus on the cloud, network transformation, and AI and analytics produced outstanding results in a strong demand environment. Customer preference for our highest performance products continued, with Xeon Scalable at nearly 50% of our mix in the second quarter. Cloud revenue grew as service provider CapEx continued to accelerate to meet the explosive demand for digital services, artificial intelligence, and data analytics. Enterprise revenue was driven by a combination of macro strength and companies increasing deployment of hybrid cloud solutions and data-intensive workloads.
+In the comms service provider segment, we continued to gain share as customers choose to virtualize and transform their networks and prepare for the 5G transition using Intel architecture.
+Our Programmable Solutions Group also delivered strong results this quarter. PSG again set a record for design win volume, indicating customers' confidence in our roadmap and growing adoption of FPGAs for workload acceleration from the data center, through the network, and out to the edge.
+Earlier this month we announced the planned acquisition of eASIC, which will give us a competitive differentiator and another solution to meet customers' diverse time to market, performance, cost, and power needs.
+We combined Intel and Altera 2.5 years ago, and we expected a key value driver to be the increasing use of FPGAs in the data center. In Q2, PSG's data center business more than doubled for the second consecutive quarter.
+IoTG set an all-time revenue record, with particular strength in the retail and industrial sectors, as customers look to Intel not only for compute performance, but for solutions that drive business value. We also completed the sale of Wind River, as we continued to redeploy resources to higher growth and return areas.
+Building on its industry leadership in ADAS and driving the industry toward and autonomous future, Mobileye set another all-time revenue record. Customer momentum continued with several design wins, including a multimillion unit deal with ZF for a large global automaker. We also announced that Baidu has adopted Mobileye's EyeQ-based Surround Computer Vision kit as the preferred vision solution for commercial Apollo Pilot AD [Autonomous Driver] deployments. In both the open source and commercial Apollo programs, Baidu will also integrate Mobileye's Responsibility Sensitive Safety model, an open and transparent model that provides safety assurance for AD decision-making, an industry imperative.
+Our memory business also set an all-time revenue record. We are transforming the memory industry with a pair of differentiated platform connected capabilities, high-density floating-gate 3D NAND and high-performance persistent Optane technology. We recently announced that we are in production on the industry's first 4-bits per cell data center NAND PCIe SSDs. At the same time, industry support for Intel Optane DC-persistent memory continues to grow, with technology leaders, including CERN, Google, SAP, and Tencent already announcing plans for future use of the technology. Unlike traditional DRAM, Intel Optane DC-persistent memory will offer the unprecedented combination of high capacity, up to 3 terabytes per socket, along with affordability and persistence.
+Intel and Micron recently announced that we will develop future generations of 3D Xpoint technology independently to better align the technology to our individual business needs and strategies. We'll continue to jointly manufacture 3D Xpoint at the Intel Micron Flash Technologies fab in Lehi [Utah]. Intel intends to extend its leadership with Intel Optane products based on 3D Xpoint, which combined with our high-density 3D NAND technology, offer the best solution for today's computing and storage needs.
+And finally in client computing, our focus on innovation and differentiation in the commercial, enthusiast, and thin-and-light segments is producing results. Overall market conditions also continue to improve, and we now expect modest growth in the PC TAM this year for the first time since 2011. The commercial segment remains strong, as CIOs refreshing aging PC fleets are turning to Intel Core processors, with vPro as the gold standard for performance and manageability.
+At the same time, consumer interest in gaming and our outright performance leadership are driving strength in the enthusiast segment, producing another outstanding quarter in gaming. These trends reflect the market's demand for our highest performance products, resulting in strong overall product mix in CCG. We also began shipping the 7560 modem, Intel's first CDMA and first multi-SIM-capable modem.
+Our industry-leading products continue to deliver outstanding results. We have a leadership 14-nanometer product lineup for 2019, and we continue to make progress on 10-nanometer. Yields are improving consistent with the timeline we shared in April, and we expect systems on shelves for the 2019 holiday season.
+In the second quarter, we announced a CEO change. The board is making good progress determining the best person to be the next CEO of this great company. While there is no timetable, the board is working with a sense of urgency, and the identification of candidates, both internal and external, is well underway.
+Personally and on behalf of Intel's 100,000-plus employees, I'd like to thank Brian [Krzanich] for his many contributions to the company over his 35-year career. The investments he made set us on a course for transformation. Even more importantly, he developed the right strategy and leadership team to carry that transformation forward while we conduct the CEO search. Our financial results in the second quarter show we're doing just that.
+Let's turn to the numbers. Revenue of $17 billion was up 15% year over year, marking a second record quarter. We saw strong performance across all of our businesses and record revenue in NSG, IoTG, and Mobileye.
+Our data-centric businesses were collectively up 26%. Excellent operating margin leverage and a lower tax rate resulted in EPS of $1.04, up 44% year on year, even as we continued to invest for growth.
+From a capital allocation perspective, year to date we have generated $6.3 billion of free cash flow, returned $8.6 billion to shareholders, including $2.8 billion in dividends and $5.8 billion in buybacks, repurchasing 117 million shares.
+As a result of the continued strength we are seeing in the business, we are raising our full-year revenue guide by $2 billion to $69.5 billion. We are also raising our EPS guide by $0.30 versus April to $4.15 and the free cash flow guide by $0.5 billion to $15 billion.
+Our leadership products are winning in an expanded TAM, and our data-centric businesses are now almost 50% of our total revenue. Our data-centric businesses had strong quarters, with each business individually growing at a double-digit rate. Our PC-centric business was up 6% on strength in the commercial and enthusiast segments.
+Q2 was another quarter of significant EPS growth, up 44% year on year, and our operating margin expanded $1.4 billion and 5 points year on year. Our EPS improvement was driven by growing demand for high-performance products in the Data Center and Client businesses, leading to higher volumes and ASPs, strong growth in our adjacent businesses, a lower tax rate, and lower share count as a result of buybacks.
+In January we pulled in our 30% spending goal to 2018, a full two years ahead of schedule. We are on track to meet that target, and our operating efficiency continues to improve. We remain extremely diligent in managing spending while prioritizing investments in areas that will accelerate revenue growth, product leadership, artificial intelligence, and autonomous driving. This focused approach is producing results.
+Total Q2 spending came in at $5.1 billion, 30% of revenue. Total spending as a percentage of revenue is down 4.6 points year over year in the quarter, while we continued to increase investment in our key priorities. Versus the second quarter of last year, we delivered $2.2 billion more revenue with no incremental spending.
+Let's talk now about our Q2 performance by segment. The Data Center Group delivered another great double-digit growth quarter, with revenue of $5.5 billion, up 27% year over year, and operating income of $2.7 billion, up 65%. Q2 operating margin was 49%, and we continued to see strong growth in both the cloud and comms service providers segments, which now make up two-thirds of DCG revenue. Platform unit volume was up 14% and ASPs were up 11%. Non-CPU adjacencies grew 30% over last year, yet another indicator that we are growing share in a larger data-centric TAM.
+We saw continued broad-based demand strength this quarter, with customer preference for leadership products like Xeon Scalable driving strong mix. The cloud business, our largest Data Center segment, grew 41% year over year, as hyperscale CapEx expands to handle the explosive need to transmit, store, and analyze data.
+Our comms service providers segment grew 30% year over year, as customers continue to choose Intel architecture to transform their networks. And our enterprise segment was up 10% year over year against a strong IT spending environment and prioritized investment in hybrid cloud implementations.
+Our other data-centric businesses, IoTG, NSG, and PSG, also achieved double-digit growth in Q2 and together were up 22% year on year.
+Our Internet of Things business achieved record volume and record revenue of $880 million, up 22% year over year, driven by strength in retail and industrial, as I mentioned earlier. Operating profit was $243 million, up 75% year over year, on higher revenue and flat spending. We expect the Wind River divestiture, which closed in the second quarter, will have a negative impact to IoT revenue of approximately $150 million in the second half of 2018.
+Mobileye also had another strong double-digit growth in the quarter, up 37% over last year on increasing ADAS adoption.
+Our memory business delivered more than $1 billion in revenue for the second quarter in a row, up 23% year over year. Optane gained momentum during the quarter, mostly on client strength, shipping over 1 million client Optane memory modules. We expect the memory segment to have full-year profitability in 2018, as we scale revenue and transition a higher percentage of our output to cost-effective 64-layer 3D NAND.
+PSG's revenue came in at $517 million, up 18% in Q2, primarily from strength in the data center business. PSG's data center segment was up 140% over last year. In the advanced products category, our 28-nanometer, 20-nanometer, and 14-nanometer solutions grew 70%. Operating profit was $101 million, up 4% year over year.
+Finally, the Client Computing Group continued to execute on all fronts with another outstanding quarter, generating $8.7 billion of revenue, up 6%.
+Operating margin percent was flat year over year, as the customer preference for high-performance products drove a strong mix and higher ASPs, offset by 10-nanometer ramp cost. DCG continues to be an extremely important source of IP, scale, and cash flow for our company.
+We are executing to our capital allocation priorities of investing organically, expanding acquisitively, and returning capital to our shareholders. Year to date, we generated $13.7 billion in cash from operations. We invested $7.4 billion in capital expenditures and delivered $6.3 billion in free cash flow, up 61% over the first half of last year. We returned well over 100% of our free cash flow to our shareholders. Buybacks totaled $5.8 billion, and dividends totaled $2.8 billion. In addition, settlements of our convertible debt reduced fully diluted shares by 12 million.
+Shifting gears to our full-year outlook, our strategy is working, our products are winning, and our investments in data center growth are paying off. We are now forecasting the midpoint of the revenue range at $69.5 billion, up $2 billion versus our expectations in April. This represents a $4.5 billion increase versus the expectations we set in January. Product innovation, a strong global economy, and U.S. tax reform are spurring CIO investment in IT infrastructure, leading to higher data center demand and a stronger PC TAM.
+We are seeing demand signals in supply feasibility to deliver on our revised expectations. Our biggest challenge in the second half will be meeting additional demand, and we are working intently with our customers and our factories to be prepared so we are not constraining our customers' growth.
+Data Center growth is now expected to be approximately 20%, up from our April guidance of high teens. We now expect operating margin of approximately 32%, an increase of 1 point from April. We remain on track to our 30% spending goal, a full two years ahead of our original target. Gross margin is expected to be up slightly versus our April guidance on broad-based business strength. And we expect a full-year tax rate of roughly 12.5%, down slightly from our prior estimates.
+Overall, we expect stronger top line growth, improved operating margins, and stronger demand will boost EPS to $4.15, up $0.30 from our estimate in April. In response to the stronger demand, we are raising gross CapEx $0.5 billion to $15 billion, or $13 billion net of memory prepayments. And we are now expecting free cash flow of $15 billion, up $0.5 billion from April. And we expect free cash flow per share as a percentage of EPS to improve by more than 10 points over last year. We remain intensely focused on closing the gap between free cash flow and EPS and expect to make more progress next year.
+For Q3, we are forecasting the midpoint of the revenue range at $18.1 billion, up 12% year over year. We expect operating margin of approximately 34%, flat versus last year, which reflects about a 1 point decrease in gross margin and a roughly 1 point decline in spending. We also expect EPS at $1.15, up 31% excluding equity adjustments, from stronger top line growth, spending reductions, and a lower tax rate.
+Again, last week we celebrated our 50th anniversary and reflected on the impact Intel and our ecosystem partners have had on the world. It has been nothing short of extraordinary. At the same time, we are even more excited about the role Intel will play in technology's future. We're laser-focused on Intel's opportunity, which is larger than it has ever been. Intel's inventiveness, architectural innovation, manufacturing expertise, and intense drive have allowed the company to create and capitalize on opportunity over the long haul.
+From the early days of DRAM to the era of the first microprocessors, from one architectural battle to the next, and from the PC to the Internet to the cloud, Intel has grown and thrived. I'm very excited about what lies ahead for the company.
+With that, let me turn it over to Mark and we'll get to your questions. Thank you.
+Mark H. Henninger - Intel Corp.
+All right. Thank you, Bob. Moving on to the Q&A, in order to accommodate broader participation on the call, we would request that each participant limit themselves to just one question. Operator, please go ahead and introduce our first questioner.
+Question-and-Answer Session
+Operator
+Certainly. Our first question comes from the line of C.J. Muse from Evercore ISI, your question please. C.J., you might have your phone on mute. We're still not hearing you, C.J.
+Mark H. Henninger - Intel Corp.
+Maybe we should move to the next question.
+Operator
+Move on, okay. Our next question comes from the line of Vivek Arya from Bank of America Merrill Lynch, your question please.
+Vivek Arya - Bank of America Merrill Lynch
+Thanks for taking my question. Bob, on 10-nanometer progress, any color on what these are doing? And systems you mentioned on shelf for second half 2019, I assume that's mostly PC Client. Any sense of when we can think of timing for your server products on 10-nanometer also?
+Venkata S. M. Renduchintala - Intel Corp.
+Hi, this is Murthy. I'll take that one. We continue to make progress on 10-nanometer. Yields are improving consistent with the timelines we shared in April. And yes, you're quite right. The systems on shelves that we expect in holiday 2019 will be client systems, with data center products to follow shortly after.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you.
+Robert Holmes Swan - Intel Corp.
+So good progress on 10-nanometer and what we think is a very good lineup on 14-nanometer product for next year on both client and server that we think will deliver best-in-class performance as we continue to ramp 10-nanometer.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Pierre Ferragu from New Street Research, your question please.
+Pierre C. Ferragu - New Street Research LLP (US)
+Hi, thank you for taking my question, a quick follow-up on 10-nanometer. When I look at this timeline between now and the Christmas season next year, it's 18 months. It's a very long time to improve your yield. And I have two questions on this one. The first one is, could you give us some color on what are the most challenging aspects of the process that you need to address to improve use? What's the most challenging in the 10-nanometer process? And then my second question is how do you think about the impact of these delays on your competitiveness? Where do you think it's going to hurt you the most?
+Venkata S. M. Renduchintala - Intel Corp.
+So let me take that. I think as we look at what we need to do in 10-nanometers, again, let me replay some of the data we shared on our April call. Recall that 10-nanometers strive for a very aggressive density improvement target beyond 14-nanometers, almost 2.7x scaling. And really, the challenges that we're facing on 10-nanometers is delivering on all the revolutionary modules that ultimately deliver on that program. And while there's risk and a degree of delay in our timeline on that, we're very pleased with the resiliency of our 14-nanometer roadmap, where in the last few years we've delivered in excess of 70% product performance improvement as we've moved through our 14-nanometer generation of products.
+So as we look at 2019 across both the client and data center space, we feel very good about the product competitiveness of our 14-nanometer program, and that to some degree is factoring into our timing on 10-nanometer and launching 10-nanometer at a point in time where we believe the yields are at a level that make it prime for volume production. So 14-nanometer I think through the rest of this year and through 2019 continues, we believe, to drive product leadership across all our portfolio in client and server.
+Pierre C. Ferragu - New Street Research LLP (US)
+Thank you.
+Operator
+Thank you. Our next question comes from the line of John Pitzer from Credit Suisse, your question please.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Good afternoon, guys. Bob, thanks for letting me ask a question. Just relative to your data center expectations now for the full year, I'm just curious. What's been the biggest driver? You're decelerating to mid-teens in the back half of the year, which is still very impressive. And I guess as you talk about the question, and maybe Navin can chime in. Once again, enterprise is much better than expected. And the 10% growth I think is what you referenced year over year in the June quarter. To what extent is that going to be more sustainable as you look into the second half of the year and into 2019?
+Robert Holmes Swan - Intel Corp.
+Thanks, John. I'll start and then have Navin chime in. Q2 data center growth was outstanding. We started when we talked to you back in April, we started the quarter out strong. The middle of the quarter was strong, and the end of the quarter was strong. So 27% top line growth for data center, we feel very good about it and see that momentum continuing into the second half of the year.
+As you know, Q4 last year was an outstanding year, so we have slightly tougher comps in the fourth quarter, but we're looking at real strong growth for the full year. And as I indicated earlier, the strength was across the board, cloud up over 40%, comms services up 30%. And specifically to your question, enterprise strength continues, not only volume, but the trajectory of Xeon Scalable and the adoption of Xeon Scalable has accelerated a little bit beyond what we expect to drive real good ASPs.
+So real good first half, strong outlook for the second half across the board, and then slightly tougher comps as we go into Q4.
+Navin Shenoy - Intel Corp.
+The only thing I'd add to that, John, is that the demand is broad-based across all the segments that Bob talked about. And it's also broad-based in terms of our product portfolio. Xeon Scalable we launched about a year ago. And it crossed over or getting close to crossing over at about 50% of our volume, so a lot of room still to go on Xeon Scalable as we look forward.
+And as I think about the product portfolio beyond Xeon Scalable, you might have seen this week at the Google Next show, Google talked about adopting the Optane Persistent Memory DIMM, so we have that product portfolio ahead of us in the second half. And then our next-generation Xeon will begin to ramp in the early part of 2019.
+So general macroeconomic all-segment growth, people applying information technology to handle their data problems combined with a very strong product portfolio as we look forward.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Thanks, guys.
+Robert Holmes Swan - Intel Corp.
+Thanks, John.
+Navin Shenoy - Intel Corp.
+Thanks, John
+Operator
+Thank you. Our next question comes from the line of Stacy Rasgon from Bernstein Research, your question please.
+Stacy Aaron Rasgon - Bernstein Research
+Hi, guys. Thanks for taking my questions. I guess one question. I wanted to ask about gross margins. Your full-year guide implies a very significant deceleration of gross margins in Q4, like 300 bps sequentially, down to about 59%. Can you talk about what's driving that sequential decline from Q3 to Q4? And do those drivers sustain into 2019? For example, is it 10-nanometer or mix or whatever? Can you give us some color on what's going on there please?
+Robert Holmes Swan - Intel Corp.
+Thanks, Stacy. First, I think the first half to second half dynamics, we're looking at an operating margin improvement by 1.5 to 2 points, so we see good solid op margin growth first half to second half. The dynamics are the gross margin we expect to come down a bit and be more than offset by good volume leverage on a relatively stable spending base. So that trend of modest gross margin erosion more than offset by spending leverage driving op income improvement is the trends that you've been seeing for the last six to eight quarters, and we expect that to continue into the second half of the year.
+When you look at â implied in our guide for Q4 in particular, a couple things going on. One, accelerating growth of modem as we go through the second half of the year, accelerating growth of NSG or memory as we go through the second half of the year. We haven't assumed the continued strong ASP performance that we've seen through the first half. We hope that turns to be conservative, but we'll see how that plays out. And then lastly, to your point and Murthy mentioned earlier, we're ramping up 10-nanometer to improve the yield. So that's going to weigh on gross margins for the fourth quarter as well.
+So all things involved, we feel good about op margin expansion. We're up 500 basis points in the quarter. We'll be up another couple points first half to second half. But the gross margin dynamics will weigh on us in the fourth quarter, and spending will more than offset it.
+As we go into 2019, I think the way we've been running the business for the last few years, we have dramatically expanded our TAM. And with that TAM, we see more and more opportunities to invest and grow, and that growth is driving improved earnings for the company. At the same time, some of that growth has lower gross margins. But that expanded TAM, the higher revenue growth on a very well controlled spending base is expanding our op income dollars and our earnings per share. So we feel pretty good about where we are as we exit 2018 and head into 2019 in terms of operating income for the business. Thanks, Stacy.
+Operator
+Thank you. Our next question comes from the line of Ross Seymore from Deutsche Bank, your question please.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Hi, guys. Thanks for letting me ask a question, I wanted to go back to the DCG side of things. Obviously, the 27% year-over-year growth in 2Q is very impressive in both its magnitude and its breadth. But I get a ton and an increasing amount of questions about competition, whether it's direct competition on the x86 CPU side of things, or if it's more indirect competition for a greater TAM from accelerators and FPGAs and the GPU compute, those sorts of things.
+So, I don't know if it would be Murthy or Navin, but I'd love to hear how you guys are looking at competition, and if you've taken the 10-nanometer aspect of competition and 7-nanometer for those folks off the table. Talk about the design side, where you think you can take share or there might actually be some pressure, and in general, how Intel reacts 4to the optimism we're hearing from a number of your aspiring new entrants.
+Navin Shenoy - Intel Corp.
+Sure, I'll take that. It's Navin here. Look, we feel great about our competitive position. We came into 2018 expecting a competitive environment. And against that backdrop, you've seen the results we've delivered over the last two or three quarters. This was our third consecutive quarter above 20% growth.
+And really that reflects our investments that we've made over several years. We have a leadership roadmap, not just in CPUs but in, as you pointed out, a broad set of additional silicon, from ASICs to FPGA to silicon photonics to memory. And our approach really has been to over time increasingly stitch all of those assets together to deliver a better solution for our customers. And that really sets us apart from everyone that we're competing with, where one or another may have one of those solutions but very few have â in fact, none have that broad portfolio that we've been pursuing.
+So we are going to be aggressive and competing. We're going to have to go out and earn the business, just like we always have every day, every week, every month. And as I look at our roadmap now and as I look at our roadmap in the second half and as I look at our roadmap into 2019, I'm very confident that we continue to maintain that leadership on that broad portfolio of products. So we're set up for a great second half and another strong growth year as we head into 2019.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Great, thank you.
+Robert Holmes Swan - Intel Corp.
+The one thing I'd add, Ross, is on the accelerator side, particularly the FPGAs, 18% growth for FPGAs in the quarter, and as we mentioned earlier, real strong penetration in data center. So that growth has been fueled by 140% increase in PSG in the data center environment. So I think, Navin, if I could, had a choice to make when he took over in the Data Center business, and it was protect our large microprocessor share or dramatically expand the market and both protect our share as well as participate in a much bigger market, and that's how he and the team have been focused. And that's resulted in both protection of CPUs but expansion of share and a much broader TAM. So again, I'd just close with we feel great about what the team is doing in expanding the role we play in the data center and at the edge.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Thanks, Bob.
+Operator
+Thank you. Our next question comes from the line of Blayne Curtis from Barclays, your question please.
+Blayne Curtis - Barclays Capital, Inc.
+Hey, thanks for taking my question. I just want to ask you about 7-nanometer. You mentioned 10-nanometer and timing there, and I don't expect you to put a date out there for 7-nanometer. So maybe you could talk about what you've learned on 10-nanometer, how you're applying it to 7-nanometer, and any indications of that development, how it's going.
+Venkata S. M. Renduchintala - Intel Corp.
+Sure. Blayne, so 7-nanometer is very much R&D in deep progress, and we're making good progress on that development. We're not giving a direct timeline right now. But we've also made some fairly judicious choices in defining 7-nanometer, learning from our 10-nanometer experiences. And we're focusing on an optimum balance point between density, power and performance, and schedule predictability. So I think what you'll see is a more balanced approach across those three vectors.
+So we're still going to drive density but balancing that with a continued focus on driving transistor performance at the same time, which is highly valued as ASP drivers both in our client and server businesses. And we're really also focusing on being much more precise in our ability to launch. So those are the key learnings that are coming out of 10-nanometer as we go into 7-nanometer. And as we monitor progress on 7-nanometer just as closely as we are on 10-nanometer, I feel those lessons are being well absorbed into our progress, and we're lining up to support our product plans as our roadmap dictates.
+Blayne Curtis - Barclays Capital, Inc.
+Thanks.
+Operator
+Thank you. Our next question comes from the line of Timothy Arcuri from UBS, your question please.
+Timothy Arcuri - UBS Securities LLC
+Thanks very much. I actually wanted to go back to the question about gross margins in Q4. And I wanted to see if you could segment out the pieces because it seems like the modem piece could maybe be a 200 basis point hit just by itself. So I wondered if you could maybe segment out some of the pieces between 10-nanometer, between the modem, and between ASP. Thank you.
+Robert Holmes Swan - Intel Corp.
+I presume by segment out, you mean quantify, and my answer will probably be unfulfilling if that's the case, but I think you hit on the three things. As we go into â as we enter the second half and the fourth quarter in particular, we see modem accelerating. We have a great product that's getting good traction in the modem space, so that product is accelerating, and that obviously has margins a little lower, NSG growth accelerating going into the fourth quarter, those margins are a little bit lower, 10-nanometer ramping, and that will weigh on gross margins. And lastly, just our outlook for ASPs, ASP has been a significant contributor to our high gross margin performance over the last couple quarters. Now we've assumed that it won't stay at those levels.
+So those are the four components of segmentation. And then I'd just go back to with this high growth, we're getting really good leverage and expect our operating margins to improve as we go to the back half of the year.
+Operator
+Thank you. Our next question comes from the line of Joe Moore from Morgan Stanley, your question please.
+Joseph Moore - Morgan Stanley & Co. LLC
+Great, thank you. I was wondering. With DCG, you guys have had an 11% ASP increase, and I know there's a lot of noisiness to that. But it's about double what you've averaged over the last few years. Is that a Purley effect? And if so, do you anniversary that and have less of an ASP increase going forward? Just how should I think about the price increases you've seen on average?
+Robert Holmes Swan - Intel Corp.
+Joe, the ASP strength that we've seen actually really most of this year is a reflection of what we see our customers doing across the board. All of them are buying our highest performance products. There's this insatiable appetite for performance on all the workloads that they're looking at.
+Certainly we did expect the transition to Purley to be accretive to us from an ASP point of view. But if I look at our broad portfolio of products, our ASPs look very good. And year on year our ASPs look good in the other parts of our products as well, Broadwell for example. So in general, we're just seeing an almost insatiable appetite for the best products, the highest performing products that we have, and I don't see that slowing down as I look forward.
+Joseph Moore - Morgan Stanley & Co. LLC
+Thank you very much.
+Operator
+Thank you. Our next question comes from the line of Ambrish Srivastava from BMO, your question please.
+Ambrish Srivastava - BMO Capital Markets (United States)
+Hi, thank you. Bob, I just wanted to go back to the comments you were making as you were concluding your prepared remarks about demand challenges in the second half. Is that specific to client, servers? And where is that coming from? And then more importantly, does that open up another â or a window for a competitor to wedge in and take some share from you? Thank you.
+Robert Holmes Swan - Intel Corp.
+When we started the year, our outlook for the year was $65 billion in revenue. And six months through the year, given strong demand, across the board actually, both servers and PCs, real strong demand had us raise our outlook by $4.5 billion for the year. So we feel very good about the demand signals we see at the $69.5 billion level. We feel very good about having the supply in place for that fairly significant demand increase.
+And now as we go to the back half of the year, to the extent demand continues to increase, which I'd say it has almost month to month the first six months of the year, we need to work with our customers and our fabs to make sure that we continue to have the capacity to fill demand to the extent that it rises beyond the $69.5 billion level.
+So we're working closely with our customer base, both on the server and the PC side, and very closely with our internal teams to make sure we're not a constraint to the extent that demand in the second half of the year continues to go up like it has through the first six months of the year, and just to fill that demand along the way and not give others the opportunity to fill it for us.
+Ambrish Srivastava - BMO Capital Markets (United States)
+Okay, thank you.
+Operator
+Thank you. Our next question comes from the line of Chris Danely from Citigroup, your question please.
+Christopher Brett Danely - Citigroup Global Markets, Inc.
+Thanks, guys, just a quick one on the DCG op margins. So data center rev was up sequentially, but the op margins were down. I think you talked about the 10-nanometer yield issues. Was that all that was going on there? And so essentially, are DCG operating margins capped at this 49% and change level? And when are these 10-nanometer headwinds going to go away and reverse and start to become tailwinds?
+Robert Holmes Swan - Intel Corp.
+So just to maybe repeat, 27% top line growth and 65% operating income growth with an 11 point improvement in operating margins year on year. So outstanding performance on product margin, as Navin indicated, particularly with strong ASP performance. Our margins have continued to improve, and I'd just say not at the expense of curtailing investments for our data center business. We see real good growth opportunities and we continue to invest, so really good expansion in margin performance while continuing to invest.
+In terms of 10-nanometer, that is more â again, with client being first on 10-nanometer, they are more feeling the effect of the 10-nanometer on their margins. That's relatively de minimis effect for the DCG business.
+Christopher Brett Danely - Citigroup Global Markets, Inc.
+Okay. Thanks, Bob.
+Robert Holmes Swan - Intel Corp.
+Thanks.
+Operator
+Thank you. Our next question comes from the line of Christopher Rolland from Susquehanna, your question please.
+Christopher Rolland - Susquehanna Financial Group LLLP
+Hey, Murthy, you might have actually answered this with your "shortly after" comment. But given some competitive threats in server in particular, are you guys thinking that you might ramp 10-nanometer server more quickly than you traditionally would after PC?
+Venkata S. M. Renduchintala - Intel Corp.
+In general, we're going to see a much shorter ramp period between our products going forward in client and server. So yes, I think it's a good observation that as we talk about client systems on shelf by the second half of 2018, you shouldn't expect too much of a delay before you see data center products coming out.
+So much closer proximity, albeit slightly delayed than we expected on 10-nanometer, and then you should see that pretty much improve to almost parity of launches as we get into later technologies. So the traditional model of server following rather lengthily after client is probably going to become more sequential going forward.
+Christopher Rolland - Susquehanna Financial Group LLLP
+Very interesting, thanks.
+Operator
+Thank you. Our next question, we have C.J. Muse from Evercore back in the queue. Your line is now open.
+C.J. Muse - Evercore ISI
+Great, thanks for taking my questions. Sorry about the gaffe earlier. A question for you on your evolving manufacturing strategy. It sounds like as opposed to copying exactly, we're moving to a world where you would consider building both 14-nanometer and 10-nanometer in the same factory. So curious what the implications of such a move are to gross margins and capital intensity as we look ahead.
+Robert Holmes Swan - Intel Corp.
+I think obviously from node to node over the last several nodes, frankly, the capital intensity of the business with each node has increased over time. At the same time, the amount of reuse of equipment and tools from one node to the next is extremely high. So with the exception of particularly 10-nanometer going to 7-nanometer, litho changing quite a bit with EUV, with each node, even with more capital intensity, we have relatively high reuse and we can leverage the tools for longer and longer.
+So in terms of implications on gross margin, I'd just say it's a function of product leadership and maintaining that product leadership. And Navin talked about how customers are looking for high performance, and the ASPs associated with that high performance allows us to continue to generate extremely attractive gross margins despite increased capital intensity as you go to each node.
+C.J. Muse - Evercore ISI
+That's very helpful, thank you.
+Venkata S. M. Renduchintala - Intel Corp.
+I just wanted to add to Bob's perspective. The way I look at our roadmap, what we're really focused on is delivering product leadership generation after generation, and that's the system level. And while processes are a very important part of that recipe, so are the other ingredients as well, such as product architecture, silicon design, and packaging.
+And to Bob's point, as we look towards our roadmap, gross margin maximization is going to come from delivering excellence that drives performance, and therefore we're taking a very balanced view in all the ingredients that go into that. So you should expect in our roadmap going forward a much longer overlap between generations of technology as we try and make sure that, along with process, we add the other ingredients of technology leadership that will become more and more apparent.
+Mark H. Henninger - Intel Corp.
+C.J., thank you. And, operator, I think we have time for two more questions.
+Operator
+Certainly. Our next question comes from the line of Kevin Cassidy from Stifel, your question please.
+Kevin Edward Cassidy - Stifel, Nicolaus & Co., Inc.
+Thanks for taking my question. Just looking at gross margin for the longer term, you named the four components. And as we look beyond fourth quarter, does modem gross margins improve, and is 10-nanometer less of a drag in the future? And can you frame it how long that would be?
+Robert Holmes Swan - Intel Corp.
+Yes, first we've been â our gross margin performance has been very strong, in the upper end of our long-term gross margin target, so we feel pretty good about where gross margins sit today.
+In terms of modem in particular, yes, we do expect to improve gross margins for our modem business, both with our 7560 product that will begin to ship in the second half. But also as we migrate to a 5G world, we expect margins in the modem business to continue to improve. So yes, we expect modem profitability to improve. We don't see it at the 60-plus percent gross margin level, but we do expect it to be a contributor to earnings performance as we go forward.
+Operator
+Thank you. Our final question for today comes from the line of Tristan Gerra from Baird, your question please.
+Tristan Gerra - Robert W. Baird & Co., Inc. (Broker)
+Hi, good afternoon. So looking at the fact that you're ramping for the first time a very high-volume on non-x86 architecture, what are the longer-term implications of something that you haven't discussed much more recently, which is the custom foundry business for the medium term?
+Venkata S. M. Renduchintala - Intel Corp.
+Again, while we haven't talked about it that much, the custom foundry aspects of our business still remain very strategically important to us. We believe that as we continue to explore growth and partnership opportunities in our data-centric businesses, the ability to develop custom silicon products together with our customers is going to become increasingly important.
+So as we see our customer relationships going forward, you'll probably see a lot more co-developed products using Intel process technology in order for their delivery and their interworking with the product portfolio that Navin talked about. So custom products through a custom foundry relationship remain a strategically important part of our customer engagement portfolio.
+Tristan Gerra - Robert W. Baird & Co., Inc. (Broker)
+Great, thank you.
+Mark H. Henninger - Intel Corp.
+Thank you, everyone, for joining us today. Operator, please go head and wrap up the call.
+Operator
+Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.

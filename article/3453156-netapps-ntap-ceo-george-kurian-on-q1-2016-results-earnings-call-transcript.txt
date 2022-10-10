@@ -1,0 +1,343 @@
+NetApp, Inc. (NASDAQ:NTAP) Q1 2016 Results Earnings Conference Call August 19, 2015 5:00 PM ET
+Executives
+Kris Newton - Vice President, IR
+George Kurian - Chairman & CEO
+Nick Noviello - CFO & EVP Operations
+Analysts
+Amit Daryanani - RBC Capital Markets
+Sherri Scribner - Deutsche Bank
+Alex Kurtz - Sterne Agee
+Katy Huberty - Morgan Stanley
+Brian Alexander - Raymond James
+Steve Milunovich - UBS
+Louis Miscioscia - CLSA
+Aaron Rakers - Stifel
+Brent Bracelin - Pacific Crest Securities
+Rod Hall - JPMorgan
+Maynard Um - Wells Fargo
+Nehal Chokshi - Maxim Group
+Jim Suva - Citigroup
+Eric Martinuzzi - Lake Street Capital
+Andrew Nowinski - Piper Jaffray
+Srini Nandury - Summit Research
+Operator
+Good day, ladies and gentlemen, and welcome to NetApp's First Quarter Fiscal Year 2016 Results Conference Call.
+At this time all participants are in a listen-only mode. Later we'll conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call may be recorded.
+I would now like to turn the conference over to Kris Newton, Vice President of Investor Relations. You may begin.
+Kris Newton
+Hello and thank you for joining us on our Q1 fiscal year 2016 earnings call. With me today are CEO, George Kurian; and CFO, Nick Noviello.
+This call is being webcast live and will be available for replay on our website at netapp.com along with the earnings release, our financial tables, a historical supplemental data table and the non-GAAP to GAAP reconciliation.
+As a reminder, during today's call we will make forward-looking statements and projections with respect to our financial outlook and future prospects such as our guidance for the second quarter and full fiscal year 2016, our expectations regarding our ability to respond to changing demands of our customers, our ability to manage our portfolio to drive efficiency, profitability and growth, our expectations regarding market acceptance of Clustered Data ONTAP, our ability to drive operational and financial performance, our expectations regarding our business model in FY'16 all of which involve risk and uncertainty.
+Such statements reflect our best judgment based on factors currently known to us and are being made as of today. We disclaim any obligation to update our forward-looking statements and projections. Actual results may differ materially from our statements and projections for a variety of reasons. We describe some of these reasons in our accompanying press release, which we have furnished to the SEC on a Form 8-K. Please refer to the documents we file from time to time with the SEC, specifically our Form 10-K for fiscal year 2015 and our current reports on Form 8-K, all of which can be found on our website.
+During the call all financial measures presented will be non-GAAP unless otherwise noted. These non-GAAP measures are not prepared in accordance with Generally Accepted Accounting Principles. A reconciliation of our GAAP and non-GAAP results is provided in today's press release and on our website.
+I'll now turn the call over to George.
+George Kurian
+Thank you, Kris, and good afternoon. This is my first earnings call as NetApp's CEO and it's an honor to be here.
+We delivered revenue above the midpoint of our prior guidance with gross margin, operating margin and EPS all above our previous guidance ranges. We did what we said we would, but we're clear that we have a lot more work to do.
+We're committed to helping our customers navigate their IT transformations to improving our own execution and to enhancing value for our shareholders. We're making progress against our plan, adding new customers and expanding the adoption of our portfolio by aggressively pivoting towards modern architectures such as scale out software defined flash, converged and hybrid cloud, all while planning to return to our operating models in the second half of this fiscal year.
+This is my first time addressing many of you and what you'll hear from me today is the focus on portfolio management, execution and enhancing shareholder value. I want to start by sharing my views on how I think about managing our business and how we're shaping our strategy to respond to the transformation in the IT industry to increase efficiency and to deliver strong financial returns.
+Then I'll provide an update on our business in the quarter and hand it over to Nick to cover our financial results before we open the call for Q&A.
+In my first days as CEO, I spent time to ensure that we had a well articulated view of the industry transition and a clear understanding of customers, IT transformation priorities, but this alone is not enough. To maximize results from our strong portfolio of technologies we need to operate the business with a greater level of discipline and to align resources against our most important priorities.
+In addition to improving alignment and inspection, you can expect from me highly disciplined portfolio management across all aspects of the business; technology, customers and go-to-market.
+We must manage the business to drive efficiency and profitability from the mature parts of our portfolio so we can afford investment in emerging high growth areas to deliver innovation ahead of the market, drive increased awareness and expand our footprint.
+You can expect to hear about the results of this rigorous portfolio management as we come back over successful quarters.
+The requirement for digital capabilities and cloud-based solutions is driving fundamental change across the IT industry. Enterprises must transform in order to survive and data management is the heart of the transition they need to make.
+Whether it's dealing with data growth efficiently, drawing real time insight from data or integrating data across their globally distributed value chain, managing data is of great importance to our customers. This is where NetApp has a profoundly important role to play.
+We're the only company that can help customers manage their data seamlessly across multiple cloud architectures and provide the scale needed to accommodate the exponential data growth generated by the digital world. This is what I see as our big opportunity.
+To accelerate this transformation, customers are seeking to take advantage of new applications and modern data center storage and data management architectures. This implies a reduced opportunity in the traditional storage market, but at the same time, growth in new areas such as scale out storage, software defined flash converged and hybrid cloud.
+We are and will continue to actively drive a shift within our product and go-to-market portfolio to meet the changing demands of our customers and you will see me drive a more disciplined approach around managing this portfolio, both to increase focus on the growth and emerging parts of our business and to drive efficiency in the mature parts.
+As customers transform their IT environments, they are reducing their spend on traditional storage, which has put pressure on our ONTAP 7-Mode business. The 7-Mode storage operating system was shipped in only 35% of FAS units in the quarter, down from roughly 75% a year ago.
+Customers are also slowing investment in the capacity expansion of their traditional storage environments. Both of these dynamics lowered new unit shipments off and lower incremental capacity in ONTAP 7-Mode systems put downward pressure on our product revenue, despite strong growth in other parts of our business.
+We've a heightened sense of urgency in working with our customers to enable their move to the modern architectures delivered by our portfolio. As customers replace their traditional storage architectures and transform their data centers, they want scale out and software defined storage functionality to both mange data growth efficiently and deliver service provider like flexibility.
+Clustered Data ONTAP provides this through a highly efficient, multi-tenant, non-stop shared storage infrastructure to replace legacy stovepipe architectures for enterprise applications like databases, virtualization, VDI and eCommerce.
+Clustered ONTAP also enables customers to seamlessly manage their applications and data across flash, disk and cloud footprints and as customers plan their hybrid cloud architectures the software-defined architecture of Clustered ONTAP provides a consistent way to manage data across private and public clouds regardless of underlying hardware.
+Clustered ONTAP was deployed on 65% of the FAS systems shipped in Q1 up from roughly 25% a year ago. Unit shipments of Clustered ONTAP systems grew by approximately 115% the 13th consecutive quarter of triple digit growth. The value proposition of Clustered ONTAP for the next generation datacenter is strong as evidenced by continued rapid customer adoption.
+We are migrating our installed based customers to Clustered ONTAP and gaining new customers in competitive environments. The number of customers using Clustered ONTAP grew by more than 130% in Q1 from Q1 a year ago. The fastest growth was in new to NetApp customers, which grew 225%.
+Let me give you some examples to illustrate why new customers are choosing NetApp. We won the business of a mid-size Internet radio provider who had moved off a leading hyperscale cloud service provider due to cost and on to a solutions from one of the startups.
+Ultimately that infrastructure could not scale to meet the customer's needs so they turned to Clustered ONTAP for its ability to spread the load across multiple controllers and for its virtual storage sharing capability, which efficiently priorities workloads.
+At a multi-billion construction services company, we replace an established vendor. Clustered ONTAP was able to solve their problem with less hardware and greater flexibility.
+In addition to buying new systems from us, the customer is also using our FlexArray software to run Clustered ONTAP on the un-depreciated hardware assets their now legacy vendor.
+We told you last quarter that weâll make investments to accelerate the migrations of our customer's ONTAP 7-mode installed base to Clustered ONTAP and we have. Our transition programs offer customers and certified partners with transition support, temporary gear and financial incentives.
+Just formalized in Q1 this program is already showing early results. A large semiconductor manufacturer in Asia Pacific building its private cloud and Clustered ONTAP leveraged the program to deploy a cluster of All Flash FAS systems, beating out flash offerings from established and emerging vendors and they plan to migrate additional 7-mode systems in the future to Clustered ONTAP.
+A U.S. based multi-campus university is replacing its existing storage silos systems from NetApp and multiple competitors. They will standardize on Clustered ONTAP and OnCommand insight to provide services for all of their campuses and medical centers. Only NetApp could fulfill their performance archive and reporting needs.
+Over the course of fiscal '16 we will continue to refine and expand our transition programs. Customers are seeking to gain competitive advantage and economic benefits from accelerating business transactions, processes and their supporting enterprise applications.
+To do so they're deploying high-performance enterprise grade flash technology. Our All Flash FAS products offer built-in data protection, multi-protocol support, scale out performance and seamless data movement from flash, to disk, to cloud.
+These benefits have driven rapid customer adoption of our All Flash FAS solution with unit shipments growing almost 140% year-on-year, the fifth consecutive quarter of triple-digit growth.
+In Q1 we launched new lower cost All Flash FAS products with flash essentials innovations to improve performance and efficiency. Customer reception to this launch has been tremendous and we saw a strong uptick in All-flash FAS sales momentum during the quarter.
+We had significant and growing numbers of competitive wins against established and emerging flash-only vendors. For example at a major software-as-a-service provider, designing their next generation infrastructure to migrate from a traditional database architecture to an in-memory architecture, All-flash FAS beat solutions from both established and emerging flash only and hybrid flash competitors.
+At a leading online retail financial services company with demanding mission-critical applications that monitor and analyze trading data throughout the day the EF series All-flash arrays easily outperformed all of the leading competitors.
+To improve business insight and decision making, customers are also deploying new web scale and analytic applications like Hadoop and Splunk as well as increasing the amount of data that they retain online. To support the performance, availability and cost requirements of these applications customers are using our E series platforms.
+As we aggressively target this part of the market, we see continued growth of the E series platforms with unit shipments up almost 50% from Q1 last year. To help with the additional transformation and to better manage their IT portfolio customers over the medium to long term are looking to enable hybrid cloud architectures.
+The challenge of the hybrid cloud is that it is a series of isolated and incompatible data silos. Every cloud provider has a different way to manage data, making it difficult for customers to move and share data across clouds.
+Our customers are looking for a consistent way to secure and manage data regardless of location and our focus on data management enables customers to utilize cloud resources while leveraging existing investments and maintaining control of their data.
+Our hybrid cloud solutions are important in positioning us ahead of the market, but do not contribute meaningfully to revenue today. The products included in our hybrid cloud solution portfolio are NetApp private storage for cloud, Cloud ONTAP, StorageGRID Webscale and AltaVault.
+Of these, NetApp private storage represents the largest opportunity. It enables customers to take advantage of the elastic compute resources of multiple clouds for cloud bursting or data analytics while maintaining complete control of their data. Cloud ONTAP is a rent by the hour version of Clustered Data ONTAP available on Amazon web services for used cases such as agile software development.
+The number of hours of usage continues to grow nicely with hours of usage more than doubling from last quarter.
+AltaVault is the most recent addition to this part of our portfolio. It helps customers preserve the investments in their existing backup software while enabling them to take advantage of low cost cloud storage as a long-term back-up and archival target. In Q1, we announced new AltaVault solutions and extended service offerings.
+Our hybrid cloud portfolio is delivering strategic wins. We've had several NetApp private storage wins at companies with strong cloud mandates because it enables them to leverage cloud resources while avoiding data governance risk and data mobility challenges.
+We gained a foothold in a new financial services customer with AltaVault displacing our leading competitor's Legacy Backup Solutions because of our ability to unlock the economics of cloud for backup.
+With StorageGRID Webscale, we beat established and emerging vendors at a photo sharing cloud provider because it enabled the customer to leverage their existing infrastructure while moving to object storage for data management at Webscale.
+Finally, customers are looking for pre-integrated converged solutions. Today NetApp offers the highly successful FlexPod converged system in conjunction with Cisco. You can expect to see exciting innovations on FlexPod this year.
+We recently began shipping NetApp integrated EVO:RAIL Solutions bringing the proven benefits of NetApp storage for VMware to hyper converged form factor. We will continue to monitor the evolution of hyper converged infrastructure.
+As we move to better address the growth areas of the storage market, our confidence in our direction comes from our customers. Our strategy and technology portfolio resonate with enterprises and service providers positioning us as a strategic advisor to assist them through their IT and digital transformations.
+As I've said elements of our technology portfolio are growing rapidly. We're shifting investments in our go-to-market teams to accelerate that growth and those actions are showing early signs of success. We added incremental sales headcount in Q4 of last year and the beginning of this year and they're already driving meaningful expansion to our pipeline.
+We also took action to regain traction in our channel. We added a Global Channel Chief, a worldwide channel leadership team and made investments in channel marketing programs, all by reallocating resources within our operating expense envelope.
+I personally have met with partners in the Americas and EMEA and have seen their excitement over the opportunity with NetApp.
+Be clear that we have a sense of urgency and a high level of focus to ensure that our investments continue to translate into productive sales conversations and ultimately pipeline and bookings growth.
+We expect that investments in Clustered ONTAP transitions, sales capacity and channel traction, combined with our shift to better address the industry trends will deliver improving results over the course of this fiscal year and we're committed to returning to our target operating model in the second half.
+We continue to work through the declines in the mature part of our business, but are encouraged by the many areas of growth.
+Before I had it over to Nick to go over the quarter in more detail, I would like to summarize by saying, our strategy is to assist our customer's IT transformation with a unique and differentiated vision for data management.
+We plan to deliver against this vision by actively pivoting the company to execute against the industry trends of scale out, software defined storage flash, converged infrastructure and hybrid cloud data management and at the same time, we have an intense focus on disciplined cost management and cost structure.
+We are confident that we're on the right path, but clearly have more work to do. I will focus on driving disciplined portfolio management, streamline decision making for efficiency alignment and accountability and instill more rigorous inspection and corrective action for high performance execution.
+As I continue my rigorous analysis of the business, these plus understanding our customer's plans to consume technology are all considerations that I'll take into account as we position the company for success and increase shareholder value.
+On our next quarterly earnings call, I'll have more details to share with you. I am excited for the future. The feedback from our customers on our technology and strategic direction has been strongly positive.
+Partners feel confident that our portfolio provides a unique value proposition for them and their customers and by raising the bar on our execution and actively addressing the industry trends, we will emerge from this transition a stronger, more focused and disciplined company.
+I'll now pass it over to Nick.
+Nick Noviello
+Thank you, George. Good afternoon, everyone and thank you for joining us.
+NetApp delivered Q1 results that were generally on track and in line with our expectations. As George highlighted, the storage industry is in transition as customers drive IT transformations to take advantage of new technologies and architectures, while planning their journey to the hybrid cloud.
+As you know, this industry transition has impacted our business as well. We've embarked on a new chapter and we're aggressively shifting our efforts to better position ourselves for the future. We saw progress on many fronts in Q1, but we still have a lot of work ahead.
+For the first half of fiscal year 2016, we're raising the bar on execution across all aspects of the business. For the second half of the year, you can expect us to deliver against our plan and return to our target operating margins. Beyond fiscal 2016 we will do a much better job demonstrating our broad value proposition to customers and translating that to financial results top and bottom line and increased shareholder value.
+Please note that I will be referring to non-GAAP numbers in todayâs presentation unless otherwise indicated. Fiscal Q1 net revenues were $1.34 billion down about 13% sequentially and down 10% year-over-year. FX headwinds had an unfavorable impact of about four points on the year-over-year comparison.
+We estimate that the extra week in Q1 which occurs every six years to realign fiscal and calendar months added approximately $40 million of revenue to the quarter. Product revenue was $664 million in the first quarter, down 27% sequentially and 25% year-over-year. FX headwinds had an unfavorable impact on the year-over-year product revenue comparison by about five points.
+The decline in product revenue due largely to the decline in ONTAP 7-Mode sales was in line with our expectations and prior guidance.
+The combination of software maintenance and hardware maintenance and other services revenues primarily comprised of existing, new and renewed service contracts was $671 million in the first quarter up 7% sequentially and up 11% year-over-year.
+The increase reflects the continued growth of installed base and short term renewals from existing customers as well as the benefit from the extra week in Q1. In direct revenue through the channels and OEMs was 77% of Q1 net revenues compared to 78% in Q4 and 76% in Q1 of last year.
+Gross margin of 63.6% was down just under a point from Q1 last year and was negatively impacted by about a point from FX consistent with our prior expectations. Product gross margin was 51.2% reflecting a decline of about six points year-over-year. Roughly half of this decline was due to FX headwinds with the remainder from lower volume, unfavorable product mix and some higher discounting.
+Software maintenance gross margin was relatively flat year-over-year while hardware maintenance and other services gross margin was up just under a point and half reflecting increased revenue and leverage of existing infrastructure investments and the benefit of the 14th week.
+Operating expenses of $746 million were up 3% year-over-year. FX reduced operating expenses by about four points on a year-over-year basis and consistent with my comments last quarter the 14th week contributed about $41 million of sequential growth.
+Operating margin of 7.7% was above our previous guidance range driven by lower spending and the benefit of our previously announced realignment action on largely inline revenues and gross margins.
+Our realignment actions resulted in a headcount reduction of approximately 3% and a GAAP restructuring charge of approximately $27 million in the quarter. Our effective tax rate for the quarter and projected rate for the year was 17% up half a point from Q1 last year due to greater investment income in our foreign subsidiaries taxed at U.S. rates.
+Q1 weighted average diluted share count of 308 million shares decreased by approximately five million shares sequentially due to share repurchase activity in the quarter. EPS was $0.29, $0.04 over the high end of our prior guidance range driven by higher operating margin and lower diluted share count.
+Now turning to cash and balance sheet metrics, we closed Q1 with $5 billion in cash and short term investments, approximately 8% of which was held by our domestic entities. Inventory turns decreased to 10 due in part to our factory move, which is now complete.
+I anticipate inventory turns returning to a normalized mid to high teens level in Q2 and in fact much of the additional inventory we built up during Q1 has already been shipped.
+Q1 day sales outstanding decreased to 30 days due to invoicing occurring earlier in the quarter and an extra week of collections from the 14th week.
+Deferred revenue decreased by $131 million in Q1 versus Q4 and decreased $10 million from Q1 last year. We expected the decline, about $40 million of which was due to the 14th week and the remainder commensurate with the decline in product revenue.
+Q1 cash from operations was approximately $129 million versus $216 million in Q1 a year ago. At 7% of revenue, free cash flow was down as expected due to lower net income resulting from the year-over-year revenue decline.
+We repurchased approximately $430 million of our stock and paid $54 million in cash dividends during the quarter. As you may recall, Board of Directors authorized $2.5 billion of repurchases by the end of May 2018 with the first $1 billion of repurchases expected to be completed by the end of May 2016.
+Today we announced our next cash dividend of $0.18 per share of the company's stock that will be paid on October 21, 2015.
+Now I would like to spend a few minutes discussing our business outlook and guidance. As I discussed earlier, fiscal year 2016 is one of transition. We're aggressively focused on our top priorities, rebuilding pipeline and momentum in the first half of the year and executing against our plan to return to our targeted operating model for the second half of the year.
+We've a strong portfolio of technologies booked into a better job of fully monetizing it. With George at the helm, we're doing a deeper dive to understand our business and market opportunity beyond this fiscal year. You can expect to hear from us on our next quarterly earnings call with a further update on how we expect to evolve the business to deliver greater value to customers and shareholders.
+For fiscal 2016, we now expect revenue to be down about 5% with impact from FX headwinds and limited topline predictability in the first half of the year easing in the second half. Though ultimately dependent on revenue mix, growth and our continued actions to drive down cost, we expect fiscal 2016 gross margin as a percentage of revenue to be down about one point from fiscal 2015.
+We expect operating margin as a percentage of revenue to be down about two points for the year with a challenging first half and a return to our 18% to 20% target operating margin range for the second half.
+Although off to a slow start in the first quarter, we expect a year of continued cash flow generation with free cash flow as a percentage of revenue for the year in the mid teens.
+Finally we remain committed to driving shareholder value through share repurchases and dividends. Based on current stock prices, we expect to reduce share count in fiscal 2016 by approximately 5% and between dividends and share repurchases, we will again return over 100% of free cash flow generated to shareholders in fiscal 2016.
+For Q2 we expect continued FX headwinds and limited topline predictability as we rebuild pipeline and momentum. As such, we expect net revenues for Q2 to range between $1.4 billion and $1.5 billion, which at the midpoint implies a sequential increase of approximately 9% and a 6% decrease year-over-year.
+We expect Q2 consolidated gross margins of approximately 63% to 63.5% and operating margins of approximately 14% to 15%. Based on our share repurchases in Q1 and in the first 10 days of Q2, we expect our diluted share count for the quarter to be approximately 303 million shares and earnings per share for Q2 to range from approximately $0.55 to $0.60 per share.
+In summary, we're confident in our differentiated strategy for data management in hybrid cloud. We're shifting our investments and efforts to accelerate growth in the areas of our portfolio that address our customer's most pressing IT imperatives.
+FY'16 is a year of transition as we rebuild our pipeline, help customers through their IT transition and return the business to our targeted operating model. The positive feedback we've received from customers and partners reinforce our confidence in our directions.
+Last but not least, Iâm excited about the change that George, brings as a CEO of NetApp. I believe his focus on portfolio management, execution, and shareholder value combined with his perspective and frank assessment of the entirety of our business will yield positive results for partners, customers and shareholders.
+At this point, Iâll turn the call over to Kris to open it up for questions and answers. Kris?
+Kris Newton
+Weâll now open the call for Q&A. Please be respectful of your peers and limit yourself to one question so we can get to as many people as possible. Thanks for your cooperation. Operator?
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question comes from the line of Amit Daryanani of RBC Capital Markets. Your line is now open.
+Amit Daryanani
+Thanks a lot. Good afternoon, guys. And congrats George on a nice start to the job. I guess my question really is when you think about the initiatives and the execution improvement youâre talking about, how do you think about -- is there room for cost curtailment as you go forward, because even if I take the assumptions for fiscal '16, you'll probably exit the year with low single-digit revenue growth in a good scenario.
+In that case do you think 45%, 50% of sales going to expenses is a reasonable target for a company to have or do you think there is room for that to lower and if so, what are the levers or what are the metrics you could do to lower that operating expense structure?
+George Kurian
+We have been and continue to be disciplined around the cost structure of the company. I think if you look into our plans for this fiscal year, there are already expense containment strategies in place that improve the target operating model of the company back to our guidance range within the second half of the year.
+So we have plans already in place. I continue to inspect them and Iâm also rigorous that we align the resources of the company against the biggest opportunities and harvest the mature parts of our portfolio for profit.
+In addition both Nick and I are studying the evolution of the storage market and weâll have a broader perspective to you about the operating structure of the company as well as the way to maximize both the return on our assets as well as shareholder value at our next earnings call.
+Nick Noviello
+Hey Amit itâs Nick as well, let me just get real granular for a second. If I look on a year-over-year perspective or first half to second half perspective, I would expect that the expenses of the company, the operating expenses would be down in the second half of the year. So we have operating plans and weâre operating against all of those plans across the functions to achieve just that.
+We also have the additional levers of gross margin that you can imagine we always look at. We always look at our spending there. We always look at our structure on that side, work for suppliers etcetera and then even to go further up the stack the value we get out of our software value proposition.
+Kris Newton
+Thanks Amit. Next question.
+Operator
+Thank you. Our next question comes from the line of Sherri Scribner of Deutsche Bank. Your line is now open.
+Sherri Scribner
+Hi thanks. I just wanted to get a sense from you George. On the last call we heard a lot about customers waiting to transition to Clustered ONTAP, I want to understand what change this quarter and what makes you confident in the growth for the next quarter? You're guiding to up 9%. What are you seeing thatâs making you confident about that? Thank you.
+George Kurian
+The growth that we see is from both the investments in sales capacity translating to pipeline expansion and is a combination of customer acquisitions and usage of Clustered Data ONTAP for new workloads within existing customers.
+The pace of transitions from 7-Mode to Clustered ONTAP within our install base will be benefited from the work that weâre doing to make it easier for customers to transition but will be prioritized against their broader landscape of IT priorities.
+So we are by no means counting on just installed base transitions to drive growth. Weâre counting on the pipeline expansion and the capacity investment that weâre making to drive that upside.
+Kris Newton
+Thanks Sherri. Next question.
+Operator
+Thank you. Our next question comes from the line of Alex Kurtz of Sterne Agee. Your line is now open.
+Alex Kurtz
+Yeah thanks for taking the question guys. Nick, just on the product margin in the quarter, it sounds like maybe FX had some impact here, but this is one of the lowest prints you put up in a while. Was there mix issues there or were there any component issues.
+And as you look at the second half statements youâre making on operating leverage so what is your expectation for product mark and recovery as we get into Q3 and Q4?
+Nick Noviello
+Yeah. Thanks Alex. So just to be clear so on that product gross margin for Q1 versus Q1 a year ago, yes it was a pretty significant decline in gross margin percentage. Half of that was FX all by itself okay.
+So you're seeing that FX really hitting the product side of the fence versus the deferred side of the fence. In addition to that, itâs a combination of volume and mix which you would expect given the rebuild of the pipeline and some discounting.
+So we talked about discounting last quarter. We talked about again discounting this quarter. I indicated that I would talk about that to the degree that it changes on a year-over-year basis. So you can imagine with a lower pipeline and a need to rebuild those are the types of things we have to work through.
+Over the course of the year in terms of product gross margin, weâre going to expect that FX certainly fades in the back half of the year. We shouldnât have assuming there is not another dramatic change out there, we shouldnât have the type of compares weâve had.
+So weâll back to the typical which is looking at the mix of business. We'll be looking at the combination of pricing, discounting and savings of the supply chain to really look at the gross margin there. So thatâs probably the good perspective for you.
+Alex Kurtz
+All right, thanks.
+Operator
+Thank you. And our next question comes from the line of Katy Huberty of Morgan Stanley. Your line is now open.
+Katy Huberty
+Yes, thanks as it relates to hitting the target model in the back half of the year, can you get there with the current booked maintenance and cost cuts and the gross margin acceleration that youâve talked about already? Would you need the product revenue to grow again in the back half to hit the target? Thank you.
+Nick Noviello
+Yes Katy, let me start on that and if George has a perspective he can weigh in as well. Remember the first half of this year was about pipeline rebuild. Weâre talking about pipeline rebuilds from a perspective of rebuilding sales capacity, of channel investments, of C-DOT transition programs and weâre seeing the beginning of those things.
+So in terms of the back half of the year, what we expected to happen and what weâre seeing the early -- the green shoots on if you will, those metrics are coming in and theyâre starting to build and we expect to monetize some of that in the second half.
+Is it a dramatic shift of product revenue from the second quarter, letâs say to the third or the fourth, I wouldnât call it a dramatic shift. Certainly the first quarter was impaired and we knew that coming into the first quarter.
+The maintenance streams of the company, we can look at those year-over-year, quarter-over-quarter and that's reflective of that installed base. The installed base as we indicated continues to grow. Itâs a combination of new renewal and that and we see that -- sometimes we see that in short terms. Sometimes we see that in longer term thesis.
+So is there a dramatic shift from the second quarter to the second half of the year, I wouldnât say itâs a dramatic shift. Obviously we expect some uptick in terms of product revenue. We will no longer hopefully have the FX pressure on product revenue, but certainly Q1 was a low point and Q1 was reflective of what happened to the pipeline and Q1 is really the area where weâre going to be the lowest.
+Katy Huberty
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Brian Alexander of Raymond James. Your line is now open.
+Brian Alexander
+Yes just following on to that, the revenue guidance up 5% to 12% sequentially Nick is the most growth youâve guided to for a July quarter in many years. So can you just talk about your confidence level and the key drivers of what appears to be an above seasonal growth outlook and specifically how should we think about on a sequential basis, the product revenue versus software and services? Thanks.
+Nick Noviello
+Well if youâre talking about a sequential basis from Q1 to Q2 obviously there is going to be an uptick we expect on the product revenue side. That is a granular build up we do of pipeline and a granular build-up we do of our expectations for the quarter.
+Obviously the -- what comes in off the balance sheet on the software and hardware components, we know very, very well. So there is a sequential increase on the product revenue side of a sense in Q2 that's reflective of some of that pipeline that started to build up, started to build in the metrics there.
+It is a pretty significant increase quarter-over-quarter sequentially. So a year from now I will be reminding you of that but that is built on our bottom up projection of the business.
+Brian Alexander
+Do you still expect software and service revenue to grow double-digits on a year-over-year basis in the October quarter?
+Nick Noviello
+I would not. Okay. They come in off the balance sheet I wouldâ¦
+Kris Newton
+All right. Thank you, Brian.
+Brian Alexander
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Jayson Noland of Robert Baird. Your line is now open. Again Jayson Noland of Robert Baird. Your line is now open.
+Kris Newton
+All right. Letâs move on to the next caller.
+Operator
+Our next question comes from the line of Steve Milunovich of UBS. Your line is now open.
+Steve Milunovich
+Thank you. Could you talk a bit more about the transition to ONTAP 8 from 7? You gave us some percentages that you haven't given before. It sounds like there is a pretty significant shift toward 8, but you didnât give us any kind of sequential percentages?
+So was that really accelerating at this point and anyway now it seems to have accelerated obviously the total number has gone down and I guess that plays to your comment about just people transactionally holding back right now.
+George Kurian
+I think at the highest level when we talked about percentages, we talked about the percentages of FAS shipments and we said that the 7-Mode systems were down to 20% to 35% of FAS shipments from 75% year ago and the clustered ONTAP 8 version are up to 65% of FAS shipments from 35% -- from 25% a year ago.
+So there is a dramatic growth in clustered ONTAP systems as a percentage of our total mix as well as just year-on-year and it represents the value propositions of Clustered ONTAP.
+Those include shipments being made to new customers, new workloads within existing customers and as we mentioned some early benefit from the transition programs that are under installed base.
+I would say that on the last bucket meaning the transitions were still very early in that program it seems some good momentum and confidence building within our customers, but hasnât materially translated into results yet. 
+Steve Milunovich
+Thanks.
+Kris Newton
+Thanks Steve.
+Operator
+Thank you. And our next question comes from the line of Louis Miscioscia of CLSA. Your line is now open.
+Louis Miscioscia
+Okay, great. May be I'll go back to Brianâs question, it looks like most of the etcetera week fell into software entitlement and also services. So how much would we expect those to be down on a quarter-to-quarter basis or do you expect them to be flat, which will help us think about how we should also then model in the product revenue? Thank you.
+Nick Noviello
+Yes Lou, Iâm not going to get into a granular level of specific there, but really the $40 million of the 14th week was in software and was in the service revenue lines.
+So it's all there and in fact you can see it on the deferred revenue side of the fence. So deferred revenue was down pretty substantially in Q1 on a year-over-year basis and we havenât seen that kind of decline really in quite some time.
+If you take $40 million out of that, which is a deferred component, you get back to a number of that, weâre not thrilled about, but that's a lot closer to those types of sequential decline weâve seen before.
+So what we expect to happen is obviously that 14th week doesnât occur again in Q2. We go back to a 13th week. We wonât talk about 14th week again for six more years from now. So weâre going to look at those pieces.
+It obviously means that the amount of revenue of $40 million was shared between software and hardware and the share was 18 and 25 respectively that's not going to occur again in Q2.
+Kris Newton
+All right. Thanks Lou.
+Operator
+Thank you. Our next question comes from the line of Aaron Rakers of Stifel. Your line is now open.
+Aaron Rakers
+Yes thanks for taking the question. Just on clear and will go back to Brianâs question and I think the prior question as well, at what point does the decline in deferred catch up with the software entitlement maintenance and if you do expect that to decline or not grow the double-digit rate it seems to imply a fairly high teens if not 20% sequential growth in product revenue after the first quarter.
+So Iâm just curious of how we should expect the deferred revenue trends? Should we expect that to grow going forward and what that implies for the product revenue in the first quarter?
+George Kurian
+Okay. So if I think about deferred the software entitlements and service revenue, on a year-over-year basis in Q2, I would expect those things to go up and not going to go up dramatically, they are not going to be reflective of 14th week because there will be no such things. Okay.
+On the product revenue side and I think the real question is what's going to happen with product revenue? On a sequential basis, we expected a pretty reasonable increase in product revenue. Why is that? That is because at the time we came to the end of Q4 we did not have a pipeline on the product revenue side and we had to rebuild that pipeline.
+What we're seeing and what we're doing as we build up the guidance for Q2 is that we're going to see some return on the product revenue side and that's reflected in the guidance that we pulled out there.
+Aaron Rakers
+Thank you.
+George Kurian
+Hey, Aaron as you know, we don't guide below the overall revenue line third quarter.
+Kris Newton
+All right. Thanks.
+Operator
+Thank you. Our next question comes from the line of Brent Bracelin of Pacific Crest Securities. Your line is now open.
+Brent Bracelin
+Thank you. George wanted to go back to kind of the decision here to kind of pivot to these modern data architectures. The question is how quickly can you pivot and will that include divestitures or acquisitions and the reason why I ask obviously C-DOT has been years in the making.
+So help us understand your appetite, how quickly can you pivot here and will that include divestitures or acquisitions?
+George Kurian
+First of all, I think we have a strong portfolio of technologies that are relevant to the modern architectures within our customers. In some cases it is developing core technology. In other cases it is qualifying our technology for emerging used cases within our customers because solutions development.
+I think that is all well underway and we feel good about the portfolio we have. We're also constantly looking at the evolution of our customers perspective on the IT landscape, their requirements for data management and we'll always be on the lookout for M&A tuck-ins where they make sense have strategic fit, have the right financial criteria associated with them and we have a disciplined way of scanning the landscape and discussing with our customers their choices ahead of them and for us.
+Kris Newton
+All right. Thanks Brent. Next question.
+Operator
+Thank you. Our next question comes from the line of Rod Hall of JPMorgan. Your line is now open.
+Rod Hall
+Yes, hi guys. Thanks for taking my question. I just had one, which is could you give us -- you gave us all the year-over-year trajectory on Clustered ONTAP, but would you be able to give us the proportion of the install base that has adopted it just to give us some idea where we are, where we're tracking?
+George Kurian
+We're as a percentage of our install base, we're about 15% of the total install base and remember the install base is growing and last quarter we were at 11% of the install base. So pretty good sequential growth.
+Rod Hall
+Great. Okay. Thank you, George.
+Kris Newton
+Thanks Rod.
+Operator
+Thank you. Our next question comes from the line of Maynard Um of Wells Fargo. Your line is now open.
+Maynard Um
+Hi thanks. Nick you talked about next quarter being based on a bottoms-up basis. Can you just talk about how much of that is based on fiscal year government spending or what your expectation is there?
+And then George if you could just talk about -- you talked about making sure to understand customer mindsets and if they're changing. Wondering if you are seeing any changes within your customer mindsets since you bring that up, thanks?
+George Kurian
+Okay. So Maynard, why don't I just get started. So second quarter is when we generally see the Government, the U.S. Government I should tick in. So our bottom up includes our expectations from the U.S. Fed. It includes our view of contracts that are taking shorter, longer or sideways in terms of the time to land them.
+As you know we have a very strong presence there and a very good business condition overall and value proposition for them. So the second quarter will include U.S. public sector element to it, a federal fiscal yearend element to it. We plan on all of those. We look at risks or opportunities to those as we build that bottom-up guidance.
+Nick Noviello
+I think to answer your question in terms of the discussions we have with our customers, I've actually had several meetings with customers from all different parts of the world and I am just headed out to Asia Pacific as well.
+I think the things that encourage me are the breadth of discussions we have and the adoption of multiple products in our portfolio by the enterprise customers that we work with. I think they are expanding the range of things they're doing with us and we're excited and encouraged.
+Strong growth in terms of the number of customers, enterprises buying multiple products from us for broad set of used cases.
+Kris Newton
+Thanks Maynard.
+Operator
+Thank you. Our next question comes from the line of Nehal Chokshi of Maxim Group. Your line is now open.
+Nehal Chokshi
+Thank you. What has been the capsulate of new workload across to market with Clustered ONTAP over the past year. It seems like itâs been depressed and I think you've talked about being refill that pipeline? Is that a fair way of looking at that?
+George Kurian
+I would say that if you were to look at two dimensions of new workloads being captured, I think the first one is new to NetApp customer where clustered Data ONTAP has given us a footprint that we didnât have before.
+And as we said in our commentary that has seen strong growth up triple-digits 225%, and so thatâs a measure of competitiveness of Clustered ONTAP in net new to NetApp environments.
+Within existing NetApp customers, the preponderant majority of Clustered ONTAP sales have been to new footprints. As we mentioned the percentage of our installed base that has migrated from their legacy 7-Mode environments to Clustered ONTAP has been small.
+Nehal Chokshi
+Okay. Thank you.
+Kris Newton
+Thanks Nehal.
+Operator
+Thank you. Our next question comes from Jim Suva of Citigroup. Your line is now open.
+Jim Suva
+Thank you very much and congratulations both George and Nick. First I've a question for George and a easy clarification for Nick. George you talked about stay tuned to many things youâre looking at for the next quarter, can you help us understand these many things?
+Are they more operational focused? Are they more capital allocation deployment focused that we might ask is Iâm sure you are aware of where your stock price is and your strength of your company?
+And so one could beg hey why not even buyback more stock, but one could also say maybe weâd spend that more for strategic acquisitions or maybe some different go to market strategy or something like that. So if you can help us understand whatâs exactly you're looking for stay tuned.
+And then for Nick, can you just help us understand you guided for I think was 3 or 3 million in shares, does that include the share count today than what you buyback so far this month or does that also include your estimated stock buyback that you will do after todayâs call?
+George Kurian
+So let me answer first the perspective Iâm taking is a broad perspective looking at all aspects of the business, both the operating model of the company as well as the opportunity to optimize our capital structure to maximize returns to shareholders.
+Nick Noviello
+Okay. And then my quick clarification on the 303, this is what weâve done based on the first 10 days of the quarter. So we have not in the past and don't in the future plan to project out what we'll by over the quarter is really based upon first 10 days what happened last quarter and how that falls and depend really just the first 10 days of volume.
+Kris Newton
+Thank you, Jim.
+Jim Suva
+Thanks so much.
+Operator
+Thank you. Our next question comes from Eric Martinuzzi of Lake Street Capital. Your line is now open.
+Eric Martinuzzi
+Thanks. I was hoping you could comment on the international aspects of your business just as youâve re-built the pipeline exiting Q1 pockets of strength in the international EMEA APAC rest of the world if you could comment that Iâll appreciate it?
+George Kurian
+Weâve had a strong start to the year in the European theater with all of our parts of Europe doing very well year-on-year both especially with FX being accounted for. So thatâs a reflection of both the Leadership Team in Europe as well as the value proposition for Clustered ONTAP.
+Some of the key features that our European customers were waiting for were made available to them in 8.3 and that is now translating into results from the capacity investments as well as the product readiness.
+Within APAC, we continue to monitor the situation in China. Of course our China business is a small business and hasnât been affected by the changes in China, but weâre evaluating the impact of the Chinese economy for the rest of the Asia Pacific Theater.
+Kris Newton
+Thanks Eric.
+Operator
+Thank you. Our next question comes from Andrew Nowinski of Piper Jaffray. Your line is now open.
+Andrew Nowinski
+All right. Thanks you mentioned pretty strong growth out of your genuine pipeline this quarter, just curious of your thoughts regarding the acquisition stock here last night, you're normally competing against one of your largest suppliers DA?
+George Kurian
+The focus for our E series business is on the branded customer business and it is about building pathways to market through our more traditional routes to market resellers, system integrators and service providers.
+I think we feel good about the progress weâve made. We think we feel good about the relationships that we have with enterprise and service provider customers who look to buy directly from us or through our reseller model and so we feel that the acquisition does not materially affect that business.
+Kris Newton
+Thanks Andy.
+Operator
+Thank you. And our last question comes from the line of Srini Nandury of Summit Research. Your line is now open.
+Srini Nandury
+All right. Thank you for taking my call. Congratulations on a good quarter. I had a question on the Clustered ONTAP adoption within your install base. Are they -- when you sell into your install base, are they going to the net new workloads or are they going to your existing workloads? Or in another words are people replacing the old 7-Mode and putting the new boxes in?
+George Kurian
+When we look at that right, so there is sort of two or three sets of used cases within our existing customers. One is competitive displacement or new workload growth. We're certainly seeing a strong set of trajectory around that.
+The second is replacing 7-Mode for a workload that could have run on 7-Mode, where they choose to go to a new architecture. That certainly happens as part of footprint and then the percentage of those where you have a workload that is running on an old 7-Mode system that now gets essentially upgraded and converted to a Clustered ONTAP system, the last one is a small percentage of the total.
+Kris Newton
+Thanks Srini.
+Srini Nandury
+All right. Thank you.
+Operator
+Thank you. And I'll hand the call back over to NetApp for any further remarks.
+George Kurian
+Thank you. I would like to conclude by saying I am excited and honored to lead NetApp through the industry transition. I want to extend my thanks to the entire NetApp team for your hard work and for your support as we create opportunity for NetApp during this transition.
+We're taking action to better address the trends in the storage market and will manage our portfolio of solutions to target the requirements created by those trends. Our strategy resonates with partners, enterprises and service providers and we're making investments to ensure we're engaging in more customer conversations an opportunities.
+Those investments are yielding results that position us for a successful future, but we have more work ahead of us. We're committed to enhancing shareholder value and plan to return to our target operating model in the second half of this fiscal year.
+Our focus on cost structure, stock buyback program and dividends are important demonstrations to this commitment and to our confidence in our future. Thank you all for joining us and I'll talk with you again on our next earnings call with a further update on how we're evolving the business to deliver greater value to customers and shareholders.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This concludes today's program. You may all disconnect. Have a great day everyone.

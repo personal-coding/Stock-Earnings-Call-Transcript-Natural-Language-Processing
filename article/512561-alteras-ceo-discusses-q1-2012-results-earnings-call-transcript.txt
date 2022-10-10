@@ -1,0 +1,299 @@
+Altera (ALTR) Q1 2012 Earnings Call April 19, 2012 4:45 PM ET
+Executives
+Scott Wylie - Vice President of Investor Relations
+Ronald J. Pasek - Chief Financial Officer, Principal Accounting Officer and Senior Vice President 
+John P. Daane - Chairman, Chief Executive Officer and President
+Analysts
+James Schneider - Goldman Sachs Group Inc., Research Division
+Ambrish Srivastava - BMO Capital Markets U.S.
+Ian Ing - Lazard Capital Markets LLC, Research Division
+Romit J. Shah - Nomura Securities Co. Ltd., Research Division
+Uche X. Orji - UBS Investment Bank, Research Division
+Tristan Gerra - Robert W. Baird & Co. Incorporated, Research Division
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+Shawn R. Webster - Macquarie Research
+Christopher J. Muse - Barclays Capital, Research Division
+Brian C. Peterson - Raymond James & Associates, Inc., Research Division
+Sumit Dhanda - ISI Group Inc., Research Division
+Delos Elder
+Ryan Carver - CrÃ©dit Suisse AG, Research Division
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+Vivek Arya - BofA Merrill Lynch, Research Division
+Sanjay Devgan - Morgan Stanley, Research Division
+Richard Ong
+Operator
+Good day, everyone, and welcome to the Altera Q1 2012 Earnings Conference. As a reminder, this call is being recorded. At this time, Iâd like to turn things over to Mr. Scott Wylie, Vice President, Investor Relations. Please go ahead, sir.
+Scott Wylie
+Thank you for joining this conference call, which will be available for replay telephonically and on Altera's website shortly after we conclude this afternoon. To listen to the webcast replay, please visit Altera's Investor Relations web page, where you will find complete instructions. The telephone replay will be available at (719) 457-0820. Be sure to use code 258712.
+During today's prepared remarks, we will be making some forward-looking statements. In addition, management may make additional forward-looking statements in response to questions. In light of the Private Securities Litigation Reform Act, I would like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear in our SEC filings. Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty and that future events may differ from the statements made. For additional information, please refer to the company's Securities and Exchange Commission filings, which are posted on our website or available from the company without charge.
+With me today are John Daane, our CEO; and Ron Pasek, Chief Financial Officer. Ron will open the call and John will follow. After John concludes his remarks, we will take your questions. Prior to the Q&A session, the operator will be giving instructions on how you can access the conference call with your questions. 
+I would now like to turn the call over to Ron.
+Ronald J. Pasek
+Thank you, Scott. The decline in Q1 revenue was more pronounced than our mid-quarter update for several reasons. First, there was a decrease in demand relatively late in the quarter for some of our telecom and wireless customers. As best we can tell, it was caused by changes in their own demand. As a result, they did not place forecasted orders with us for Q1 business. 
+Second, our turns business was back-end loaded. As we attempted to fill those orders in the final weeks of the quarter, we had demand for products without the corresponding supply, or said differently, product mix issues. In particular, the unexpected sequential decline in Industrial was due to product mix issues. Both of these factors contributed to a surprisingly weak final 2 weeks. 
+Stepping back a bit, nearly half of the underperformance against guidance was the telecom and wireless shortfall. 
+On a positive note, book-to-bill was positive at the beginning of the quarter and strengthened as the quarter progressed and remains positive Q2 quarter to date.
+Operating expenses for the quarter were lower than guidance, mainly in R&D. Most of the underspend is a result of mask and wafer pushouts, and to a lesser extent, slower than anticipated hiring. 
+We are revising our full year R&D spend to $368 million or $10 million less than our November guidance. 
+Finally, we had 2 discrete items in the tax provision, which brought the effective tax rate down to 1.7%.
+You will notice that Altera inventory decreased during Q1, although the month's supply in hand grew due to the lower COGS number. 
+For Q2 '12, we see sequential revenue increasing 14% to 18%. Our turns number for Q2 is in the high 30s, which is down from Q1. 
+As we exited Q1, we experienced lengthening of foundry lead times mainly for 28 and 40-nanometer product. In anticipation of tightening foundry capacity, we have secured more Altera inventory, and as a result, we are forecasting an inventory increase for Q2 but still within our desired 3- to 4-month supply in hand. 
+With that, let me turn the call over to John.
+John P. Daane
+Thank you, Ron. Overall, the first quarter sequential revenue decline was caused by continued inventory reduction across most of our verticals, coupled with weakness in the communications end market. Military decreased as expected due to program timing. Wireless and telecom were lower than expected as forecasted turns orders did not materialize in the last month of the quarter. Industrial decreased due to the turns mix issues that Ron highlighted, and computer and storage decreased due to inventory reduction and program timing.
+For second quarter revenue, we are forecasting 14% to 18% sequential increase, with end customer inventory reduction largely complete as demonstrated by the strong bookings in March; and thus far in April, telecom, wireless, Industrial, computer storage and networking should all see double-digit sequential growth.
+In speaking with investors over the last few months, I have often been asked to share my view on the evolving system architecture in wireless base stations and what impact, if any, this would have on FPGAs. Let me now spend a few moments on this. 
+With scarce wireless spectrum in some densely populated site, small cell base station architectures have been proposed as a solution. In our discussions with major operators, wireless equipment vendors and industry analysts, the deployment of small cells would be additive, and therefore, not affect the number of macro base stations deployed. With higher PLD content in newer generation macro base stations, we expect PLD revenue to continue to grow. 
+In addition, where ASSPs may be used in some small cell base station products, several of the major equipment vendors are planning on a scaled architecture from their macro platforms, bringing PLDs into this new equipment space. This provides an additional growth factor for PLDs in the wireless market.
+Finally, let me turn to design wins. Our 28-nanometer design momentum continues, and we are winning 2/3 of the PLD designs. We are pleased that we are now shipping product across all 3 of our 28-nanometer families and expect large revenue growth this quarter. 
+Now let me turn this call back to Scott.
+Scott Wylie
+We would now like to take questions. [Operator Instructions] Operator, would you please provide instructions and poll for questions?
+Question-and-Answer Session
+Operator
+[Operator Instructions] We'll go first to Jim Schneider with Goldman Sachs.
+James Schneider - Goldman Sachs Group Inc., Research Division
+John, I was wondering if you could maybe give some commentary on how you see the wireless and wireline segments of your business starting to recover as we go through the next couple of quarters. And any kind of helpful geographical information on the U.S., China or Japan would be appreciated. And I have a follow-up.
+John P. Daane
+Sure. Jim, in terms of communications, we expect this quarter to see both telecom and wireless up in double digits. We'll have to see how the rest of the year unfolds. Do note that in our forecast for this quarter, we did take into account the weakness that we saw at the end of last quarter, and we have appropriately hedged our forecast this quarter in case we see similar things transpire. But based on the feedback we've gotten from customers, we do think almost all of the inventory issues have been worked through, and again, we expect both telecom and wireless to see double-digit growth.
+James Schneider - Goldman Sachs Group Inc., Research Division
+And then as a follow-up, I was wondering, you've talked the past couple quarters about the fact that you believe you're materially under-shipping end demand for your customers' products, or said another way, the deployments are under-shipping the actual demand. Do you still think you'll be under-shipping that end demand by the end of Q2?
+John P. Daane
+We think based on the fact that the inventory is getting low, we're seeing a lot of -- we're seeing strong orders, both towards the tail end of last quarter, so far this quarter, coupled with a lot of expedites out of customers that flat just run out of inventory and are now needing product. That we're probably mostly through the inventory reduction phase, and we're into the phase where probably, this quarter, getting close to shipping at actual end demand. So far, we haven't seen customers order at a rate that says that they're going to put inventory back in place. And in 2010, we certainly saw that as a phenomena. So we would say, all in all, that this quarter, with our forecast, weâd probably get very close to just shipping to true actual end demand.
+Operator
+We'll go next to Ambrish Srivastava with BMO.
+Ambrish Srivastava - BMO Capital Markets U.S.
+John, just a follow-up on the earlier question with respect to the pickup in communications. Is it -- could you just give a little bit more granularity in terms of technology/geography? And then I have a quick follow-up, please.
+John P. Daane
+Well, I think the pickup in communications, like some of the other vertical markets, is simply a factor mostly of customers depleting the inventory that they had on hand. We saw, I think, generally carriers start to cut back on capital equipment in the second half of last year, and that caught some of our customers with higher inventory than they wanted, both in terms of finished goods and WIP. And so they've been in a reduction phase for a number of quarters. We now think that that's ending and we're back to growth. I can't really call it by geography. I wouldn't say that thereâs any significant change we're looking at by geography this quarter over last quarter. It's mostly just the inventory is done.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Okay. One on 28-nanometer. You said that you have built enough inventory for Q2. What about beyond that? Because Qualcomm was talking about Q4 is when they see the situation getting better. What gives you confidence that beyond Q2, you would have enough supply?
+John P. Daane
+Well, first of all, as Ron said, the capacity is very tight within 28-nanometer and 40. The equipment set is mostly the same. The tools are used on both process technologies. So if one is tight, correspondingly, the other is naturally tight. We are trying to get product to make sure that we have enough product to fulfill our customers' needs, and as Ron pointed out, try to build some amount of inventory back. Typically, we've wanted to operate within a 3- to 4-month supply on hand band. We were below that last quarter. We're trying to get back into a more healthy inventory position this quarter. We believe we can do that. I can't comment though on our ability to secure enough or what the situation's going to be beyond that. We'll just have to take this a quarter at a time.
+Operator
+We'll go next to Ian Ing with Lazard Capital Markets.
+Ian Ing - Lazard Capital Markets LLC, Research Division
+Ron, could you talk a little bit more about how R&D got the guidance as declining here for the full year by $10 million, what's driving that? And it seems like second half R&D is still up slightly. That's a little different from the prior commentary.
+Ronald J. Pasek
+Yes, so a fair question, Ian. If you remember, the original guidance we gave in November indicated it was front-end loaded, which was a little unusual. It was front-end loaded from a hiring standpoint, and to some extent, from a mask and wafer standpoint. We really didn't do a lot of hiring in Q1. We still are hiring, but what you'll see is a much smoother ramp of hiring throughout the year. So when I look in at my original plan to what I'm forecasting for the first half, I just don't think we'll spend $10 million. And that's why I reduced the guidance. Itâs as simple as that.
+Ian Ing - Lazard Capital Markets LLC, Research Division
+And moving over to John, this announcement, working with TSMC on some heterogeneous 3D ICs, just a question on why you're announcing this now. I've always thought you're pretty good at doing monolithic parts, including high-rate SERDES. Do you see this as more of an internal capability? Or do you see partnering with other silicon vendors down the road?
+John P. Daane
+Well, I think functions like SERDES will always be integrated into the chips as -- for power reasons. I think a 2-chip solution is just not economically viable because you're going to have transceivers on both chips instead of just one chip in order to do the interconnect. So from our perspective, that will be monolithic. There are other functions, however, that could come in the form of a separate chip that we would potentially be interested in integrating. We've talked openly about the fact that we've been investing and doing R&D in 3D for a number of years. We've been doing it as I've discussed also through these calls with TSMC. As you know, TSMC -- or may know, TSMC has their annual technology symposium this week and -- since that is an area that they're investing in. And we were the first to do the 3D test chip work with them on the CoWoS process that was ultimately announced by TSMC. We're still in the product development phase. I think you're going to see products from us in the 20 nanometer era in the future. And this is again just paving the way for that.
+Ian Ing - Lazard Capital Markets LLC, Research Division
+And internal versus external?
+John P. Daane
+For what portion?
+Ian Ing - Lazard Capital Markets LLC, Research Division
+In terms of the different die. Is that largely going to be -- is that going to be entirely Altera? Or considering...
+John P. Daane
+It could be multiple Altera devices. It could also -- there'll be a mix of our devices and other external semiconductor devices. If you think about devices that you could integrate, there's a whole range from memory through analog, through processers, other technologies that you could integrate. So some of it may be wholly from us, some of it may be a mix of ours and other companies' technologies.
+Operator
+That will come from Romit Shah with Nomura.
+Romit J. Shah - Nomura Securities Co. Ltd., Research Division
+Just looking at the growth this quarter, would you characterize the strength as largely being supply-driven? And I guess looking ahead, are you seeing any signs that actual end demand for equipmentâs getting better?
+John P. Daane
+So I think I would characterize Q2 as really being a rebound from inventory depletion for the last couple of quarters, where customers have exhausted their inventory and theyâre now returning to orders. There are some new program ramps associated with new programs that are naturally cutting into production. There are also some markets that look like and indeed, they are getting better. But if you look at it on a whole, I would say most of the growth that we're seeing this quarter is because of the end of the inventory reduction phase.
+Romit J. Shah - Nomura Securities Co. Ltd., Research Division
+Okay. And then as a follow-up, we hear that some of the base station deployments are getting mature and vendors are switching to alternative technologies. What's your take or what do you see happening to overall PLD content or your PLD content and current 3G base station deployments? Do you think it's staying the same? Is it coming down?
+John P. Daane
+Our content in 3G has grown over 2G and our content in 4G is higher than it was in 3G. And we really don't see those factors changing because what's happening with the newer generations of radios, as an example, the complexity is much higher and so the PLD content continues to increase. Or if some of the functionality is integrated into a different function, we certainly, at a minimum, continue to have the same dollars that we had before. So overall, if you look at the newer generations of equipment, our content is higher. As those generations roll out, we naturally expect to continue to grow in wireless. I think we kind of reached a lull in overall deployments in wireless technology in the last couple of quarters. As smartphones continue to get sold, I think you're going to see that pick back up. Deployments in North America have not been finalized. You still will see the deployments in Japan and South Korea, ultimately, at some time also within China. And then additionally, we still have India as a factor to roll out 2G and 3G. So I think wireless over the next several years will be a strong market. And I think because our content is higher in the newer generations of equipment, it will be a growth market for Altera.
+Operator
+That will come from Uche Orji with UBS.
+Uche X. Orji - UBS Investment Bank, Research Division
+John, can I just ask you about how your 28-nanometer products are being received in the marketplace? Because when I read your press release, you talk about both your incumbency position and tailored architecture. As you go into that market, which is allowing you to win? Is it the performance edge of the tailored architecture? Or is it incumbency? Because if I was a cynic, I just think incumbency means, well, your product isn't that great. You're just relying on relationships to kind of keep it there. So I just want to see how you characterize your approach now that you're in the market of the 28-nanometer business and what you're hearing from Xilinx.
+John P. Daane
+Yes, so I think if you take a step back, one thing that I underestimated coming from the ASIC industry 11 years ago to PLDs was incumbency. And that was a term at that time that was actually coined by Xilinx's management. In the ASIC industry, customers use third-party EDA tools. So it's very easy for them to switch vendors without really changing design styles or the tools that they're using. Within programmable logic, the entire tool flow and the engagement from the engineer is with that particular vendor's tools. And so, ultimately, they become familiar with the format, the way they work, how to optimize the technology. And because our architectures are different and our formats are different, ultimately, an existing design, if they're going to move forward and add features, itâs much easier to do with the existing vendor rather than switching vendors. So it's very difficult when you're the incumbent or -- excuse me, when you're not the incumbent to win. So I think that's certainly an advantage that we have, is incumbency from 40-nanometer. What did help us win market share though when Xilinx had incumbency, really, from 0.15-micron was having a better product. And that's been our focus as well. And I think if you look at 28-nanometer, we have flatly a better product. Our design tools are -- provide a higher productivity environment. Our high-end is higher performance, higher-performance transceivers. We've got lower power in the mid-range and low end. So there are many features I can mention, the floating-point DSP, which has been very popular now in military and some of the communications areas, and our Stratix products. So I think overall, we're doing extremely well in 28, much like we did in 40, following on with incumbency and having a better product. Now we do take the claims from our competitors very seriously. And it is something that we continue to look at. 2/3 comes from the feedback of the customers. We look at our designs wins and losses; add it up. It was 2/3 last quarter. It remains 2/3 this quarter. At a high level, what I would tell you is that both -- just a different way to look at it perhaps, is both Xilinx and Altera have said that they view that the high-end of the market is over 50% of the total FPGA spend. And the high end of the market is where we have the Stratix devices. This is a space, again, where we really did extremely well on 40-nanometer, of course. So we have that incumbency. We have a better product in terms of performance and features in Stratix. Stratix was introduced much, much earlier than the competition's products, which allowed us to sow up a lot of early design wins. And if you just do the math on it, unless you have a dominant position at the high-end, you can't get 2/3 of the business. So just looked at another way, because of incumbency, because of a better product with Stratix, we can't see how the competitor can claim 2/3. And then you take a step back, we're the only ones right now with a low-end product. Our Cyclone product in 28, weâre really winning a bulk of the market there right now, even against the older generation competitors' product. And then in the mid-range, we're doing quite well. So overall, we think based on the customer feedback, based on our product lineup, where we think we have superior product, and even based on just doing the math of the particular breakdowns of the product, it all comes back to say that we have 2/3 of the market. And it's hard to dispute.
+Uche X. Orji - UBS Investment Bank, Research Division
+Fantastic. Let me just ask you a different question. On the 28-nanometer, TSMC has admitted, obviously, that they have supply issues there, so they are raising CapEx. And QUALCOMM, yesterday, talked about issues on 28 nanometers. I know at 40, it was a yield issue and you guys were able to yield better because of your own design process compared to other customers of TSM. At 28, what are you -- what is your perspective of their ability to supply your needs, given the complaints we're hearing from other people? And then a follow-on from that, as TSMCs at their tech symposium talked about 20, they say they're going to offer one architecture of 20, not a tailored architecture where they have -- like they had at 28. Is that something that changes the competitive dynamics for you further down the line?
+John P. Daane
+So let me kind of -- there are multiple questions there. Let me kind of say at 28, the technology is still maturing. There are minor challenges with the technology across all of the nodes that are being offered. But that's nothing new. That always happens with new products. Generally, the yields in 28, from our perspective, are fine. The challenge is capacity is very tight on 28-nanometer. As I mentioned earlier, the tool sets are similar between 28 and 40, so what affects one affects the other. So naturally, therefore, capacity is also tight on 40. And right now, we're doing everything that we can to try to secure product as quickly as possible. But lead times both on 40-nanometer and 28-nanometer from our supplier have moved out. Overall, products are working, products are shipping and we have had and maintained a very strong relationship with TSMC. And they're doing great by us in terms of trying to give us a product that we need to be successful in the marketplace. And we'll just see how this develops the rest of the year and into next year. I can't really predict exactly what capacity is going to be or how we're going to be versus any other company because I don't know how much product they're taking. And again, at the end of the day, I have no idea what their yields are. In terms of the second question, which was on 20 nanometer, first of all, TSMC did 4 process generations in 28. Two of those processes are not technically feasible to be implemented in 20 nanometer. So they naturally go away. And those are HPL and LP. LP was silicon oxynitride. 28-nanometer was the last generation of that. HPL did not have the silicon germanium stress layer for performance. It's not technically feasible to do high-K without silicon germanium going forward, so that process is out as well. You could do more than one process in 20, but right now, what TSMC is doing from a development perspective is one, which is called HSoC, which matches generally what you saw from their HPM process in the last generation. We are doing a lot of active work on 20 nanometer and plan to be very aggressive in our introductions of next-generation products.
+Operator
+We'll hear next from Tristan Gerra with Baird.
+Tristan Gerra - Robert W. Baird & Co. Incorporated, Research Division
+Huawei has talked about its own ASIC integration in base station. Did you see this as a trend and potential threat at the time? Or is this a nonevent? And also if you could talk about your expectation for market share at Huawei for this year relative to what you've had over the past year.
+John P. Daane
+Our market share with Huawei is going up this year, and the ASIC integration that you see, generally, if you look at a base station today, an advanced base station, there'll be an ASIC microprocessor and FPGA technology, some DSPs. Sometimes the DSPs and microprocessors get integrated into the ASIC. The PLD content generally stays because there are different features that are offered to different operators, different geographies, and they need to be able to program those in. Additionally, of course, newer generations of technology have some -- many more unknowns. And so there's a lot of PLD content that comes out with that. So generally, if you look at the base station area, the ASIC integration that is going on is not threatening FPGAs as much as it's, I think, competing with some of the microprocessors and DSPs that have been implemented in prior generations.
+Tristan Gerra - Robert W. Baird & Co. Incorporated, Research Division
+Great. And a quick follow-up. Obviously, you're guiding just a quarter at a time. If we -- should we look at 3G infrastructure trend as a drag on your total top line this year, year-over-year? And how could LTE be an offset to that if there is indeed a drag from that segment on your overall top line?
+John P. Daane
+Well, I think with the communications as an industry certainly slowed down in the second half of last year and will certainly slow through the first calendar quarter, causing customers to move into an inventory depletion phase. Naturally, because you're down for a period of time, that becomes a drag. I think this quarter, we get back to natural demand. As to when that business picks up, we'll have to see in the future quarters. I think we can all see at a high-level that there needs to be more deployment of telecom and wireless equipment in order to meet the demand that is out in several different markets. It's just a question of time, I think, before that increase in deployment happens. What happens this year? Is it a drag or not? We'll just have to see how the rest of the year plays out.
+Operator
+We'll hear now from Christopher Danely with JPMorgan.
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+John, in terms of the wafer supply issues at TSMC, has that impacted your lead times at all? And would you guys ever consider using another foundry?
+John P. Daane
+So our lead times in the first calendar quarter did move out for 40-nanometer. As Ron talked about, we did end up with a situation of being out of mix. We're in an inventory reduction phase for our customers. We do get forecasts for our larger customers, and because of VMI and other situations, we tend to build inventory for them. If they don't take it, sometimes that inventory is available for other customers, sometimes it doesn't meet what they need from a mix perspective. And we simply ended up out of mix in Q4, and a lot of that landed in the 40-nanometer. We are significantly expediting and increasing our 40-nanometer orders. We do expect to get better as this quarter progresses in 48 -- excuse me, in 40 and 28. And so we'll just continue to work that. In terms of the using other vendors, at a high-level, it's been our long-standing practice to only use a few vendors, whether that's a foundry or flip chip packages or OSEP manufacturing, because we've really wanted to develop very close working relationships for R&D and technology sharing. We do evaluate other suppliers and technologies from time to time. But right now, our focus remains with our core partners. So we're hoping that we can continue to work with our partners and get what we need and get it in time to meet our customer demand. As such, we're just focused on what we're doing right now.
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+And for my follow-up, since it's pretty clear that you guys were under-shipping demand and now, we're thankfully seeing the balance here, is it -- do you think it's reasonable to assume that this above seasonal environment will continue into Q3 as people continue to feel better? And then could you just give us your sense of what normal seasonal growth is for Q3?
+John P. Daane
+We've said over many, many years that it's very difficult to get a normal growth out of our numbers. Sometimes a quarter is strong, sometimes it's weak. It really just, for us, is always dependent on how the end markets are performing. And since we're in an environment of very low visibility, I think it's very difficult for us to be able to predict what Q3 is going to do or be at this point. As we mentioned, we are seeing strong business, 40-nanometer, 28-nanometer, certainly, some of the other products as well. We're hoping that we are able to increase our inventory, take care of customer demand. And again, because customers have depleted inventory and we're starting to really ship at what is the real customer rate, we're seeing an increase in our overall business this quarter. What exactly happens beyond that, we'll just have to see.
+Operator
+We'll hear now from Shawn Webster with Macquarie.
+Shawn R. Webster - Macquarie Research
+So you gave us your turns expectation for Q2. What were actual turns for you in Q1?
+Ronald J. Pasek
+Our actual turns were in the mid-40s, Shawn.
+Shawn R. Webster - Macquarie Research
+Mid-40s, okay. And then in terms of the tightness for your capacity constraints, you said that it was going -- I think I heard you say that you said it was going to get better as this quarter progressed. When do you think that 40 and 28 will be normal in terms of what you would expect for normal manufacturing lead times?
+John P. Daane
+It will all depend on how the turns business goes for the rest of the quarter to be able to determine that. To a large extent though, we are continuing to work on getting the product. Whether we have longer lead times going into Q3 or not, we'll just have to overall see. Again, I'm not -- we had low inventory, so some of this is on us. Some of this is just because also we got caught in a situation where lead times moved out on some of the advance product and we didn't have the coverage, and we're trying to expedite and catch up with that. So ultimately, it's going to be continued work in progress from the technology supply perspective.
+Ronald J. Pasek
+Yes, Shawn, to John's point, we ended Q1 with the lowest inventory we've had since Q3 '10. So we've got to build back inventory. And thatâs just in sheer dollars, dollar amount of inventory.
+Shawn R. Webster - Macquarie Research
+Well, turning to the things that started to go positively, so you said that at the end of the quarter, you were getting some expedites. Were there certain end markets or applications where that was most pronounced? And then could you share with us some of the dynamics happening in your other segment? Because that segment seemed to be a bit more stable relative to the others.
+John P. Daane
+Yes. So what I would tell you is first of all, the expedites really are across a lot of different products. It's not just 40 and 28.
+Ronald J. Pasek
+Across the board.
+John P. Daane
+And so that's -- we're also out of mix in some of the other areas. Generally, though, lead times really only moved out in 40-nanometer. And they went from, typically, if we don't have product from the sort of 12 weekly time, up into maybe 18 weekly to...
+Ronald J. Pasek
+18 weeks at the high end, yes.
+John P. Daane
+Yes. We are out of mix with some other products. But generally, on average, those lead times are fairly normal. In terms of...
+Shawn R. Webster - Macquarie Research
+The other bucket.
+John P. Daane
+Yes. There's probably nothing really to point out there other than we have seen some big reductions in some of those end markets before and a little bit more stability. In terms of what end market we're seeing the expedites, it's pretty broad-based right now.
+Operator
+We'll move on to C.J. Muse with Barclays.
+Christopher J. Muse - Barclays Capital, Research Division
+I guess first question. In terms of your Q2 top line guide, are you assuming that you'll be able to ship whatever your customers demand? Or are you assuming there'll be some sort of shortage on the wafer side?
+Ronald J. Pasek
+So, C.J., as John said, we judged down a little bit on the revenue number, not necessarily because of supply, but just cautionary.
+Christopher J. Muse - Barclays Capital, Research Division
+Okay. And then on the 28, 40-nanometer side, my impression, that's roughly 28%, 32% of your business. Is that correct? And then where do you see that exiting 2012? And then the third part of the question, I promise that's it, how should we think about the impact to gross margins if this tightness were to continue at TSM through the year?
+Ronald J. Pasek
+Let me take the last part of that, so. I don't think you should see any real margin degradation or acceleration. I think as you note, the last quarter, we were spot on to guidance. We're guiding a very similar number for Q2, again, in a short capacity time. So I don't anticipate a margin effect here.
+John P. Daane
+In terms of the breakdown of the products, what I would tell you is the new products are really mostly 28-nanometer and 40-nanometer. So that gives you a pretty good approximation. The only other thing that is -- yes, I think it's almost an -- yes, MAX V is in there but it's very small. So I think it gives you pretty much a read on what 40 and 28 is in terms of our products. What it will be a couple quarters from now, don't exactly know. I do expect that 40-nanometer and 28 are going to have very strong ramps. 40 is going through its very fast growth phase and should be the growth driver of the PLD industry this year and next year, certainly at a minimum. And so because we had such strong market share in those nodes, we should see very strong revenue growth out over the next several quarters from those technologies. Hard to predict exactly what the percentage of business will be.
+Operator
+And that will be from Brian Peterson with Raymond James.
+Brian C. Peterson - Raymond James & Associates, Inc., Research Division
+I was just wondering if you could disclose your actual 28-nanometer sales this quarter and how many SKUs you're actually shipping.
+Ronald J. Pasek
+So we ended up having essentially flat. It was a little over $3 million in total 28-nanometer revenue.
+John P. Daane
+Actually, it's in the press release in terms of it. I think it was slightly down or something like that.
+Ronald J. Pasek
+Thatâs correct. It's 5 only.
+John P. Daane
+In terms of the -- I don't know the number of chips that we're shipping. We're doing quite well competitively. I think when you boil it down, we're the only one in production with 28-nanometer today, and we're shipping now revenue across Stratix, Arria and Cyclone products at this point. How many chips, I can't remember off the top of my head, so I apologize.
+Brian C. Peterson - Raymond James & Associates, Inc., Research Division
+Okay. Just as a follow-up, I noticed the military business is expected to be down sequentially in the June quarter. And I know it took a big decline in the March quarter. Is that just more lumpiness in terms of that business or any visibility there?
+John P. Daane
+Yes, it's just program timing. Ultimately, as we had forecasted, it was down in Q1 on program timing. It's going to be a down again this quarter. It will continue to be one of those businesses that goes through a seesaw.
+Operator
+We'll go next to Sumit Dhanda with ISI.
+Sumit Dhanda - ISI Group Inc., Research Division
+John, first question for you. Just some more clarity on the product mix issue. Is my interpretation that this is purely a function of lead-time extension, correct? Or were there other issues from a mix perspective that impacted revenues in the first quarter?
+Ronald J. Pasek
+So, Sumit, this is Ron. So our orders in Q1 were a little back-end loaded. And as you remember, we had the highest turns number that we're forecasting for some time. And not to make excuses, but again, as your turns numbers goes up, your ability to call the quarter is more difficult the higher that number goes. So it's the highest one we've had in a while. You couple that with the low-level inventory, it's just hard to get that mix right. That's all it is.
+John P. Daane
+Yes, I would say, just at a high level, there were 2 major factors that happened. One is that some of the communications customers did not pull the forecasted business through turns orders at the end of the quarter. It's naturally a case where you have the inventory for them, but the orders don't come through. And then the second case is we had really a business which was industrial as well as a couple of the other markets, where we did get orders, we just didn't have the right inventory. I would say at this point, now itâs just trying to catch up with that demand, not only on those products, but as the bookings have continued to increase clearly on other products as well.
+Sumit Dhanda - ISI Group Inc., Research Division
+Maybe as just a follow-up on that, I apologize if it's a 2-parter. I guess it's not clear to me why you would think the inventory was that low. I understand the dollar commentary, but your sales are also down 25-plus percent from Q3 2010 levels. And then is the second quarter -- are you seeing all the delinquencies being fulfilled in the second quarter? And then is this mid-30s type turns number the new normal given the environment for lead times? Because you used to run 60% to 70% turns once upon a time.
+Ronald J. Pasek
+Yes, let's work backwards. I don't know if it is the new normal, mid-30s turns. I tend to think probably not. Over time, it should go back up. Again, what you tend to see is as capacity starts to become an issue, that the turns number goes down. I'm trying to remember the first part of your...
+John P. Daane
+So if you look at the inventory position, inventory in a dollars basis is very low, which means ultimately, therefore, you're not going to have a lot of product or necessarily a lot of every product. Remember, we have families that we're still shipping that go back 18 years ago. So we have thousands to tens of thousands of package and die combinations that we need for customers. With that low amount of inventory, we simply entered into a phase where, as unforecasted demand came in, we simply didn't have the product in that unforecasted category. Now that the orders are here and the business is coming back, naturally, we'll go build that material and supply it, and that's the challenge that we entered into. I think if you look at it on a raw dollars basis, as Ron commented earlier, our inventory was very, very low. And even if you measure it as a month supply in hand basis between us and distribution, unfortunately, it was also very low. That was again because we were in an environment which was an unknown. Customers were still talking about reducing inventory and reducing product. And again, we just simply got out of mix. Our fault.
+Sumit Dhanda - ISI Group Inc., Research Division
+And did you -- are you going to fulfill all of those delinquencies in Q2? Just sorry, last clarification on that.
+John P. Daane
+So we'll have to see how the quarter transpires. It all depends on the turns business that we have for the rest of the quarter and ultimately, which products that turns comes from. And it's very difficult to predict in any quarter.
+Operator
+And Glen Yeung with Citi has our next question.
+Delos Elder
+This is Delos for Glen. I think just a follow-on to the last question, just speaking a little bit about the activity you saw at the end of the first quarter. Just wondering how confident you are that this is a positive underlying trend versus just a push from Q1 to Q2.
+Ronald J. Pasek
+So I think as we told you last quarter, we could see that sequentially, Q2 would be up. And we're still seeing some of that. So we feel pretty good about that. There's been some consistency in the forecast and the raw demand. If you look at what we ended up not being able to ship, the increase quarter-to-quarter is a lot bigger than that. So it's not something that's solely a result of the increase in backlog we couldn't ship in Q1.
+John P. Daane
+And not all of the business, by the way, are we expecting to push. In the communications area in particular, as Ron commented, we believe that our customers were expecting orders from the operators that did not materialize. And at this point, we're not expecting that to show up this quarter. So in the communications area, those non-pulls from the customer, from the inventory are not going to repeat. And so it's not simply a push from one quarter to the next.
+Ronald J. Pasek
+At least in Q2.
+John P. Daane
+Yes.
+Delos Elder
+Got you. And then lastly, have your customers started to recognize that supply will be tight this year? And is this improving your visibility on sales?
+John P. Daane
+Customers have not realized that the capacity is going to be tight. We have been talking to them. I think given the next few months, perhaps, they'll see that. But it will really depend on the supplier. And I can't comment on what the memory guys are seeing, the microprocessor people or even the analog companies who may source from different companies. So at this point, we're certainly communicating what we're seeing. And I would say customers, at this point, really -- if you take a step back, the strength that we're seeing in the orders is predominantly because theyâve depleted inventory. Unfortunately, some of it was unforecasted, and that's why we've run into the inventory mix issue.
+Operator
+That will be from John Pitzer with Credit Suisse.
+Ryan Carver - CrÃ©dit Suisse AG, Research Division
+This is Ryan Carver in for John Pitzer. Just hypothetically here. As 28-nanometer continues to likely get worse, as many think it will towards the back half of the year, do you think this affects customer design thoughts going through the rest of the year? What I mean by this is, would customers maybe trend towards more 40-nanometer devices knowing that supply maybe a little bit better as opposed to taking a leap onto 28-nanometer devices?
+John P. Daane
+Yes, it's possible. I think the area that, that would happen is the high volume ramp markets which may think about that. And we have been in discussion with customers for a while about that situation. I think that ultimately benefits Altera because we've had the stronger 40-nanometer lineup. Even still though, if you take a bigger step back, 40-nanometer capacity is tight as well.
+Ryan Carver - CrÃ©dit Suisse AG, Research Division
+Great. And then sorry if I missed earlier, but so on the lower revs, obviously, R&D was down. How does this sort of change your full year R&D outlook? I think you guys talked about like a -- kind of a mid 370, high 370 number previously. How does this affect sort of full year as we look at R&D as a percent of revs? And if that full year number does come down, what, from an R&D perspective, gets squeezed?
+Ronald J. Pasek
+So the guidance we gave in November at the investor conference was a full year R&D number of 378. And now, we see 368. And that's simply because initially, we saw that as being a front-end loaded R&D number. And obviously, now it's not. So some of that will just not get spent in the way of hiring, mainly. The ramp of hiring was very aggressive. And we're going to have -- still hire the same number of people but just a little slightly different ramp.
+Operator
+We'll go next to Brendan Furlong with Miller Tabak.
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+On the industrial orders that you couldn't fulfill, is there any piece within the industrial end markets with a pretty broad definition there of what that was that you couldn't fulfill it, where the orders came back?
+John P. Daane
+It was they were just very broad.
+Ronald J. Pasek
+Yes. It's what we call the broad base of customers. I mean most of our industrial customers are in that broad base.
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+Okay. And I don't know if you touched on this earlier on, but you talked about telecom being weak, but have you delineated between telecom and wireless? What was the weakest and what is coming back the strongest in Q2?
+John P. Daane
+They both were down similarly in Q1. And I think we expect both to grow similarly in this quarter.
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+Okay. And then last question. Is a 10% customer in the quarter -- did you have a 10% customer? And what was it?
+John P. Daane
+We did have one customer. We are in a position, going forward, where we're not going to disclose names. We've had customers, and I understand this, be concerned about suppliers using their names either in press releases or ultimately, even disclosing business. So I'm going to leave the name off, but we did have one customer that was over 10% in the quarter.
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+Can you reveal what the percentage was?
+John P. Daane
+We're not even going to be stating that, I think, going forward.
+Operator
+We'll move on to Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya - BofA Merrill Lynch, Research Division
+First off, John, do you think that there is a possibility customers could be double ordering or may start double ordering as they fear this possible squeeze in supplies at 28 or even 40-nanometer?
+John P. Daane
+Yes. So just to understand the phenomenon, we don't see double ordering. Double ordering happens because, take memories as an example, a contract manufacturer can take the same memory order to 5 different distributors. And then the distributors order it on the manufacturer, and therefore, you get a lot more orders than is really needed. In our case, because we have -- a customer goes through a single distributor or buys from us, there's never a typical double ordering phenomena. Could they order more or forecast more in order to make sure that we put it in place? Yes, and we have seen that happen to some degree in prior cycles. However, what I would tell you is at this point, we're not seeing that because customers are just now and have been, I would say, over the last, I don't know, 1.5, 2 months, starting to increase orders because they're running out of inventory. And at this point, because they're not seeing extended lead times probably across the semiconductor industry, I don't think that they're double ordering or placing more orders on us that are necessary. So we haven't seen it yet. Could we see it in the future? Sure, but just to give you a snapshot. However, what I would tell you is, again, going back to what we saw in Q1, where at the end of the quarter, some of the comm customers didn't pull the business, we did take that into account in our forecast for this quarter. So we are hedging a bit with an assumption that we could see some customers again forecast, but not pull some of the business. And we have tried to take that into account in our overall revenue forecast range for this quarter.
+Vivek Arya - BofA Merrill Lynch, Research Division
+Got it. And I think earlier in your comments, you addressed this issue of small cell, which is very helpful. Is there a way to quantify your relative content in that smaller cell base station versus macro cells? And even if you think the smaller cell deployment is additive, is it possible that just that's where the growth is and there is possibly a lower growth trajectory in the macro cell base stations?
+John P. Daane
+Well, because the macro market is so large, there is a lower growth trajectory built into the numbers to begin with. Nevertheless, the reason that we grow is because our content is higher moving from 2G to 3G, and then again from 3G to 4G. So even with a slow growth in macro base stations, our overall revenue continues to grow at a very strong clip. In terms of the architectures, the dollar content in a pico base station will be lower than we get in a macro base station. But probably as a ratio of the total semiconductor spend, it probably will be similar. And again, that's all additive because those will be products, again, that are going to be used for high density spaces, where you're really running out of spectrum coverage. So you want to think of major cities. Macros will have already been deployed, and then what you're doing is you're simply adding picos or micros in order to try to better use the spectrum. Would also tell you that just adding more base stations will not effectively be able -- will not help you utilize spectrum more. Because then, what you'll get is just more radios and base stations competing with one another. Ultimately, what you're going to see is heterogeneous networks where you've got base stations communicating with one another to offload traffic. And that's why you're seeing PLD content. It's because the technology to do that is really not going to be something that is available within the current ASSP designs. And again, we're not going to be in every pico, we're not going to be in every micro. It will depend on the architecture and it will depend on the vendors. But typically, the majors are going to go with a scaled architecture from macro. And because PLDs are in there, we'll simply carry forward into the pico and micro architectures.
+Vivek Arya - BofA Merrill Lynch, Research Division
+Got it. And just last one, if I may. If you look at your top 1 or 2 customers, do you think your content there is similar -- going to be similar, greater or less than what it was last year?
+John P. Daane
+Our content in wireless this year is -- so I guess the question is our market share in wireless?
+Vivek Arya - BofA Merrill Lynch, Research Division
+No. Or just if you just look at your top 2 customers, right? And the content you had with them last year, do you think the content this year, right, whatever, per unit or whatever metric you want to use, do you think that the content will be similar or greater or less than it was last year?
+John P. Daane
+Our content in communications grew last year. The best way for me to think of it is in terms of market share. Are we growing our spend? Are we growing our market share at these accounts? And I would expect that to continue into this year as well. So overall, yes, I think our content is continuing to grow.
+Operator
+That will come from Sanjay Devgan with Morgan Stanley.
+Sanjay Devgan - Morgan Stanley, Research Division
+First question, just a little bit of clarification. If you could provide a little more color around the turns number. You talked about a high 30s turns versus the mid-40s last quarter. Was wondering if you could give some color around end markets. So as you look at the telecom and wireless infrastructure, how does that compare, i.e. are the turns lower for that relative to the corporate average? And if you could just give us some color for some of the other segments, too, thatâd be really helpful.
+Ronald J. Pasek
+Yes, I don't think -- we never look at the turns number like that. But given the growth in most of our segments, vertical segments next quarter, I don't think you should assume the turns number's different by segment. You should use the overall average as a proxy.
+Sanjay Devgan - Morgan Stanley, Research Division
+Okay. And then just as a follow-up. I think the question was brought up earlier about the military business being down in Q1 and itâs going to be down in Q2. And there's the lumpy component to that business. But at the same time, that business also carries higher than corporate average gross margins. So is it reasonable to assume that, that business comes back in the back half of the year and that should be kind of a margin adder, so we could look at something north of 70% for the second half of the year?
+Ronald J. Pasek
+I mean I don't want to say -- it's hard to say that without knowing the rest of the mix of verticals in the second half. So yes, all things being equal, you're right. But again, there's a lot of moving parts there. I may point out that through the first half, to the extent we make the Q2 margin guidance, we're spot on to the full year guidance we gave you in November. So we feel pretty good about that.
+Operator
+That will come from Richard Ong with Eagle Capital Management.
+Richard Ong
+Just a clarification on a previous answer to a question on the comms area, where you said that this quarter -- second quarter, you don't expect any non-pulls. Does that mean that inventory in the comm area stays where it is? Or am I -- or do you reuse that in other areas?
+John P. Daane
+In some cases, the inventory can be used to -- moved to other customers. In some cases, it may be in a location where we can't easily move it to other customers. Because with some of the larger customers, and comms customers tend to fall into the larger customer category, we do vendor-managed inventory programs. And so the inventory is put close to their manufacturing sites. And in some of those cases, it's a little bit more difficult to move that inventory around. Now again, going back to my comment on Q2, within the forecast, because we did see last quarter, some of our larger customers not pull their forecasted demand, we're assuming that some of that could happen again this quarter. So we have tried to be conservative and take that into account. We'll just have to see how this quarter works out in all. Does that answer the question, Richard?
+Richard Ong
+I think so, yes.
+Operator
+That will be from Brian Peterson with Raymond James.
+Brian C. Peterson - Raymond James & Associates, Inc., Research Division
+I just wanted to know, are you guys having yield issues on 28-nanometers? Or is that more just a constraint of supply?
+John P. Daane
+It's a capacity challenge.
+Operator
+And gentlemen, that was our last question.
+Scott Wylie
+Well, listen, it's just about the end of the hour. I suspect given that there are no further questions, the best thing to do is to wrap up this call at this point. 
+Let me, in closing, review with you what our conference schedule will be in the second quarter. We will appear at 3 investor conferences during the quarter. On May 9, we'll participate in the Bank of America Merrill Lynch 2012 Technology Conference in San Francisco. Then later in the quarter, on May 16, in Boston, we will attend the JPMorgan Global Technology Media and Telecom Conference. And finally, on June 13, we will present at the William Blair & Company Annual Growth Stock Conference in Chicago. 
+This concludes Altera's earnings conference call. Thanks for your interest and participation.

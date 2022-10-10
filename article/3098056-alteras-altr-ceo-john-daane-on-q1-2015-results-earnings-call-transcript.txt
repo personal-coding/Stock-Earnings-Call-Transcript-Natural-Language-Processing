@@ -1,0 +1,313 @@
+Altera Corporation (ALTR) Q1 2015 Earnings Conference Call April 23, 2015 4:45 PM ET
+Executives
+Scott Wylie - Vice President
+Ronald Pasek - Chief Financial Officer and Senior Vice President, Finance
+John Daane - Chairman, President and Chief Executive Officer
+Analysts
+Joe Moore - Morgan Stanley
+Hans Mosesmann - Raymond James
+John Pitzer - CrÃ©dit Suisse
+James Covello - Goldman Sachs
+Doug Freedman - RBC Capital Markets
+Srini Pajjuri - CLSA Securities
+Ruben Roy - Piper Jaffray
+Vivek Arya - Bank of America Merrill Lynch
+Chris Danely - Citigroup
+Blayne Curtis - Barclays Capital
+Alex Gauna - JMP Securities
+Deepon Nag - Macquarie
+Anil Doradla - William Blair & Company
+Operator
+Ladies and gentlemen, please stand by, weâre about to begin. Good day and welcome to the Altera Q1 2015 Earnings Conference Call. Todayâs conference is being recorded.
+At this time, I would like to turn the conference over to Mr. Scott Wylie. Please go ahead, sir.
+Scott Wylie
+Good afternoon. Thank you for joining this conference call, which will be available for replay telephonically and on Alteraâs website shortly after we conclude this afternoon. To listen to the webcast replay, please visit Alteraâs Investor Relations web page, where you will find complete instructions. The telephone replay will be available at 719-457-0820, and use code 258712.
+During todayâs prepared remarks, we will be making some forward-looking statements. In addition, management may make additional forward-looking statements in response to questions. In light of the Private Securities Litigation Reform Act, I would like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear in our SEC filings.
+Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty, and that future events may differ from the statements made. For additional information, please refer to the companyâs Securities and Exchange Commission filings, which are posted on our website or available from the company without charge.
+With me today are John Daane, our CEO; and Ron Pasek, Chief Financial Officer. After Ron and Johnâs initial remarks, we will take your questions. Prior to the Q&A session, the operator will be giving instructions on how you can access the conference call with your questions.
+We are aware of recent M&A rumors in the press. Altera has a long-standing policy to not comment on market rumors and therefore we ask that you refrain from asking related questions today, since we will not be able to respond. I would now like to turn the call over to Ron.
+Ronald Pasek
+Thank you, Scott. The first quarter proved to be more challenging than we expected with revenue decreasing 9% sequentially. With respect to gross margin several of our higher than average gross margin vertical markets underperformed versus our forecasted expectations. Industrial, test, compute and storage, and to a lesser extent military, fell short of our forecast. Additionally, within wireless our business was more pronounced in radio and less in baseband.
+Operating expense was below guidance due to mask and wafer timing, and some favorable foreign exchange. In addition, favorable discrete tax items reduced our tax rate in the quarter. The combined under-spend in operating expense and a lower tax rate allowed us essentially to meet our EPS guidance. We repurchased approximately 1.6 million shares in the quarter and we have $134 million left to complete the share repurchase that we previously announced in Q4 2013.
+Given the softness in Q1, for Q2 we are being cautious with our guidance of down 4% to 8%. Our telecom and wireless business, and particularly our wireless business globally looks to be quite weak in second quarter, while the rest for our business will in aggregate be flat to slightly up. We expect favorable vertical market mix in industrial, military, broadcast, and compute and storage, and as a result our forecasting a gross margin rebound into the 66.5% to 67.5% range.
+Consistent with my comments last quarter, our gross margin should continue to increase through the year, which will allow us to achieve the lower-end of the planned gross margin rate. At this point, we do see sequential growth returning in Q3 2015. In addition, assuming the dollar stays strong globally, we have $10 million to $13 million of foreign-exchange favorability to the $760 million operating expense plan.
+Finally, we did not complete or expect to buy-back in Q1 and we donât know when weâll be able to finish the remainder of the repurchase, which was expected to be completed by the end of Q2. Now, let me turn the call over to John.
+John Daane
+Thank you, Ron. We are in the midst of an unfortunate perfect storm in the wireless industry, where capital equipment delays from carriers in China, Japan, the US, and some developing countries are causing temporary decline in our wireless business in Q1 and Q2. Based on customer forecasts we expect the business to bottom in Q2 and grow through the back-half of the year. For the second quarter, we expect revenue to be down 4% to 8% sequentially, again caused by delays in carrier spending.
+However, we expect strong growth in the computer server acceleration market and also double-digit sequential growth in our industrial IOT market. Despite the near-term revenue volatility, the long-term secular opportunity for FPGAs remains compelling. IoT, cloud computing, and big data analytics are providing new growth engines for the PLD industry. Because FPGAs are well-suited to manage motors, actuators, and cameras, our opportunity pipeline has significantly expanded not only for traditional industrial manufacturing equipment, but also for IoT systems and applications including security cameras with built-in analytics, smart grid, manufacturing process control and monitoring, robotics, and drones to name a few.
+The transfer of data from IoT sensors and devices to the cloud for processing will continue to fuel investments in the communications infrastructure where PLDs already have great success. And in the cloud, FPGAs are now being adopted in servers for acceleration as has been announced by our customers including Microsoft and IBM among others. In Microsoftâs case they were able to speed Bing search by 95% using our FPGAs, while also reducing the number of servers required by roughly one-half.
+Microsoft has moved on to announce performance gains using our FPGAs for many other applications as well. In summary, while we are disappointed with the near-term impact from the wireless industry on our business, we remain confident in the growth of the PLD industry through applications including IoT, automotive, communications and server acceleration. We are also confident in our ability to drive solid EPS growth given the significant operating leverage in our model.
+Now, let me turn the call back to Scott.
+Scott Wylie
+We would now like to take questions. Please limit your questions to one at a time, so that we give as many callers as possible the opportunity to ask questions during the call. Operator, would you please provide instructions and pull for questions.
+Question-and-Answer Session
+Operator
+Yes, sir, Thank you. [Operator Instructions] And weâll go ahead and take our first question from Joe Moore with Morgan Stanley.
+Joe Moore
+Great, thank you. I guess the question 99% of people asking you wonât be able to answer. So Iâll focus on a couple of other things. You had said that you would make the 10-nanometer decision by the end of the first quarter. Is there any update for us on that?
+John Daane
+Yeah, Joe, 10-nanometer I did say we would make a decision by the end of this quarter, or excuse me, in the end of Q1. We have not. Itâs a complex decision. Maybe I should just kind of walk through some of the complexity behind it so you understand where we are.
+Traditionally Altera has had very few manufacturing partners, and we have had deep partnerships with those companies. And that has afforded us I think a lot of value. When we looked at other foundries outside of TSMC, that have been our long partner, of course we wanted to preserve a lot of the benefits that we had seen through the TSMC agreement. So there are three basic factors that I would say we evaluate when we select a foundry partner.
+One is the technology roadmap obviously, did they have the technology capabilities that we need and will they make some customization of that. Number two, the service and support, very critical for what we need. And then the third item, of course, is the commercial terms, which includes pricing and yield. In general I would say, weâre very comfortable with the technology roadmaps of both Intel and TSMC. And then on the service and support side, I would say as a pure-play foundry and obviously again as a longtime partner weâre very comfortable with TSMCâs service and support.
+Intel, since they are new to being a pure-play foundry or new to the foundry industry in general, we decided to negotiate a contract to put in a lot of the important elements into the contract to make sure that we got things that we needed. And we ended up I think publishing that contract online in April of 2013. And that includes, just again to kind of go back over to a couple different items that we talked about in the past. One is we manufacture for longer than normal companies, because of some of our customers a very long tails like industrial, military, and to some extent telecom, and so Intel agreed to 12 year manufacturing.
+We want to make sure that we get the focus and support from the foundry which weâve always traditionally gotten. Therefore, we do not want to compete with our foundry and we agreed that Intel would not invest in, develop their own product line or buy a PLD company or buy another PLD company. We agreed in that contract that as an example that we would be the only major FPGA company to have access to 14-nanometer.
+So there were a lot of things that weâve done that make us now feel very comfortable about the service and support elements of Intel. And then the third gets down to again the commercial side and I would say that has become a little bit more complex recently. And so weâre spending a little bit more time to review that and make sure that we make the right decision. So we havenât made the vendor selection yet, for 10 still open and still having discussions.
+Joe Moore
+Okay. And if I could just follow up on that, when you say the commercial side, I guess, what specifically is the complication there or the issue that still needs to be hashed out?
+John Daane
+Commercial gets down into pricing and yield. Yield is an easy function in terms of yield projections that you get from the foundries; pricing and other commercial terms of the areas that are still under discussion, Joe.
+Joe Moore
+Got it. Okay. Thank you very much.
+John Daane
+Thank you very much. Next question, please.
+Operator
+Next question comes from Hans Mosesmann with Raymond James.
+Hans Mosesmann
+Thank you. I have - I didnât expect to come here so early a bit.
+My question, John, is on the datacenter side or the acceleration market. When you say that with Microsoft deploying in their Bing search your FPGAs, they are able to reduce the number of servers in half. What is the total upfront cost relative to the solution that youâre displacing.
+John Daane
+I think that the feedback that weâve had is that our solution is much more cost-effective than GPUs, both because the total solution of the FPGA is lower from a cost of component plus heat-sink, also the power is an order of magnitude lower. And as you know Hans the power is the number one spend in a datacenter.
+Compared to a processor what weâve heard is pricing is similar and again the advantage of using the FPGA is it will accelerate mathematics algorithms. Microsoft has put out all this data and I think continues to put out a lot of data on the value of FPGAs beyond search. So they looked at many other areas and many other applications within their company. IBM has also put out some similar statistics where theyâve - for their POWER8 series using our FPGAs and announced that for many applications it reduces the number of servers required as well.
+Hans Mosesmann
+Okay. Thanks and as a quick follow-up can you give us a sense of the investment in the compiler technology to get an FPGA to work practically in acceleration. How much time and effort or investment is required? Thanks.
+John Daane
+It took us several years of development to develop a compiler from OpenCL. Itâs also an investment in hardware accelerator blocks that we developed for our library that customers can access and it will continue to be a very significant investment for us to open up the market. Now, itâs not just for a cloud or big data analytics. It also works for a series of other markets. Weâve seen that the military market and high-performance computing has been very interested in OpenCL as a compiler.
+Weâve also had other markets including medical and computer peripherals such as high-end printers. Theyâve also been interested and are using OpenCL from us. So it was a technology originally we developed to access the server space, but is applicable to a broader market segment and where we broadly rolled that technology out.
+Hans Mosesmann
+Thank you.
+John Daane
+Thank you very much, Hans. Next question, please.
+Operator
+Next question comes from John Pitzer with CrÃ©dit Suisse.
+John Pitzer
+Yes, good afternoon, gentlemen. Thanks for letting me ask the question. John, just help me understand why youâre comfortable youâre going to see sequential growth in the September quarter, specifically in the telecom and wireless space. Youâre down to sort of revenue levels, if Iâm doing the math right in the June quarter that we havenât seen since really the post-3G kind of fall off.
+And then, if you look at sort of this LTE cycle, which hasnât been nearly as robust as a 3G cycle. So as you mentioned in your opening comments weâre kind of in the perfect storm. How do you think we got here? And why are you confident that Q3 will be a resumption of sequential growth.
+John Daane
+Okay, John, let me give some more color on wireless, because I think thatâs the primary driver of this. As I mentioned, the slowdown that we see is across several geographies and itâs rare that we do see a slowdown across multiple major geographies. But certainly Japan, U.S. and now China are soft and each is a little bit different. And in Japan and China, weâve seen some aggressive pricing rolled out because of competition and therefore weâve seen some of the carriers adjust their CapEx budgets in order to improve their P&L.
+We have seen this phenomenon in the past, particularly out of Japan and what has happened is extended to be a 3 month to 6 month adjustment in terms of carrier spending before they start to return or resume to what was their normal life level. Additionally, in the United States the spectrum auctions that have been ongoing cause some of the carriers to limit capital in the short run, so that they could improve their cash positions to be able to pay for the spectrum. I think that will play through fairly quickly this year and weâll see a return in the back-half of the year and probably both Japan and the U.S.
+More importantly to this is China. And I think if you look at China the explanation, I donât think itâs well out there, but itâs pretty simple. That is a China has now, where itâs now going through an audit of their state-owned enterprises. So this has been something thatâs been publicly released. And what weâre seeing as the carriers are going through this audit, theyâre basically shutting down or severely limiting how much capital or how many orders that they put out for this given period of time.
+And so thatâs whatâs causing the very significant slowdown in China for 3G as well as 4G deployments, but predominantly 4G. Now in particular, we donât think that this is going to last for a long period of time. China Unicom actually has already gone through their audit. Right now telecom and mobile are in their audit. And what we hear and what we expect both from our customers as well as in discussion with carriers is that theyâre expecting calendar quarter Q3-Q4 that the business will pick back up as they have completed that audit phase.
+Importantly, this is not related to for us any design loss or any market share loss. Itâs simply the way in deployments and again we expect to pick up in the back-half of the year. And I think youâre hearing similar announcements from other semiconductor companies. I think yesterday, Xilinx and the Texas Instruments for example said that they saw similar down ticks in the wireless industry in particular.
+Now unfortunately, wireless has proven to be volatile for the PLD industry and probably more particularly for Altera, because we have a larger business base in wireless and itâs a larger percentage of our companyâs revenues, then the PLD and for that matter I think anybody else.
+And if you just go back in time, you can see the - so Scott pulled some data going back over the last six years looking at the last 24 quarters. And what you find is in the last 24 quarters 13 of them we either - our wireless business either went up or down sequentially more than 10%. And in eight of those quarters were one-third at that period of time it was up or down more than 20% sequentially. So weâve seen the wireless volatility. Historically, itâs been tied to sometimes geographies turn on or turn off, sometimes itâs multiple geographies getting together.
+And again based on what weâre hearing from our customers as well as the operators, we do expect that this is temporary and the business is going to pick up starting significantly in the third calendar quarter.
+John Pitzer
+Thatâs helpful, John. Then quickly, itâs my follow up. Ron, I want to make sure I heard you correct on the gross margin line. Did you say that you expect to see continued sequential growth after the June quarter in gross margins and just given the mix shift back to wireless, which is usually a lower gross margin product? Is there other - whatâs your takes on the gross margin line that can allow you to continue to rise throughout the year?
+Ronald Pasek
+Yeah, John, this is consistent with what I said on our December 10 call, when I laid out the plan then what weâd expect to see for gross margin through the year in our call last quarter as well. And there are other factors besides mix, mix is the dominant one, but there are other obviously elements to the cost side and the price side. So, yes, it should continue to increase throughout the year.
+John Pitzer
+Thank you. Thatâs helpful, guys. I appreciate it.
+John Daane
+Thank you very much, John. Next question, please.
+Operator
+Next question comes from Tristan Gerra with Baird.
+Unidentified Analyst
+This is Steve for Tristan. Thank you for taking my question. My first question is on gross margin. What is the gross margin differential for you between 20-nanometer and 28-nanometer, and getting up back to a single architecture at the 20-nanometer?
+John Daane
+Honestly between nodes the gross margin is not that different. I wouldnât expect over the long-term to see any significant difference by node. As you just heard previously generally because of volume in different end markets where gross margin is a function of vertical market mix. So obviously customers that buy more, get better pricing, that tends to be then the biggest driver of gross margin variance.
+Unidentified Analyst
+All right. Thank you. Thatâs helpful. And my second question is related to 28-nanometer. If 28 is the longest node for FPGA so far, could you just maybe talk a little bit about the ramification of the slowdown on your capital structure? And do you slowdown CapEx going forward in order to maintain your ROI?
+John Daane
+Well, I think we have to realize we are a fabulous company. So we do not invest in manufacturing equipment. Capital for us is computers and software predominantly EDA Software that we would lease in order to develop our chip. So we would not adjust based on node or volume of any particular node.
+In general, Iâm not sure 28-nanometer is necessarily going to be the longest live node in PLD industryâs history. I donât think there is going to be any different from any other node. Typically, from introduction, we see a peak five-year, six-year, seven-year, and then at tail last few years afterwards. And I think 28-nanometer will be the same as any other node for us. So, yes, doesnât change what we are doing or how we are investing as a company.
+Unidentified Analyst
+All right. Thank you.
+John Daane
+Thank you very much. Next question, please?
+Operator
+Next question comes from Ross Seymore with Deutsche Bank.
+Unidentified Analyst
+Hi. Thank you for taking my question. This is Julie [ph] for Ross Seymore. Can you give some additional color on why the industrial military auto segment was down double-digits in the March quarter? And given the weakness, how should we think about the growth for this segment in 2015?
+John Daane
+So what was down in the calendar quarter Q1 and we actually did or predict us when we had our call for Q4 is, industrial was down and military was down. Military is typically down in the first calendar quarter, that has to do with seasonality or spend of government budgets, and so thatâs what we saw. Military is pulling back up this quarter and is going to grow substantially, again on a normal season pattern.
+Industrial was oddly down in the first calendar quarter and that is not usual. We would have expected it to perform better. I think what we were seeing is some adjustment by companies as they were adjusting in Europe and Japan to the stronger dollar. Ultimately though, we were able to call that correction for the quarter, it did happen. And overall, we are expecting that industrial will grow for us double-digit sequentially this quarter, so itâs really roaring back. And those were the two main impacts, overall, automotive was up in the quarter.
+Unidentified Analyst
+Okay. Thank you. And given the lower revenue growth profile for the year, how should we think about OpEx guidance that was given previously, any changes?
+Ronald Pasek
+No, with the exception of the - of foreign exchange benefit that we predict given the strong dollar if it continues $10 million to $13 million, Iâm not changing the full-year OpEx at this point.
+John Daane
+Thank you very much. Next question, please?
+Operator
+Our next question comes from Jim Covello with Goldman Sachs.
+James Covello
+Great. Thanks so much for taking my question. Going back to Joe Mooreâs first question on the 10-nanometer decision, is it a two-horse race for the foundry decision, or could there be more players potentially involved?
+John Daane
+Right now, itâs a two-horse race.
+James Covello
+Okay. Thank you. And then going back to Hansâs question on the accelerator market, could you walk us through a timeframe, where that could potentially become a meaningful portion of the quarterly revenue? What do you think a reasonable sign post would be for us to think about the FPGA accelerator market, representing something that say you might have to breakout separately?
+John Daane
+I think if you sort of look at all of our vertical markets in general, we expect very broad-based growth across all. We do expect the computer, industrial, and automotive will likely be for the next several years, as weâve discussed in the past, the fastest growing. But because we expect growth from all of our vertical markets, weâre not necessarily expecting that there will be a dramatic shift in the next year or two.
+In general, the opportunity for us in servers is very, very large, and we put out the $1 billion opportunity in the past youâre seeing in Nvidia how strong growth in this area. We think we have a more compelling product just simply because of the performance and power benefit, so we have over GPUs, and itâs a new space.
+Overall, Iâd say computer is probably for us about, I donât know how to break it out, I was going to say maybe 8% of revenue overall. So you can tell that itâs already become significant for us. We expect that this area probably will grow 20% to 30% compound annual and maybe that gives you sort of some metrics to use in terms of thoughts of how itâs going to grow. Certainly, itâs a great opportunity. We talked about Microsoft. We talked about IBM, but there are a lot more customers that weâre working with right now that are deploying or are doing the development right now and plan to deploy over the next couple of years. So I think weâve gone from this being a concept to now being a reality and growing quite well for us.
+James Covello
+Incredibly helpful. Thanks a lot. Good luck.
+John Daane
+Okay. Thank you very much. Next question, please?
+Operator
+Next question comes from Doug Freedman with RBC.
+Doug Freedman
+Hi, guys, thanks for taking my question. I guess, if I could start in on one of your - your main competitor talked about a slower ramp in their 28-nanometer product portfolio than they might have expected a year ago. What are you guys seeing on that front? And can give us a guidepost on where your 28-nanometer finished the quarter?
+John Daane
+I am not familiar with what they may have said. So unfortunately, Iâm not in a position to be able to comment at all on slow growth. I think in general, 28-nanometer has done very well. Overall, we ended the year roughly at about 40% market share, and we ended the quarter also at about 48% market - or 40%, excuse me, the market share as well for 28-nanometer.
+Our overall market share as a company is for FPGAs versus our larger competitor is about 38%. So the fact that weâre doing that well in 40 and for that matter, the several nodes before that says that in general we should expect to take market share over the years to come. So that - hopefully, that answers and gives a little color on 28-nanometer.
+Doug Freedman
+Okay. If I could you had talked about your 14-nanometer progress. Can you give us an update on where that stands in effect just sort of walk one more on the OpEx side. Are there any advisor fees in the numbers that youâve guided to?
+John Daane
+So for me on 14-nanometer thereâs no change. We plan to sample in the fall of this year.
+Doug Freedman
+Great. Thank you.
+John Daane
+Thank you very much. Another question or next question, please?
+Operator
+Next question comes from Srini Pajjuri with CLSA Securities.
+Srini Pajjuri
+Thank you. John, given the volatility in the business, how should we think about a normalized run rate for your - in a quarterly revenues? And then whatever that is, do you expect to get there in the second-half, I know, you talked about recovering the second-half of this year?
+And then also Iâm thinking, Iâm looking at your operating margins, theyâve been in the mid-20s for a while and then probably going to low-20s, I know you have a higher target longer-term. But on a normalized basis, how do we get up this mid-20 or low-20 operating margin in the model?
+John Daane
+Well, to answer it backwards, I think if you look at the model the way that we are able to move back into the low-30s operating margin, which is our target is, we are constraining expenses moving forward. So this year, last year, and the years going forward, we want to basically keep our expenses, SG&A and R&D flat plus or minus a couple percent and youâve seen us do that.
+Second element is, weâve been operating last year with lower gross margins than we think are where the company should operate. We think weâre more in the 67% margin on average level. Youâre seeing the expansion of our gross margins now, both which are because of mix, but it also because of continuing cost containment and operating costs improvements that we make and weâll continue to make as a corporation. So that will help the op margin side.
+And then the third element is, overall, youâll get the revenue growth and coupled with high gross margins that will flow down very, very well to the bottom line. So thatâs the thesis youâve seen us from the past from us. I think if you look at 2008 versus 2010 or 2011, you saw a lot of op margin expansion as we had revenue growth. And I do think we have a lot of revenue opportunity in a lot of markets.
+The other element that you asked, itâs, weâve commented before. Itâs very difficult to predict seasonality in our particular industry. So I canât give you the - what would be a normal growth rate for a particular quarter. In terms of what will wireless do in Q3 or Q4, we donât have enough visibility to be able to point out exactly what the number will be. We know we will grow in Q3. We know, because we will grow in wireless, so the overall company will grow. Overall, will wireless get back to the levels in Q1 or Q4? We donât have that sort of visibility right now. But we know itâs going to come back strongly, and we do anticipate, weâll get strong company growth in the third calendar quarter from that.
+Srini Pajjuri
+Okay, great. Thatâs helpful. And then I understand you donât want to discuss the speculation out there. But my question is assuming hypothetically if there was an offer on the table, can you talk about some of the factors that you would look at to whether to accept and offer or reject an offer?
+John Daane
+So as Scott said earlier, our policy is not to comment on rumors or hypothetical M&A transactions or hypothetical elements or may or may not happen within our particular industry. All I guess I would say is a - I took a step back is that, our board fully understands its fiduciary responsibility. We are intent on enhancing shareholder value, and we are agnostic as to the path to get there.
+Srini Pajjuri
+Thank you.
+John Daane
+Thank you very much. Next question, please?
+Operator
+Next question comes from Ruben Roy with Piper Jaffray.
+Ruben Roy
+Thank you. John, youâd mentioned a bit on around your discussion of the China base station market, some pressure and some reallocation of CapEx given perhaps the rate of subscriber adds or something like that. And I was wondering in terms of your design activity, which I assume is ongoing despite the order pause. Have you seen anything, that would indicate that we might see some pricing pressure in the base station market, as you look out maybe in the second-half of this year into 2016?
+John Daane
+Base stations tend not to change that often. And so youâre typically seeing an architectural shift for our customers on a two-year to four-year cycle on base stations just because of the complexity of the systems. Radios, of course, there are so many frequencies and there are so many different features in radios. Many of the vendors are developing 60 to 100 different radios a year. So thereâs more opportunity for products cost reductions or product replacements just to give you an idea of the cycle.
+Overall, I would say, thereâs really no difference or change in market pressure in terms of pricing today for products as they were as it was a year ago or two years ago. Customers obviously would like more features at a lower price. We try to design that through new generations of technology and hopefully, if we get that right, weâll continue to grow as a company.
+Ruben Roy
+Thatâs helpful, John. I guess just as a follow-up then, is there interest in the base station - in baseband specifically, area of the base station market for 14-nanometer technology. And if so when do you think you might start shipping some of those devices into the platforms?
+John Daane
+We will have, as an example, weâll have base station shipping on 20-nanometer products from Altera this year. Those have been in design for a couple of years now. I think what youâre going to see is 14-nanometer if I were to guess. 2017, perhaps, youâll see companies entering into production using our own 14-nanometer FPGAs at that time.
+Ruben Roy
+Great. Thanks, John.
+John Daane
+For base stations. Thank you very much. Next question, please?
+Operator
+Next question comes from Christopher Rolland with FBR Capital Markets.
+Unidentified Analyst
+Hey, guys. This is Joe on for Chris. Thanks. Let me ask the question. I was just curious what you guyâs overall thoughts were on moving towards the lower end of the market. Do you think Altera to have a replace in the mobile handsets or consumer products group?
+John Daane
+Joe, our focus is not to go after battery-operated appliances or applications. It really requires you to develop and different process type and you develop different architectures from what we have today. So where we have done some lower power products and where we do have low-end FPGAs and CPLDs that address a broad range of applications. Today, weâre not targeted in general on areas like handsets or tablets.
+Unidentified Analyst
+Okay, great, thanks. And then as a follow-up, I was intrigued by your wireless spectrum comments earlier. Do you think and you said youâre pretty comfortable there. What gives you comfort thatâs a short-term phenomenon, and do you think that will impact on your emerging markets going forward, could we see an environment where all around weâll see lower CapEx lowered going forward?
+John Daane
+Well, I think probably CapEx does not get lower going forward. I think itâs been fairly consistent for a long period of time. What is a little bit confusing in the CapEx numbers is, thereâs - in the U.S. and in the U.S. accounting system, the carriers in the U.S. can include a lot of elements that are not what we would traditionally think of capital. So they can include labor. They can include consulting. They can include software.
+So itâs many times I think for people that are getting data maybe confusing as to whatâs actually happening. We do see fluctuations where some quarters are stronger than others. But in general, if you look at the market, there is still need to build out capacity for 4G and 3G throughout the world, and there is a very strong push towards 5G in particular, because whatâs happening as you can see with the U.S. thereâs a number of carriers are ending up with spectrum that is not contiguous.
+And therefore they need to manage this and string it together. And so theyâre going to need the newer radio styles that are going to come with 4.5G, 5G, which will require all new equipment deployments in order to take advantage of all this new spectrum that they are buying and to more efficiently use the spectrum that they already have. And so in general, I think thereâs going to be a continued need to see further spends on wireless and wireline for many years to come.
+Unidentified Analyst
+Great. Thank you.
+John Daane
+Thank you very much. Next question, please?
+Operator
+Next question comes from Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya
+Thanks for taking my question. John, one more on wireless especially in China. Are you seeing any excess inventory or base stations or base stations that were pre-built or any move towards smaller cells. Iâm just trying to understand whether this overhang on FPGA demand, will it persist even when Telco CapEx is relieved just because it happens to be pre-built base stations or whether carriers because of capacity needs start moving more towards smaller cells?
+John Daane
+So for that in China, in particular, the answer is, yes, some of the existing products that our customers have, they will use to ship as the audits are completed, which is why weâre seeing the very significant downtick. In other words, where customers lined up doing is using this as an opportunity or time that they will bleed off the inventory and then start to return to orders from us in the third calendar quarter as those carriers, the two that are left complete their overall audits.
+And so that is factored into this big dip that weâre seeing in both like Q1 and Q2 in our wireless business and ultimately where we expected to spring back. So that idea of that some of our customers who have inventory has already been factored in. In terms of small cells, we do have content in small cells, and what has now come back is a change in forecast and that, there will be far fewer small cells deployed in China than previously thought. The carriers there are just not as interested in the technology.
+So that in particular is not going to ship in the volumes that weâre projected late last year or even earlier this year, does not have a tremendous impact to us, because we have far more dollar content, and the macro base stations and obviously the radios themselves.
+Vivek Arya
+Very helpful. And then as my follow-up, Ron, could you remind us again whatâs causing the gross margins to be so much different than your competitor who was putting up 69%, 70% gross margin, because I think historically, you have always outperformed then. So whatâs causing this pressure now and what can help to close the gap over the next few quarters? Thank you.
+Ronald Pasek
+Yes, thanks for the question. So thereâs three things that really causing this in my opinion. Number one is, our competitor has a Last Time Buy thatâs been going on for probably well over 2.5 years, we do not have such a Last Time Buy. They do about twice the amount of militarily business we do, which is obviously one of the higher gross margin verticals.
+And as I said last quarter, we have two 10% customers. We had two 10% customers last year, they have zero. So all things being equal, those put a little more pressure on gross margin, because they do higher volumes.
+John Daane
+And they particularly are more oriented towards the wireless business, which weâve mentioned many times as lower gross margin. However do take a step back and I think we have to congratulate them for the fact that they are operating extremely well and give them credit for that as well.
+Vivek Arya
+Thank you.
+John Daane
+Thank you very much. Next question, please?
+Operator
+Next question comes from any Chris Danely with Citi.
+Chris Danely
+Yes, thanks, guys. I guess just a follow-up on the last question from Vivek on the gross margin. So quick clarification, do you have two 10% customers this quarter, and then you talk about your higher gross margin markets have underperformed, and your mixes in wireless is lower. Is there any sort of taking a step back, is there any sort of common driver there? And I guess, can you just give us some confidence that this is going to stop, and I know you talked some sort of non-mix ways you can improve margins and maybe elaborate on those?
+Ronald Pasek
+Yes, so consistent with what I side when we articulated plan in December of last year some of the higher margin verticals for the year are going to be the primary growth verticals for us, and thatâs what youâre seeing mainly from Q1 to Q2 and itâs going to continue as the year progresses.
+John Daane
+I think if you step back to last year as an example our gross margins did go down. The two verticals for us are sub-verticals that had the strongest growth and far out performed their plan, our plan for them, were wireless and consumer as we mentioned before. And again those were two of the lower gross margin verticals, simply because of the volume that is in those areas. The reason that we had said that gross margins will grow this year is because we expect strong growth out of computer, out of industrial, out of military as examples, and those are all some of our higher gross margin verticals.
+So mix obviously is better this year. We continue to do cost reductions work on yields, work on material cost reductions, work on continuing to improve design efficiencies, so that we can lower our costs, those are ongoing efforts that we will do certainly every year.
+And then to your other question, Chris, we will not or we do not expect to have any 10% customers this quarter. Again, as you can imagine our two 10% customers coming out of last year are very heavily focused on wireless and so theyâre going to be impacted for us this quarter and therefore we do not anticipate weâre going to have any 10% customers this quarter.
+Chris Danely
+Great, thanks. And for my follow-up just a quick on 10-nanometer, do you expect to make a decision on at this quarter? I guess, why would you be hesitating on speaking with Intel? You made this big switch from Taiwan Semi over to Intel. Has something changed there? Has anything like stretched out or change, I guess, why would you be hesitating and what would be involved in switching back to TSMC at 10-nanometer?
+John Daane
+So we use third-party tools and we use libraries that come from third-parties and memory cells that come from foundries or third-parties. So it requires infrastructure switch, but since we are currently doing development with both TSMC and Intel today, we could easily switch back and forth between the two, because weâve got the knowledge and weâve got the skill-set. And weâve got all the technology. Adding a third foundry would be a lot of work for us, because it would be all new learning.
+So because again weâre doing the 20-nanometer technology development with TSMC, we completed a 55-nanometer embedded flash family with TSMC. That relationship is ongoing and is going currently. So we are doing development with both companies. We feel very comfortable with their technology roadmaps as I mentioned. Service and support weâve established and now it comes down to the commercial term side. So I do anticipate that that decision will be made this quarter, and they will be in a position when it comes to the call next time to let you know where weâre headed.
+Chris Danely
+Thanks.
+John Daane
+Thank you very much, Chris. Next question please?
+Operator
+[Operator Instructions] And we next move to Blayne Curtis with Barclays.
+Blayne Curtis
+Hey, guys. Thanks for taking my question. Just a couple on, we talked a lot about wireless, on wireline you had a reset in December. Youâre expecting to come back nicely. Is that going to be out for you in Q2, do you still expect that rebound? And then maybe for the big picture, I know you donât want to talk about the deal, but just figuring out how to justify $50 or $60 stock price, you need to get at least back to your peak earnings number. With this reset youâre back down, run rate is closer to $1.
+When you look at PLD industry, the 10% growth, you see a lot of companies resetting growth profiles, thinking about different cost structures. Is that something that youâre looking at or do you still think that PLDs could grow at that rate?
+John Daane
+I still think that - and our expectation is for Altera that we should outgrow the overall industry by about 2X. Overall, our expenses will decrease as a percentage of revenue as our revenues grow and thatâs something that we have communicated in the model. We expect that we would grow from where we are today in the low 20s in terms op margin to the low 30s, which is our long-term target. We think during that period of time thereâs a lot of expansion not only of op margin, but we would expect also from a stock-price perspective, because of the EPS growth.
+Add to that, we are continuing to work on cash return to shareholders through dividend and the share repurchase even though itâs currently suspended has been very accretive for us as well. And we will continue to focus on cash return to shareholders as much as possible.
+In terms of telecom I have said in Q4 that for Q1 we expect telecom to be flat. It was slightly down. I think it was down about 2%. So it was roughly flat. The forecast is for it to grow this quarter. Iâm kind of hedging that a little bit and Iâm thinking that maybe that flips out Q3. So remember in Ronâs opening remarks that he did say we were trying to be very conservative this quarter in terms of the guidance. And thatâs one of the elements that we just said. Maybe we see telecom just continue to be flat for now and maybe grow in the back-half of the year.
+Blayne Curtis
+Okay. Thank you.
+John Daane
+Thank you very much. Next question, please.
+Operator
+Next question comes from Alex Gauna with JMP Securities.
+Alex Gauna
+Thanks for taking my question. Good afternoon, everybody. John, youâve been around for at least [indiscernible] and we got a clean plate of all the [indiscernible] Xilinx, you, TI. It sure feels like [indiscernible] that might mean there isnât [indiscernible]. What are your thoughts [indiscernible].
+John Daane
+Thanks, Alex. I think we understood your question your sort of volume is low for us. I think overall, I donât think that this is the end of the cycle. If you think of semiconductors, typically weâve seen cycles driven by CapEx spend. So where you know sometimes thereâs not enough CapEx spend, capacity drives up, prices go up, industry grows, lot of CapEx spend, too much volume is put in place, prices decline therefore the industry declines.
+I donât think thatâs the case today. Weâre not seeing that CapEx is really run away from what the industry growth rates are and overall recently you have seen a couple of companies adjust their CapEx spending downwards. So I think thatâs okay. Ultimately, I think some vertical markets are doing well and some vertical markets are under a little bit of pressure. Weâre also susceptible to whatâs happening on the macro, so if the macro were to substantially deteriorate, I think we would all be certainly impacted by that.
+But right now I think if it were not for this wireless delay that I mentioned we would be seeing sequential growth this quarter as well as gross margin expansion this quarter.
+Alex Gauna
+Okay, thatâs helpful, and sorry about the volume on that last question. If we think about another aspect of what drives the Altera story, you believe for years that you can gain share versus ASIC and ASSP. And at least in the more recent periods here that does not seem to be the case for either you or your peer. What can you say about if that part of the thesis is still in place for you, and if so, why are we seeing that anomaly here in the near-term where a lot of the ASSP players still seem to be outperforming your performance. Thanks.
+John Daane
+Well, I think there are different markets, for instance some of the ASSP players have been tied to mobile handsets, weâre not in that particular market. So I think you have to take it a step back and look at particular verticals. And I think if you look at the verticals that weâre in we have been outperforming the semiconductor industry on average over a 3 year to 5 year basis point. In general, if you look at the ASIC market, I would say and go back five, six years ago it has changed substantially.
+Texas Instruments was at one time one of the top ASIC providers, theyâre out. IBM is out having sold off their semiconductor group. Itâs not evident to me that global foundries are necessarily carrying that strategy forward. Weâve seen the Japanese companies and many companies in Japan deemphasize ASIC entirely. So I think that industry has been under a lot of pressure as evidenced by the fact that many of the top providers in the top 10 have really exited the overall business, and to a large degree thatâs been replaced by either ASSPs and handsets or FPGAs and the infrastructure equipment side.
+And I think thereâs plenty of evidence on the ASIC front that PLDs continue to replace it and that economically really are customers have no choice but to use programmable logic going forward.
+Alex Gauna
+Okay. Thank you. Good luck on restoring the momentum.
+John Daane
+Thank you very much, Alex. Next question please?
+Operator
+Next question comes from Deepon Nag with Macquarie.
+Deepon Nag
+Yes. Thanks guys. Could you give us the gross margin for the acceleration business? When you think about the seasonality of that, is it seasonally strong in the back-half of the year relative to the first-half?
+John Daane
+So theoretically, if you were a player in the broad space within the computer industry and particularly servers, I would say that you typically do see Q4 stronger and then Q1 weaker in terms of a seasonal pattern. But today, weâre doing business with companies that build their own datacenters is an example and some others, IBM, as I mentioned and Hewlett-Packard. But in the case of companies that build their own data centers, so they are not on our clock, in other words, they will build out a datacenter based on their own clock, and so itâs a little bit different from that perspective.
+So we havenât seen a lot of seasonality necessarily with our portion of the computer business, and again, itâs still very early innings in terms of what we can achieve. In terms of gross margins, I think computer in general has been at or above our overall corporate level.
+Deepon Nag
+Great, excellent. And on the foundry deal with Intel, how long has Intel compelled to not invest or develop alternative FPGA technologies, if you were to switch to [indiscernible] 10-nanometers?
+John Daane
+I think, again, I refer people probably and we have gotten a little bit of interest recently about this through the agreement that is online and for individuals to look at that particular agreement. I donât know if there are dates establish with it, so I probably just end this by saying, weâre very comfortable with the protections that we negotiated in that agreement.
+Deepon Nag
+Got it. Thanks a lot.
+John Daane
+Thank you very much. Next question, please?
+Operator
+And our final question comes from Anil Doradla with William Blair.
+Anil Doradla
+Hey, guys, thanks for squeezing me in. John, couple of question, so back to that ASIC replacement thesis, when you open up a box today, there are fewer chips out there. So the whole system-on-a-chip is taking a lot more functionality, whether itâs input/output, more memory, processors, and so forth. So what would you say to perhaps some element of criticism that an amount of glue logic that you would need, the amount of FPGA you would need with the rights of SoCs diminishes. Do you think thereâs any validity to that thesis?
+John Daane
+I think you are correct. In that there may be fewer chips, certainly than when I started where you had TTL logic with four gigs per chip. The number of raw chips is perhaps diminishing the system, and then youâre seeing more integrated SoCâs. And thatâs exactly the reason why youâre seeing from us and from Xilinx as well the advents of SoC based PLDs or FPGAs.
+So if you kind of look at the FPGA evolution 15 years ago, we had only logic in our chips, we then added memory. We then added DSP blocks, which really took on and displaced a lot of what was the traditional DSP industry. We then added transceivers, which took on and replaced a lot of analog components. And mostly, recently, weâve added microprocessors, so multi-core microprocessors to our FPGAs.
+So, in fact, weâre becoming the SoC within the systems. There is a - there is still an economic sort of spectrum and it will always exist. If there is high enough volume, it will make sense to do in ASIC, or it will make sense to do in ASSP, because where the expense to develop that chip is very, very high these days. You canât achieve a return on investment if you ship again to applications 5 million units or higher per year.
+But if youâre in applications that are below that, itâs very difficult, if not impossible to achieve the return on investment with that very large investment you make developing the chip, whereas we can develop one chip, sell it to many customers who again donât have that sort of volume, but through the aggregation of the volume get the payback at the ROI necessary for us to continue to go forward. So we now are in essence the default SoC for all of those applications that ship in the few units per year all the way up to the low millions of units per year.
+Anil Doradla
+Great. And now if you step back and remove yourself from the recent volatility and uncertainty, have you changed your opinion on the long-term growth rate of FPGAs. What do you think in the long-term growth rate of this industry going forward?
+John Daane
+So our expectation for Altera is the high-single digits to low-double digits in terms of growth. And Iâm sort of benchmarking the FPGA through the overall semiconductor industry on 4% to 5% compound annual growth in us roughly to expect perhaps slightly better with us some of our new markets, such as server acceleration, some of the IoT space, as well as automotive. Thank you for very much.
+Anil Doradla
+So thatâs not changed.
+John Daane
+No but thereâs - I would say two years ago, if you were to talk to us as an example about computer, we said maybe. And we were talking about itâs a potential, but weâre not quite sure, because we had to develop at a completely new software base. So thatâs an area for us that I would say today is completely new. I would say automotive, you know five years ago, we would say, thatâs a potential, but weâre not sure. Thatâs an area that our industry is seeing good growth.
+So I think thatâs all beneficial, because it will allow the FPGA industry to expand beyond just communications where obviously we have a lot of revenue be able to diversify. But I think there are a lot of new growth markets and opportunities for us which should allow us to continue to grow to exceed overall industry. Again, thank you, Anil. Next, or I guess weâve done. So, Scott?
+Scott Wylie
+Correct. Listen, as we wrap up this call today, let me mention the conferences that we will be attending this quarter. First, we will attend the Baird Growth Conference in Chicago on May 6. And in June on the second, weâll present at the Bank of America Global Technology Conference in San Francisco. This concludes Alteraâs earnings conference call. Thank you for your interest and participation.

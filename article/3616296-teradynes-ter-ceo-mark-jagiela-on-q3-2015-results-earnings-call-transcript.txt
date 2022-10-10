@@ -1,0 +1,296 @@
+Teradyne Inc. (NASDAQ:TER) Q3 2015 Results Earnings Conference Call October 28, 2015 10:00 AM ET
+Executives
+Andy Blanchard - VP, IR
+Mark Jagiela - CEO
+Greg Beecher - CFO
+Analysts
+Atif Malik - Citigroup
+Mehdi Hosseini - SIG
+Farhan Ahmad - Credit Suisse
+Jagadish Iyer - Redstone
+Steven Chin - UBS
+C.J. Muse - Evercore
+Timothy Arcuri - Cowen and Company
+Tom Diffely - Davidson
+David Duley - Steelhead
+Krish Sankar - BoA
+Operator
+Good morning. My name is Kelly and I will be your conference operator today. At this time, I would like to welcome everyone to the Teradyne Third Quarter 2015 Earnings Conference Call. [Operator Instructions]
+I would now like to turn the conference over to Mr. Andrew Blanchard. Please go ahead, sir.
+Andy Blanchard
+Thank you, Kelly. Good morning everyone and welcome to our discussion of Teradyne's most recent financial results. I'm joined this morning by our CEO, Mark Jagiela, and our Chief Financial Officer, Greg Beecher.
+Following our opening remarks, we will provide details of our performance for the third quarter of 2015, and our outlook for the fourth quarter and provide some general market comments. The press release containing our third quarter results was issued last evening. We are providing slides on the investor page of the website that may be helpful to you in following the discussion and those slides can be downloaded now or you can follow along live. In addition, replays of this call will be available via the same page about 24 hours after the call ends.
+The matters that we discuss today will include forward-looking statements that involve risk factors that could cause Teradyne's results to differ materially from Management's current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release, as well as our most recent SEC filings.
+Additionally, those forward-looking statements are made as of today and we take no obligation to update them as a result of developments occurring after this call. During today's call, we will make reference to non-GAAP financial measures. We've posted additional information concerning those non-GAAP financial measures, including reconciliations to the most directly comparable GAAP financial measure where available on the Investor page of our website. Also, between now and our next earnings call, Teradyne will be participating in investor conferences hosted by UBS and Credit Suisse.
+Now let's get on with the rest of the agenda. First, Mark will comment on our recent results and the market conditions as we enter the fourth quarter. Greg will then offer more details on our quarterly financial results, along with our guidance for the fourth quarter. We will then answer your questions and this call is scheduled for one hour. Mark?
+Mark Jagiela
+Thanks, Andy, and good morning, everyone. Today I will provide a brief summary of the highlight of our 2015 results to-date and then focus on how we're looking at 2016 and beyond for long term growth at Teradyne.
+Greg will then provide the details for the third quarter, the full year and our Q4 guidance. In Teradyne's core semi test business, the 2015 market is playing out about as we expected at the beginning of the year, as the annual SOC test market size is trending to about $2.1 billion, right in the $1.9 billion to $2.2 billion range we forecasted.
+The good news is that this is up from the previous down cycle odd year of 2013, where the market size was $1.9 billion. Validating that increase in device complexity and the reduction in the impact of parallel test is starting to have a positive effect on the market.
+We are pleased with our performance in this market as we moved our market share from about 40% to 50% over the past three years. A combination of tailoring our products for high growth sub-markets and cultivating higher growth customers has been and will continue to be our playbook for success.
+The memory test market is also performing as expected at about $500 million annual run rate. In memory, the technology story around test remains the increasing bus interface speeds that create demand for new testers.
+Our Magnum V continues to capture share in testing these higher speed, non-volatile devices. This trend will continue into 2016 as even higher speed UFS and PCIE versions of NAND will start to grow in the market.
+For Teradyne, the good news is that our same Magnum V platform will be testing these higher speed devices as the architecture was setup from the beginning to track these trends.
+Our storage test business has seen a nice rebound in 2015, with sales more than doubling over 2014, resulting in a solid return to profitability. Buying for enterprise hard disk drive test combined with new applications, testing solid state drives, has led to the doubling.
+Also as packaging of semiconductors moves to increasingly dense and complex system modules, we are finding applications in system level test or long application specific test suites can be run efficiently in our highly parallel environmentally controlled tester.
+In industrial automation, Universal Robots had record sales of $16 million. Our recently introduced UR3 robot arm saw strong demand in North America and China in particular.
+Earlier doctors of the new table top robot in the U.S. market are the automotive, electronics assembly, and high precision metal fabrication industries. Common applications are screw driving, glue dispensing, assembly, and product testing.
+In China, we are experiencing demand from medium to large companies within the electronics industry where the UR3 is typically used for pick and place tasks, machine loading, and light assembly.
+A good example that highlights the benefits of UR's collaborative robots and electronics assembly operations is Wistron. This Taiwanese manufacturer has quickly deployed over 60 UR robots to improve productivity in a laptop assembly operations. A video outlining Wistron experience can be found in the case story section of the UR website.
+Turning to the current environment, over the past few months we've had many investor questions related to our overall business conditions, given the worries about slowing emergent market growth. So far we've seen little impact to our business, while we are in no way immune to swings and macroeconomic growth, a longer term trends in semiconductors and automation remains solidly positive.
+Our third quarter unfolded much like those in the past. Semi test orders declined 47% sequentially about in the middle of the five year historical range of Q3 bookings decline, that normal seasonal order slowdown is reflected in our Q4 guidance.
+While it is too early to put a number on the SOC market size next year, we do expect historically SOC test buying patterns to continue in 2016 to be an up year for the industry. The drivers have test demand, unit growth and increasing complexity remain intact.
+While smartphone unit growth is slowing, forecasters still expect over 140 million incremental units in 2016, similar to the 2015 increment. And those units will have faster, more complex processors, more communication links, sharper displays, more storage, and every device will be optimized to extend battery life, all made possible by the advanced semiconductor devices that we test.
+As customers strive for higher performance, the smaller sizes with lower power consumption, advanced packaging technologies are becoming another area of differentiation for our customers.
+From a test perspective, we are well aligned both technically and commercially with this trend. Advanced packaging puts a premium on known good dye testing, as repair inside these packages is prohibitively expensive. More extensive testing at probe requires the precise accuracy and signal delivery technology built into our UltraFLEX.
+Longer term, we expect to see growth in semiconductor applications beyond just advance smartphones. Continued unit and complexity growth in automotive, industrial, and consumer products should keep the market on a solid footing for the foreseeable future.
+Two trends worth mentioning are 60 gigahertz applications and the continued proliferation of image sensors. A variety of applications are opening up around the 60 gigahertz and above frequency space.
+802.11ad, automotive radar and cellular picocells are all developing new silicon technology to exploit this space. This in turn drives a new wave of test equipment for semiconductor test and a LitePoint.
+At LitePoint, we already feel that our first 60 gigahertz tester and early adopters are ready in devices for commercial applications in late 2016. On the semi test side, not only do these RF devices need a much higher carrier frequency and information bandwidth, the downstream chips that modulate, demodulate, and process the information digitally, also need much higher complexity, speed and processing power to manage the higher bandwidth.
+This in turn requires faster memories and bus speeds to keep up with the movement of information. All of this reinforces the complexity trend that drives the need for more test capability.
+Automotive radar is another emerging application in the 75 gigahertz to 80 gigahertz spectrum. Where enhanced driver safety and assistance packages will increasingly incorporate multiple transmitters and receivers per vehicle to monitor the surrounding environment, our UltraFLEX tester is positioned directly in line with these trends.
+In the case of image sensors, the diversity and unit volume forecast is exciting. At Teradyne we have about 70% share of the world's image sensor test business on our J750 platform. The trend to higher resolution sensors means more test seconds. Improved sensor performance in low light conditions means the low noise environment of the J750 is increasingly valued.
+Additionally, infrared, time of light, and other new sensor technologies will show up in phones, automobiles, and security applications, which will continue to fuel unit growth and driver tester demand.
+At LitePoint, our core connectivity and cellular test markets remain compressed, resulting in 2015 revenue coming in about flat with 2014. Looking forward we see new markets like 802.11ad, protocol testing, and a few yet to be announced new products opening up about $200 million new set of markets over the next two years.
+Four months into our acquisition of Universal Robots, things look very promising. A strong $16 million quarter, a strong new product launch of the UR3, and numerous research reports validating the rapid development of this market are all positive.
+We expect to continue strong growth at 50% of more per year as the range of applications for UR's collaborative robot continues to expand and the attach rate for those applications increases. We are committed to maintaining our leadership in this rapidly developing cobot market and we'll continue to invest in enabling the growth of Universal Robots.
+Finally, capital allocation plan including a balanced mix of dividends, buybacks, and M&A will continue to be our strategy. The past two years are evidence of this commitment with the initiation of our first dividend, our largest buyback in over 10 years and the promising acquisition of Universal Robots.
+In our January call, we plan to update you on our capital return plan for 2016. Now, here's Greg, to review the financial details. Greg?
+Greg Beecher
+Thanks, Mark, and good morning, everyone. I'll start with the key accomplishments of 2015, as we near the finish line, then I'll outline how we are positioning ourselves for earnings growth in 2016 and thereafter, and wrap with the Q3 details in the fourth quarter outlook.
+This year we're tracking to just over $1.6 billion in revenue with a 20% operating profit rate and we'll generate about $300 million of free cash flow. As Mark, noted, we are pleased with this performance considering the annual pattern of smaller steps and mobility, complexity in odd years continued.
+This sets up the expected complexity jump in mobility next year. Looking at 2015, the year stands out for three key reasons. First, we're on track to have back-to-back years at just over $1.6 billion in sales versus the typically odd year pattern seen in 2011 and 2013, where sales declined about $200 million.
+Secondly, we have expanded into the fast growing cobot space with the addition of the market leader, Universal Robots. And third, we're on track to return $350 million in capital to shareholders.
+I'll quickly comment on each of these three important milestones. First, on the strong back-to-back years, we described last quarter that the UltraFLEX lease tester buyout added just over $100 million of revenue in 2015.
+We've also seen continued strength in image sensor test up about three fold from last year with the high growth in pixel count, multiple cameras per phone, and the increasing use of connected safety and security driving demand.
+Analog has also seen strength led by automotive applications, where semi content is growing for safety and entertainment, and finally we've commented on the start of the shift in the buy rate line with the slowing of parallel test efficiencies and the increase in device complexities.
+These factors have held up semi test in an odd year and when combined with the strength in storage tests and Universal Robots have kept us about $200 million above the recent down-market years of 2011 and 2013.
+But if you look more strategically at 2015, or the two year 2014-2015 period, it actually reflects a very careful and targeted market segment and account focus. This is how for many years we've been able to invest far less OpEx than our largest semi test competitor, well at the same time gaining share and achieving top VLSI Research customer satisfaction ratings.
+In short, we're well in line to the higher growth segments and accounts and mobility, analog, market controllers, and image sensor, with our fast timely market software, tight accuracy specs, and high test system throughput.
+We have equally avoided some closely adjacent semi test segments and offerings which have declining or razor thin profit pools. This includes microprocessor testing, commodity DRAM testing, and a slew of test cell offerings such as probe cards, handlers and simple dibs.
+Now moving to the second important 2015 milestone. The acquisition of the Universal Robots, UR has expanded the definition of a cobot beyond just a safe force limited robot that is one that doesn't need protective caging as it will stop when it feels any pressure in a handful of milliseconds, to also being a robot that is smart and easy to train and redeploy.
+UR's unique foregoing model shatters the past model and enables UR cobots to be deployed by the very small sub-manufacturers. It is the ultimate equalizer for small and medium size enterprises as you don't need skilled engineering resources on staff.
+This simple to train capability is one of the key reasons UR is a clear leader with SME's. These customers are able to get a very fast payback often about six months and they also know they can easily redeploy their UR cobot when the demand invariably changes.
+Universal Robots is on track to achieve about $60 million in sales in calendar 2015, and we expect 50% type growth next year. At this early stage cobots have fairly penetrated the available market and some third parties have pegged the - at over $3 billion by 2020.
+UR's product lead has attracted many of the top distributors and integrators and there is a growing army of third parties developing solutions and many different protocols on Universal's platform, which should further extend their formidable market lead.
+So, once solely be about having the best product, it will also be about having a developed and robust ecosystem which will be increasingly hard for followers to replicate on their platform.
+Now, shifting to the third important milestone. We're on track to return $350 million in capital this year. This sizeable level of cap return signals the strong confidence we have in our future earnings power. We also stepped up the pace of buybacks for the third quarter given the financial market weakness.
+With our steady performance of solid free cash flow averaging about $215 million a year since 2011, we've had two fundamental strategic choices at the stream to immediately return all of our profits to shareholders or to use these profits to grow the topline through M&A.
+Weâve elected neither extreme, rather we use a very balanced approach, where at any one time period we may favor highly selective M&A or higher levels of capital return simply depending on what is the best financial return at the time considering both our stock price and the small number of attractive opportunities in our M&A funnel.
+So, now shifting to 2016 and beyond as Mark described, we see favorable trends. These include rising complexity, the slowing of parallel test, and the need for tighter accuracy and higher quality testing.
+I'll take a quick moment to comment on the tighter performance specs required for some of the new packaging used for mobile products.
+In advanced packaging for mobility markets, high performance devices are being placed much closer than in the past and they have very stringent power requirements which require more accurate tester instruments as found in the UltraFLEX.
+You may recall the UltraFLEX hit the market with the most efficient parallel test and then it became recognized for superior programming and debug tools critical for the vertical mobility ramps and now it's earning it's stripes yet again with it's performance for testing advanced packages.
+We are pipelining some inventory in the fourth quarter for 2016 demand to ensure we maintain attractive lead times, we did the same back in 2013, which positioned us well for the 2014 ramp.
+Shifting to the third quarter results, we closed the quarter with total cash and marketable securities of $1.077 billion, up $48 million from the prior quarter after returning $111 million through buybacks and dividends.
+Third quarter free cash flow of $159 million was due to strong profits and the sale of previously leased systems. On the buyback front, we've repurchased $13.4 million shares totaling $254 million at an average price of $19.02 through yesterday.
+We step that buying up in the third quarter to take advantage of market volatility, against our $500 million authorization we have the remaining balance of $246 million. As a quick reminder, we plan on buying back $300 million in 2015, which when combined with our quarterly dividend totaling about $50 million for the year, will lower our U.S. cash and marketable securities to a level much closer to our minimum U.S. cash operating balance of $400 million. As we've done in the past, we'll update you in January on our 2016 capital return plan.
+Now moving to the details of the third quarter, semi test bookings were $211 million, driven principally by the seasonal patterns and revenue was $326 million. We called our third quarter Company bookings typically fall 30% to over 60% from the second quarter levels.
+This drop off is due to the timing of annual mobility launches and the overall high consumer consumption connected with back-to-school and end of the year holiday buying.
+SOC test orders were $191 million and memory test orders were $20 million. Semi test service orders were $34 million of the total. Shifting to wireless test, we booked $40 million and recorded $55 million sales for the third quarter. LitePoint is on track to be about flat as last year with solid margins above our 15% industry target and has funded a series of new products that should benefit us in the years ahead.
+The wildcard for LitePoint in the foreseeable future remains our large customers buying patterns which have declined considerably from 2012 and 2013. It's too early to get a picture of 2016, but we expect further share gains with our production optimized solutions.
+Now, moving to system test, orders were $47 million in the quarter and shipments were $69 million. A substantial portion of those orders are annual service contracts and products with long lead times which will convert to revenue over the next year.
+In storage test, the 3.5 inch cloud demand should bring our annual sales to about $85 million versus only about $40 billion last year. As drive capacity continues to grow so does test time, and we're well positioned to capitalize on this demand with our new Saturn tester, which has up to 13,000 asynchronous slots.
+In industrial automation, we have bookings and sales of $16 million with strong demand across the topline. At the Company level, our sales were $466 million, non-GAAP gross margin was 56%, down from last quarter due to mix shift including increased storage test shipments.
+The non-GAAP operating profit rate was 23% and non-GAAP EPS was $0.40. We had one 10% customer in the quarter, you'll see our non-GAAP operating expenses over $100 million were down about $1 million compared to the second quarter due to lower variable compensation expense.
+Shifting to our outlook for the fourth quarter, sales are expected to be between $295 million and $320 million and the non-GAAP EPS range is $0.07 to $0.12 on 208 million diluted shares.
+Q4 guidance excludes the amortization of acquired intangibles and the related tax impact. The operating profit rate at the midpoint of our fourth quarter guidance is about 8%. Our 2015 tax rate remains at 23% if the R&D test credit is reinstated for 2015, that rate will drop to 21%.
+So, in summary, 2015 will go down as our first back-to-back year for sales just over $1.6 billion versus the typical $200 million fall off, we've added Universal Robots, the clear cobot market leader to the Teradyne fold, and we're returning significant capital, a strong signal of our confidence in our future earnings power ahead.
+And 2016 is an even year where mobility complexity is our friend once again as it along with device unit growth drives more incremental testers demand.
+With that, I'll turn the call back to Andy.
+Andy Blanchard
+Thanks, Greg. Kelly, we'd now like to take some questions, and as a reminder please limit yourself to one question and a follow up.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question will comes from the line of Atif Malik with Citigroup.
+Atif Malik
+Hi, thanks for taking my question. Congratulations on the good quarter and decent guide. Question on integrated fan out packaging and you have a packaging for mobile devices next year. Can you talk about the impact on the test equipment demand next year and maybe you can compare the test times versus the package, unpackaged type testing?
+Mark Jagiela
+Sure, I think there's general trends and there is specific applications. But overall these packages require, as I mentioned in my remarks, much longer test times at probe in order to guarantee high yields coming out of a probe situation before they're mounted on that substrate.
+So what we expect to see is the probe test times will increase. Then for the integrated package itself, that will vary depending on what's integrated in to the package. But in general, if you look across probe and final insertion, the number of test seconds applied to the total part when it ships to let's say a phone manufacturer will be proportionately up as compared to the prior generation.
+So it may be up 10% or so. That's how we've modeled it at the moment. As it plays out next year we'll get a better read on it.
+Atif Malik
+Okay. And then the second question on system test sales, I mean system test sales were up 50% in the reported quarter. How should we think about the long-term revenue run rate and if you can also comment on WDC SanDisk merger. SanDisk is a big customer of yours on SSB side and WDC on ACB side. What impact the merger could have on your sales.
+Mark Jagiela
+Overall system test was strong this year because of storage test. And as we look forward, storage test is positioned reasonably well now with enterprise drive and SSE application. Wildcard for us is what I described as the system level test applications which are less storage related and more long cycle time burn-in applications.
+So on a baseline, I'd say we look at next year in that segment roughly flat with this year with the upside that's the system level test could provide a kicker. The combination, it's really too early to tell if the combination between Western Digital and SanDisk will matter in any significant way to us but that's how we're looking at the overall business.
+Atif Malik
+Thanks.
+Operator
+Your next question will come from the line of Mehdi Hosseini with SIG.
+Mehdi Hosseini 
+Thank you for taking my question. I'm looking at the market and if I just were to go and look at the market share, it seems like the turning the lease into a purchase has actually been instrumental in helping you to maintain the market share especially when I look at the market share trend over the past four years.
+As the lease program ends or turning the lease as approaches end, how should we think about your ability to maintain and exceed market share? Market share I'm referring to memory and SoC combined and I have a follow-up.
+Greg Beecher
+This is Greg. If you look at market share over a multiyear period, you can see that we've been steadily gaining quite considerably and your point that the $100 million or so this year really probably belonged last year, so last year's SoC market share is actually higher last year, a little bit lower this year.
+But if you put this all on a trend line, you see the trend line is very clear that we consistently are gaining market share and it's from a couple reasons. One is we're aligned to faster growing segments, the healthier segments that have growth and we've optimized our product solution set around the requirements of those growing segments have and that's what's gotten us this steady market share trajectory growth.
+Mehdi Hosseini 
+Can you increase the share from here assuming that there won't be any impact from the lease program? Or should we assume the share remains unchanged?
+Greg Beecher
+I think for a long time now, almost seven or eight years, we've had a model about a point or so of market share gain per year in SoC. It never happens linearly and the market noise amplifies and shrinks that in any given year but we see the ability to move about a point of real market share a year up to at least in to that 60% range.
+Mehdi Hosseini 
+Got it. And then moving on to the next topic in flow, there's a lot of noise and commentary out there but so far, and I think in flow or advanced pack aging has been discussed for the past 15 years and I still see a limited application. Do we have any signs out there that the key fruit company has decided to adopt this technology? Because if they don't adopt it, I see its application limited and especially with tests because you're going to be involved at a ratio level.
+In that context, the question is are you seeing any signs that the system company is actually going to step up and adopt this? And if not, how do you see the existing infrastructure that's been added over the past year is going to be utilized over the next one or two years until the system company adopts this technology?
+Mark Jagiela
+Two things. I can't comment at all on what any particular customer's plans might be. But in general I'll say two things. First, Teradyne as it relates to tests is reasonably indifferent in terms of impact to our business whether the technology is adopted or not. It shifts more test seconds to probe as I described earlier but net-net it's not a big swing factor for us.
+We think our product, the UltraFLEX has some advantages in advanced packaging tests but not a big swing. And second, do I think even though it's been around for 10 years, are we at an inflection point or adoption point in general in the industry? I think the answer to that is probably yes. The economics are improving quite dramatically it seems and the miniaturization of benefits are also compelling.
+So I would expect if we look over two to three years that you'll see a much faster adoption of advanced packaging than we've seen in the past three or four.
+Mehdi Hosseini 
+Got it. Thank you.
+Operator
+Your next question will come from the line of Farhan Ahmad with Credit Suisse.
+Farhan Ahmad
+Thanks for taking my question. Just a quick question on the audio liner cyclicality for the last 10 years there's been a trend where your revenues grow every even and odd they decline. One thing that's also been going on for last 10 and even much longer has been that we've been on a two-year cadence which seems to be taking a break this year, and we are basically on to any nanometer/16 nanometer north.
+Instead of two years to three years and 10-nanometer is most likely not going to be introduced next year in to most products. So I wanted to ask you if you think that could have an impact in any way for next year and if the [indiscernible] in any way had anything to do with the cyclicality of odd or even year that you saw in your business.
+Mark Jagiela
+I think it's a reasonable point that usually when a new process note is introduced, there is a little bit extra bind of capacity for fuel issues surrounding that new node. So next year the absence of any dramatic step in lithography might dampen somewhat the peaking, but what happens when it peaks in the past is the following year it gets amplified in terms of the absorption of that expert capacity as yields improve.
+So if it does dampen slightly the peak next year, it will serve to raise the following year's buying. So long-term trend, the node issue doesn't inflate the long-term market. It just amplifies the peaks and valleys.
+Farhan Ahmad
+Got it. Thank you. And then one question on your storage business. Could you just give some clarity in to how much of your business is coming from hard drive versus SSDs and also in terms of the SSD test market, house your market share in that particular market and how big is the overall market because weâve seen pretty healthy growth in SSD and I wanted to understand if that could be a big driver for you going forward as you introduce new products and can increase market share in that area.
+Greg Beecher
+I'll take that one. Last year a good part or most part of demand was SSD. This year it's more magnetic or hard drive demand with some SSD demand. First on the hard drive side, as you probably know, we're the only freestanding merchant supplier so we have a very strong position with the three buyers that are out there. The only other competitor is captive now in Cgate.
+In terms of SSD we have multiple applications at a strategic account and we're speaking to other customers to see if there are test times and their volumes make sense to use our solution. It's early in that process. We do believe that market is going to grow for us. But it needs some time to play out and as again units and volumes grow and test times get longer, I think that moves them toward our solution.
+Farhan Ahmad
+Thank you. Thatâs all I had.
+Operator
+Your next question will come from the line of Jagadish Iyer with Redstone.
+Jagadish Iyer 
+Hi, thanks for taking my question. Two questions Greg, Mark. First on your - looking at how should we think about LitePoint going forward in 2016 and the backdrop of your comments saying that slowing smartphone growth next year. And what are some things you can do to back the trend for LitePoint? Then I have a follow-up.
+Mark Jagiela
+Okay. I'll take the first part of that. LitePoint I'll start with is very healthy on a bottom line profit rate-wise and has been able to gain market share year after year as a very production optimized solution. The competitors tend to come at it from a different DNA whether it's an R&D, DNA or other type solution and it's not optimized for the problem at hand so I expect LitePoint will continue to do quite well at production testing albeit that market we can press.
+So what has LitePoint done to improve their lot in life? A year ago they got designed in to a bunch of the Asian up and coming cellular players. Unfortunately a number of them have not done terribly well this year so we have initial design wins but there hasn't been much activity for anybody over there.
+So we'll continue to monitor that situation and hopefully improve our position when buying does eventually return. But we've also have introduced some new products. Some we'll talk to you more about in the future but these new products will take some time to latch. And they will open up new markets and we expect the LitePoint high differentiation production optimized DNA will show up in these new products that you'll hear more about as we get into next year.
+Greg Beecher
+And so I do think cover that a little bit more, the $200 million of new TAM we're talking about is really how we expect LitePoint to return to growth over the next couple of years. The traditional cellular and connectivity space, we expect the market size there will maintain its level. It's not expected to grow and it's expected to remain very competitive. But the emergence of this AD standard at 60 gigahertz is really different than the typical progression in Wi-Fi and connectivity of old where you went from G to N to AC. This is a very different application and a different test insertion in mobile devices and other devices that will emerge. So that's one.
+And protocol testing is another area where LitePoint has now participated in and we're now moving products in to that set of applications. So it's really TAM expansion with new products is the strategy at LitePoint.
+Jagadish Iyer 
+Okay. Fair enough. Then a big picture question, your shares have been somewhat range gone for a while, and given your cash position and what choices you might have in terms of potentially raising additional capital, what is management's strategy in terms of crossing over the hurdle of your stock price, would love to hear your thoughts including your Visa on accelerated buyback.
+Greg Beecher
+This year we're returning significant capital $350 million, about that amount. And we're lowering our available U.S. cash to about $400 million, a little bit above that, and that's what we want to maintain as a buffer for some possible severe downturn which we don't see but every 10 years you kind of have an event.
+In terms of how we get the shares out of this range bound, we have plans to grow each of our businesses quite considerably that could get us in the midterm to a $2 EPS stock price. So the organic plan is job 1, and that includes Universal Robots is going to be a big contributor. Semi test is going to continue what they've been doing and staying on that trend line of share gain with some of the improvements in the market based upon parallel tests slowing down and intensity increasing. I think we'll give some help in the market size.
+And then we'll also return, every time weâll return a bit more capital and that could take some shares out. So we have a plan that we're looking to formulize in the fourth quarter that will tighten up how we think we can get to $2 four years out and that very well could include another acquisition. It doesn't have to but that certainly could be a part of the plan as well.
+Jagadish Iyer
+Excellent. Thanks so much.
+Operator
+Your next question will come from the line of Steven Chin with UBS.
+Steven Chin
+Hi. Thanks for taking the question. So you mentioned in the press release that you would be making some selective inventory investments in Q4. Just wanted to get some color on what that relates to, what the magnitude of the inventory build might be, and then what gives you confidence that 2016 we'll see this big pickup in demand.
+Greg Beecher
+The rough numbers are at the end of the fourth quarter if you look at our balance sheet carefully you'd probably see $50 million more of inventory. Some of it will be in inventory. Some will be in a prepaid account depending how the accounting works with our contract manufacturer.
+So about $50 million of more inventory in the fourth quarter. And we have high confidence with this demand based upon extensive very close discussions all along the way. We've been in a similar situation a couple years ago too, in the last odd year going in to an even year. So we've been down this path before and we feel good about it and this is also inventory that can be used across a broad set of customers as well.
+This whole even odd year has played out for many years because there's a bigger step in some of these new phones that come out in the even year, and thatâs much more test time, greater complexity so we see that continuing and that drives ultimately the demand.
+Steven Chin
+Got it. And then we heard commentary that Q4 might be seasonally week for some of the OSAT customers. Just curious to hear whether youâre seeing that weakness and thatâs into Q4 guidance, so you're expecting a pickup after Q4 into early 2016.
+Greg Beecher
+We think we factored everything in that's knowable in to the fourth quarter guidance. Some of the segments that remain strong are image sensor and mobility. So they're holding up. And we think next year should start off healthy. So we're feeling good about the first quarter even though it's some time away.
+Mark Jagiela
+I think if you look at - there's a broad spectrum of utilization depending on the segment. Some segments are incredibly tight and capacity is being added and pulled on quite rapidly here in the fourth quarter and others are black as happens throughout the seasons. So all in all to us it doesn't seem to be that different from prior Q4s that we've seen.
+Steven Chin
+Thank you.
+Operator
+Your next question will come from the line of C.J. Muse with Evercore.
+C.J. Muse
+Good morning. Thank you for taking my question. First quick question is, the $2.1 for SoC does that include the $100 million in leases?
+Mark Jagiela
+Yes, it does.
+C.J. Muse
+Okay, great. Given your confidence for next year, I think one of the concerns that the market has is the A10 shift is not shrinking and therefore there will be less demand. At the same time you've talked about lower benefit of parallelism. You talked about a 10% uptick in terms of packaging and test times there. Would love if you could maybe dig a little bit deeper holistically for the whole year, what's driving the confidence and what's mitigating the lack of the shrink in the mobility side and then also are you expecting within that image censor based in RF metric et cetera growing as well over the certain pockets that's given the confidence that overall mobility and overall SoC can grow year-on-year.
+Mark Jagiela
+Well again without being specific around any particular part or customer, I think that what we see at this point in the year are early samples from our customers where test program development occurring for parts that should ramp next year and we get a little bit of visibility into the test times and the sort of intensity of those parts that becomes much clear as we get into January.
+But as we look at it when we look at those early finds we see that the trends that weâve talked about are continuing and therefore we would expect to get an even year type impact from a broad set of devices not just any one particular part but even on the cellular side with RF transceivers and such you see the proliferation of more frequency bans in phones. You see the adoption of more antennas and mi-mo. All of those things contribute to incremental test intensity.
+C.J. Muse
+Thatâs very helpful. In fact if I could just follow up I guess on the non-mobility parts of SoC, I believe this year linear was a great year for catalog business auto down two years standing here today what kind of visibility you have there into next year.
+Mark Jagiela
+Yes thatâs a harder one to read. Linear started out very strong, itâs cooled off a bit here. It's very episodic, is the history there and doesnât follow a good pattern.
+So that piece of the markets I think standing here today is harder to prognosticate for next year.
+On automotive, I think what automotive is going to show - itâs historically shown is a very steady slow growth and the safety related enhancements to cars that will roll out over to next three to five years whether itâs autonomist driving or driver assistant.
+Well really I think impact the test side of life a couple of years down the road. When we were in 2017 and 2018 I think we will really see the automotive market take off for tests. Right now the devices are somewhat in early development. So, I would expect automotive next year to be about the same in a kicker coming in 2017 and 2018.
+C.J. Muse
+Great, very helpful. Thank you.
+Operator
+Your next question will come from the line of Timothy Arcuri with Cowen and Company.
+Timothy Arcuri
+Thanks. I had two questions. I guess the first question is on the fourth quarter. Usually, when you revenue in Q4 is somewhere between what you book in Q3 and what you book in Q4 and so for you to revenue midpoint of 308 roughly, it would imply that bookings have to be down and that seems a little odd given that systems should be up, typically up seasonally in the fourth quarter.
+So that would say that semi tests orders are to be down and yes things are bad for sure. We know that, but semi test orders in the fourth quarter are almost never down. So I am just sort of wondering if you can bridge the gap between your revenue guidance and may be what you expect from a bookings perspective.
+Mark Jagiela
+Tim, the fourth quarter guidance is at this moment our best view of what will happen and as you know we tend to set the guidance somewhat cautiously given our history of least meeting or beating, but thatâs what we see now and there are some customers that are likely get testers in early Q1 not late Q4 given lead times that we have now.
+Some of the orders seems to be coming in late this quarter, but we expect to be a good quarter so itâs just how to slop plan all shakes out and maybe there is a tad of conservatism added to it.
+Timothy Arcuri
+Okay, so I guess Greg just on that point, so that would argue, I mean it would sort to seem to say that Q1 may be thatâs up a little better than a typical Q1 I mean, Q1 typically out but it would seem like it might be up a little more this year than typically is.
+Greg Beecher
+Could be, Tim.
+Timothy Arcuri
+Okay, thanks. And then just last sort of big picture question have you guys gone through and over the $1.1 billion which are getting from SoC have you tried to part this by end market and sort of focusing on how much thatâs coming from the industrial and the automotive markets.
+Greg Beecher
+We have although we donât spend a lot of time trying to do that because some of it is hard to bucket if itâs a wire, if itâs a land device is going into a PC application or some other application but in general as we look at our business roughly half of our business and slightly more than half is related to mobility, in some way, shape, or form in semi test and the SoC side.
+So figure somewhere 55%, 60% of our revenue comes from mobility related devices but that includes image sensors are in there, power managements in there, base band, apps processors there some linear in there, touch screen controllers, micro controllers there is a lot of things in there that roll up to that number.
+Automotive in linear are roughly about the same that may be somewhere between 15% to 20% each and we tend to be pretty low than in PCs but those are the kind of the four buckets we try to drop things in and watch.
+Timothy Arcuri
+Thanks so much.
+Operator
+Next question will come from the line of Tom Diffely with Davidson.
+Tom Diffely
+Yes, good morning. First, I wanted to dive into the commentary you make about the decreasing efficiencies that parallel test going forward. How do those trends vary between your memory and logic side of the business?
+A â Mark Jagiela
+I think that logic is more where we see the inflection points where deficiency is starting to diminish. The memory side is really a harder area characterize in any general way because for example as NAND flash devices go from toggle NAN to the serial interfaces, the connection to the device during test will become perhaps lower pin count or pumping more data through a narrower pipe.
+So the test to resource is diminish per device. So, letâs say CapEx per device may go down a bit. The capability per device goes up, but so I think the way you net it all out is in memory what â memory has been able to do is grow - bit grow quite dramatically and have a market that 's flat to $500 million through a variety of test optimization techniques and I expect that will continue.
+I do not expect the memory market will show some form of growth, whereas on the logic side we do see these inflection points happening.
+Tom Diffely
+Okay. Do you see a wall for some of these tricks a few years down the road or is it situation where - or you can see looks like efficiencies are going to continue to work in?
+A â Mark Jagiela
+Well that's really hard. Weâre not planning on a wall. There is always for quite some time people have thought there might be a wall but I think the memory devices - the one thing that somewhat encouraging in memory that I will put out there as a carry, but Iâm not then going to change my flat market is that the diversity of the types of DRAMs and the diversity of the types of non-volatile memories is growing.
+And as that - one of the things that has helped get efficiency and test is that, design for test optimization was possible because the proliferation of device types was relatively few and the design money in silicon area could be amortized over a lot of devices.
+As memories get a little more niche in custom perhaps that will be less affordable and it maybe more economical to do test versus do design.
+Tom Diffely
+Okay. That's helpful. And then looking at your bookings obviously the Asian bookings were down normal seasonality there but what drove the increase in Japan?
+Greg Beecher
+As I mentioned â as we talked about them, Japan has been very good market for us. One of the segments there thatâs strong is image sensors. So image sensor is a large part of that story.
+Tom Diffely
+Okay. Thank you. 
+Operator
+Your next question will come from the line of David Duley with Steelhead.
+David Duley
+Yes, thanks for taking my question. Just a couple of clarification. When you talk about the SoC market and the impact of this odd even from the big apps processor customer. What generally is the delta in that segment of the market on an annual basis between the even and the odd years? Is it a $200 million increase or more or less, could you give us some sort of idea what the swing factor here is?
+Greg Beecher
+You could actually look at our financials and you can see we go from 14 to 16, we go back and forth. So it can be roughly in that neighborhood. Now this year, we didnât fall back for the reasons we outlined before but if this was the historic pattern we would have fallen back, close to $200 million.
+You can also see those are even years the margin percent goes down, but the dollars go up. So that's the pattern we were largely referring to.
+David Duley
+So, if we would naturally apply that pattern to this upcoming year we might naturally looked at the SoC test business for you would be up at least $200 million.
+Greg Beecher
+It certainly could be up. You got to keep in mind, there was a 100 million of lease testers that hit this year that really were put in place last year, and that was more of a financing settlement this year but the capacity was put in place last year. So you might want to just think about that as well.
+David Duley
+Okay. And then I think when you bought the Universal Robot business, you talked about 50% annual growth and that was without any - that was what was already in place with the backlog and the customers, the company already had. 
+I think it was your plan to add some larger electronics customers. Could you talk about what youâre seeing thus far on that initiative, and what kind of growth rate that distribution could add to that initial growth rate.
+Greg Beecher
+First of all that initial growth rate wasnât predicated on any backlog. Itâs a high turns business and sustaining 50% over multiple years is really presumes penetration in a wide variety of market.
+Now in electronics test area, one of the things we described there is that, the sales cycle for our customers, for these large deployments tends to be longer than the typical Universal Robots sales cycle to a small to medium size enterprise.
+A sale cycle there could be on the order of a handful of weeks or as with these large OEMs, it could be six to nine months because they're just looking at different scales and evaluated at different levels.
+So, we are in the middle of several evaluations that our customers those started in the third quarter and we would expect to see results coming there sometime early next year. 
+And at the same time, Universal Robots as I mentioned the example of Wistron, Wistron is a large ODM. They manufacture a variety of things, laptops, computers. They have electronics assembly. Theyâve put 60 robots into a variety of tests around that piece.
+So Universal Robot on their own has been penetrating electronic assembly and what we would expect to see is around test some incremental business in early next year. 
+David Duley
+So say it another way is, the growth rate could accelerate sometime mid next year based on you bringing more customers to the table.
+Greg Beecher
+It very well may but remember they will be running - next year we would expect them to be running at a 50% rate close to 90 million and so what we would add on to that is speculative next year but itâs probably in the first year in order of a handful of 5 to 10 million kind of number.
+David Duley
+Okay. Thank you. 
+Mark Jagiela
+And operator we have time for just one more question please.
+Operator
+You have a question from the line of Krish Sankar with BoA.
+Krish Sankar
+Hi, thank for squeezing me in. Just a couple of quick questions. Not to be a dead horse on this mobile SoC increase next year and I do remember couple of years ago when the demand went up and you guys have fully sold out loss on share to advance this, I understand thatâs why weâre building up inventory. Are you getting any indications from your customers to do it or youâre just being prudent in anticipation of a sharp ramp for next year?
+Mark Jagiela 
+We donât want to talk about specific customer but other signals we can read will suggest we should be well positioned, so we feel very good about this mobility complexity jump, we think it will happen every way we look at it, it looks very good to us but I canât get any more specific than that.
+Krish Sankar
+Got it. And then just as a follow-up with Universal Robots, letâs say you guys have raised profiles for cobots in general, Iâm wondering have you seen any increase in competition associated with Japanese robotic makers in the last few months or do you think itâs still early that there is enough room for everybody to have the launch and not try to grab the other ones.
+Mark Jagiela
+Yes I would say weâve seen no impact or slowdown or anything related to what is and will continue to be a lot of players trying to participate in the market but the market is growing rapidly. We are still leading supplier, we intend to stay there nothing from the competitors at this point has resulted in any impact we see.
+Krish Sankar
+Got it Thanks Mark, thanks Greg.
+Andy Blanchard 
+Thank you everyone for joining us this morning and those in the queue I will get back to you immediately after this call. This concludes the call and we look forward to talking to you in the days and weeks ahead.
+Mark Jagiela
+Thank you.
+Operator
+This does conclude today's conference call. You may now disconnect.

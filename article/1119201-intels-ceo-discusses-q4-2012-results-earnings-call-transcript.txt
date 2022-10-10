@@ -1,0 +1,258 @@
+Intel Corporation (NASDAQ:INTC) Q42012 Earnings Call January 17, 2012 5:00 PM ET
+Executives
+Mark Henninger - Investor Relations
+Paul Otellini - President, Chief Executive Officer, Director
+Stacy Smith - Chief Financial Officer, Executive Vice President
+Analysts
+Ross Seymore - Deutsche Bank
+C.J. Muse - Barclays
+David Wong - Wells Fargo
+Vivek Arya - Bank of America Merrill Lynch
+Joe Moore - Morgan Stanley
+Stacy Rasgon - Sanford Bernstein
+Sumit Dhanda - ISI Group
+Glen Yeung - Citi
+Craig Berger - FBR Capital Markets
+Mark Lipacis - Jefferies
+Romit Shah - Nomura
+John Pitzer - Credit Suisse
+Shawn Webster - Macquarie
+Operator
+Good day ladies and gentlemen and thank you for standing by and welcome to the Intel Corporation's fourth quarter 2012 earnings conference call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. (Operator Instructions) As a reminder, this conference may be recorded.
+It is now my pleasure to turn the floor over to Mark Henninger with investor relations. Please go-ahead.
+Mark Henninger
+Thank you, Huey, and welcome everyone to Intel's fourth quarter 2012 earnings conference call. By now you should have received a copy of our earnings release and the CFO commentary that goes along with that. If you've not received both documents, they are currently available on our Investor website, intc.com.
+I'm joined today by Paul Otellini, our President and CEO; and Stacy Smith, our Chief Financial Officer. In a moment, we'll hear brief remarks from both of them followed by Q&A.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it, and as such, does include risks and uncertainties. Please refer to our press release for more information on the specific risk factors that could cause actual results to differ materially.
+If during this call we use any non-GAAP financial measures or references, we'll post the appropriate GAAP financial reconciliations to our website, intc.com. Lastly, I'd like to highlight that this year and going forward, we'll be holding our Annual Investor Meeting in the fall, rather than in May. We will send out a further date notice this spring with all the important event logistics and we will look forward to seeing you there.
+With that, let me turn the call over to Paul.
+Paul Otellini
+Thanks, Mark, and good afternoon. In 2012, Intel generated almost $1 billion of net income every month. This was in an environment of relatively soft PC demand and weak macroeconomic conditions.
+From a product perspective, 2012 was a year of significant transitions in our markets and a year of important milestones for Intel. I'd like to take a moment to recap a few of the most significant developments.
+The Data Center Group saw a comprehensive refresh across its product line last year. Romley locked the Sandy Bridge architecture to servers for the first time. While the launches of Knights Corner and Centerton in the fourth quarter expanded the range of DCG Solutions from teraflops to a few watts.
+Knights Corner or Xeon Phi brings 60 cores in the familiar Intel architecture programming model to supercomputing applications. At six watts, Centerton is the industry's only low power microserver SoC that delivers critical enterprise features like 64-bit, ECC and virtualization.
+Over the last 12 months, we also worked with our industry partners to bring Ultrabooks to the mainstream, ramping from roughly 20 designs to more than 140. At CES last week, I was struck by our industry's renewed inventiveness. PC manufacturers are embracing innovation as we are in the midst of radical transformation of the computing experience with the blurring of form factors and the adoption of new user interfaces.
+It's no longer necessary to choose between a PC and a tablet. Convertibles and detachable, combined with Windows 8 and Touch, provide a two for one, no compromise computing experience. Ultrabooks have also served to accelerate the trend towards thinner and lighter notebooks. For example, the volume of systems less than one-inch think grew 18-fold last year in the U.S., and we expect to see the same trend continue around the world.
+Last quarter, our customers also began shipping tablets based upon our Clover Trail SoC and Windows 8. These systems boost up to 10 hours of battery life, three weeks of connected standby and come in a range of sleek ultra light form factors, all while bringing the benefits of software compatibility with the millions of Windows applications written for Intel architecture. There are now 10 Clover Trail tablets shipping today with several more launching in the coming months.
+2012 was a milestone year for Intel architecture and smartphones with our customers now shipping seven devices across 20 countries. These phones use our 32-nanometer Medfield SoC and our extremely comparative with the best ARM designs on performance and equal or better power and battery life.
+We saw the introduction of our 22-nanometer manufacturing process and along with it a revolutionary new tri-gate or 3D transistor technology. 22-nanometer products represented more than half of our volume in the fourth quarter as the rest of the industry works to ship its very first tri-gate designs.
+In July, we announced an important strategic relationship with ASML, which combined with our process technology expertise, will accelerate deployment of EUV and 450-millimeter technologies helping to ensure the future of Moore's Law and our growing manufacturing leadership.
+Looking ahead to 2013, I am excited about the strong pipeline of our products, we have coming to market. In the first half of this year, we will launch Haswell, enabling one of the most significant changes to the PC since Centrino in 2003. Haswell was designed from the ground up to enable breakthrough innovation in form factor, battery life and usability. It will deliver the single largest generation-to-generation battery life improvement in Intel's history and it is inspiring a new wave of ultra-sleek, convertible, touch-based designs across our customer base.
+Later this year, we will ship 22 nanometer versions of our Zion and Atom products for the data center, bringing the power, performance and efficiency benefits of 3D transistor technology to our entire data center product line. In 2013, we will also begin to deliver the industry's first 22 nanometer tablet and smartphone SoCs to OEMs. We are now shipping our single mode data LTE baseband to customers and over the course of the year will begin delivering multimode data and voice modems to customers, giving us a full complement of competitive technologies to grow our device business.
+Last, but not least, we will begin our transition to 14 nanometers as we begin the world's first 14 nanometer products towards the end of this year. We see the industry in a period of transition and hyper innovation. We are well-positioned to take advantage of these trends across the spectrum of computing from the lowest-power portable devices to the most powerful data center servers and everywhere in between.
+With that, let me turn the meeting over to Stacy.
+Stacy Smith
+Thanks, Paul. The fourth quarter came in consistent with our expectations for 2012. Although our financial results were below our expectations entering the year, we launched leadership products in every major business segment and we extended our manufacturing leadership. In 2012, revenue was $53.3 billion, gross margin was 62%, operating income was $14.6 billion, net income was $11 billion and earnings per share was two dollars and $0.13.
+For the year, the business continued to generate significant cash with almost $19 billion of cash from operations. We increased the dividend per share by 7%, resulting in over $4 billion in dividends paid and repurchased roughly $5 billion of stock. We continue to invest in our manufacturing leadership. We purchased $11 billion in capital assets, primarily building and equipping leading edge factories and made a $3 billion strategic equity investment in ASML.
+Lastly, we took advantage of record low interest rates and borrowed $6 billion. Total cash investments ended the year at roughly $18 billion, up approximately $3 billion from a year ago. Revenue of $53.3 billion was down 1% from a year ago and below the expectations we had at the start of the year. Worldwide GDP growth was significantly less than we had thought entering the year and the PC market segment with impacted by the growth of tablets.
+Our PC client group was down 3% from a year ago. The data center group grew 6% year-over-year, as a richer mix of products and significant growth in the internet cloud segment of our business was partially offset by weakness in the enterprise server market. Gross margin of 62% in 2012 was flat to 2011 at the high-end of our historical range for the third year in a row.
+Our investments in industry leading manufacturing process technology continued to pay off through leadership products and a highly responsive factory network. We invested over $10 billion in research and development in 2012, up almost $2 million from a year ago. The increase was driven by investments in Ultrabooks, the data center, phones and tablets. In addition, we made investments in core capabilities, like security, SoCs and extending our process technology leadership. Spending, as a percent of revenue, was 34%.
+Fourth quarter revenue finished at $13.5 billion, in line with expectations. We believe the worldwide PC supply chain saw a continued reduction in inventory levels in the fourth quarter as customers reduced inventory of older generation PCs. Gross margin at 58% was up one point from expectations and down five points from the third quarter. The drop from the third quarter was driven primarily by excess capacity charges as a result of the aggressive tactical actions we took to reduce inventory levels and to redirect space and equipment to 14 nanometer.
+Our inventories decreased almost $600 million from the third quarter as a result of these actions. Separately, we start production on our next-generation microarchitecture product code-named Haswell, which we expect to qualify for sale this quarter. This production prior to qualification for sale resulted in an increase in inventory write-offs. Operating income for the fourth quarter was $3.2 billion with earnings per share of $0.48.
+As we look forward to the first quarter of 2013, we are forecasting the midpoint of the revenue range at $12.7 billion, down 6% from the fourth quarter. This forecast is in line with the average seasonal decline for the first quarter.
+We are forecasting the midpoint of the gross margin range for the first quarter to be flat at 58% as the impact of higher factory start-up cost and lower volumes are offset by lower excess capacity charges and the qualification for sale of Haswell.
+Turning to 2013, we are planning for revenue growth in the low-single digits and forecasting the midpoint of our gross margin range at 60%. Capital spending for our core business is expected to be roughly flat to 2012. Additionally, we will spend roughly $2 billion to start building our first 450-millimeter development facility.
+We are forecasting spending for the $18.9 billion, a $700 million increase from 2012. This is the full year impact of the increase to investments and R&D that occurred in 2012 and annual salary increases for 2013. As a result of the significant progress we made in 2012 across all of our product lines, I enter 2013 optimistic about our long-term prospects.
+A year ago, we were just introducing the concepts of Ultrabooks to the world. Today, the market has been redefined with thin, light, powerful Ultrabooks and convertibles. A year ago, Intel was not shipping products into the tablet market. Today, we have Clover Trail tablets shipping in the market, delivering performance and power benefits versus what our competitors can do. And in 2013, we will ramp our next generation tablet SoC, codename Bay Trail, in both, the Windows and Android markets.
+Intel is now inside seven shipping smartphone designs. And here again, the third-party benchmark show that we are not only capable of matching the competition in power efficiency, we are leading them.
+In 2012, we built on the strength of our data center offering and we expect to return to double-digit revenue growth in 2013. And lastly, we built on our manufacturing lead and are well into the ramp of our 22-nanometer factories and will start production on the 14-nanometer process this year. This puts us significantly ahead of the competition. The combination of new products and design wins across all segments and our manufacturing leadership will benefit our business in the quarters to come.
+With that, let me turn it back over to Mark.
+Mark Henninger
+All right, thank you, Paul and Stacy. We'll now move on to Q&A, and as is our normal practice, we ask each participant to ask one question and just one follow-up if you have one. Should we please go ahead and introduce our first questioner?
+Question-and-Answer Session
+Operator
+Yes, sir. Our first question comes from the line of Ross Seymore with Deutsche Bank. Please go ahead.
+Ross Seymore - Deutsche Bank
+If I look back between the last two years and then heading into what you just guided to for 2013, it seems like your CapEx and your OpEx are outgrowing revenues. I guess, if I partner that together with where the stock is trading valuation wise, it really looks like investors are dubious as to when any returns are going to come from those investments.
+So, I guess the question after that is, when do you see the investments come or the return on these investments coming. How long do you think this investment stays last and what are some of the mile markers we should look for to see those returns being generated?
+Paul Otellini
+Ross, there's two parts to the CapEx this year. I mean, two large parts to the CapEx this year, Ross. One is, you are starting to see in our first significant investments in bricks and mortar and some equipment for the 450-millimeter transition which happens later part of this decade. We have to make to those investments earlier. Now that we've solidified our relationship and contractual relationship with ASML, it gives us line of sight to that conversion and therefore we're now in a better position to predict the exact timing and deploy capital for that, so I would treat that as a more of an extraordinary event that's not related to the day-to-day business in terms of volume in 2014, 2015, 2016.
+The CapEx that we are projecting on a base level, $13 billion minus the $2 billion is $11 billion, which is about what we spent last year. And, as I look forward into the business in 2014 and 2015 as we finish up the 14-nanometer factories and begin deployment of the construction of and equipping of the 10-factories, we need those factories principally for our view of the computing market, and in that that would include tablets and certainly the data center. So as we look at it, it gets used.
+Remember the leading edge capacity is the lowest cost for us on a per unit basis, the highest performance and the lowest power. So regardless of what you think the size of the market is, the world's leading edge fabs are the single greatest asset that we have.
+Ross Seymore - Deutsche Bank
+I guess, this is my one follow-up, just playing off of that. Is the capacity that you are going to have and I realize the 450 stuff isnât coming till later but is most of the incremental capacity for your core PC related business? Or when you say computing, is it more DCG and I guess, the word computing could even include tablets and smartphones?
+Paul Otellini
+Yes, when I am talking about that I was specifically including the enterprise business, the data center business. The PC business, as we have known it and as it's evolving and I would include tablets in that because as we look forward, it's very difficult to distinguish between a detachable, clamshell notebook and a tablet.
+The form-factors are going to blur here. The performance requirements are going to be the same spectrum of performance requirements that we think we have seen in the PC space over the last two years. I kept phones separately out of that discussion because I think the relative volume in phones in terms of this deployment of CapEx is still relatively small.
+Operator
+Thank you, sir. Our next question comes from the line of C.J. Muse with Barclays. Please go ahead. Your line is now open.
+C.J. Muse - Barclays
+Yes, good afternoon. Thank you for taking my question. I guess this is a follow-up to Ross' question on CapEx. If we exclude that $2 billion on 450 and we look at the core spending, can you talk about the spending on bricks-and-mortar last year and anticipated this year as a percentage and also how we should think about equipment spend as part of that.
+Stacy Smith
+Sure, Hi, C.J., this is Stacy. I will take that. Let me break out that capacity related CapEx in a couple of different ways. First if you look at it by process, it's very much driven by building for the peak of 14 nanometer and then it's the start of the investment and 10 nanometer. So just building on what Paul said, if you think about that, it's really building for units that we expect in 2014 and 2015 because thatâs where you start to see the peak of 14 nanometer and the start of the ramp of the 10.
+In terms of the breakout between what's for facilities versus what's for equipment, as I had showed at the investor meeting back in May, we are seeing that the facility related spending is coming back and a higher proportion of that CapEx is for equipment.
+C.J. Muse - Barclays
+And just as part of that, are you capitalizing investment in ASML or the R&D investment in ASML?
+Stacy Smith
+No. Now thatâs not a capital expense. It was an investment expense.
+C.J. Muse - Barclays
+Great, and I guess as my follow-up, in terms of the guidance for low single-digit topline growth in '13, can you walk through the underlying assumptions, particularly as it relates to your outlook for PCs and the DCG group?
+Stacy Smith
+Yes, I said in my prepared remarks, we expect the data center group to return to double-digit revenue growth and diving into that, it's the cloud data center plus our participation in portions of the market like storage and some of the networking sections of the market. It's both unit and ASP based on the strength of our product line and follow-up.
+Then for the core PC market, the traditional PC market, we have pretty modest expectations around units and we think where the growth comes from are these devices that sit in the middle. So the convertibles, it's the best of the tablet and the PC and then our beginning of participation across the tablet market.
+Operator
+Thank you, sir. Our next question comes from the line of David Wong with Wells Fargo. Please go-ahead. Your line is open.
+David Wong - Wells Fargo
+Thanks very much. The $2 billion for future 450 millimeter production. Is this an ongoing expense? Will you need to put in a similar amount next year?
+Stacy Smith
+Yes, so as Paul said, what changed over the course of 2013 is the industry consortium around 450triangulated on first equipment to be available in 2015 which is why people are starting to talk about pilot lines in that timeframe. Frankly, a lot of that was enabled by our investment in the ASML allowed the alignment around that timeline. So when we look at 2015 as the time where we can have equipment available, we want to start the production of the big construction of a development facility. That's typically a couple of year cycle and so I would expect some facility related spending next year thatâs in the range of what we are spending this year. Then we won't get into the capital related spending for this into the back half of the decade, the production related capital spending into the back half of this decade.
+David Wong - Wells Fargo
+Great, Thanks. The beginning of the 10-nanometer spending that you'll be doing this year, does that assume immersion lithography or EUV?
+Paul Otellini
+I think I will save that disclosure for our technologists. We tend to be pretty close to the best with those kinds of things for obvious reasons, David.
+David Wong - Wells Fargo
+Great, thanks very much.
+Operator
+Thank you, sir. Our next question comes from Vivek Arya with Bank of America Merrill Lynch. Please go ahead. Your line is now open.
+Vivek Arya - Bank of America Merrill Lynch
+Thanks for taking my question. Paul, there are some reports Intel potentially manufacturing some ASICs for Cisco. My question is not about Cisco per se, but it's really a broader question. Is Intel fundamentally set up from an operational or a financial perspective to become a specialized foundry and what would be some of the financial metrics and the kind of end markets that you would target?
+Paul Otellini
+My view on this, Vivek, hasn't changed since the Analyst Meeting, Investor Meeting in May, so I can reiterate that for you. We are very interested in being a selective foundry manufacturer for certain customers. We don't see ourselves as a general purpose foundry or competing with the general purpose foundries. The kinds of things we would do, we would not take business that would enable a competitor. We would certainly consider business that would enable and strengthen relationships with strategic partners.
+The kinds of things that we've announced so far have been in the programmable logic area, which is an area that Intel is not in today, so that makes perfect sense and those kinds of companies need leading edge technology. So, that's the pattern for which we would do this, so yes, we are in a position to be able to handle those kinds of customers. It's we've been building up that capability for several years now and we are now going into production. I described this I think in May as a crawl, walk, run strategy and we are still in the crawl part of it.
+And to the second part of the question around our expectations around return, I mean it's pretty simple. To the extent that we engage with these foundry customers, we want to make money at it. We want to get paid in terms of margin and we want to get a return on our invested capital commensurate with our technology leadership.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you. As my follow-up, we have recently started seeing an increased adoption of ARM's Cortex-A15 processor and I believe earlier today, DSMT spoke about their optimism, but the 20-nanometer process ramping next year at a faster pace than they had ramped 28-nanomer. So, my question is, do you see the competition catching up in terms of performance or in general how should we view the computing landscape? Thank you.
+Paul Otellini
+No, I don't. Now that we've met the power battery life curves and we are still on 32-nanometers as we move to 22 in 2014, you will see us accelerate. We've looked at the 815, we've looked at the 815 specs and we know our own silicon in terms of Bay Trial and Cover Trail Plus, and we are very comfortable that we can maintain a performance lead there. Micro architecture is hard and it's something we've got 30 years of experience at, and these devices are simply becoming very small computers and that's what Intel is exceptional at.
+Vivek Arya - Bank of America Merrill Lynch
+Okay, thank you.
+Operator
+Thank you. Our next question comes from the line of Joe Moore with Morgan Stanley. Please go head. Your line is open.
+Joe Moore - Morgan Stanley
+Great, thank you. Just a follow-up on the foundry question. You did say at the Analyst Meeting that you hadn't earmarked any of the capital spending for foundry. Is that still the case when you look at the 2013 spending?
+Paul Otellini
+Yes. I mean, other than that two or three small customers that you have heard of is not driving our CapEx.
+Joe Moore - Morgan Stanley
+Okay. Great, and if you talking about getting your historic returns, what does that imply on the price per wafer that you would charge relative to what other foundries charge on an apples-to-apples basis or is that too difficult to think about because you are in process node?
+Paul Otellini
+Well, I mean, we are pricing real time with customers, so it's not per wafer. Most people are now pricing, the foundries are pricing per die or per millimeter square and that tends to be the model that we would use here to for the most part depending on this level of technology we are talking about. The pricing here is going to be value-based pricing. I mean, obviously it has to be competitive, but the value that we bring in terms of the technology is I think pretty exceptional.
+Joe Moore - Morgan Stanley
+Great, thank you very much.
+Operator
+Thank you, sir. Our next question comes from the line of Stacy Rasgon with Sanford Bernstein. Please go ahead. Your line is open.
+Stacy Rasgon - Sanford Bernstein
+Hi, guys. Thanks for taking my question. It sounds to me like you are guiding traditional PCs down a ton this year and yet you seem to making a very big bet on revenue growth in to 2014 because it seems like this flood of CapEx doesnât really start getting depreciated until then. So how much do you need to take, in terms of share within tablets or how much of that tablet market needs to be eaten up by your convertible PCs in order to fill that big bet in 2014 that you seem to be making and avoid the underutilization that may otherwise happen from the CapEx that you are spending?
+Stacy Smith
+I take issue with the characterization of guiding PCs down a ton and then some big snap back.
+Stacy Rasgon - Sanford Bernstein
+But you said revenues were up of 2% with data center up in the double digits and phones and tablets ramping, which implies that the core PC business is down.
+Stacy Smith
+No, so I said for the company its low single-digits in terms of our expected revenue growth, data center up and back into the double digits. You still end up with client growth when you go through that and I think the point that Paul was making earlier was a really important one which was the lines between a traditional notebook, a convertible, a tablet have blurred to the point that itâs a market for computing and we are expecting some unit, now Q1 we think is seasonally down.
+Thatâs what we guided but when we get into the back half and you have a combination of new products in the market and an improving macroeconomic environment I think thatâs a fairly reasonable assumption on the year.
+As we think, into the future, we think of it as just more or less normal growth, consistent with what we have historically seen, from a unit standpoint. It's just growth across a much wider range of devices than what we have historically supported. You want me to add anything to that?
+Stacy Rasgon - Sanford Bernstein
+Okay, I guess a follow-up on that. My math suggests that you are guiding depreciation this year at $1.7 billion quarterly run-rate, which is flat which suggests to me that your incremental CapEx spending doesnât actually start getting depreciated on next year, which, again, tells me that you are looking for a fairly solid amount of growth in 2014 to cover that. At the same time, I know you talked about phones and data center and PCs and everything adding to that but the data center business, you sell what, right now 16 million chips a year, something like that which comes from a fab.
+You have phones which Paul admitted, we are probably sill going to be small. Then you have tablets where the dies are a lot smaller. So unless you are driving tons and tons of volume, it is actually not a ton away for volume. So what sort of growth, is your historical level of unit growth enough to fill the CapEx you are putting in and what gives you confidence that you can you have that same kind of historical level of unit growth?
+Stacy Smith
+I think it is and I think that we have line of sight into what our customers are designing around Haswell which is this year's innovative new core product and Broadwell which is next year. So we know the specs on those. The customers know the specs on those. I have seen the prototypes of the industrial designs. They are really exciting products. Our customers have not had this level of performance in this kind of form factor before.
+To some extent, we are branch predicting that that level of product will generate sufficient excitement to keep the client growth going. In none of our numbers are we projecting an inflection point, upwards or downwards. We see renewed growth around these new form-factors.
+Stacy Rasgon - Sanford Bernstein
+Got it. You have room to modulate CapEx down?
+Mark Henninger
+Stacy, we want to make sure we make time for everybody on the call.
+Operator
+Thank you, sir. Our next question comes from Sumit Dhanda with the ISI Group. Please go ahead. Your line is open.
+Sumit Dhanda - ISI Group
+A couple of questions. One question on what happened in Q4. It seems like your PC client units were down 4%. So third-party data for PCs was up 2% to 3% sequentially depending on the way you look at. Was this mainly an inventory drain and perhaps if you could talk just broadly about the inventory picture at your customers, Paul, as you exited the fourth quarter?
+Paul Otellini
+Yes, I will take that. We think that there was an inventory drain and a worldwide supply chain for PCs in the fourth quarter. Our channel checks would suggest that a lot of older generation Windows 7 PCs were burned off in the quarter. When we look overall at inventory levels across all the downstream inventory, we think itâs a healthy level of inventory. It looks appropriate for how we see demand and then in terms of our own inventory levels, obviously we reduced them significantly in the fourth quarter.
+Sumit Dhanda - ISI Group
+Okay, and then for my follow-up, it's on ASPs. They are up, both on the data center and the PC client group. Any particular dynamic at work? I know in the third quarter, data center ASPs are weak because of the mix. If you could shed any light on both of those categories? Thank you.
+Paul Otellini
+Sure, in the data center, as I said in my comments, the driver was Romley was shipping to the Sandy Bridge for server part. That drove the mix up and it drove the mix to [MP] up and that helped drive the overall richness of the data center business.
+On PCs, what we saw was the strength in the core product line principally going into Ultrabooks and laptops and little more weakness than we would have first thought in the bottom of the PC market in our Celeron and Pentium product lines.
+Sumit Dhanda - ISI Group
+Thank you.
+Operator
+Thank you, sir. Our next question comes from Glen Yeung with Citi. Please go ahead. Your line is now open.
+Glen Yeung - Citi
+Thank you. I guess, question for you Paul on the potential for hybrid or even just Ultrabooks in the second half of 2013, and [point] of it, I think we are starting to see a bifurcation where we are selling the small tablets and they seem to be selling well and actually the tenants tablets may be not selling as well as one would have expected and I wonder if that's somehow opening up opportunity for the laptop, the Ultrabook, the hybrid to make a bit of a comeback.
+Paul Otellini
+Yes. I think coming out of CES, the trends are pretty clear, and certainly in Asia in terms of the buying patterns. Phones are getting bigger and you saw the core tablets, which is a phone tablet sort of form factor emerge which are six, even seven-inch phones. And then, of course, the shift of tablets from 10 to 7 inches, and I think that's probably what you are going to see. That the market will bifurcate between sort of the 5 to 7-inch type of products and the 10-plus inch type of products. And then 10-plus inch type of products, particularly as you get to 12-13 inches are going to be more classic PC level of performance and now enabled by these convertible detachable form factors that only get thinner as Haswell and Broadwell come on.
+Glen Yeung - Citi
+Interesting, and maybe to follow-up Stacy, just trying to think through the cash balance that Intel is comfortable working with, because it is a lot of spending coming up in a year where it's kind of anemic revenue growth. What's the level of cash at which you feel comfortable and is there any need? I know you raised that recently any need you think to have to do that at some point during the course of the year?
+Stacy Smith
+Not need, but we would certainly look opportunistically like we have been and we certainly have capacity if we ever wanted to, but I think it's instructive to just look at where we are. If you take Q4, which we would say was a relatively tough quarter at the top line, macroeconomic weakness, the impact of tablets on our business, we generated $6 billion of cash flow from operations, we had $2.5 billion of CapEx, we paid a little over $1 billion in dividends.
+So, we are generating plenty of cash to invest in our business and to pay the dividend and protect the dividend. So, I am not worried about it from that standpoint, and as I model out 2013, I get to a similar model where I am generating more cash than I need for those two things.
+In terms of the cash balance that I'm comfortable with, I am comfortable with how much cash we have today. I could live with a little bit less also and we make those decisions tactically as we go forward.
+Glen Yeung - Citi
+Okay, thanks.
+Operator
+Thank you, sir. Next question in queue comes from the line of Craig Berger with FBR Capital Markets. Please go ahead. Your line is open.
+Craig Berger - FBR Capital Markets
+Hey, guys. Thanks for taking my call. I wonder if you could update us on your acquisition Infineon Wireless. It's been almost a couple of years. And specifically, where you are with 4G LTE, where you are with an integrated baseband plus Atom part and when we can expect to see more progress in handsets? Thanks.
+Paul Otellini
+Well, Infineon is doing well. They are well on their way to an LTE solution. I talked about that in my commentary, but to reiterate what I said was that we are shipping the data mode now, the dual data mode and the voice mode shipping later this year.
+First LTE phones, I would expect to have launched early next year, principally around MWC-14. We believe we have a very competitive solution. The Infineon team is known for not necessarily being first to market, but being really good at engineering a very solid solution and being cost effective and cost competitive and I think that they are doing a very good job with respect to this product. In terms of integrated solutions, you'll see higher levels of integration from us next year.
+Stacy Smith
+Craig, if I could just add to that too? Paul talked about our roadmap side. The thing I'm struck by in this space is how hungry it is that the customers are to work with us in this space. So I think itâs a nice combination. We got a good roll of products across the year and it looks like people are really lining up to have us as one of their key partners.
+Craig Berger - FBR Capital Markets
+Just following up on this topic of conversation. Any plans to do anything more interesting strategically in terms of putting them in PCs or any plans to develop Bluetooth, Wi-Fi, GPS, NFC to integrate down the road? Lastly, do you expect growth from Infineon in 2013? Thank you so much.
+Paul Otellini
+Well, on the middle, all of the above. We have many of those technologies in-house now and are doing levels of integration that makes sense at the right time. In terms of PCs, the problem has not been technical. The problem has been price and most PC manufacturers would prefer, for IP and royalty based reasons, to not build that into their PCs and to have it be either an add-in chip through a slot or add-in service through a dongle.
+Stacy Smith
+Sorry, we broke off. But I would expect that as the LTE solutions are ramping in the marketplace, we will start to see growth. So I donât its going to be much in '13 and then it goes from there.
+Operator
+Thank you, sir. Our next question comes from Mark Lipacis with Jefferies. Please go ahead. Your line is open.
+Mark Lipacis - Jefferies
+Thanks for taking my question. The question I have is, if you share with us your view on price elasticity in the client PC market in either and aggregate or on the notebook side? I guess what I am wondering is, for the better part of last decade, the model seemed to be you drop your price something on the order of like 5%, 6% a year. You drive like and then that drove 10% to 12% unit growth and you got single-digit revenue growth. Then in '10 and '11, you crushed growth, your prices went up and your unit growth really did not. Now in '12, we have a down year, '13 is low single-digit growth and I am wondering if you think there is elasticity in the market and if you expect to drive your ASPs down in order to drive that elasticity. Thank you.
+Stacy Smith
+Mark, thank you. I donât think this price elasticity. There is just much elasticity in the classic form factors. If we wind the tape back earlier than your comments, what we saw was a similar kind of price elasticity the desktop in the 80s and 90s. When PCs broke the $1,000, volume went dramatically up and the desktop PC continued to drop down until it stabilized at the price points where minimum margin was available for all the players. The cheapest desktop was $299 sort of model or something like that.
+Notebooks went the same way. First notebooks were $3,000 and now notebooks are $299 to $1,299 in terms of the sweet spot. I think people will buy based upon their need within those price points, but it is very difficult for me to see them going from $299 to $99. The bill of materials just doesnât support it.
+What we are likely to see and what we saw in the fourth quarter, in fact in the Windows 8, touch-enabled models was that people willing to spend a little bit more to get a more capable product. That certainly has been true in the Apple model for many, many years and I think that there is model of getting paid for innovation. Intel's core product line has always shown that. Now you are starting to see it in the system-level price points as well.
+Mark Lipacis - Jefferies
+Thank you. For a follow-up, if I may. EUV, do you guys have a view on when you can expect to start putting that into the factories? Thanks.
+Paul Otellini
+Again this is like the emergent question. It's why we keep those things pretty close to our vest. So it's not what I am prepared to talk about.
+Operator
+Thank you, sir. Our next question comes from Romit Shah with Nomura. Please go ahead. Your line is open.
+Romit Shah - Nomura
+Thanks a lot. Stacy, if you take the 10-year median for revenue growth, starting in Q2, I only get the slight revenue growth for 2013. So it looks like you are expecting a better than seasonal quarter. Could you talk a little bit about just how the year may play out in terms of trajectory?
+Stacy Smith
+I donât think you mean better than seasonal quarter for Q1. I think you mean back half gets stronger that normal seasonality. Is that what you mean?
+Romit Shah - Nomura
+Right.
+Stacy Smith
+Yes, and thatâs consistent with our view. First and foremost, it comes down to, if you consensus GDP estimates, the consensus today is that there is a pretty significant strengthening in the worldwide economy over the course of the back half of this year.
+Over that same ten years, the first correlation of our business is GDP growth. And then beyond that, it's the kinds of things that Paul has been talking about. You have Haswell coming into the marketplace, Windows 8 gaining traction, Touch gaining traction, so you have these great devices that are coming in that are convertibles and kind of the best of the PC and the tablet experience and then we become more and more represented across both, the Windows, tablet section of the market and Android over the course of 2013, and the combination of that puts us into a situation where we believe we have more than seasonal second half.
+Romit Shah - Nomura
+I'm a little confused on how to think about Q2. It seems like seasonality is changing and the 10-year median is down 1%, but I've noticed just off the last couple of years, Q2 has been actually up anywhere from 1% to 5%. How do you guys look at it?
+Stacy Smith
+We will talk about Q2 in 90 days.
+Mark Henninger
+Excuse me. We are going to go ahead and take two more questions if you would please?
+Operator
+Yes, sir. Our next question comes from the line of John Pitzer with Credit Suisse. Please go ahead. Your line is open.
+John Pitzer - Credit Suisse
+Yes. Good afternoon, guys. Thanks for letting me ask the question. Paul, in 2011, the emerging market was perhaps a better cushion that investors thought for the core PC business. In 2012, it was kind of maybe a bit bigger headwind than people thought coming into the year.
+I am kind of curious when you look at the 2013 guide, how you are thinking about emerging market? Was 2012 all just about decelerating GDP, or do you think there was some interplay of some white box tablets starting to cannibalize within that region as well?
+Paul Otellini
+I think, in particular in China, the market dynamics are not much different at least in the Tier 1, 2, 3 cities. It's different than the U.S. so, yes, there is clearly some tablet sales that impacted low-end or first-time buyer PCs in China.
+I think the bigger issue was in China and in Brazil last year, which are the two largest emerging countries, was their overall economic health. Remember, Brazil started seeing inflation that slowed down PC sales. China, the growth dropped and they had a regime change and we saw people stalling around what the policies would be post regime change and so forth.
+Now, as we look into 2013, as Stacy said, China is still outgrowing any other large economy in the world and I think will be a driver for PC sales. We've been pleasantly surprised by the data center growth in China. They are deploying fairly large amounts of servers for infrastructure build out and that's helped our overall revenue picture in that country.
+John Pitzer - Credit Suisse
+Thanks, Paul. That's helpful. And as a follow-up, Stacy, on the OpEx side, Other IA in the quarter is now annualizing an almost a $2 billion operating loss. As you think about kind of the OpEx, is this now the right run rate for all the new initiatives and how do we think about that Other IA category maybe marching towards a breakeven number as tablets, phones become a bigger part of the revenue stream?
+Stacy Smith
+Yes. We are not increasing. We're not making incremental investments in 2013. And so, if you look at 2013, we expect employment to be pretty flat, so I think that the answer to your question is, yes, we think we are investing at the right level. We do have an increase in OpEx as we go from 2012 to 2013 and it's just a full year impact of the R&D investments that we talked about in 2012 and that investments are really being driven by Ultrabooks and tablets and phones and our SoC capability as well as our process technology leadership and it's interesting.
+I think that when you look at our performance in the business, we've got some great products in the market. I think 2013 will be a year, where we're fighting and hopefully winning some big designs. I think you will see many of those designs coming to the market in the tablets spaces we've talked about and the phone space, the volume will grow over time and we expect that the business grows into this investment level over time.
+John Pitzer - Credit Suisse
+Great. Thanks, guys.
+Operator
+Thank you. And our final question will come from the line of Shawn Webster with Macquarie. Please go ahead. Your line is open.
+Shawn Webster - Macquarie
+Great. Thanks for squeezing me in, guys. First question on gross margins. Looks like they are a little bit better. I was wondering if you could share with us, you said your utilization rates would be below, I think, 50% in Q4. I was wondering if you could share with us where they landed and what you expect the trajectory to be in Q1 and maybe even beyond if you can?
+Stacy Smith
+Sure. Yes. We came in at a gross margin level a little bit better than expect in the fourth quarter and it played out from a utilization standpoint, pretty much as we expected. We brought the loadings out in the factories significantly. It was below 50%. We redirected equipment to intercept some of the leading edge process technology, and we managed to bring inventory levels down on the order of $600 million which was consistent with what we said.
+As we go into Q1, the forecast for gross margin is roughly flat. What you are seeing there in terms of excess capacity is, we will continue to see an improvement in excess capacity and we are going to start to see the increase in startup costs. The rough order of those two things offset and then there are couple of other puts and takes but it ends up with a slight gross margin.
+As I think through in the shape for the year, which was the last part of your question, when I get to Q2, I think what happens is we see the further reduction in the excess capacity charges. In fact, they will be pretty much gone in Q2 but Q2 is where we will peak in terms of the startup costs. I think that the startup cost impact is a little bit more than the reduction in the excess capacity. So I expect gross margin in Q2, everything else being equal, to be flat to down.
+Then we put 60% out for the year. So you should think about the second half expectations of gross margin back into the low-60s. When I think about the drivers of that, itâs the reduction in startup cost because we peak in Q2 and they start to come down. It increases in volume which would be consistent with the seasonal second half. Then our cost comes down over the course of the back half of this year. Those are the three tail winds that I projected getting back up above 60%.
+John Pitzer - Credit Suisse
+Okay, great, thanks. If I might, I have a question on some of the other. If you reload in the low single-digit revenue growth you have for this year, and we throw in the double digits datacenter, we throw in the single-digit growth in PC client, that means the rest of your business must be falling something like 8% year-over-year for calendar '13 and some of these segments like the other IAA group includes some of your growth areas like you have been talking in tablets and smartphones. Can you share with us your build plan, I mean not your build plan but your plan for the year? Or how you are thinking about some of these other groups over the course of the year?
+Stacy Smith
+First, I donât get to the same math and so we will just start there. We talked about both the PCCG group and we talked about the data center group but being back in the low double-digits. When we run through the rest of the businesses, we would expect to start to see some progress in tablets over the course of the year. Phones is going to be, we will be winning designs but it is not going to move the needle from a revenue standpoint.
+We talked about IMC in terms of the growth returns to that business as LTE ramps which is really in time. We are at the end of this year and in to next year. We expect embedded will see some growth. It's been a nice growth engine for us. We think NAND will grow.
+I think I hit them all there. I donât think I missed anything.
+Paul Otellini
+All right, thank you, Huey and thank you all for joining us today. Huey, please go ahead and wrap up our call.
+Operator
+Yes, sir. Ladies and gentlemen, this dies concludes today's conference. Thank you for your participation and have a wonderful day. Attendees, you may disconnect at this time.

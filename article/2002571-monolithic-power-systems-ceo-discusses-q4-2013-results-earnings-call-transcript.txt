@@ -1,0 +1,271 @@
+Monolithic Power Systems, Inc. (NASDAQ:MPWR) Q4 2013 Earnings Conference Call February 6, 2014 5:00 PM ET
+Executives
+Meera Rao - Chief Financial Officer
+Michael Hsing - Founder and CEO
+Analysts
+
+Patrick Wang - Evercore
+Tore Svanberg - Stifel
+Matt Diamond - Deutsche Bank
+Vernon Essi - Needham & Company
+Rick Schafer - Oppenheimer
+Amit Chanda - Wells Fargo
+
+
+Operator
+
+Good day, ladies and gentlemen, and welcome to the Monolithic Power Systems Incorporated Fourth Quarter Full Year 2013 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, weâll conduct a question-and-answer session and instructions will follow at that time. (Operator Instructions). As a reminder, this conference call is being recorded.
+Iâd like to introduce your host for todayâs conference Meera Rao, Chief Financial Officer. Please go ahead.
+Meera Rao
+Thank you, Kate. Good afternoon and welcome to the Fourth Quarter and Fiscal Year 2013 Monolithic Power Systems Conference Call. Michael Hsing, CEO and Founder of MPS is with me on todayâs call.
+In the course of todayâs conference call, we will make forward-looking statements and projections that involve risks and uncertainty, which could cause results to differ materially from managementâs current views and expectations. Please refer to the Safe Harbor statements contained in the earnings release published today. Risk, uncertainties and other factors that could cause actual results to differ are identified in the Safe Harbor statement contained in the Q4 earnings release and in our SEC filings, including our Form 10-K filed on March 5, 2013 and Form 10-Q filed on October 20, 2013, which are accessible through our website, www.monolithicpower.com. MPS assumes no obligation to update the information provided on todayâs call.
+We will be discussing operating expense, net income and earnings on both a GAAP and a non-GAAP basis. These non-GAAP financial measures are not prepared in accordance with GAAP and should not be considered as a substitute for or superior to measures of financial performance prepared in accordance with GAAP.
+A table that outlines the reconciliation between the non-GAAP financial measures to GAAP financial measures is included in our earnings release, which we have filed with the SEC. I would refer investors to the Q1, Q2, Q3 and Q4 2012 and 2013 releases, as well as to the reconciling tables that are posted on our website.
+Iâd also like to remind you that todayâs conference call is being webcast live over the internet and will be available for replay on our website for one year, along with the earnings release filed with the SEC earlier today.
+We would like to start this call by reviewing our business highlights for 2013 followed by fourth quarter operating results and finally our expectations for the first quarter of 2014. We will then open up the call to your questions.
+Letâs start with the business highlights for the year. MPS is pleased to announce record annual revenue of $238.1 million. Full year revenue growth of 11.4% clearly outperformed the analog industry, which SIA estimates grew 2% over the prior year. This is our 10th year as a public company and during that period our revenue has grown organically at the compound annual growth rate of 19.6%. For 2013 all key financial metrics revenue, gross margins, non-GAAP EPS and in particular, non-GAAP operating income grew sharply over 2012. MPSâs gross margin expanded 80 basis points in 2013 to 53.7%. Our non-GAAP operating income for the full year rose $8.7 million to $44.6 million in 2013.
+Non-GAAP EPS grew to a $1.06 per share in 2013 from $0.93 per fully diluted share in 2012. In 2013 we again grew revenue in each of our targeted market segment industrial, computing and communications. Industrial was up 32%, storage and computing grew 16% and communications increased 10% compared with 2012. In addition consumer revenue was also up 4.3%, clearly we continued to execute according to our plan.
+Let me speak to the results of each end market. In industrial and automotive markets, sales grew to $34.2 million, fueled by product sales for applications in security, power adaptors and Smart Metters. We have also seen significant design win activities in automotive applications in USB, [rear] camera, lighting and the chassis. All these design win activities will continue translate into revenue growth in the second half of 2014 and in 2015. In cloud computing, where we focused on storage and servers, revenue grew to $47.9 million due to strong growth in storage.
+In three years we have been able to grow storage revenues to $32.5 million. We see tremendous new opportunities for growth in this market with the proprietary storage solutions. Revenue in the communications and telecom market grew 10% to $56.1 million, primarily reflecting market share gains.
+Revenue from consumer market is up $4.1 million in 2013 to $99.9 million. This growth was largely fueled by higher sales into newer markets such as LED lighting and gaming controls more than offsetting declines in our traditional consumer markets in particular TVs.
+Now letâs talk about some of the major achievements in 2013. After two years of development, we showcase our new DC to DC conversion technology which we called quantum state modulations QS Mod. QS Mod allows the users to quantify the power outsource and the time duration between firing each phase without using the traditional feedback move. Our solution has multiple benefit. First it greatly improved the overall system efficiency. Second it is much simpler requiring minimal design effort, also the output transient is significantly faster than our competitor. And finally all of this can be achieved through a simple software interface.
+This demonstrates clear advantages over traditional methods of pulse with modulations or PWM. The first product based on QS Mod technology is MP 2953, a six phase controller targeting ultra high current applications such as server, CPU core, DDR power and network systems. Coupled with our Intelli-Phase family of DriverMOS ICs, the MP 2953 delivers the best in class performance and efficiency and transient response.
+The built in current sense technique, with extremely high accuracy allows the CPUs to optimize power, deliver the best efficiency and eliminate the need to over design DC to DC converter. In fact, we have received overwhelmingly positive feedback from several major customers on our solution efficiency and simplicity with the programmable GUI or graphic user interface unlike the trial and error approach in labs today. We believe this technology will set a new standard for size, the power conversion efficiency in cloud computing and networking.
+Another exciting development is our innovative Monolithic Power Module or MPM. The MPM products integrate the entire system into one package which as expected has been well received by customers. Now customers can just drop in a module and move on to other challenges.
+In addition, these miniaturized modules based on BCD3 and BCD4 technologies have increased power densities which drive smaller size, increased efficiency, and lower solution cost. We already have multiple design wins for our power modules in industrial, storage and high end consumer markets.
+As we continue to expand the family of plug and play modules to address a variety of applications throughout the year, we expect to see steady revenue growth beginning in the second half of 2014.
+In the technology area, the BCD4 process technology is introduction and promises to be the growth driver for the future. Our point of load DC/CD products and many of our MPM products are all designed on the BCD4 process technology.
+We continue to push forward on a process technology with the next generation of development, BCD5. This would be an essential effort for our future servers, cloud computing, and module strategies.
+Finally, a few years ago we identified powering of connectivity for the internet of things to be one of the future growth engines for MPS. While tens of billions of devices gets connected to the internet, a new power solution is needed. The efficiency of standby power must be extremely high as these tens of billions of devices are connected to the grid at all time. In addition, a small form factor is essential due to small space constraint applications. For instance, a traditional power supply will not fit in a light switch, or in electric socket or junction box.
+In April 2012 earnings call, we presented the easy power family specifically targeting the internet of things applications. These products provide an extremely strong solution to deliver a few 100 megawatts to a few watt of DCDC power from offline AC source. Two years later, we have seen steady increase of demand from many applications such as investors control systems, building automation, thermostats, floor entry and air conditioning flow control. We believe the internet of things to grow rapidly in the next few years. And as an early mover, weâre well positioned for growth in this market.
+Switching to Q4, MPS had a record fourth quarter with revenue of $63.6 million, representing year-over-year revenue growth of 31.8%. Gross margin was 54% in the fourth quarter, the same as the third quarter and 100 basis points higher than the 53% reported in the fourth quarter from a year ago.
+Our non-GAAP operating income was $13.7 million compared to the $13.9 million reported in the prior quarter and significantly higher than the $8.3 million reported in the fourth quarter of 2012. Q4 GAAP net income was $12.6 million or $0.32 per fully diluted share compared with $0.33 per share in the previous quarter and $0.21 per share in the prior quarter.
+Letâs review our non-GAAP operating expenses. Excluding stock compensation, our non-GAAP operating expenses for the fourth quarter of 2013 were $20.8 million, a reduction of $800,000 from the $21.6 million we spent in the third quarter.
+Moving on to our GAAP operating expenses, our GAAP operating expenses were $26.3 million in the fourth quarter, compared with $26.6 million in the third quarter. Since the only difference between non-GAAP operating expenses and GAAP operating expenses for this quarter is stock compensation expense, letâs look at the stock comp expense. Stock compensation expense was $5.6 million in the fourth quarter, compared with $5.2 million in the prior quarter.
+Switching to the bottom line, Q4 2013 GAAP net income was $7.5 million or $0.19 per fully diluted share. On a non-GAAP basis, our Q4 net income was $12.6 million or $0.32 per fully diluted share. This result is computed with an estimated tax rate of 7.5%.
+Now, letâs look at the balance sheet. Cash, cash equivalents and investments were $236.2 million at the end of 2013, up from the $214.2 million reported at the end of the prior peak quarter. MPS generated operating cash flow of about $30.6 million in Q4. We also received a $9.5 million award from O2 Micro during the fourth quarter and cash proceeds from employee stock option exercises contributed another $5.2 million. MPS announced a $100 million stock buyback program effective August 2013. Under this program we bought back approximately 396,000 shares for a total of $13 million in the fourth quarter; we also spent $800,000 on capital equipment. Compared with the end of 2012, cash, cash equivalent and investments were up $63.8 million from the $172.4 million.
+During the year, MPS generated $63.2 million in operating cash flow and $40 million from stock option exercises and ESPP purchases by employees. We received a $9.5 million award from O2 Micro. We also spent $18.4 million on capital equipment during the year.
+Accounts receivable ended the year at $23.7 million compared with $22 million at the end of the prior quarter and $19.4 million at the end of 2012. Days of sales outstanding were up to 34 days in Q4 from 31 days in Q3 2013 and down from 37 days in Q4 2012. Our internal inventories at the end of the year were $39.7 million, lower than the $43 million at the end of the prior quarter. Days of inventory also decreased from 130 days at the end of Q3 to 124 days at the end of Q4. Days of inventory in our distributor channel stayed at the same level as the last five quarters.
+I would now like to turn to our outlook for the first quarter of 2014. We expect first quarter 2014 revenue to be in the range of $58 million to $62 million and 15.5% year-over-year increase at the midpoint of the guidance compared with 4.4% year-over-year first quarter growth projected for the analog industry by SIA.
+We also expect the following: Gross margin to be in the range of 53.5% to 54.5%; stock-based compensation expense to be in the range of $6.3 million to $7 million, the increase over the prior quarter is primarily due to the stock price based performing stock units granted in December 2013; litigation expense to be in the range of $200,000 to $400,000; non-GAAP R&D and SG&A expense to be in the range of $20 million to $22.5 million. This estimate excludes the stock compensation and litigation expense estimates mentioned above. Fully diluted shares to be in the range of 39.5 million to 39.9 million shares before share buyback.
+In conclusion, MPS had an outstanding fourth quarter with 31.8% year-over-year revenue growth, much faster than the overall analog market. This was also MPS's best Q4 and best year yet in our history. We continue to deliver on our growth strategy articulated in the past as evidenced by revenue diversification and growth far exceeding the analog industry. We are confident in our future growth.
+Iâll now open the microphone for questions.
+Question-and-Answer Session
+Operator
+
+(Operator Instructions). Our first question comes from the line of Patrick Wang with Evercore. Your line is open.
+Patrick Wang - Evercore
+Great. Thanks so much. Congrats on the record year. I want to talk about your guidance first. Your guidance is impressive. I guess in light of the overall industry, we are still seeing pretty good outperformance there historically also slowest in the fourth and first quarters. As we look ahead for the rest of the year, and I know you are not giving guidance there, but there seems to be a huge pipeline of product cycles and design wins. Can you give us a sense of maybe your visibility your confidence that you are going to be able to continue outgrowing the market at kind of 20% level that you have done in the past?
+Meera Rao
+
+Clearly we are very confident that this is going to be a growth year for us and we will outperform the analog industry [handling] again. And the reason we feel confident is the pipeline of design wins that we have and the number of growth drivers that we have. So if you look at the areas of growth, we have cloud computing, networking and telecom, SSD, sharp blade, set-top boxes, TVs, gaming consoles, LED lighting, automotive, security and various other industrial applications. When we look at all this and the momentum that we have going forward, we feel confident that we will have growth this year.
+Michael Hsing
+
+To summarize what Meera said, we donât find any surprises. And as we go into Q1 of 2014 everything is still intact and everything is actually -- and many projects are better than we expected.
+Patrick Wang - Evercore
+Okay, got you. I wanted to talk a little bit about your [comps] end market; it was down about 14% sequentially last quarter. Can you talk about what happened there and perhaps what we should think about in the March quarter?
+Meera Rao
+
+Sorry, which end market was that?
+Patrick Wang - Evercore
+Communications.
+Meera Rao
+
+Our communications; communications was down in Q4 largely itâs a demand for our older gateway products that were lower in Q4. And I think thatâs one of the areas where we saw some seasonal weakness back in Q4.
+Patrick Wang - Evercore
+Okay. But as we kind of move into the first quarter and over the course of the year, I mean are you expecting more older product to get kind of [wind] down? And then on that same note, can you talk about some of the new products that youâve got ramping and when we should expect a material impact at the kind of growth there?
+Meera Rao
+
+Going through the year, we expect all the gateway productsâ revenue to continue to be up for the year, plus we have the newer networking and telecom revenues, which will continue to ramp this year.
+Michael Hsing
+One of our products that we designed in early to middle of last year that will start ramping in Q1 this year and also Q2.
+Patrick Wang - Evercore
+Okay. So you are confident you have got products that can hand off the growth, they can hand off the revenues too and weâre not going to be looking at the big horn revenues?
+Michael Hsing
+
+No, that's not what we see at this time.
+Patrick Wang - Evercore
+Okay, terrific. And then just lastly the -- you mentioned the module business; I think I heard you say, you are expecting first revenues to ramp in the second half of the year. Can you give us an update on that, some of the key milestones to look forward to and perhaps as we exit the year what type of revenues we should be thinking about?
+Michael Hsing
+I think that itâs really a long-term growth for MPS. We did (inaudible) for the coming applications and that design activity happened in the past and are projected to be in the second half of this year and then (inaudible) on track, but to be a meaningful revenues weâre looking for what really happened here then, in the next year I think through the end of the second half of the next year.
+Meera Rao
+So itâs just not incremental story this year as well.
+Patrick Wang - Evercore
+Yeah, got you. Okay. And just one last -- further one last quick one and then Iâll get out. What are some of the kind of the bigger, the top three or four product cycles that are going to drive the growth this year? So maybe you can just kind of talk about that in the linked quarter?
+Michael Hsing
+Well, we havenât (inaudible) really talk about industrial automotive, thatâs one of that. I think also the LEDs and our cloud computing and particularly server size and then you have many products in the customer solutions are bigger platforms. We are expecting this year that weâre having some meaningful revenues. And in the last year (inaudible) get on the top customers and we generated few many model revenues and this year we experienced (inaudible).
+So I mentioned that automotive industrial (inaudible) and servers and we have other ones, but (inaudible) we will talk about it (inaudible) market shares and we really believe that it will continue to (inaudible) positions. And doing that (inaudible) as Meera mentioned about the internet, two years ago we designed -- many years ago actually sort of four years ago we designed a few products (inaudible) these are connectivity in the tough environment, these are micro solutions, 80 to 60 solutions for connectivity.
+In the first year we used that product and we can see the whole lot of activities. And last year, we do see a lot of activities from (inaudible) internet connected a dollar in the simple steps not other thing. So the revenues (inaudible) and itâs still too early to talk about, but we believe that it will come and there is so much activities and the revenue will, itâs just a matter of time.
+Patrick Wang - Evercore
+Okay, terrific. Thanks so much. Congrats guys.
+Michael Hsing
+Yeah.
+Operator
+All right. Our next question comes from the line of Tore Svanberg with Stifel. Your line is open.
+Tore Svanberg - Stifel
+Yes. Thank you and congratulations on the results. First question, your consumer business was up year-over-year, I think you had hinted that that would be the case. But my understanding is that the mix there has changed. I think historically you sort of classified that as third set-top box, third TV and third discretion consumer. But how does your consumer business look like now?
+Meera Rao
+Right now, I would say that the mix has shifted more into the general purpose consumer. I would say that general purpose consumer would be roughly about half of business. And based on the new market that we're entering like gaming consoles, as well as LED lighters and battery charging, those are the areas that are driving it. So I would say that the more traditional market like TV and set-top boxes would more probably be a quarter and a quarter each roughly. So, that's even mix overall.
+Tore Svanberg - Stifel
+Very good. And as Michael is going through sort of the top drivers this year, I mean they all seem like higher gross margins type markets. Should we expect the gross margin expansion as we move throughout the year?
+Meera Rao
+I think you would -- our goal is to grow gross margin steadily through the year.
+Michael Hsing
+Yes. And then we don't have it. We don't as executing our strategies and which we see it from the result from last years I donât see a huge downside of a lot of headwinds I must say that and pressures from our gross margin. Although we do have all in traditional the analogs of traditional consumer products and which will fastly replaced by the new consumer products as Meera just mentioned and those have a higher gross margins. So I will say that we feel comfortable and we can improve the margins if not a lot at least a bit.
+Tore Svanberg - Stifel
+Very good. And any chance you can update us on the mix between BCD3 and the (inaudible) we have a percentage for BCD4?
+Meera Rao
+Itâs I would say fairly early for BCD4, but if you look at BCD3 and BCD4 together, about two thirds of our revenue in Q4 was from those two technologies.
+Tore Svanberg - Stifel
+Okay very good. Last question and on your new DC to DC converter technology should that already start to ramp this year?
+Michael Hsing
+
+This year, yes we have design wins. And this (inaudible) and after that this is new state of art technology that really I am excited about this. Again this contents same modulating will really replace the traditional PWM pulse with modulation. We believe this match is the better way to do it and itâs like a breakthrough we took after many years and to define this product. And I think (inaudible) can be applied for a general market and particularly for, I mean the high current for this year and this year we generated revenues on using (inaudible) and also for next year, the module, a lot of module based on this programmable power technologies.
+Tore Svanberg - Stifel
+
+Very good. Thank you very much.
+Michael Hsing
+Thank you.
+Operator
+Our next question comes from line of Steve Smigie with Raymond James. Your line is open.
+Unidentified Analyst
+Thanks this is Vincent (inaudible) speaking on behalf of Steve. I was hoping if you could talk about the long term growth rate you see for the AC to DC business?
+Michael Hsing
+
+Yeah. I talk about quite a good other things. AC to DC there, I didnât mentioned there. (Inaudible) several things, such as, Meera why donât you [take that]?
+Meera Rao
+
+AC/DC is an area where we are seeing a lot of revenue growth coming from that. We are seeing some of the revenues growth coming in easy power family of products which is to power the (inaudible) things. We are also seeing revenues from this and multiple other market and this is going to be one of our areas of the things that are going to (inaudible) this year?
+Michael Hsing
+A lot of products from, a lot of demand is from (inaudible) leads some kind of small powers and also very efficient and efficient power converting from AC line and also small compacter. And so our product is outstanding in the segment. And also these some of the small appliances which connect to have quite some connectivity and we see some demand for that, but all those still at the beginning. A large portion of our AC to DC is really come from energy saving device and we call it ideal dialed and multiple lot of a high power product, computing servers and all that kind of high efficiency product which all products can just dropping replace a traditional dials and we see the ramp on that.
+Unidentified Analyst
+Great, thank you. And as a follow-up I was wondering if youâre considering any acquisitions?
+Meera Rao
+Weâve talked about this before. We would be interested in if there was a good technology (inaudible) out there and we would certainly be interested in those opportunities. So it has to be something thatâs of interest to us that has maybe associated sales opportunities. So this is something that we have been looking at for a while.
+Unidentified Analyst
+Great. Thank you very much.
+Operator
+Our next question comes from the line of Ross Seymore with Deutsche Bank. Your line is now open.
+Matt Diamond - Deutsche Bank
+Hey good afternoon guys. Solid results. Here this is actually Matt Simon on Rossâs behalf. I wanted to ask you about your OpEx plans for the course of the year. It looks as though your SG&A is a little bit higher than your long-term model at about 16%. I am curious if you could enlighten us to what plans if any you have to cut that down to the long term model this year?
+Meera Rao
+Our plan, if you have noticed, back in Q4, we have held our OpEx down, and that our plan is as we donât need to do any investments right now to hit the 2014 roadmap. As we see our revenue increase, we will increase some of our investment in particularly in the [depth] in marketing area, targeting 2015 and 2016 revenue growth. You are going to see us come into target as you see our revenue, our top line growth.
+Matt Diamond - Deutsche Bank
+Okay, great. And could you comment on the linearity of bookings this quarter, what youâve seen heading into January and February?
+Meera Rao
+I would say this is fairly typical for what we see in most periods. As you know, we have mostly six to eight weeks lead time, so we have not seen most of the orders coming in, into the second half of the prior quarter going into this quarter. So in terms of linearity, itâs the same as it usually is.
+Matt Diamond - Deutsche Bank
+Okay, understood.
+Michael Hsing
+We feel a very normal, consumer is a little bit longer and little bit weaker, itâs in everything else doing better than we actually expected.
+Matt Diamond - Deutsche Bank
+Okay, great. Thanks very much.
+Operator
+Our next question comes from the line of Vernon Essi with Needham & Company. Your line is open.
+Vernon Essi - Needham & Company
+Thank you. And just to follow on the last question there on the OpEx, I guess, I didnât understand really the answer to that. In terms of achieving the long term model, obviously you are not going to probably hit that in 2014, but itâs fair to say that your OpEx will be growing at least in dollar terms in sort of the similar pattern it has in the last couple of years. Is that a fair statement?
+Meera Rao
+I would say that yes. For our revenue, for our OpEx, particularly SG&A if you hit the model, that is based on revenue growth. And I'm not sure if that weâd be able to hit that this year. But you're clearly going to find that any OpEx increase this year is also going to be driven by substantially higher revenue growth.
+Michael Hsing
+Vernon, you see our -- you commented for long enough (inaudible). We have to increase some of the -- we have to invest some of the items like R&Ds and further growth. In the past so you see it, if the growth slowdown, we can cut a few million dollars within a quarter. And we've demonstrated many times in the past. So, OpEx, the out of control OpEx, it should not be your concern.
+Vernon Essi - Needham & Company
+Okay. And I just want a clarification on last point; I appreciate the answers here. Just to switch gears to lighting, and I won't bring up audio amplifiers, since Iâve followed you long enough, Michael. But going back to that revenue segment, it's been sort of flattish over the last couple of years. Can you go over the mix that's transitioned from sort of the backlighting and notebook area into general lighting over the last two years, just to get a feel for what has happened behind the scenes?
+Meera Rao
+Sure. As you know that a good portion of our revenue in the lighting controlled portion of it used to be all backlighting and we have been seeing this a transition more into LED lighting. And I think if you look at the most recent year, I'd say a bigger portion of our revenue is coming from LED lighting.
+Michael Hsing
+
+So it is transitioning from the backlighting to LED lighting now.
+Vernon Essi - Needham & Company
+Sure, but I guess what I am trying to under is how much -- I am assuming the bulk of this year is gen -- or excuse me, 2013 was general and then like give us an idea of how much was general versus backlighting in 2012, just to understand how much general versus lighting while the other one is declining.
+Michael Hsing
+
+Yeah, I think that Meera said that. As Meera implies more than half of it right is the LED lighting and to be more specific is these lightings not really consumer lightings and we are really targeting industrial and the commercial lightings. And so our solution, you wonât get it from these hardware stores for residential use, more in the industrial use.
+Vernon Essi - Needham & Company
+I know and I appreciate that. Okay, thanks. And then my last question, just to go back to the quantum module, the QS Mod, I guess thatâs what you are calling this product. And you talked about the PWM topology and how that works. And I just want to be clear on this, is this going to be basically sort of an envelope tracking solution that you could target into the core area or is this more of a point of load application in sort of an enterprise example, I mean just need to be more specific on that if you could please?
+Michael Hsing
+
+Our first product is clearly is for the core in the high current telecoms and with power solutions. And then we will -- our next generation of module will adapt that kind of approach. And with the programmable we can service our customer through internet.
+Vernon Essi - Needham & Company
+Okay. So just again, the backup...
+Michael Hsing
+
+Yeah. That would be in general application DC to DC.
+Vernon Essi - Needham & Company
+
+Okay. All right. That's helpful. Thanks a lot Michael, and thank you Meera.
+Michael Hsing
+
+Thank you. Yeah.
+Operator
+Our next question comes from the line of Rick Schafer with Oppenheimer. Your line is open.
+Rick Schafer - Oppenheimer
+Hey, thanks and Iâll add my congratulations guys. Couple of follow-up questions I guess here. First is, surprised to see consumer in compute up actually in the fourth quarter and comps and industrial down but despite sort of that unfavorable mix, your gross margins are still solid in 4Q. I guess where Iâm going with that is, given the better mix that we would assume for the first quarter and increased percent of BCD3 and BCD4, so lower cost production in 1Q. I guess Iâm surprised gross margins are just trending flat in the first quarter sequentially. Is that just a function of lower volumes, or is there anything else going on in there?
+Meera Rao
+I would say itâs a function of lower volumes of that. So, we expect margins to be similar to where we were in Q4 despite the lower revenues.
+Rick Schafer - Oppenheimer
+Okay. So it is just volume kind of as an offset for that sounds like?
+Meera Rao
+Yeah.
+Michael Hsing
+
+Itâs utilizations and volumes and volumes and also mix of products and that. But overall, it was a drop of some -- a few million bucks and then the margin was even much bigger change. And so where margin still stay pretty flat and that's due to just as you said it the newer product to a BCD for -- now theyâre really ramping up and so replaced older products. Thatâs the reason we can sustain the margins.
+Rick Schafer - Oppenheimer
+Yeah, got it, got it. And then talking about TV, you mentioned it briefly but you kind of gave us a frame reference on how big TV is? I guess would you consider that a stable business now? I mean has it basically been de-risking the model or do you consider it still sort of a drag as we look into 2014? And part of that question, do you see any other businesses that are acting as sort of a growth offset or a drag on the top-line this year?
+Meera Rao
+If you look at TV, the TV business in 2013 was down from 2012, but we actually expect based on design wins that we would probably be able to grow this some. So when I look all across at all our different products, I donât see anything in particular that would suggest that it will be a drag. Though I have to say that in consumer business, we look at each account by account to see which account we want to be able to support going forward. But I cannot think of an entire category or anything that weâre defocusing.
+Michael Hsing
+I am asking that you mentioned -- I think you mentioned TV; in the last few years we sort of want to minimize the concentration, but for this year and over the last year, I started looking at, there is a new application that is so called smart TV requires a higher current DC to DC. And very few players, very few suppliers, they can deliver cost effective solutions. And so MPS again, and think this year, at least Iâm not optimistic in that segment.
+Rick Schafer - Oppenheimer
+Great. And then my question is you know I think you mentioned in the last call or letâs talk anyway. Talking about the move to BCD5 next year and how thatâs probably a move or that when youâll move to potentially 12-inch wafer. And I am curious, should we be modeling any sort of step up in cost or anything as we look out, modeling our 2015 numbers, should we think it of any kind of cost step up ahead of that 12-inch move?
+Michael Hsing
+I think that you -- to improve a margin is really, really is the product directions. And we move away from the lower price market segments. So I think thatâs really the plus behind. Of course and continue to lower the cost and introduce a better technology that will help, but the main purpose is driving the performance. So for your model wise, okay, you look at our product lines and look at the product market segments, in all of them it should be higher than what the consumer product is.
+Rick Schafer - Oppenheimer
+Got it. Great, thanks Michael. Thank you, guys.
+Operator
+(Operator Instructions). Our next question comes from the line of Amit Chanda with Wells Fargo. Your line is open.
+Amit Chanda - Wells Fargo
+Hi. Thank you for taking my question. Michael, can you talk about the competitive environment associated with Shark Bay notebooks. Are you seeing any other competitors in the marketplace right now for a point of load solutions in Shark Bay? And if so, can you talk about how your products are differentiated relative to the competition?
+Michael Hsing
+Yeah, for the notebook side, we're not really a big player. We have some products for servers and for others. So we introduced the product to the notebook is very opportunistic. However, we do get some revenues out of this and we have pretty good margins, not [grey] margins. In this year I see that our product remains very competitive in that area. And I think we'll even gain some market shares in the notebook side.
+Amit Chanda - Wells Fargo
+Okay, that's helpful. Thank you. And then Meera can you maybe comment on your CapEx expectations for 2014?
+Meera Rao
+We've done a lot of investment already in our testers et cetera. So we think that our CapEx in 2014 is going to be down to below $10 million.
+Amit Chanda - Wells Fargo
+Okay, great. Thank you very much. I appreciate it.
+Meera Rao
+Welcome.
+Operator
+Our next question is a follow-up from the line of Patrick Wang from Evercore. Your line is open.
+Patrick Wang - Evercore
+Great, thanks. Just a quick follow-up, this is probably a silly question, but when we take a look at the March quarter and how you guys guided. The street was a little bit higher than the midpoint of your guidance here. So, I'm just kind of curious from your perspective, do you think it's just Wall Street getting a little bit too excited or were there any particular areas that are a little bit weaker was it maybe perhaps Chinese New Year. Can you just talk about that a bit it could be a very simple answer in a sense that maybe we are all too excited, but just curious what you think?
+Meera Rao
+
+Sure. I think it was just a consumer business the seasonality that we had following a very strong Q4 where consumer was about 45% of our revenues and it also included areas like gaming which have seasonality going into Q1. And we saw, particularly in December, we saw -- we had higher shipments in December than is typical for us. So I think everything combined together, I feel very comfortable with the guidance that we have and constitute here the Streetâs expectation.
+Michael Hsing
+
+Well, and I can say that okay all the analysts who cover this theyâll be very, very knowledgeable. And you guys are not silly. When I look at it, I look at the Q1 I would say that in consumers in particularly in the second half of 2003 going up substantially and in the Q1 is a little bit softer. And so, we canât really -- in that kind of a business we really canât predict very accurate. So thatâs sort of my answer.
+Patrick Wang - Evercore
+Okay. So it seems like consumer is a bit stronger in the fourth quarter, so the sequential comp is a little bit steeper, but it seems like the consumer cycle probably does improve over the course of the year and this is probably the low point just from that standpoint?
+Meera Rao
+Absolutely, because Q2 and Q3 in particular tend to be very strong consumer quarters for us, plus you have all the other growth drivers in all the other areas that also ramp at the same time.
+Michael Hsing
+And traditionally in Q1 consumer is -- that's seasonality is the lowest to anyway. And I think that this year would be better than past years and then would have strong consumer content in the past years. But this year I would say that we have a high current product for TV and I think the consumer will continue to grow.
+Patrick Wang - Evercore
+
+Got it. And there was nothing other than ordinary in terms of Chinese New Year, I mean I know it happens every year, so it shouldnât be, but Iâm just curious if there is any variation there?
+Michael Hsing
+I think that may be this year or a little bit slightly earlier than the last years, because I canât say, I canât -- this is really a pinpoint. And we do see some of it that implies early shutdowns and that will affect the Q1 revenue particularly in a consumer site. But I donât see extraordinary will happen.
+Meera Rao
+And as I said, there are stronger shipments in December than is typical could be partly associated with it, but we did not want to necessarily jump to that conclusion.
+Amit Chanda - Wells Fargo
+
+Understood, thanks very much.
+Operator
+And Iâm not showing any further questions at this time. Iâd like to turn the call back over to Meera Rao for closing remarks.
+Meera Rao
+Thank you all for joining us for this earnings call. We look forward to talking to you again in April. Thank you. And have a nice day.
+Michael Hsing
+Thank you.
+Operator
+Ladies and gentlemen, thank you for participating in todayâs conference. This does conclude the program. And you may all disconnect. Everyone have a good day.

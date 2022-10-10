@@ -1,0 +1,265 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q2 2017 Earnings Call July 25, 2017 5:00 PM ET
+Executives
+Laura Graves - Advanced Micro Devices, Inc.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Devinder Kumar - Advanced Micro Devices, Inc.
+Analysts
+Mark Lipacis - Jefferies LLC
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+David M. Wong - Wells Fargo Securities LLC
+Ambrish Srivastava - BMO Capital Markets (United States)
+Kevin Edward Cassidy - Stifel, Nicolaus & Co., Inc.
+Vivek Arya - Bank of America Merrill Lynch
+Joseph L. Moore - Morgan Stanley & Co. LLC
+Hans Mosesmann - Rosenblatt Securities, Inc.
+John W. Pitzer - Credit Suisse Securities (USA) LLC
+Vijay Raghavan Rakesh - Mizuho Securities USA, Inc.
+Blayne Curtis - Barclays Capital, Inc.
+Operator
+Greetings and welcome to the Advanced Micro Devices Second Quarter 2017 Conference Call. As a reminder, this conference is being recorded.
+It is now my pleasure to introduce your host, Laura Graves, Vice President of Investor Relations. Please go ahead.
+Laura Graves - Advanced Micro Devices, Inc.
+Thank you, and welcome to AMD's second quarter conference call. By now you should have had the opportunity to review a copy of our earnings release and the CFO Commentary and slides. If you have not reviewed these documents, they can be found on AMD's website at ir.amd.com.
+Participants on today's call are Dr. Lisa Su, our President and Chief Executive Officer, and Devinder Kumar, our Senior Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on amd.com.
+I would like to highlight a few key dates for you. Mark Papermaster, Senior Vice President and Chief Technology Officer, will present at the Canaccord Genuity Global Growth Conference on August 9. Raja Koduri, Senior Vice President and Chief Architect of Radeon Technologies Group, will present at the Jefferies Semiconductors, Hardware and Communications Infrastructure Summit on August 30. Forrest Norrod, Senior Vice President and General Manager of our Enterprise, Embedded, and Semi-Custom Business Group, will present at the Deutsche Bank Technology Conference on September 12. And our third quarter quiet time will begin at the close of business on Friday, September 15, 2017.
+Today's discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date, and as such involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Additionally, please note that we will be referring to non-GAAP financials during this call, except for revenue and segment operating income or loss, which is on a GAAP basis. The non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measure in the press release and CFO Commentary, posted on our website at quarterlyearnings.amd.com.
+Please refer to the cautionary statement in today's earnings press release and CFO Commentary for more information. You'll also find detailed discussions about our risk factors in our filings with the SEC, and in particular, AMD's quarterly report on Form 10-Q for the quarter ended April 1, 2017.
+Now, with that, I will hand the call over to Lisa. Lisa?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Thank you, Laura, and good afternoon to all those listening in today. Q2 was a strong quarter for us as we continued to ramp our high-performance product portfolio. Second quarter revenue increased 19% to $1.22 billion, and gross margin improved year-over-year. Importantly, we returned to non-GAAP net income profitability in the quarter, driven by strong growth in our Computing and Graphics segment.
+Looking at our Computing and Graphics segment, we made excellent progress in the quarter and reported operating profitability for the first time in three years based on our leadership Ryzen processor and GPU product offerings.
+The expansion and growing adoption of our Ryzen CPUs, combined with our sixth consecutive quarter of double-digit year-over-year Graphics revenue growth, resulted in a 51% increase in Computing and Graphics segment sales year-over-year.
+Client computing revenue increased by strong double-digit percentage from a year ago, driven by a significant ramp and strong sell-through of our Ryzen CPUs in the first full quarter of sales. Our Ryzen family of processors drove a richer mix of shipments and client ASPs improved significantly from a year ago.
+All major PC OEMs have announced premium Ryzen-based desktop systems, with widespread availability expected for the back-to-school and holiday seasons. As we move into the second half of 2017, we are on track to complete the full family of Ryzen processors, including Ryzen 3 processors targeting the mainstream and value market segments with on-Shop availability later this week; Ryzen Threadripper products for the high-end desktop markets with global component channel availability in early August; Ryzen PRO-based offerings targeting the commercial client segments with availability in Q3; and Ryzen Mobile APUs, which will be available for the consumer market later this year.
+In Graphics, GPU revenue increased by a strong double-digit percentage from year ago, with higher unit shipments and ASPs driving growth across our desktop and mobile GPU products. Demand for Radeon RX GPUs was strong in the quarter, driven by gaming and cryptocurrency mining.
+In June, we began the introduction of our Vega GPU architecture with the launch of the Radeon Vega Frontier Edition, delivering a powerful professional workstation graphics card designed to tackle demanding design, rendering and machine intelligence workloads.
+Apple announced that our Radeon Pro Vega product will power the new iMac Pro, a workstation-class product line designed for creators running the most demanding workflows. In addition, Apple also announced expanded iMac offerings, which are powered by the Radeon Pro 500 Series.
+We will launch additional Radeon Vega products at SIGGRAPH next week, expanding further in the premium portions of the consumer and professional GPU markets. Our investments in GPU compute and Radeon Instinct are continuing to build momentum. We introduced our first Vega-based Radeon Instinct datacenter products in June. These new GPU accelerators will significantly increase performance, efficiency and ease of implementation for machine learning and high-performance computing workloads.
+We also showcased a server powered by AMD's EPYC SoC and four Radeon Instinct MI25 accelerators working together to deliver groundbreaking performance of 100 teraFLOPS. Interest and excitement are high as we recently started shipments of our Radeon Instinct MI25 accelerators to strategic datacenter customers.
+Turning to our Enterprise, Embedded and Semi-Custom segment, revenue declined 5% year-over-year and increased 44% sequentially. The sequential revenue gains were primarily based on higher Semi-Custom product shipments due to seasonality. In addition, we reached an important milestone in the quarter, delivering initial EPYC server revenue.
+In our semi-custom business, unit shipments were up sequentially and down year-over-year as we enter the fifth year of the current game console sales cycle. This console cycle continues to outpace previous cycles as Sony recently passed a milestone of 60 million PlayStation 4 consoles shipped.
+Last month, Microsoft announced the new Xbox One X with availability in November. This system will be Microsoft's smallest and most powerful Xbox ever made and will be based on the combination of high-performance CPU and GPU IP that only AMD can provide. As we look at the remainder of the year and given the maturity of the current game console cycle, we expect semi-custom revenue to be down for the full year.
+In our server business, last month, we launched our EPYC family of high-performance datacenter processors, reentering the incredibly important $16 billion datacenter market and setting several new industry performance records. With up to 32 high-performance Zen cores and an unparalleled feature set, our EPYC family of processors deliver greater competitive performance at every price point across a full range of integer, floating point, memory bandwidth and I/O benchmarks and workloads. Our two-socket and one-socket EPYC CPUs are designed to deliver industry-leading performance on critical enterprise, cloud and machine intelligence workloads and provide a substantial TCO advantage.
+At our EPYC launch event, we were joined by more than 20 leading server manufacturers and global ecosystem partners who showcased optimized support and EPYC-optimized platforms. We received compelling endorsements from OEM, cloud providers and mega datacenter operators, including HP Enterprise, Dell, Baidu, and Microsoft Azure, with more than 20 EPYC-based platforms announced at launch. And we expect an additional 20 EPYC platforms to be available in the second half of 2017. With the strong global ecosystem and customer interest we have built around our EPYC processor family, we are on track to reenter the datacenter market in a major way.
+In closing, we are very pleased with the trend of our quarterly results and how our products are positioned heading into the back half of the year. Our business foundation and growth opportunities are strong, based on our high-performance product portfolio and our expanding customer traction.
+Given our first half 2017 performance and our visibility into the third quarter, we are happy to report we are progressing ahead of our annual revenue guidance and we look forward to a strong year overall.
+Now I'd like to turn the call over to Devinder to provide some additional color on our second quarter financial performance. Devinder?
+Devinder Kumar - Advanced Micro Devices, Inc.
+Thank you, Lisa, and good afternoon everyone. For the second quarter of 2017, AMD revenue grew 19% and gross margin expanded on a year-over-year basis, driven by a 51% year-over-year revenue increase in our Computing and Graphics segment. We achieved non-GAAP profitability on both an operating and net basis with net income of $19 million and diluted earnings per share of $0.02. Let me provide more specifics for the quarter.
+Gross margin was 33%, up 2 percentage points year-over-year due to a richer product mix and a higher percentage of revenue from our Computing and Graphics segment, driven by the first full quarter of Ryzen processor sales. Operating expenses were $381 million compared to $342 million a year ago. The increase was due primarily to higher graphics and datacenter R&D related investments.
+Net licensing gain from our server JV with THATIC was $25 million compared to $26 million a year ago, and we have recognized a total of approximately $140 million of net licensing gain to-date. The remaining payments are related to production milestones and are expected to occur in 2018 and beyond.
+Operating income was $49 million in the second quarter of 2017, a significant improvement from an operating income of $3 million a year ago.
+Second quarter net interest expense, taxes and other was $30 million, down from $43 million a year ago, primarily due to a lower overall interest rate and a lower debt balance. Net income was $19 million, or diluted earnings per share of $0.02, as compared to a net loss of $40 million, or loss per share of $0.05 a year ago. Adjusted EBITDA was $84 million compared to $36 million a year ago and $28 million in the prior quarter.
+Now turning to the business segments. Computing and Graphics segment revenue was $659 million, up 51% year-over-year and up 11% sequentially. The year-over-year increase was driven by demand for our Ryzen desktop processors and graphics processors. Computing and Graphics segment operating income was $7 million, the first quarterly operating profit in three years, compared to a loss of $81 million a year ago. The significant improvement was primarily due to higher revenue and an improved product mix.
+Enterprise, Embedded and Semi-Custom revenue was $563 million, down 5% year-over-year, primarily due to lower semi-custom SoC sales. Revenue was up 44% sequentially due to the seasonal semi-custom ramp. Additionally in the quarter, we reached an important milestone and recognized initial revenue from EPYC datacenter processor shipments. Operating income was $42 million, down from $84 million a year ago, due primarily to lower revenue and higher datacenter related R&D investments.
+Turning to the balance sheet, our cash, cash equivalents and marketable securities totaled $844 million at the end of the quarter compared to $943 million at the end of the prior quarter, due primarily to changes in working capital, largely driven by wafer purchases in anticipation of stronger revenue growth in the third quarter.
+Inventory at the end of the quarter was $833 million, down slightly from the prior quarter of $839 million. Long-term debt on the balance sheet was $1.38 billion. Total principal debt, including our secured revolving line of credit, was $1.74 billion. In Q2, we repurchased $40 million of term debt, utilizing our lower-cost secured revolving line of credit. Free cash flow was negative $94 million, due primarily to changes in working capital, largely driven by wafer purchases.
+Turning to our outlook for the third quarter of 2017, which is a 13-week quarter, we expect revenue to increase approximately 23% sequentially, plus or minus 3%. At the midpoint, this equates to revenue growth of approximately 15% year-over-year. We now expect: annual 2017 revenue to increase a mid- to high-teens percentage year-over-year compared to our prior guidance of low double-digit growth; non-GAAP gross margin to be approximately 34%; non-GAAP operating expenses to be approximately $400 million; non-GAAP interest expense, taxes and other to be approximately $28 million; and inventory to be down sequentially.
+Third quarter diluted share count for modeling non-GAAP EPS is expected to be approximately 1.14 billion. This includes shares related to our 2026 Convertible Senior Notes and the warrant held by Mubadala entity. Additional information regarding diluted share count calculation can be found in the CFO Commentary.
+In closing, Q2 was a strong quarter, and our financial performance continues to improve. As Lisa shared in her remarks, our business continues to strengthen as we ramp new high-performance products and expand our presence in premium markets. We are pleased with the strong growth in revenue, coupled with improving gross margin on the back of focused execution, financial discipline and ongoing strategic investments in the business.
+With that, I'll turn it back to Laura. Laura?
+Laura Graves - Advanced Micro Devices, Inc.
+Thank you. Thank you, Devinder. And, Operator, we're ready for our first question to begin Q&A.
+Question-and-Answer Session
+Operator
+Certainly. We'll now be conducting a question-and-answer session. Our first question today is coming from Mark Lipacis from Jefferies. Please proceed with your question.
+Mark Lipacis - Jefferies LLC
+Hi. Thanks for taking my question, and congrats on getting back into the black on C&G. The question is on EPYC, and I'm hoping that you can provide us some more color about how the reception is going and how we should think about milestones going forward. And I'm wondering if you can tell us about the number of different trials or where you're seeing the most traction? And when you would expect this to ship into production environment in the Super 7 cloud guys? Thank you.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Sure, Mark. Thanks for your questions. So we are very pleased with the reception to EPYC. The launch that we did in June was very well-received. We had a number of customers as well as partners, OEM providers, ODM guys, as well as cloud providers who participated in that. The general reception has been very positive. I would say that interest level is very high. In fact, we're adding additional customer support to really ensure that we help customers get their platforms up and running.
+In terms of what to expect in the revenue ramp, we started shipping early volume in the second half of June. We would expect that we continue to ramp that revenue through the second half of the year. We would expect some additional customer announcements in the second half of the year.
+And then as we stated with both cloud and the enterprise accounts, depending on their qualification cycles, it can take anywhere up to four quarters to qualify the parts. But so far so good. I think very good traction, and we continue to lean in hard on the datacenter opportunities.
+Mark Lipacis - Jefferies LLC
+Thank you. That's very helpful. And a follow-up, if I may. You mentioned crypto as helping the GPU side. That can be a dual-edged sword. And I was wondering if you can help, perhaps, quantify like what that did to the upside? And is there any way to manage the risk of the minors breaking down their systems and putting it to the secondary market when the currency comes back down? Thank you.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Sure, Mark. So certainly the overall quarter for Graphics was strong. Q2 tends to be seasonally down, and we were up in the quarter. So it was better than seasonal. I would say the better performance was due to two things. First of all, we did launch our RX 580 and RX 570 gaming cards in April. And those cards are very, very well-positioned in the market, so they're doing well with gamers.
+Relative to cryptocurrency, we have seen some elevated demand. If you look at GPUs across the world, the inventory in the channel is actually quite lean. And so we're working on replenishing that inventory.
+Our priority, though, really is on our core market, which is the gaming market. And so a couple of things that we are certainly doing are we're prioritizing supply towards the gaming market. So you'll see system integrators, as well as on some of the major e-tailers we have bundles with Ryzen and Radeon.
+And then some of our partners are also offering mining specific cards that have a different feature set, such that we're really segmenting the market between gaming and mining. But it's important to say we didn't have cryptocurrency in our forecast, and we're not looking at it as a long-term growth driver. But we'll certainly continue to watch the developments around the blockchain technologies as they go forward.
+Mark Lipacis - Jefferies LLC
+Very helpful. Thank you.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Thanks, Mark.
+Laura Graves - Advanced Micro Devices, Inc.
+Operator, Next question, please.
+Operator
+Our next question today is coming from Matt Ramsay from Canaccord Genuity. Please proceed with your question.
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+Thank you very much. Good afternoon. Lisa, I wanted to ask a little bit about the longer-term road map in your businesses across the CPU and GPU side. It occurs to me and there are some of the conversations we've had, particularly in the enterprise markets of high-end desktop and server that some of the purchasing decisions made by your customers might be sort of dictated by how confident they are in the long-term road map that you guys are putting together as you move to 7-nanometer versus just the products that you've launched so far. So maybe you could talk a little bit about the road maps, how they're developing, and the progress that the team is seeing on the 7-nanometer front. Thanks.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Sure, Matt. So, look, I think the overall road map execution has been very good, very solid. I think our customers see that Ryzen performance, the EPYC performance on the CPU side, and then certainly the Vega performance on the GPU side have met our commitments.
+And the important thing, particularly in the enterprise market, as well as the commercial market, having a road map â a strong road map with multiple generations is important. We stated at our Financial Analyst Day that we're already investing heavily in 7-nanometer. The 7-nanometer will be key for us on both the CPU and the GPU side. And I would say that development is progressing well. We're working with multiple foundries on that. We have multiple design teams that are working, and we expect that that will give us a strong competitive road map for the next several generations.
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+All right. Thank you for that, Lisa. And a couple questions quickly for Devinder. I guess the first one is on share count. There was obviously some movement higher in the share count due to the in the money converts. Maybe you could talk us through if you were modeling maybe your business on a long term from an earnings power perspective, how would you think about modeling that share count?
+And then secondly, on the operating expense line, there's plenty to invest in here. But how should we think about that as we move through the year and into next year? Thanks.
+Devinder Kumar - Advanced Micro Devices, Inc.
+Yeah. Thank you, Matt. I think on the share count, basically, beyond the basic shares, the dilutive impact comes from three components. You have the employee equity grants. You have the 75 million share warrant that we issued to Mubadala in 2016. And you have the 101 million shares underlying our $805 million convertible note.
+The good news is that you start making money and you get beyond inflection points. All of that gets included in diluted share count. So I think given what we have laid out as guidance, in particular in the Financial Analyst Day, the assumption should be as you model profitability in the company, those shares get included. We have provided color in the commentary. And for Q3, we're estimating that the total share count is about $1.14 billion (sic) [1.14 billion shares].
+As far as the OpEx is concerned, we are obviously with the strength in the business performing stronger. We are making targeted investments, particularly in R&D. We have included and invested in targeted R&D areas. And also in 2017, I think there are some employee-related performance incentives that are included in our current guidance given the fact that the business is performing stronger than anticipated. Lisa, anything you want to add?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. No, I think you covered it, Devinder. On the investment front, Matt, just to give you a little bit more color on that, I think we see tremendous opportunity in the datacenter around both CPU and GPU compute. And so we're taking the opportunity with some of the strength in the business to make sure we lean in to those resources and fully pay off the product investments.
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+Thank you very much.
+Operator
+Thank you. Our next question today is coming from Ross Seymore from Deutsche Bank. Please proceed with your question.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Thanks for letting me ask a question. Lisa, one for you first on the client ASPs. I know the Ryzen side, the mix had to go up, and those carry much better ASPs, but the client category as a whole the ASPs went down. So if you just think about going forward, when do the size of the buckets work, the Ryzen contribution will be big enough to offset whatever was the headwind against that in the second quarter?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. Good question, Ross. When you take a look at our client business, think of it as desktop and mobile. And then within the desktop segment, it's channel and OEM. So Ryzen performed very well. I think the ASP contribution is very evident on the desktop line item. But when we look at where we are in the progression of the Ryzen rollout, we're still in the early innings. So we had our first full quarter of Ryzen Desktop in the channel. The OEMs launch their desktop products in about mid-June, and so they just started selling at the end of June. And that will flow through into the second half of the year.
+And the mobile products are still our legacy products. So you saw the mobile ASPs were down slightly as we went from Q1 to Q2, and that was just a mix on some of the legacy business. But the desktop ASPs were quite strong. And we should expect that as we go into the second half of the year and we have Ryzen really take off in the OEM sectors as well as once we introduce Ryzen Mobile towards the second half of the year is when you'll see sort of more of the full portfolio over to Ryzen. Does that help?
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+It does. And a related follow-up on that is just transitioning those ASP and mix commentaries over to the actual gross margin. The full-year revenue guidance is increased again. Just recently you guys did it at the Analyst Meeting. Now you're doing it again. So that's clearly a positive. It seems like the C&G side of things is what's driving that, given your commentary in the game console side being down. So given everything you just said about the mix improving in the back half of the year and the revenues now being higher, I'm a little surprised the gross margin guidance didn't change for the year. So if we translate everything you just said, Lisa, to a gross margin dynamic, can you help us kind of make all of that make sense as well?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yes. So I think you summarized the revenue guidance well. I think we see the Computing and Graphics business accelerating on the strength of the new products. We do have a bit of a year-over-year headwind when we compare game consoles. When you look at our Q3 margin guidance, we are certainly up year-over-year 3 points, and so I think that's the strength of the product portfolio. I think as we get into the Q4 guidance, we'll talk more about the margin progression. But what we expected in terms of margin expansion with the premium products is certainly playing out, and that's helping the Q3 guide.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Thank you.
+Operator
+Thank you. Our next question today is coming from David Wong from Wells Fargo. Please proceed with your question.
+David M. Wong - Wells Fargo Securities LLC
+Thanks very much. Can you give us some idea of whether your September guidance assumes any meaningful contribution from Vega sales for gaming in the September quarter?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yes, David. We will be launching Vega, actually, in a week at SIGGRAPH. And yes, Vega will be shipping into gaming, into professional workstations, as well as into the GPU compute segment in the third quarter.
+David M. Wong - Wells Fargo Securities LLC
+And can you update us on your expectations for launch timing of Ryzen notebook chips and if you expect there to be revenues from Ryzen notebook in December?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yes. So Ryzen notebook is on track to launch for the holiday platform sales, and so you should see OEMs launching Ryzen Mobile for the holiday period. So yes, we will see revenue in the second half of the year.
+David M. Wong - Wells Fargo Securities LLC
+Thanks very much.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Thanks, David.
+Laura Graves - Advanced Micro Devices, Inc.
+Thanks, David. Next question, please.
+Operator
+Our next question today is coming from Ambrish Srivastava from BMO Capital Markets. Please proceed with your question.
+Ambrish Srivastava - BMO Capital Markets (United States)
+My question, first one, was on free cash flow. It's negative again, and for the first half, minus $420 million if my math is right. So, Devinder, when does free cash flow turn positive? And then I had a follow-up, please.
+Devinder Kumar - Advanced Micro Devices, Inc.
+Yeah, I think 2016, if you go back and look at the full year, because of the seasonality of our business, we were positive. From a viewpoint of midpoint of 2017, we do see strength in the business. You are right, cash is down with the changes in working capital, and it's largely driven by wafer purchases in support of the stronger second half and, in particular, the stronger business that we are seeing. We expect cash to be up for the quarter this quarter and to be free cash flow positive for the year.
+Ambrish Srivastava - BMO Capital Markets (United States)
+Okay. And then my follow-up is, Lisa, on the crypto question that Mark had asked earlier, I'm not sure you gave an answer to, or maybe Mark didn't ask that, are you seeing follow-on strength from that in the current quarter? And we realize it's not a core part of your business, but why or why not is it not similar to what happened in 2014? Thank you.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Sure, Ambrish. So I think from an overall standpoint, we see strong demand in graphics for the third quarter. I think that's a mix of a couple things. That's a mix of gaming being seasonally stronger in the third quarter. That's a mix of inventories being very low in the channel. And there is a crypto â probably, a cryptocurrency component as well relative to overall demand.
+When we look at it as a whole, though, we think that the growth in the business is really on the strength of the products and how the design wins, both OEM and as well as system integrators are improving.
+Now, how is it different than sort of a couple of years ago? I think we understand the market much better from the standpoint of the products are significantly stronger. And so if you look at the product portfolio, not just the current sort of Polaris or RX 5 Series products, but the Vega product coming in, really opens up a larger TAM for us.
+And we are working with our add-in board partners to segment the markets in terms of the feature set that go into the cards, as well as prioritizing some of the gamer ecosystems. So in terms of system integrator supply as well as bundling and OEM supply. So I think we are doing quite a bit to make sure that we protect against any downside as it relates to cryptocurrency. But overall, I would view it as GPUs are strong, and we see GPUs continuing to be strong, and so it's a great market to be in.
+Ambrish Srivastava - BMO Capital Markets (United States)
+Okay. Thank you.
+Operator
+Thank you. Our next question today is coming from Kevin Cassidy from Stifel. Please proceed with your question.
+Kevin Edward Cassidy - Stifel, Nicolaus & Co., Inc.
+Thanks for taking my question. And maybe just as a follow-up to that, inventories being down going into this quarter and with all your new product ramps, is it down mainly just because of GPUs, or is there something else?
+Devinder Kumar - Advanced Micro Devices, Inc.
+I think it's â if you look at the inventory, in fact, if you look at it from my standpoint, the strength of the business, there's revenue growth, we're obviously buying wafers in support of the stronger revenue. Some of the ramp in new products does have an impact on the inventory, want to support all of the new product ramps. It's down marginally in the quarter, but I expect that in Q3 it will go down. And then we have previously guided down year over year, so I expect when we end the year, it'll be down in 2017 compared to 2016, while fully supporting the needs of the business.
+Kevin Edward Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay. And I guess for the server side, how are you building inventory for that? Or is that a longer design cycle so that you don't really start building inventory?
+Devinder Kumar - Advanced Micro Devices, Inc.
+I think the server side...
+Kevin Edward Cassidy - Stifel, Nicolaus & Co., Inc.
+For the EPYC.
+Devinder Kumar - Advanced Micro Devices, Inc.
+Yeah, it's a smaller portion. I mean, the ramp in EPYC, as you probably heard us say, is slower than in other businesses, so from â if you look at it, total inventory, the server portion of inventory is not that huge.
+Kevin Edward Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay, great. Thank you.
+Operator
+Thank you. Our next question today is coming from Vivek Arya from Bank of America Merrill Lynch. Please proceed with your question.
+Vivek Arya - Bank of America Merrill Lynch
+Thanks for taking my question and congratulations on the good sales growth. Lisa, for my first question, if I go back in history, at one point, AMD had a 20% plus share in server CPUs, and I appreciate we are far off from that point right now, but I just want to know conceptually, what are you doing or can do to recreate those conditions? Or do you think the environment is very different this time around?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, Vivek, I think we are actually very pleased with sort of the conditions around the server market for us. I mean, it all starts as a good product or a great product. And so I think the EPYC product performance is very important.
+But I think the other conditions that are different and perhaps even more favorable than in the past is the fact that the cloud datacenter guys are making up such a large piece of the market and they tend to move faster in their qualification cycles given the fact that they have more control of their own software environment. So I think our differentiation is strong. I think we have â we put out a product that is not only strong on basic CPU performance, but also offers much more flexibility in terms of what you can do with memory and I/O. I think that value proposition is recognized by the customer set. So we certainly are looking to ramp the revenue as fast as possible.
+Vivek Arya - Bank of America Merrill Lynch
+Got it. And for my follow-up, as you are starting to become more competitive against Intel and NVIDIA, are you seeing a competitive response from them in terms of pricing or features or go-to-market strategy that you might need to respond to?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Obviously, we continue to watch the competitive market. It's been an exciting market. Some would say from a product standpoint there has been a bit of back-and-forth already. We feel good about how our products are positioned not just today, but how they will be positioned over the next 18 to 24 months. And so we're going to be very focused on ensuring that we lead with the product message. Of course, there's a go-to-market element and all of that around that, but I think the competitive environment right now is very focused on product competitiveness.
+Vivek Arya - Bank of America Merrill Lynch
+And maybe a quick follow-up on that, Lisa, if I might. When Ryzen initially rolled out, I think some of the benchmarks were not up to par. Have you seen an improvement in that? And especially as you roll out EPYC, are you seeing the ecosystem come and work around your product, so those benchmarks are not going to be an issue this time around?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. So I think, Vivek, you're referring to when we initially launched Ryzen 7, there were some games, particularly in 1080p resolution, that were not as good as some of the higher resolutions. I believe we've worked around a lot of that. We've seen game developers, content developers really sort of support the Ryzen ecosystem.
+I've actually been very happy with how they've jumped on the support of it. We have been continuing to improve the ecosystem, so if you look at the motherboards and if you look at the memory capability, they've significantly improved just in last three or four months. I think you'll see as we go through Threadripper launch, which is coming up very shortly, that the Ryzen ecosystem is strong.
+And as it relates to EPYC, I think very similar comments. I think the ecosystem has been very supportive of the EPYC processor family, and so I don't see that as an issue.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you.
+Laura Graves - Advanced Micro Devices, Inc.
+Thanks, Vivek. Next question, please.
+Operator
+Our next question is coming from Joe Moore from Morgan Stanley. Please proceed with your question.
+Laura Graves - Advanced Micro Devices, Inc.
+Hi, Joe.
+Joseph L. Moore - Morgan Stanley & Co. LLC
+Hi. Great. Thank you. I wonder if you could talk a little bit about, as we think about EPYC for next year, how do you think we should frame that opportunity? Is it mostly a cloud sort of top-tier cloud customer that's going to drive that revenue? Is it sort of next level down cloud customer going to drive significant revenue and then enterprise next year? I mean, how would you sort of bucket those three things in terms of where the EPYC potential lies?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. I would say, Joe, we have a broad set of customers that we're engaging with. So, definitely we see top-tier cloud guys very engaged with EPYC and talking about a number of different instances. Microsoft Azure was at our launch event, and Baidu was at our launch event, and we're working with a number of other cloud vendors as well.
+But we also have a very strong OEM support base as well. So with HPE and Dell putting out a number of platforms with EPYC, I think that will ramp enterprise customers in 2018 as well. So I view it as really both sides of the equation are important for 2018. I think we will see cloud be a little lumpier, so certainly they tend to buy in stages. So they may be a little bit lumpier, but I think overall we are very focused on both cloud and enterprise accounts.
+Joseph L. Moore - Morgan Stanley & Co. LLC
+Okay. Thank you for that. And then circling back quickly to the inventory issues that you talked about in graphics, it seems like they're quite lean and in some cases in shortage. Is that completely a function of demand? Were there any supply issues in the quarter? And how quickly â do you perceive that as an issue? And if so like how quickly do you fix it?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. Joe, it was completely a function of demand, demand within lead time. I think from a supply standpoint we've had a very strong supply chain across the board, across both CPU and GPUs. We are, as I said, in the process of catching up to demand, and so we're certainly increasing some of the production, and that was Devinder's comment about some of the working capital and some of the inventory comments.
+Overall, though, I think we're going into a stronger second half of the year. So it's not unexpected for us to ramp up production. It's just demand was quite strong, particularly in the April, May timeframe is when we saw a spike, and it takes some time to react to those signals.
+Joseph L. Moore - Morgan Stanley & Co. LLC
+Great. Thank you very much.
+Operator
+Thank you. Our next question is coming from Hans Mosesmann from Rosenblatt Securities. Please proceed with your question.
+Hans Mosesmann - Rosenblatt Securities, Inc.
+Thanks. Hey, Lisa, can you give us a sense of how EPYC is doing in virtualized environments? There might be some issues regarding compatibility with the other x86 suppliers and how you would go through that process over the next several quarters. Thank you.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. Again, Hans, I think we have been working closely with a number of different customers, including in virtualized environments. We see no particular issues, other than just getting their platforms up and running. And so I think we continue to believe EPYC will do very well in those environments.
+Hans Mosesmann - Rosenblatt Securities, Inc.
+Okay. And then as a follow-up, can you give us a sense now that EPYC is out, what the feedback is from your customers, cloud or OEM, regarding your packaging approach in terms of using a multi-chip module type approach versus a monolithic silicon approach?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. Hans, actually, the feedback has been actually quite good. And I think, what we are able to do â obviously, it's a decision to make, right? We could've built one big monolithic chip, or we decided very strategically to build a modular approach, because it just gives us so much flexibility when we talk about the combination of CPU cores and I/O. So, so far so good. I think there is some work to do to make sure that the latencies are appropriately taken care of, and the customers are working with us on that. I think the flexibility is really, really appreciated, particularly when you look at what we can do with single-socket servers as well. So we feel very good about where EPYC is positioned. I think the customer feedback continues to be very strong, and our goal is to get as many platforms out as possible with EPYC this year.
+Hans Mosesmann - Rosenblatt Securities, Inc.
+Great. Thank you.
+Operator
+Thank you. Our next question today is coming from John Pitzer from Credit Suisse. Please proceed with your question.
+John W. Pitzer - Credit Suisse Securities (USA) LLC
+Yeah. Good afternoon, guys. Thanks for letting me ask the question, and congratulations on the strong results. Lisa, notwithstanding the possibility that you guys beat your revised guidance you just gave today, if you just go by the revised guidance it's kind of implying calendar fourth quarter revenue down about 10% sequentially, which is about in line with seasonal. Just kind of curious just given where you are in the product cycle for Ryzen and EPYC, why a seasonal quarter wouldn't be something that you could beat. And I guess, equally important, are you planning to stay profitable in the calendar fourth quarter if it is down seasonal, just given the trajectory of OpEx?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. So yes, John. Let me answer that. When you look at our typical seasonality, as you said, we tend to be down in Q4. Now, semi-custom is still a large, large piece of our business, and semi-custom will peak in Q3 and it will come down in Q4. I also think that we want to be cognizant of the fact that some of the graphics demand that we see might be temporal. So we're not counting on that staying through the full year. We'll see what happens. Frankly, I think we'll see what happens with the whole mining stuff.
+But I think when you look overall, I think that it shows that the business is strengthening. And so we like the growth very much. Ryzen will continue to grow through the second half. EPYC will continue to grow through the second half. Vega and our GPU business will continue to grow through the second half. And the only headwind that we have is sort of the game console business, just as part of normal seasonality. And then relative to the profit statement.
+Devinder Kumar - Advanced Micro Devices, Inc.
+I think it's hard to predict that right now, John. I think if you look at our guidance, as we said, revenue mid to high teens, which from our standpoint is 16%, 17-ish increase, and we'll get to Q4 when we get there.
+John W. Pitzer - Credit Suisse Securities (USA) LLC
+That's helpful. And then, Lisa, for my follow-up, R&D ticking up, which is absolutely the right thing to do for the longer term health of the business, but I'm just kind of curious if you could help me understand your sort of R&D priorities. To what extent is this uptick in R&D really to help bolster your position in existing markets versus sort of R&D dollars to go after new markets, whether that be acceleration, machine learning, or autonomous driving? How should I think about that?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. So I think there are a couple points, John, that I want to make sure that we're clear about. Although OpEx is going up and R&D is going up, we're doing it in a very thoughtful fashion, and so staying within the confines of the business model is really important. And as Devinder said earlier, our model that we laid out at Financial Analyst Day for 2017 has us, let's call it at approximately 31% ER, and we're going to stay within that model for sure.
+Now, relative to priorities in R&D, it is very much focused on sort of the new growth areas for us, very much focused on datacenter and very much focused on GPU compute, so around machine learning and sort of the entire compute space on the GPU side. It is fairly incremental in terms of adding things like customer support, field application engineering, software support, given that we're familiarizing people with our architecture. So I think it's good. We're happy that the business affords us the ability to increase R&D in this timeframe, and we're using it to accelerate our growth in these high-margin markets.
+John W. Pitzer - Credit Suisse Securities (USA) LLC
+Thank you.
+Laura Graves - Advanced Micro Devices, Inc.
+Thanks, John. Operator, we have time for two more questions, please.
+Operator
+Certainly. Our next question is coming from Vijay Rakesh from Mizuho. Please proceed with your question.
+Vijay Raghavan Rakesh - Mizuho Securities USA, Inc.
+Yeah. Hi. Thanks. First, Lisa, when you look at the EPYC, I know you said 20 customers already and then 20 more in the second half. Do you think that gets to 5% of your revenues, just the EPYC side of your revenues as you look at the third quarter? And should we assume pretty incrementally about, I don't know, not the 50% margins on your EPYC product, especially as it goes in the datacenter side?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+So, Vijay, without getting too granular about percentage of EPYC revenue, I think what we've said is our target for EPYC, we sort of have -- the midterm target is to get back to double-digit market share, so over 10%. We think that we have a product and a customer set in an environment that does support that. It will take longer than this year to get there, so I think this is the multiple-quarter ramp for us, but in terms of how we've laid out the business model, I mean, that's all contemplated sort of in our overall growth model for 2017. As it relates to margins, again, without being very specific, I would say the EPYC margins are highly accretive, even at our current sort of pricing, which offers, I would say, significant value to the customer. I think it also gives us significant credit for the capability of the product. And so the margins are accretive to our business model.
+Vijay Raghavan Rakesh - Mizuho Securities USA, Inc.
+Got it. Very helpful. Just on the Radeon Instinct side, too, can you give us some similar commentary on how you see in terms of customer adoption and what their response has been similar to EPYC?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Yes, yes. The Radeon Instinct, similarly, has a lot of interest from the marketplace. A number of different applications. We started shipping actually in July to some strategic datacenter customers. We see that interest continue to ramp. There I think it is â this is definitely a lumpy business, and so it goes â as a cloud guy puts on a new instance, you would see a larger buy. And that's the way it would work. But again, very good market. I think we're in the very early part of the growth trajectory for AMD in these markets. And we'll continue to invest and work closely with customers to ramp those platforms.
+Vijay Raghavan Rakesh - Mizuho Securities USA, Inc.
+Thanks.
+Laura Graves - Advanced Micro Devices, Inc.
+Thank you, Vijay.
+Operator
+Thank you. Our final question today is coming from Blayne Curtis from Barclays. Please proceed with your question.
+Blayne Curtis - Barclays Capital, Inc.
+Hey, guys. Thanks for squeezing me in. Lisa, just want to follow up on your comments on the cryptocurrency market. Just curious, what's your visibility into whether someone â obviously, they buy a dedicated card. It'd be easier to track. Just your visibility on the back-end as to where the strength in the overall GPU market is coming from. You mentioned as the third factor I think in September, but then mentioned it may impact December. And if you can just talk about in that full-year guide, are you factoring in any contribution in December?
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+We're being conservative in our estimates for what will happen as we get in the fourth quarter. I think the visibility is it's not â it's anyone's guess at this moment. However, I think what we are doing very clearly is prioritizing sort of the core customer set so that we're segmenting the market. You can never segment it perfectly, but I think we are segmenting it well. And we continue to be very closely in tune with our partners and how this develops. And my expectation is that there will be a leveling off of the demand at some point. And as we fill the channels, that will become clear what the level-off point is. But right now, as we said, the channel inventories are very low. And so it's hard to call the absolute demand, and we're ensuring that we're not over-calling the demand.
+Blayne Curtis - Barclays Capital, Inc.
+Thanks. And then just a question for Devinder. The OpEx stepped up in September, it's hard to tell from the full-year guide, 31% can round a bunch of different ways. Just curious if you expect any follow through in that increase in R&D into the December quarter?
+And then if you could just mention also timing of the JV payments? Obviously, you're not getting any in the back half of this year. Maybe you can talk about the milestones into next year and when those would come back as assets?
+Devinder Kumar - Advanced Micro Devices, Inc.
+Yeah, let me take the JV one first. I mean, as we said in the commentary in my prepared remarks, $140 million licensing gained on the THATIC server JV today. We got $52 million this year, and there's nothing more this year. The remaining payments are based on some production-related milestones, and those are in 2018 and beyond. And we'll update that as we get closer.
+As far as the OpEx is concerned, I think we've said a lot and we stand by what we said. We'll manage it in our guidance of expense to revenue ratio of approximately 31% for the year.
+Blayne Curtis - Barclays Capital, Inc.
+Okay. Thanks.
+Operator
+Thank you. We've reached the end of our question-and-answer session. I'd like to turn the floor back over to management for any further closing comments.
+Dr. Lisa T. Su - Advanced Micro Devices, Inc.
+Great. Thank you very much, Operator. We appreciate everyone being with us today. We look forward to spending more time with you in the coming quarter and thank you for your time.
+Operator
+Thank you. That does conclude today's teleconference. You may disconnect your line at this time, and have a wonderful day. We thank you for your participation today.

@@ -1,0 +1,270 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q2 2017 Results Earnings Conference Call July 26, 2017 4:30 AM ET
+Executives
+Kelly Blough - VP, IR
+Ken Xie - Founder, Chairman and CEO
+Drew Del Matto - CFO
+Analysts
+Rob Owens - KeyBanc Capital Markets
+Melissa Gorham - Morgan Stanley
+Gabriela Borges - Goldman Sachs
+Walter Pritchard - Citi
+Jayson Noland - Baird
+Jonathan Ho - William Blair
+Sterling Auty - JP Morgan
+Keith Bachman - Bank of Montreal
+Fatima Boolani - UBS
+Ken Talanian - Evercore ISI
+Michael Turitz - Raymond James
+Gregg Moskowitz - Cowen & Company
+Shaul Eyal - Oppenheimer
+Patrick Colville - Arete Research
+Saket Kalia - Barclays
+Tal Liani - Bank of America
+Mike Feldman - Bank of America
+Operator
+Good day, ladies and gentlemen, and thank you for your patience. You join the Fortinet Second Quarter 2017 Earnings Announcement. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] As a reminder, this conference may be recorded.
+I would now like to turn the call over to your host, Vice President of Investor Relations, Ms. Kelly Blough. Maâam, you may begin.
+Kelly Blough
+Thank you, operator, and thanks to everyone on the call for joining us this afternoon to discuss Fortinetâs financial results for the second quarter of 2017. With me today are Ken Xie, Fortinetâs Founder, Chairman and CEO; and Drew Del Matto, Fortinetâs CFO.
+Ken will begin our call by providing a high-level perspective on our business. Drew will then review our financial and operating results, and conclude with our forward guidance before opening up the call for questions. During Q&A, we ask that you please be conscious of limited time on this call, and make your questions brief to allow for others to participate.
+As a reminder, today weâre holding two calls. For those who have additional questions, we will hold a second conference call at 3:30 pm Pacific Time. Both calls will be webcast from our investor relations website.
+Before we begin, Iâd like to remind you that on the call today we will be making forward-looking statements. These forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected in these statements. Please refer to our SEC filings, in particular the risk factors on our most recent Form 10-K and Form 10-Q for more information. All forward-looking statements reflect our opinions only as of this date and we undertake no obligation, and specifically disclaim any obligation, to update our forward-looking statements.
+Also, please note that we will be discussing certain non-GAAP financial measures on this call. Our GAAP results and GAAP to non-GAAP reconciliations can be found in our earnings press release and on slides 11 and 12 of the presentation that accompany todayâs remarks. We also encourage you to refer to the Investor Relations section of our website for important information, including our earnings press release issued a few minutes ago, the slides that accompany todayâs prepared remarks, and other important information about the Company. A replay of this call will also be available on our website.
+I will now turn the call over to Ken.
+Ken Xie
+Thank you, Kelly, and thanks to everyone for joining todayâs call to discuss our second quarter 2017 results.
+In the second quarter, Fortinet again demonstrated strong leadership in the security market. We continue to grow revenue and billings above the market rates. Ongoing strength in subscription services is creating high-margin recurring revenue, and improving the predictability of our financial results. We are pleased that our operation margin and earnings per share well exceeded our guidance, and we remain committed to continued growth and operation margin improvement.
+The second quarter offered an important test of Fortinetâs technology leadership, as businesses and organizations small and large were hit with multiple ransomware attacks. The Fortinet Security Fabric provided customers with proactive and comprehensive protection, stopping the spread of Wannacry and Peyta through multiple, integrated, and automated lines of defense. At the first line of defense, FortiMail detected the malware from infected links, and if attachments were downloaded, FortiSandbox stopped the malware from entering the network. FortiGate blocked pfishing attempts, and FortiClient detected malware coming into organizations from external devices. FortiSwitch and FortiAP quarantined infected hosts, and stopped the ransomware from connecting to and encrypting file servers. Finally, FortiAnalyzer and FortiSIEM enable customers to monitor these and other security risks and react to them in real time.
+Fortinet is taking the lead in providing actionable threat intelligence through the use of our new cloud-based Threat Intelligence Service. Fortinet is partnering with global intelligence organizations such as NATO, and Interpol to combat cybercrime. Recently, our collaboration with Interpol led to the identification and shut down of 8,800 Command and Control servers and compromised websites, including government portals.
+We are proud to announce that Fortinet was recognized as a Leader in the 2017 Gartner
+Magic Quadrant for Enterprise Network Firewalls. The report evaluated the completeness of Fortinetâs Security Fabric vision and our ability to execute as factors for the inclusion in the Magic Quadrant. FortiGate Enterprise Firewall customers provided three times more reviews on Gartner Peer Insights than the nearest competitor. As a foundation of the Fortinet Security Fabric, the FortiGate Enterprise Firewall is the only solution that delivers the scale, automation, and performance needed to protect from the edge to the datacenter and from IoT to the Cloud.
+We also retained our status as a Leader in the Magic Quadrant for Unified Threat Management. For the eighth year in a row, Fortinet was recognized by Gartner for vision and ability to execute in the UTM category. Fortinet UTM technology reduces IT complexity for SMBs providing advanced protection, network performance, and unified visibility and control offered by the Fortinet Security Fabric. This innovative technology has made Fortinet the leading security provider and the largest market share holder in the UTM space. Additionally, IDC again named Fortinet the unit market share leader for security appliances shipped.
+In the second quarter, Fortinet demonstrated commitment to the leadership in cloud security. In April, we announced extension of the Fortinet Security Fabric to the cloud as part of our FortiOS 5.6 release. We also launched FortiCASB, extending the core capabilities of our Security Fabric architecture to provide businesses the same level of cybersecurity and threat intelligence in cloud environments as they do on their physical networks. And we enhanced FortiGate SD-WAN capabilities to enable distributed enterprises to apply Security Fabric visibility and control to their software-defined environments.
+During the second quarter, Fortinet expanded cloud security capabilities for Microsoft Azure and AWS customers. While many of our competitors are talking about their cloud solutions, the Fortinet Security Fabric delivers performance, effective security, and management across private and public cloud environments.
+More leading technology companies joined the Fortinet Security Fabric-Ready ecosystem in the second quarter. Microsoft joined the Fabric-Ready program to be able to deliver cloud security at scale for global enterprise corporations. To-date, Fortinet has 27 Fabric-Ready Program Partners, representing a cross-section of leading information technology providers including Cisco and Hewlett Packard Enterprise, whose offerings can integrate with the Fortinet Security Fabric.
+Fortinet offers the most open program in the market today, even allowing competitor products to integrate with the Fortinet Security Fabric. Our open approach offers customers the management, visibility and control benefits of the Fortinet Security Fabric within their existing environments, whether on-premise, in private clouds or in the public cloud.
+Fortinet is proud of the recognition by industry analysts of our market leadership and positioning in the Magic Quadrant for Enterprise Network Firewall and Unified Threat Management. We remain committed to maintaining this leadership position by investing in growth while making continued progress toward our profitability goals.
+I will now turn the call to Drew to review our second quarter financial results and forward guidance.
+Drew Del Matto
+Thank you, Ken. Let me now share our financial results for the second quarter, which can be seen on slide three.
+Fortinet had another strong quarter. Billings increased 14% year-over-year to $427 million. Revenue of $363 million dollars was up 17% year-over-year. Deferred revenue grew to $1,161 million, up 28% year-over-year, reflecting the ongoing business shift to more margin-rich, recurring subscription and service revenue. Our non-GAAP gross margin was 75%. Non-GAAP operating margin was 18%, and non-GAAP earnings per share were $0.27.
+We generated free cash flow of $58 million during the quarter, an increase over the same period last year in spite of the impact of the $85 million purchase in April of the two buildings in the Vancouver area. Operating cash flow for the second quarter was $145 million, an increase of 113% year-over-year.
+We had another good quarter in large enterprise deals. Year-over-year, the number of deals over $100,000 grew 21%, deals over $250,000 grew 5%, deals over $500,000 grew 10%, and deals over $1 million grew 25%.
+The majority of our large deals were attributable to the key differentiators of the Fabric, particularly manageability, orchestration, and integration across the enterprise. We again had a strong quarter in the government vertical, and we made some significant strides in the U.S. Federal space. Two of our seven-figure deals in the quarter were Fabric deals with U.S. government organizations. The breakdown of billings across our top five verticals was Service Provider at 18%; Government at 15%; Financial Services at 13%; Education at 10%; and Retail at 8%.
+On a geographic basis, billings in the Americas grew 13%, EMEA billings grew 13%, and APAC billings grew 19%. North America again had a strong billings quarter, lending us continued confidence in the maturation of our sales model.
+Now, turning to billings by product range on slide four. High-end products accounted for 39% of total product billings, our mid-range products accounted for 29%, and our entry-level products accounted for 32%.
+Revenue was $363 million in the quarter, up 17% year-over-year. As you can see on slide five, revenue performance was driven by the combination of 4% year-over-year product revenue growth, and 26% year-over-year services revenue growth. The continued shift to higher services growth reflects our ongoing success in driving higher priced subscription bundles, metered model cloud business, and virtual solutions.
+Global revenue diversification is a key strength of our business. Turning to slides six and seven, revenue from the Americas represented 44% of our business and grew 21% year-over-year; revenue from EMEA represented 36% of our business and grew 13% year-over-year; and revenue from APAC represented 20% of our business and grew 14% year-over-year.
+During the second quarter, our non-GAAP gross margin was 75%. Non-GAAP services gross margin was 85%. Non-GAAP product gross margin was 58%, lower than recent quarters due to inventory reserves as we transition to our newer appliances.
+We continue to focus on productivity and efficiency in our operating model, paying close attention to the growth in billings versus operating expenses. On a year-over-year basis, in the second quarter, billings grew by 14%, while sales and marketing expense grew by just 1%. In all, we had $53 million in incremental billings year-over-year, on just $12 million in incremental operating expense.
+As a percentage of revenue on a non-GAAP basis, sales and marketing expenses were 40%, down from 46% in the second quarter of last year; research and development expenses were 12%, flat from last year; and general and administrative expenses were 5%, up 1% from last year due to the ongoing implementation costs of the new revenue accounting standard.
+Total non-GAAP operating expenses were $206 million during the quarter, resulting in non-GAAP operating income of $66 million, or 18% of total revenue, up 600 basis points year-over-year.
+Non-GAAP net income for the second quarter was $48 million or $0.27 per share, based on approximately 180 million diluted shares outstanding. As expected, the annualized non-GAAP tax rate was 32%.
+As seen on slides eight and nine, we again ended the quarter with a strong balance sheet, including $1,465 million in cash and investments. During the quarter, we spent $33 million to repurchase 849,000 shares of our common stock at an average price of $39.07. As I mentioned earlier, cash from operations was $145 million, representing growth of 113% over the same period last year, and free cash flow in the quarter was $58 million.
+Annualized inventory turns for Q2 were 2.2, an improvement over inventory turns of 1.6 in the first quarter of this year. Deferred revenue increased to $1,161 million, an increase of $257 million or 28% year-over-year. DSO was 68 days, down from 74 days in the second quarter of 2016.
+Let me now finish with our guidance, which can be seen on slide 10. As a reminder, all forward-looking statements, including all of the guidance statements provided, are subject to Kellyâs cautions at the start of this call.
+Our business is more heavily weighted toward international markets than most of our competitors, and as such we are cautious that slower summer months, particularly in Europe, can sequentially affect our business, particularly when it comes to larger deals where more signatures are needed. With this is mind, for the third quarter of 2017, we expect billings in the range of $417 million to $427 million; revenue in the range of $367 million to $373 million; non-GAAP gross margin of 75%.
+We are pleased with the margin performance that we had in the second quarter, but are mindful that some of the profitability improvement came from not hiring as quickly as we had planned. For the third quarter we expect non-GAAP operating margin of 16% to 17%, and non-GAAP earnings per share of $0.22 to $0.23. We are revising our guidance for the full year 2017, which is billings in the range of $1,775 million to $1,795 million; revenue in the range of $1,487 million to $1,495 million; non-GAAP gross margin of 74.5% to 75%; non-GAAP operating margin of 16.2%; non-GAAP earnings per share of $0.94 to $0.96.
+Additionally, the Board of Directors doubled our authorization for share repurchases to $600 million through January of 2019. We expect to repurchase at least $150 million worth of stock in 2017, including the $33 million that we spent in the second quarter.
+Iâll now hand the call back to Ken to close.
+Ken Xie
+Thank you, Drew. We are very pleased with our second quarter results and with the leadership that Fortinet is demonstrating in the market today. The Fortinet Security Fabric offers us a unique and strong competitive position, and we are gaining market share against our competitors and mindshare with customers around the world.
+In closing, Iâd like to thank Fortinet employees, partners, customers, and shareholders for their continued confidence and support.
+Kelly Blough
+Operator, you could start the Q&A now.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from the line of Rob Owens of KeyBanc Capital Markets. Your question, please?
+Rob Owens
+Thanks for taking my question, guys. First off, EMEAâs [ph] proven to be kind of a wildcard for a lot of people this quarter. Can you talk about what youâre seeing over there, ahead of GDPR and the mandate? And it looked like performance from a billings perspective is kind of in line with what you saw here in the U.S. So, just was curious to get additional color.
+Drew Del Matto
+Sure, Rob; itâs Drew. I think for GDPR, we view it really as early stage. And most of what seems to be focused -- customers seem to be focused on at this point is privacy, and thatâs really getting the various sector agreements in place with their customers or client base, if you will, and then focus on complying with those rules. And then I think what comes next is the security and compliance piece of that, where they are looking to make sure that they have the appropriate security along with the privacy and then the compliance of course, because there is signs [ph] all the reporting requirements. And that part we think is early stage. They probably want to focus on the privacy at this point, and ultimately security and compliance piece really becomes about architecture and visibility, if you will. And that is something that we think is going to happen. It just hasnât been a catalyst yet.
+Ken Xie
+Yes. And just to add a few points as well. We see the GDPR as generally positive because they drive a lot of internal security segmentations and thatâs the -- the Fortinet Fabric story is feeding quite well. And also the additional reporting and administration thatâs also a benefit for the security provider. The only downside is they may take a longer time to making foreign decisions. So that we see, maybe delay some of the deal but in general itâs very positive for the space.
+Rob Owens
+And for an unrelated follow-up. You didnât speak to your longer term margin guidance that you gave last quarter of that 150, 200 basis points once we get beyond this year, and curious if you are sticking to that. And any sense for an impact of 606 on 2018 and beyond, how that margin could play out? Thanks.
+Drew Del Matto
+Yes. We are sticking to the 150, 200 and the 25% by 2022, Rob, no change there. We are sticking to what we said last quarter, absolutely committed.
+Kelly Blough
+Yes, 606.
+Drew Del Matto
+Thank you, Kelly. Yes, we are still evaluating that. I think on the revenue side from a product, I mean it looks weâll be on the model similar to most of the people in space, which I think we are still on our product, upfront product model, the services of course will be amortized ratably. So, we havenât quantified the change, but I think itâs similar to what you are seeing in space.
+The commissions, the product piece will be immediately expensed in the quarter, the upfront piece and then the services will be amortized over that time. And as you know, just one thing to note, 2017, this is one question we think weâll get is, 2017 is our baseline for the 150 to 200 points of margin premium annually and the 25% by 2022. So, as that adjusts the baseline, then we will go from there with the 150 to 200 basis points beyond. But itâs 150 to 200 basis points from the base line which was 2017; if that adjusts, the baseline adjusts.
+Operator
+Thank you. Our next question comes from Melissa Gorham of Morgan Stanley. Your question, please?
+Melissa Gorham
+Drew, it looks like the billings in the quarter was a little bit light of your midpoint in terms of the guidance for Q2 but your commentary was fairly positive and it looks like you are slightly raising the full year billings guide. So, was there anything that came in below your expectations and what gives you confidence that billings growth can accelerate in the second half of the year?
+Drew Del Matto
+Yes. I mean, weâre roughly in line with expectations, to be fair, Melissa. I think the story of the quarter is that a lot of enterprises are looking at the architecture, the Fabric plays extremely well as we continue the theme of consolidation and customers to look, to buy more functionality in subscriptions and bundles. And we think that plays favorably for us. Itâs always hard to call exactly where any given quarterâs going to end. But I think going forward, we feel like weâre getting a lot of inbound opportunities; our funnel looks good. The Magic Quadrant; we believe helps the fact that weâre in the leadership quadrant, the Magic Quadrant on Next-Gen Firewall. And we believe those things create great opportunity for us, along with things like GDPR.
+Ken Xie
+Also the service provider side, we see a little bit, takes maybe long time to make some decision. But we do have a lot of test and evaluation going on. So thatâs contributed some of the building softening in the Q2. On other side, we see very strong enterprise growing and especially the Leader in the Enterprise Firewall, Magic Quadrant from Gartner, I think that will help a lot and we see a lot of potential in enterprise sector.
+Melissa Gorham
+Okay. Yes. And my follow-up question was just going to be on the service provider space, because it did seem like that was a weak vertical for you guys this quarter. So, was there some deals that slipped in Q2 and youâre expecting thatâs going to close in Q3 or is there any expectation of material rebound in that vertical in your guidance?
+Drew Del Matto
+Yes. Melissa, we continue to be in evaluation mode with the service providers. We feel like weâre making good progress with them and we continue to be a strong player in the space. What weâre seeing is, I think itâs fair to say, theyâre more focused on their cash flow, their free cash flow and they do more pay-as-you-go models. And I think thatâs a shift in their business, which means pay-as-you-go basically meaning buy as they need versus buying a large chunk. So, weâve seen I think some of that quite frankly.
+Ken Xie
+Yes. The other part is really as some of the service providers starting to have some overlay with certain cloud provider. So thatâs also we kind of are starting more focus on the cloud side like in my script, I mentioned, the new cloud initiative, the leadership we have in cloud both on portal and the service side. So, weâre also starting to consider service provider and cloud provider together. And thatâs I think overall, if we combine the cloud and the traditional service provider together, the space in service provider, see whatever positive.
+Kelly Blough
+Melissa, to get your question on our expectations, I think itâs fair to say that we donât have really high expectations for that segment of the business for the rest of the year.
+Operator
+Our next question comes from Gabriela Borges of Goldman Sachs. Your question, please?
+Gabriela Borges
+Iâd love to get a little more color on the commentary on international markets in the guidance. Maybe Ken or Drew, you could comment on whether youâve already started to see a slowdown in Europe that looks different from what you would typically see to the summer? And as I think about the larger deals potentially taking longer to close, are you already seeing that or is that more just the deals in the pipeline are getting bigger and by default they would take longer to close?
+Drew Del Matto
+Gabriela, itâs Drew. Just weâll start from the top of the geographies. So, I think Asia, especially South Asia did I think extremely well, we donât see -- we continue to see good opportunities there, we saw that last quarter. I think the U.S. in particular has looked good. Weâve made a lot of investments there. The enterprise part of the business is doing really well. We see uptake in the Fabric, the number of Fabric deals and multi-product deals and multi-product customers and penetrating further into our install based. And thatâs part of the story, I think primarily certainly in North America and especially in the U.S.
+If you get into Europe, the GDPR piece of it is a little hard to call. I donât think we would say that that caused -- that had an impact on our results. I do think itâs fair to say that customers clearly are focused on it, and itâs hard to predict how they will behave, I think in the coming months.
+Gabriela Borges
+Thatâs helpful color. And just as a quick follow-up, Drew. Any commentary on duration? Weâve seen a pretty consistent trend towards the longer term deferred revenue, which come -- kind of how we would imagine with enterprises engaging more on a strategic basis over the longer period of time. But any additional color would be great there.
+Drew Del Matto
+Yes, thatâs it. I mean, at the end of the day, the longer term deals are generally enterprise customers and it reflects their longer term commitment to the products and the Security Fabric, Fortinet Security Fabric. Clearly, the focus on the enterprise is paying off and thatâs result of it. It did, I think it was roughly flat duration, roughly flat with last quarter, sub 24 months, is that right? Yes, about 24 months about flat, Gabriela. 
+Operator
+Thank you. Our next question comes from Walter Pritchard of Citi. Your line is open.
+Walter Pritchard
+Hi. Thanks. I guess question just, Ken, it sounds like youâre quite pleased with the performance the Fabric deals are up-ticking. Iâm wondering if you could talk about any sort of metrics around -- weâve sort of gotten used of modeling attach and looking at sources attaching the product. Products seem slowing down, it sounds like youâre seeing maybe uptick in attach or customers that are doing more of these Fabric deal that will drive more substitution over the long-term despite some slowdown in product. Any color you can give us around how to think about, maybe how thatâs trending now versus in the past?
+Ken Xie
+Yes, we definitely see the non FortiGate [ph] which part of the Fabric also grow faster. And also the Fabric including the cloud, including endpoint and thatâs where the FortiClient and also the cloud offering and some other like AP and also need a lot of surveys and also some other emails, switch, FortiMail, FortiSwitch. So, all this actually drives overall growth and also the potential markets much bigger. But also we need to train ourselves, train the partner, itâs beyond the traditional firewall, general fire, itâs also including how to cover the mobile device like the example I gave, how to protect the ransomware just like a four, five line of defense. And so thatâs all kind of looking to help customer to stop all the ransomware there.
+So, we see the growth of the Fabric Solutions at much faster and but also take some time, because some part of the Fabric is really the software as a service; thatâs also probably helping contribute, I donât know the percentage.
+Drew Del Matto
+Thatâs right. There is a mix shift I think as us and others in the space have been seeing, I think consolidation is part of it. Clearly the Fabric and the facts that we are doing multi-product deals contribute to that along with selling more virtual products, even the longer term deals as we have discussed before has an impact on how you recognize the upfront versus how much you defer, late on the deferred side. And then the emerging products are doing very well. Thatâs one area that are doing really well. And again there is the virtual products in that cloud and those again tend to weigh on the favor of the services line, if you will. So those things, those elements are driving the mix shift.
+Operator
+Thank you. Our next question comes from Jayson Noland of Baird. Your line is open.
+Jayson Noland
+Great, thank you. I wanted to ask on cloud service provider, maybe an update on this category independently of telco service provider pipeline and visibility?
+Ken Xie
+I think if we see the call service provider are mostly public, also some private starting growing quite well, thatâs where even some traditional telecom service providers also starting tap in cloud space. And also when we offer the Fabric, the customers need both solutions on-premise in the physical format, also some in the cloud, so they can have the flexibility. So thatâs where -- I donât think weâre just done yet, but we do see the cloud side grow faster on a still relatively smaller base.
+I think for the long-term service providers region because the cloud, the mobile can play some of the business but on other side like last quarter, the ransomware, some other attack still get into the company network side. Thatâs where we feel that the Fabric, so they can offer a combination of a physical, on-premise combined with cloud how to protect the cloud, the mobile is also kind of important. So, we see this kind of the overall infrastructure security starting replacing some of the traditional network only security.
+Jayson Noland
+And these are high-end deals typically, Ken, large deals?
+Ken Xie
+Yes, the Fabric tend to be working well for the big customers, big enterprise.
+Operator
+Thank you. Our next question comes from Jonathan Ho of William Blair. Your question, please?
+Jonathan Ho
+Good afternoon. Just wanted to start out with the competitive environment, whether you are seeing any changes out there or any competitors getting little bit more aggressive in terms of the network security area?
+Ken Xie
+We have a more broad offering and also the price performance also as a better leadership in the space. So, we donât see much in the competitive space, and also we are taking share from competitors right now.
+Drew Del Matto
+Yes. I mean, Jonathan, we are really selling on value, the value of the Fabric, the integration, the management capabilities, the orchestration and visibility thatâs required. If you think about GDPR for instance, itâs a spot on. And I think thatâs the case in the enterprises. And we are still successful there and itâs because we are selling the value. And so, we donât -- I donât think we necessarily feel all the pressures that the other competitors see in the space. And we feel like we are certainly doing a good job of taking share.
+Jonathan Ho
+Got it. And then, can you talk a little bit about the ransomware attacks and purchasing behavior by the customers? Are you actually seeing that accelerate purchase behavior or is it actually delaying? Weâve heard both from various competitors.
+Ken Xie
+Actually the real damage, probably a little bit smaller compared to some other like what happened in the past. But the media definitely gave a much bigger coverage of the ransomware and also the customers also want to know how to protect. Thatâs where we offer multiple line defense and from the FortiMail side to stop the email, which has a bad content or link attachment and then to the FortiGate which stop all the network site, and then the FortiClient and then FortiSandbox working with FortiSwitch, FortiAP, which also can quarantine the infected host. And then in end also the analyzer FortiSIEM can also give the monitor and real time react.
+I think overall, itâ really hard to do the infrastructure protection compared to the traditional protect a few point on our side. So thatâs where -- once the customerâs been educated about how to protect the infrastructure, which also including traditional side and also cover the mobile and the cloud, they definitely sync in the Security Fabric story much better and much advance, the new generation compared to the traditional Next Generation Firewall security. So thatâs where we get a lot of customers, especially big enterprise customers starting, interesting all this Security Fabric story. And so, not also like the Gartner Magic Quadrant also helps a lot and thatâs also will be potentially a big potential for us to keeping -- grow more in the enterprise environment.
+Operator
+Our next question comes from Sterling Auty of JP Morgan. Your line is open.
+Sterling Auty
+I wondered if you could characterize the competitive dynamics and your win rates in the two ends of the spectrum in terms of markets. So, in other words, what are you seeing in the low-end? I think Palo Alto has a new PA-200. And any change in the competitive dynamics there? And what are you seeing, if you characterize your win rates in the enterprise over this quarter versus what youâve seen?
+Ken Xie
+In the low-end, we continue leading. And I think based on some ADC data, they have Q1 data on the ADC tracker. We grow like 12.4% compared to a year ago, all the other competitors probably less than 10%. So, weâre keeping gaining share there. At the same time, the unit shipment we probably more than doubled the number -- number to number some other competitor. And we already lead in the market probably like, every -- we say, every like one of a four box deployed globally is a Fortinet box, FortiGate box. So, we already have pretty big market share on the total unit deployed.
+Itâs more because some of the technology we have in the SMB, we have System-on-a-Chip, we call a security processor System-on-a-Chip, which can use a single chip to offer the whole system compared to some other competitor have to lower software in some PC server there. So, itâs a huge advantage on the price performance. So, we keep leading there, we keep gaining shares and we feel we are very strong and we donât see any competitor come close or threaten our provision on the growth in the SMB.
+On the enterprise, we tend to a little bit behind, but now we see the momentum is very healthy and weâre gaining a lot of momentum, market share and also with the help of the Magic Quadrant leadership there, that also will open a lot of doors and lot of deals we start seeing come in and starting to get some interest from customers now.
+Sterling Auty
+Okay. And then one follow-up for Drew. So, look at the guidance for next quarter, specifically to revenue, Iâm just curious if there is anything that youâre looking at a little bit different in terms of mix, the product versus subscription or linearity or anything else? Just want to make sure I understand how you kind of build the revenue guide for next quarter, given the billings guidance that you have and the billings results in the quarter.
+Drew Del Matto
+Sure, Sterling. No, we havenât really changed anything. I think as you get more quarters of mix shift, certainly want to reflect that and how you think about the forward revenue. And Iâd say thatâs what weâre taking into account. Itâs just -- I think itâs hard to predict what the product side will be; itâs also hard to predict how much virtual versus kind of traditional hardware, if you will, and then even the tenure of the deals and types of things that impact the accounting. So, what weâre doing is kind of estimating continued -- believe there is probably still a continued mix shift and we just wait more on that going forward.
+Kelly Blough
+And Iâd like to just remind everyone, weâve got eight or nine people lined up for questions. So, if you keep it to one question and then call back at 3:30 that would be great.
+Operator
+Thank you. Our next question comes from Keith Bachman of Bank of Montreal. Your line is open.
+Keith Bachman
+Okay. Thanks very much and of course I get the one question rule imposed. I did want to ask -- itâs okay. I did want to ask about cash flow and specifically your working capital cycle. Your day cycle on cash flow this quarter was an improvement down the call to 113 days from 131 days, but itâs still almost double what Palo Altoâs cash flow cycle is, the days cycle. Is there a structural reason why your cash cycle is so much worse than one of your key competitors? And what would it take to improve that? And then just finally, if you could just update us on your real estate aspirations or what you tend to spend on real estate versus your last comments? Thank you.
+Drew Del Matto
+Sure. Iâll let you get away with two questions. Look, I think whatâs different in the model is we have inventory, Iâm not sure that Palo has a lot of inventory. And I think that obviously consumes cash and I think -- I havenât seen the math, how you got to your numbers. But if you think itâs just traditional cash conversion cycle, inventory would be a huge component of that. Our DSO at 68 is better than last year. I mean, I would say we have been focused on cash conversion cycle, but probably the biggest impact is the inventory turns going after 2.2 from 1.6 last quarter. But, the big difference in the model would be the inventory.
+As far as the real estate goes, weâre through the Vancouver area billings. So, we paid for that in April. Thatâs reflected in the $58 million of free cash flow we have this quarter, which in a good way, was even better than a year ago, I think, with that big chunk. So, we feel good about that. And operating cash flow was up I think a 113% as well. So, felt pretty good. Now, going forward, again, weâve guided I think $150 million of CapEx for the year, $120 million of that is real estate related. I think weâre throughâ¦
+Kelly Blough
+95 of that. 
+Drew Del Matto
+95 or so of that. So, we have a bit to go. Weâll stick to that certainly for now. And then, in the next couple of years, we said about $60 million each year to build out our headquarter location on property that we basically own. So, rather than go buy building, we own the property. So, weâre going to build here, keep our employees centrally located where they are. They are less at risk; thatâs one of the reasons we did -- one of the key reasons for being in the Vancouver area properties is the location and it just appeals to our employees.
+Keith Bachman
+All right. Thanks very much.
+Drew Del Matto
+Youâre welcome. 
+Ken Xie
+On the working capital, we have a much more broader product and also the lower end, actually you look at the unit shipment, weâre probably like a [indiscernible] on the unit shipments, because a lot of lower entities, manufacturing some other remote location and they are taking -- shipping by ocean that will take long time because we try to measure the total cost with opportunity cost which is -- you cannot ship in backlog and also the shipping cost, shipping by ocean and also the other capital cost, working capital. So we have a pretty good model [indiscernible] this is different cost and therefore the best combination. So, we feel the model really helping us improving the margin a lot.
+Operator
+Thank you. Our next question comes from Fatima Boolani of UBS. Your question, please? 
+Fatima Boolani
+Thanks for taking the question. Drew, a question for you. The retail vertical, just from a macro perspective, in a secular routine and you have been able to keep the mix of your billings tied to that vertical pretty stable. I am just wondering what the puts and takes for you are there, just given the anemic overall health of that vertical?
+Drew Del Matto
+Yes. Our value preposition is very strong and I think this is really -- again, much of it is distributed enterprise type of situation and hospitality is in there too, and certainly that sector is doing fine. And there are other distributed enterprise types of situations that go on. And so, our Fabric is very strong and we have always sold a lot of units into that enterprise. And I think just from a value perspective our success in that business reflects the value proposition.
+Fatima Boolani
+If I could sneak another quick one in on the education vertical, any large deals around the WiFi opportunity with respect to E-Rate program that are relevant to call out given your strength there in that vertical? And thatâs it for me. Thank you.
+Ken Xie
+I think we try to combine the WiFi and security together and customers see big value mandate together using 40k. [Ph] So, we see also both in education and some other vertical space, they structure the benefit of a combined WiFi security. Not quite related to E-Rate, which is probably only focused on WiFi but really when we consider the security and the WiFi together like infrastructure security, we have a huge advantage benefit and also even cost savings for the customers for the total IT security solution.
+Operator
+Thank you. Our next question comes from Ken Talanian of Evercore ISI. Your line is open.
+Ken Talanian
+Hi, guys. Thanks for taking the question. So, you noted that you didnât hire as quickly as planned. And I was curious, was that mostly a result of greater scrutiny during the hiring process or more difficulty in actually finding the right talent?
+Ken Xie
+The hiring environment actually is improving because some of competitors compared to like one to two years ago, some companies hiring like crazy, now is -- we do see more candidates and also a lot of competitors. We also kind of pretty carefully evaluate the hiring and also because early in the year, we also try to see how the business is going. We kind of -- but I think overall hiring environment is improving. We see more candidates come in, but on the other side, we also tend to be more careful selecting the candidates.
+Ken Talanian
+Thank you.
+Ken Xie
+We hope weâll catch up some of the hiring, we kind of -- in the first half of the year.
+Operator
+Our next question comes from Michael Turitz of Raymond James. Your line is open.
+Michael Turitz
+I wanted to go back Jonathan Hoâs question, where he asked, if ransomware had actually caused any delays in spending. And therefore, given the slight weakness in billings, if I really had to factor down, might have had negative influence. Was it delays around ransomware, delays around GDPR? I know you listed service provider a little weak, and was there anything else?
+Ken Xie
+No, I did not delay on the ransomware. Ransomware is helping driving awareness of the importance of security. And also, we try to educate customer to protect the ransomware attack, you need to have the infrastructure approach and not just only network approach. So thatâs where the multiple, and defense will be much better solution. On the other side, we do see the GDPR I think still positive but it may take the decision maybe longer. The service provider kind of a little bit different story, because some service providers, maybe evaluate the business model like a CapEx model, OpEx model; some other more relay to how to transition the cloud, how to offer in mobile protection. So, thus tend to do a lot of testing, evaluation, but not quite making a decision yet.
+Michael Turitz
+Okay. And anything else that we should think of as possibly having to do billings in the quarter?
+Ken Xie
+The enterprise is more positive and also we see a big potential going forward.
+Drew Del Matto
+Enterprise has been really good, Michael. Obviously, itâs good news. The leadership quadrant on the Next-Gen Firewall from Gartner is obviously important.
+Ken Xie
+The Fabric, we see customer running like a lot, because youâd have a too many different vendors to work with. And also we called a Fabric-Ready program, which we have the bigger networking companies, the software companies Microsoft, there is also like HP server, some other. There are a lot of companies we are starting working together to making the management of security IT more-easy and customer, lot of bigger enterprise like this a lot.
+Operator
+Our next question comes from Gregg Moskowitz of Cowen & Company. Your line is open.
+Gregg Moskowitz
+A bit of a follow-up to Michaelâs question. You did well in seven-figure deal activity this quarter. Although the growth in the number of deals in the bands between 250k and 500k as well as between 500k and a 1 million slowed fairly significant this quarter and aside from perhaps what you noted in service provider and possibly slightly with GDPR as well. Just wondering, if there is anything else that you would kind of attribute some of the deceleration within those bands?
+Drew Del Matto
+No, Michael. There is nothing really to point out there. I think thatâs just the way the deals came in this quarter.
+Gregg Moskowitz
+And then maybe just a quick follow-up. So, what has -- I guess the question is for Ken. What has the response been so far to your new appliance models, specifically 70-60 E and the 39-80 E? Thanks.
+Ken Xie
+We see [indiscernible] 7,000 and lot of evaluation and actually both in the enterprise and also the service provider, because they have the best performance and the Next-Gen Firewall and other part. But as you know the bigger units usually take a longer time to sell and especially some bigger enterprise service provider, which sometime may take one to two year, but we see the interest is high. We also transitioned some of the D model to E model in the low end and we also see the transition doing well. We do make a little bit reserve on the inventory as Drew said. But so far, the new model, both in the high-end 7,000 and 3,000, also the low end like 60 D to 60 E, we see a lot of good transition right now.
+Operator
+Our next question comes from Shaul Eyal of Oppenheimer. Your question, please?
+Shaul Eyal
+Question also with respect to the progress you have shown on the high end appliances this quarter of 39% of revenues. Is the large $12 million contract that was announced in the first quarter had any impact this quarter also on high end appliances?
+Drew Del Matto
+No, Shaul, no. That was last quarter. I believe we took that last quarter. Yes.
+Shaul Eyal
+Got it. Okay, thatâs it on my end. Thank you. 
+Ken Xie
+I think the 7,000 also will help in the bigger deal a little bit.
+Operator
+Thank you. Our next question comes from Patrick Colville of Arete Research. Your question, please?
+Patrick Colville
+Thanks for taking my question. So, just circling back from high level, product growth little bit slower than the recent trajectory. Is anything specific there, was that just kind of boarder slowdown that weâve seen Palo Alto and Check Point, maybe the initial impact, just any kind of virtual firewalls?
+Ken Xie
+We donât see much slowdown. Actually, I think when they enter some bigger deal or long-term deal, the way they calculate which part of the product or which part of the service may have a few impact -- maybe I donât know, a couple percentage impact assumptionâ¦
+Drew Del Matto
+I think the way to think about it is, customers continue to buy the Fabric, which includes emerging products which are growing very well, it includes virtual products, cloud, a variety of things. As Ken said, some of that gets recognized on the services line, which I think to your question, Patrick, it is something that weâre seeing across the industry. From our perspective, there tends to be -- there is a continued theme of consolidation. Customers have too many security devices they are looking to consolidate. A lot of that we do through enriched subscription bundles that we charge more for and theyâre higher priced -- higher priced obviously, higher margin over time but they get reflected over time. We think actually the fact that on the leadership quadrant, Gartner Magic Quadrant on Next-Gen Firewalls reflects the visionary part of the Fabric, if you will, the vision that actually plays to those things.
+Patrick Colville
+And can I just ask a quick follow-up, just on the guidance, kind of second on the year. You guys are looking for acceleration in the billings. Can you just remind us the good reasons for that please?
+Drew Del Matto
+Q3 of last year was -- generally Q3 to Q2 is flattish in the absolute dollars, roughly flat, letâs say, could be plus or minus a couple percentage points. I think over time itâs about average, about the same, flat.
+Last Q3 was a challenging quarter. And so, there was a dip from Q2 to Q3. And so, the growth there I think probably explains most of that, if not all.
+Operator
+Thank you. Our next question comes from Saket Kalia of Barclays. Your line is open.
+Saket Kalia
+Hey, guys. Thanks for taking my question here. Iâll keep it to one. Drew, can you just talk about product gross margin a little bit? I know you mentioned somewhat was related to the inventory write-down; we certainly understand that. But can you talk about how gross margins maybe look excluding that? I guess I just want to dig into maybe how the discounting environment maybe compared to prior quarters?
+Drew Del Matto
+Well, look, I think the margins look fine; our pricing remains competitive, Saket. We certainly feel like we are holding price and discounting seems flat.
+Operator
+Thank you. Our next question comes from Tal Liani of Bank of America. Your line is open.
+Mike Feldman
+Hi, guys. This is Mike Feldman on for Tal Liani. Thank you for taking my question. Just a quick one, financial verticalâs been strong for last few quarters. Can you talk a little bit about whatâs driving the strength there and if you could talk about the competitive landscape in that vertical? Thank you.
+Drew Del Matto
+Again, I think we just -- our products hit the spot on financial services. Performance has always been a key requirement for that space along with excellence in security, and we provide both of those things. I think our vision is outstanding as reflected in our leadership in the Magic Quadrant as we have been talking about. Again, they are looking to consolidate. We are able to provide that and deliver the performance. The management, the orchestration and the visibility that they need to run their security operations and do it effectively and efficiently, and thatâs why it resonates there, and we are doing very well in that vertical.
+Ken Xie
+Yes. Also finance sector, they are more leading on the internal segmentation and also they lag the infrastructure security including a WiFi together with networking side, especially the branch office. So, we see -- we have a huge advantage compared to all the other competitors with the infrastructure security, with WiFi together with networking security and also with also the security Fabric and internal segmentation. I think thatâs all helping and gaining the share in the finance sector. I think the Magic Quadrant we just got in this month in July that eventually will also help a lot because the finance sectors do consult this Gartner Magic Quadrant a lot. So that also helps us to gaining more market share there.
+Operator
+Thank you. At this time, Iâd like to turn the call back over to Ms. Blough for any closing remarks. Maâam?
+Kelly Blough
+It looks like weâve got through all the questions with three minutes to spare. Thank you, everybody so much for dialing in. And we look forward to speaking with you again in about an hour, an hour and three minutes and please call back in for the second call. Thanks.
+Operator
+Thank you, maâam and thank you ladies and gentlemen. That does conclude your second quarter 2017 earnings announcement. You may now disconnect your lines at this time. Have a wonderful day.

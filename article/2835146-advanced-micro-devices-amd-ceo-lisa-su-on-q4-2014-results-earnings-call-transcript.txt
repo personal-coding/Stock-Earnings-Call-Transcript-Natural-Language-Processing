@@ -1,0 +1,279 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q4 2014 Earnings Conference Call January 20, 2015 5:30 PM ET
+Executives
+Ruth Cotter - VP of Corporate Communications and IR
+Lisa Su - President and CEO
+Devinder Kumar - SVP and CFO
+Analysts
+Harlan Sur - JPMorgan
+Ian Ing - MKM Partners
+Mark Lipacis - Jefferies
+Matt Ramsay - Canaccord Genuity
+John Pitzer - Credit Suisse
+Vivek Arya - Bank of America Merrill Lynch
+Hans Mosesmann - Raymond James
+Christopher Rolland - FBR Capital Markets
+Ross Seymore - Deutsche Bank
+Sanjay Chaurasia - Nomura
+Cody Acree - Ascendiant Capital
+Operator
+Good day, ladies and gentlemen. Thank you for standing by, and welcome to AMD's Fourth Quarter and Annual Results Conference Call.
+[Operator Instructions] As a reminder, this conference call is being recorded.
+I would now like to turn the conference to our host, Ruth Cotter, Vice President of Corporate Communications and Investor Relations.
+Ruth Cotter
+Thank you and welcome to AMD's fourth quarter and yearend conference call. By now you should have had the opportunity to review a copy of our earnings release and the CFO commentary and slides. If you've not reviewed these documents, they can be found on AMD's website at ir.amd.com.
+Joining me on the call today are Lisa Su, our President and Chief Executive Officer, and Devinder Kumar, our Senior Vice President and Chief Financial Officer.
+This is a live call and will be replayed via webcast on amd.com.
+I'd like to take a moment and highlight a few dates for you. Devinder Kumar will present to the Goldman Sachs Technology and Internet Conference on February 10th, and at the Morgan Stanley Media and Telecom Conference on March 3rd. Our first quarter quiet time will begin at the close of business on Friday, March 13th, and AMD will host its Financial Analyst Day on May 6th in New York.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date, and as such involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Additionally note that non-GAAP financial measures referenced during this call are reconciled to their most directly comparable GAAP financial measure in the press release and CFO commentary posted on our website at quarterlyearnings.amd.com. Please refer to the cautionary statements in todayâs earnings press release and CFO commentary for more information. Youâll also find detailed discussions about our risk factors in our filings with the SEC and in particular AMDâs quarterly report on Form 10-Q for the quarter ended September 27th, 2014.
+Now with that, Iâd like to hand the call over to Lisa. Lisa?
+Lisa Su
+Thank you, Ruth, and good afternoon to all those listening in today.
+In the fourth quarter we made good progress diversifying our business into new markets, ramping PC and embedded design wins with key customers, and improving our overall balance sheet. This progress was offset by ongoing weakness in our PC business due to higher than optimal desktop and AIB inventory levels in the channel, and our over-concentration in consumer PCs.
+The computing and graphics segment revenue decreased 15% sequentially, largely driven by weak channel sales. We took some key actions in the fourth quarter to reposition our product stack and reduce downstream desktop and AIB channel inventory. While these corrective actions are resulting in short-term pressure in the business, they're integral to building a stronger and more profitable business going forward.
+We did have some success in the quarter continuing to reshape our OEM business. We drove a richer mix of higher-end products, expanded our presence in the commercial market, and increased adoption of our discrete graphic solutions. Mobile APU unit shipments, ASPs, and revenue all increased sequentially as our higher-end A8 and A10 APU shipments increased. We also achieved strong double-digit percentage revenue growth for notebook GPUs in the quarter as strategic wins like Apple's iMac with retina 5K display began to ramp.
+We clearly have more work to do to improve the overall revenue and financial performance of this segment. We must apply the same rigor and discipline that led to the improvement in our OEM business to stabilize and then grow our channel. I'm confident we are taking the right actions to return this segment to a healthy trajectory starting in the second quarter.
+Turning to our enterprise embedded and semi-custom segment. As expected, semi-custom shipments decreased sequentially as we supplied a significant amount of product to Microsoft and Sony in the third quarter as a ramp to support the holiday demand spike. We are pleased with the full-year performance of the semi-custom business and the strong sell-through reported by our customers. Nearly 30 million Sony and Microsoft consoles have now shipped. Our semi-custom shipments more than doubled in 2014, which fueled excellent full-year performance for this part of our business.
+Embedded processor revenues also increased for the third straight quarter as we continued to successfully execute our strategy to gain share in targeted vertical markets where our high-performance CPU and GPU IP are differentiated. In target markets such as network storage, avionics and medical devices, we had several customers launch new AMD embedded powered solutions that take advantage of our higher-performance CPU and GPU IP, including Airbus, QNAP and Analogic.
+Our work to lead the industry's transition to 64-bit ARM also gained momentum in the quarter. We have secured multiple design wins for our upcoming Opteron A series, and the first systems are expected to launch later this year.
+Taking a step back and looking at our annual 2014 performance, it is clear we made progress across a number of strategic fronts. Annual revenue grew for the first time since 2011. Annual EESC segment revenue increased by 50%, growing to a $2.4 billion business, with strong momentum and pipeline. We ended the year with more than $1 billion in cash and making significant progress re-profiling our debt.
+And most importantly, we delivered full-year non-GAAP profatibility and continued to build a good foundation for future long-term profitable growth as we invest in the innovations to drive future success.
+In my 100 days as AMD's CEO, I've had the opportunity to spend significant time with our customers, partners and employees. The consistent theme is that AMD is at our best when we are delivering differentiated technology and innovation to our customers. There are clearly significant opportunities for us to accomplish this both in our traditional PC business as well as in new growth markets. But we must think differently in 2015 about our market approach and investment priorities.
+First, we see a path to reversing the declines in our PC business. The PC market is expected to stabilize, with low single-digit percentage decline in 2015. We have right-sized our investments in this business and taking actions to reduce our downstream channel inventory in the fourth quarter. We will continue these corrective actions into the first quarter to aim for a return to growth starting in the second quarter.
+We are correcting the inventory position quickly, with is contributing to our revenue guidance in the first quarter. We believe this will position us well when we begin to ramp new products later this year.
+We plan to introduce a strong 2015 product portfolio, punctuated by the launch of Carrizo in the second quarter. Consumer and commercial design win momentum for Carrizo continue to gain momentum because it will deliver the largest ever generational leap in performance per watt for our mainstream APUs. Carrizo is a good example of how the innovations we are making at the trip and [ph] system level through differentiated design capabilities translate into meaningful improvements to the user experience and battery life.
+Second, we will increase our R&D investments in enterprise, embedded and semi-custom. AMD is the only company in the industry that can offer a full continuum of high-performance standard and custom solutions, cementing [ph] both the ARM and x86 ecosystems, and we must leverage this position to drive differentiated and innovative solutions for our customers.
+Our server partners have increasingly told us they want to see AMD playing a much larger part in this business. Although the design cycle is longer, this is an important vector for long-term revenue and margin expansion, and we are designing new x86 and ARM-based leadership products for this space, powered by our next-generation ARM and x86 cores.
+Our third priority will be to continue diversifying our revenue base and growing in new markets. We saw good momentum with significant revenue and design win growth in 2014 across all of our new business. For instance, embedded and professional graphics revenue both increased by more than 20% in 2014. We have a robust pipeline in these businesses as well as with our semi-custom engagements, and we will continue that focus through 2015.
+In summary, I am optimistic about our long-term opportunities but realistic about our short-term challenges. In the near term we will take significant steps to normalize our business as we sharpen our focus on our key priorities of building great products, deepening our customer relationships, and simplifying our business. Longer term, we have a tremendous opportunity to apply our technology and IP to differentiate and innovate with our customers and further strengthen our financial foundation and performance.
+Now I'd like to turn the call over to Devinder to provide some additional color on our fourth quarter financial performance and first quarter guidance. Devinder?
+Devinder Kumar
+Thank you, Lisa, and good afternoon everyone.
+In 2014 we improved our non-GAAP financial performance and met the financial goals we laid out at the beginning of the year, despite continued weakness in our computing and graphics business. Specifically, we continued to transform and position ourselves for long-term growth, and we delivered our first full year of non-GAAP profitability since 2011. We grew revenue 12% to $5.5 billion for the year, and further diversified our business as we completed the first full year of our semi-custom game console shipments and derived approximately 40% of revenues in 2014 from high-growth cities [ph] and markets.
+Specifically in 2014, we also reduced non-GAAP operating expenses by 11% from the prior year, while investing in our new products in support of our ARM and x86 strategy and growth areas. Continued our focus on financial performance and reported non-GAAP net income in every quarter during 2014. Delivered positive free cash flow for 2014, excluding the special payment of $200 million made to Global Foundries early in 2014 related to the 2012 WSA amendment. Maintained a strong balance sheet, ending the year with over $1 billion in cash, cash equivalents and marketable securities. And finally, we made significant progress in re-profiling our term debt, pushing out the majority of term debt maturities to 2019 and beyond, while also decreasing our interest expense run rate year over year.
+Moving to the specifics of the fourth quarter, where I'll be referencing non-GAAP figures except for revenue which is on a GAAP basis. Revenue was $1.24 billion, down 13% sequentially and 22% year over year, primarily driven by lower desktop processor GPU and semi-custom SOC [ph] sales. Gross margin was 34%, down 1 percentage point from the prior quarter. As a reminder, third quarter gross margin of 35% included a $27 million or 2 percentage point benefit from revenue related to technology licensing.
+Operating expenses in the fourth quarter were $382 million, down $46 million from the prior quarter, due primarily to reduced employee bonuses, restructuring actions, and ongoing expense controls. Operating income was $36 million and net income was $2 million, with breakeven earnings per share, calculated using 781 million diluted shares.
+During the fourth quarter we had a number of accounting items that I'd like to address. As part of our annual review of goodwill and primarily due to the decline in AMD stock price, we determined that the total non-cash $233 million carrying value of goodwill related to our computing and graphics business wasn't bad [ph]. We also had a level of cost or market inventory adjustment of $58 million in the quarter related to our second-generation APU products. We expect to sell this inventory over the next several quarters. And this adjustment aligns the carrying value of the inventory with market pricing.
+Lastly, we had restructuring and other special charges amounting to $71 million, of which $59 million is expected to be paid in cash. This primarily includes the previously disclosed $57 million of restructuring and $10 million related to our former CEO's departure. The aforementioned accounting items are excluded from our segment results and are included in the All Other category. They are also excluded from our fourth quarter non-GAAP earnings per share computation.
+Net interest expense, taxes and other income was $34 million in the quarter, down from $46 million in the prior quarter, primarily due to the benefit of term debt repurchases of $75 million in the fourth quarter, interest rate swap transactions executed in the third quarter and a tax credit of $3 million.
+Adjusted EBITDA was $96 million, down $37 million from the prior quarter, and for 2014, adjusted EBITDA was $505 million.
+Now turning to the business segments. Computing and graphics revenue was $662 million, down 15% sequentially, primarily due to lower desktop processor and GPU sales. Computing and graphics operating loss was $56 million, compared to a $17 million loss in the prior quarter, primarily due to lower general sales, partially offset by lower operating expenses.
+Enterprise, embedded and semi-custom revenue was $577 million, down 11% from the prior quarter, primarily due to a decrease in sales of our semi-custom SOCs. And the operating income of this segment was $109 million, essentially flat from the prior quarter, driven by lower semi-custom product sales, offset by higher royalties.
+Turning to the balance sheet. Our cash, cash equivalents and marketable securities balances totaled $1.04 billion at the end of the quarter, up $102 million from the prior quarter. Inventory was $685 million, down $212 million from the prior quarter, including the impact of the lower of cost or market inventory adjustment. Excluding that adjustment, inventory was down 17% quarter on quarter.
+Our total purchases on Global Foundries in 2014 were approximately $1 billion, lower than the previously estimated $1.2 billion, due to lower fourth quarter purchases. The fourth amendment to the WSA is complete, with no associated special payments or penalties. We are currently negotiating our 2015 WSA amendment in line with our business expectations.
+Debt as of the end of the quarter was $2.2 billion. During the quarter we repurchased an aggregate amount of $75 million of 2020 and 2022 term debt in the open market, paying approximately $0.96 on the dollar, and funded these with our asset-backed line of credit which carries a significantly lower interest rate.
+Free cash flow in the fourth quarter was $94 million, an improvement of $105 million from the third quarter of 2014.
+Before turning to the outlook, let me highlight that as of the first quarter of 2015, in line with many of our technology peers and more reflective of our ongoing operations, we will be excluding approximately $20 million per quarter for employee-related stock-based compensation from our non-GAAP financial results.
+As outlook for the first quarter of 2015, AMD expects revenue to decrease 15% sequentially plus or minus 3%. Gross margin is expected to be approximately 34%. Non-GAAP operating expenses are expected to be approximately $350 million, excluding approximately $20 million of stock-based compensation as per our revised non-GAAP definition. Interest expense, taxes and other to be approximately $48 million and inventories expected to be essentially flat from fourth quarter levels.
+As outlook for the full year 2015, we expect to be profitable on a non-GAAP basis. Non-GAAP operating expenses to be between approximately $340 million to $370 million per quarter, in line with expected revenue profile. Taxes of approximately $3 million per quarter. Cash, cash equivalents and marketable securities balances to be in the optimal zone of $1 billion. Capital expenditures of approximately $100 million. And inventory to be approximately flat year over year.
+In closing, as we begin a new year, we look forward to overcoming our short-term challenges by stabilizing our computing and graphics segment and continuing to improve long-term financial performance by diversifying our business and driving toward profitability while maintaining a healthy balance sheet.
+With that, I'll turn it back to Ruth. Ruth?
+Ruth Cotter
+Thank you, Devinder. Operator, we'd now like you to poll the audience for questions please.
+Question-and-Answer Session
+Operator
+Certainly. [Operator Instructions]
+And our first question comes from Harlan Sur of JPMorgan. Please go ahead.
+Harlan Sur - JPMorgan
+Good afternoon and thank you for taking my question. On the Q1 revenue guidance, can you just provide us with a bit more color for the 15% sequential revenue decline? How much of the revenue decline is due to continued channel inventory work-downs in your computing and graphics segment versus continued game console seasonality in your embedded and semi-custom segments? What I'm trying to figure out is if both segments are going to be down double digits sequentially or is one going to drive more declines than the other.
+Lisa Su
+Yes, Harlan. So, thanks for the question. Let me give you some color on that.
+So if you take a typical PC seasonality, would be about minus 7% or so, and typical game console seasonality is probably a little bit more than that. What we said in the prepared remarks is that we are taking an opportunity to correct the channel inventory in computing and graphics. So, you know, overall down minus 15%, that is more heavily weighted towards computing and graphics than towards enterprise, embedded and semi-custom.
+Harlan Sur - JPMorgan
+Okay. Thanks for that, Lisa.
+And then on the embedded segment which grew nicely in Q4 and for all of 2014, as you think about your pipeline in 2015, does the team expect embedded will continue to grow by double digits year over year? And if so, what end-markets would be the biggest contributors to that growth?
+Lisa Su
+Yes, so if you look at the overall enterprise, embedded and semi-custom business, it was very good for us in 2014. I'm actually quite pleased with the progress. Certainly the majority of that was, you know, the semi-custom or game console unit shipments which increased significantly.
+We did also see, as we said, improvements in the embedded business, and that grew over 20%.
+As we go into 2015, it's a little bit early for, you know, full-year guidance, but I think we would say that we would expected embedded to continue to grow. I think on semi-custom, we believe that units will grow as they typically do in the third year of the console ramp. And exactly what that will amount to will depend on how the market behaves in 2015.
+Harlan Sur - JPMorgan
+Thanks, Lisa.
+Lisa Su
+Thank you, Harlan.
+Operator
+Our next question comes from Ian Ing from MKM Partners. Please go ahead.
+Ian Ing - MKM Partners
+Yes. Thanks for taking my question. Just wanting to step through the revenue and segment assumptions to get you to guide to non-GAAP profitability this year, excluding stock comp. I'm getting, when I look at the OpEx ranges and gross margins about flat, I'm getting just low single-digit quarters of growth for the rest of the year.
+Devinder Kumar
+I think it depends on how you look at it from an overall standpoint. Obviously you have the numbers in terms of our guidance for Q1 2015. But you do want to take into consideration one change that I highlighted in the prepared remarks in terms of the OpEx guidance that I gave, that on a non-GAAP basis, so we are excluding the non-cash stock comp expense from the guidance for the OpEx, and that's running about $20 million per quarter for stock comp expenses overall. So, about $80 million for the year. But I think the rest of it, from an overall standpoint, you know, we're not giving other than what I have given for 2015 color on the non-GAAP profitability from where I sit right now with the continued control of expenses and the gross margin obviously in Q1 at 34%. We'll give color more about 2015 as we get through Q1 and into Q2, and in particular, we have an analyst day that's schedule on May the 6th, where we lay out obviously a more detailed model for the year and for the longer-term outlook.
+Ian Ing - MKM Partners
+Okay, great. And then, Lisa, you talked about the launch of Carrizo, highlighting HSA support. Could you talk about the applications for HSA implementations? I mean, who's writing code right now in the HSA development environment, what kind of customers do we have potentially in the future? Thanks.
+Lisa Su
+Yes. So we are enthusiastic about our Carrizo launch that will take place in the second quarter. I think if you look at, you know, the improvements that will come with that, HSA is one of them. We'll also have significantly improved performance in battery life in Carrizo. Relative to HSA applications, I think there are a number of applications both in the, you know, consumer space related to video that will perform quite well with Carrizo, as well as in other areas. We expect Carrizo to be beneficial for embedded and other businesses as well.
+Ian Ing - MKM Partners
+Okay, thanks. That's all I had.
+Lisa Su
+Thanks, Ian.
+Operator
+Our next question comes from Mark Lipacis from Jefferies. Please go ahead.
+Mark Lipacis - Jefferies
+Hi. Thanks for taking my question. On the -- on your expectation for a healthy trajectory in the PC and graphics business in 2Q, what are the -- can you help us understand, to what extent is that driven by your improvement in the commercial side versus consumer business? Can you help us with, roughly, with the split between these two? And does that -- does healthy trajectory, does that mean sequential growth in that business in 2Q or does that mean in line with normal seasonal patterns? Thank you.
+Lisa Su
+Thanks, Mark. Let me try to answer that and give you color on the various segments. So as I mentioned, in our MMC business, we've really made nice progress overall in terms of improving our mix, improving our design wins. You know, especially going into the second quarter and the second half of the year with our new product launches, I think we feel very good about where we're positioned there. Commercial will definitely be important, as well as improving our overall mix.
+And then relative, you know, from Q1 to Q2, I think the largest improvement will be around the channel health. We have had this channel problem for a couple of quarters, and it's important for us to correct that. As we look at the downstream channel, we definitely reduced some inventory in Q4, and we will take significant action to reduce that inventory in Q1, and that will give us an opportunity to return to a more normal desktop channel business, which has been relatively successful for us in the past.
+Mark Lipacis - Jefferies
+Thank you. A follow-up if I may. On the -- I think you noted two to three semi -- new semi-custom design wins in the last earnings call. Can you remind us of the timing and nature of those design wins by end-market or application? And if, you know, can you describe or characterize the pipeline after those two or three design wins? Thank you.
+Lisa Su
+Yes. So on the semi-custom design win and pipeline, at the end of last year we've reported two new semi-custom wins. They included both x86 and ARM. You know, timeframe for that revenue is we start NRE -- we started NRE last quarter and we'll have NRE revenue in 2015. You'll see production revenue in 2016.
+Mark Lipacis - Jefferies
+Thank you.
+Lisa Su
+Thanks, Mark.
+Operator
+Our next question comes from Matt Ramsay of Canaccord Genuity. Please go ahead.
+Matt Ramsay - Canaccord Genuity
+Yes. Thank you for taking my questions. Firstly, you had mentioned in the prepared remarks pull from the server customer base, sort of excited or urging AMD to get back into that market both on x86 and ARM. Maybe if you could talk a little bit more about the nature of that pull. Is it from -- is it more ARM or x86 based, and how your design teams are set up to address that challenges given your history in the server business in the past.
+Lisa Su
+Sure, Matt. So there's no secret that we've lost a lot of market share in the server business. But if you look at fundamentally what's important to those server customers, it is about knowledge of the enterprise, it is about high performance, you know, compute capability, reliability, all the system capability. And those are things that AMD can, you know, is uniquely very capable of.
+So when we look at ARM and x86, I would say, you know, the majority of the -- the majority of the market will still be x86 for quite some time because of all of the legacy applications that exist. ARM offers a new opportunity in some of the dense server markets, and so we continue to look at that as a growth opportunity where new business will grow. So it's really I would say separate parts of the market. I think where we add value is that we're able to look at that in totality and optimize the server ecosystem for that.
+Matt Ramsay - Canaccord Genuity
+All right, thank you. And Devinder, as a follow-up, it's been mentioned a couple of times in detail that you guys are going to change the sort of excluding the stock comp from the non-GAAP numbers. I don't know how much you want to comment here today, but just for year-over-year comparison purposes, are you guys -- do you forecast being non-GAAP profitable based on -- including the stock comp, or just by excluding it? Thanks.
+Devinder Kumar
+It's excluding the stock comp. It is about $20 million of non-cash stock comp expenses, very much in line with a lot of our technology peers and kind of more competitive basis. So I think when you look at the OpEx guidance for example that we are providing in Q4, that excludes the stock comp expense of about $20 million. And that's non-cash, will show up, from a segment reporting standpoint, in all our all other category, very consistent like I said with several of our technology peers.
+Matt Ramsay - Canaccord Genuity
+Got you. I was just trying to say, do you think you'll be non-GAAP profitable if you sort of reverse that new change to the reporting structure, so, under the old method?
+Devinder Kumar
+Well, our guidance is non-GAAP profitable, excluding the stock comp expense for 2015.
+Matt Ramsay - Canaccord Genuity
+All right, fair enough. Thanks.
+Operator
+Our next question comes from Joe Moore of Morgan Stanley. Please go ahead.
+Joe Moore - Morgan Stanley
+Great. Thank you. I wondered if you could clarify within the PC CPU business what's the split between channel and OEM at this point, or just qualitatively? And you've mentioned for the last couple of quarters this inventory compression. Is there a demand aspect to this as well? Do you think you're losing share in the channel versus just an inventory correction in the channel?
+Lisa Su
+Yes, Joe. You know, we don't talk about sort of the exact split between our channel and our MMC business. It's fair to say our MMC business is larger though. So what we ship into our OEM customers is larger than the channel business.
+Relative to the inventory versus demand, I think the desktop channel is an area where, if you look at it, it's heavily concentrated in China and has had more impact, some of the dynamics in China, especially as you look at the entry-level part of the business. I will say though that, as we look at it overall, I think the channel will still be a very good for us going forward, it's just we need to correct the inventory levels.
+In the AIB business or the graphics channel, it's a little bit more complicated than that. In the first half of the year we had -- first half of 2014, we had actually an unusually strong AIB channel because of the bitcoin effect, and then we needed to correct some of that. There are some competitive dynamics in the graphics, AIB channel as well.
+I think from where I see it going forward, we are very focused on correcting the channel and normalizing that business. I think we have some good products that are coming out for it. So I do see opportunities for a return to a more healthy channel business going forward.
+Joe Moore - Morgan Stanley
+Okay, great. Thank you. And then Intel had mentioned on their call having had some excess Bay Trail inventory at the end of Q3 that they burned off during Q4. Do you think that had any effect on you guys and do you think that situation has cleared up for you?
+Lisa Su
+Yes. I don't think it particularly had an effect. One of the comments that I made earlier, our ASPs have really come up nicely with our mix in the OEM business. So from that standpoint, I didn't see a particular effect.
+Joe Moore - Morgan Stanley
+Thank you very much.
+Lisa Su
+Thank you.
+Operator
+Our next question comes from John Pitzer of Credit Suisse. Please go ahead.
+John Pitzer - Credit Suisse
+Yes, good afternoon guys. Thanks for letting me ask a question. First question, Devinder, just as a clarification, no impact from under-spending on the WSA in 2014, or might that carry over to 2015? And just broadly, how do we think about the parameters for the 2015 WSA?
+Devinder Kumar
+Yes, John, you're right. No impact whatsoever. No penalties, no special payments, which is I think what your question is, as we reduce the supplies and the budgets as to end 2014.
+2015, we are in discussion, so that's in progress, to go ahead and close the 2014 supply -- 2015 supply agreement.
+John Pitzer - Credit Suisse
+And then, Lisa, in the prepared comments you talked about OpEx kind of between the range of 340 to 370 per quarter. I'm just curious, is the goal here to try to operate the business at kind of a non-GAAP breakeven level? And if we do get revenue upside, will you just let that drop through the OpEx? And it kind of asks just a broader question, how do you think about prioritizing spending as you try to maintain non-GAAP breakeven? Is that even the right goal to think about given that you already have $1 billion of kind of released gross [ph] cash in the balance sheet? Are you under-investing in certain areas right now to try to maintain that non-GAAP breakeven?
+Devinder Kumar
+I'll take the first part, on the financial, then I'll let Lisa comment on your second question, which is a good one.
+I think overall when you look at it from an overall standpoint, we've been very disciplined from an OpEx standpoint. But the question that always comes up internally, and Lisa obviously and Mark Papermaster watch that very carefully in terms of making sure that we continue to invest in the R&D area, especially for the products and the technology around the future stuff that we are doing. But John, you're right, we do want to manage from a viewpoint of overall cash and the P&L, that's important. The breakeven P&L has come down significantly as we have managed the OpEx. But the R&D investment, especially with the roadmap that we are projecting for 2015 and 2016 continue.
+And you're also right, from an OpEx standpoint, getting down to the, call it, 350 level that we are guiding to for Q1, that would go up within the range of the 340, 370 depending on the revenue profile. And obviously my desire is to drop that as much as possible to the bottom line, as long as we continue to invest in the R&D areas. But I'll let Lisa comment for the R&D investments.
+Lisa Su
+Yes, John. So the way I would answer it is something like this. Certainly we strive to do better than non-GAAP breakeven on a medium-term basis. However, when I look at the OpEx and what we're trying to drive, it is really important for us to make the right technology investments and invest in the products that are going to fuel long-term growth.
+So we made some decisions. In the fourth quarter we announced some restructuring actions. I think those were the right set of actions because they were really around streamlining our business and making sure that we were making some priority calls in places.
+As I look forward, Q4, Q1, we've talked about lower-than-expected revenue due to some of the channel issues. As we go into Q2 and beyond, we're really focused on growth, and it's really all about the products and customers and getting our products out into the marketplace. So that's really my focus.
+John Pitzer - Credit Suisse
+Thank you guys.
+Operator
+Our next question comes from Vivek Arya from Bank of America Merrill Lynch. Please go ahead.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you for taking my question. One for Devinder and then one for Lisa.
+Devinder, there are $212 million payable to Global Foundries. That will be paid in Q1, so that will bring cash down to the $800 million or so, and then you expect a recovery to get back to the $1 billion optimal zone? Do I have that right?
+Devinder Kumar
+If you're talking about the $212 million as the AP balance that's associated with Global Foundries on the balance sheet, then obviously those are budgets that we have made in 2014 before the year ended, and that cash obviously is due to Global Foundries to be paid, call it in the first quarter of 2015 is when that cash will be paid. But from a purchases standpoint, the way it works in WSA is the wafers get delivered, and like I said, against the 1.2 that we expected when we closed 2014 WSA, we purchased $1 billion worth of wafers. As we ended 2014, we made a mutual decision to reduce the supply and purchases based on market conditions, and the 2014 WSA is complete.
+We are in discussions about the 2015 WSA. The supply continues based on the good relationship we have with our partner. There is no issue there. But we are working out the details to fully finalize and sign the 2015 WSA.
+Vivek Arya - Bank of America Merrill Lynch
+But Devinder, you expect when that payment is made, for the cash to perhaps temporarily dip below the $1.2 billion optimal zone, and then to pick back up again in later quarters? I'm just trying to understand the trajectory of your gross cash during the year.
+Devinder Kumar
+Yes. No, I understand, I understand the question. I think, you know, you're saying, okay, you've got money due to Global Foundries but I have other accounts payables and accounts receivable due too, so, net-net, the goal is to manage our cash balances in the optimal zone of $1 billion. So from my standpoint, as we end Q1, when we are sitting here in April talking about the Q1 cash balances, I expect to be in the optimal zone of over $1 billion.
+And Vivek, you have seen that over the last many, many quarters despite some challenges off and on, we've been able to manage the cash pretty well in the optimal zone and well above the target minimum of $600 million.
+Vivek Arya - Bank of America Merrill Lynch
+Got it. And then maybe for Lisa, as you mentioned that the game console units could grow somewhat this year. I'm interested in understanding what happens to your ASPs now that you're in the third year of launch. Should we think of your ASP, you know, AMD's ASPs be sort of flattish, or could they be up or down this year? What happens typically during the third year of this kind of very prominent launch?
+Lisa Su
+Yes. So, Vivek, we have long-term agreements with our customers relative to ASPs, so there is some ASP decline. It's fair to say that it's less than it was in the early years.
+Vivek Arya - Bank of America Merrill Lynch
+Got it. And just one last thing, to look at the bigger picture here, Lisa. You're doing a very good job managing costs and AMD has always had good technology. But I'm trying to understand how you get out of this perennial restructuring mode and start growing again, because it appears to me that all the benefits of all the pipeline you're building in semi-custom continue to be offset by some of the pressures on the traditional PC and the CPU market. Is it that you expect those traditional markets to start recovering? Or do you think we might be under-estimating the benefit that you might get on the semi-custom side? Thank you.
+Lisa Su
+Yes. So, Vivek, I mean if I just take a step back and just talk about what we're trying to do overall in our strategy, we really are a technology company. It's all about our IP and our products and what we put in the marketplace.
+If you look at our two businesses, I think we've shown that we can grow our business. The enterprise, embedded and semi-custom growth, very nice growth, very predictable, profitable. I'm confident that's on the right track, and in terms of what we're going to do across those market segments. I will say, if anything, we want to make some bolder technology bets in that area to fuel that growth.
+And then on the computing and graphics business, I do believe that we will stabilize this business. I mean the last couple of years have been difficult, some relative to market conditions, some relative to things that we could have done better. But overall it's 300 million units. That's a big market. And so most every customer would agree that AMD can add value in that space and we're focused on making sure that our products really add value to that ecosystem.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you.
+Operator
+Our next question comes from Hans Mosesmann from Raymond James. Please go ahead.
+Hans Mosesmann - Raymond James
+Thanks. Hey, Lisa, some clarification on really the second half of last year. Was -- the inventory situation that you're dealing with now, is that -- how much of it is the competitive dynamic and how much of it was just in-demand, being weak in China for example?
+Lisa Su
+I think it's different in the different markets. I think with desktop, it's more, you know, in-demand relative to China and perhaps we were a little bit long on inventory earlier in the year. I think in the graphics channel, again I said it was a bit volatile in the first half of the year. Some of that is due to competitive dynamic but I think some of that is, as I said, due to the fact that the first half of the year was so strong.
+Hans Mosesmann - Raymond James
+Okay, thanks. And then as a follow-up, on the ARM side of the equation, you mentioned that you expect shipment [inaudible] this year. It seems there's somewhat of a delay. What's going on there specifically with Seattle and how it got sampled and how it's being adopted?
+Lisa Su
+Yes. So we have Seattle actually sampled in a number of different customers and ecosystem partners. I think with -- the good news is that the ecosystem is designing on AMD silicon, so I think that's good. Relative to the overall ramp, we always thought of this as a slow ramp. And so we'll see production shipments in 2015. But primarily we've seen a lot of ecosystem partners spending quite a bit of time on the software on our silicon.
+Hans Mosesmann - Raymond James
+Okay, super. Thanks.
+Lisa Su
+Thanks, Hans.
+Operator
+Our next question comes from Christopher Rolland from FBR Capital Markets. Please go ahead.
+Christopher Rolland - FBR Capital Markets
+Hey guys. Thanks for the question. So, looks like Samsung and GloFo are potentially making some headway here on the foundry side towards 2014. Can you guys talk about your plans to leverage that or to avoid that and what we can expect through the year, for [inaudible] silicon?
+Lisa Su
+Yes. Chris, we are actively designing a number of products in 14 -- the 14-nanometer technology. I think that will be very important for us in -- from a competitive standpoint. So it's an important technology for us.
+Christopher Rolland - FBR Capital Markets
+Okay. And then also, if you want to -- if you can provide any details on timing, I'd love that. But outside of that, can you talk about the slide in PC operating profits and when you expect to sort of return to breakeven, and whether that OpEx step-down we get in Q1, is that all coming from compute and graphics? Thanks.
+Lisa Su
+Yes, I'll take the first part of that, then I'll let Devinder take the second part of that. So, relative to timing on FinFET, we will be talking more about our long-term roadmaps at our financial analyst day, so I'll hold that question there.
+Then, Devinder, you want to take the OpEx?
+Devinder Kumar
+Yes. On the OpEx side, obviously with the decline in the business, and in particular with the guidance we provided in Q1 here, the OpEx has come down, as you observed. And I would say two things. Lisa said in the prepared remarks that we are investing on the R&D side for the embedded, enterprise and semi-custom business, with the things that we talked about on embedded. It's growing pretty nicely. The enterprise side on the server piece we need to make the investments for the customers so that we can return higher market share from an overall standpoint. And then the semi-custom side, in addition to the design wins that we have, we have a healthy pipeline, and we want to continue to grow that business.
+So I think overall when we look at the OpEx side of the house, it is probably true that, on the CG side, it's where the expenses are coming down, more than probably in the embedded, enterprise and semi-custom. But overall we are managing the OpEx in line with revenue while protecting the investments on the R&D.
+Christopher Rolland - FBR Capital Markets
+Great. Thanks guys.
+Operator
+Our next question comes from Ross Seymore of Deutsche Bank. Please go ahead.
+Ross Seymore - Deutsche Bank
+Hi. I guess first question is for Lisa. On that inventory side of the equation, what are you guys planning to do differently if anything going forward? You've already answered a little bit about what you thought the causes of the excess inventory would be. Is there anything you would do in retrospect differently? And looking forward, does that mean you keep the channel tighter than before? Are there any business implications that we should be aware of?
+Lisa Su
+Yes, Ross. So on the channel, I mean I think in general, it's much better to keep supply sort of in line with demand. And certainly that will be important for us going forward.
+Secondly, the sell-through velocity I think will be modulated by our products, and as we put new products into the channel over the next couple of quarters, I think that will increase sell-through velocity.
+I did mention China as one of the areas where we have to just how that develops and how the DIY market in particular develops. But again, I think this is about matching supply with demand and not getting out of synch there.
+Ross Seymore - Deutsche Bank
+And I guess as a follow-up, one, for Devinder. In the EESC segment, you mentioned that the operating income was pretty much flat sequentially, and it sounded like royalties were the cause of that. Can you give us a little bit of color on what were those royalties? Is that just a seasonal effect that goes away? Or how should we think about those going forward?
+Devinder Kumar
+I don't think they go away. They were obviously very nice in the Q4 timeframe based on some technology licensing that we have related to royalties that we collect, but they don't go away. They continue into 2015.
+Ross Seymore - Deutsche Bank
+So it's not just a seasonal effect?
+Devinder Kumar
+Well, I would say, in Q4, it was nice than what I would otherwise expect, so, you know.
+Lisa Su
+It is somewhat related to end-shipment. So, because of the end-shipments were higher in Q4, they were higher in Q4.
+Ross Seymore - Deutsche Bank
+Okay, great. Thank you.
+Operator
+Our next question comes from Sanjay Chaurasia from Nomura. Please go ahead.
+Sanjay Chaurasia - Nomura
+Hi, Lisa. A question on gaming console. You indicated 30 million shipments this year. And if I go back historically when these gaming consoles were launched, I think the first year sales were roughly between 15 million and 20 million. My question is it seems like this higher sales could be because of expanded availability in different regions. And as you look into next year, what gives you confidence that you could grow this in terms of units or in terms of your revenue in 2015? And then I have a follow-up.
+Lisa Su
+Sure. So, Sanjay, let me just clarify. In terms of the unit shipments, those are unit shipments from our customers to end-users. And that's, you know, most of that is publicly available data from what Sony and Microsoft have published.
+So, relative to historical, I think most people will say that historically the game console shipments in this generation are higher than in the previous generation. And you can come up with all kinds of reasons for that, some of that is sort of the price points that they've chosen. I think that certainly helped the holiday season. Some of that is software titles that are available at a given point in time.
+I think the main thing is, you know, as we look at any holiday season, we want to make sure that there's not a lot of inventory that's sitting with our customers. And we see that that's very, you know, fairly well-balanced. And so that gives us confidence, as you go into 2015 and you see new titles that are launched and those come out, that it should be a fairly normal market.
+Sanjay Chaurasia - Nomura
+Then a question on desktop. It seems like sales declined 30% sequentially and kind of declining at a similar level. I believe you indicated inventory is a factor here. But key question is that, you know, with the, you know, you're not saying that the demand decline was because of a roadmap issue or a vacuum in the product stack. Going forward, given that this has declined so much, do you have enough OEM support to carry these desktop SKUs with the OEM? Or would OEM ask you to burden a greater portion of the R&D costs associated in carrying these SKUs because this has really become a very -- the scale of this business has become really small? And so question essentially is, what kind of challenges do you see when you, you know, when you have the product to revive the desktop market?
+Lisa Su
+Sure. So the way I would say it is something like this. It's clear that our mobile products are very competitive. We've invested heavily in mobile. And you see that with some of the successes that we've had. Relative to desktop, mobile and desktop actually share a lot of technology. So, certainly there's a lot of sharing there in terms of the cores and the IP and the designs.
+There are things that we will do to improve the competitives of our desktop products as we go forward. And so again, I view it as a market that we know well. And within the spend envelope that we've already defined, we will continue to compete in both the desktop and mobile markets.
+Sanjay Chaurasia - Nomura
+Thank you so much.
+Operator
+Our next question comes from Cody Acree from Ascendiant Capital. Please go ahead.
+Cody Acree - Ascendiant Capital
+Hi guys. Thanks for taking my questions. Lisa, regarding the inventory excesses, I guess as you look at, not just the consumer side but also the enterprise side, what level of visibility you think you have comfort with about this cleaning-up in Q1?
+And then on the enterprise side, knowing that it looks as though maybe the Microsoft PE upgrade cycle is tailing off a bit, how much are you counting on share gains in the enterprise side to help out?
+Lisa Su
+Yes. So, relative to the channel inventory, it is primarily consumer and it's primarily the, as I said, the DIY channel that we're highlighting.
+Relative to enterprise, I think our progress in enterprise is less due to the overall market and more due to just having products that are more capable in the enterprise. If you think about how our products have evolved from let's call it fairly low-end to now as we get to our higher-end products, are very competitive. I think that plus the design wins that we have, you know, give us some optimism about commercial.
+Cody Acree - Ascendiant Capital
+And then just as you look around the rest of your businesses with some of your semi-custom wins not really expected to kick in until 2016, embedded grew nicely but it does have pretty long tails as well, I guess as you look into the second half of this year, what are you doing now that really might be able to drive surprises in the second half? Or does a lot of this growth become more of a 2016 sort [ph]?
+Lisa Su
+I think the key for us, as I said, is on EESC, the enterprise, embedded and semi-custom, I think we have a good path. Some of it will depend on what the market does with game consoles and we'll just have to see how that develops over time.
+I think on the computing and graphics business, we can improve our execution and there is a lot of focus, at least from my standpoint, to ensure that our 2015 product launches are quite strong. So that's important for us to really stabilize that business, and that will certainly be key to our second half performance.
+Cody Acree - Ascendiant Capital
+Great. Thanks. Good luck.

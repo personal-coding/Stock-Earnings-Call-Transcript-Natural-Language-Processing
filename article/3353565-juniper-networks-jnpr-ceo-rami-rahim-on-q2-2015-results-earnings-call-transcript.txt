@@ -1,0 +1,341 @@
+Juniper Networks (NYSE:JNPR) Q2 2015 Results Earnings Conference Call July 23, 2015 5:00 PM ET
+Executives
+Kathleen Nemeth - VP, IR
+Rami Rahim - CEO
+Robyn Denholm - CFO and COO
+Analysts
+Rod Hall - JPMorgan
+Simona Jankowski - Goldman Sachs
+Tal Liani - Bank of America
+Amitabh Passi - UBS
+Mark Sue - RBC
+Jess Lubert - Wells Fargo
+Brian White - Cantor Fitzgerald
+Sanjiv Wadhwani - Stifel
+James Faucette - Morgan Stanley
+Ittai Kidron - Oppenheimer
+Kulbinder Garcha - Credit Suisse
+Vijay Bhagavath - Deutsche Bank
+Paul Silverstein - Cowen
+Jeff Kvaal - Nomura
+Operator
+Greetings. And welcome to the Juniper Networks Second Quarter 2015 Earnings Results Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+I would now turn the conference over to Ms. Kathleen Nemeth, Vice President of Investor Relations. Thank you, Ms. Nemeth. You may now begin.
+Kathleen Nemeth
+Thank you, Operator. And thanks for joining us today to discuss Juniper Networks second quarter financial results and outlook for the third quarter of 2015 which we announced earlier this afternoon.
+With me today are Rami Rahim, Chief Executive Officer and Robyn Denholm, Chief Financial and Operations Officer.
+Today's call may contain forward-looking statements, including statements concerning Juniper's business, economic and market outlook, strategy, future financial operating results, capital return program, and overall future prospects.
+Actual results might differ materially from those projected in the forward-looking statements. Additional information that could cause actual results to materially differ from those in these forward-looking statements are listed in our most recent 10-Q, the press release, and in other documents that we file with the SEC from time to time.
+All statements made during this call are made only as of today. Juniper undertakes no obligation to update the information in this conference call in the event facts or circumstances change after the date of the call.
+Our discussion of the financial results today will include non-GAAP results. Full GAAP to non-GAAP reconciliation information can be found on the Investor Relations section of our website.
+For important commentary on why our management team considers non-GAAP information a useful view of the company's financial results, please consult the press release furnished with our 8-K filed with the SEC today.
+Now, I'll turn the call over to Rami.
+Rami Rahim
+Thanks, Kathleen, and welcome everybody. We delivered a solid second quarter for 2015. Revenue was stronger than the outlook we provided partially as a result of recognition of differed revenue but also as a result of an overall improvement in demand across several of our key customer verticals.
+I am particularly pleased with the broad diversity of both bookings and revenue in the quarter. Strong operating margin and EPS reflect our ongoing focus on execution and our disciplined approach to managing our expenses while we invest in the future of the company. I am proud of what weâve accomplished while at the same time mindful that there is still more we can do to achieve our company's full potential.
+This quarter we unveiled several new products and innovative new addition to the QFX5100 product family of datacenter switching that converges compute resources, and customizable logic into the network. And ultracompact three terabits per second core router the PTX 1000 that achieves unprecedented levels of power efficiency and performance.
+And we also introduced enhancements to the SRX which make it the industry's fastest firewall that will enable our customers to secure their cloud network without slowing them down. Our priority now is on execution as we expect to begin the first shipments of these new products in the near future.
+We are investing a next generation IP networking and solutions in ways that help our customers perceive business transformations with profound effects on the cost efficiencies and time to market. By engaging with our customers directly at the engineer-to-engineer level, we've collaborated on solutions that produce the ultimate in agility and automation.
+Building these relationships has resulted in some exciting new customers this quarter, including some great technology innovators in Silicon Valley. One of which is a fast-growing global transportation network company.
+We're also pleased with the continued momentum we are seeing with our cloud services customers. It's truly an honor that so many technology pioneers continue to look to Juniper to enable them to build the advanced IP networks that their businesses depend on. I know how proud all of us at Juniper are about this.
+Let me summarize some highlights this quarter across the routing, switching and security components of our business. While we are excited about the new products we announced this year, this quarter's results reflect strong performance of our current routing portfolio and particularly a record quarter for both the PTX and MX series.
+In Q2 momentum with the PTX accelerated as customers continue to embrace the architectural thesis behind this product line, which radically increases transport efficiency in any IP wide area network. We have been at the forefront of driving this vision for efficient high performance IP transport.
+With the MX customers began adopting our recently introduced line card contributing to exceptionally strong MX revenue this quarter. We also secured early orders for all our recently announced edge products, including the ACX5000 and the virtual MX.
+We are building on the clear success of our edge routing platform across all verticals and leveraging our worldwide market footprint to drive the architectural transition towards virtualization and programmability. We believe our compelling routing solutions with our ongoing execution will continue to drive growth and enable us to take market share.
+As an example, we had our first revenue customers of the virtual MX in Q2, and furthermore our Northstar WAN SDN controller is in beta trials and is receiving positive field reception. Our Contrail solution has moved into production deployment and is fast becoming the option of choice for OpenStack environments.
+In switching, we also had a record quarter for the QFX series. We saw good momentum in the data center with broad based strength in the enterprise, as well as growth for cloud providers and carriers.
+Customers value our switching innovation in the data center, because it helps them stay ahead of their need for scale and performance, while also providing rich Layer 3 capability, deep network visibility and automation.
+We expect that our high leverage R&D strategy will allow us to easily bring the innovation to our EX product family over the next year for a mission-critical enterprise campus and branch network.
+In security, I'm pleased with our revenue growth of 15% sequentially and 12% year-over-year, excluding Junos Pulse. Specifically these results were driven by growth in the high end and branch SRX products in cloud data center, mobile carrier and enterprise customer segments.
+Having said that, there is still a lot of hard work for us to stabilize this element of our business. I continue to expect 2016 to be the year of growth for us in security, and I expect it to be a bit bumpy as we get there.
+Juniper's integrated network security strategy enables us to be a strong provider of secure network, and we remain confident we can win. However, it will take us time as I stated.
+We continue to see industries trends unfolding largely as we expected. There is no shortage of demand for network innovation as more and more organizations are turning to the cloud to transform their business and as network traffic growth remains healthy.
+Our results speak to the fact that our strategy is resonating with our customers, and we will continue to deliver on our vision to be the worldwide leader in network innovation.
+In closing, we remain steadfast in our commitment to drive profitable long-term growth and increase shareholder value. We continue to execute with a sense of urgency and a disciplined approach to how we manage the business.
+I am thankful for our customers, partners and stockholders who share our vision and for our outstanding employees who work hardest to help us achieve our success.
+Now I'll turn it over to Robyn to share her thoughts on the quarter.
+Robyn Denholm
+Thank you, Rami, and good afternoon, everyone. Similar to last quarter, we posted my detailed CFO commentary on our website prior to this call.
+For the second quarter of 2015 we delivered strong financial results which reflected strength in our underlying business and the focused execution to our strategy. Our results succeed in both our revenue and earnings expectations for the quarter with solid sequential growth across routing, switching and security.
+The following factors contributed to the revenue outperformance this quarter. Revenue recognized from product deferred revenue, the majority of which was due to the delivery of product and feature commitments and a sell-through of channel inventory.
+Demand was also better than we anticipated in the following areas, cloud and cable providers, enterprise and to a lesser extent a sequential improvement from regional carriers in the Americas.
+The improved demand was also reflected in security, which had a growth quarter primarily due to the timing of high end SRX deployments. The underlying demand metrics were healthy this quarter with product book-to-bill greater than one.
+Product backlog increased sequentially and significantly year-over-year. As I mentioned the sequential decline of approximately 19% in product deferred revenue positively contributed to our results this quarter.
+Our solid execution, focus on revenue growth, effective cost management and a significant reduction in our share count enabled us to deliver strong year-over-year and quarter-over-quarter non-GAAP operating margin and earnings per share expansion.
+In the quarter we completed $600 million of share repurchases. Since Q1 of 2014, inclusive of share repurchases and dividends, we have returned approximately $3.4 billion of capital to shareholders, against our commitment to return $4.1 billion by the end of 2016.
+Now let's take a look at some of the underlying assumptions behind our outlook for Q3 and the demand environment in the second half of 2015. Industry trends continue to unfold largely as we expected. There is obviously some uncertainty around the macro environment, conditions in China and certain parts of Europe.
+We have factored into our outlook continued weakness in China and ongoing softness in the relative exchange rate of the euro. Consistent with our view last quarter we anticipate an improvement in our revenue in the second half of 2015 relative to both the second half of 2014 and the first half of 2015, and this is based on the following assumption.
+We expect continued diversification of our revenue with cloud and cable customers and improved demand from large US carriers. We also expect continued improvement in the enterprise market along with growth from some of our international customers as they continue to build out their networks.
+You can find the detailed outlook for Q3 in the CFO commentary available on our website.
+In summary, I'm pleased with our strong performance in Q2, and I would like to thank our team for their continued dedication and commitment to Juniper's success.
+I now, I would like to open the call for questions.
+Question-and-Answer Session
+Operator
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] Our first question is from Rod Hall of JPMorgan. Please go ahead.
+Rod Hall
+Yes. Hi, guys. And thanks for taking my question. Nice quarter as well. So I wanted to start off I guess by asking you about the deferred revenue a little bit and see if you guys could dig into that in just a little more detail, maybe give us some idea of what product categories the deferred revenue was released on.
+As well as I guess Robyn in the guidance, could you talk a little bit about do you expect another release of deferred revenue next quarter or is that more organic revenue growth that you're guiding for? And I've got a follow-up.
+Robyn Denholm
+Thanks, Rod. I'll answer that question and if Rami has anything to add I'm sure he'll chime in. On the deferred revenue as you know on the balance sheet we have services in product deferred revenue.
+Our product deferred revenue quarter-over-quarter was down about $48 million. Some of which obviously we were expecting and anticipated in the guidance, and some of which we didn't. So I wanted to call out the fact that we did see some upside in terms of the quarterâs absolute results that came off the balance sheet.
+Having said that, we are very, very pleased with the underlying demand and so as you can see our demand metrics are very healthy for the quarter, both in terms of product book-to-bill, but also in terms of the overall strength across the routing, switching and security areas and in the fact that the backlog is up significantly year-over-year.
+So primarily the product deferred revenue in terms of guidance for Q3, obviously we always have projects that we are delivering and new projects that come on to the balance sheet, as well as future features that we're delivering through our software releases. And so for Q3 we don't expect a material change in terms of any further recognition.
+The other thing that I wanted to point out, in Q2 part of the reduction in product deferred revenue was associated with the channel. So as you know we record revenue on a sell-through basis.
+In terms of the channel inventory at the end of the quarter it was actually quite healthy demand in the enterprise space which we talked about, which actually resulted in some of the deferred revenue reduction in the quarter.
+Rod Hall
+Okay. Thanks, Robyn. And I - just my follow up. Well, okay. Can I have a follow up or no?
+Robyn Denholm
+Switch over to next question.
+Rod Hall
+Okay.
+Kathleen Nemeth
+No, no. Let's go to next question, and we'll circle back if we have time. Thanks, Rod. Next question?
+Operator
+Thank you. The next question is from Simona Jankowski of Goldman Sachs. Please go ahead.
+Simona Jankowski
+Hi. Thanks very much. I just wanted to ask you in terms of just the â performance for the company, now this is the third quarter, would it been raised and that's before you've had the Tier 1 carriers kicking in, in terms of the anticipated improvement in the second half, and also before you test some of the recent product launches kick in as well.
+So I just wanted to understand a little bit how much of this is a function of the end demand environment versus your own execution versus any other factors you might point to?
+Rami Rahim
+Okay. Great. Thanks for the question Simona. I'll start and I'll see if Robyn has anything to add. Obviously we were pleased with the results in Q2 and I think there are a couple of underlying themes that are indicative of what we saw.
+First and foremost is the continued diversity in our business across a number of key verticals that have offset continued weakness in the telcos space. So cloud, cable were kite strong for us in Q2, but we're also seeing good business in terms of large enterprises and some of these, we call a high-tech companies in the Valley and elsewhere.
+The other thing that we saw happening in Q2 is just around the diversification across product lines. We saw sequential growth, healthy sequential growth across switching, routing and security. So all of that helped offset some of the cyclicality that would exist in the business.
+And your question around the second half is essentially largely playing out as we have been articulating over the last several quarters, where we expect to see some improvement in telco, but we have not been waiting for that improvement to come ideally.
+We have been in a mode of actively focusing on making sure that we have the products and the go to market focus to continue to diversify the business and that's what's helping â and I expect that to continue to help into the second half.
+As you get even beyond the second half, you know you mentioned the new products. We remain extremely excited about the new products that we announced in the Q1 timeframe. But those are not going to be significant contributors to revenue this year. Those really start to contribute next year. And that's yet another way that we help offset some of the cyclicality that exist in the business.
+Robyn Denholm
+Yes. Just to add and Rami said it very well. We are pleased with the results in the quarter. We are also pleased with the previous two quarters as you mentioned. But we're not confused. We are still down year-to-date on a revenue basis year-over-year and there is still a lot of work to do.
+So the team is focused on doing that, they are delivering. The execution is very good from the team across the board and I've seen Rami talked about some of the underlying trends that we're executing towards. So I think overall we're pleased with the health of the business.
+Simona Jankowski
+Great. Thank you.
+Operator
+Thank you. The next question is from Tal Liani of Bank of America. Please go ahead.
+Tal Liani
+Hi, guys. Two questions. First is about the operating margin. 25% this quarter, 25.2% very high, what's the target, what's the next target and how do you think about it next year, how much upside?
+And again if you cannot give a quantitative guidance, maybe you can just speak about the puts and takes in what drives it up, what drives it down, so we know how to better model this.
+Second question is about the strength this quarter. Again, it's a question that I can ask on a quantitative way or qualitative. And the question is how much of the growth is pent-up demand, meaning customers are waiting for new product for a while and there is concentrated orders in one quarter, two quarters et cetera and after that it normalizes down.
+And how much of it is more about you finally having something and then the opportunities are wide and big and it opens up new market et cetera? So I'm trying to understand the sustainability of what we are seeing this quarter? Thanks.
+Rami Rahim
+Okay. Hey, Tal. This is Rami. So let me start and then I will pass it over to Robyn. On the operating margin, we remain committed to our long-term model that we expressed to you guys in October of last year, which is 25% in a 3 year timeframe.
+Yes, we hit 25% in the Q2 time frame. I don't expect it to be consistently that in - throughout the 3 year period. It might ebb and flow a little bit as it gets there, but 25% in a 3 year timeframe remains our long-term model.
+In terms of the question around the strength of the business, pent-up demand. There isn't really anything that would suggest it was pent-up demand that all got released on a new product or a new market opportunity. In fact, what we saw as we mentioned in our prepared remarks was strength across a number of our key product lines, the MX the PTX the QFX all of which had record products.
+We've been investing and innovating in all three product lines. We've been consistently introducing new line cards, new features and new capabilities. We've been winning new business with them throughout all of last year and the last couple quarters of this year. And what you're seeing now is the - that execution playing out in terms of strength.
+So I don't think there is a sort of pent-up demand element that we're seeing right now, that resulted in the strength in Q2. It's just solid execution on the part of the Juniper team.
+Robyn Denholm
+Yes. I'll just add on the operating margin comment. We are pleased with hitting 25.2% in the quarter. Our view is that it shows the strength of the model. We've been very disciplined on the cost side as Rami indicated. We've obviously taken out structural costs over the last year. We're investing in the right product areas and the team is continuing to do that.
+But we're also demonstrating that there's a lot of leverage in this model. If we get some upside in the revenue or some good growth in the revenue and we are up year-over-year, if you exclude the Junos Pulse acquisition from the Q2 results of last year, albeit modestly up and a lot of that dropped to the bottom line.
+The other part of that which I'm sure you've noticed is that we are headed towards our 39% of revenue from an OpEx perspective, which again as Rami mentioned we're committed to doing, and we made very good progress for that this year.
+So there's a long way to go before we hit what we stated last year in terms of the overall business model, but we're pleased with the progress.
+Kathleen Nemeth
+Thanks, Tal. Next question?
+Operator
+Thank you. The next question is from Amitabh Passi of UBS. Please go ahead.
+Amitabh Passi
+Hi, guys. Thank you for taking my question. Rami you mentioned PTX a few times in the call today. I was just curious is this incremental demand from existing customers, are you seeing your footprint significantly expand? Maybe you should give us some clarity on the demand drivers.
+And then Robyn, just quickly on OpEx, should we now expect OpEx at the upper end of your $1.9 billion plus or minus $25 million for this year.
+Rami Rahim
+Okay. Thanks, Amitabh. So on the PTX question, I think that it's both. Its what we're seeing is business where we had already been deployed now expanding with some of the newer line cards and capabilities we've introduced into that product line.
+We're also seeing new or use cases across different verticals, so I will say for example the PTX because of its power efficiency and just the sheer scale has started to become adopted by the cloud provider customers. They love that sort of technology and transport efficiency in that product line. And I continue to believe that it will strengthen over time.
+Keep in mind that we're about to introduce pretty incredible enhancements to it. The announcements that we announced in the Q1 timeframe, that triple the performance and reduce the power even further. And there is a certain segment of our customers that just love that type of capability. And I'll pass it on to Robyn for the OpEx question.
+Robyn Denholm
+Thanks, Rami. So on the OpEx side, as I mentioned in response to the last question about the operating margin. We are very committed to prudent cost management over the future, as we've demonstrated over the last year.
+Our long-term model is to grow OpEx well within revenue and we've done - we've obviously been taking out OpEx at a faster rate than our revenue declines over the last period of time.
+We are below the last few quarters in terms of the percentage of revenue. We've been above 40% in Q1 in the back half of last year in terms of OpEx as a percentage of revenue and we're headed toward the area that we outlined in October of last year of 39%.
+So our view is that the business is strong and healthy as we mentioned before. We put out the $1.9 billion plus or minus $25 million at this time last year and we've executed to that very, very well. As we move forward, as we start to see revenue growth, then we expect to be towards that 39% of revenue in terms of OpEx.
+And so you could say there are certain scenarios where you could see us be slightly above the 19, 25 [ph] but it would be as a result of revenue factors and that would be on variable comp, as opposed to investing more dollars. It would be around that variable nature of the cost that we've been speaking about for some time.
+Rami Rahim
+Let me just emphasize that point. If in fact we do see that we start to get to the top end of our OpEx range or even beyond that it, it will not be because we will take our eye off the ball in terms of OpEx management, it will only because â it will be because of the variable comp element that's tied to revenue.
+And at that point, I would just say that the focus should anyways tilt towards profitability and specifically OpEx as a percentage of revenue, which this quarter or in Q2 was below 40%.
+Amitabh Passi
+Excellent. Thank you, guys.
+Kathleen Nemeth
+Thanks, Amitabh. Next question please?
+Operator
+Thank you. The next question is from Mark Sue of RBC. Please go ahead.
+Mark Sue
+Thank you. Are we now at the point where we're making significant investment of this is the portfolio, how should we think about the switching side, continued investments there and how should we also think about security.
+We're seeing a balance after many quarters of declines, and particularly if you can give us a sense of how customers are resonating with a combined solution for both switching and tying that with security, what landscape that continues to live up that would be helpful?. Thank you.
+Rami Rahim
+Sure. Thanks for the question Mark. On the switching side I'm really pleased with the progress that the team has made. From a go-to market standpoint, we continue to see more traction, both in terms of service providers in the enterprise side. I have said in the past that we have been competing in this space without a complete portfolio that includes our spine switches and that has limited the total addressable market opportunity for us.
+That's largely now being addressed this year with a new series of QFX spine switches that we will start to introduce. So that I think is going to help us maintain and improve the momentum over time.
+Now it takes time for our customers to evaluate test - fully test and certify these new spine switches. But so far the early feedback from our customers is very positive
+And your question around the portfolio itself that includes switching, routing and securities is actually a very good one, it is in fact a muscle that we're building in the organization and a clear strategy of ours to talk to our customers around cloud architecture as opposed to just switching in a silo.
+We're doing all of our training around that and it's resonating with our customers, and we've seen, especially in terms of security, there is this incredible opportunity to leverage insights that comes from switching and routing in the cloud that can help your overall security posture and also leverage your switching and routing in the cloud to install policies that can prevent the tax from spreading if and when they actually occur.
+So that portfolio sale is very much part of our strategy and all the sings are that it's actually working quite effectively.
+Kathleen Nemeth
+Great. Thanks Mark. Next question, please.
+Operator
+Thank you, the next question is from Jess Lubert of Wells Fargo. Please go ahead.
+Q â Jess Lubert
+Hi, guys. Thanks for taking my question congratulations on a strong quarter. My question is also for Rami, and I also wanted to dig into the portfolio cell, and specifically this is the first quarter in a long time where we're seeing switching, routing and security, all see very strong sequential results in the same quarter.
+So, I was hoping you could help us understand to what degree this is due to an uptick in customers buying a portfolio of your products and perhaps you can help us understand the pipeline you're seeing of large multi product deals, the sales efforts here and to what extent you're seeing a competitive advantage from taking a multi product base selling approach?
+A â Rami Rahim
+Right, I think it's still early days and there is still a lot more potential for us if you will, of leveraging portfolio selling to actually improve the overall results across all the different product line.
+So that exists today, it existed in the past but what we're doing right now is we're essentially doubling down on the marketing, the collateral, the sales training that will actually in fact help us make this the key differentiator for us.
+The other thing that we're doing is we're implementing features. So for example, some of the tie in between security, and switching, routing I just mentioned in the answer to the previous question, requires certain capabilities that you actually build into these product lines.
+There are definitely -- I don't know the exact percentages that I can answer your question with, but there are definitely large opportunities that we have won both in the enterprise and in the service provider, but where it has been portfolio that some combinations of our products.
+In Q2, strength in switching and in routing is anticipated, I think the momentum there is solid because of the strength of our portfolio in each of those segment. In security, we still have more work to do. There is -- we saw a good quarter I think because of the fact that we had great opportunities and revenue in both enterprise and SP, but I think there could be a little bit of a bumpy ride as I mentioned in my prepared remarks before we get to sustained growth in 2016.
+Q â Jess Lubert
+Thanks guys.
+Kathleen Nemeth
+Thanks Jess.
+Operator
+Thank you. The next question is from Brian White of Cantor Fitzgerald. Please go ahead.
+Brian White
+Yeah, Rami, I'm wondering if you could just update us on what you're seeing right now in terms of appetite for NFE and SDN solutions here, and how you're thinking about it going into the next year? Thanks.
+A â Rami Rahim
+Sure Brian, it's definitely part of pretty much every strategic discussion that we have with any one of our -- especially service provider customers, in some cases also in the enterprise base, but mostly on the service provider side.
+Right now it's very much an architectural discussion of what's needs to evolve within the service provider network locations, what we call central offices or PoPs as to set their infrastructure up in order to be capable of delivering next generation services using NFV.
+For us what it means is, first you need to develop great VNS, virtual network function. It's our software services that will be delivered off the cloud, and we're doing just that. So we just recognized our first revenue in the virtual MX in the Q2 time frame, and the virtual SRX is also a really great example of taking what is a physical product and take and using or leveraging all of the great functionality but repurposing to virtual machines sitting on generic server.
+Those VNS and that architecture, that's only part of the problem. In order to really package the solution together you need to have automation and orchestration and the management to help our customers actually deliver these services with agility and with ease to their end users.
+And this where product like Contrail comes in, and most service providers that we're seeing are gravitating toward an OpenStack based orchestration solution, our goal for Contrail is simple, to make it the best networking stack for OpenStack.
+And I have to say that the data we're getting directly from our customers but also through surveys. for example, that were conducted at the OpenStack forum just a few weeks ago suggest that we are heading in the right direction in terms of achieving that goal.
+So it's still early days in summer, but I feel very good about the discussions we're having, the products we're building, the way that we're executing, and the go to market attention we have in terms of just making sure that we emerge as true winners in this space.
+Brian White
+That was good, thank you.
+Operator
+Thank you, the next question is from Sanjiv Wadhwani of Stifel. Please go ahead.
+Sanjiv Wadhwani
+Thanks, just one clarification and then a question. On the clarification, Robyn remind us if you've disclosed exposure to the cloud vertical as to percentage of revenues coming from there.
+And then Rami, a question for you, wondering how much of the underlying demand in the telco vertical, whether it's happened or it's coming is from 10 to 100 gig upgrades, and if that's happening, where we are in that cycle, in that upgrade cycle? Thanks.
+Robyn Denholm
+So, thanks Sanjiv. In terms of the percentage of revenue, we haven't put out the overall mix in terms of percentage of revenue since Q3 of last year. We will look to possibly do that in the next period of time.
+Having said that, what I will share with you, like I did last quarter is the number of customers and our top 10 customers in the quarter. So for Q2, our top 10 customers, four were telco, two were in the U.S. and two were not in the U.S. Five were cloud and cable customers, and one was the large enterprise customer. And so if you recall last quarter, there was one more telco customer and one less cloud and cable customer in the top 10.
+What I will also say is you know this underlying same as diversification is absolutely real in terms of that number of customers that we have in each one of the areas that we're talking about, both in terms of telco, not only U.S. but also international.
+The regional carriers as I mentioned in my prepared remarks today or in my commentary, were actually good for us in the U.S. in the second quarter. And so the diversification is they are across all of the different verticals as well as within the vertical how many customers we're serving, and then also the third element of geographic diversification.
+A â Rami Rahim
+And Sanjiv, on your question around 10 to 100 gig migration and that helping with momentum in the telco space. I think that has actually, largely started in certain network layers of the service provider space a while back in the wide area network, and the metro networks and we certainly benefited from that to some extent. 
+But beyond that, I think it will continue and it will move into different use cases and applications. Cloud providers for example, loved the fact that our security portfolio, the high end SRX actually supports 100 gig interfaces to connect their clouds to the wide area network and when it comes to 100 gig interfaces on a firewall, that we're the only game in town. Really, so that's the use cases have actually became a very good use case for us.
+And then certainly there is a migration that's happening in the core of the datacenter as well that we are taking advantage of. I don't think that there was any sort of a step function change anytime recently. I think this is an ongoing transformation that's happening across the SP space and the cloud space and the cable space that we'll continue to take advantage of.
+Sanjiv Wadhwani
+Got it, thank you, helpful.
+Robyn Denholm
+Thanks Sanjiv.
+Operator
+Thank you, the next question is from James Faucette of Morgan Stanley. Please go ahead.
+James Faucette
+Thanks very much. I just wanted to ask two questions, first Rami, I think you've mentioned a couple of times that or always that there were record product revenues at least in some of the product families. Just if you could elaborate and clarify that, and then Robyn, you may have mentioned this but I apologize if I missed it, but just wondering if you could give a little insight as to what's happening in Asia and kind of the reason that geography seemed under perform a little bit some of the others and how you're thinking about that going into the second half of the year, I think you've said you tried to model that conservatively but just a little bit more color there would be helpful thank you?
+A â Rami Rahim
+Okay, thanks James. Let me start on the record product question and then I'll pass it over to Robyn to comment on the Asia question. Yes, so we did say and that is a fact that three of our product lines our flagship product, The MX, the PTX, QFX, all has record revenue quarters in the Q2 time frame
+Robyn Denholm
+[indiscernible] services by the way.
+A â Rami Rahim
+Thanks for the reminder, and each for a different reason. The MX has always been a very successful product, and we continue to invest in that platform to keep ahead of the demand for capacity, but also the demand for services.
+The thesis pieces behind the MX was all around conversions, is around simplifying your edge architecture by deploying a single platform that can deliver all services. I think we were pioneers in articulating that thesis and executing that strategy, and we've benefited from that, and we've introduced new line in card, new capabilities to actually make this more of a reality and we certainly saw the results in Q2.
+PTX, this is a product line that we knew when we initially shipped it would require a bit of a different mindset around how to develop and build out a next generation core architecture, we called it the super core.
+And this requires a bit of a different approach to how one might in fact architect a wide area core, or a wide are metro network. And quite frankly it took us a bit a time, took us some time to make sure our customers were educated on the transformation that's required but also on the benefit that they could reap from this architecture, and I'm very happy that we're seeing sort of that transition happened and we are starting to see faster growth from the PTX, that proves that the pieces that we had made initially was the right one.
+QFX, this is -- first again, we continue to add new capabilities to our QFX topper bracts, which is in our access switches, but we're also just from a go to market stand point, been focusing quite heavily on our datacenter opportunities, our cloud opportunities, and that's where the growth in the market is and that's where the differentiation that we have in the QFX in terms of things like the layer 3 capabilities, really start to become very effective and the results are that we saw a great quarter for the QFX.
+Robyn Denholm
+So, let me talk about APAC, and Rami can chime in as. So APAC, we did have a disappointing quarter there. The revenues were down 10% year-over-year and 3% quarter-over-quarter.
+We were anticipating a softness in China. And in my outlook I mentioned that I expect that to continue. Some of it is obviously geopolitical and also competitive factors in China. If we excluded China, actually the revenues would have been up for the rest of the APAC, 11% sequentially.
+So, we've talked previously about -- obviously about different regions within Asia Pacific, we're seeing good design wins and growth in the Asian countries, Malaysia, and Singapore, obviously Indonesia, we have seen some good wins in India. Although that market, we're continuing to increase our capabilities in.
+In terms of the New Zealand operations in Q2, had a good quarter. Japan was slightly soft but actually not bad overall and the -- Korea was slightly negative as well. But 10 to go more inline with service providers deployment just given the concentration that we have in those market around service provider.
+So our view is, in terms of the region we're making progress in a lot of different areas. China was weak in the quarter and we expected to be weak as we move forward.
+Kathleen Nemeth
+Okay. Thanks, James. Next question?
+Operator
+Yes. The next question is from Ittai Kidron of Oppenheimer. Please go ahead.
+Ittai Kidron
+Thanks. And congrats on a good quarter. I had a couple questions for you Robyn. First on the deferred revenue, again going back to that. I understand that revenue came off the deferred into the revenue. But why is it that youâre long-term deferred is the one part thatâs actually been declining on a year-over-year basis for three quarters in a row into high teens, what does that mean, what's going on there.
+And the second question goes back to the question Tal asked before, you've effectively touched on your long-term target right now, are you now at a mode where you are hiring, you are net hiring on a year-over-year basis.
+Do you feel that you've been running a little bit too hot, meaning the revenue relative to the employee base that you have that you need to ramp. I understand that your long-term you wanted to clearly drive revenue faster than OpEx. But is there a three fourth quarter period where is there a little bit of a catch-up, if you've gone a little bit too far maybe?
+Robyn Denholm
+So let me talk about deferred revenue. So, long-term deferred revenue is primarily services. So we do service contract renewals on a one year and a three year basis. And depending on the customer, depending on whether they a renew on a one year or three-year basis.
+And so the declines that you've seen are in the long-term are specifically to do with the proportion of three year versus one year at any point in time. So obviously three year customers it will come down before they renew again for three years. And so that's what you've been seeing fleet off on the long-term. There isn't anything more than that in the long-term deferred revenue. And so when those renew you will see that long-term actually increase again.
+In terms of hiring, I put the headcount numbers in my actual commentary. So we ended this quarter at 8,815 head [ph] modestly up from the prior quarter. The team is being very focused on how we actually continue to invest in the things that matter, around the product portfolio and that type of thing.
+I'm not expecting a catch-up in terms of headcount or significant increase in headcount. We're managing things very well and quite honestly the teams are very productive, the way we are.
+Rami Rahim
+Yes. The only thing I'll add is, we have what we need in the plan that we're working towards this year to invest in all the areas of innovation that we know we need to invest in for the - our long-term competitiveness in the spaces that we're in.
+Robyn Denholm
+Yes. That was something very conscious that we did â at this time of taking out the structural cost.
+Kathleen Nemeth
+Okay. Thanks, Ittai.
+Operator
+Thank you. The next question is from Kulbinder Garcha of Credit Suisse. Please go ahead.
+Kulbinder Garcha
+Thanks. Maybe a question for Rami. By basic question is, given all the products and the success you are seeing across various different verticals. Do you think by the end of this year that Juniper will be in a stage where will be sufficiently diversified you wouldn't have years of touch on longer periods of revenue declines, you would have diversify, especially away from service provider cycle or that require a little bit longer of trying to understand the timing of it? Thanks.
+Rami Rahim
+Thanks for the question, Kulbinder. I think this - the strategy that we're on and the focus across the key vertical segments, cloud, cable, telco's, financial services, government, is one that I think has a lot of list. I mean, the opportunity for us in cable for example or in cloud appears to be very good and sustainable.
+I know for example, let me just tick on one vertical in the cloud space where we are very, very close to them in terms of the architectural evolution of their network today, but also in the future and also in terms of the capabilities, the features, the performance, the scalability that we are implementing into our new products that will be released over the coming year and beyond.
+It's just a function of our strategy and I think that it's something that can actually play out for a long period of time. Very difficult to put a time period on it, but it is not something that I see as an immediate or short term end to.
+Kulbinder Garcha
+Thank you.
+Kathleen Nemeth
+Okay, great. Thanks, Kulbinder. We'll go to the next question.
+Operator
+Thank you. The next question is from Vijay Bhagavath of Deutsche Bank. Please go ahead.
+Vijay Bhagavath
+Yes, thanks. Yes, congratulations Rami to new team, solid results. Quick question if I may, is on the Web 2.0 cloud customer segment, more recently we have been hearing Arista and perhaps Cisco starting to leverage new merchant silicon for routing, in particular data center routing which could soon scale up into the core telco network?
+So like to get your understanding of the competitive dynamics that you see from your point of view from a pricing point of view mainly and also from a feature performance point of view competing with these news merchant silicon Layer 3 switch routers versus what you have currently in your portfolio with MX and PTX? Thanks.
+Rami Rahim
+Sure, Vijay. So clearly â first let me just say this. We use both merchant and also our own silicon across the variety of products in switching and routing and in security. We are absolutely not going to be religious about using our own or somebody else's. We're going to choose the best silicon and to solve the problem in the most effective and differentiated way possible.
+And before we embark on a new silicon project ourselves at Juniper, we go through very extensive analysis to make sure that it is in fact something thatâs going to differentiate us and therefore pay off because these chip projects as you know are not inexpensive projects, and we've done exactly that.
+If you look at the cloud space for example, the access layer where it really comes down to pricing not that much differentiation in certain market segments. You can easily go to commodity.
+As you get into the core the need for power efficiency programmability, the need for logical scale, IP routing capabilities becomes greater. And so the opportunity to differentiate with your own silicon becomes evident or becomes theirs. And so that's what we've - essentially what we have done.
+In the competitive environment, we understand. I mean, this is a competitive space and both from the standpoint of systems vendors that are using merchant or their own silicon and also from the standpoint of merchant silicon technology that's out there.
+And as long as we are innovating and focusing on the parts of the market where we know that we can achieve differentiation then that's what we will do, we'll choose the best tools and technologies for the right areas of the network.
+Kathleen Nemeth
+Okay. Thanks, Vijay. Next question please?
+Operator
+Thank you. Our next question is from Subu Subramanian of Hinduja Group [ph]. Please go ahead.
+Unidentified Analyst
+Thank you. Rami, my question was around visibility around the Tier1 carrier improvement that you've been mentioning and expecting for second half. Obviously September quarter guidance is a little bit more flat quarter-over-quarter, are you expecting towards fourth quarter more normal seasonality and is that when we should start seeing the US Tier 1 carriers improved. Could you talk about the outlook for the US Tier 1 carriers?
+Robyn Denholm
+Subu, let me just make sure I correct something that I hope people understand that the guidance for Q3 and then I'll hand it over to Rami on the visibility question. So you mentioned the word flat Q3 to Q2. Actually it's up.
+So the way I want you to think about it is, if you take out of Q2 results, the deferred revenue impact it's on all of the $48 million, a large portion of that and then you actually look at that versus the guidance.
+What you'll see is that we are actually projecting an increase quarter-over-quarter in the underlying business. More consistent actually with what we've seen historically when we've had growth years in terms of Q3 over Q2.
+So with that I'll hand it to Rami to talk about the visibility.
+Rami Rahim
+Sure. First, I just want to emphasize the fact that, while the telco space remains a very important vertical for us, we are by no means tied completely to that space in terms of what drives our business. The diversification across the vertical and across products is certainly helping us in dampening if you will some of the effects of the lumpiness in that space.
+As far as the second half, it really is consistent with what we have been saying over the last several quarters. We expect to see some improvement, but that's going to be complemented with continued diversity. That's going to help us achieve the results that we're expecting for the second half.
+Unidentified Analyst
+Understood. Thank you.
+Kathleen Nemeth
+Thank you. I think we have time for maybe one or two more questions. So next question operator?
+Operator
+Thank you. The next question is from Paul Silverstein of Cowen. Please go ahead.
+Paul Silverstein
+Thanks. I appreciate you taking my question. First off just housekeeping, were there any 10% customers? Secondly, if you already said it, I apologize, but what was the â what pricing environment are seeing both on the service, prior to routing side, as well in enterprise switching. And then question I have listened and I've heard your comments here in terms of the diversification of the business.
+But I'm just wondering to what extent is the strength you are seeing now in you expect in the future, to what extent is that project driven and competitive dynamics, were you having greater success with the new platforms et cetera?
+And to what extent are you seeing an improvement in demand. Obviously there is been quite a number of data points about enterprise weakness from others throughout the IT spectrum. And again I'm wondering to what extent is this in demand versus the project? Thank you.
+Robyn Denholm
+Okay. Paul, I'll handle the first couple of questions and then Rami can chime in. So in terms of 10% customers there weren't no 10% customers in the quarter. What was the second questionâ¦
+Rami Rahim
+Pricing.
+Robyn Denholm
+Pricing. So in terms of the pricing environment, obviously it's a consistently competitive environment globally. But as you saw from the gross margins we had pretty healthy product gross margins, which reflects not only the ongoing competitiveness of the portfolio, but also the cost reductions that we continue to focus on in the supply chain. So from our perspective no discernible difference in the competitive dynamics in the quarter.
+Rami Rahim
+On the question around market versus projects and I am assuming you are really asking about whether something specific to Juniper in the projects we're engaging and versus something that's more broader. It really depends and in some cases itâs very difficult for us to tell really.
+But in the cloud space for example in our switching, what you are seeing there is more of the market opportunity shifting towards the data center. So we ourselves as a company are diverting more of our intentions, especially on the go to market side, on the support side to that opportunity and benefiting from the growth in that market segment.
+I think in other verticals, like maybe in the cloud space it actually could be more project driven. It could be more of a market share phenomenon that's happening because we have traditionally been really strong and very close to that vertical and something that's paying off for us. So it's a mix and difficult to really break out in any precise detail.
+Robyn Denholm
+And Paul, I just want to make sure the telco customers are important customers to us as well. We're not saying that we are diversifying away from the customers. They are important. They will continue to be important.
+Having said that, the innovation that we're delivering is as relevant to other parts of the market and through the changes that Rami mentioned in terms of not just the portfolio, but also the go to market notion. We're actually driving revenue growth through those other verticals as well. So I think that's a very important point.
+And I think earlier in the questions there was the comment around cyclicality. There's no question one of the reasons why we decided to work on the go to market muscle in terms of some of these other verticals was exactly to that reason to offset some of that cyclicality as we move forward.
+Kathleen Nemeth
+Thanks, Paul. Operator, we have time for one more question.
+Operator
+Certainly. Our final question comes from Jeff Kvaal of Nomura. Please go ahead.
+Jeff Kvaal
+Fantastic. Great.
+Robyn Denholm
+Hi, Jeff.
+Jeff Kvaal
+Hi, everyone. Thank you. I think one of the things that you folks have hit on in some of your commentary about the routing market is the blurring of the line between the core and the edge.
+Can you help us understand in a little bit more detail about what that means for you, I think at a high level one might say okay great, you can use your strengths in the quarter to improve your share in the edge. But then conversely one might wonder if Alcatel [ph] act, which has some presence in the edge may have a broader addressable market for them for example?
+Rami Rahim
+Yes. Thanks for the question Jeff. I guess the diversity what it means or sorry the blurring what it means for us is that when we go and develop our products we develop them in such a way that we becomes somewhat agnostic as to where in fact they will be placed to deal with the massive amount of IP transport traffic.
+In some areas in might be in more of a nationwide or even a global network, in some areas it might be more of a metro network. What's happening today architecturally is data centers in some cases are being built in more distributed locations, which puts more pressure in the metro areas and in some cases then more central locations that will put more pressure in the core areas. If we build the products that will deal with either architectural case then we win either way and that's exactly the goal.
+So take for example our PTX product line. It comes in a large and medium and now with the PTX1000 a small form factor and that's a perfect example of how we are building these products and the capabilities of these products to address interest the issue of scale or the challenge of scale, irrespective the architecture that the customer ultimately wants to sell.
+It makes more difficult for us to break out, our numbers into core and edge we can sort of estimate it. But I sort of tend to measure ourselves now as more as routing all up in the wide area network as opposed to specific to core edge.
+Jeff Kvaal
+Okay. Would that be misstating to you to say it becomes easier for you to sell the architectural play and therefore you think it's an advantage relative to some people who traditionally have been stronger just in one or the other?
+Rami Rahim
+I would agree with that. Yes.
+Jeff Kvaal
+Okay. All right. Okay, good. Thank you all very much.
+Rami Rahim
+Thank you.
+Kathleen Nemeth
+Thanks, Jeff. Thank you everyone. This will conclude our call for today. Thank you as always for your great questions. Thank you very much.
+Operator
+Thank you. Ladies and gentlemen this does conclude today's teleconference. You may disconnect your lines at this time. And thank you for your participation.

@@ -1,0 +1,261 @@
+NVIDIA Corporation (NASDAQ:NVDA) Q1 2015 Earnings Conference Call May 8, 2014 5:00 PM ET
+
+Executives
+Chris Evenden â Investor Relations
+Colette M. Kress â Chief Financial Officer & Executive Vice President
+Analysts
+Joe L. Moore â Morgan Stanley & Co. LLC
+David M. Wong â Wells Fargo Securities LLC
+Craig A. Ellis â B. Riley & Co. LLC
+Vivek Arya â Bank of America
+Raji S. Gill â Needham & Co. LLC
+Doug Freedman â RBC Capital Markets
+Harlan Sur â JPMorgan
+JoAnne Feeney â ABR Investment Strategy, LLC
+Hans Mosesmann â Raymond James
+C.J. Muse â International Strategy & Investment Group LLC
+Ambrish Srivastava â BMO Capital Markets
+Chris Hemmelgarn â Barclays Capital
+Kevin E. Cassidy â Stifel, Nicolaus & Co.
+Chris Caso â Susquehanna Financial Group
+Michael C. McConnell â Pacific Crest Securities LLC
+Ian L. Ing â MKM Partners LLC
+Operator
+Good afternoon. My name is Jasmine, and I will be your conference operator today. At this time, I would like to welcome everyone to the NVIDIA Financial Results Conference Call. All lines have been placed on mute to prevent any background noise. After the speakersâ remarks, there will be a question-and-answer period. (Operator Instructions) As a reminder this conference is being recorded Thursday May 8, 2014.
+And I will now turn the call over to Mr. Chris Evenden, Senior Director for Investor Relations with NVIDIA. Sir, you may begin your conference.
+Chris Evenden
+Thanks, Jasmine. Good afternoon, everyone, and welcome to NVIDIAâs conference call for the first quarter of fiscal 2015. With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer; and Colette Kress, our Chief Financial Officer. After our prepared remarks, weâll open up the call to a question-and-answer session. Please limit yourself to one initial question with one follow-up.
+Before we begin, I would like to remind you that todayâs call is being web cast live on NVIDIAâs Investor Relations website and is also being recorded. A replay of the conference call will be available via telephone until May 15, 2014, and the web cast will be available for replay until our conference call to discuss our financial results for our second quarter of fiscal 2015. The content of todayâs conference call is NVIDIAâs property and cannot be reproduced or transcribed without our prior written consent.
+During the course of this call, we may make forward-looking statements based on current expectations. These forward-looking statements are subject to a number of significant risks and uncertainties and our actual results may differ materially. For a discussion of factors that could affect our future financial results and businesses, please refer to the disclosure in todayâs earnings release, our Form 10-K for the fiscal period ending January 26, 2014, and the reports we may file from time to time on Form 8-K filed with the Securities and Exchange Commission.
+All our statements are made as of today, May 8, 2014 based on information available to us as of today and except as required by law, we assume no obligation to update any such statements. Unless otherwise noted, all references to market research and market share numbers throughout the call come from Mercury Research or Jon Peddie Research.
+During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our financial release, which is posted on our website.
+We reported our core financials on Tuesday following the inadvertent distribution of information to about 100 individuals. Therefore, we felt that the most prudent course was to release our financial results earlier than planned.
+Letâs begin with todayâs call. Revenue was $1.1 billion, up 16% year-on-year and significantly higher than our outlook. EPS was up 85% year-on-year driven by the outstanding performance PC gaming supported by growth in Tesla, Quadro GRID, and in Tegra. Desktop and notebook PC gaming delivered exceptional year-over-year growth as gamers continued to buy high-end GPUs to play the latest PC games.
+In February, we lost our first generation Maxwell GPU, delivering the most power-efficient GPU ever. The GeForce GTX 750 series starts at $99 and targets the entry PC gamer. Itâs received a great reception among PC review sites, itâs in full production, and demand is strong in all regions. At the very high end, we announced our newest flagship GPU, the GeForce GTX TITAN Z. This is the highest performance graphics card we have ever designed. TITAN Z will please both PC enthusiasts and CUDA developers and will be available in Q2.
+Notebook gaming has grown 51% CAGR for the past three years. Building on our gaming notebook momentum, weâve also launched a new family of notebook gaming GPUs, including the first based on the Maxwell architecture. The performance, battery life, and thin form factors of these notebooks have built a great deal of excitement in the end market. Products are shipping now and will be available from every major OEM this quarter. Our workstation business had another solid quarter and we now have the highest market share level since 2010.
+The big event of the quarter was our GPU Technology Conference. This yearâs was the most successful ever, with over 3,500 guests and 550 talks, both metrics up over 25% on the previous year. We use it as a platform to make major announcements for our data center GPU businesses, Tesla and GRID. The press published over 1,000 articles on the event and our blog recorded over 305,000 views.
+Jen-Hsun gave a vivid demonstration of the power of GPU-based machine learning at GTC, noting that the technology is already in active use or being evaluated by many consumer Internet companies, including Netflix, Baidu, and Yandex. High performance computing has driven the first phase of Tesla growth and we expect that growth to continue. And now we are seeing big data analytics further drive Telsa growth.
+In related news, IBM announced that it would incorporate our NVLink interconnect technology in its future POWER8 CPUs. The POWER CPU is poised to become a mainstream CPU through the OpenPOWER Foundation. Through the Foundation, IBM has opened up POWER as a licensable call and is enabling other server manufacturers to build systems around it.
+Google and NVIDIA are co-founding members of the OpenPOWER Consortium. IBM hosted over 9,000 attendees at its Impact Business and IT Conference in April, and demonstrated GPU acceleration working in the IBM Java framework on a Hadoop based analytics problem. With new product announcements from HP, Dell, IBM, and Cisco, the worldâs top three servers according to Gartnerâs server report the HP DL380p, Dell 720, and IBM x3650 are all now available with NVIDIA Enterprise GPU. And NVIDIA GRID is now available in more than 50 server platforms from 18 OEMs or ODMs.
+GRID trials continue to grow rapidly. Weâre now nearly 600 worldwide, up over 35% on last quarter. Weâve also seen a 25% increase in the number of boards sold over the previous quarter. Thatâs a 200% increase from the same quarter a year-ago. Many of the trials announced are turning into sizable pilots and many of those are in big blue chip and government accounts.
+Further accelerating growth is the news from GTC that Vmware ESX will soon fully support virtual GPUs. Much of the prior interest had been generated on the Citrix platform and ESX had only supported GPU pass-through, which meant one GPU per user. Supporting a vGPU means, it can now translate that GPU and share between users. We are already seeing ESX sites start evaluating grids today in the expectation that theyâll add vGPU as soon as itâs available, probably supporting both Citrix and VMware is an important step in the evolution of this business.
+Shifting away from enterprise for a moment, Tegra showed its third consecutive quarter of growth powered by strength in automotive. Audi launched its Tegra-powered A3 in the U.S. this quarter, and weâre fueling the ecosystem with Jetson TK1, a development platform aimed at automotive, embedded and robotics applications. In a sign of the level of interest, these are selling as fast as we can make them.
+Iâll close now by circling back to GTC. With talks on subjects from astrophysics to animation, from Quantum chemistry to big data analytics, GTC is a window into the company that NVIDIA is becoming. We invented the GPU for gamers, but weâve evolved the GPU well beyond consumer graphics. While we remain singularly focused on visual computing, our reach today spans consumer, scientific, and enterprise computing. And through innovation, we have created growth drivers in each of the PC, mobile, and cloud computing platforms.
+And with that, I would like to hand over to Colette.
+Colette M. Kress
+Thanks, Chris. Hello, everyone. Let me provide some details on the first quarter of fiscal 2015. Revenue for the first quarter was $1.1 billion, up 16% year-over-year and down 4% from Q4. Revenue was above our outlook for the quarter, reflecting continued strength in GeForce GTX, desktop, and notebook GPU sales.
+The GPU business grew year-over-year to $898 million, up 14%. High end GeForce GTX GPUs for desktop and notebooks grew 57% fueled by continued demand for gaming GPUs and the newly released GeForce GTX 750 series, our first Maxwell based GPUs.
+Desktop GPU demand was strong in all key markets. The notebook market has contracted, however, high-end notebook GPU volume grew substantially, reflecting continued demand for mobile solutions for high performance gaming. Quadro revenue increased from both OEM desktop and mobile workstation. GRID sales were up strongly from the prior years initial quarter of sales.
+Tesla for high performance computing was up, as large commitments comprised an increasing percentage of the business. Our footprint in the data center is increasing as Tesla and GRID generate revenue from compute acceleration opportunities, VDI deployments and streaming gaming. The GPU business declined 5% sequentially. GeForce GTX GPU sales for the gaming segment grew from Q4, offset by a seasonal decline in the desktop and notebook market.
+The Tegra processor business grew 35% from a year ago, led by increased volumes for mobile and auto infotainment systems. Increased Tegra mobile sales were driven by strong growth in smartphone SOCs and the auto business grew more than 60%from prior year. The Tegra processor segment grew 6% from Q4 reflecting its third quarter of sequential growth.
+Moving to gross margins, GAAP gross margin for the quarter was 54.8%, up from 54.1% in the previous quarter. Non-GAAP gross margin was 55.1%, up 50 basis points year-over-year and up 135 basis points sequentially. These margins were better than our outlook, helped by a richer mix of high-end desktop and notebook GPU as a percentage of revenue.
+Our gross margins continue to reflect the growth in volumes and stable average selling prices of higher margin, GeForce, GTX, GPUs and continued focus on cost. GAAP operating expenses for Q1 were $453 million, in line with our outlook and essentially flat from last quarters $452 million.
+Non-GAAP operating expenses were $411 million, about $2 million lower than our outlook. The operating expense discipline reflects continued management of our investments in both R&D and capital expenditures to enhance a return on invested capital. Operating expenses grew year-over-year due to employee additions in fiscal 2014 and employee compensation increases in related costs. Employee additions during the quarter were minimal.
+GAAP operating income was $151 million, up 83% from a year ago, reflecting strong revenue growth and contained operating expenses. Other income and expense included $11 million of interest expense associated with the convertible debt, $17 million from an investment gain, and $6 million of income from the investment portfolio.
+Going forward, our quarterly other income and expense should include our interest income from the investment portfolio of approximately $5 million plus $11 million of interest expense associated with our convertible debt. The GAAP effective tax rate was 16% inclusive of $7 million of discrete tax items. Our effective tax rate was higher than a year ago, due to the absence of the U.S. Federal R&D Tax credit.
+Now, turning to some key balance sheet items, early in Q1, we entered into a structured repurchase agreement for $500 million. We received an initial 21 million shares this quarter and we expect to settle the associated remaining repurchase shares in July with the conclusion of this agreement. Additionally, we paid $47 million in cash dividends in the first quarter. In the aggregate for the quarter, we executed a total of $547 million towards our first 2015 intended capital return of $1 billion to shareholders.
+Cash flows from operating activities was $151 million. Compared to the prior yearâs Q1, cash flow reflected higher accounts receivable from stronger revenue and inventory for new architecture builds offset by higher net income resulting from improved gross margin and contained operating expenses.
+Cash flow from operations was down from Q4 as the fourth quarter included the annual license payment from Intel. Our DSI of 72 days compares to 77 days in the prior year, as levels reflecting ramping production of our GeForce GTX 750 series. Free cash flow was $121 million in the first quarter. Depreciation and amortization expense amounted to $55 million, capital expenditures were $29 lower than our outlook of $45 million.
+Now turning to the outlook for the second quarter of fiscal 2015. Following our $1.1 billion first quarter, we expect revenue for the second quarter to be $1.1 billion plus or minus 2%. We expect seasonality in the consumer PC industry; however, we expect the strength of data center, CoD solutions, and mobility to provide growth sequentially.
+Our strategies and transformation into visual computing systems and solutions allows us to realize the continued success in consumer PC and mobile gaming, as well as realize the growth in cloud data centers, super computers, professional design, and automobiles.
+Our GAAP gross margins are expected to be approximately 53.7% and our non-GAAP gross margins are expected to be approximately 54%. As we expect the volume of Tegra SOCs to be a larger percentage of the total mix of the units shipped in last quarter.
+GAAP operating expenses are expected to be approximately $457 million and non-GAAP operating expenses are expected to be approximately $414 million, nearly flat with current expense levels for Q1. The timing of some of our key product roadmap engineering costs is expected to be larger in Q2 than Q1, driving a slight increase quarter-over-quarter. We will continue to optimize other areas of spend to reach a first half goal of $425 million of non-GAAP operating expenses.
+GAAP and non-GAAP tax rates for the second quarter and annual fiscal 2015 are both expected to be 20%, plus or minus 1%. This estimate excludes any discrete tax events that may occur.
+That completes our finished prepared remarks. Iâm going to turn it back over to Chris and the operator, so we can move to questions.
+Chris Evenden
+
+Yes, let me hand it straight back to Jasmine. Jasmine, weâll take questions now. Thank you.
+Question-and-Answer Session
+
+Thank you. (Operator Instructions) One moment please for the first question. And the first question comes from the line of Mike Burton with Brean Capital. Please proceed.
+Mike A. Burton â Brean Capital LLC
+
+Hey, thanks for taking my question. Within the Tegra business, nice progress on the automotive front. Iâm hoping you can help us size that for you now. Is it bigger than smartphones and tablets and whatâs your expectations for those segments this year?
+Jen-Hsun Huang
+
+Hey, Mike. Letâs see, there are three growth drivers in mobile for us. The way we see mobile is devices, automotive, and gaming. And this last quarter, devices is larger and automotive is the fastest growing. And I expect in the coming quarters, both will grow.
+Mike A. Burton â Brean Capital LLC
+Okay. And then traditionally Tegra carried lower gross margins on the overall business. Iâm wondering if thatâs different for the automotive vertical or should we still expect that to affect gross margin mix as that business continues to outperform going forward? Thanks.
+Jen-Hsun Huang
+Automotive gross margins is higher than devices and I hope that both are very large over time.
+Operator
+The next question comes from the line of Joe Moore with Morgan Stanley. Please proceed.
+Joe L. Moore â Morgan Stanley & Co. LLC
+
+Great, thank you. It looks like the client GPU business has been fairly volatile the last few quarters and you had kind of a downdraft for a couple quarters, itâs been reasonably strong the last couple of quarters. I understand that thereâs an underlying growth trajectory under the gaming GPU business. Can you help us interpret that volatility and the sustainability of the year-over-year growth you are seeing now?
+Jen-Hsun Huang
+
+Well, our consumer GPU business has two major components, one of them is consumer PCs and then the other is gaming. The gaming part of it is lower end volume, but itâs much higher in ASP and much higher in gross margin. And my expectation is that the gaming PC will continue to be vibrant. Itâs not directly related to seasonality, itâs a market that we understand very well that we have a strong position. And itâs a platform â GeForce GTX is a platform where software intensity is quite high.
+The relative software that we bring to the platform is quite significant and whether itâs algorithms that goes into our game works or itâs the console that we call GeForce experience, but allows for optimal playable setting automatically to sharing your best moments with our friends on Twitch, capturing your favorite moments and turning into movies to share on Youtube.
+So thatâs our GeForce GTX business for gaming, there is a OEM part of it. The OEM part of it is subject to seasonality is subject to market share, but itâs much lower in ASP is higher volumes, but substantially lower in ASP and of course substantially lower total gross profit contributions for the overall business. So those are the two major component and they just have different dynamics.
+Operator
+And the next question comes from the line of David Wong with Wells Fargo. Please proceed.
+David M. Wong â Wells Fargo Securities LLC
+
+Thanks very much. You mentioned in your comments some large wins for Tesla. Should we expect a follow-up in Tesla revenue sometime this year once you fill some of these large projects?
+Jen-Hsun Huang
+
+The overall data center, our data center strategy has two components. Thereâs the Tesla GPU computing component and thereâs the GRID virtualization component. Overall, these two components, the data center part of our business grew substantially year-over-year and weâre expecting the growth to accelerate, in fact.
+And the reason why it makes sense that they would accelerate is because both of these, enterprise virtualization and GPU computing, are addressing large market opportunities. And in both of these situations, weâve been cultivating the ecosystem for some time, and in the case of enterprise virtualization, we now have the support of Citrix and VMware. We now address the vast majority of the worldâs enterprises. Every enterprise wants to be virtualized from end-to-end and GRID allows all of the Enterprises to virtualize not just their data centers, but all of their applications, as well as PCs.
+And that has been a really difficult problem and finally, itâs been solved by GRID. GPU computing, you know that our Tesla processor is a massively parallel processor and the problem that we solved with our platform called CUDA is making it easier, far, far easier for people to take large applications and paralyze it. And weâve been promoting this for quite sometime, as you know, and the adoption is accelerating. And so weâre seeing the number of applications that come to CUDA increasing and accelerating. So I expect both of these product, these two platforms, Tesla and GRID, which represents our data center platforms, to continue to grow and in fact, accelerate its growth.
+Operator
+And the next question comes from the line Craig Ellis with B. Riley. Please proceed.
+Craig A. Ellis â B. Riley & Co. LLC
+
+Thank you taking the question. It looks like the Tegra business is starting to show some signs of consistent growth. Is that really the application diversity that weâre starting to see with an increasing contribution with both embedded and automotive or is that really just product cycle dynamics? And how do we think about the implications for growth in that business as we think about whatâs historically been a very consumer seasonal business in the middle of the calendar year?
+Jen-Hsun Huang
+Yes, thanks a lot Craig. Weâve seen three consecutive quarters of growth in Tegra and weâre going to see quarters of growth coming. However, the reason why the growth is there has to do with the fact that weâre focused on the segments where visual computing matters most. There are three segments that we focus on and visual computing are large contributions to all three of them.
+One is automotive. The amount of software, the amount of visual computing contribution we make to the automotive industry is quite significant. As we know, more and more cars want to be computerized and more and more of the functionality inside cars want to be computerized, whether itâs the infotainment system, which was the first to start, but quite frankly, itâs relatively simple for us. But the digital cluster and now the automatic driver assistance is much greater contributions from us.
+And so weâve got a foot in the door starting from 10 years ago and weâve been building our automotive computing platform ever since. So this is a business that is addressing a large market that is going through a transition to more computing capability and I think that we were first to this and we saw it coming from a long time ago and we were prepared for it, so thatâs one component.
+The second component is gaming. You know, that weâve been investing in bringing gaming to the Android platform. Android is the worldâs largest operating system platform now and we believe that over time, it will also be one of the worldâs largest gaming platforms. Just as we did with the PC industry before and bringing and cultivating the PC platform for gaming, weâre doing the same for Android and we believe that our contribution there is quite significant. Itâs much more than just computer graphics. Itâs a deep knowledge of what it takes to make great games and all of the software technology that is included in making great games.
+And the third, weâre just narrowly focused on devices where we can make a real contribution. Devices where performance matters, differentiation matters, and we partner with people that are looking for that performance differentiation and cool factor. And so those three segments are all doing fine and itâs contributing to our growth.
+Operator
+And the next question we have comes from the line of Vivek Arya with Bank of America. Please proceed.
+Vivek Arya â Bank of America
+
+Thank you for taking my question. Actually, one for Jen-Hsun and one for Colette. So Jen-Hsun, Iâm wondering what your share now is in gaming GPU versus AMD? And just overall, are you seeing any competitive response from AMD on both the client and the workstation graphic side, because they also sound very confident about gaining share, so Iâm wondering what kind of response youâre seeing?
+And then maybe for Colette, the tax rate has consistently been below 20%. Is it better to just model, say, the current rate of 16% or do you think there will be a catch up quarter later in this fiscal year to get the full year to the 20% that youâre guiding to? Thank you.
+Jen-Hsun Huang
+Well, first of all, I think weâre just going to have to let the number speak for itself. The gaming segment is, as you know, highly complicated from a perspective of software and architecture and the work that we do with game developers. People just know that when they buy a GeForce itâs going to work great. And all of the software contribution we put on top of it, whether itâs GameWorks or GeForce experience is just really significant. We have 30 million subscribers to GeForce experience and people use it, so that they can have the best gaming experience.
+And so, I think that our position in gaming is quite significant. Itâs a contribution of our performance of our GPUs and we have the best GPUs in the world. Itâs the most energy-efficient. We have the best software stack in the world and on top of that, we have GameWorks and GeForce experience that are deeply differentiated and available from no one in the world but us. And so I think our position in gaming is quite good and itâs contributed to our continued growth. This isnât a one quarter thing, but youâve seen it coming for several years.
+Colette M. Kress
+
+So Vivek, regarding your discussion on the overall tax rate, we are forecasting at this time 20%. This quarter, we were a little bit lower just based on discrete tax items that we do not forecast and are generally one-time items. Our forecast of 20% for the full year is associated with the fact that the U.S. R&D tax credit has not been renewed and thatâs where weâre forecasting at this time. Should that change, as we have communicated last quarter that would bring our overall tax rate probably down to about 16%. Thanks for your question.
+Operator
+And the next question comes from the line of Raji Gill with Needham & CO. Please proceed.
+Raji S. Gill â Needham & Co. LLC
+Yes, thanks for taking my questions. Colette, could you just talk a little bit about the puts and takes on the gross margin guidance? Margins are coming down about 90 basis points. I know you talked about Tegra representing a bigger part of the mix, but is there anything thatâs offsetting that and how should we look at gross margin profile over the long term? Thank you.
+Colette M. Kress
+Sure, thanks for the question. So as you look at what we guided and kind of adding together what we discussed in terms of the revenue guidance, as well as in the gross margin, we are expecting a larger amount of SOCs next quarter, both from a revenue side and the impact of that on the overall gross margin.
+We talked about the seasonal decline that we expect in the overall PC consumer market between our first quarter and the second quarter, but we do believe we will be able to offset with some of the higher data center GRID and other aspects that can contribute to our overall gross margin. So we feel pretty confident about the gross margin outlook that we provided for Q2. I tend to look at gross margin more on a yearly basis than looking at it from each single individual quarter, because we will have seasonality changes in terms of what we are overall shipping, but we should feel solid in terms of our focus on gross margins.
+Operator
+And the next question comes from the line of Doug Freedman with RBC Capital Markets. Please proceed.
+
+Doug Freedman â RBC Capital Markets
+
+Great. Thanks for taking my question and congratulations on the strong results, guys. I guess first, Jen-Hsun, could you give us a sense of what youâre starting to see in terms of conversion rate, maybe time to money, for all of the GRID trials? It does seem like GRID is really ramping quite nicely in terms of the trials, but how should we think about those turning into time to money?
+Jen-Hsun Huang
+Well, most Enterprise trials last longer than three and take less than one year, and so I think itâs somewhere in that range. Most Enterprises wouldnât engage in a trial unless they expect to deploy it and so something along the lines of six to nine months, nine months for the larger ones and six months for the smaller ones.
+Some of the complexities in the past has to do with the fact that many Enterprises had VMware in the data center and Citrix on the client. And we solved that problem recently. We announced with VMware that VMware ESX was going to support GRID fully integrated. And so now going forward, hopefully the number of circumstances where thereâs a hybrid model slowing down trials will disappear. I mean, at this point, we basically support the most important data center virtualization stack, as well as the most important client virtualization stack.
+And so, hopefully that results in faster trials, but something along the lines of six to nine months is not unexpected. The overall data center, GRID data center growth is arguably accelerating and I think, because itâs such a small part of our business today, the fact that itâs accelerating is not unexpected. If you take a look at our overall data center business, not only does it become sizeable, its growth is also accelerating, so Iâm excited to see that.
+Operator
+And the next question we have comes from the line of Harlan Sur with JPMorgan. Please proceed.
+Harlan Sur â JPMorgan
+
+Hi, good afternoon, and nice job on the Q1 execution. You talked about your overall consumer GPU segment being down sequentially in Q2, but within that, is your GPU gaming segment declining? And if so, is this maybe a pause ahead of a second half which is typically more driven by the introduction of new blockbuster games?
+And then just a quick follow-up for Colette, is the team still committed to keeping the Q3 and Q4 OpEx run rate at similar levels to what youâre delivering in Q1 and Q2? Thank you.
+Jen-Hsun Huang
+The seasonality of consumer PCs is pretty well understood and just as you were talking about before. Most of the gaming business is driven by games, actually. The question, are there fantastic games that are coming out and there are some pretty fantastic games coming out. Watch Dog is on its way out right now and itâs a groundbreaking piece of entertainment and really excited about it. Itâs amazing how it looks.
+Titanfall is doing fantastic. Itâs already sold one million units in just a few weeks. Itâs, of course, Titanfall plays on a game console, but we also know that there are just more people on PCs than there are on game consoles. Whereas thereâs only a few million for this current generation game console, there are tens of millions of GeForce GTXs where Titanfall can be enjoyed.
+And so, our expectation is that Titanfall is going to continue to drive adoptions, theyâre going to do well. And you saw some of the results from Electronic Arts; theyâre doing fantastic with Titanfall. Some of these games will drive I guess games will the PC gaming part of it offsetting some of the seasonality of consumer PCs.
+Colette Kress
+And your second question related to the overall OpEx. I want to correct what I indicated in terms of the script here, in our Q1, our non-GAAP operating expenses were slightly below our overall estimates. And looking at our Q2, we will do $414 million. For the first half goal, our goal is to do $825 million, which is exactly half of a kind of a long-term run rate of about 16.50 in terms of non-GAAP operating expenses. OpEx will be the exact same every single quarter. It will change a little bit, but this time, we are still shooting for keeping with what we had of the overall amount as we guided in Q1 for the full year.
+Operator
+And the next question comes from the line of JoAnne Feeney with ABR. Please proceed.
+JoAnne Feeney â ABR Investment Strategy, LLC
+Yes, thanks for taking my question. I have a follow-up, I just wanted to be sure I understood, Jen-Hsun, what you meant about the seasonality of the current quarter and the GPU business? So it sounds like, with seasonally weaker sales, both of PCs and also the timing of games that youâre thinking that the consumer GPU business falls fairly broadly whether itâs PC, GPUs, or gamer GPUs. Did I understand you correctly?
+Jen-Hsun Huang
+Weâre modeling GeForce to be down sequentially, offset it by data center growth and mobile growth and thatâs what we guided.
+JoAnne Feeney â ABR Investment Strategy, LLC
+Okay, perfect. Thanks for that clarification. And then on the professional side, you talked about Tesla really with pretty high hopes for growth and you talked about some programs doing well right now. I wanted to try to get some clarity on how much visibility you have in the supercomputer builds or your socket wins for the back half of the year, or is this more of a general statement about the underlying need for Tesla and super computers and more of a long-term description of your growth prospects. Do you have visibility into the second half or should we really be a little bit concerned about Tesla maybe taking a pause?
+
+Jen-Hsun Huang
+Tesla is growing. Tesla is not taking a pause. I think I was saying that I said several times that our data center business is growing. The combination of Tesla and GRID are growing. Tesla is growing and GRID is growing and the combination is growing. Thereâs a couple reasons for that. I think high performance computing is really growing. Big data analytics is a big deal and big data analytics running on GPUs is just fantastic. Instead of a few processors we have thousands of processors, and big data is one of those problems that can be highly paralyzed. CUDA is perfect for it.
+We have multiple markets now, multiple industries where we are, where that weâre exposed to, whether itâs supercomputing, which tends to be large installation driven, there are many super computers that are small installations, hundreds of them around the world. But supercomputing is just one segment of our business, where large and seismic processing, weâre large in medical imaging, weâre large in higher Ed, where supercomputing is used to great deal.
+Internet Service Providers has become a quite exciting growth opportunity for us, as they use our GPUs for big data analytics, analyzing images or analyzing consumer preferences, helping you make choices. And so high performance computing to us is much more than super computing, even though super computing is there.
+And then on the other hand, the same servers that weâve created for Tesla are now used also for GRID. Those GPU servers that we have engineered with all of the OEMs perfectly fit GRID with a completely different software stack now makes it possible for their Enterprise salespeople to work with the customers on end-to-end enterprise virtualization. And so data center is a really exciting growth opportunity for us and its growth is accelerating.
+Operator
+And the next question comes from the line of Hans Mosesmann with Raymond James. Please proceed.
+Hans Mosesmann â Raymond James
+Okay, thanks. And let me ask a couple of questions. Hey, Jen-Hsun, can you give us some commentary about 28-nanometer availability as we go through the rest of the year and I have a follow-up, thanks.
+Jen-Hsun Huang
+Weâre having an okay time with availability. We work hard to align our needs with TSMC and we work very closely with them. Weâve had some challenges in the past and every time weâve had challenges, it made our partnership deeper and the alignment of our supply and demand forecasting is really fantastic. We take it very, very seriously. They take it very seriously, and they do a great job for us.
+Hans Mosesmann â Raymond James
+
+Okay, thanks. And as a follow-up, if you can just give us a quick update in terms of the competitive dynamic as you see the Tegra K1 hitting the market later this year and there is several or a bunch of new 64-bit based SOCs out there that are hitting the market? And so any color I think commentary it would be great.
+Jen-Hsun Huang
+Yes, Tegra K1 is about to be Tegra K1 season and Iâm pretty excited about Tegra K1. And we donât have anything to announce today, but hopefully, as we go into the second half, weâll see some pretty exciting products coming out with Tegra K1. TK1, as you know, is the most advanced GPU thatâs ever been built for mobile devices and itâs taking the worldâs most advanced GPU, Kepler, and mobilizing it for the very first time. And so, the performance is really quite spectacular and I think your expectation would be that it would be a nice product.
+In terms of competition, thereâs lots of competition out there, but our focus with TK1 is automotive, gaming, and differentiated products, and customers who are looking for differentiated processors that can really bring some excitement to their devices. My expectation is TK1 is going to do great. You also know that TK1 is the worldâs first high performance 64-bit processor, and so Iâd expect TK1 to be, its one chip, two versions, as you know, and using exactly the same footprint, it could be a 32-bit or 64-bit. Weâre expecting to be in production long before the end of the year and be the first high performance 64-bit processor in the market.
+Operator
+And the next question comes from the line of C.J. Muse with ISI Group. Please proceed.
+C.J. Muse â International Strategy & Investment Group LLC
+
+Yes, good afternoon, thank you for taking my question. I guess first question, specific to GPU, curious how we should think about GeForce GTX 750 and 580 ramping in terms of the upgrade cycle through the year and how that will impact gross margin? And if you can discuss within that any other puts and takes, pluses or minuses that we should be thinking about for gross margin for GPU through the year.
+Jen-Hsun Huang
+Iâm not exactly sure how to answer that to your satisfaction because everything has been modeled in. We â I guess maybe the way to think about it is GTX750 is the best $99 gaming processor the worldâs ever built. The reviews when it came out and the reviews now are just fantastic. And so GTX750 is ramping up really, really nicely and it will be the entry level PC gaming card of choice.
+The margins are good. The margins for all GTX products are good. As I mentioned earlier, gaming is not only large in revenues, itâs growing and the margins are good. And our position there is very, very strong. And so all of those dynamics have been factored in and we expect our gross margins to be stable throughout the year.
+Operator
+
+And the next question comes from the line of Ambrish Srivastava from BMO Capital Markets. Please proceed.
+Ambrish Srivastava â BMO Capital Markets
+
+Thank you. Jen-Hsun, correct me if Iâm wrong, this is the first time youâre calling out GRID as a specific driver within the segment, so what is the size of GRID today, is it tens of millions of dollars already?
+Jen-Hsun Huang
+On an annualized basis, it surely is. On an annualized basis, it surely is and on a quarterly basis, our enterprise GPU business is very large now. Where Tesla starts and ends and where GRID starts and ends is increasingly blurry. And the reason for that is, because itâs one GPU with two different software stacks. Tesla has a software stack thatâs intended for GPU computing and GRID is a GPU stack that is intended for graphics and virtualization or virtualized graphics, but the processor is exactly the same.
+And so increasingly, I think it will be hard to discern, thatâs kind of why I put them together. Most data centers that weâre working with include both Tesla and GRID. They use Tesla for their high performance computing work where theyâre doing big data analytics and they will use GRID for remote graphics, remote SAS for example, and maybe thereâs a graphics application they would like to provide a SAS or maybe they would like to deliver DAS, which is desktop as a service over to cloud, or they would like to provide that within the walls of the enterprise.
+And so all of these are contributing to our growth and Iâve been talking about GRID now for about a couple years and this is an initiative weâve been working on for sometime. I think in general, the way to think about it is this and most of the topics that weâve been talking about today centers around two different areas, maybe three.
+The two areas, first, is we invented ways for us to extend our reach of computer graphics, our reach of GPUs, into mobile and cloud, and mobile is Tegra, and cloud is GRID and Tesla. And both of those initiatives are now starting to grow and grow nicely. And then probably the third thing âthe third commentary that Iâve made consistently throughout the day is that visual computing is just more important than ever. And so I think that our GPU business in the PC driven by PC gaming is a growth business. Our mobile business has three segments. We see mobile as more than phones. It is auto, itâs gaming, itâs devices, and thatâs growing. Itâs been growing for three consecutive quarters and weâre also expecting it to grow in the foreseeable future.
+And the third is data centers and cloud. Tesla and GRID are really unique products, very, very software intensive, addressing very large opportunities and weâre seeing growth of vibrant and growing.
+Operator
+And the next question comes from the line of Blaine Curtis with Barclays. Please proceed with your question.
+Chris Hemmelgarn â Barclays Capital
+
+Thanks very much for taking the question. This is Chris Hemmelgarn on for Blain. So just looking at the Tegra business and some specifics, in the past youâve said that you thought autos would double this year and then double again. Does that still hold or given the particularly strong performance this quarter, would you revise those estimates upwards at all?
+Jen-Hsun Huang
+
+Itâs roughly there.
+Chris Hemmelgarn â Barclays Capital
+Okay, I guess given that then looking at this year â would you expect â you broke down Tegra into those three segments. Would you expect auto to be larger than the other two, whatâs your mix expectation for the overall year for the business?
+Jen-Hsun Huang
+I donâtâ expect auto to be larger than the other two.
+Chris Hemmelgarn â Barclays Capital
+Okay.
+Jen-Hsun Huang
+And but thatâs a commentary about how enthusiastic them about the other two segments.
+Chris Hemmelgarn â Barclays Capital
+No that makes sense. I mean give the â do you think you can continue that given the kind of torrid pace of growth youâre expecting from the auto business into 2015 or?
+Jen-Hsun Huang
+Yes.
+Chris Hemmelgarn â Barclays Capital
+Excellent. And then my next follow-up. On the GPU side, I mean you didnât expose to be break it out, but given the increasing mix ongoing increased mix your higher end products, Iâm wondering ASP is continue to improve. Any feeling as to how long that â you continue to see ASP strength at some point is that level office both in our low end product mix stabilizes?
+Jen-Hsun Huang
+Well, the way to think about is, the way to think about that is â if you look at our ASP for GeForce, it is far, far, far lower than the price that most people pay for game console. And yet the PC is increasingly becoming you game console. And so if you look at where we are versus where we were, our GPU business is probably the only business that I know in semiconductors where ASPs has increased for 15 years.
+And I think the reason for that is, because it is the defining characteristic of a PC used for gaming. It is the defining component, is the defining technology inside a PC thatâs used for designing content, designing you car. And it is simply the most important element inside that computer for the applications that we are talking about, and those applications turned out to have been quite large. Video games is $100 billion industry here in a couple of years. And the production value of video games continued to increase, because the competition is so intense and people canât imagine playing the same production value game three years in a row. Everybody is looking for more and more and more. And so not only is it a large industry, it also computationally technologically intensive. So itâs been driving our ASPs up and my expectation is that they will continue to do so.
+There are still many countries where video games is underexposed, partly because they just donât have broadband, itâs surprising, but there are many large markets where broadband is simply not quite available yet. And without broadband you really canât enjoy the type of video games that we are talking about that. Every country will have broadband. And we are seeing fast, much, much faster than market, overall market growth rates in many countries Southeast Asia, India still very, very, fast growth.
+And so my expectation is that GeForce if we understand the business, which we think we do is really, really aligned to the gaming market. The gaming market is about to grow to be a much larger market and the GeForce GPU is the most important component inside the platform thatâs the most popular today, PCs. Thanks, Jasmine. Weâre ready for next question.
+Operator
+And the next question comes from the line of Kevin Cassidy with Stifel Nicolaus. Please proceed.
+Kevin E. Cassidy â Stifel, Nicolaus & Co.
+Thanks for taking my question. Just on the TK1, Jen-Hsun, you mentioned auto gaming and differentiated, but with it being a 64-bit and Kepler-based, is there any reason it couldnât be a GRID component also?
+Jen-Hsun Huang
+
+No reason at all. I think weâre seeing a lot of interest in putting something like Tegra in micro servers, but one step at a time, one step at a time. I think the most important thing about micro servers and putting TK1 in the server is really the software stack. And the software stack weâre building for GRID can very well eventually be used on top of Tegra as well.
+Operator
+And the next question comes from the line of Chris Caso with Susquehanna Financial Group. Please proceed with your question.
+Chris Caso â Susquehanna Financial Group
+Thank you. Can you follow-on for some of the earlier comments on operating expense? I understand that the targetâs for this year, but perhaps we could look a little longer out to 2015 and beyond. Generally, do you feel youâre investing at the levels where you need to be, given the new initiatives that youâre pursuing? I mean does it need to go up a little bit from here or is there opportunity for savings, how should we think of it?
+Jen-Hsun Huang
+Well, at the moment, weâre properly invested in the initiatives that weâre driving and weâre seeing the returns on it. And GRID, as you can see, is growing; Tesla, as you can see, is growing; Tegra, as you can see, is growing. We are now as a company that had a large footprint in PCs, we now see our footprint growing in mobile platforms, as well as cloud platforms. And very, very soon I hope that they become a very large part of our business, and I think maybe your commentary is â your question is that wouldnât we love to invest more?
+And I think when the time comes, we would love to invest more. And the reason for that is because the work that weâre doing, visual computing, in cloud, particularly, has quite a large potential. But we need to let the opportunities cultivate and I think that weâre invested at the right proper level at the moment and weâre staying very, very disciplined on it. And as soon as we grow into more and more markets, weâll invest more.
+Operator
+And the next question comes from the line of Mike McConnell with Pacific Crest Securities. Please proceed with your question.
+Michael C. McConnell â Pacific Crest Securities LLC
+
+Thank you. Jen-Hsun, looking at just the growth rates on a year-over-year basis, just backing into your desktop business, it looks like youâve grown desktop 30% year-over-year or close to 30% the last two quarters. I understand thereâs new secular trends here with PC gaming, but thereâs also been a lot of talk last few quarters of pretty significant shortages at your competitor. Is this any concern of yours going forward that we get some reversion of the mean in terms of lower growth rates or do you think that this is sustainable?
+Jen-Hsun Huang
+Thereâs a lot of product in the market and the fact that thereâs shortages says thereâs probably a lot of demand. And so, weâre going to have to wait and see, but the way to think about it, Mike, is that the use of GPUs, the application of GPUs has now reached far beyond just gaming for consumer platforms.
+Sure, the number one application that consumes GPUs is games. Itâs $100 billion industry. Itâs larger than all of the media industries now and the growth in China is just enormous. And so, yes, it is a very large consumer, but you also need to know that people are making more movies. Theyâre doing a lot more digital photo editing and thereâs a lot more computational digital media than ever and more people are using these computers, also, for developing parallel computing code on CUDA. And so, weâre just seeing demand from a lot more applications than ever before and hopefully, thatâs whatâs driving the growth.
+Chris Evenden
+Jasmine, weâll take one more question please.
+Operator
+Perfect. We have one question last, sir. Our final question comes from the line of Ian Ing with MKM Partners. Please proceed.
+Ian L. Ing â MKM Partners LLC
+Thanks for putting me in. Can you talk about expectations for Android tablet SOCs? Should we think of it as typical seasonality the rest of the year or are you starting to see impact from Intelâs contra-revenue programs?
+Jen-Hsun Huang
+Well, I canât comment on Intelâs contra-revenue program, but weâre more and more focused, as you guys know, on segments where visual computing is more important. And automotive, obviously, is very important to us that you used to have one application processor and in the future, youâll have maybe three, five. And so the number of processors, visual computing-focused processors in a car is growing quite rapidly.
+Weâre going to focus on developing the Android gaming market. We can make a real contribution. Itâs very, very hard and the work that we did over the last 15, 20 years in the PC industry, we are going to leverage a lot of that capability over to Android. The way to do that is with TK1 and so youâre going to see, in the second half of the year, hopefully, a lot of exciting things that weâve been working on and then differentiated devices.
+And I hope that over time that becomes less of a focus for us and more of a focus on the two things that weâve been really, really investing in, which is automotive and gaming. And of course, many of these devices want to have gaming. Just like we invested in gaming for PCs, OEMs would like to use GeForce in their PCs not because that PC is necessarily used for gaming, but because itâs bought by a gamer. And if your gamer knows that they want to play on GeForce and they know that GeForce helps them build best PCs, when they buy a laptop or one of these days when they buy a tablet or a phone, they might enjoy having a processor built by NVIDIA the way itâs done for our PC business.
+Chris Evenden
+Well, thanks, everyone. We look forward to talking to you next time, on our next earnings call. Thank you. Good bye.
+Operator
+Ladies and gentlemen that does conclude the conference call for today. We thank you for your participation and ask that you please disconnect your lines.

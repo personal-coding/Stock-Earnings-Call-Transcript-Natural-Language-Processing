@@ -1,0 +1,269 @@
+Advanced Micro Devices (NASDAQ:AMD) Q2 2011 Earnings Call July 21, 2011 5:00 PM ET
+Executives
+Harry Wolin - Senior Vice President, General Counsel and Secretary
+Richard Bergman - Senior Vice President and General Manager of Products Group
+Ruth Cotter - Director
+Thomas Seifert - Interim Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer and Senior Vice President
+Analysts
+Michael McConnell - Pacific Crest Securities, Inc.
+Patrick Wang - Evercore Partners Inc.
+James Covello - Goldman Sachs Group Inc.
+Cody Acree - Williams Financial Group, Inc.
+Glen Yeung - Citigroup Inc
+Hans Mosesmann - Raymond James & Associates, Inc.
+Stacy Rasgon - Sanford C. Bernstein & Co., Inc.
+JoAnne Feeney - Longbow Research LLC
+Romit Shah - Nomura Securities Co. Ltd.
+Vivek Arya - BofA Merrill Lynch
+John Pitzer - CrÃ©dit Suisse AG
+Doug Freedman - Gleacher & Company, Inc.
+Srini Pajjuri - CLSA Asia-Pacific Markets
+Operator
+Good afternoon. My name is Huey, and I'll be your conference operator today. At this time, I'd like to welcome everyone to AMD's Second Quarter 2011 Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being recorded today. I would now like to turn the conference over to Ms. Ruth Cotter, Vice President of Investor Relations for AMD. Please go ahead.
+Ruth Cotter
+Thank you, and welcome to AMD's Second Quarter Earnings Conference Call. By now, you should have had the opportunity to review a copy of our earnings release and the CFO commentary. If you've not reviewed the documents, they can be found on AMD's website at quarterlyearnings.amd.com. Participants on today's conference call are Thomas Seifert, our Chief Financial Officer and Interim CEO; Rick Bergman, senior Vice President and General Manager of AMD's Product Group; and Harry Wolin, Senior Vice President, General Counsel and Corporate Secretary. This is a live call and will be replayed via webcast on amd.com. There will also be a telephone replay. The number is (888) 266-2081. Outside of the United States, the number is (703) 925-2533. The access code for both is 1536688, and the telephone replay will be available for the next 10 days starting later this evening. 
+I'd like to take this opportunity to highlight a few third quarter dates for you. Rick Bergman will present at the Pacific Crest Global Technology Leadership Forum on the 8th of August in Colorado. Chuck Moore will present at the Citi Technology Conference on the 7th of September in New York and Thomas Seifert will present at the Deutsche Bank Technology Conference on the 13th of September in Las Vegas. 
+AMD's third quarter quiet time will begin at the close of business on Friday, September 16, and we will announce our third quarter earnings on Thursday, October 27. AMD's ownership of GLOBALFOUNDRIES on a fully diluted basis decreased to approximately 11% as of the conclusion of the second quarter. Reconciliation for all non-GAAP financial measures discussed today is included in the financial tables that accompany our earnings release available in the Investor Relations section of amd.com. I'd like remind you that AMD's second quarter has 13 weeks of business compared to 14 weeks for the first quarter. Please note that a more detailed review of our financial performance is outlined in the CFO commentary as I mentioned, which is filed with our earnings release and posted on our website. 
+Before today's call, I'd like to caution everybody that we will be making forward-looking statements about management's expectations. Investors are cautioned that those statements are based on current beliefs, assumptions and expectations, speak only as of the current date and involve risks and uncertainties that could cause actual results to differ materially from our current expectations. 
+The semiconductor industry is generally volatile and market conditions are particularly difficult to forecast, especially in light of the current state of the economy. We encourage you to review our filings with the SEC where we discuss these risk factors that could cause actual results to differ materially from our expectations. You'll find detailed discussions about such risk factors in our most recent SEC filings, AMD's quarterly report on Form 10-Q for the quarter ended April 2, 2011. 
+Now with that, I'd like to hand the call over to Harry.
+Harry Wolin
+Thank you, Ruth. I would like to provide you with a brief update on our CEO search. The search for a new CEO remains a top priority. The Board is pleased with the quality of the candidates interviewed and is confident in its robust and active process. They continue making progress to ensure a person is selected with the right vision, experience and track record to lead AMD into the future and to create increased shareholder value. The Board is pleased that the senior management team has executed well throughout this timeframe. I would like to take this opportunity to emphasize that meeting a timeline is not the driving force in the search, finding the right candidate is. 
+And with that, I'd like to turn the call over to Thomas to provide management perspective on second quarter results
+Thomas Seifert
+Thank you, Harry. In 2011, AMD kicked off the Fusion era of computing, bringing to market the industry's biggest architectural change since the invention of the microprocessor. Brazos, our first APU for the Thin & Light notebook and netbook market, is an unqualified hit and is one of our fastest driving processors in our history. 
+In June, we expanded our Fusion offerings with the launch of the A-Series APU for mainstream notebook and desktops, codenamed is Llano. We shipped more than 1 million A-Series APUs in the second quarter. Based on strong demand signals and SKU assortment for the second half of the year, we expect Llano, the Llano RAM, will outpace the Brazos RAM. 
+Customer adoption of Brazos and Llano-based platforms is strong and sell-through is excellent. We have more than 300 APU design wins and 11 of the world's top 12 notebook OEM are shipping APU-based products. 
+APU momentum is driving increased sales with our newest notebook customers, helping to increase our footprint across emerging markets and in the Commercial Segment. For example, in the second quarter, the Lenovo ThinkPad X120e was one of the top-selling commercial notebooks among SMB distributors exceeding demand forecast. 
+As a result, in the second quarter, we achieved record mobile processor unit shipments and direct card overall microprocessor unit shipments. We improved notebook processor ASP sequentially and we drover a richer mix of notebook processors, which have increased gross margin sequentially. 
+The success of our APUs demonstrates we have the right strategy to deliver the differentiated products that the market wants over long term, paving the way for AMD to take a more equitable share of the 360 million unit per year and growing computing market. We remain committed to delivering the world's best APU every year, continuing to improve performance across multiple dimensions while lowering power consumption. 
+In June, we publicly demonstrated Trinity, our mainstream notebook APU for 2012, which we believe will further extend our graphics and media processing leadership. We plan to introduce a version of Trinity that will consume less than 1/2 the power of today's lowest power, 35-watt Llano APU, bringing performance computing to the ultra-thin notebooks. 
+Further power improvement will drive our tablet APU roadmap. By tablet usage models and form factors differ from the PC, the IP required for success is ideally suited for our Fusion APUs. We have accelerated our tablet roadmaps to ensure we take advantage of this opportunity. Also in June, we launched our first tablet APU and announced the addition of a new tablet APU for 2012 that provides a great hardware complement to the advances Microsoft is making on the tablet operating system front with this next generation of Windows. 
+Turning to the Server business. We expect to begin shipping our first server platform featuring the Bulldozer X86 this quarter. The Interlagos platform is our first server offering, optimized for today's cloud datacenters and the architecture excels at compute-intensive and HPC workloads, where it will deliver up to 35% performance improvements compared to our current offerings. Customer excitement for Interlagos is high. All of our major customers are expected to introduce servers based on the new platform this year. We are committed to the server market and are focused on returning the business to a growth trajectory. 
+Turning to the Graphics business. The importance of graphics has never been clearer and the growth opportunities resulting from our graphics IP have never been more persuasive. Our graphics technology is fueling the success of all APUs and opening up significant growth opportunities in adjacent markets. 
+We strengthened the competitiveness of our discrete graphics offerings in the quarter, delivering the industry's highest-performing desktop and mobile GPUs. The continued ramp of APUs resulted in a record 20-plus million direct X11 discrete level graphic engines shipping in the quarter. 
+We also passed several critical milestones in the second quarter as we prepare our next-generation 28-nanometer graphics family. We have working silicon in-house and remain on track to deliver the first members of what we expect will be another industry-leading GPU family to market later this year. We expect to be at the forefront of the GPU industry's transition to 28-nanometer. 
+In the quarter, Nintendo also announced that its next-generation game console, the Wii U, will be powered by an AMD HD graphics engine. The successor to the widely popular Wii is expected to launch next year. As a reminder, AMD graphics technology power 2 of the 3 current-generation gaming consoles. Approximately 130 million game consoles are expected to ship over the next 3 years. 
+Our graphics IP and Fusion APUs are a great match for the next generation of media-rich consoles. We have an opportunity to increase the amount of AMD silicon shipped in this market by delivering customized Fusion silicon, significantly expanding the TAM for our APUs and serving as a strategic beach hats to drive APUs into adjacent market segments. 
+Operationally, we continue to demonstrate the earnings power of AMD's business model, generating nearly $300 million of free cash flow in the first half of the year. Key to this performance is our ability to work with both GLOBALFOUNDRIES and TSMC to meet our manufacturing needs. At the 28-nanometer node, all of our products will be based on bulk process technology, providing increased flexibility to work across these 2 committed and valued partner. 
+Last quarter, I described a set of initiatives to streamline business and decision-making processes across our operations, R&D and go-to-market functions. We are in full executional deployment across each of the key work streams. These efforts are aimed at accelerating our transformation to a world-class design company, growing revenue, lowering costs and reducing time to market. We expect to see material benefits from this project in 2012. 
+Turning now to the second quarter financial summary. Second quarter revenue was $1.57 billion, a 2% sequential decline. Non-GAAP gross margin was 46%, up one percentage point quarter-over-quarter due to a stronger mix in margin accretive APU platforms. Operating expenses were $606 million, less than guided due to the timing of expense recognition related to new products. R&D was $367 million and SG&A was $239 million. Non-GAAP operating income was $114 million, and non-GAAP net income was $70 million or $0.09 per share. Both exclude the amortization of acquired intangible assets of $9 million. Adjusted EBITDA was $205 million, up $7 million from the prior quarter due to lower operating expenses. 
+Now switching to the different segments. Computing Solutions segment revenue was $1.2 million, flat compared to the prior quarter. And higher mobile revenue was offset by lower server and desktop microprocessor revenue. Record mobile processor unit shipments were driven by the strength of APUs, which now account for more than 70% of total mobile platform unit shipments and revenue in the quarter. 
+Computing Solutions operating income was $142 million, up $42 million from the previous quarter, primarily due to improved gross margin from a richer mix of APU sales compared to the prior quarter. Graphics segment revenue was $367 million, down 11% compared to the prior quarter, mainly due to lower discrete mobile unit shipments and seasonality in the desktop discrete graphics at inboard market. Graphics segment operating loss was $7 million, down $26 million from the prior quarter, primarily due to a lower revenue and increased important investments in our next-generation 28-nanometer leadership graphic offerings. 
+Turning to the balance sheet. Our cash, cash equivalents and marketable security balance at the end of the quarter was $1.86 billion, up $160 million compared to the end of the first quarter. The increase is primarily due to cash generated by operations. Accounts receivable at the end of the quarter was $759 million, down $38 million compared to the end of the first quarter 2011 due to the decline in revenue. Inventory was $642 million, exiting the quarter slightly down from the prior quarter. Long-term debt at the end of the quarter was $2.2 billion. 
+Non-GAAP adjusted free cash flow was $143 million, down $11 million from the prior quarter. We'll continue to be strategic in our debt reduction efforts based on generating non-GAAP free cash flow, and we expect to be opportunistically looking to reduce our debt based on market opportunities. 
+Turning to the outlook. The following statements concerning AMD are forward-looking and actual results could differ materially from current expectations. For the third quarter of 2011, we expect third quarter revenue to increase 10% plus or minus 2% sequentially. Operating expenses are expected to be approximately $625 million. The increase from the second quarter operating expenses of $606 million is mainly due to the timing of expense recognition associated with certain product tapeout. Had this expense been recognized as planned in the second quarter, operating expense guidance for the third quarter would have been flat quarter-over-quarter. 
+In conclusion, whether for PCs, tablets, game consoles or new form factors, the APU is the superior processing platform. The graphics performance of AMD APUs is stunning and drives differentiation. But then APU is much more than the creation of CPU and GPU and processing a piece of silicon. It's an optimized combination of multiple types of computing cores capable of efficiently delivering unmatched levels of computing performance often called heterogeneous computing. 
+Tapping into this potential turns the APU into a unified, turbo-charged SLC perfectly suited for numerous market segments inside and outside the PC sector. As an example, in 2013, we plan to introduce an optimized tablet APU capable of redefining what users will expect from a tablet. 
+Industry support to enable the full potential of the APU is critical, and we believe best delivered through open standards capable of creating a critical mass of hardware and software support. Last quarter, we provided additional details on our Fusion system architecture and open standards-based approach to enable heterogeneous computing that we believe the industry will rally around. We are bringing FSA to market in the same way we drove the adoption of other industry standards. We believe the approach will work with FSA just as it did with AMD 64 architecture and HyperTransport. Software developers and other processor companies are attracted to FSA because it allows the use of programming models that has been in place for decades. 
+FSA also has the potential to work across the multiple types of CPU and GPU cores found in different devices, whether they are powered by x86 or ARM or both. We are seeing great response from other industry leaders like Microsoft and ARM. We'll recognize the benefits of a standards-based approach to heterogeneous computing. FSA can enable alliances that reach beyond traditional hardware barriers, allowing AMD to grow within an expanding ecosystem inside and outside of x86 computing. This is the future of the industry and AMD is leading the way. 
+And with that, I will turn back to Ruth for the Q&A
+Ruth Cotter
+Thank you, Thomas. Huey, we'd now like to start the question-and-answer session, please. So if you could pool the audience, we can get going.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first questioner in queue is Vivek Arya from Bank of America Merrill Lynch.
+Vivek Arya - BofA Merrill Lynch
+Thomas, the 10% growth you're guiding to for the third quarter, how much of that is from graphics? How much from computing? How much from an ASP list? And more importantly, how should we align that with Intel's slight change and somewhat question about the PC market versus prior expectations? And then I have a follow-up.
+Thomas Seifert
+Yes, very good question. So as you know, we entered the market rather conservatively talking about the PC, growth expectations in the very low teens. In the last 2 quarters, we have been talking about expectation in the 10s. Mercury now is at 8.9%. And we still think we don't have any indication why we should materially differ from that opinion today. However, I think we see now in the second quarter that the momentum we have started with the process launch, as I've said before, on our first APU family with that accelerated ramp, we have now seen over 2 quarters. The demand, it's in the market. It's going to be on this level and better for our Llano products that we launched this quarter. We promised we would ship about the same volume of Llanos as we shipped in the first quarter of Brazos. And from the demand signals we see today, we expect the RAM to be even higher and better accelerated, and this is really driving our guidance for the third quarter.
+Vivek Arya - BofA Merrill Lynch
+I see. And are you satisfied with the yield and the support you're getting from GLOBALFOUNDRIES? And as I sort of look out to next year, you haven't -- it was going to be on a 22-nanometer product roadmap, how aggressive do you think GLOBALFOUNDRIES or competitive do you think they are compared to that kind of roadmap?
+Thomas Seifert
+So we cannot complain for sure about the lack of support. I think we receive all the support we need, and to be honest, also that we deserve by bringing advanced technology to our foundry partners. We have been putting guidance in place for Q2 that we hit, that we fully expect to deliver our guidance that we put in front of you today. And I think that's a statement in itself. When we moved to 28-nanometers, we made good progress on the graphics side, especially as you heard, we have working silicon in hand, and we have great confidence that we will deliver and lead the transition on the graphic GPU business to 28-nanometer. And I think the important statement is also that with the 28-nanometer, all of our products will be based on that technology. And with that, our flexibility to manage risk across the foundry partner ecosystem that we have has significantly increased.
+Vivek Arya - BofA Merrill Lynch
+All right. And just one last one if I may. Traditionally, Thomas, you've been in the industry for a long time. So from the time you launch a new server product, how quickly should one start to see real tangible shipments and market share gains?
+Thomas Seifert
+Very good question. So the Enterprise business is not a business that turns overnight. But we think we will see material impact at the end of the year in the fourth quarter.
+Operator
+Our next questioner in queue is Romit Shah with Nomura Securities.
+Romit Shah - Nomura Securities Co. Ltd.
+Just on your Notebook Processor business. My understanding is Llano is coming in at a higher ASP. But if you look at the mix of the notebooks, legacy products still account for the majority of your Notebook Processor revenues. Is that the right way to think about it? And how do you see, I guess, the mix unfolding over the next couple of quarters?
+Richard Bergman
+This is Rick. We are making a rapid transition to Fusion APUs in the notebook market share where next quarter -- excuse me, the current quarter will be will be well over 1/2 will be either Llano or Brazos APUs, so the legacy notebook products will quickly fade away through the course of this year.
+Romit Shah - Nomura Securities Co. Ltd.
+So am I right in saying that ASPs are a tailwind for revenues over the next 1 to 2 quarters?
+Thomas Seifert
+I think with the aggressive ramp of the Llano ASP in the second half, we'll see movement in our ASP performance.
+Romit Shah - Nomura Securities Co. Ltd.
+Okay. And then I just had a question for Harry. Harry, the stock is down about 25% over the last 3 months, and I personally believe that the concerns over finding a credible candidate has been a big reason why. And it's a little unfortunate because it offsets some of the good results and good guidance today. If the company is not able to land a credible CEO this quarter, what's the Board prepared to do?
+Harry Wolin
+So I think I will tell you that the Board is actually very pleased with the candidates they are seeing and believes that the search is moving in a fine direction. So I think they're confident that we will find the right candidate, the candidate with the proper vision and track record to move us into the future and hopefully, quickly restore the shareholder value that we've lost as well as gaining some that we feel we deserve beyond that.
+Romit Shah - Nomura Securities Co. Ltd.
+Does that mean that you're going to make an announcement this quarter?
+Harry Wolin
+That, I'm not setting a timeline for any announcement.
+Operator
+We'll proceed to our next questioner, JoAnne Feeney with Longbow.
+JoAnne Feeney - Longbow Research LLC
+I had a question about margins and ASPs. I think we understand that the APUs bring greater margins, certainly the lower-end ones but perhaps some lower ASPs as the previous questioner was getting to. I guess one question I have is, where do you think gross margin can go in the second half and in 2012? And how do you see mix evolving to bring that about? And perhaps, specifically, you can provide some sense of the relative contribution of the Brazos versus Llano versus Bulldozer to get to those gross margins over the next few quarters.
+Thomas Seifert
+Very good question. So we said then that all 3 products are going to be margin-accretive, however, for different reasons. In the Brazos' case, it was primarily a matter of cost position, really being accretive from a very favorable cost position, and I think that played out nicely over the last quarters. You see margin accretiveness on the Llano side because of better price performance and playing in SKUs that we have not been able to play before. And the Server business traditionally, I think, is a higher gross margin business than our corporate average. So I'm not going to update any guidance for 2012. I think we, at our Investor Day, we outlined where we think we can take them, the company in terms of gross margin that we have line of sight of a world beyond 50%. But that is something for next year. And the years after that, we'll talk about our Analyst Day. Without any doubt, however, we expect that our gross margin is going to go up in the second half.
+JoAnne Feeney - Longbow Research LLC
+If I could follow-up related to your wafer pricing agreement with GLOBALFOUNDRIES. There are some that are, well, concerned that the absence of a CEO over there may create some additional risk for the supply at 32 and at x28. So I'm wondering if you can provide an update on your wafer pricing agreement with GLOBALFOUNDRIES and the incentive program that you have in place and whether that kicked in and whether there are additional charges on that? And whether you think, given the, perhaps, additional uncertainty of GLOBALFOUNDRIES, whether you could possibly extend per die or per good die structure that's in place this year into next year? And if not, how would the reversion to the older policy affect your gross margin potential?
+Thomas Seifert
+Very good set of questions. So first of all, let me make a statement upfront. Despite the management change at GLOBALFOUNDRIES, we cannot complain at all of a lack of support or attention from GLOBALFOUNDRIES to us. So actually, the relationship has developed very good and rather strengthened them in this transition period. The wafer supply agreement for this year that we have announced is in full effect. It had been completely negotiated and fine, and we are operating under the umbrella of the new WSA agreement, that's why we are confident in the statements we make. And then, it was always the intent then, that the companies would sit down and look at the past and the present and the future both companies have in front of them and then readjust the wafer supplier agreement on a long-term basis. And this is a process that has already started.
+JoAnne Feeney - Longbow Research LLC
+And you feel you're able to conclude that process even in the absence of a permanent CEO over there?
+Thomas Seifert
+That's a hypothetical question. We have 2 interim CEOs on both sides, and that we run the company. I told you I'm not sitting here warming a chair. I think we have done great things over last 2 quarters. We have become very ambitious with our outlook for the rest of the year and also moving the company in 2012, so that is the least of our concerns.
+Operator
+Our next questioner in queue is Cody Acree with Williams Financial.
+Cody Acree - Williams Financial Group, Inc.
+Thomas, with your outlook on the market as a whole and the design win strength you see at Brazos and Llano, what are your expectations for market share as you end the year, both notebooks and desktops?
+Thomas Seifert
+So we are not going to get into specific market share guidance, but I think we have been very open up front that we expect to gain market share based on the products that we have launched. And we feel confident that this was going to happen in the second half of this year.
+Cody Acree - Williams Financial Group, Inc.
+Would you expect that share to accelerate through the second half? Or is that something that pushes more into 2012 before you see, I guess, a material share shift?
+Thomas Seifert
+I think we will already see some share shift in the second half of this year, but the big topic is getting profitability up and not revenue up. And the profitable the focus is something we will be very keen on.
+Cody Acree - Williams Financial Group, Inc.
+On Bulldozer. You've given us some initial indications of customer acceptance. Can you talk a little bit more about that, especially compared to what you saw as far as customer early adoption for Brazos and then Llano and how Bulldozer comparing to that?
+Richard Bergman
+Well, Bulldozer is the x86 core. So it's actually utilized in several different products. There's Interlagos, which is our server-based products, which will begin shipping initial production next month. Likewise, there is a desktop version called the Zambezi, which is geared more towards the desktop enthusiast market. That will also begin initial production and shipments next month. In the longer term, Thomas mentioned Trinity, where it's used more of a notebook- or a Fusion-type of product which will ship next year. On the first 2 products, we're seeing a very good acceptance both in the server end and in the desktop, and we expect numerous platforms to launch later this year.
+Cody Acree - Williams Financial Group, Inc.
+And then lastly, can you talk a little bit about what you see as far as tablet cannibalization? We heard some of this from Intel yesterday, but I'd like to get your view on this one.
+Richard Bergman
+Certainly, a topic of great debate here in the industry. And our view is we haven't seen a tremendous cannibalization. Obviously, it's another computing device. And so again, we see it as an opportunity, and expectations on that computing device continue to rise as we go through time, that it can offer the same rich-media experiences. So as we start to formulate our roadmap to address that particular market segment, as Thomas outlined, we feel it's coming right into the sweet spot of the key IP and technologies that we here have at AMD to address that market with one critical inflection point coming up with the Windows 8.
+Operator
+Our next questioner in queue is Stacy Rasgon with Sanford Bernstein.
+Stacy Rasgon - Sanford C. Bernstein & Co., Inc.
+So we have a ramp of Llano coming up next quarter similar to Brazos. Your second quarter, Brazos, I think you shipped just an excess of 3 million. So we'd expect, I guess, 3 million or more Llano shipments next quarter. Now we had now 6 million Brazos this quarter. I'm just curious if you can give me some feeling for at least your expectation for next quarter relative contributions of Llano versus Brazos given you expect 100% of your mobile shipment's essentially made up of these 2 things. And what is the effect on margins? I know you said during your last quarter's call, you expected gross margins by the end of the year to be at the high end of your annual guidance, which you've put around 48%. Given the accelerated ramp that you seem to be having in Fusion and even Bulldozer, do you have any update to that sort of, I guess, Q4 or year-end guidance in terms of where you think the gross margin trajectory can get to by the end of the year?
+Thomas Seifert
+Well, I think the statements we made are holding true. We expect too much in that direction, and we still expect and probably are more confident now that we end up at the high end of our gross margin guidance at the end of the year. And then if you add all the factors up that we have been talking about today, then it's reasonable to assume that we make, at the end of the third quarter, we make a good step in that direction.
+Stacy Rasgon - Sanford C. Bernstein & Co., Inc.
+Got it. And in terms of the contribution of Llanos versus Brazos, I assume this means you'd expect Brazos shipments to be down from the 6 million this quarter but Llano to be up considerably? Or what are your relative expectations for Llanos versus Brazos in your mobile space next quarter?
+Thomas Seifert
+Well, you know, the factors you gave are pretty accurate. As you said, we shipped about 3 million units of Brazos in the first quarter. We expect a steeper ramp of Llano in the current quarter, and we do not expect Brazos to decline significantly.
+Richard Bergman
+So one thing I would add is they are geared for different segments. So it's not like Llano cannibalizes Brazos, they're very complementary. So actually, Llano is displacing some of the mainstream products that we've had in prior quarters as well as, obviously, the opportunity to displace competition.
+Stacy Rasgon - Sanford C. Bernstein & Co., Inc.
+Got it, and that's very helpful. And one more if I could squeeze it in. So you mentioned in your CFO commentary and even on the call here, your prospect to opportunistically delever going forward. So I think, I don't know where your net debt position is sitting this quarter, it's probably somewhere around $300 million. Do you think you can be reasonably close to cash debt neutrality by the end of the year? And what would it take for you to potentially -- I suppose to have enough -- do you think you could basically have enough cash on the balance sheet, maybe by the end of next year to conceivably, completely delever or essentially to pay off all of your debt and still have enough cash to run the business? I think you've probably talked before about needing about $1 billion on the balance sheet to be comfortable running the business. Do you think that's actually a realistic possibility potentially?
+Thomas Seifert
+Good questions, but I'm not going to get into the 2012 guidance. I think what is fair to say is that our commitment to delever is as strong as it was. And with the opportunity we have now generating significant free cash flow, we will take advantage of this opportunity. Your statement for the second half, how close can we get to a net cash position are reasonable assumptions.
+Operator
+Our next questioner in queue is Glen Yeung with Citi.
+Glen Yeung - Citigroup Inc
+So Thomas, can you be more specific exactly what you think gross margins will do in the third quarter?
+Thomas Seifert
+Well, I think we'll be up 1%.
+Glen Yeung - Citigroup Inc
+And then I wonder if you look at the 10% revenue growth that you envision for Q3, how much of that do you think is from unit and how much of that is actually from ASP increase?
+Thomas Seifert
+Fair question. 1/2 and 1/2.
+Glen Yeung - Citigroup Inc
+Okay. And then now sort of a bigger, a little bit bigger-picture question. At the beginning of the year, you guys talked about sending some people into -- FAs into the field and you talked to the buyers of servers and get a sense -- you sort of prime the pump as you get Interlagos into the market. Can you give us a sense as to how those discussions have gone? So really not talking to the OEMs but actually talking to the ultimate-end customers of servers and what's their level of interest in Interlagos? And what specifically are they saying they like or dislike?
+Richard Bergman
+Well, the key changes in the market is the continued focus around power and the ability to deliver performance in a given power envelope. That's one of the critical things that our Interlagos server product brings to these customers is they extend data centers or in some cases, the mega-data centers of the cloud providers, big, big criteria. And that plays in the sweet spot for our Bulldozer core that I talked about earlier, really providing a higher level performance at a given power level. So the reception has been good. In fact it out-leverages existing platforms out there already. Our many-cores platforms, you can just drop in, in the Interlagos family. It gives a great opportunity for them to test it out, and then use the same platforms into new installations over the next multiple quarters.
+Glen Yeung - Citigroup Inc
+Do you see any sort of trends in terms of who may be the early adopters of Bulldozer-based server solutions, i.e., is that financial services, is it any patterns like that? And if there are, how does that compare to when you ramped up Opteron -- when Opteron was ramping up?
+Richard Bergman
+Well, AMD historically has done well in the high-performance computing space, the HPC space, and we have some statistics there. And they are the ones that are most eager to get that higher level of performance. So clearly, they will be the front runners on the initial Interlagos shipments.
+Operator
+Our next questioner in queue is Jim Covello with Goldman Sachs.
+James Covello - Goldman Sachs Group Inc.
+I guess a couple of questions. First, historically when AMD has had a very competitive product portfolio that was picking up some share, there's been some price aggression from Intel. Do you think that, that could happen this time? And if so, has that worked into any of the revenue expectations or margin expectations going forward? And the second question would just be competition that you expect from ARM as we move into 2012 on Windows 8?
+Thomas Seifert
+Good question. No doubt, this is a competitive environment and it always was and always will be. And of course, competitive dynamics are a part of the factors that we consider when we talk about guidance, and this competitiveness is not going to disappear. However, we talked at length at what we think the strength of our product offering is. And we see that now come to fruition, so we look forward quite confident, I would say. The second part of your question was on...
+James Covello - Goldman Sachs Group Inc.
+On Windows and ARM as we head into 2012 and any competitive dynamics you expect there?
+Thomas Seifert
+We'll have to see. I think we made adjustments of our product roadmap. We will put a very convincing tablet roadmap in front of us. It's still a very fragmented market. It's still a very small market outside of the iPad. So in terms of 2012, we don't expect too much of an impact.
+Operator
+Our next questioner in queue is Srini Pajjuri with CLSA Securities.
+Srini Pajjuri - CLSA Asia-Pacific Markets
+Thomas, one question on Graphics. First, as far as Q3 guidance is concerned, what is your expectation for graphics business? And then just wondering, given the double-digit decline in Q2, if that has anything to do with the fact that you're shipping more APUs and Intel shipping more Sandy Bridge, just wondering what your thoughts about the potential cannibalization are?
+Thomas Seifert
+Why don't you start with attach rates first and then...
+Richard Bergman
+Sure. Srini, the latter part of your question is related around the attach rate. And to sort of explain out exactly as we expected in 2011, certainly, our Llano-type of processor, now that it's publicly out there, shows that we truly have discrete level graphics with a modern discrete level architecture. So certainly, from a AMD platform perspective, the need for a low-end graphics GPU is not there, unless you want to use it in a crossfire-type of configuration. Conversely though, the competitive platforms don't have that modern GPU architectures. That's actually driving the need for mainstream or performance notebooks to use discrete graphics. So what's the net add of that from an attach rate, it's kind of what we're seeing, it's basically flat at this juncture.
+Thomas Seifert
+So to your first part, we do not provide guidance on a segment level. But then, to answer your question with respect to Q2, most of the revenue adjustments we have seen were very much seasonality driven. The second quarter, traditionally, is the weakest quarter for the discrete GPU business and I then think that was the main contributor to the decline, the quarter-over-quarter revenue decline.
+Srini Pajjuri - CLSA Asia-Pacific Markets
+So I guess, given all the puts and takes that you're seeing, how should we think about the growth of this business on an annual basis? I mean do you think it will continue to grow from here? Or is it kind of flattened out? Or is it going to decline going forward?
+Thomas Seifert
+No. If you take the net that Rick just mentioned, we don't see any big impact on the tax rates for the remainder of this year. But we also said that in the long run, parts of this business will be cannibalized and the low-end discrete GPUs will be replaced with Fusion-type products. And this is all goodness for us because it replaces low-cost margin revenue with high-gross margin revenue.
+Srini Pajjuri - CLSA Asia-Pacific Markets
+Okay, fair enough. Just one clarification, Thomas. On the expense side, you said you have some push outs from Q2 into Q3. I'm just wondering how we should think about Q4. I mean do you expect that part of the expense to come down in Q4?
+Thomas Seifert
+Well, we said if it hadn't been for the timing issue, we would have been flat Q2 to Q3. And I'm not going to give guidance on Q4 now here, but I will make a statement that our focus on expense management and being really disciplined when it comes to operating expenses will not be any different than the fourth quarter.
+Operator
+Our next questioner in queue is Patrick Wang with Evercore.
+Patrick Wang - Evercore Partners Inc.
+So clearly, you're starting to see some success in mainstream notebooks today. I'm just curious on Windows 8 and want to follow up on this one, but what are the some of the things that you can leverage in what you see in notebook today to maybe help you succeed on that? And then on that same note, I guess, based on the current x86 software ecosystem out there and your experience with hardware drivers and such, do you feel like you've got an advantage versus ARM guys? Does it even matter? Can you talk about some of the puts and takes there?
+Richard Bergman
+Sure. So let's talk first about the mainstream notebook. I mean we are pretty happy with the review that we had on our Llano processor. Obviously, we expected that the graphics and the video and media capabilities to shine through, which it did. But also, the message about how AMD's focused on battery life, and we really turned that into an advantage at this juncture with our Fusion architecture. It gives us something to leverage into the future, and we're just going to double down on that area. You'll continue to see us bring low-power solutions into the marketplace. So we can grow our presence in notebooks and our market share. On the ARM- and x86-type of questions, certainly there's a large body of software out there that leverages the x86 architecture. But our focus is really delivering the entire experience. And again, we have all the right processors, the right GPUs. And yes, compatibility will certainly matter as we look forward to 2012, 2013 and so on. When somebody walks into the store, they want the confidence that they're going to get that same PC experience. And we feel AMD is the best capable company to deliver it into the market.
+Patrick Wang - Evercore Partners Inc.
+Got you. Okay, that's helpful. And then just my second question here. Just wanted to ask about the competitive environment that you're seeing in Graphics today. I know you talked about the attach rate being fairly stable here, but how is the competition faring up there? How are the inventories that you're seeing out there in the channel? And then also just lastly, I was hoping you could comment on that 17- or 18-watt Trinity part that you talked about. That sounds interesting.
+Richard Bergman
+Okay. Again, I'll touch on the Graphics business first. So obviously, we have a full line of products that we fully launched now in Northern Irelands, both in the desktop and notebook area. Just a couple weeks ago, we introduced the industry's highest-performing notebook GPU coupled with the industry's highest-performance desktop card that we have available in the marketplace. We feel our position for the next couple of quarters is very good. And as Thomas mentioned, there is an inflection point coming with the 28-nanometer process technology. Again, we've invested a lot in that area, and we expect to maintain our leadership position that we've enjoyed the last several years in the GPU marketplace. And the Trinity part, that's a product geared for 2012. We put out a pretty interesting power specification. I don't know if we really want to go into more details about that product at this time, other than the fact that we're going to continue to invest in leading in the mobile space.
+Patrick Wang - Evercore Partners Inc.
+Okay. And that part is different than the 28-nanometer part that you guys have got on the roadmap as well as in Q1?
+Richard Bergman
+I'm not sure which 28-nanometer product you're talking about in Q1. We've talked about Trinity in the past, and it's a 32-nanometer product.
+Patrick Wang - Evercore Partners Inc.
+It was, well, actually, the replacement for Brazos.
+Richard Bergman
+No. Trinity is more the mainstream product.
+Operator
+Our next questioner in queue is John Pitzer with Credit Suisse.
+John Pitzer - CrÃ©dit Suisse AG
+Thomas, you talked about gross margin maybe being up a percentage point in the September quarter. If that holds, you'll have an incremental gross margin of about 60%. Is that the right way we should think about incremental gross margin from here as you march towards that 50% goal or is September a particularly strong mix-shift quarter that, that 60% contribution margin probably comes down after that?
+Thomas Seifert
+As I said, I'm not going to give in going to long-term guidance. But moving forward, you will see different dynamics of cost playing in. And there will be a 28-nanometer transition, there will be ramp-up costs associated with going to 28-nanometer. So you will have some headwinds and gives and takes moving forward. We also said that getting our server market share back to where it needs to be is going to be a big part of that story getting line of sight beyond 50%.
+John Pitzer - CrÃ©dit Suisse AG
+And then, Thomas, would you expect the Graphics business to return to an operating profit in the September quarter or is the incremental spend on new products still focused in on Graphics for Q3?
+Thomas Seifert
+We saw a spike in terms of R&D expenses. I'm not going to give segment profitability guidance. But every time we lose money, we are not happy about that situation. And we said that being profitable in this business, over the long run, is one of our key intents and that's how we are going to manage this business moving forward.
+John Pitzer - CrÃ©dit Suisse AG
+And then guys, my last question maybe for Rick, if you go back to the Graphics business kind of peaked on a revenue basis a year ago at about $440 million, I'm just kind of curious, do you think that, that's an obtainable level going forward? Or do you think the dynamics around APU means that getting back to $440 million level probably not the right way to think about that business?
+Richard Bergman
+No. We still have a lot of opportunities in that Graphics business. We haven't talked on this call much about our workstation graphics, but we just hit record revenue and record unit shipments last quarter, and we can continue to grow that particular part of the business. And in addition, there is the 28-nanometer product coming. That's a great opportunity to grab share again, just like we did with the industry with the x11 and you saw what that did to our revenue. There's another opportunity coming up again here shortly.
+Operator
+Our next questioner in queue is Mike McConnell with Pacific Crest.
+Michael McConnell - Pacific Crest Securities, Inc.
+Rick, I wanted to ask you, the 9 million units for Brazos, very impressive in the first half of the year. How do we reconcile that type of sell-in in that category, like you said, with the segmentation between the Brazos and Llano relative to what we've been hearing about netbooks, what Intel alluded to yesterday with their view, reduced outlook for netbooks and just generally, weakness in the lower end of the market? How do we reconcile those 2? Is it just purely share gain or how do we get comfort that there will be sell-through at your customers?
+Richard Bergman
+Well, Brazos isn't just a netbook part. In fact, that's just a small percentage of the Brazos sales. We see it used in mainstream notebooks, desktops, all-in-ones, all different platforms out there. So we have tremendous sell-through on Brazos, so it's been going guns blazing since we introduced it in December, so there's no lack of interest in Brazos.
+Michael McConnell - Pacific Crest Securities, Inc.
+And then back on the Graphics side. Do you think your 11% decline in Q2 is representative of the entire market? Meaning, did you take share or did you hold share, lose share or do you think you took share in Q2?
+Richard Bergman
+It's normal seasonality and at this point, we don't know whether we really lost or gained share. I don't think there was a big shift in either direction in Q2.
+Operator
+Our next questioner in queue is Ross Seymore with Deutsche Bank.
+Patrick Wang - Evercore Partners Inc.
+Just a question on attached rates in your own business with discrete GPUs, especially in the notebook side of things, just trying to judge as the APU side ramps, is that complementary to your business or is there some cannibalization that you worry about?
+Richard Bergman
+To a certain degree, we're waiting to see how that plays out. On the Brazos type of platform, we haven't seen a lot of attach rate. But again, it's geared for more the mainstream and netbooks, where you don't historically see a lot of discrete GPUs anyway. As we move up Llano, our value proposition's pretty good there for any of the discrete GPU, and there are some markets, China, Western Europe that greatly value the graphics and media capability in what we call "a crossfire mode". How that works out worldwide, to a certain degree, we're just seeing what the sellout is and which platforms. A large number of the Llano platforms do have the discrete GPU option.
+Patrick Wang - Evercore Partners Inc.
+And since you mentioned the geographic side of things, if you think about the APUs in general, what's generally been the geographic uptake thus far? And how do you think that changes, if at all, with Llano?
+Richard Bergman
+I would say we'd didn't see any significant patterns that differentiate our APUs from our historical's CPUs shipments. We're seeing great reception around the world on Brazos. In fact, if anything, it's opening a few markets that we haven't previously participated in. Some of the emerging markets are really excited about the Brazos capabilities and what it brings and the price points we can hit with the just new level of computing and graphics that they haven't been able to enjoy in the past.
+Patrick Wang - Evercore Partners Inc.
+And then 2 last kind of housekeeping ones. One on inventory. You've done a great job managing that. In times past, when you were getting ready for a big ramp in revenues, we would see the inventory start to build up in anticipation. What's the reason we're not seeing that now? Is it just a simple as you're now a fabless company or is there something more than that?
+Thomas Seifert
+Well, it's this and more. I think we've been talking a couple times on these calls that we have been putting good management practice in place on how we look and manage our working capital across the value stream. And we have put initiatives in place and I think we have become rather efficient in how we handle that. So big kudos to the team, and they have been executing well. So it's a combination of both hard work, reengineering processes and the reflection of our fabless business model.
+Patrick Wang - Evercore Partners Inc.
+And then the one really housekeeping one. In the second quarter, in your Computing group, how did the chipsets perform versus microprocessors versus the flat overall revenues?
+Richard Bergman
+Well, in some ways, as we move into the APUs, breaking out the chipsets separately doesn't really make a whole lot of sense because they go in essentially pairs. They work in concert together. So we're not prepared to break out the granularity other than to say it's consistent with the overall CSG business.
+Operator
+Our next questioner in queue is Doug Freedman with Gleacher & Company.
+Doug Freedman - Gleacher & Company, Inc.
+If you could talk a little bit about the SG&A line and the marketing expense, I know that there was a change in the accruals on the marketing line. Has that been completely -- are we all to a single system now? And what should we think about for that line going forward?
+Thomas Seifert
+Good question. I think the changes we made to how we accrue are completed, we have managed ourselves through that transition. That is in terms of expenses. We're driving for efficiency in the fixed cost of that function. But the overall expenses should just react in alignment with where revenue goes.
+Doug Freedman - Gleacher & Company, Inc.
+Okay, very good. If I were to -- Moving on to another segment, a little smaller pocket of your business has been in the graphics market in the game systems. I believe you guys have had some pretty good success in that market lately. Can you talk about what you're expecting there and how we should think of that business going forward?
+Richard Bergman
+Well, it was exciting at E3 last month because Nintendo unveiled that they're using our graphics technology in their next-generation platform. But as you probably know, we don't talk about our customers' platforms until they're ready to talk about what their plans are, whether it's the timing or who they're using it and so on. So just as we mentioned, we got some great capabilities so just stay tuned to this space.
+Thomas Seifert
+Yes. Let me underline that. I think what we've seen now is that taking the Fusion architecture, combined with the capability the organization has to deliver a customized silicon, is opening now -- is opening up adjacent market segments that we will pursue aggressively. So we're excited by those opportunities, and it's been largely driven by a skill set the organization, my piece at the organization has acquired through being rather successful in the game console segment.
+Operator
+And we have time for one follow-up questioner, Hans Mosesmann with Raymond James.
+Hans Mosesmann - Raymond James & Associates, Inc.
+Most of my questions have been answered. But, Thomas, can you comment about global inventories in the channel? I think Intel said that they're kind of benign or actually lean. What's AMD's position on that?
+Thomas Seifert
+Very much the same. There are no signs or no markets that would get us alarmed. And I think inventory overall in the industry has moved itself. It's managed rather efficiently at this point in time across several supply chain and value chain.
+Operator
+And it appears to conclude our Q&A session time and as well as today's event. Thank you, ladies and gentlemen, for your participation and have a wonderful day. Attendees, you may disconnect at this time.

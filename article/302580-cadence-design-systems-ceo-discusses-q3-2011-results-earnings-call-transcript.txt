@@ -1,0 +1,177 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q3 2011 Earnings Call October 26, 2011 5:00 PM ET
+Executives
+Alan Lindstrom â Director of IR
+Lip-Bu Tan â President and CEO
+Geoff Ribar â SVP, CFO
+Analysts
+Paul Thomas â Bank of America
+Rich Valera â Needham and Company
+Raj Seth â Cowen and Company
+Saket Kalia â JPMorgan
+Jay Vleeschhouwer â Griffin Securities
+Operator
+Good afternoon. My name is Marvin and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Design Systems' Third Quarter 2011 Earnings Conference Call.
+All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. If you would like to ask a question during that time, simply press star then the number one on your telephone keypad. Thank you.
+I will now turn the call over to Alan Lindstrom, Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you, Marvin; and welcome to our earnings conference call for the third quarter of fiscal year 2011. The webcast of this call can be accessed through our website www.cadence.com, and will be archived for two weeks.
+With us today are Lip-Bu Tan, President and CEO of Cadence, and Senior Vice President and CEO, Geoff Ribar.
+Please note that today's discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause the difference in our results, please refer to our Form 10-K for the period ended July 1, 2011, or 10-Q for the period-end of July 2, 2011, the company's future filings with the Securities and Exchange Commission, and the cautionary statements regarding forward-looking statements, and the earnings press release issued today.
+In addition to financial results prepared in accordance with generally-accepted accounting principles, or GAAP, we will also present certain non-financial GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with the most direct comparable GAAP financial results which can be found in the quarterly earnings section of the Investor Relations portion of our website.
+A copy of today's press release dated October 26, 2011 for the quarter ended October 1, 2011 and related financial tables can also be found in the Investor Relations portion of our website.
+Now I'll turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone. Thank you for joining.
+The strong design activity so far in 2011 continue to drive our business in Q3. Revenue totaled $292 million, non-GAAP operating margin was 18%, and we generated $52 million of operating cash flow.
+Given the risk of the world economy, we looked very closely at our prospective Q4 business. As reflected in our outlook, we expect good demand in Q4 for our products and services, driven by strong design activity. Application-driven design, modality, video and cloud are key drivers of the design activity.
+Also, many of our customers are targeting faster, smaller, lower power devices for the mobile and consumer markets. This is very well aligned with our industry-leading position in low power and mixed signal design.
+In addition to strong sales across our product lines, in Q3, we also demonstrated our product readiness for 20-nanometer, and firmly established our product capabilities for designing SoCs using advanced multi-card processors.
+Now, let us look at our third quarter highlights. I will start with silicon realization.
+The move to 32-nanometer and 28-nanometer is gaining momentum. Cadence is engaged with an increasing number of customers, designing at this advanced nodes. I will highlight a recent success later in my remarks.
+We have already completed multiple test chips at 20-nanometer with our silicon partners, and we have many more planned for Q4 and Q1. We are also working on 14 nanometer projects with select partners.
+Our recent announcement with ARM last week illustrates our readiness for 20-nanometer as well as highlights our capability for the design of SoCs using advanced processors like ARM Cortex A15. Our engineers work side by side with engineers from ARM and TSMC to design first test chip in the world containing ARM Cortex A15 using a complex Cadence RTL to sign off design flow, and targeting TSMC 20-nanometer process. This shows the ecosystem leaders are choosing Cadence to partner with them on their most advanced design at the most advanced processors.
+To address the increasing cost of mixed signal design, we continue to leverage recent productivity advances of Virtuoso 6.1 into our unified mixed signal solution. As a proof point, we recently announced that ST-Ericsson achieved a 10x productivity gain by using Cadence mixed signal solution for our complex mixed signal IC targeted to the high-volume mobile phone market.
+Our customers are already benefiting from the integration of the recent acquired technologies from Altos and Azuro with our digital and custom analog flows. For example, TSMC is now making scripts for library characterization for TSMCâs foundation IP available for download from TSMC Online. For the first time, customers using Altos library characterization product will be able to recharacterize the TSMC libraries with the same technology used by TSMC. This provides customer greater visibility into the effects of noise, timing and power at every phase of design cycle, leading to higher-quality design.
+Now let us look at SoC realization. Our primary focus for IP continues to be on memory and storage and high-speed interfaces. We have continued momentum in memory and storage IP and growing traction in hard PHYs. The unique architecture advantages and greater flexibility of our PHYs led to several competitive wins.
+For example, NuFront, a fabless semiconductor company based in China, chose our DDR hard PHY for use in mobile application due to its power and area advantages. In the area of high-speed connectivity, our PCI Express Gen 3 solution leads the industry. The X8 version of the product is implemented in a new PMC-Sierra protocol controller. And during the quarter, we successfully demonstrated it with PMC-Sierra at several trade shows.
+Cadence is a leader in verification IP, which addresses the challenges of effective SoC and device integration, verification, and standard interface compliance. In Q3, we announced additional protocols and memory VIP that will accelerate the adoption of the emerging mobile standards. Cadence now has support for over 30 complex protocols and a portfolio of memory models covering more than 6,000 memory devices. In Q3, we closed several multimillion dollars contracts for VIP for both mainstream protocols and emerging ones.
+Now let us turn to system realization. Customer demand is growing for our system development suite and its components, which tackle hardware, software, co-design and co-verification. The recently-announced FPGA-based Rapid Prototyping Platform which enables and speeds up software development for complex systems is generating good traction with customers, including LSI.
+Q3 sales exceeded expectation for the cornerstone product in our system development suite, the Palladium XP Verification Computing Platform. We had nine new logos in Q3 for Palladium XP, of which two are competitive displacements.
+LSI expanded their Palladium XP capacity by 50% and added capacity for prototyping with Cadence Rapid Prototyping Platform. The latest-generation Palladium XP systems will be used to accelerate the verification of LSI storage products and Axxia multicore solutions.
+Palladium along with the Rapid Prototyping Platform enables software and hardware to be co-developed and co-verified prior to the availability of silicon, reducing the time needed to deliver solutions to LSI customers and greatly improving the quality of the deliver silicon.
+Another customer purchasing Palladium XP in Q3 was AMD. Since introduction in mid-2010, 14 customers have placed significant repeat orders.
+Finally, I want to highlight a success with an ecosystem partner. Samsung and Cadence this week announced the results of a successful collaboration with Ambarella on their new 32-nanometer A7L high-definition media chip. This chip will bring new levels of performance and power savings to digital lifestyle HD camera applications. This success illustrates the value of close collaboration between industry leaders in bringing advanced products to market.
+Now, let me conclude my remarks with the following. Q4 looks strong. So far, design activity and demand for EDA products are holding up. Cadence is committed to technology leadership for both 20-nanometer and high-performance, low power, core based design.
+Ecosystem leaders like ARM and TSMC are choosing to work with Cadence on their most advanced designs. Customers are already benefiting from our acquisition of Altos and Azuro. We are successfully delivering high value, differentiating design IP and verification IP to customers. Demand for Palladium XP is strong and interest is growing for the new components of the system development suite.
+With that, I will now turn it over to Geoff who will review financial results and provide outlook. 
+Geoff Ribar
+Thanks, Lip-Bu; and good afternoon, everyone.
+Cadence posted strong financial results for Q3, and we have good momentum going into Q4. I will review the results for the third quarter and then present our outlook for Q4 and update 2011.
+Total revenue for the third quarter was $292 million compared to $238 million for Q3 of 2010. Product revenue was $164 million; maintenance revenue was $99 million; and service revenue was $29 million. The revenue mix for the geographies was 44% for the Americas, 21% for EMEA, 18% for Japan, and 17% for Asia.
+Total cost and expenses on a non-GAAP basis for Q3 were $240 million compared to $235 million for Q2 of 2011. End cost from acquisitions and higher variable compensation contributed to the sequential increase.
+Quarter-end headcount was approximately 4,700, up from approximately 4,600 for Q2. Non-GAAP operating margin for Q3 was 18% compared to 9% for Q3 of 2010.
+For Q3, we recorded GAAP net income per share of $0.10 compared to $0.48 per share for Q3 of 2010. GAAP net income per share for Q3 of 2010 included a one-time benefit of $0.56 related to the settlement of an IRS examination. For Q3 2011, non-GAAP net income per share was $0.14 compared to $0.04 for Q3 of 2010.
+Operating cash flow for Q3 was $52 million. Year to date, operating cash flow is $178 million compared to $142 million for the same period in 2010.
+DSOs for Q3 decreased to 50 days, down one day from Q2. Our target DSOs for the year is 50 to 60 days. The quality of receivables remained high, with less than 1% of receivables more than 90 days past due. Capital expenditures for Q3 were approximately $6 million.
+Cash and cash equivalents were $696 million at quarter-end and approximately 40% of our cash is in the United States. For Q3, 90% of orders booked were ratable, including product maintenance and services.
+Weighted average contract life for Q3 was approximately 2.7 years. On a weighted average basis, run rate in Q3 contract renewals increased.
+I want to point out an item in our balance sheet that has changed this quarter. Last quarter, the 2015 notes were classified as a current liability because a contingent conversion feature was triggered during Q2. The contingent conversion feature was not triggered during Q3, so the notes have returned to the long-term liability section of the balance sheet. The contingent conversion feature is triggered when the price of Cadence stock trades above $9.81 for an extended period during the last month of the quarter. And this was not the case for Q3.
+Now let's address our outlook for the fourth quarter of 2011 and update -- and our update for fiscal 2011. We are increasing our fiscal 2011 outlook for booking, revenue and earnings per share due to strong Q3 results, the expectation of continued strong demand in Q4, and a positive impact of shorter contract lives and revenue.
+For Q4 2011, we expect revenue to be in the range of $295 million to $305 million. Q4 non-GAAP operating margin is expected in the range of 18% to 20%. Non-GAAP total cost and expenses should be flat to up slightly compared to Q3. GAAP EPS for the fourth quarter is expected to be in the range of $0.08 to $0.10. Non-GAAP EPS for Q4 is expected to be in the range of $0.14 to $0.16.
+And now, for an update of fiscal 2011 outlook. Bookings are now expected to be in the range of $1.135 billion to $1.155 billion compared to a prior range of $1.115 billion to $1.145 billion. We expect weighted average contract life in the range of 2.5 to 2.7 years for the year, and to book at least 90% of our orders for the year under ratable arrangement.
+We now expect revenue to be in the range of $1.135 billion to $1.145 billion for 2011, compared to the prior range of $1.115 billion to $1.135 billion. Non-GAAP operating margin is expected to be in the range of 16% to 18% on an annual basis for 2011 compared to the prior range of 15% to 17%. Non-GAAP other income and expenses for 2011, we expect it to be in the range of negative $16 million to negative $14 million.
+In 2011, we are assuming a non-GAAP tax rate of 26% and weighted shares outstanding of 269 million to 273 million shares. GAAP EPS for 2011 we expect to be in the range of $0.31 to $0.33, compared to prior range of $0.20 to $0.26. Non-GAAP EPS is now expected in the range of $0.48 to $0.50 compared to a prior range of $0.41 to $0.47. We are expecting operating cash in the range of $230 million to $250 million.
+We expect DSOs to be in the range of 50 to 60 days at yearend; the prior range was 55 to 65 days. My long-term goal (inaudible) the first 45 days. Capital expenditures for 2011 are expected to be in the range of $30 million to $35 million.
+To conclude, Cadence again posted strong results as our operating profit continued to improve. We are making consistent progress for the long-term goal of non-GAAP operating margin in the mid-20s. While we're concerned about the risk of the world economy, at this point, as we look at Q4, design activity and demand for our product and services remain strong.
+Operator, we will now take questions.
+Question-and-Answer Session
+Operator
+Ladies and gentlemen, if you would like to ask a question, please press star then 1 on your telephone keypad. We'll pause for just a moment to compile the Q&A roster.
+Our first question comes from the line of Paul Thomas with Bank of America.
+Paul Thomas â Bank of America
+Thanks for taking my questions. First, Lip-Bu, you highlighted in your prepared remarks the strength that you've seen in smartphone and mobility. And I recall from the last call that you had talked about some difference in engagement maybe you'd seen between mobility-based and PC and networking-based customers. And I'm just wondering now, three months later, can you give us an update? Are you still seeing any difference between those two, or is the strength you've seen across the board?
+Lip-Bu Tan
+I think we see strength across the board, Paul. I think clearly the smartphone and tablets are gaining a lot of momentum, clearly because of this application-driven design service, opportunity because of application-driven solution, and service that they provide to the consumer, and we see tremendous growth. And PC, a little bit slowdown and continue to be a little bit weak. But overall, I think it's really playing to our strength, as I mentioned in my prepared remarks, that our partnership with ARM is very, very important. Because as you can tell, smartphone or tablets, a lot are ARM-based, and clearly I think the relationship we have, the partnership we have in terms of the technology agreement that we work together, I think that's going to be significant for the liaison [ph] for some of the customers that using ARM and call-based design that really drives a lot of our momentum.
+Paul Thomas â Bank of America
+Okay. Maybe one more for you, Lip-Bu, you're finishing the year very strong. I was wondering if you could share some of your thoughts on what you think EDA growth or maybe semi-R&D spending growth could be next year. And do you think it's a mid-single-digit range kind of number, or what's your sense at this point?
+Lip-Bu Tan
+Yeah, it's a very good question. I think overall, we look at the whole global economy. Clearly there are some risks in Europe and US, actually impacted the semiconductor demand. Clearly the growth is more the low single-digit to zero. If you look at a lot of our customers, it's very much a mixed result. But clearly, as I mentioned, the smartphone, tablet are growing. Cloud infrastructure are growing.
+Meanwhile, seeing that design activity remains strong, and so from Cadence point of view, we still see the momentum of design is still very strong. So I think, answer your question, the semiconductor R&D spending growth, I will say somewhere between 5% to 8% growth.
+Paul Thomas â Bank of America
+All right. Thank you very much.
+Geoff Ribar
+And that's for 2011. 2011 we'll talk about in our next earnings call.
+Operator
+Our next question comes from the line of Rich Valera with Needham.
+Rich Valera â Needham and Company
+Thanks. Good afternoon, gentlemen. It looks like you had another real strong quarter in the emulation business, probably a bit stronger than you expected. Can you talk about the momentum in that business as you head into Q4, your expectations for that to be down in Q4 versus I guess very strong Q2 and Q3? And how do you feel about that in the face of the macro headwinds as we head into next year?
+Lip-Bu Tan
+Sure. Let me address first and then Geoff can chip in. So, first of all, clearly, we have the best-of-class, any complex chip below 40-nanometer has become a must-have, because, you know, really help with time to market, and also the hardware/software integration, and also identify the parts quicker that will really help in the time to market. So I think we continue to see demand, and that's why I mentioned that we have a couple of new logos, nine of them, and then also I think you're going to see more and more customers are using that and they come back for repeat orders.
+And so, overall, we continue to see a strength in terms of the design, I call it the application-driven design that require that, and we have the best-of-breed in terms of the products. And then Geoff can talk to you more about our expectation for the second half.
+Geoff Ribar
+Yes. So we don't break up the hardware business, Rich, as I think you're aware. But I think as Lip-Bu highlighted, clearly there's a secular trend here going, driving that business. We did say earlier we expected the business in the second half to be less than the first half of the year, and that will be true. But we don't guide specifically on that.
+Rich Valera â Needham and Company
+Okay, that's helpful. Thank you. And based on your prepared remarks, I donât think you've changed your strategy at all, but in the wake of the departure of John Bruggeman I guess shortly after your last call, just wanted to confirm that the sort of EDA360 strategy was sort of firmly in place. Just talk about that a bit.
+Lip-Bu Tan
+Sure. Happy to talk about that. I think EDA360, there's nothing magic to it. It's really the application-driven design that is really the main theme of that. And that is basically the hardware/software co-design. So in some way, if you look at the EDA360, we are very much executing towards the plan that we have silicon realization that will continue to commit to the advanced node, and then our success with ARM, and then continue building up our SoC realization beside the Denali acquisition. Right now we are moving, expand our memory and storage IP, and now move on into the high-speed connectivity. And that's something that we are embarking, very aggressively executing that.
+And then the third part is really the system development suite we already announced. Now, we announced a couple of new components, Rapid Prototyping Platform that we talked about, and also the time-to-integration, the hardware/software co-design, co-develop. So I think, you know, not just a question, actually we are executing beyond, very laser-focused on executing our plan.
+Rich Valera â Needham and Company
+Great. And just one final one, if I could, if you look back to last call and include what you talked about this call on the competitive front, it sounds like you've been gaining share on digital design, emulation and analog and mixed signal design. Are there any areas where you're sort of not gaining share, you're not as strong? Are there any sort of weak points in the portfolio that you feel like you want to improve and get more competitive in?
+Lip-Bu Tan
+Yeah, I think -- yeah, let me address that. First of all, we, as I mentioned, our strength is of course all product lines. We are happy with what we have, the strategy we set up to do. Clearly our digital has improved substantially. I think the acquisition of Azuro is very welcomed by our customers in terms of driving the power lower. And also I think, so far, we move on, we want to be the leader in the 20-nanometer. We already announced with Samsung and TSMC, multiple customers engaging with us. So we'll commit and continue to win on that.
+On the custom and analog, we continue to drive differentiation and performance, 6.1 Virtuoso, the proliferation is great. We like what we have. We continue to expand on it. And then in terms of the SoC and the system level, as I mentioned, we're making great progress. Palladium continues to be very strong.
+And so I think, overall, you know, is there room for improvement? Absolutely. We continue to drive performance, and most important, provide the best solution to our customer to make them successful.
+Rich Valera â Needham and Company
+Great. Thanks very much, gentlemen.
+Operator
+Your next question comes from the line of Raj Seth with Cowen and Company.
+Raj Seth â Cowen and Company
+Hi. Thanks very much. Nice execution.
+Lip-Bu, can I go back to the question around digital competitiveness. You announced last quarter a couple of deals with some top 10 guys. There are a couple of companies, Ambarella the latest that you are very closely aligned with, I think Spedrum's [ph] another one. Where do you think you are relative to the competition? Would you assert that you sort of caught up at 2x node, or is there still meaningful amount, I mean you talked about still work to do across the portfolio, but is there still a meaningful amount of work to do in digital to catch up, or do you think you're close at this point? Thanks.
+Lip-Bu Tan
+Yeah, good question. We continue to drive success in our digital flow, and I think we already mentioned a couple of them. I think last week is a very important one, is ARM, the 20-nanometer with their Cortex A15. We're basically (inaudible) of world number one, first in terms of Cortex A15, that open up tremendous opportunity for us in terms of customer using ARM A15. And so this is really exciting for us.
+So, clearly demonstrate that in our competitiveness in terms of our digital flow. And then I mentioned earlier, they're using the whole RTL to sign off design flow, and that is very significant.
+And then the other part is we're also moving up into the leadership in the advanced nodes. And that's critical because customers like to see the roadmap and then how can you support their design and then fabricated at the foundries, partners, like Samsung, TSMC, I mentioned in my remarks. I think that's very important for us.
+And then besides that, we continue to fine-tune and continue to, you know, most important is customer win, and I'm a very strong believer of vertical collaboration and providing customer with the highest performance, differentiating products in the marketplace to win.
+Raj Seth â Cowen and Company
+Great. I wonder if I could ask one more and then a quick follow-up for Geoff. Can you go back to the cycle? I mean there's lots of debate around severity and duration of the semi cycle. I understand EDA feels good now. But you've been around a long time and touched lots of folks in the semi industry. I wonder if you could just reflect for a minute on what they're telling you and what your sense is on where we are in the broader semiconductor cycle, if you could. Thanks.
+Lip-Bu Tan
+Yeah, it's a good question. I just want to add, the last question that you asked, I think the Azuro acquisition is very helpful for us and I think the integration is very good for us.
+Back to your question about the semiconductor industry cycle, clearly last year is a very strong year. This year is -- initially start with strong, and then it became a very mixed bag because of world economy and then slowdown, some of the economy, like Europe and US. Meanwhile, I think there are some couple of drivers, I mentioned in my remarks, are clearly the application design, mobility, video, cloud, are driving a lot of that design development, and we are very excited to be engaging with many of the successful companies, customers.
+And so I think -- I donât have a crystal ball for next year, but I think clearly, from the -- we are very cautious because we look at the whole world economy. And meanwhile, we are really delighted that the design activity still remains strong. But we are very cautious along the way and work with our customers and then drive vertical collaboration that I consider is the formula for success.
+Raj Seth â Cowen and Company
+Great. Quick follow-up for Geoff, if I may. Geoff, I know you haven't ever really wanted to talk in specificity too far ahead. You've talked about the 25% margin target without a sort of date associated with that. I'm wondering if, as you drive to -- I think you'd acknowledge you're probably somewhere below your normalized bookings level as you've sort of come out of your reset, you're not full yet. Can you talk to either, without timing but sort of the normalized bookings levels that you might anticipate or even normalized cash flow, without getting into exactly when you expect to reach those? Is there anything you can give us looking forward about where Cadence can head, without getting too specific around 2012?
+Geoff Ribar
+Sure. And I want to clarify, we talked about mid-20s as far as our operating results.
+Raj Seth â Cowen and Company
+Sure.
+Geoff Ribar
+So, first, in bookings, obviously can't get specifics, and we'll give you a little bit more specifics when we talk about 2012 in our next call. But weâve consistently said that '11 was going to be better than '10 as far as bookings were concerned, and '12 is going to be better than '11 just based on the results [ph] cycle and the model transition. That still stays in place. And over time, I guess we believe cash flow should closely reflect operating income, with a little bit of adjustment for depreciation and amortization. So I think if we get to the mid-20s on operating income, we should get to at least the mid-20s on cash flow.
+Raj Seth â Cowen and Company
+And anything you can give on what you think the sort of normalized levels are or what those levels are when you're through the transition, even if you don't want to get specific on sort of exactly when we accomplish that?
+Geoff Ribar
+Yeah. We've never given those results out or never given that information out. And so, we'll wait to give you some more information when we talk about '12, but we're not talking about the --
+Raj Seth â Cowen and Company
+Last quick one if I might. In Q1, headed into Q1, anything sort of seasonal to keep in mind as we sort of put models together as it relates to OpEx that we should think about, or no?
+Geoff Ribar
+Yeah. So, seasonality in revenue is largely not part of a ratable model. So we don't expect much seasonality in revenue. We will have the traditional Q1 FICO and social security tax coming into expenses, offset by probably some other things. So, generally, I think that would be the major swing item.
+Raj Seth â Cowen and Company
+Okay. Thank you.
+Operator
+Our next question comes from the line of Sterling Auty with JPMorgan.
+Saket Kalia â JPMorgan
+It's Saket here for Sterling. Thanks for taking my questions.
+Hey, Geoff, with the converts going back into long-term liabilities, can you give us an update on what your intentions are with those, if they do trigger the exercise price again in the fourth quarter?
+Geoff Ribar
+Yes. So, generally when they trigger the exercise price, it still doesnât -- it's still not in the holders' economic interest to convert the market value. If those converts are higher than the conversion price, we'll do it. So if it triggers it back in, we'll move them back in to current. But it's really not something we think has economic impact to the company. We do have the 2011 converts coming due later this quarter, which we'll pay off from the cash flow.
+Saket Kalia â JPMorgan
+Got it. And then on the raised guidance for fiscal '11, it sounds like you had the comfort to actually take it up, but you also held up some caution just given the global macro factor. Can you talk about any assumptions that you have on bookings for run rate going into the fourth quarter? And that's it from my side. Thanks.
+ Geoff Ribar
+Yes. We don't give specific bookings guidance, but we've had -- we expect the duration to be 2.5 to 2.7 years, again demonstrating the fact we also raised booking guidance for the quarter or for the year. It shows that again continued strength I think in bookings.
+Saket Kalia â JPMorgan
+Great. Thanks.
+Operator
+And once again, ladies and gentlemen, if you would like to ask a question, please press star then 1 on your telephone keypad.
+Our next question comes from the line of Jay Vleeschhouwer with Griffin Securities.
+Jay Vleeschhouwer â Griffin Securities
+Thanks. Lip-Bu, could you talk about the segments or product areas where you are most rapidly building or rebuilding your R&D spending?
+Lip-Bu Tan
+Yeah. I think, Jay, first of all, I think across the board, the product continue to improve and drive competitiveness. Clearly we have a lot of commitment to the core EDA. That means the digital flow, analog, mixed signal, and all the way to packaging. And so that is our core business, we are very committed to that. And you can see the result of our success in the digital, mixed signal and continue down all the way to the packaging side. The 3D IC, the [chip], and I think we continue to drive that.
+And then we are very prudently investing and also drive success in the SoC that include IP and differentiating IP, and also the verification IP, the design IP and verification IP. And also we continue to see the momentum and strength in the hardware emulation Palladium, and that we expand that into the whole development suite and then move, you know, expand that whole area to Rapid Prototyping Platform and also into the time-to-integration, and then drive the hardware/software co-design, co-development.
+So I think we pretty much stick to the investment into our EDA360 application-driven strategy.
+Jay Vleeschhouwer â Griffin Securities
+Thanks. A couple of market questions, one about geography, one about a product. As you know, for most of the last decade, non-Japan Asia has been the fastest-growing region for EDA. And on an as-reported basis, your share of that region spending for EDA is somewhat below your corporate or global average of EDA spending. So, perhaps that's because of still some transition issues in the model. But do you feel that there's improvement you ought to have in your share in what is still the fastest-growing part of the market geographically?
+And on the product side, one major category in EDA that's been doing pretty well for the last year is printed circuit board. And I think you categorized that in your system interconnect. Could you talk about what you're seeing in that market, the kind of growth expectations or strategy that you have there to keep up with, again, one of the largest categories in the group?
+Geoff Ribar
+Sure. I'll talk about Asia and then Lip-Bu will talk about the system interconnect business or PCB business.
+So, I think I always toss to everybody in the EDA that the market number -- market share numbers and as-reported basis is based on different business models that our competitors have. As you know well, Jay, we're in the middle of a transition to a fully ratable model, and we had some revenues that we had previously thought that upfront that we aren't booking yet as ratable. I think some of our competitors use different models, and so I think the numbers aren't compatible, totally compatible. So we actually feel our share in Asia is doing quite well and probably growing, is our belief.
+Lip-Bu Tan
+So I think on the second part of the question, about PCB, clearly, you know, besides -- I mentioned earlier that we are very unique in terms of not just digital and mixed signal and analog, we also -- all the way to packaging, and then on the IC packaging and also 3D IC packaging. And we also have the PCB side, and then the latest version of our Allegro PCB is focused on high-end, high-speed board design that we had been doing very good in terms of the -- well-received in the new products, and it brings new capabilities and features to drive some of the design costs down. And so I think that has been very welcomed by our customers.
+And I mentioned earlier about the whole 3D IC that gained a lot of momentum. We are heavily engaging with customers on that. And we also introduced our OrCAD marketplace that provide that online for application for our OrCAD product line. And that is more addressing a lot into China and some of this PCB opportunity. And we also strengthened some of our distribution channel so that we can be effectively -- compete and win in the marketplace.
+Operator
+We seem to have no further questions at this time. I would like to turn the call back over to Lip-Bu Tan, President and CEO of Cadence, for closing remarks.
+Lip-Bu Tan
+Yes. In closing, Q3 was another great quarter for Cadence, and we have momentum going into Q4. Our solution are ready for 20-nanometer design. We have demonstrated product leadership in the design of SoC using advanced multicore processors. Our recent acquisitions are already benefiting customers. Our key operating metrics are all improving.
+Thank you everyone for joining us this afternoon. We look forward to speaking with you soon.
+Operator
+This concludes today's conference call. You may now disconnect. 

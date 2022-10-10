@@ -1,0 +1,270 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q3 2014 Earnings Conference Call August 20, 2014 5:00 PM ET
+
+Executives
+
+Aart de Geus â Chairman and Co-Chief Executive Officer
+Brian Beattie â Chief Financial Officer
+Analysts
+Rich Valera â Needham & Company
+Krish Sankar â Bank of America Merrill Lynch
+Sterling Auty â JPMorgan Chase & Co
+Tom Diffely â D.A. Davidson & Co.
+Jay Vleeschhouwer â Griffin Securities
+Monika Garg â Pacific Crest Securities
+
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Synopsys Earnings Conference Call for the Third Quarter of Fiscal Year 2014. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time. (Operator Instructions).Todayâs call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, todayâs call is being recorded.
+At this time I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thank you, Michelle. Good afternoon, everyone. With us today are Aart de Geus, Chairman and Co-CEO of Synopsys; and Brian Beattie, Chief Financial Officer.
+Before we begin, I would like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts and targets and will make other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+In addition to any risks that we highlight during this call, important factors that may affect our future results are described in our most recent quarterly report on Form 10-Q, and todayâs earnings press release. All financial information to be discussed on this call, the reconciliation of the non-GAAP financial measures to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, the earnings press release and the financial supplement that we released today. All of these items are currently available on our website at www.synopsys.com.
+With that, Iâll turn the call over to Aart de Geus.
+Aart de Geus
+
+Good afternoon. Iâm happy to report excellent fiscal third quarter results. Customer demand was strong; we shipped game-changing new products that have already started a multi-year upgrade cycle; and we achieved encouraging results through Coverity, the recent acquisition that expands our TAM into a brand new software quality, test and security space.
+Highlighting our financial results. In Q3, we delivered revenue of $522 million, non-GAAP earnings per share of $0.65, and $340 million in operating cash flow. For the year, based on the combination of solid organic growth and Coverity results, weâre raising the midpoint of non-GAAP EPS guidance to a range of $2.48 to $2.50. We are narrowing our 2014 revenue range to $2.055 billion to 2.065 billion. In addition, weâre raising our operating cash flow guidance to at least $500 million.
+Before moving on to highlights for the quarter, let me comment on the customer landscape. Semiconductor company results have been trending better over the past couple of quarters, primarily reflecting good production volumes. At the same time, stress levels have not really changed. Semi and systems companies worldwide face significant challenges â how to deal with global economic caution and navigate a very competitive market, while meeting unprecedented technical mandates in both hardware and software. The result is that both vertical and horizontal consolidations, be it by acquisition or divestiture, have continued. While this dynamic is not new, it makes semiconductors an evolving, yet exciting industry. 
+From a design perspective, the state-of-the-art push into smaller dimensions and much larger transistor counts continues unabated. Since these chips provide an enormous amount of compute power, both the amount of embedded software and the number of new software applications are growing at an impressive rate. Synopsys is uniquely positioned to be the partner of choice for companies facing these challenges
+We lead in chip implementation. We have a comprehensive solution for verification that reaches all the way up to the intersection of hardware and software. Weâre the number two IP company in the world. And with the acquisition of Coverity, weâve not only significantly expanded our portfolio and customer base, but are transforming Synopsys into its next incarnation.
+Let me now focus on highlights in the different areas, beginning with Core EDA. Looking at the implementation flow, one recognizes three technical segments: First, the FinFET-based, leading-edge designs ranging from 22 nanometers down to test and early production-designs at 10 nanometer. Second, the grouping centered around 28 nanometer, including 45 and 20, designing very advanced chips, but holding back to jump into FinFET until processes mature a bit. 
+And lastly, designs in established nodes ranging from 55 nanometer to 350 nanometer, and often specializing in applications requiring more analog, high voltage, or other market-specific demands. Synopsys is strong in all three categories with leadership especially visible in the first two.
+Commenting on the extremely fast-growing FinFET segment. Itâs quite astounding to see how intense the competitive battles are among the silicon providers, and how fast the node succession from 22 to 16/14 to 10 nanometer is progressing. Synopsys has invested for almost a decade in this area.
+At latest count, weâre already tracking over 150 FinFET designs and tapeouts worldwide. Synopsys is integral to more than 95% of them. Clearly, from a technical point of view, Mooreâs Law is alive and well, and Synopsys is central in driving it forward.
+During the quarter, we announced broad foundry support for Intelâs 14 nanometer Tri-Gate platform, extending our production-proven 22 nanometer design enablement to this new process. Already heavily used to design Intelâs own production Tri-Gate chips, Synopsysâ broad offering of digital and custom design tools, digital and analog simulation, as well as memory and interface IP, enables Intelâs foundry customers to be confident in their ability to design very advanced chips. We also announced broad FinFET collaborations with Samsung and TSMC â including availability of a wide range of design tools and IP.
+Touching all three segments, our custom and mixed-signal tools are making solid progress. Specifically, the integration of IC Compiler and Custom Router is seeing excellent success with customers needing to bring digital and analog design together. At the Design Automation Conference, for example, Fujitsu and Renesas highlighted 4 to 15X productivity gains, and our solution has already been used in more than 50 tape-outs.
+Based on intense customer interest across the design spectrum, the introduction of our new IC Compiler II is clearly the highlight of 2014, and a milestone in design automation. This next generation tool delivers an astounding 10X improvement in throughput. Thatâs 10X, not 10%. Since announcing IC Compiler II in March, we delivered its production version exactly on schedule last month. The number of customer engagements has grown very rapidly, and we have booked our first orders. So far, the accelerating number of tape-outs has been in 40, 28 and 16/14 FinFET designs, and the first chips have already successfully come back from manufacturing.
+Let me give you a sense of the impact customers are already seeing with IC Compiler II. Last week a very important customer reported that, to their own astonishment, on a large block of one of their most advanced chips, the difficult placement and clock optimization runtime, which is typically about 45-plus hours for them, with IC Compiler II came down to an amazing six and a half hours. Needless to say, this is not only a fabulous productivity increase, but also allows the design team to now do multiple iterations per day. We expect IC Compiler II adoption to begin a broad ramp up in 2015. 
+The thus enabled massive growth in chip and system complexity puts the spotlight squarely on verification, where we also made great progress with the Q2 announcement of Verification Compiler. Shown to deliver 3X productivity improvements, Verification Compiler features brand new core technologies in static and formal verification, the integration of software-based simulation and debug tools, as well as key verification IP, all in a single product. Interest is even higher than expected â leading to a solid pipeline and orders already in hand. As customers understand the impact of what Synopsys is doing in verification, weâve had a number of key commitments to long-term collaboration in this area. Overall, in core EDA, we see a lot of activity and expect generally low-to-mid single digit organic growth on a multi-year basis.
+Now turning to IP and prototyping. In IP, this quarter we note a number of successes with both current and next-generation products. We see significant USB 3.0 traction, as some major customers are well into volume production, while others are ramping up new design efforts. We estimate that 100 million Synopsys-powered USB 3.0-based chips have shipped thus far.
+During the quarter we unveiled the industryâs first complete PCI Express 4.0 solution. Targeted at enterprise computing applications such as servers, networking, and storage systems, weâre doubling the performance over the previous standard. Most importantly, in Q3 we also launched IP Accelerated. After pioneering IP-based design for almost two decades, several years ago we set out to transform IP integration and make it radically easier for designers to benefit from third-party IP. Along with the IP, weâre now delivering a complete set of models, FPGA prototypes, test structures, driver software, and a host of other integration mechanisms. 
+This complete solution not only speeds up the integration of large quantities of IP while reducing the risk of costly errors, but it also accelerates the essential path to software. IP Accelerated sets the bar for sophisticated IP and directly impacts designer productivity and success. The reception from customers has been excellent. On the prototyping side, demand for HAPS FPGA products is driven by the steeply increasing need for hardware/software integration, which brings me to the new software space that we entered with the acquisition of Coverity. 
+This market is characterized by a $500 million TAM, high growth, an imperative for companies of all sizes developing software, and great potential for Synopsys. Coverity provides the essential testing software used during code development to find and fix critical defects. Defects not found during development are much more expensive to find in the Quality Assurance phase. Defects not found at all can jeopardize the quality or security of a product. While weâre still in the early stages of building this business, I do have some highlights to share. In the first few months, Coverity is right on track financially.
+As a reminder, we indicated last quarter that we expect Coverity to contribute $20 million to $25 million in revenue, and be $0.10 to $0.13 dilutive in fiscal 2014 due to the deferred revenue impact of purchase accounting. We expect this part of our business to reach break-even in the second half of fiscal 2015, and be accretive in 2016. While Coverity did a great job building a $75 million standalone company, combining with Synopsys â one of the largest software companies in the world brings new benefits to target customers.
+In one interaction with a major global energy company, their management indicated strong satisfaction that this mission-critical software is now coming from a large company with financial strength, stability, and long-term vision.
+Recall that half of Coverityâs customers are brand new to Synopsys, representing a completely new pool of potential buyers. The other half are companies we know well, but where Coverity is used in different parts of the company and accessing different budgets.
+Weâve spent the last several months focusing on bringing in business and assessing the go-forward strategy. We anticipate sharing more with you over the next couple of months â please, stay tuned. IP and Software Solutions contribute approximately 25% of our revenue, and we expect to see low-double-digit revenue growth on a multi-year basis.
+In summary, we executed well in Q3. We solidified the yearâs financial outlook with an excellent quarter, and raised operating cash flow guidance; we delivered game-changing technology that extends our competitive differentiation for years to come. And we made good progress on our new journey into the software quality, test, and security market with Coverity.
+Let me now turn the call over to Brian Beattie.
+Brian Beattie
+Thank you, Aart and good afternoon everyone. In my comments today I will summarize our financial results for the quarter and provide you with guidance for Q4 and the full year of 2014. In my discussions, all of my comparisons will be year-over-year unless I specify otherwise. Synopsys delivered an excellent quarter, meeting or exceeding all of the quarterly financial targets we provided in May.
+Q3 financial results were highlighted by strong business levels, solid growth in both revenue and earnings, and considerable cash flow generation. Total revenue was $522 million, an increase of 8% compared to a year ago. As expected, revenue from Coverity product sales was modest, reflecting the post-acquisition purchase accounting haircut to
+deferred revenue.
+About 90% of Q3 revenue came from beginning-of-quarter backlog and we had one slightly greater than 10% customer. The weighted average duration of our renewable customer license commitments for the quarter was about 3.1 years, and we continue to expect weighted average duration for FY14 to be approximately three years.
+Turning to expenses, Q3 total GAAP costs and expenses were $455 million, which included $33 million of amortization of intangible assets and $21 million of stock-based compensation. Q3 total non-GAAP costs and expenses were $397 million, slightly below our target range, driven primarily by timing of quarterly expenses, including some delayed hiring, along with overall cost control.
+Non-GAAP operating margin was 23.9% for the quarter and 23.5% for the first three quarters of fiscal 2014, reflecting increases in headcount and expenses from our recent acquisitions, primarily Coverity. Our ongoing goal is a continued focus on operational efficiency with annual non-GAAP operating margins moving solidly into the mid-20s.
+Turning now to earnings, GAAP earnings per share were $0.42, with non-GAAP earnings per share at $0.65. Q3 non-GAAP tax rate was 17.5% reflecting our release of certain reserves due to the lapse of several statutes of limitation during the quarter. As a result, we think that a non-GAAP tax rate of approximately 20% is a reasonable estimate for FY14.
+Now turning to our cash flow. During the quarter, we generated $340 million in cash from operations and are raising our operating cash flow target for the year to at least $500 million. We paid back our outstanding $200 million revolver, along with $7.5 million of our term loan, leaving $83 million of debt outstanding on the term loan. 
+Consequently, we did not repurchase stock in the quarter; however, for the trailing 12 months we have spent $155 million repurchasing approximately 4.1 million shares and we have $420 million remaining on our current share repurchase authorization.
+We ended the quarter with cash and cash equivalents of $903 million with 12%, or $109 million, onshore and 88% offshore. We plan to continue optimizing the use of our strong cash flow, through a balance of M&A, stock buybacks and debt reduction.
+Each quarter we will evaluate the best uses of cash, but our ongoing goal is to allocate capital to where we think it can generate maximum long-term shareholder value.
+DSO was 42 days, reflecting strong cash collections and timing of invoices, and we ended Q3 with 9,225 employees, with more than one third in lower-cost geographies.
+Now letâs address our fourth quarter and fiscal 2014 guidance, which excludes the impact of any future acquisitions. For fiscal 2014. We are narrowing our revenue range to $2.055 and $2.065 billion. While we are not breaking out Coverity product sales, we are on-track for the expected $20 to $25 million of revenue in FY14.
+Other income and expense between $10 million and $12 million; A non-GAAP tax rate of approximately 20%; Outstanding shares between 155 million and 159 million; GAAP earnings per share of $1.57 to $1.63, which includes the impact of approximately $80 
+million in stock-based compensation expense, and we are increasing the midpoint of our non-GAAP earnings per share target with a range of $2.48 to $2.50, which reflects Coverity on track for the expected $0.10 to $0.13 cents dilution in FY14.
+Capital expenditures of approximately $105 million, slightly less than originally anticipated due to some shifting out of expenditures to build out our newly leased Bay Area facility. And again we are again raising our cash flow from operations target to at least $500 million for FY14
+For the fourth quarter of FY14, our targets are; Revenue between $537 million and $547 million; GAAP costs and expenses between $462 million and $479 million, which includes approximately $22 million of stock-based compensation expense.
+Total non-GAAP costs and expenses between $410 million and $420 million, reflecting traditionally higher Q4 expenses; Other income and expense between $1 million and negative $1 million; A non-GAAP tax rate of approximately 22%; Outstanding shares between 155 million and 159 million; GAAP earnings of $0.32 to $0.38 per share; and 
+Non-GAAP earnings of $0.59 to $0.61 per share.
+We also reiterate our multi-year goal of high-single-digit non-GAAP EPS growth. We continue to believe this strategy will deliver long-term shareholder value. It allows us to not only fund our strategic growth areas and expand our technology leadership, but simultaneously drive sustainable, long-term growth and increased profitability.
+In summary, weâre pleased with our strong Q3 results, highlighted by solid top and bottom-line growth and considerable cash flow generation.
+With that, Iâll turn it over to the operator for questions.
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions) You have a question from the line of Rich Valera of Needham & Company. Please go ahead.
+Rich Valera â Needham & Company
+Thank you. Aart just wanted to get your take on any incremental change, if youâve seen any in the environment it sounds like itâs pretty similar to what youâre describing last quarter, but just wanted to hear it from you, what if anything, youâre seeing incrementally from relative to last quarter?
+Aart de Geus
+
+Sure. So in general, my own perception is that the things have not really changed all that much. Because the major forces in the semiconductor industry or essentially the same then they were a quarter ago. At the same time and you would see that from many of the analyst, everybody is reporting slightly better numbers, slightly higher expectations. And that of course is a good sign, but given that the fundamentals from my perspective have not changed all that much, I think steady as she goes. Having said that what is very, very positive is I think thatâs the acceleration on the FinFET side, gives more, more credence that there is a whole wave of new capabilities coming.
+And as FinFET technology manifest itself in more domains than just the advanced computation, the advanced graphics, all of the advanced heavy computationally centered chips, I think that will fuel really, the next wave of growth and many companies are very much aiming at consolidating their business picture to be ready for that.
+Rich Valera â Needham & Company
+Thatâs helpful. Question on IC CII, I think the way youâve described it in the past is that IC CII is for your customers at advanced nodes that would really benefit from the improved performance there, while those at some of the trailing nodes that may not needed as much wouldnât necessarily choose to upgrade. Can you give us a sense of how you see your customer base percentage wise at what percent do you think is at sufficiently advanced nodes that they might would upgrade to IC CII versus those that you donât think will? Do you have any sense of that percentage?
+Aart de Geus
+
+Let me first half agree and half disagree with you. Let me start with agreeing completely with the fact that all the people working on the very advanced nodes, absolutely, will upgrade as soon as they can to IC Compiler II, because the capabilities that are in there that are necessary for FinFET at 16, 14 and for sure at 10 nanometer are of extremely high value. And simultaneously the fact that the chips that you will do, they will have so many more transistor therefore are so much higher complexity will require the strength that the engines have that are in IC Compiler II.
+The part where it may be humbly would re-vector your thinking is actually all the existing nodes. One of the things that is quite remarkable and we have now many experiments to show this is that by using the capabilities in the most advanced tools are much more well established nodes and that can be 45 or 65 or even all the nodes than that result in a much better results on those chips.
+And weâve done a AV comparisons where weâve taken chips that have been designed in the past and just rerun them with the new tools and in a number of situations we can do the very same chip with fewer layers of metal. Well, one has to appreciate what that means fewer layers of metal means significantly lower cost manufacturing. And so the reason for this is not only all the many new deep technical features in IC Compiler II, but in order to deal with the complexity the engines have been massively overhauled to be much faster than before. And therefore we can tend to computations that in the past we couldnât do. So, I think the impact well maybe not as urgent as on the new nodes, will be very quickly visible in the coming year to people doing more established design.
+Rich Valera â Needham & Company
+And I guess just try to ask the question again that just in terms of percentage so, it sounds like even folks at 65, could see significant benefit. Do you have a sense of your user base at 65 nanometer and below or do you think about your base that way?
+Aart de Geus
+Yes, actually we think of it really in to sort of three categories I tried to hint at that in my preamble which is really the FinFET which is clearly very advanced those people will all ago. The group around 28 which is I stretch it a little bit to you from 45 to 20 really cover all the high-end planar transistors. I think they will all go. And I think the nodes before that people will gradually go overtime and weâll try to incentivize them in a number of years to make sure that they all go.
+Rich Valera â Needham & Company
+
+And in terms of the percentage of your customer base that comprises 45 to 20.
+Aart de Geus
+
+45 to 20 I would say all the advanced people are there because all the advanced people do designs there and some do a portion at the FinFET level and clearly I would guess that something well over 50% of our revenue hit there.
+Rich Valera â Needham & Company
+
+Great and just one more from me. I donât think you meant this to be a change but in your description of core EDA you talked about a low to mid single digit core EDA growth is that I think I felt maybe in the past you talk about a low single digit Iâm not sure if low to mid is the same or is it different just wanted to clarify that.
+
+Aart de Geus
+Yes, there is no change â no change intended in any case.
+Rich Valera â Needham & Company
+Okay, thanks very much. I appreciate that.
+Aart de Geus
+
+Youâre welcome, Rich.
+Operator
+
+Okay thank you. And the next question is from the line of Krish Sankar of Bank of America Merrill Lynch. Please go ahead.
+Krish Sankar â Bank of America Merrill Lynch
+Yes, hi thanks for taking my question. Actually I have a couple of them. One is for Brian if you just do the mid point of a guidance for fiscal Q4 the EPS comes around $0.63 Iâm just kind of curious what is going on in your assumption on getting to the bottom line for Q4?
+Brian Beattie
+Well, again we had a coming off a very strong Q3 where we saw again our run rate increased during the quarter and even forecasting additional revenue growth going into the fourth quarter, so good performance, good year-over-year, nice sequential revenue that weâre anticipating as I built that into the revenue guidance. And then on the spending profile we also see some growth we managed expenses very tightly during the quarter we have some level of deferred hiring if you like that will come into the fourth quarter.
+And just managing expenses so weâre seeing expenses pick up a little bit very traditional for us in the fourth quarter to see that profile. So overall just a reminder weâve increased the mid point of our EPS guidance from last quarter by about $1.5. So overall again a good strong year making the commitments we committed to at the beginning of the year and continue to grow through.
+
+Krish Sankar â Bank of America Merrill Lynch
+Got it. And then your full year guidance roughly around $2.50 in EPS and earlier in the year it is almost $2.60 in the $0.10 dilution from the accounting with Coverity and you also mentioned that expect to grow EPS in the high single-digit, itâs kind of range. So without giving any guidance and I know you guys are not going to guide for next year yet. Should we assume the high single-digits growth for EPS from the 250 base or 260 base for next year?
+Aart de Geus
+Again, in terms of our commitment, weâve made this for many, many years now, just our ongoing multiyear commitment of high single-digit earnings per share growth, and clearly of course weâre focused on growth. And the impact we had anticipated for this year plus the impact of what we saw from Coverity brought us to lower number, but we want to highlight that even without that acquisition, weâd be just over 7% earnings per share growth on a year-over-year basis and any commentary now on 2015 is really exactly the kind of work weâre undertaking right now of getting ready for our plans of getting that setup and to be able to communicate as we normally do on the very next earnings call on our anticipation and guidance for 2015.
+Krish Sankar â Bank of America Merrill Lynch
+Got it. Final question for Aart. Iâm kind of curious your any updated thoughts on capital returned in the form of either dividend are more aggressive buybacks and along the same path, if you still think the best value from M&A â is there any pocket that makes more sense for you in other words do you think you get best bang for your buck in doing acquisitions in the IP side or is there anything else if you can give us inside us some insight that the very helpful?
+Aart de Geus
+Sure. The capital allocation is something that really gets looked at every quarter again. Although we sort of follow general principles, which is the highest weighting is given into the opportunity of doing M&A that transforms positively the company for the future. Because capital is very valuable assets and given that itâs split in domestic and international, one has to actually navigate to fairly careful waters.
+The second application of the capital would be for buybacks. And in the last 12 months I think weâve done $155 million or something like that. Last quarter, we didnât because we did the Coverity acquisition and we pay back the debts that came with that. And in general, our sense is that we would like to keep the ability to have that, so that we have optionalty in case good opportunities come up. And otherwise we are just disciplined. And lastly, dividend is something that we have not considered. We think the other two ways of using the capital base or better.
+Krish Sankar â Bank of America Merrill Lynch
+Thanks, Krish.
+Aart de Geus
+Youâre welcome.
+Operator
+Okay, thank you. And the next question is from the line of Sterling Auty of JPMorgan. Please go ahead.
+Sterling Auty â JPMorgan Chase & Co
+
+Thanks, guys. I want to start with the contract duration. I think the 3.1 years thatâs a pretty healthy jump. Wondering if thatâs a couple of contracts that skewed it? Or did you see that lengthening across the spectrum of contracts in the quarter?
+Brian Beattie
+
+Yes, good question Sterling. The commitment we always make each year is that we expect our average duration of our licensed contracts to be about three years. Weâve been running a little bit less than that during the first two quarters. The last quarter was really related to one significant deal that came in that had a longer duration to it. So all of that as you know we break it out to effectively one decimal point and that came out of 3.1 years. So, again, we reiterate about three years is the appropriate duration and thatâs what weâre on track to deliver in 2014.
+Sterling Auty â JPMorgan Chase & Co
+And can you just maybe described how that may have impacted your that longer contract length, how that may have impacted you revenue outlook here for the fourth quarter given your spreading it out over a longer period?
+Brian Beattie
+Yes, it doesnât, again it doesnât affect it right. We do look at that revenue run rate, which again we said was up in the quarter. And as we look at a longer term deal, itâs just one specific deal that came through and a good deal for everyone involved. And again that just factors into revenue guidance going forward.
+Sterling Auty â JPMorgan Chase & Co
+And can you give us a sense on Aart, you mentioned FinFET opportunity, what is FinFET doing to the IT business?
+Aart de Geus
+
+It is actually driving a lot of IT business, because if you take one step back, in order for a foundry to be successful with a silicon offering, there are many things that have to come together. And of course they themselves are in charge of the technology, the transistor development and the manufacturing capabilities and the manufacturing capacity. But they also rely on others such as Synopsys to do at a minimum two or three things. One is to make sure that the tools are completely ready for whatever idiosyncrasies technology may have and they all have idiosyncrasies and these are very important.
+Secondly, they want to make sure that libraries and memories which are very closely related to silicon already, we have a business there and we are very involved and providing those cores to the foundries at an early stage, because otherwise they cannot go to market. Then thereâs all the other IP, the interface IP and other providers provide processor cores and graphics cores that have to get ready.
+And lastly we provide a substantial amount of methodology help so that a customer can start designing and the whole flow is ready and proven and so on. And so the very fact that there is such a push on advanced FinFET has brought a wave of work on us. Now, you would say, work thatâs a native. No. Itâs a positive. Itâs an opportunity to drive the state-of-the-art forward and weâre very deeply enmeshed in that. So in that sense, the FinFET wave from my perspective is another easy 10-year, easy is the wrong word, guarantees 10 years of Mooreâs law and weâre very involved in making that happen.
+Sterling Auty â JPMorgan Chase & Co
+
+Okay and last question Brian on the non-GAAP sales and marketing expense I think it was a $107 million in terms of few million dollars shy of what weâre thinking, looking at the sequential change and that may have come in below what I would have thought. Anything that you didnât do in the quarter whether it be from advertising or marketing or head count, what kind of explain the sales and marketing result?
+Brian Beattie
+Delayed hiring its all about the looking very carefully at all the plant growth and really kind of fine tune comb on whatâs available whatâs coming in whatâs essential and just managing it very carefully so again it just timing relative to bringing that in and managing cost.
+Sterling Auty â JPMorgan Chase & Co
+Got it. Thank you guys.
+Brian Beattie
+Thank you.
+Aart de Geus
+Youâre welcome.
+Operator
+Thank you. And the next question comes from the line of Tom Diffely of D.A. Davidson. Please go ahead.
+Tom Diffely â D.A. Davidson & Co.
+Yes, good afternoon. First, something on the question IC Compiler II, so after first quarter what kind of feedback do you get from the customers as far as you taking this market leading product to making it 10 times faster what kind of impact do you see on just the market size?
+Aart de Geus
+
+Well, I think this is a great opportunity for us because its not just a product, it is really a platform that touches many other capabilities and products and when we say there is 10x improvement and throughput really implies through many, many different tasks. And so we have no many reports from customers on all kinds of different tasks or the run time improvement and its more difficult for customers to judge what happens when you go through all of the stages because that implies going through entire chip design. But for each of the tasks, they are seeing remarkable improvements in run time. 
+And in my preamble I try to use one example of where run time itâs not just a â well it goes faster, itâs a â now I can do a two or maybe three times a day. And one should not under estimate how valuable that is because that allows people to look at results and say, oh, no I should have changed something to get better results. And they can immediately go back into implementation and thus progress faster towards their overall chips. So the results of all of this is that I think it is not only the tool that is needed to really anchor the design of the next generations of technology and I would certainly include 28 nanometer in that. It is also the basis to change design methodology and itâs almost fun to hear, some of customers say well now that this so fast, why donât you make everything else faster too. And so the usual when you have something good immediately the expectations go for.
+Tom Diffely â D.A. Davidson & Co.
+Do you think essentially the result is more testing versus fewer seats or fewer packages.
+Aart de Geus
+
+When you say more testing, you mean there is the opportunity to explore many more design much more rapidly. Yes.
+Tom Diffely â D.A. Davidson & Co.
+Okay. I was kind of curious if that, maybe you thought that once you had a kind of a slug of refresh go through with your customers, if at that point the speed actually would decrease the market size, but its sounds like do you think there is so much more â so many more cycles you can do to get the reliability up that wouldâ¦
+Aart de Geus
+Absolutely. I think we often donât realize how enormously the complexity of chips is increasing. And partially we take it for granted because our entire industry actually delivers incredibly well against this sort of mythical Mooreâs law. But the fact is that the chips that are being built are enormously complex and the fact that entire phases of this have been automated to this degree is remarkable. And I have no doubt whatsoever thatâs the fact that the products run so much faster. Just means that they will see more utilization on more parts.
+Tom Diffely â D.A. Davidson & Co.
+Okay. All right, thatâs helpful. And then Brian, when you look at the Coverity acquisition on the fact thatâs dilutive until the second half of next year, is that driven by just the differed revenue make up or do you need actual growth in Coverity proper to get to accretion.
+Brian Beattie
+
+Yes, the reason for that dilution is really all related to the differed revenue haircut. And it does effect as you know where the rate will model beyond just this year. It does go into next year as well. So from a cash flow perspective the company is break-even from an earnings perspective, prior acquiring it was a break-even business. Coupled along with a very nice roughly 20% revenue growth associated with that. So we do plan on growing that business, growing the market potential itâs there and also to drive profitability up overtime. But really that biggest impact to your question is â is really coming from the deferred revenue haircut again, so itâs a non-cash item, cash flow the company has done very well.
+Tom Diffely â D.A. Davidson & Co.
+Okay. I wasnât sure if you were putting enough extra investment into at where as the current revenue run rate it wasnât quite profitable yet.
+Brian Beattie
+Weâre building that in as well as we look ahead. 
+Tom Diffely â D.A. Davidson & Co.
+Okay, thanks. And then I guess Aart final question when you look at the emulation market I guess two questions here. First one, do you think it is ultimately a $1 billion market like some are saying at this point. And the second question is, is this one of your key focuses at this point?
+Brian Beattie
+
+Well, $1 billion dollar is a pretty far away from where the market is today. On the other hand, I think there is plenty of indication that faster and faster simulation requires hardware and emulation is the central piece of that. And one of the key reasons for that is tied actually to the previous comment on the complexity of chips, which is when you look at the advanced chips, what is customary to date if you have one, two, four, 18 God knows how many compute cores.
+Well, the implication is having processor cores means there's software that goes with that, having software means that you would like to verify that software in context of the chip without having to chip and this is where both emulation and FPGA-based prototyping are absolutely essential. So I see the entire market engineering putting more and more emphasis now on this intersection between hardware and software. And itâs in that context that emulation has probably very high potential as we are looking at system validation which contains both hardware and software.
+Tom Diffely â D.A. Davidson & Co.
+Okay. Well, thank you both for your time today.
+Brian Beattie
+Youâre welcome
+Aart de Geus
+
+Thanks Don.
+Operator
+Okay, thank you. And the next question comes from the line Jay Vleeschhouwer of Griffin Securities please go ahead.
+Jay Vleeschhouwer â Griffin Securities
+Yes, thanks good afternoon Brian, first question about the results and then Aart couple of longer term questions. Brian could you comment on the unusually large sequentially increasing revenues in North America, while at the same time we also had a fairly large sequential decline in Asia Pacific in the second quarter perhaps the latter is seasonal because you had something similar last year, but what are the moving parts behind those two large moves in sequential revenues geographically?
+Brian Beattie
+Again, all of this under a very, very ratable revenue profile. So, as you know from time-to-time there is a little bit of revenue variability. Weâve addressed that and Asia-Pacific before its relative to one contract thatâs in place. It just moves around a little bit from quarter-to-quarter. So again, itâs just a continuation of the trend on a quarterly basis everything is totally on track. And as youâre seeing in Asia-Pacific our trailing 12 months revenue is up 15%, compared to 12 months earlier so good performance through the whole region. And then just relative to North American again you can see the same thing now with Coverity starting to kick in and some additional specific businesses that we have, itâs a good quarter. Overall, the business did well in North America in particular just looking at some record results for the U.S. right now.
+Jay Vleeschhouwer â Griffin Securities
+Okay, Aart with respect to IC COMPILER II, when the company hosted a meeting with investors at DeCA, there was an interesting discussion about the node-based pricing that youâve offered or introduced with IC Compiler II. The different capacities and prices having to do with the node for which the product would be used. Could you talk about whether that kind of approach to pricing is usable for other of your tools? Is that something you're planning to do? Also technically, would it be fair to say that you are working on or maybe you've already finished it increasing the capacity for DC commensurate with the capacity increases for IC Compiler II?
+
+Aart de Geus
+
+Okay. Let me start first with the overall pricing. Attaching anything to nodes either very, very directly or through very specific features that are necessary for those nodes, applies much more to the implementation tools than let's say the verification tools because the implementation tools actually need to know what node it is where the verification tools in general treat a gate as a gate as a gate no matter what transistor's made up of. So in the case of our advanced tools and implementation, they are, a lot of this can be regulated or controlled really through the features that are available for the different nodes. Remind me what was your second question?
+Jay Vleeschhouwer â Griffin Securities
+
+Sure. There was some discussion at DAC that just as you've increased the capacity for IC Compiler II, relative to predecessor, you might need to increase DC capacity similarly?
+Aart de Geus
+Well, yes and no. The yes part is no doubt that all the building blocks that are being created are going commensurately with the chips that are growing. And so in that sense, thereâs a never-ending push on all of our tools as a matter of fact to increase capacity or another way we say it is reduce the memory consumption per gate or per transistor and so that will continue on all of our tools.
+The only thing that is slightly difference between tools that look at the placement out of an entire chip versus the synthesis of individual blocks is the entire chip grows in absolute terms even more than the individual blocks. The other area where what you just said is very material is actually in the verification side. And they are too, the push for faster and lower memory utilization is remarkable. On the faster side that is of course what results into the push into emulation and FPGA-based prototyping. But the good news is I think we never done with the engineering that we have to do and Synopsys is well-differentiated in all these angles already.
+Jay Vleeschhouwer â Griffin Securities
+Okay, maybe lastly, thinking about longer-term incremental opportunities, for you specifically but perhaps more broadly for EDA, could you address those opportunities in three respects? One, by functional area particularly focusing on the opportunities you see in sign-off and power, you were quoted I think it was at DAC maybe it was at snug that power has its own specific optimization requirements. So maybe you could talk about that. Secondly by customer type in your prepared remarks you talked about foundries and specifically Intel custom foundry maybe talk about the opportunity there. And then lastly by end application, at the breakfast you guys with Global Foundries at DAC someone from Synopsys was quoted as saying that you are very aggressively pursuing the Internet of Things opportunity. So perhaps you could talk about what that really means for you.
+Aart de Geus
+
+Well, realize of course that you're asking me to do multiple complete snug speeches here. But let me start a little bit by the functional area top down, we break our thinking into really only three or four areas the implementation, verification, the IP and now the interaction hardware software to software. On the implementation side, youâre absolutely right to highlight power because the power touches everything. 
+And when I say everything I really mean from the most minute microscopic optimization of transistors that are done with tea CAD to the very choice of the materials and thatâs why you see so much emphasis in these new FinFET structures, all the way to of course how a chip is designed, the architecture. But then also how the software's run and the very fact that on a modern chip as you run software pieces of the chip are being turned on and off, thousands of times per second just to save a little bit of power gives you a sense of how important that is.
+And so the key for us is to make sure that all of our tools understand recently well what the otherâs tools are doing. In terms of the customer types, one can certainly look at the people providing the silicon. So the foundries or some of the IDM's that do it themselves. And there one needs to be engaged early on having the right connections to what will describe the technology so that the tools can use it well and be ready with early IP. 
+But just as important on the receiving end so the people that maybe fabless design companies, they are, the goal is to helps them make maximal utilization of new technology the minute they are available and the minute they are economically interesting to them. And the good news there is we have quite a number of substantial, large, hard to driving fabless companies that have teamed up with us on really driving the state-of-the-art forward.
+And then in terms of end application domains it is useful to understand what are the biggest markets because the biggest markets are a computation and communication. They intersect very much on the Internet which means that the cloud infrastructure is an area that keeps being invested in and everything I mentioned so far demands state-of-art technology going forward. 
+Internet of Things right now is a little bit catch all for so many different things. Somebody the other day jokes that every time you say the word Internet of Things, the market grows by another trillion or so. Well I think itâs not that simple, there is going to be enormous large number of various simple chips collecting data measuring things, watching things and then the manipulation or the intelligent analysis will demand more and more chip in silicon technology in years to come.
+And so I think there are open opportunities there, but its also many specialties people that are really very good at doing something high voltage or low voltage or that are looking some analogs capabilities. So I think there is broad horizon in the Internet of Things is sort of the door to get a lot of information in but the hard core is all around computation and the transportation and storage of data as in all the advanced companies are massively betting on that.
+
+Operator
+Okay, thank you and the next question from the Mahesh Sanganeria of RBC Capital Markets. Please go ahead.
+Unidentified Analyst
+
+Hi this is (indiscernible) asking for Mahesh thanks for taking my questions. And Aart you talked a lot about things that progress in your prepared remark which is very helpful. But I wonder if you can talk about the development on the FD-SOI side what level of interest or traction do you in that area? And how Synopsys plan to address the demand there?
+Aart de Geus
+Okay let me go backwards with that which is we have been very competent on FDA, FD-SOI for actually quite a while and majority of the chip that have used that technology were taped out with our tools. Now the reason FD-SOI has come to the attention of a number of people is of course because there has been an agreement between FD and Samsung to invest jointly in that area, they will have to tell you exactly what they plan to deliver, but FD-SOI brings some of the promises of lower power to the 28 nanometer planar transistor wave. 
+And so the way to understand this is down to 28, 20 nanometer transistors have been planar. Read that as flat. FinFETs our vertical transistors, vertical as you would imagine are more difficult to build, more expensive to build but they have the benefit of having much lower power consumption going forward. And so it begs the question well when do you stop 28, 20 and when you jump over to the next wave. And quite a number of companies are right now essentially using 28 nanometer to the best of their abilities until FinFET becomes economically more mature. 
+And there's been the proposal to use FD-SOI as a way to get even better results out of 28 for a lower price. And so FD has had excellent results with this so it's promising, but the question remains, will there be broad foundry capacity for that? And if yes, I'm sure some customers will use it.
+Operator
+Okay, thank you. And there are five minutes remaining in this conference. The next question comes from the line of Monika Garg of Pacific Crest Securities. Please go ahead.
+Monika Garg â Pacific Crest Securities
+Hi, thanks for taking question. First question is for Brian, Brian if I look at the tax rate, the tax rate quarter-over-quarter for the yearly basis has gone down by 100 basis points, right? Which has pre-sensed the EPS, then you had a nice split on Q3 â by $0.05. But you're only raising your yearly guidance by couple of cents. So could you help us reconcile that?
+Brian Beattie
+
+Sure, then I will confirm the data points too. We've at a very good third quarter with our tax rate coming in reflecting a number of statutes of limitation. So it just really expired in our third quarter and in that quarter is basically a year-to-date catch-up if you like. And that has to flow through into our results. So that was a contributor into the earnings as we were able to release some reserves, we had setup.
+Our prior guidance on our tax rate for the year was 21% and now with those provisions coming in we're letting that to go down to 20% for the year. So again, that is being reflected in our guidance as we look forward relative to our guidance for the full year, we've included a $0.015 increase as we said we did really well inside the third quarter. And just looking at our typical fourth quarter with rising revenues we also see some rise in our expenses associated with the cost controls and some delayed hiring. We had in the third quarter. So overall good management of tax and again good earnings per share with some improvement in that now being forecast.
+Monika Garg â Pacific Crest Securities
+Then I have a question that weâre seeing consolidation in the semi industry, right Broadcom kind of announced theyâre winding down, I think the baseband business. Could you maybe talk about a broader trend consolidation in semis and impact on EDA and also on Synopsys.
+Aart de Geus
+Well, this is why before, I mentioned that I think the market has not changed all that much. These consolidations in semiconductor side are not new and I think are just the natural evolution of any industry that periodically sort of re-centers itself on critical mass be it either vertical focus or horizontal focus.
+And I think it shows that we have a very active and alive industry. This is not any different for our own industry. There has been consolidation in the past. I think we also leave Synopsys in a position where we have a very good position and have had the opportunity to now look at broadening fields and as you know one of the acquisitions we did was Coverity that opened up a new TAM for us that previously was not there. So there's plenty of opportunity for us to look forward. In general, we donât comment about forward-looking M&A for the company.
+Monika Garg â Pacific Crest Securities
+The last one for me (inaudible) side you had new to [lamination to the] March of this year. Could you maybe talk about how you think that is doing and the growth, what you are seeing in the segment?
+Aart de Geus
+Yes. We introduced ZeBu 3 which is a brand new generation much faster, much higher capacity engine. And actually it has gotten very good reception from customers. Number of them have been shipped and are in utilization. This is part of a much broader strategy, which is really to deal with the very fact that verification is absolutely one of the areas that weâll see the biggest demand in new capabilities, faster speed, higher capacity et cetera because of the complexity of not just the chips but of the entire system and the interaction with hardware and software.
+And so in that context weâre very happy that the new machine is in good state, and our focus is entirely now on the interaction between that and our other tools. And we will tell more about that towards the rest of the year.
+Monika Garg â Pacific Crest Securities
+
+Thank you. Thatâs all for me.
+Aart de Geus
+
+Youâre welcome, Monika.
+Operator
+Okay, thank you. And back to you gentlemen for closing remarks.
+Aart de Geus
+Thank you very much for spending time with us. We are looking back on a very strong quarter not only with good financial results, but also with some advances with very high impact a long-term products. And so it will be exciting to tell you about our progress in the coming quarters with these products. And their impact on the semiconductor evolution history. Thank you so much.
+Operator
+Okay, thank you. And that concludes our conference for today. Thank you for your participation and for using AT&T Executive Teleconference Service. You may now disconnect.

@@ -1,0 +1,370 @@
+Micron Technology, Inc. (NASDAQ:MU) F4Q2010 Earnings Call Transcript October 7, 2010 4:30 PM ET
+Executives
+Kipp Bedard â VP, IR
+Steve Appleton â Chairman and CEO
+Ron Foster â CFO and VP, Finance
+Mark Adams â VP, Worldwide Sales
+Mark Durcan â President and COO
+Analysts
+Daniel Berenbaum â Auriga USA
+John Pitzer â Credit Suisse
+Kate Kotlarsky â Goldman Sachs
+Alex Gauna â JMP Securities
+Glen Yeung â Citi
+Shawn Webster â Macquarie
+Uche Orji â UBS
+Tim Luke â Barclays Capital
+Vijay Rakesh â Sterne Age
+David Wong â Wells Fargo
+Bob Gujavarty â Deutsche Bank
+Bill Dezellem â Tieton Capital
+Tristan Gerra â Robert W. Baird
+Operator
+Good afternoon. My name is Johan and I will be your conference facilitator today. At this time I would like to welcome everyone to the Micron Technology's fourth quarter and fiscal year-end 2010 financial release conference call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks there will be a question-and-answer period.
+(Operator Instructions) Thank you. It is now my pleasure to turn the floor over to your host Kipp Bedard; you may begin your conference.
+Kipp Bedard
+Thank you very much and welcome to Micron Technology's fourth quarter and fiscal year-end 2010 financial release conference call. On the call today is Steve Appleton, Chairman and CEO, Mark Durcan, President And Chief Operating Officer, Ron Foster, Chief Financial Officer, and Vice President of Finance, and, of course, Mark Adams, Vice President of Worldwide Sales.
+This conference call, including audio and slides, is also available on Micron's website at Micron.com. If you have not had an opportunity to review the fourth quarter and fiscal year end 2010 financial press release it is also available on our website at Micron.com.
+Our call will be approximately 60 minutes in length. There will be an audio replay of this call accessed by dialing 706-645-9291, with a confirmation code of 14483222. This replay will run through Thursday, October 14th, 2010, at 5:30 p.m. mountain time. A webcast replay will be available on the company's website until October 7th, 2011.
+We encourage you to monitor our website at Micron.com throughout the quarter for the most current information on the company including information on various financial conferences that we will be attending. Please note the following safe harbor statement.
+During the course of this meeting we may make projections or other forward-looking statements regarding future events or the future financial performance of the company and the industry. We wish to caution you that such statements are predictions and that actual events or results may differ materially.
+We refer you to the documents the company files on a consolidated basis from time to time with the Securities and Exchange Commission. Specifically, the company's most recent Form 10-K and Form 10-Q. These documents contain and identify important factors that could cause the actual results for the company on a consolidated basis to differ materially from those contained in our projections or forward-looking statements. These certain factors can be found in the Investor Relations section of Micron's website.
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, or achievements. We are under no duty to update any of the forward-looking statements after the date of the presentation to conform these statements to actual results.
+I would now like to turn the call over to Steve Appleton. Steve.
+Steve Appleton
+Thanks, Kipp. I also want to thank everyone for joining us today. We are going to proceed a little differently than in the past with the conference call. We thought the end of our fiscal year would be a good time to announce a change in the format for our earnings call.
+As you know, historically we typically covered some of the details of interest regarding bids, ASP, costs, etcetera in a verbal format. We've decided to present that information in a posted slide concurrent with this call so that you can simply reference it rather than having to ask about it and providing more time for other discussion. And we have a couple of charts weâll show here as we speak that reference that. So in consideration of this, Ron will still provide color to some of the financial information, but he's no longer going to simply repeat what was in the press release or the posted financial statements.
+As some of you know, we reorganized the company in an effort to better serve our mark and, of course, the integration of Numonyx provided the perfect opportunity to implement this. We now have four main business units. We have what we call DRAM Solutions Group, or DSG. We have NAND Solutions Group, which is NSG. We have a wireless solutions group, WSG, and then we have the Embedded Solutions Group, which we call ESG.
+And we are going to be reporting on these market segments beginning with our fiscal Q1 release. In other words, the next time we have a conference call we'll report by market segment, and we set the target and the finance team is work diligently on being able to do that. We're still evaluating the type of hysterical â hysterical? Sometimes it's hysterical. We are still evaluating the type of historical information that we â we have historically provided in combination with the market reporting.
+Moving forward, you need to give us a quarter to work through that because obviously there's some market segment data that's required by the accounting regs, and we want to combine that with enough information around some of the more detailed bid, cost, etcetera, data to allow you to build your models. And we realize that you need some combination of both, but give us a quarter to sort that out.
+And so as an example, this quarter Ron is going to break out the Numonyx results separately from Micron's, but that will not be possible moving forward because of integration. In other words, we will not be running the business in that form nor will we be recording data on that basis. And in consistent with this change now we're going to adjust the discussion during the earnings call to add more general trends and the way we would characterize it as technology, operations, and market.
+Other executives in the future may cover these topics, but with that in mind, let me turn to those areas. On technology and operations, during our fourth quarter, we managed through a number of technology transitions and more notably, it's, I think, pretty apparent that we've been migrating from Inoteraâs DDR2 products to Micron stack DDR 3. The cost of manufacturing for Inotera product in the fourth quarter continued to be higher than in other Micron facilities and this is a result of the lower yields and lower total output, but as of today, Inotera has substantially completed the conversion and they're now focusing on increasing wafer starts to full capacity utilization. The majority of this increase as you might imagine takes some time to flow through the facilities as expected to show up in our second fiscal quarter and there forward.
+On the NAND front, we began volume shipment of our industry leading 25 Nanometer technology and that was across our OEM customers as well as our retail businesses. On the markets, â demand perspective, as some of you no doubt have been reading in the media, we did see softening towards the end of our fourth quarter in our notebook, desktop, commodity DRAM businesses and forecast through the back half of this calendar year from our PC customers has come down from what we earlier indicated when we last shared our information for the third quarter.
+It appears that some of the demand is being driven by unstable consumer sentiment which there's also been a lot of media about, but also some of the softening in the desktop notebook space, I think, can also be attributed to the success of the tablet PC category. And the Smartphone segment is also growing, I think having some impact there as well. However, I think to our benefit this is a first full quarter with an integrated Numonyx product portfolio, and that includes the DRAM NAND and NOR-based solutions.
+Clearly the breadth of our product line has changed the way our customers depend on Micron. I think the benefit to Micron is continued diversification away from a commodity-based business to a broad set of solutions that serve markets like computing, networking, mobile, server space, automotive, et cetera, and, of course, consumer electronics being a large part of that. It's also worth noting that Micron's percentage of business from our commodity DRAM business is now less than 25% of our overall revenue, and for those of you that have followed Micron for awhile, that's down from around 45% in the first half of fiscal year but more importantly it's pretty stark contrast to previous cycles in the 90s and the early 2000s where Micron was virtually 100% leveraged to the PC.
+A final comment before I turn it over to Ron. We also filed today an 8-K that announced a cross-license agreement with Samsung. That resulted in $275 million that will be paid to Micron during the next couple of quarters, and if you â if you want more information about that, you can go to the filings and read the detail on that.
+And so, as I mentioned earlier, we will provide more color by market segment as we move forward. I will now turn it over to Ron to add some commentary on the financials, then as Kipp mentioned, we also have Mark Adams, Mark Durcan on the call, and all of us will be available to answer questions after Ron's comments.
+Ron Foster
+Thanks, Steve. The company's fourth quarter and fiscal year ended September 2nd, 2010. Our press release is available on our website along with a schedule that posts certain key results and estimated metrics for next quarter. We've summarized that material on the following couple of slides, which we'll continue to show here.
+Total idle facility costs which are charged directly to Cost of Goods Sold were $40 million in the fourth quarter, compared to $18 million in the third quarter. A significant portion of the idle facility charges are included in NAND costs and relate to the start-up activities at that time IM Flash operation in Singapore.
+A richer mix of products and higher costs associated with our 25 nanometer production ramp impacted the otherwise improving cost trend. The decline in NAND bit shipments was a product of timing of shipments to our customers and an increase in finished goods inventory. We expect to see much of this inventory to sell through in fiscal Q1.
+First quarter NAND cost reductions are expected to be down mid-to-high teens and bit production up mid-to-high teens. Production increases are largely coming from continued transition to our 25 nanometer process technology which is expected to cross over and become the highest NAND production in the first quarter.
+Operating expenses in the fourth quarter were $338 million. The SG&A and R&D spending of Numonyx is included in Micron's consolidated results for all of Q4 compared to roughly one month in Q3. Recall that SG&A expense in the third quarter included expense for litigation accruals of $64 million. R&D expense in the fourth quarter includes costs related to higher volumes of 42 nanometer DRAM prequalification wafer production. R&D expense for the quarter benefited from credits of approximately 50 million from joint development programs.
+The fourth quarter R&D expense exceeded the estimate given at the beginning of the quarter primarily as a result of the timing and classification of these prequalification wafer production costs into R&D rather than into Cost of Goods Sold.
+The company generated $1.1 billion in cash flow from operating activities in the fourth quarter. This was the highest quarterly cash generation in the company's history. This comes at a time when the company has generated record levels of revenue, income, the cash flow for a fiscal year.
+Clearly 2010 was year of outstanding financial performance for Micron as margins on our primary products were leveraged to generate substantial levels of profitability and cash flow. Micron's free cash flow significantly outperformed the market at 2.15 billion in fiscal 2010. We exited the fiscal year with a much stronger balance sheet, $3 .2 billion in cash and investments including 335 million in restricted cash, while debt was reduced by $640 million.
+As a result of purchase accounting for the Numonyx acquisition, the margin on Numonyx sales in the fourth quarter of 21% was lower than the actual margin, but still higher than our single-digit expectation at the beginning of the quarter, primarily due to a change in the mix of products sold and lower production costs.
+As I mentioned, the Numonyx results are included in Micron's consolidated results for all of the fourth quarter. As with last quarter, there are a number of adjustments made in purchase accounting that distort the actual results from what they would have been had the purchase accounting not occurred.
+The GAAP Numonyx results for the fourth quarter included revenue of 555 million with gross margin of approximately 21%. Normalizing for the purchase accounting adjustments, revenue would have been 602 million with gross margin of approximately 31%. We are continuing to work on the integration of Numonyx into the company's operations which will likely include the redefinition of our reportable segments as Steve mentioned.
+Accordingly, we don't anticipate providing these stand-alone Numonyx results in the future as we won't be able to separately measure those legacy operations. As you recall, Hynix had certain rights that were triggered with the change in control of Numonyx.
+In August, Numonyx' interest in a joint venture was sold to Hynix and the supply agreements with Hynix was renegotiated. The company received a total of $423 million from the sale of which 250 million was deposited into a pledge account, collateralizing the joint ventureâs $250 million bank debt. The $250 million is classified on our balance sheet as restricted cash while the remaining 173 million is reported in cash and cash equivalents.
+When we line up the fourth quarter results to the prior quarter, and adjust out the non-recurring items noted in the non-GAAP reconciliation that should be on your screen, we show non-GAAP diluted EPS for the fourth quarter of $0.37. This compares to non-GAAP third quarter diluted EPS of $0.47.
+Now with that, I will turn it back to Kipp.
+Kipp Bedard
+Thanks, Ron. We will now take questions from callers. Just a reminder, if you are using a speakerphone please pick up the handset when asking a question, so that we can hear you clearly. With that, please open it up to questions.
+Question-and-Answer Session
+Operator
+Thank you. (Operator Instructions) And our first question comes from Daniel Berenbaum with Auriga USA.
+Daniel Berenbaum â Auriga USA
+Yeah, hi guys. Thanks for taking the call. Can you talk a little bit about the technology cross-license with Samsung? What drove Samsung to want to pay you money for your licenses? Was there a specific technology that it was driver for the licensing, or was there a specific catalyst that was the driver for that?
+Steve Appleton
+Yeah, it's a general patent cross license. I think it's just recognition of the portfolio that Micron has, and it's a 108-k [ph], it is a 10-year cross-license.
+Daniel Berenbaum â Auriga USA
+So I mean, can you be a little bit more specific about, was there a specific driver? You know why now as opposed to some other time? Is there a specific technology that drove that?
+Steve Appleton
+No, there's not a specific technology, and I think if you're trying to determine if there's some kind of technology transfer that occurred in association with it that did not occur, either. With respect to timing, I guess it takes two parties to go through a negotiation, and timing happens whenever it happens.
+Daniel Berenbaum â Auriga USA
+Okay. I guess really what I'm trying to get at is, sort of obviously Samsung licenses from other folks as well, and Samsung has a tremendous amount of its own technology, and obviously you're getting some technology from them as well. Really I guess what I'm getting at is, you know, is there specific roadmap item that you felt you needed from Samsung or that Samsung felt that they needed from you, and as we think about the transition, you know as we shrink DRAM NAND down to the 2X nanometer nodes are there technology transitions that you are thinking about that are critical to the manufacturer of any of your devices moving forward that require some sort of change in technology, change in process?
+Steve Appleton
+Alright, No, other than, of course what we do ourselves to advance our own technology. This was a general broad portfolio cross-license, and Micron, as you know has a very, very strong portfolio.
+Daniel Berenbaum â Auriga USA
+Okay. Thanks. I asked a lot of stuff there. I'll let other people jump in.
+Steve Appleton
+Okay. Sure.
+Operator
+Our next question comes from the line of John Pitzer with Credit Suisse.
+John Pitzer â Credit Suisse
+Yeah, good afternoon guys and thanks for giving us the (inaudible) but just one clarification. Historically when you have kind of talked about current quarter ASP trends you have talked about what pricing would do if it were flat from sort of today's level. But I am just kind of curious when you look at the fiscal first quarter guidance you're giving for DRAM and NAND ASP, is that under the same sort of category or is that what you expect for the whole quarter?
+Ron Foster
+Same category, same as we've done in the past.
+John Pitzer â Credit Suisse
+Okay. And then on the CapEx number, is that a total CapEx number including what may or may not be contributed by joint venture partners, or is that the Micron out CapEx number?
+Steve Appleton
+That's a gross CapEx number. So dollars that we received from the joint venture partners is â or the CapEx that we would expend, I guess, on behalf of all of us in total, joint venture partners that's in that number.
+John Pitzer â Credit Suisse
+And then I guess my last question, when you look at sort of the DRAM supply growth for the industry, clearly calendar third quarter, calendar fourth quarter, pretty significant sequential big growth, and there's a lot of concern as to whether DRAM prices might bottom. I am kind of curious, how do you think your cash costs compares to the leaders in the industry and then some of second tier guys and I guess the other issue is that the calendar fourth quarter seems to be a pretty heavy debt repayment load for some of your competitors, and I'm kind of curious as to how you think that might influence the decision about running fabs down to cash costs or not?
+Steve Appleton
+Yeah, well, first of all, it's hard for us to know others' exact cash costs. You guys are probably better than us at going through the analysis on that, clearly we continue to look at our competitors. When you say leaders in the industry, I mean we really think that Micron is probably one of the top leaders in the industry. The thing that you have to keep in mind when you try to run through those calculations are that we â our portfolio is really quite broad.
+In fact only Samsung and Micron have the kind of portfolio we do. So, when you talk about cash costs regarding what we call legacy products or specialty products, those products are not driven by cost reductions they're typically now driven by performance and features and reliability and delivery, and etcetera. So you have to exclude those from the conversation because there's really only two of us that have those.
+With respect to â I think what you're getting at, which is the â kind of the core high volume DRAM that's going either into the PC space or in some applications in the mobile space what is our cost on those products compared to others in the industry, and if you look at the facilities that run those products for us, of course, they're all 12-inch, and if you look at the technology deployed, not what people are saying they're going to deploy, but what they actually are deploying, then we think we're as good as anybody in the industry.
+John Pitzer â Credit Suisse
+And then guys, I guess my last question maybe for Ron. Just help me understand, I know you're not going to, on an ongoing basis, talk about Numonyx as a separate entity, but relative to the inventory that you had to write up at the time of the acquisition, what's the first quarter where you think that fair value inventory will no longer be running through your P&L.
+Ron Foster
+John, it's a little hard to exactly predict the timing. Some flow-through obviously in the fourth quarter, there will be more of a flowing through in the first quarter and ongoing. I recognize there's a little challenge when we're switching gears to track where things are going, but it will certainly be affecting about the same level in Q1, and I expect the economics to be roughly the same in Q1 as you would see. We just will have trouble breaking it down into the legacy components that we've been reporting to this point.
+John Pitzer â Credit Suisse
+Great. Thanks, guys.
+Operator
+Our next question comes from Kate Kotlarsky with Goldman Sachs.
+Kate Kotlarsky â Goldman Sachs
+Hi thanks so much for taking the question. I was hoping you could talk a little bit about the cost reduction roadmap in DRAM in past the November quarter. What are you guys anticipating for the February quarter on the cost reduction side?
+Mark Adams
+We have â you know we have got a pretty good roadmap ahead of us, Kate. As Steve alluded to in his comments, Inotera has now really turned to ramping wafers back up. And you will start to see the full impact of that capacity becoming much more cost effective for Micron in the fiscal second quarter so two quarters out.
+Cost reductions generally, probably mid-to-high single digits for DRAM moving into fiscal Q2. And lots of runway ahead of that again. If you think in terms of technology on the DRAM side, we are now in the early stages of the 40-nanometer ramp occurring in Micron site in Singapore. That will start to kick in like also in fiscal Q2 in a significant way moving to fiscal Q3. And we have obviously the ongoing transition to 50 nanometers of Inotera RAM.
+Ron Foster
+Mark, if I can add to that too, Kate, keep in mind Mark's comments about the DRAM cost per bit includes all DRAM. So there obviously will be more aggressive cost reductions on the core DRAM as Steve mentioned earlier.
+Kate Kotlarsky â Goldman Sachs
+All right, so but in total for February, you still think it would be something in the high single digits, not more than that?
+Mark Adams
+Yeah, I think that would be a good place hold.
+Kate Kotlarsky â Goldman Sachs
+Okay. And then can I ask a question on you know the R&D spending? You know it was quite a bit higher than what you guys had expected and sounds like you're keeping it at similar levels for next quarter. How should we think about R&D maybe going beyond November?
+Ron Foster
+Kate, first of all, I will comment on what happened in the latest quarter. We have sometimes difficulty calling exactly where our pre-qual wafer timing will play through and which quarters it will hit, especially if it's transition over quarters and we can accelerate or decelerate those plans as we flow through our pre-qual activities in our fabs.
+So it was mainly just the timing effect that happened in our R&D, and that is which is the one element of our R&D costs that's a little hard to predict. But if you look forward from there, we now have the R&D costs from former Numonyx activities as well as Micron, and we're projecting roughly in the same range of 195 to 205 kind of range for R&D spending in the next quarter, and that's sort of the range that we're seeing right now. It can be lumpy because of pre-qual costs and how they flow through in a particular quarter.
+Kate Kotlarsky â Goldman Sachs
+Okay, and then maybe one last question for me, and you know recognizing this is a little bit far out, but if you think about your margins in the February quarter, you know what would be ASP environment, and your bit growth have to have look like for margins to be moving up from the November quarter into February?
+Ron Foster
+Kate, I think we're going to stay away from make any forecasts on as you know revenues and/or margin.
+Kate Kotlarsky â Goldman Sachs
+Okay, thanks so much. That's it for me.
+Ron Foster
+Yes.
+Operator
+Our next question comes from the line of Alex Gauna with JMP Securities.
+Alex Gauna â JMP Securities
+Yeah, thanks very much for taking my question. I was wondering if you could give some color. Steve, I believe you mentioned some of the strength that tablets may have seen in the past quarter, and maybe Rob from consumer PCs. How do you feel with regard to your mix exposure to tablets and/or Smartphone at present?
+Steve Appleton
+I'll let Mark jump in, in a second, Mark Adams, but I'll just make one observation because I think that this is a concern that's been actually voiced by a few, which is the stronger that the tablet PCâ or the iPad, the tablet PCs are, the more pressure it puts on DRAM because less bits consumed in those compared to some of the more traditional notebooks or desktops, and there's, there's â I think there is some â there is some truth to that, as I noted in my opening comments, although we're â we also believe there's some incremental demand that comes from that.
+But, having said that, you know what's interesting is, the, the more of those that are sold â in fact, I saw a, I heard a statistic yesterday, when I was in Washington, D.C., from one of the other large players you know in the desktop, notebook, PC space, and it commented that, that their finding from the data on the network of the access of these systems, that if they actually own an iPhone and an iPad, that the â there's a much greater preference to interact with the network on an iPad than there is on the iPhone, and it is probably even if they have both, for obvious reasons, because of the quality of the display, etcetera.
+And, and the reason I bring that up is, every time that that happens, it means that more data has to be moved and stored somewhere, and the more that that happens, the more servers, the more networking, the more infrastructure you need in order for that to happen.
+So, you know, oddly enough, the, the infrastructure business, and, again, I will let Mark comment more on that, I think is, is better, and actually pretty good compared to what we're seeing happening in the PC business. And so there's a balancing act that happens there. And then on top of that, of course, it definitely drives the consumption of NAND. I don't think there's anybody debating that. That the more success that those have drives more and more NAND consumption, because obviously desktops and notebooks don't drive a whole lot yet until they start to consume a lot more FSGs. Mark?
+Mark Adams
+Just one last comment is the, the exposure that we have in terms of customer opportunities, both in mobile and PCs, if you look at Smartphones bypassing PCs in 2012, but still a pretty healthy PC market, we think that the NAND upside is very strong. And as, as Steve said, the impact on our infrastructure businesses, server blade, server markets, enterprise market, and networking market is very positive, both for DRAM and even substantially NAND around solid state. So when we net it out, it's, it's pretty exciting growth opportunity downstream.
+Alex Gauna â JMP Securities
+Is there any way you could quantify what sort of server momentum you saw in the past quarter?
+Mark Adams
+Yeah. When we talked about where, Steve's comment earlier on the desktop notebook was â we saw some softening demand, we didn't quite see that in the server space. Server for us held pretty steady both in terms of units and overall ASP.
+Alex Gauna â JMP Securities
+Okay, thanks very much.
+Operator
+Our next question comes from Glen Yeung with Citi.
+Glen Yeung â Citi
+Thank you. Can you talk a little bit about your fiscal year CapEx and how you will sort of apportion that between your various lines of business?
+Mark Durcan
+Yes, this is Mark, Glen. It's â it's two-thirds NAND. A lot of it is associated with ramp of the new fab in Singapore, and the rest distributed between the other fabs for technology upgrades.
+Glen Yeung â Citi
+And maybe â is there, is there a part of that that's NOR for this year that wasn't there last year that makes the number looks like it's going up a lot?
+Mark Durcan
+There â that, that's not driving any significant change in the number, but, yes, there is a small amount of technology upgrade associated with NOR.
+Glen Yeung â Citi
+Okay, relatively small, though. And then another question is, just getting a sense of, now that we're in an environment where DRAM is â ASPs are coming down in â at somewhat healthy rates, are we seeing any change in the bit per box loadings because of that? That's sort of point one.
+And then the second thought here is, if we look out into the February quarter, and you make the point that you will start to see more output from Inotera at that point, and if we talk to some of your competitors, it sounds like that's around the time that some of the shrinkage activity ought to be hitting. Is it a safe assumption that, given seasonality, DRAM prices ought to continue to be falling in the February quarter?
+Mark Adams
+I think with regard to your question on density, I think we start to see some holiday configurations that are very favorable to DRAM increases, and mind you, if you look at the data over the last couple quarters, it still has been positive in terms of growth on the PC unit and DRAM megabit â megabyte per box.
+So it might have slowed down mildly, but it wasn't so significant on the despecking argument over the last couple of quarters. And, and of late we've seen, again, some, some larger configurations for, for holiday placement.
+Mark Durcan
+With respect to what happens with pricing in February, I don't think anybody really knows for sure. I would point out that nothing has been normal in the last couple of years or in the pricing environment. In fact, it was â I think everybody was a little bit surprised by the strength of the pricing if you go back to last February.
+Glen Yeung â Citi
+Right.
+Mark Durcan
+And I think you're right, typically you would expect some seasonality weakness around the December-January time frame in particular, and then some strength moving into the back-to-school Christmas season. Obviously we're not seeing that. In fact, when I spoke if you remember, in the summer, we met with â you know we had an analyst day, and I was in New York, and we weren't seeing any weakness at that time. I, I admit I'm a little bit surprised by the weakness right now, but I'll also say that I think we experienced a supply-driven recovery, given all the damage that occurred in the industry, and right now, we are experiencing a demand weakening environment, and how sustainable that is, whether that plays out, it's too hard for us to know, because clearly the economy is playing a role in that.
+I will say that if you look at most of the regions around the world, we tend to get caught up in the US. But if you look at most of the other regions around the world, even in Europe, Germany's GDP looks pretty good their employment rate is back down to pre-crisis levels. UK seems to be doing okay. So there's some, some, something going on in Europe that's positive. But with respect to Asia, it's still pretty strong, and so I think that's adding some strength to the overall market as well.
+But in aggregate, it's just too difficult to know what's going to happen in February, whether we do get some economic growth in the US to help bolster that or whether we don't. And, and I don't think that, I don't think that the environment is such that we â it has to be, it has to happen, something has to happen on the demand side for, for what I would consider to be a strengthening of pricing.
+I can't really comment on â a lot of parts of our business are pretty good. So it's hard to comment on whether or not, in aggregate, our business will weaken from where it's at or whether it just stays where it's at. It's just too hard to predict. But, but, you know, I guess only time will tell.
+Glen Yeung â Citi
+That's fair enough. Just last question is, when you think about your full-year production numbers, can you give us a guesstimate on what your bid forecast â or your bit production growth you expect to see in DRAM and then NAND?
+Steve Appleton
+Yes. For the full year, I think a good place holder would be we expect to grow roughly with the market. So in the 50, 55% range on the DRAM side; maybe 70, 80% on the NAND side.
+Glen Yeung â Citi
+Perfect. Thanks so much.
+Operator
+Our next question comes from the line from Shawn Webster with Macquarie.
+Shawn Webster â Macquarie
+Thank you. On the, on the wafer, now that you have added the Numonyx factories to your overall wafers, can you tell us what your wafer growth did sequentially?
+Ron Foster
+It would be up a couple of percent, Shawn.
+Shawn Webster â Macquarie
+It was up in August a couple percent?
+Ron Foster
+Yes.
+Shawn Webster â Macquarie
+Okay. What do you expect it to do in the November quarter?
+Ron Foster
+Pretty similar, up just a couple percent.
+Shawn Webster â Macquarie
+Okay. And then what are your â you mentioned your OEMs, their targets were coming down in the back half of the year Are they, are they giving you any guidance as to what to expect for bit demand sequentially for calendar Q4?
+Mark Durcan
+Well, I'm assuming is it's â you're asking about DRAM, and it's mid-teens.
+Shawn Webster â Macquarie
+Mid-teens?
+Mark Durcan
+Yes.
+Shawn Webster â Macquarie
+Would you characterize that as fairly normal?
+Mark Durcan
+Probably not. But to Steve's point, there's kind of â what's the new normal? We had a strong first half in demand, and coming out of that, the mid-teens is probably less than we would have projected mid-year, but that's what we see going into the holiday season.
+Shawn Webster â Macquarie
+Okay. And then on the Samsung royalties, do you have plans for how to account for that? Is that going to hit your balance sheet, or roll through your income statement somehow?
+Ron Foster
+Yes, well it's going to come in three payments, essentially in the first quarter, and the vast majority will be booked directly on income in the first quarter.
+Shawn Webster â Macquarie
+Okay. Will you recognize that as a revenue, or just income line item?
+Ron Foster
+Other income, probably.
+Shawn Webster â Macquarie
+Okay. And then, can you give us your view on channel inventories right now for both DRAM and NAND?
+Mark Durcan
+Yes. General inventory on DRAM is up about, up a little bit in the four week to five week time frame, although I would note that that's more generally categorized around DDR3. DDR2 is in pretty, pretty good balance for us, and both pricing and inventory have stayed relatively lean. On the NAND side, it's up slightly, a little bit less than the DDR3 growth, I'd say around three to four weeks.
+Shawn Webster â Macquarie
+Thank you very much.
+Operator
+Our next question comes from the line of Uche Orji from UBS.
+Uche Orji â UBS
+Thank you very much. Can I just ask you about what you have seen for demand trends for some of your non-commodity, DRAM businesses so, things that go into mobile DRAM and server networking? So any comment as to what you saw in the quarter ending September 2, 2010, and your outlook for the upcoming quarter for those markets, please?
+Mark Durcan
+Sure. So, specifically to the wireless mobile space, it continues to be pretty strong for us. Obviously the Numonyx acquisition in addition to our portfolio strengthened our ability to serve that market, and we continue to see strong demand around the Smartphone market, and I think we â we're pretty well positioned there with higher density products and our MCP lineup. If there's any, if there's any story around less of a growth, it would be more on the low end of the mobile market, but even that, we're still seeing some pretty good signs there. So mobile in total is pretty strong for us. In some of the other markets we serve, I mentioned earlier, that the server market remained pretty strong for us through our fourth quarter, and then quarter to date. Networking, very similar. So I see, all in all, non-commodity businesses have remained relatively strong for us.
+Uche Orji â UBS
+Okay. Let me switch gears a little bit and ask you about in terms of your retail business with â for Lexar. Some of the comments have been essentially about weakness in retail for NAND product. So any comments you can make on your Lexar business on the retail side? And as I look at your projection for price decline for NAND next â in the current quarter, what, what should we think â how should we think about your cost decline as a transition to 24 nanometers, you know just to get a sense of how the margins for that business will hold up? Thank you.
+Mark Durcan
+Sure. A general comment on retail, there's a lot of data out there, but back-to-school seemed to happen just late, and it wasn't all that bad. Actually, there was a report out this morning that Reuters that same-store comps were up over analyst projections, I think it was 2.8% growth on same-store US â US retail comps. So in general, retail has been okay, and I would say that's about what we felt from, from the Lexar business in the channel. The overall trend going into holiday is relatively stable for us, and Lexar had a pretty good fourth quarter.
+As a matter of fact, the year that we just finished was the best year we've had since the acquisition into Micron. So when you look at some of the products around USB storage devices and micro SD serving a growth oriented mobile market, it's â we're more bullish on the retail space than maybe, maybe someone look at that just the raw desktop notebook market.
+Uche Orji â UBS
+Okay. And then just one last question. Can you just comment on the target capacity for IMS and in terms of build out, and installation, and also, are there any, do you see any lead time issues on the equipment side? That's my last question. Thank you.
+Mark Adams
+This is Mark. So we've said a couple times, the full capacity of that site is roughly 100,000 wafers a month. We will probably get about two-thirds of the way through that in 2011, and we'll be monitoring market conditions, obviously, as we move through the year. But that's sort of where we're heading to in terms of the next year. Relative to equipment, obviously the steppers have been a â at least in different pockets, steppers have been subject to schedule slips.
+We're pretty comfortable right now with, with our own deliveries and where those are going to fall relative to supporting the ramp and the technology migrations we have.
+Uche Orji â UBS
+Great, thank you very much.
+Operator
+Our next question comes from the line of Tim Luke with Barclays Capital. Tim, your line is open.
+Tim Luke â Barclays Capital
+Thank you very much.
+Operator
+Tim, your line is open.
+Tim Luke â Barclays Capital
+Thank you very much. Thank you. With respect to your licensing and royalty revenue, as Inotera begins to ramp, how should we think about that revenue line developing? And do you have any clarification as to what it was in the quarter?
+Ron Foster
+Tim this is Ron. Yes, the licensing revenue in the quarter was about $50 million that hit the R&D line. As I mentioned last quarter, commentary, we've got some shifting from revenue into R&D credits. So that's about the same as last quarter in terms of the impact on the R&D line. And there were a few million dollars still flowing through the revenue line. So that's the rough sizing of it, and, and going forward, we will see the vast majority of the credits coming through the R&D line as we flow through the year.
+Tim Luke â Barclays Capital
+Secondly, just with respect to the expense â operating expenses, Ron, how should we think about those as you go through the year? Do you think it can be fairly flattish from what you're outlining for the first quarter? Do you have to grow the R&D?
+Ron Foster
+Yes, we are not guiding out beyond the next quarter, but if you look at our long-term modeling, we've targeted roughly OpEx in the 15% kind of range. We're doing substantially better than that and with the leverage model we have in R&D with the credits that we were just talking the about, I think we'll be tented on the low side of that and roughly the same kind of range.
+Tim Luke â Barclays Capital
+And with respect to NOR, could you give some guidance on how you perceive the environment there going forward in terms of the bit growth or ASPs? Should we generally think about as flattish on both counts? How should we think about that business?
+Mark Durcan
+I think you categorized it correct. I think it's pretty flat, both on the ASP side and growth.
+Tim Luke â Barclays Capital
+Lastly, if I may, just as a general question for Steve, obviously as ASPs decline, you're seeing nonetheless quite strong cash flows. Given the cost structures that you see, and expectation of a pretty mixed environment on the demand side, do you believe there's a fairly high level of confidence that will you be able to stay with an operating profit through the current cycle of softness? And what are the key factors for us to watch over the next several quarters as the ASPs decline seasonally? Thank you.
+Steve Appleton
+Yes. The â obviously we can't share our internal forecasts, because we don't give financial guidance, but our operating cash flow we believe will still be pretty strong through the next twelve months, and we have modeled in declining ASPs.
+But having said that, let me just point out again that less and less of our product is in the volatile commodity ASP arena. So we're less affected by that today than we were several years ago, than we were ten years ago. So â and we've proven, I think, in the last cycle, by the way, we were â again, we don't know Samsung's numbers, because they don't break them out, but other than that, if you look at the, in particular, the DRAM business, we were the only company that remained that positive operating cash flow through the entire cycle, on a quarterly basis.
+So we feel, we feel pretty good about that. I think that the number, or the category that is probably the one to highlight is what is our operating cash flow and what is our free cash flow. And I made the comment, in the summer, that we are not going to take all the cash that we generate and spend it all. So, as opposed to maybe historical circumstances for us.
+So, we expect, again, we don't forecast, but we expect that with the models that we have, that we will continue to look pretty strong on generating cash throughout the, throughout the next fiscal year.
+Tim Luke â Barclays Capital
+Thank you, guys.
+Operator
+Our next question comes from the line of Vijay Rakesh with Sterne Agee.
+Vijay Rakesh â Sterne Agee
+Yes, hi guys. Just a â I'm going back to the memory side. Just wondering on the non-flash side what is the exponential big growth on the ASP?
+Mark Durcan
+We're going to â I think we answered that a couple times, didn't we?
+Vijay Rakesh â Sterne Agee
+I might have missed that, sorry about that, but â
+Mark Durcan
+Would you like to try again?
+Vijay Rakesh â Sterne Agee
+Yes, I was just wondering what the non-flash guide was for the next quarter where the big growth in the ASPs were?
+Ron Foster
+Well we, again, we just said that we think that they will be relatively flat from where we are today.
+Vijay Rakesh â Sterne Agee
+Okay, got it. On the DRAM side, you mentioned the ASPs coming down mid-to-high teens and your cost reductions mid-to-high single digits. On the cost reduction side, can you, can you go over what the cost reductions vary in-house and in Inotera?
+Steve Appleton
+Well, first of all, just to clarify, when we talk about the ASPs coming down, or the cost reductions coming down, we're referencing our entire DRAM portfolio, which incorporates legacy products, and differentiated products that don't really have that much cost change over time, because that's not role that they play for us. And then when you reference the mid-teens on the DRAM, you're then referencing â or, or we were referencing this mainstream core volume DRAM that goes into a certain market segment. So you can't correlate those two, just to, just to clarify.
+And then in terms of cost reductions moving forward, we â because of the, some of the challenges that Inotera had historically, obviously as Mark Durcan noted earlier, they should get on a pretty good cost decline curve going forward from where they're at now.
+Having said that, we're also working on cost reductions and converting to advanced technology internally with respect to our DRAM. And I don't have a number to break them up between the two, as to what contributes the greater, to the cost reductions, but keep in mind there's a large percentage of our portfolio that isn't even the category. It's getting watered down and averaged out for the numbers that were shared earlier.
+Vijay Rakesh â Sterne Agee
+Got it. Thanks.
+Operator
+Our next question comes from the line of David Wong with Wells Fargo.
+David Wong â Wells Fargo
+(inaudible) of bit shipments through the August quarter, what you're expecting, going forward? Because if July was actually looking quite firm, that suggests there were 12% sequential drop in unit shipments â August must seem particularly weak. And have you seen a rebound since then?
+Steve Appleton
+I think Mark would, would mention that we saw the back-to-school season happen later. Mark, maybe you'd like to go on with that. But we did, in essence, David, we missed part of that what would be typical or normal demand for back-to-school in the August period. But, Mark, maybe you'd like to add more to that.
+Mark Durcan
+Yes, that's true. And I think some of the timing of our output coming out of the fabs allowed us to serve that from a production shipment. So, when you couple those to a later back-to-school on the timing of our, our fab output, that put us in a position to catch up and see what we achieved for the quarter and at the end of August.
+David Wong â Wells Fargo
+Right. And then â going to your comment about the weaker DRAM inventory in the channel being up four to five weeks, now, your shipments were actually very low, again, given that bit decline. So do you reckon that your competitors shipped a fair amount more than you into the channel?
+Mark Durcan
+Yes, we do â we did see that. The other â the other thing is that we're, we monitor the end of the quarter activity. Our customers, especially some of our channel customers, are pretty good at predicting when our fiscal periods end and what we have in terms of quarter end deals.
+So given, given that we're heading into the holiday season we weren't in a rush to liquidate inventory at depressed pricing relative to market pricing. So a combination of those two facts, from additional inventory in the channel from our competitors and us holding back some inventory for major customers, OEM customers for Christmas, holiday purchases, we thought we were doing the prudent thing.
+David Wong â Wells Fargo
+Right0. And my final question, I think â just a clarification on what I think you said in the past, your CapEx plan, that does not include any CapEx for Inotera, is that right? That's completely separate from the CapEx?
+Ron Foster
+That's correct, David. It's consolidated operations. Where we fully consolidate we show all our CapEx. If we're an equity investor, as with Inotera, we do not show the CapEx in our CapEx numbers.
+David Wong â Wells Fargo
+
+Thanks very much.
+Operator
+Our next question comes from the line of Bob Gujavarty from Deutsche Bank.
+Bob Gujavarty â Deutsche Bank
+One clarification. You mentioned NAND bit growth for next year for Micron as being maybe in line with the industry at 70 to 75%. I would intuitively think that would you outgrow the industry given, given the ramp of Singapore. Are there some puts and takes I'm missing?
+Mark Durcan
+It's just that we reference a fiscal year number. And, as you know, we'll be ramping up the, the Singapore plant from the summer on. So a lot of our bit growth for next year comes, comes into the second half of the year which does not, is not included in our fiscal year guidance numbers for you.
+Bob Gujavarty â Deutsche Bank
+Okay. That makes sense. And, as a clarification on the DRAM side. Sounds like, just from your comments, that enterprise, in terms of servers and clients, is reasonably steady. Typically, in the calendar fourth quarter is enterprise benefit from a budget flush? And do you anticipate your own bit growth intake on an enterprise climb in servers growing in kind of the calendar 4Q?
+Mark Durcan
+Well I think the demand appears to be consistent with your reference on whether it's attributed to budget or just overall healthy demand. We're seeing a very healthy demand, and we're going to continue to supply at the levels that our production output allows us to do. We have very strong demand from our customers as we see through the end of the calendar year.
+Bob Gujavarty â Deutsche Bank
+Thanks and just one final, real quick one. I think earlier in the year you were a bit constrained on the server side. Are you constrained at all on products for that market now, or â?
+Mark Durcan
+It, it's still something we work every day on to make sure we get as much of the product into the, into the high end applications as possible.
+Bob Gujavarty â Deutsche Bank
+Great, thanks.
+Operator
+Our next question comes from the line of Bill Dezellem with Tieton capital.
+Bill Dezellem â Tieton Capital
+Thank you. We have a of couple questions. First of all, with the recent softening of demand, how does this qualitatively, if at all, impact your thoughts about CapEx in fiscal '11, specifically for Micron? And do you have any sense at what impact it may be having on the industry's thoughts about CapEx?
+Steve Appleton
+Yes, the â well, Bill, the, the range that we gave is pretty wide for a reason. Because, as Mark Durcan noted, we're going to keep our eye on it pretty closely as we move through time. So, we, we obviously have the commitment to the initial piece of IM Flash in Singapore, but, but really on the margin, we can, we can dial around that in these other facilities and deploy more, deploy less, or even deploy more (inaudible) to take the capacity up higher. We're just going to keep our eye on market conditions. I will note that I read yesterday morning, Elpida's announcement to defer some of their CapEx in this environment.
+So I think that if you look at the strength of the balance sheet, Micron and Samsung are clearly the strongest in terms of cash and net cash after debt and debt payable in the next twelve months and so forth. And we have the luxury to â I think add some or delete some on the margin and not have it really affect the balance of the â the strength of the balance sheet. I don't think that's true for several of the, for several of the other producers, that they really will need to react pretty quickly to any change in type of demand environment in order to keep their balance sheet even, even viable.
+Bill Dezellem â Tieton Capital
+That's actually a good segue to the second question which is industry consolidation. There is, there is more chatter in, in the popular press now about further consolidation. What, what insights do you have relative to Micron's stand on the issue and view of what may be take place in the industry?
+Steve Appleton
+Well, I â first of all, it's hard to get consolidation in a, in a rising positive environment. I said that many times before, and you'd be pressed to show me an example of that occurring when the markets are good, depending on what segment it is. And so I think that the problem of that occurring in a really strong environment was low. Clearly we've had some weakening.
+For us, it's really only been in one of our categories, but nonetheless, it's the primary category for some of the other producers in the industry, and I will also note in the media that (inaudible) from Elpida made a number of statement, whether they're accurate or not I don't know, because I don't know if he's quoted correctly by the press, but where he, he commented that he was looking to buy into a couple companies in Taiwan in order to try to get more access to capacity or get more scale or something.
+It's a little hard to determine exactly what he's trying to do sometimes. But regardless, we're obviously in all the markets around the world, and we'll continue to look at opportunities that arise.
+Again, I think if you look at our historical transactions, we do them because they make us more cost effective, because they give us a much more efficient capital deployment model, and to the extent that those rise, we'll continue to look at them. But, you know, the environment right now isn't what the environment was eighteen months ago, not even by a stretch. So we'll have to see how that unfolds, Bill.
+Bill Dezellem â Tieton Capital
+Thank you.
+Operator
+Our next question comes from Tristan Gerra with Robert W. Baird.
+Tristan Gerra â Robert W. Baird
+Hi, good afternoon. Could you give us little bit more details on the 42-nanometer transition and the potential mix we can expect at end of fiscal '11?
+Mark Durcan
+Sorry, we had trouble hearing you. I missed the second part of that But relative to 42-nanometer transition on DRAM, I can tell that you we â as we said, we ran more 42-nanometer than we originally anticipated last quarter, and we're anticipating a ramp that will begin the quarter we're currently in, in one of our manufacturing fabs.
+We already have output in Inotera that was impressive, I think. I think everyone was, was happy with the early results out of 42-nanometer in Inotera. So that's, that's really a â probably a fiscal Q2 and beyond story for Micron I'm going to play out throughout the fiscal year.
+Tristan Gerra â Robert W. Baird
+Okay, and, and any estimate in terms of the mix it could be by end of this fiscal year?
+Mark Durcan
+It kind of depends how we do at Inotera. That's a big piece of our total volume. For the, for the Micron facilities, by the time we get to the end of the year it will actually be a mix of, of 42, we'll have some 3X in there as well, and that'll, that will depend on how that goes. But I'd say, for the Micron internal, it will be north of 50%, and for Inotera, it will be in the similar range.
+Tristan Gerra â Robert W. Baird
+Okay. And then finally, if, if we assume a normal seasonal decline in pricing in NAND flash over the next couple of quarters, is that enough to, as an incentive for Smartphone OEMs, tablet OEMs to double content of NAND flash for next year, model introduction relative to what we're seeing the second half, or do you feel that there is a need for a steeper decline curve in pricing for that to happen?
+Mark Adams
+Let me repeat that for Mark. I think he had a tough time understanding it. I think the question was based on do you need additional pricing pressure in order for the stronger markets to double memory content next year. Did I summarize that right?
+Tristan Gerra â Robert W. Baird
+I think that was perfect.
+Steve Appleton
+I think we're starting to see that happen already, and I think part of which is given some of the seasonality, and I think part of which those, those customers that â those customers that actually did do the despecking pass didn't quite benefit from it on the, on the sale into the channel and the customers. So I think you are going to start to see it sooner than, than you might think going into the holiday season.
+Tristan Gerra â Robert W. Baird
+And how about for NAND?
+Steve Appleton
+NAND to me, today, if you, if you isolate the mobile and the SSD business, you've got a bunch of consumer applications driving NAND that I don't think it will impact as much. On the SSD front, absolutely, I think the pricing will help increase density per box, or per drive, and on the Smartphone as well. I think what you'll see a number of Smartphones with a number of different players coming out with increased density.
+Tristan Gerra â Robert W. Baird
+Great, thank you.
+Kipp Bedard
+And, with that, we would like to thank everyone for participating on the call today. If will you please bear with me, I need to repeat the Safe Harbor protection language.
+During the course of this call we may have made forward-looking statements regarding the Company and the industry. These particular forward-looking statements and all other statements that may have been made on this call that are not historical facts are subject to a number of risks and uncertainties and actual results may differ materially.
+For information on the important factors that may cause actual results to differ materially, please refer to our filings with the SEC, including the company's most recent 10-Q and 10-K.
+Thank you for joining us.
+Operator
+Thank you. This concludes today's Micron Technology's fourth quarter and fiscal year-end 2010 financial release conference call. You may now disconnect.

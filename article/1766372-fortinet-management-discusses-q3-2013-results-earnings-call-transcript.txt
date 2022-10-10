@@ -1,0 +1,162 @@
+Fortinet (NASDAQ:FTNT) Q3 2013 Earnings Call October 23, 2013 6:30 PM ET
+Executives
+Michelle Spolver - Vice President of Corporate Communications & Investor Relations
+Ahmed Rubaie - Chief Financial Officer and Chief Operating Officer
+Ken Xie - Co-Founder, Chairman, Chief Executive Officer and President 
+Analysts
+Jonathan Ho - William Blair & Company L.L.C., Research Division
+Nandan Amladi - Deutsche Bank AG, Research Division
+Gregg S. Moskowitz - Cowen and Company, LLC, Research Division
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+James Wesman
+Melissa Gorham - Morgan Stanley, Research Division
+Walter H. Pritchard - Citigroup Inc, Research Division
+Catharine Anne Trebnick - Northland Capital Markets, Research Division
+Operator
+Good day, ladies and gentlemen, and welcome to your Fortinet Q3 '13 Earnings Financial Analyst Q&A. [Operator Instructions] And as a reminder, today's conference is being recorded. And now, I would like to turn it over to your host, Michelle Spolver.
+Michelle Spolver
+Hi, everybody. Thank you for joining today's call. Nice to talk to you again. As you know, the purpose of this call, the second call, is to answer any more detailed questions that you have after you had the chance to assess our financial results. So -- and also, as a remember, the forward-looking statement disclaimer that I made at the beginning of the call earlier today applies to all forward-looking statements we make in this Q&A call.
+So with that, operator, we can turn -- we can open it up to Q&A. And with me, I should say, is Ahmed Rubaie and Ken Xie.
+Question-and-Answer Session
+Operator
+[Operator Instructions] It looks like our first question is coming from Jonathan Ho from William Blair.
+Jonathan Ho - William Blair & Company L.L.C., Research Division
+Just wanted to understand a little bit. We were under the impression that the U.S. government was not really a large part of the government vertical. Could you talk a little bit more in terms of color relative to the U.S. government shutdown, how that impacts your business. Is this more sort of an indirect impact on your customers or for state funding? Just want to get a sense of how you're thinking about that.
+Ahmed Rubaie
+Good question, Jonathan, and you're correct on both counts, meaning that it is not a large part of our business. The commentary that I was making is more in the context of how this impacts buying behavior across the board, and particularly in the larger enterprises. So it's not federal government-specific, it's buying behavior-specific across the board.
+Jonathan Ho - William Blair & Company L.L.C., Research Division
+Got it. Got it. Just to dig a little bit into what's been happening in the APAC region. I mean, do you guys have currency translation exposure or is this more of a hit to the budget? Just wanted to understand how you're sort of pricing in the regions that are maybe seeing a little bit of a currency impact.
+Ahmed Rubaie
+Yes, the majority of our business is done in U.S. dollar currency. So it's not really much of a currency impact. This is primarily spending behavior across the region.
+Ken Xie
+The currency probably would impact our channel partner a little bit. The buying behavior...
+Michelle Spolver
+Buying behavior, yes. And buying power, purchasing power is impacted. But it's an indirect impact.
+Ken Xie
+Worldwide, we all sell in U.S. dollar and -- but they are selling to local currency to their customer. So currency generally impact the channel, not us.
+Ahmed Rubaie
+So there's nothing on our financials. But at the end of the day, it does impact buying behavior. So if it's more expensive today because of currency, then you're going to think twice.
+Jonathan Ho - William Blair & Company L.L.C., Research Division
+Right, it's sort of the equivalent of shrinking budget by 25% or whatever the inflationary amount is.
+Ahmed Rubaie
+Or stalling it, yes.
+Ken Xie
+You're shrinking their margin sometimes[ph] , yes. Or expand their margin, depending on which way the currency goes.
+Jonathan Ho - William Blair & Company L.L.C., Research Division
+Got it. And then relative to the service provider market, I mean you guys have talked about this 4G/LTE opportunity. But I wanted to understand, is this just sort of a large packet filter that you're going to be selling? Or is this -- I think you guys have done some deals in the past where it's been sort of large firewalls. Or is this going to be the full services offering across those networks? I mean, just wanted to get a sense of what's being sold and what the use case is on those 4G/LTE networks?
+Ken Xie
+Yes, I think there's a few things different in the 4G wireless [indiscernible] more high-speed because definitely the network speed go faster and faster in each new generation. And then the second part is really a lot of small packet. You have to deal with like a large number of concurrent session, a new session. And also they prefer demand [ph] device individually, whether because of BYOD or because all this -- the device, smart device, starting to have a lot of security concern. So that drive the need to secure the 4G/LTE. The gateway requirements are much higher compared to the traditional firewall. So we really believe the 40-gig platform is the new ASIC, and also the -- both the function and the architecture performance feed well for the 4G/LTE trend.
+Operator
+And we'll take our next question from Nandan Amladi from Deutsche Bank.
+Nandan Amladi - Deutsche Bank AG, Research Division
+Ken, you talked about the new single-chip ASIC design that you're launching, I think, next year. How does that change the competitive dynamic? Will your focus remain the price-performance ratio or does it change other attributes of the physical design, power consumption, footprint, anything like that?
+Ken Xie
+I mentioned the 3 ASIC family. The 1, I just say in this earnings call, is the NP6, the network processor is applied to the high end and also some middle-range product toward improving the packet process per second, and also the latency and some other small packet function and especially the network-related firewall VPN function. And then -- so that MPU [ph] processor actually improved the efficiency of the PC architecture, the system architecture, a lot of the PC kind of services that we had. So -- and then the one we announced, the one years ago, the ICSE [ph] chip, it's really improving on the lower end because you can put a lot of function into a single-chip compared to what other competitors [ph] do have to use a small computer to do the security gateway function. So that's also helping a lot on the price performance-wise. And then the other one we're going to release in the next year is we call the content processor, is the coprocessor next to a CPU, because CPU is not designed to run a lot of network security function. So the content processor is really helping settling [ph] a lot of function by 100x [ph], so that's a lot of huge improvement. I think we're really working [ph] this architecture changing both in the hardware, in the multifunction like certainly -- in this company and also in my previous company, almost 20 years, because we still believe we are the only one to solve the Gateway problem, both on the software multifunction and also the hardware architecture ASIC level. So eventually, this will be -- have a huge performance and huge advantage compared to some other software-based general-purpose processor solution put on as a network security gateway. So that's the chip. And it really more technical, more complicated. But it's the investment we made in the last 10, 20 years starting to show some huge advantage over some of our current competitors' solution also because the market changing the trend, it'll be more multifunction together in the high-speed environment and also need more the security function to the higher layer.
+Nandan Amladi - Deutsche Bank AG, Research Division
+And then one other question for Ahmed if I might. You discussed some of the larger contracts and the success you've had at the high end of the market with both enterprises and service providers, but you cautioned us not to make that a trend. Obviously, there's probably a little hint of caution there for us not to get too excited, but where are your sales efforts being? Are they being redirected in any way or are you still fairly evenly spread out across the 3 major segments you have?
+Ahmed Rubaie
+Oh, I think we're pretty diversified and spread out, not only in terms of those segments but across the globe. I think the reason I'm cautioning us, including myself internally, is because of the continued change in the macro dynamic. And what buying behavior will translate in Q4 is anybody's guess. Based on what I see today, I'm optimistic about our ability to execute. We'll continue to improve upon it across the board, but I can't control the macro.
+Nandan Amladi - Deutsche Bank AG, Research Division
+Yes. That's fair. And if I have time for one really quick one. On the competitive wins, you talked a lot about Cisco and Juniper and Palo Alto, but I might have missed it. Did you mention wins against Check Point as well, and what is your win rate doing over that particular competitor?
+Ahmed Rubaie
+Yes, we mentioned Check Point actually several times on specific deals. Michelle could give you specific references from the transcript. But from memory, at least 3 or 4 times. In terms of win-loss rate, we don't actually disclose that. But needless to say, we did.
+Operator
+We'll take our next question from Gregg Moskowitz from Cowen and Company.
+Gregg S. Moskowitz - Cowen and Company, LLC, Research Division
+Ahmed, you gave some color on the service provider vertical, which was helpful. Just wondering though, how you would characterize the behavior from MSSPs, in particular, this past quarter.
+Ahmed Rubaie
+Yes, I think, if you look across the board, not just my commentary, but across others, I think people were hoping for a bigger return out of the MSSPs in Q3, and it was mixed across the board. For us, it was in line with our expectations. But as you can tell, I'm cautiously optimistic as we go forward. So I wouldn't call anything a trend just yet in terms of the MSSP overall spend coming back at full speed.
+Gregg S. Moskowitz - Cowen and Company, LLC, Research Division
+Okay. And were there any specific areas of strength or weakness in Europe that you would call out in the Q3?
+Ahmed Rubaie
+No. I think -- as I pointed out, I think the Middle East did well for us as part of EMEA. I think certain parts of Europe did a very good job in terms of execution, but I really look at Europe as no change from the last quarter. And so there really isn't a new trend to spell out.
+Gregg S. Moskowitz - Cowen and Company, LLC, Research Division
+Okay. And then maybe just one last one, Ahmed. Have there been -- or for Ken. Have there been any competitor changes over the past few months. I know you guys have talked -- answered the competition question. I'm just kind of wondering if you sort of splice it by high end, by mid-market if there's anything that you would sort of point out there? Or is it pretty much status quo?
+Ahmed Rubaie
+It's status quo and it's business as usual. They're all formidable competitors. They win some, we win some. So beyond what we've already commented, there's nothing further.
+Operator
+And our next question comes from Sterling Auty from JPMorgan.
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+I apologize if you covered some of this, we were jumping around between calls. But with the release of the new network processor, Ken, I wondered if you could give a sense in terms of what kind of yields that you're getting on it. Because I know -- I think, initially, when you come out with a new processor, the cost starts at a level, but then you gain scale as you move forward. I'm wondering how this generation looks versus the last generation.
+Ken Xie
+I think the yield's pretty good because the chip itself still a small part cost of the overall system. And also, we mentioned about this is more helping improving the performance, the latency, the power consumption, and also the chip-based card is also probably only like a 10% or less of the general-purpose processor cost. So that's where -- the yield is not a big issue that way because once we did it on a chip, it's also -- it's working fine. And it also takes about almost 2 to 3 years to design each generation of chip. So it's a [indiscernible] process. There's a lot of -- from the beta to the simulation, all these kinds of things. So I think it will be -- it's not a concern because when we announce the chip, that's like we're [indiscernible] it's all proven and working well. [indiscernible] Shipping and starting shipping and also starting using the chip in the new system.
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+Okay, great. A different topic. Looking at the billings mix and looking at the high end, where it's 40% versus 36% in the previous year. How much of that is ground that you're gaining that you started last year with getting into the actual telco data center? And how much of that is actually implementations in enterprise data centers?
+Ken Xie
+Because enterprise really more focus on buying some high end, that's maybe helped some. We don't track the detail. And also, the chip, going forward, will help in both on the high end, and also in the middle range. I mean the NP6 chip.
+Michelle Spolver
+Yes, Sterling, within the -- when we track the models, we don't go deeper than that and assign it for high-end enterprise versus telco versus MSSP, but those are the 3 groups that would buy the highest incentive[ph].
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+I just didn't...
+Michelle Spolver
+Yes, you're trying to ascertain how much traction in the high-end enterprise is leading to that, the growth mix. The growth in the mix, right?
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+Exactly. Even if it's qualitative, because I know that you started to see those data center wins in telco starting in 2012 kind of carried into this year. I didn't know if that was just the continued momentum or if you were starting to see kind of enterprise data center wins based on performance as well.
+Michelle Spolver
+We are starting to see more, and it's not something that's unique in Q3. We've been seeing it fully over the last few quarters, the increased traction in enterprise data center. You could -- a good sort of thing to look at is the way -- when we talk about the deals won during the quarter and then also our large deals -- large deal side. Because if it's a data center deployment, it tends to fall in the large deal category.
+Operator
+And our next question is coming from James Wesman from Raymond James.
+James Wesman
+First, I want to piggyback on Gregg's question a little bit. Taking a look, Check Point has said on their call -- they've been noticeably more aggressive in the low end of the market. I was just wondering sort of what you guys have seen in the low end of the market versus them in terms of entry-level appliances, from a competitive standpoint? Yes, are you seeing them in deals, et cetera?
+Ken Xie
+We somehow -- we not quite see much competition from Check Point in the low end yet, and -- but it's also because some of the new product we launched in Q3 started improving the price performance in low end a lot. So far, maybe because other competitors even weaker, but we have a very nice low-end channel growth in the last quarter.
+Michelle Spolver
+Yes, we talked about in Q2, we had very good channel growth. We had good growth in Q3 as well, and if you look at the product segmentation slide, which is the a mix of products that are sold during the quarter, the entry-level group, which is sold to SMBs and also enterprise branch offices, but a good portion to SMBs, it was 40% and that grew. That's 4% higher than it was a year ago this time. So there is -- I think we're doing really well still on the SMB.
+James Wesman
+Great. And then just a follow-up on the inventory build that Ahmed had spoken about earlier. Why was it bigger this quarter than you had thought? I believe last quarter, you guys had lowered the free cash flow guide in anticipation of an inventory build. And I noticed that you did lower it again. So why was it bigger than you thought? And I guess on the pipeline, does that mean that the pipe is materially larger than you thought last quarter?
+Ahmed Rubaie
+So I think the point is to take the context of what I said, and that is halfway through the quarter, what we saw in the pipeline then, plus the launch of new products that were going to happen, and they did happen, and there was also holiday in China the 1st week of October, and that's where our contract manufacturers are. So it's a balance of all of those things we said that slowed it up for the rest of the year, but it's not a reflection today on the Q4 pipeline. It was several weeks ago when we did it. And the point I made is that at the end of the day, I still feel very good. If you just focus on inventory, we'll finish up somewhere in the midpoint, probably, between 2 to 3 turns at the end of the December quarter. So there's nothing more to it than that.
+James Wesman
+And then just one last housekeeping question, Ahmed. Cash tax for 2013 and 2014, any expectations you have for the rate?
+Ahmed Rubaie
+In terms of the non-GAAP rate, I'd expect it to be the same, 33%, 34%. In terms of next year, you have to forgive me, I haven't done the plan for next year, but I know of nothing today that would suggest something materially different.
+James Wesman
+Okay. And then any thought for 2013 cash tax?
+Ahmed Rubaie
+Cash tax in total, you mean?
+James Wesman
+Yes.
+Ahmed Rubaie
+I don't -- probably somewhere, what would you say Michelle? About 25 to 28, give or take? Yes, about 25 to 28. If you want a more precise answer, we can follow-up after the call.
+Operator
+And our next question comes from Keith Weiss from Morgan Stanley.
+Melissa Gorham - Morgan Stanley, Research Division
+This is Melissa Gorham calling for Keith Weiss. I just have a quick question on CapEx. Last quarter, you mentioned $10 million to $12 million in CapEx spending, I think, for the second half of the year for the construction of a new building. Is that still the plan? And how much are we already through that spending in 3Q? And what should we expect for Q4?
+Ahmed Rubaie
+I don't think I mentioned $10 million to $12 million for the current year. I think I said by the time the building is done next year, at the end of the March quarter, it'll be $20 million in total. In terms of the current year, we're tracking to our spend levels on the building. It's progressing. We've got permits done. We're moving forward.
+Melissa Gorham - Morgan Stanley, Research Division
+Okay, got it. And then question for Ken. Some of the load-balancing guys, like F5, have been talking about getting more competitive in the security space. Do you see them at all and are they a real competitive threat at this point?
+Ken Xie
+I think they are most focused in the data center while we are more in the enterprise level. And we're not quite competing with them directly right now.
+Operator
+And our next question comes from Walter Pritchard from Citi.
+Walter H. Pritchard - Citigroup Inc, Research Division
+Just one further clarification on the service provider side. I'm wondering if indeed you've seen the purchasing behavior of sort of them having gone to smaller purchases as opposed to bigger upfront buys, if that's normalized at this point and where it's normalized, and sort of what type of activity?
+Ahmed Rubaie
+Walter, I don't think we can declare a trend just yet in terms of what is normalized. I think we're seeing a mixed bag. We talked about a very large deal in a Fortune 200, already existing customer. So clearly, they had the appetite to write a big check. And then we saw a bunch of other deals that made up the quarter. So I still think it's too early to say that the buying behavior of service providers, both in terms of MSSP as well as the direly needed change to 4G/LTE and 100 gigabyte, et cetera, is a trend now. It's too early.
+Walter H. Pritchard - Citigroup Inc, Research Division
+And then, Ken, just for you on the MPU [ph] rollout. Can you give us a sense of -- it does appear as though that product -- your high-end products being refreshed has had an impact on your business. And I guess we expected coming into the year that you might see this type of impact. It looks like you're starting to see it here in the second half. Can you talk about how you expect to see the MPU [ph] rolled out through your product line? And what sort of impact did that happen to have on Q3 and what impact do you expect that rollout through the rest of the product line to have in the coming quarters?
+Ken Xie
+Even in the next few quarter, we're starting to build in NP6 into the new system. Just like when we announced the ICSE 2 [ph], the [indiscernible] version 2, 1 year ago. It's taken a few quarter to start building into the system. Because we don't sell the chip directly, so the impact will be more long term, give more advantage over competitor on the system on the hardware side. The software is always the same. So but when this -- the new hardware running the same software, there's a huge improvement on the performance and also helping on the function also. Actually it will be a few quarters gradually help in improving and make it more better, more advantaged over the competitor product.
+Ahmed Rubaie
+Walter, I think the best way to look at it, Ken is spot on, is at the end of the day for us, for the Fortinet story, it's an enabler of continued escalated growth versus a certain refresh that's going to have an impact, a material impact, whether on -- to your question on Q3 or any other time. So it's beginning to roll out now. It'll be part of our growth as we go forward over the next several quarters. The more important point that Ken highlighted during his script is customers are pretty excited because it is faster performance and much lower latency. And so the cost is much lower on a performance basis.
+Michelle Spolver
+And finally, actually, Walter, you had asked I think in the beginning what kind of impact, if any, in Q3 did the product have. It wasn't announced until early October, so no impact in Q3 at all. Because it's the first product integrating the chip. [indiscernible] I was going to say, because even though the chip was ready, it had to be -- the first model product that was integrating the chip was announced in October.
+Walter H. Pritchard - Citigroup Inc, Research Division
+And then just last question for Ahmed on cash tax. I think it was asked about 2013. I realize you're not giving overall 2014 guidance, but directionally, could you help us understand what you expect cash tax is going into next year?
+Ahmed Rubaie
+To be honest, beyond what I know for the current year, I can't give you any further advice on that. In other words, I'd expect it to be in a similar range as the current year, but I haven't done my billings and P&L, so I don't know what next year is going to look like. And that drives the cash tax payments, as you know. I think for modeling, just use the non-GAAP rate until we come out with guidance for next year.
+Operator
+[Operator Instructions] And we'll take our next question from Catharine Trebnick from Northland Securities.
+Catharine Anne Trebnick - Northland Capital Markets, Research Division
+On the carrier market, what I'm trying to understand is the sell-through versus the managed services, like Verizon just announced their 21% year-over-year decline in CP sell-through, but managed services was up. So can you talk to or give us some background or color on, overall, in the MSSP market, how this plays out with your channel?
+Ahmed Rubaie
+Sure. So I think for us, the bulk of our business is selling through, but we also have a part of our business that caters to the service providers themselves. I can't comment on Verizon's specifics. I can tell you what we see across the globe and across service providers. And that is, in terms of the sell-through, it was an in-line quarter for us across the globe. In terms of selling to the service providers, we had a very large deal in a FORTUNE 200 service provider, but we're not yet calling any of this a trend. We're walking into Q4 cautiously optimistic.
+Operator
+And I'm showing no further questions in the queue. I'd like to turn the conference back to your host for any concluding remarks.
+Michelle Spolver
+No more concluding remarks other than thank you for your time. I know it was a busy day with other calls, so thanks for your time. And in terms of -- I'm available for follow-up questions. In terms of conferences, it's lighter activity this quarter, but we will be out there at some conferences in front of investors this quarter. So thanks a lot.
+Ken Xie
+Thank you.
+Operator
+Thank you. Ladies and gentlemen, this does conclude your conference. You may now disconnect, and have a great day.

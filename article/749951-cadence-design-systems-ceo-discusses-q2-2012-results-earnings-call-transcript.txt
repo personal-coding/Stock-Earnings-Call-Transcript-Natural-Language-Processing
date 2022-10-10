@@ -1,0 +1,181 @@
+Cadence Design Systems (NASDAQ:CDNS) Q2 2012 Earnings Call July 25, 2012 5:00 PM ET
+Executives
+
+Alan Lindstrom - Director of IR
+Lip-Bu Tan - President & CEO
+Geoff Ribar - SVP & CFO
+
+Analysts
+
+Raj Seth - Cowen
+Steven Zaccone - Needham & Company
+Jay Vleeschhouwer - Griffin Securities
+Gus Richard - Piper Jaffray
+Thomas Yeh - Bank of America/Merrill Lynch
+Sterling Auty - JPMorgan.
+
+
+Operator
+
+Good afternoon. My name is David and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Design Systems' Second Quarter 2012 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. (Operator Instructions).
+Thank you. I will now turn the call over to Alan Lindstrom, Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you David and welcome to our earnings conference call for the second quarter of fiscal 2012. The webcast of this call can be accessed through our website cadence.com and will be archived for two weeks.
+With us today are Lip-Bu Tan, President and CEO of Cadence; and Geoff Ribar, Senior Vice President and CFO.
+Please note that today's discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause the difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the Company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release issued today.
+In addition to financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results, which can be found in the quarterly earnings section of the Investor Relations portion of our website. A copy of today's press release dated April 25, 2012 for the quarter ended June 30, 2012, and related financial tables can also be found in the Investor Relations portion of our website.
+Now, I'll turn the call over to Lip-Bu.
+Lip-Bu Tan
+
+Good afternoon, everyone, thank you for joining us. Cadence is delivered strong results in Q2, revenue totaled $326 million. Non-GAAP operating margin was 23% and operating cash flow was $67 million. Our business continued to be driven by design activity which remained robust in Q2, the macro environment is challenging with slow growth in China and the ongoing debt crisis in Europe and slow U.S. recovery.
+Key shipments and infrastructure equipment are showing weakness and foundry issues have hurt sales for some customers. However, we believe this high activity will continue at a good pace in second half. We are working closely with customers on the most complex design; our backlog remained strong and continues to strengthen our product portfolio. After reviewing our pipeline for the second half and taking into account the macro-risk we are modestly raising guidance.
+Now let us look at few of the highlights for Q2 starting with silicon realization. Our 20 nanometer design technology continues to gain momentum both for digital as well as custom and analog. We have previously announced 20 nanometer test chips with ARM, TSMC and Samsung.
+STMicroelectronics fuse our encounter digital and virtual custom analog platforms to complete a 20 nanometer mix signal test chip. Our Encounter and virtual platforms received Phase I certification for TSMC 20 nanometer technology. We collaborated with Samsung on the 20 nanometer methodology that includes double patterning technology. The number of 20 nanometer engagement with key customers is growing in every region, overall we are working with 16 different customers at 20 nanometer with more than 30 designs in progress or complete using encounter. At 40 nanometer process note we had joint projects underway and are working on test chips. The increased complexity of modern SoC is driving demand for our advanced verification solutions.
+In Q2, we closed a significant order for our incisive verification platform with a top 10 semi-conductor company. I have some exciting progress to report in the physical verification area. As a result on going collaboration TSMC is now making DRC and LDS Root/x (ph) available for our physical verification system product at a 28 and 20 nanometer nodes. This is yet another proof point that our investment at 20 nanometer node is producing competitive products and creating new opportunities for us.
+Our acquisition of Azuro and its unique breakthrough, clock concurrent optimization now integrated into our encounter digital solution. It enables customer to materially improve the power, performance and area of the design especially those containing ARM core.
+This creates opportunities for us to expand our digital footprint with some customers. (Inaudible) was one successful customer story during the quarter. We are working with a number of major customers including Renesas, who are achieving outstanding results using encounter with Azuro technology built-in.
+Next let us look at SoC realization, our design IP business is growing rapidly. The DDR5 and PCI Express Control, controller product lines both have record bookings for the quarter. We are aggressively expanding our product line as we strive to have products ready for new protocols when customers meet them.
+In Q2, we launched the industry first IP subsystem for the development of SoC supporting the non-volatile memory express standard and interface technology used in the rapidly expanding solid state drive market.
+New fund integrated Cadence DDR3 memory controller and (inaudible) in their Dual- Core ARM Cortex A9 based mobile application processor. Verification IP is one of our fastest growing product lines. In Q2, we booked our single largest VIP transaction to-date. We continue to expand our VIP catalog, in Q2, we introduced the industry first accelerated VIP which is a VIP use on an emulation platform such as Palladium XP. So far we have added, accelerated VIP for the foreign interface standards.
+ARMs AMBA, PCI Express Gen3, USB 3.0, 10 Gigabit Ethernet, SATA 3 and HDMI 1.4. Now let us talk about system realization, our system realization offering creates opportunities for both semi-conductor and system companies. The importance of package and broad design tools grows a bit smaller, complex high speed boards used in todayâs mobile products. Recognize the design challenges that company are facing in design complex boards for todayâs systems.
+We acquire Sigrity, with Sigrity, we become the leader in high speed analysis, power and signal integrity for gigabit interface designs. This is critical technology for high growth, vertical markets, like hand held multi-media devices and cloud infrastructure. With Sigrity we added the leading sign off technology for board and package design complimenting both our PCB, IC packaging solutions and SoC sign off tools.
+Palladium XP demand continues to be strong. Q2 sales significantly exceeded our expectations due to continuing customer demand for capability to design and verify large complex systems and also seize including software. One customer alone order 14 system in Q2. It was a strong quarter for Palladium XP in Japan with further expansion into server, video and imaging market. Business in North America and Europe remained strong with both new and repeat business in networking, mobile and gaming markets. Palladium capability now includes in circuit accelerations and accelerated VIP which opens new business opportunity for us.
+In conclusion, we delivered strong results in Q2 as customer continue to invest in new projects and design technology. We are modestly raising our guidance for the year after taking into account under ongoing challenges in the environment. We are working with customer on their most challenging designs and we continue to strengthen and expand our product portfolio. With that I will now turn it over to Geoff who will review the financial results and provide our outlook.
+Geoff Ribar
+Thanks Lip-Bu and good afternoon everyone. I will review the results for the second quarter, present our outlook for Q3 and update the outlook for 2012. For the second quarter Cadence again produced strong operating results. Total revenue was $326 million compared to $360 million for Q1 and $283 million for the year ago quarter.
+The year-over-year growth was 15%, product revenue was $208 million, maintenance revenue was $89 million and services revenue was $29 million. Revenue mix for the geographies was 46% for Americas, 20% for EMEA, 18% for Asia and 16% for Japan. Total cost and expenses under non-GAAP basis for Q2 were $253 million compared to $250 million for Q1 and $235 million for the year ago quarter.
+Head-count was 4850, compared to 4766 for Q1, the increase was almost entirely due to hiring an R&D in technical field positions. Non-GAAP operating margin for Q2 was 23%, compared to 21% for Q1 and 17% for the year ago quarter.
+For Q2, we recorded GAAP net income per share of $0.13 compared to $0.11 for Q1. For Q2, non-GAAP net income per share was $0.19 compared to $0.17 for Q1 and $0.12 for the year ago quarter. Operating cash flow for Q2 was $67 million compared to $61 million for Q1 and $69 million for the year ago quarter.
+DSOs for Q2 were 35 days compared to 25 days for Q1 and 51 days for the year ago quarter. The increase from Q1 was due to timing of billings and collections, our DSO target remains 35 days or under. Capital expenditures for Q2 were approximately $10 million. Cash and short term investments were $713 million at quarter end above half in the U.S.
+For Q2 approximately 90% of orders booked were rateable including product, maintenance and services. Weighted average contract life for Q2 was 2.5 years. On a weighted average basis run rates on Q2 contract renewals increased. Now letâs address our outlook for the third quarter of 2012 and our update for fiscal 2012. We are increasing our fiscal 2012 outlook for bookings, revenue and earnings per share due to strong Q2 results and expectation of continuing strong demand in Q3.
+For Q3, 2012, we expect revenue to be in the range of $325 million to $335 million. Q3 non-GAAP operating margin is expected to be in the range of 21% to 22%. Non-GAAP total cost and expenses will be up sequentially due to the acquisition of Sigrity. The Sigrity acquisition is expected to be $0.01 or $0.02 dilutive to the second half results primarily due to the impact of purchase accounting rules on deferred revenue and a transition to a rateable license model for the Sigrity business.
+GAAP EPS for the third quarter is expected to be in the range of $0.17 to $0.18. Non-GAAP EPS for Q3 is expected to be in a range of $0.18 to $0.19. Now for update of fiscal 2012 outlook, we are raising outlook for the year based on our first half results and our expectations for the second half. This outlook takes into account the ongoing risk of global economic slowdown.
+Sigrity is expected to be $0.01 or $0.02 dilutive to the second half 2012 results, primarily due to the impact of purchase accounting rules on deferred revenue and a transition of this business to a rateable model. We expect Sigrity be slightly accretive for 2013 and at the transition of Sigrityâs business to Cadenceâs rateable business model, amortization of Sigrityâs deferred revenue will be substantially complete by the end of 2013.
+Bookings are now expected to be in the range of $1.305 billion to $1.335 billion compared to the prior range of $1.295 billion to $1.335 billion. We expected their weighted average contract life between 2.4 and 2.6 years for 2012 and to book at least 90% of our business for the year under rateable arrangements.
+We now expect revenue to be in the range of $1.295 billion to $1.315 billion for 2012 compared to the prior range of $1.27 billion to $1.3 billion. Non-GAAP operating margin is expected to be in the range of 21% to 22% on an annual basis for 2012 unchanged from our prior guidance due to the Sigrity acquisition.
+Non-GAAP and other income expense for 2012 is expected to be in the range of negative $13 million to negative $10 million. For 2012, we are assuming non-GAAP tax rate of 26% and weighted average shares outstanding of 276 million to 282 million shares.
+GAAP EPS for 2012 is expected to be in the range of $0.51 to $0.55 compared to the prior range of $0.45 to $0.49. Non-GAAP EPS is now expected to be in the range of $0.70 to $0.74 compared to the prior range of $0.66 to $0.70. For 2012, we expect operating cash flow in the range of $290 million to $310 million compared to the prior range of $275 million to $305 million.
+DSOs for 2012 are projected to be 35 days or under. Capital expenditures for 2012 are expected to be in the range of $30 million to $35 million. Q2, was another good quarter backed by solid executive with a 23% non-GAAP operating margin for the second quarter. We are on track to achieve our goal of the mid-20s for 2013.
+Finally, design activity remains good, so we are modestly raising our guidance after carefully reviewing our pipeline for the second half and taking to account the macro-risks, Operator we will now take any questions.
+Question-and-Answer Session 
+
+Operator
+
+(Operator Instructions). And your first question comes from the line of Raj Seth with Cowen.
+Raj Seth - Cowen
+
+I had a couple of quick ones, Geoff first from a bookings perspective in the current quarter, if you were to exclude the upside that you talked about for emulation were bookings still better than expectation or were they inline?
+Geoff Ribar
+
+Bookings across the board were better than our expectation.
+Raj Seth - Cowen
+And just on the emulation front, we have talked about this before, hypothetically if the world weakened that might be a place where you would see people pull back first, you are seeing the opposite. How sustainable you had guided that flat to down for the year as your perspective for the full-year changed and Lip-Bu talked about a very big order I forget exactly the number 14-15 boxes over what period is the (inaudible) there, how does that work?
+Lip-Bu Tan
+
+So I think Raj, couple of point let me end up first, first of all I think the demand for the hardware emulation is continue to increase as customer moving to below 40 nanometer, time to market is critically, identify the box earlier will be better.
+So, I think clearly the whole hardware emulation is going very rapidly because of the demand and so meanwhile our product is a go standard and we continue to have very good success in that.
+Geoff Ribar
+And as far as what we see going forward on emulation we expect it, we are still guiding flat to slightly down for the second half of the year. Again Lip-Bu said we agree, there is a secular trend but because of the macro economic conditions we are going to pay attention to that, and we do have a competitor in this space who is doing well and as competitive.
+As far as the revenue recognition on the 14 boxes that will be over a number of quarters.
+ 
+Raj Seth - Cowen
+Okay and last question maybe Lip-Bu for you, you have been doing quite well some of that I suppose at least in previous periods as digging yourself out of a whole and in some cases easy compares. Now I think you are through a lot of the model transition, as you think about share in the industry, what do you think the share trends are, where do you think you are actually poised to or seeing share gains across your business and I wonder if you could pay a particular attention just to the visual side where you continue to reference increasing wins. Thanks.
+Lip-Bu Tan
+So first of all I think we have a very good executive team, continue very focused on execution and the other thing is we are heavily investing in term of product in the (inaudible) in some of the area like digital, mixed signal and advance notes and some of the IP and a system double and so clearly we want to provide the best tool, the best IP to our customer to enable the success in the design and thatâs our ultimate goal and with that we continue to win, continue to able to complete successfully and then the customer like that kind of engagement level we have is the commitment that we want to make them successful that ultimately will win.
+Raj Seth - Cowen
+And any perspective on share, or do you feel like you are gaining share or is this just a strong tide for everybody?
+Lip-Bu Tan
+I just feel that you know first of all I think the design activity at least from our side we see tremendous activity and meanwhile I think it create a lot of opportunity whether improve product and portfolio, they give us a lot of competitive advantage and then cost similar to see us have a road map to facing all these challenge in design when you move out the 28, 20 and below clearly I think that we want to be the best solution to provide the customer and ultimately that is give us position as well for win.
+Geoff Ribar
+And I think its clear Raj, that we are growing faster than industry as a whole and that means we believe that we are winning market segment share at places.
+Raj Seth - Cowen
+And just to put a point on that Geoff I promise I will go away but the outside growth that you are showing, I guess your assertion is thatâs really not so much model transition at this point.
+Geoff Ribar
+You are correct, model transition is in the very low single digits now impact on our business.
+Operator
+Our next question comes from the line of Rich Valera of Needham & Company.
+Steven Zaccone - Needham & Company
+This is Steven Zaccone for Rich Valera, all my questions have been answered. Thank you.
+Operator
+And your next question comes from Jay Vleeschhouwer of Griffin Securities.
+Jay Vleeschhouwer - Griffin Securities
+Lip-Bu I would like to ask you about your system interconnect or BCP business. Other than the Sigrity acquisition in what other ways do you think you will be making new commitments or investments to renewing your overall competitiveness in the BCP business, number of years ago you recall with the restructuring how the company pulled back in some ways from that area and now you seem to be renewing your interest net area, so and what broader ways are you looking to grow that business other than this particular acquisition.
+Lip-Bu Tan 
+I think it's a good question and first of all I think the Sigrity acquisition has fit in very well to our system strategy, and then look at the whole BCP and board (ph), it become a very important. If a customer want to see end to end beside the true design and other way to IC packaging to BCP packaging and especially the power and our signal integrity high speed analysis, this is a critical piece and we integrate that into the vertical BCP market and thatâs a lot of vertical market we can serve from automotive to computing, through (inaudible) and anything that is high speed, is going to be a critical piece. So I think you have correctly point out that we are investing and we are growing the business and it became very important for us to serve our customer in the vertical markets.
+Jay Vleeschhouwer - Griffin Securities
+In the hardware emulation business, would it be fair to say that you are going to be selling the current version of Palladium until sometime well into next year, so Mentor has a new box in the market of course but you are going to continue to have available the version you had the last couple of years at least until next year.
+Lip-Bu Tan
+Yes I think as I mentioned earlier, I think that chip is getting more and more complex and when you move down the geometry below 40 thatâs a lot of complex and if we can identify the pack earlier you can address the pack earlier but time to market is tremendous for the customer. So we are going to continue to see growth in this area and then meanwhile I think as I mentioned we are go standard and we continue to have the record quarter in term of growing and significantly exceeded our expectation and as I mentioned one customer order 14 units in Q2, so we continue to see the demand I think it's good for the industry and it is badly needed by the customer and we continue to improve, continue to drive success with our customer.
+Jay Vleeschhouwer - Griffin Securities
+And just to clarify, you are not going to have a product refresh necessarily in that business until sometime in 2013, would that be right?
+Geoff Ribar
+We donât disclose our product roadmap.
+Jay Vleeschhouwer - Griffin Securities
+Geoff, you pick up a low end of the product bookings forecast to be here by about 10 million which would seem to roughly correlate to the upside that you had in emulation business in Q2, so just again to clarify, some of your earlier questions, you are taking up your software only bookings applications for the reminder of the year?
+Geoff Ribar
+Yes the bookings is going up for both reasons.
+Jay Vleeschhouwer - Griffin Securities
+Okay and lastly for Lip-Bu again, you referred to a positive development with respect to physical verification but how do you foresee your prospects outside of the RC and LVS in other forms of physical verification, what investments are you making there or how -- what kind of prognosis would you have yourselves there.
+Lip-Bu Tan 
+It's a good question, as I mentioned in my prepared remarks and we continue to see good record there and continue to win and we are also investing in some of the technology to improve further especially in the advance note so that is important area for us and we continue to invest.
+Operator
+And your next question comes from the line of Gus Richard of Piper Jaffray.
+Gus Richard - Piper Jaffray
+
+Just a couple of quick housekeeping questions, your service margins were up quite sharply in the quarter, could you just talk about that briefly?
+Geoff Ribar
+Sure, first all I won't take it as a trend or commitment that thatâs where we are going to be going forward. As always we have been moving resources gradually away from services to support our IP and SoC business and so thatâs showing up in improved margins, I think is one of the major regions and in some cases we booked revenue here based on past practices where we did have, we book revenues sometimes where we collect cash for certain types of customers or we book some revenue where we collected cash that we necessarily have expenses associated with it.
+The margins arenât sustainable at that level.
+Gus Richard - Piper Jaffray
+Okay and then in terms of the Sigrity acquisition, can you just give us a handicap I am assuming there is no little no revenue from that this year because of accounting purchase accounting and just wondering what the incremental OpEx is going to be for that business this year.
+Geoff Ribar
+So Gus there is actually some revenue in that business where we are still working to that acquisition accounting. So deferred revenue will take a big chunk and the model change will take another big chunk away from what we expected revenue.
+We also have some piece thatâs a retention piece for some of those employees and thatâs also showing up in the expenses. It is about a penny or two pennies different on our EPS and I think thatâs probably the key message, it does also effect the operating margin percentage a little bit also which is why the operating margin percentage is actually going down a little bit for the second half of the year.
+Gus Richard - Piper Jaffray
+Got it and then on the DSOs, the fee increase sequentially, is that really a function of increased stimulation sales in the quarter.
+Geoff Ribar
+Yes it's mostly hardware business thatâs driving that, there is also some amount of billings we make to Japanese customers that we will get paid for in Q3. There is nothing unusual or unexpected from it.
+Operator
+(Operator Instructions). Your next question is from the line of Krish Sankar of Bank of America/Merrill Lynch.
+Thomas Yeh - Bank of America/Merrill Lynch
+This is Thomas Yeh calling in for Krish Sankar, thanks for taking my questions. First off during that conference Cadence and some peers highlighted some of the design challenges related to 20 nanometer which would require a potential step up in investments from EDA vendors. Can you help us quantify that and talk about any differences you might see in regards to the level of investment it took to get from say 45 nanometers to 32 nanometers and how that could differ from the move from 28 to 20.
+Lip-Bu Tan
+So let me take a crack at it and Krish I think the 20 nanometer is not as easy and it's much more complex and so we have a jump start on it and so we are committed to the 20 nanometer, as I mentioned in my remark ARM, TSMC, ST, Samsung we have engaged heavily and we also have 16 customer working with us and more than 30 design and so clearly is a very difficult and complex and customer invest quite a bit in that and they also like to see the roadmap when they go into production sometime next year and so we are engaging and we are working very hard with the customer and so we are investing but it's factored in pretty much in the our financial model that Geoff prepared and so to answer your question yes we are investing and it's not as easy, it's very complex.
+Geoff Ribar
+
+And Thomas I do want to emphasize it is substantial investment that Cadence is making for this business, substantial investment because it's critical to us and critical to our customers.
+Thomas Yeh - Bank of America/Merrill Lynch
+Thatâs helpful and second digging a little bit more into the Sigrity acquisition, can you highlight for us what kind of incremental market size that opens up and just in regards to margin you mentioned that it would be lower but longer term, is it safe to assume that could be brought up back to your corporate average?
+Lip-Bu Tan
+So maybe before I address Sigrity, back a little bit on the 20 nanometer so as you imagine quite a lot of (inaudible), double patterning, 3D-IC and all those area are the investment area that works with our customer. On the Sigrity side, and as I mentioned you fit in very well with our system strategy and also our PCB packaging related design and you become very complex, customer want to really design the chip knowing the packaging will not be a problem and so this is strategically important to us in term of high speed analysis, power signal integrity and in the gigabit interface.
+So all this and also the sign off, it will be critical so all this is going to be and it is very important for us and then Geoff maybe can answer the second half.
+Geoff Ribar
+So Thomas it will be solely dilutive in 2012 and solely accretive in 2013 but both of those numbers are materially impacted by the accounting and merger and acquisition accounting, without the merger and acquisition accounting those numbers would clearly be better. So it is material impact but those things will be complete by the end of 2013 and much more normal business model for that business going forward.
+Thomas Yeh - Bank of America/Merrill Lynch
+Then last one for me, revisiting just the impact of the Synopsys acquisition of Magma, can you highlight for us whether you have seen any changes in the pricing environment or any new customer that might be seeking dual source.
+Lip-Bu Tan
+Yes so let me address that, so first of all I think clearly open doors for additional engagement. We see tremendous interest on customer to work with us. For a couple of factors one clearly you know the mixed signal SoC and it is very important for them and then secondly we are much improved our digital flow and implementation, they are attracted to us and the thirdly our advanced development and engagement in the 20 nanometer and below and of course the other thing is very big opportunity for us is ARM, relationship that we have been engaging and working closely with them in the design and the flow. So all this I think is just enhanced customer want to engage with us and work with us and selecting us and give us a quick opportunity that we are very excited and we continue to drive the best to best solution IP to a customer that can enhance and provide value to our customer and enable them to win.
+Operator
+And you have a question from Sterling Auty of JPMorgan.
+Sterling Auty - JPMorgan
+I heard the commentary in terms of your outlook but I just wanted to circle back to listening to lot of semiconductor earnings calls here for June, I was wondering if anything really pops out to you in terms of how they are allocating or looking at the R&D spending relative to their spend for EDA and specifically what I mean, you know in Intel, fixed instruments are seem to be slowing their spend. There are others that it feels like they are reallocating out of other areas to spend in R&D. Do you feel there is an increased level of nervousness around the spend or do you still feel like the heightened design activity should remain constant through this year and into next year.
+Lip-Bu Tan
+
+I think Sterling it's a good question and first of all I think we donât see in a big across the board customer spending cut or freeze and we still see tremendous R&D development at least the customer we are working with and clearly the design activities continue to grow and then as you know the design engineer, there is a last depot that you want to cut and so our relationship in the EDA spend a lot to do with the design engineers and then chip is not getting easier to design, it's much more complex.
+So I think that the place that they spend a lot of money is clearly in the digital mix signal space that we see and also in the PCB side, in the hardware emulation side. So anything that can help them to design the product faster and then low power is critical for lot of mobile infrastructure player and also the easier earlier to identify the packs and the hardware, software, co-design, co-validation (ph) becomes very important for them and so I think we kind of picking up our bets in term of the area that we think will be really helpful to them and then in their design. So far in those areas that we pick we donât see slowdown.
+Geoff Ribar
+I think the other thing right Sterling is when they revenue impacts, one of the things they want to do is get new products out the door and that leads to design activity, leads to engineers, leads to value for the whole (inaudible) will change of path.
+Sterling Auty - JPMorgan
+Got it two other questions, first of can you give us a sense I didnât quite hear it, if you were to split your business in terms of the core EDA versus the IP and other how would kind of characterize or quantify the growth in both of those buckets for this quarter?
+Geoff Ribar
+So I think both businesses grew quite strongly, if you want to jus abide core EDA IP and other and the system realization I think all of those things grew very steadily and very well for us. I donât think any of them grew particularly faster than anything else, VIP was probably the fastest growing business for us as a percentage but I think we saw strong growth all across that so I think we are quite happy with the growth.
+Sterling Auty - JPMorgan
+Okay last question on the emulation it feels like you have been almost capacity constrained in the first half, did you change any of your manufacturing order plans here for the back half to increase and meet some of this higher than expected demands.
+Lip-Bu Tan
+I think Sterling, and too clearly on the hardware emulation side we continue to drive improvement, execution, supply change that is kind of ongoing effort and we send up urgency and clearly the demand is strong. We like the business and we continue to invest and continue to improve so that we can meet the customer requirement.
+Operator
+And this was our last question, I will now turn the call over to Lip-Bu Tan, President and CEO of Cadence for closing remarks.
+Lip-Bu Tan
+Thank you. In closing, the strength and momentum of our technology which is expanding, existing relationship as well as creating new engagements, lead to strong operating result for the first half. Our level of business, customer engagement and growing product portfolio give me confident that the rest of the 2012 will be also good for Cadence. Thank you everyone for joining us this afternoon and I look forward to speaking with you soon.
+Operator
+Thank you for participating in todayâs Cadence Design Systems second quarter 2012 earnings conference call. You may now disconnect your lines.

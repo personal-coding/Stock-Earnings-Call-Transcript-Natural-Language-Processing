@@ -1,0 +1,264 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q4 2013 Earnings Conference Call January 29, 2014 5:00 PM ET
+Executives
+Alan Lindstrom - Investor Relations
+Lip-Bu Tan - Chief Executive Officer and President
+Geoffrey G. Ribar - Chief Financial Officer and Senior Vice President
+Analysts
+Rich Valera - Needham and Company
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Monika Garg - Pacific Crest Securities, Inc.
+Thomas Diffely - D.A. Davidson & Co.
+Operator
+Good afternoon. My name is Justin, and I will be your conference operator today. At this time I would like to welcome everyone to the Cadence Design Systems Fourth Quarter and Fiscal Year 2013 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakersâ remarks there will be a question-and-answer session. (Operator Instructions). Thank you. 
+I would now like to turn the call over to Alan Lindstrom, Group Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+
+Thank you, Justin, and welcome to our earnings call for the fourth quarter of fiscal year 2013. The webcast of this call can be accessed through our website, cadence.com and will be archived through March 14, 2014. A copy of todayâs prepared remarks will also be available on our website at the conclusion of todayâs call. 
+With us today are Lip-Bu Tan, President and CEO; and Geoff Ribar, Senior Vice President and CFO.
+Please note that today's discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings and the cautionary comments regarding forward-looking comments in the press release issued today.
+In addition to financial results prepared in accordance with generally accepted accounting principles, or GAAP we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business it can also be useful to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results, which can be found in the quarterly earnings section of the Investor Relations portion of our website.
+A copy of today's press release, dated January 29, 2014 for the quarter ended December 28, 2013 and related financial tables can also be found in the Investor Relations portion of our website.
+Now Iâll turn the call over to Lip-Bu.
+Lip-Bu Tan
+
+Good afternoon everyone and thank you for joining us today. 2013 was a great year for Cadence. We introduced six new innovative, internally developed products. We made three important acquisitions to build out our fast growing IP portfolio.
+Financial performance was strong with revenue up 10% over 2012, a 24% non-GAAP operating margin, and operating cash flow up 16%. For Q4, Cadence delivered solid operating results. Revenue was $377 million, non-GAAP operating margin was 25%, and operating cash flow was $119 million.
+While the environment remains challenging with macro uncertainty and softness in semiconductors we are looking forward to another great year for 2014. Longer term, our focus continues to be: growing revenue; building innovative new products; and driving greater profitability.
+Now let us review some of the Q4 highlights, starting with our IP business. Leading off with Tensilica, I am delighted with the performance of this business. The integration is going well and revenue was ahead of expectations for both Q4 and the year. Tensilica delivers a number of vertical solutions, particularly strong are its audio and voice solutions. These were on display at CES, including technology for hands-free, voice activation and voice authentication.
+Tensilica HiFi DSP was used in the recently launched Microsoft Xbox One game platform. Exciting new areas for us include gesture recognition, as well as audio DSP offload which is now supported in the newest Android KitKat release.
+Cadence Design IP continues to gain strong momentum in the marketplace. Through acquisitions and internal development we have built a broad portfolio and are winning multi-product, multi-license arrangements with a wide range of customers. We are growing our IP business by delivering high quality products based on the newest protocols at the most advanced process nodes. Products leading our growth include DDR and PCI Express PHYs and analog IP.
+In 2013 we had Design IP wins in over 10 Tier 1 accounts including head-to-head wins at advanced FinFET nodes. Palladium had a strong year and continued to lead the market for emulation. Existing top customers continued to add significant capacity, and we added 14 new Palladium customers. Just in Q4 itself, four of the top five application processor providers to smartphones and tablets added new or expanded capacity.
+Q4 revenue was the second highest ever for a quarter. For the year revenue exceeded our expectations. For 2014 we expect revenue to be about the same as 2013.
+Palladium XP 2, the newest emulation system available in the market, contributed to nearly half of Q4 orders. In addition to in-circuit emulation, more customers are choosing Palladium for simulation acceleration, with these deployments doubling in 2013.
+Next I want to talk about progress with some of the exciting new innovative products we introduced in 2013. Tempus, our new timing signoff solution, is rapidly gaining traction, with over 10 customers have adopted it because of its highly compelling performance and accuracy, and several others are in the evaluation stage. A major foundry completed a tape-out of a chip with an embedded processor at 28-nanometer, exclusively using Tempus for timing signoff. Two additional designs have been signed-off exclusively using Tempus.
+Voltus, our innovative new power analysis and signoff tool. It has up to 10 times better performance than competing solutions. Voltus has already been purchased by multiple customers including many of the largest semiconductor companies. Success with Tempus and Voltus will enable additional adoption of EDI, our digital implementation platform.
+We introduced our new Spectre XPS fast-spice simulator and have integrated it with our Altos technology for memory characterization, and customers are realizing runtimes up to 30 times faster than with competing solutions.
+Lastly, the highly successful integration of Sigrity with our Allegro platform drove strong 2013 results for our silicon-package-board business, with revenue up 28% year-over-year.
+In summary in Q4 results demonstrate, Cadence continues to drive consistent operational and financial execution. I am delighted with the way our IP business is expanding. We continue to add new differentiated products to our portfolio, and our customer list and deal size are growing. The Q3 introduction of Palladium XP 2 contributed to a strong finish to the year for hardware. Our talented development teams introduced two more innovative new products in Q4, and our recent released products are gaining traction.
+We are excited about EDA growth opportunity with our innovative and scalable products, to meet the design productivity and time-to-market requirements for our customersâ increasingly complex designs. Our broad range of design tools, system analysis, IP and software products across the System, Board and SoC space we have expanded to become a system design enablement company.
+With that Iâll now turn it over to Geoff, who will review the financial results and provide our outlook.
+Geoffrey G. Ribar
+Thanks Lip-Bu, and good afternoon everyone. Before I get start I have a bit of housekeeping. Beginning next quarter we will release earnings on Mondays. The scheduled date for the Q1 earnings release is Monday April 21.
+Now I will review the results for the fourth quarter and the year, and then present our outlook for Q1 and 2014. Cadence produced strong operating results for Q4 and the year. 2013 bookings totaled $1.585 billion, an increase of 19% over 2012. Book-to-bill was 1.09 and year-end backlog was $1.9 billion.
+Total revenue for Q4 was $377 million, compared to $367 million for Q3, and $346 million for the year ago quarter. Revenue for the year was $1.46 billion, an increase of 10% over the prior year. For Q4, product and maintenance revenue was $350 million. Services revenue was $27 million.
+The revenue mix for the geographies in Q4 was 47% for the Americas; 20% for EMEA; 19% for Asia; and 14% for Japan.
+Total costs and expenses for Q4 on a non-GAAP basis were $282 million, compared to $278 million for Q3, and $265 million for the year ago quarter. Q4 headcount was 5,734, down 128 from Q3 due to reprioritization of resources. Head count increased by 545 for the year.
+Non-GAAP operating margin for Q4 was 25%, compared to 24% for Q3, and 23% for the year ago quarter. For the year, non-GAAP operating margin was 24%, compared to 23% for 2012. For Q4 we recorded GAAP net income per share of $0.13, compared to $1.10 per share for Q4 2012.
+For the year, GAAP net income per share was $0.56, compared to $1.57 for 2012. You may recall that GAAP net income per share for Q4, 2012 and for 2012 in total included $0.90 and $0.91, respectively, in tax benefits for the release of a valuation allowance, and the settlement of a California income tax audit. Included in 2013 GAAP net income per share was an $0.11 benefit for the release of a tax reserve that was no longer required.
+In Q4 we recorded a restructuring charge of $15 million, or $0.05 per share. The restructuring charge was primarily for severance costs associated with the reprioritization of resources. For Q4, non-GAAP net income per share was $0.23, compared to $0.21 for Q3, and $0.20 for the year ago quarter. For the year, non-GAAP net income per share was $0.86, compared to $0.77 for the prior year, an increase of 11%.
+Operating cash flow for Q4 was $119 million, compared to $98 million for Q3, and $96 million for the year ago quarter. For the year, operating cash flow was $368 million, compared to $316 million for the prior year. Total DSOs for Q4 were 27 days, compared to 26 days for Q3, and 27 days for the year ago quarter. Our DSO target is approximately 30 days.
+Capital expenditures were $9 million for the fourth quarter, and $45 million for the year. After paying $144 million to retire the 2013 convertible debt, and paying down $50 million on our revolving credit facility, cash and short-term investments were $633 million at year-end, compared to $827 million for the prior year. The balance on our revolving credit facility at year-end was zero. We have $350 million of convertible debt remaining which is due in June 2015. About 30% of our cash was in the U.S. at year-end.
+Approximately 85% of orders booked in Q4 were ratable, which is lower than recent periods. This is primarily due to strong quarterly hardware orders. Approximately 90% of Q4 revenue came from ratable arrangements. Weighted average contract life for Q4 was approximately 2.3 years. For the year 90% of orders booked and revenue were ratable. The weighted average contract life was approximately 2.5 years.
+Now letâs address our outlook for the first quarter of 2014, and fiscal 2014. For Q1 we expect revenue to be in the range of $373 million to $383 million. We expect a little less than 90% of first quarter revenue to come from beginning backlog due to strong Q1 hardware orders. Q1 non-GAAP operating margin is expected to be approximately 21%. The margin is down for Q1 primarily due to seasonally higher payroll taxes. GAAP EPS for the first quarter is expected to be in the range of $0.08 to $0.10. Non-GAAP EPS for the first quarter is expected in the range of $0.18 to $0.20.
+Now for our fiscal 2014 outlook. Bookings are projected to be in the range of $1.72 billion to $1.77 billion, an increase of 9% to 12%. We expect weighted average contract life in the range of 2.4 to 2.6 years, and we expect at least 90% of revenue for the year to be recurring in nature.
+Note that we are changing our terminology from ratable to recurring as we believe it more accurately represents our revenue stream with the addition of royalty revenue. Our previous metric, ratable metric was the percentage of ratable bookings of total bookings. Our new recurring revenue metric is the percentage of recurring revenue of total revenue. We are making this change because we believe it better reflects how we manage the company, and better accommodates the royalty stream.
+Going forward we will provide annual guidance for the recurring revenue mix and we will update that annual guidance on a quarterly basis. We will provide actual results on an annual basis, but not quarterly.
+Since 2014 is a transition year for this new metric, I want to make clear that we do expect the prior metric, the ratable bookings mix, to be approximately 90% for 2014 -- we do expect. Revenue is expected to be in the range of $1.55 billion to $1.585 billion with approximately 70% of this total from beginning backlog. This translates to 6% to 9% growth in revenue over 2013.
+We expect hardware revenue to be about the same as last year. With Palladium XP now in its fourth full year of product cycle we are likely to see some decline in gross margins. Because of our fiscal calendar, 2014 will be a 53 week year, which occurs every five to six years. This will add approximately $15 million of revenue to Q4, with additional expenses attributable to the 53rd week, including payroll, the impact on the bottom line will be immaterial.
+I would also like to point out that with hardware and IP together now representing a larger share of our revenue mix, quarterly revenue will likely be more variable, and as a result, quarterly revenue may occasionally decline.
+Non-GAAP operating margin is expected to be approximately 26% on an annual basis, up two full percentage points over 2013. Non-GAAP other income and expense is expected to be in the range of a negative $15 million to a negative $9 million. We are assuming a non-GAAP tax rate of 26% and weighted average shares outstanding of 299 million to 307 million shares for the year.
+GAAP EPS for 2013 is expected to be in the range of $0.55 to $0.65. Non-GAAP EPS is expected to be in the range of $0.92 to $1.02. This represents 13% growth over the prior year at the midpoint. 
+We expect operating cash flow in the range of $335 million to $365 million. Expected 2014 operating cash flow is slightly below 2013 due to the timing of collections and disbursements.
+Our DSO forecast is approximately 30 days. Capital expenditures are expected to be approximately $40 million.
+As a result of our regular review of our capital requirements and capital allocation, and based on our near-term outlook and the strong long-term fundamentals of the business, our board of directors has approved a stock repurchase program, and we are expected to purchase up to $50 million of our stock during each of fiscal years 2014 and 2015. 
+Operator, weâll now take questions.
+Question-and-Answer Session
+
+Operator
+
+(Operator Instructions). Our first question comes from the line of Rich Valera with Needham and Company.
+Rich Valera - Needham and Company
+
+First, I just missed the details of your stock-repurchase commentary, Geoff. Could you repeat that please? 
+Geoffrey G. Ribar
+Sure. And maybe I will give you a little bit more, little bit stronger answer. 
+Rich Valera - Needham and Company
+Sure.
+Geoffrey G. Ribar
+We regularly review our capital needs, our capital allocation, and our capital structure. We remain committed to using capital on the most attractive, highest return opportunities available. Our priorities in addition to stock returns for the use of cash have been funding operations, retiring convertible debt and M&A. We think we've been successful as mentioned, Lip-Bu motioned earlier in funding operations with all our innovative products we've created and also I think itâs shown up in our operating results.
+Our balance sheet continues to get stronger. And when you look at M&A we believe our acquisitions there have returned more than the cost of capital, we built the strategic business in IP and we strengthened our core. So in addition to that we are pleased to note that given the strength of our balance sheet, our near term outlook, the strong long-term fundamentals of business our Board of Directors has approved $100 million in stock repurchases. We expect to purchase up to $50 million of stock in each of 2014 and 2015.
+Our year-end balance of cash and short-term investment was $633 million of which $190 million was in the U.S. With $190 million of cash in the U.S. on hand the liquidity being provided by our $250 million revolving credit facility and the U.S. cash we expect to generate over the next year and half, we believe we have the right amount of U.S. equity to support our operational and strategic needs to retire $350 million convertible debt and to fund $50 million in both 2014 and 2015 totaling $100 million in stock repurchases. Sorry thatâs a long answer.
+Rich Valera - Needham and Company
+No, that's helpful. I appreciate the color, I think you anticipated that question. Moving onto the business, wanted to talk about the obviously that pretty strong hardware contribution in Q4 and if you kind of do the math on the increase in cogs one, it would look like the rest of the business which I think is software and royalties was down quarter-over-quarter. And I don't know if this is some of the volatility you referenced in your prepared remarks about the higher software and higher royalty. And just wanted to talk about that what went on in the fourth quarter in terms of the rest of the business besides emulation if it was in fact down quarter-over-quarter? Thanks.
+Lip-Bu Tan
+
+So I think, Rich let me start first and then Geoff will give you more color. So first of all as I mentioned earlier we have a very strong growing IT portfolio and clearly the portfolio is getting stronger. Tensilica is doing very well and it's ahead of plan and a lot of success in our Design IP given the gains today in the advanced FinFET and so we continue do well in the IP side. And I mentioned also earlier because of the security and Allegro that business is growing about 28% year-to-year. So it's a very strong growth for us. 
+And meanwhile on our call EDA two related area, as I mentioned earlier clearly our success in campus and on the Azuro acquisition we made we' remaking a lot of inroad into the digital front. We have multiple customer success and our commitment investment into the advanced notes in the â14, â16 and already engaging in â10 in the FinFET side and of course the relationship with [inaudible] we are winning a lot of customer business. So I think across the board I would say that all our product have been doing well.
+Geoffrey G. Ribar
+
+And overall, overall Rich, our software IP business also grew, right it wasn't just the hardware business.
+Rich Valera - Needham and Company
+Okay. Thanks for that. And then wanted to ask about one geographic question once sort of -- sort of a segment question but in Japan I think you had your first positive comp in five quarters. Just wanted to get a sense of your feeling there, do you think you've seen some stability there and you think that will stop being the headwind it has been as we move into 2014?
+Lip-Bu Tan
+So I can chip in first and then Geoff will give you more color. So clearly we're seeing recovery on Japan especially in the system company that has been doing very well, either in the consumer related area or in the automotive side. We are seeing a strong recovery. And then secondly even in some of more restructuring company we are also starting to see sign of improvement and clearly they are investing in the future in terms of new product. We are engaging heavily with them. And so I think clearly we see the stabilization we're seeing improvement in certain, especially in the system company side.
+Geoffrey G. Ribar
+
+And obviously Rich the currency impact remains unknowable for us clearly we take a best estimate of how that works going forward.
+
+Rich Valera - Needham and Company
+Fair enough and one final one from me on emulation. I don't believe you actually said emulation did finish down for the year in '13, it did sound like it exceeded your original plan which was to be down but isn't that finishing down less than you had originally thought, was that accurate?
+Geoffrey G. Ribar
+Yeah. It was better than we originally thought but it was still down. And again as we said also 2014, we expect to be essentially flat from 2013.
+Rich Valera - Needham and Company
+Okay, very good, that's it from me. Thanks gentlemen.
+Geoffrey G. Ribar
+Thank you. 
+Operator
+Our next question comes from the line of Jay Vleeschhouwer with Griffin Securities. 
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Good afternoon, Lip Bu, Geoff a quarter ago on the call you talked about certain instances of customers adjustments or what you call â in some cases and the best we could tell there were only about three significant customers that might have done that, one each in Japan, the U.S and Europe. But given your comments now about the strength of the business not just hardware but looking into 2014, would you say looking back a quarter ago those comments or those experiences were somewhat anomalous and you have not seen that since or you are not expecting that this year?
+Lip-Bu Tan
+Yeah, Jay. Thank you for the question. First of all you are right. The environment kind of still remaining challenging and uncertain but we are feeling much better with our business. Clearly I on the Q2 and Q3 while working our way to some of the specific customer issues. We didn't have any of those in Q4. Q4 was a strong quarter â we introduced couple of new products. And I am very excited about our IT hardware and also our new products. And so I think the outlook for 2014, we are comfortable with our guidance.
+Clearly in the longer-term as you know I am very passionate about system design enablement. Clearly we see a lot of traction in term of ratable, Internet of things, automotive, cloud video and Big Data. And so I think overall, I think you're correct and that we are more positive. I think clearly those issues that are isolated we don't have it in Q4 and we're comfortable looking forward in 2014 and beyond.
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Okay. Since you mentioned systems and a number of times that anticipates my second question, which is we could, often for VDI companies not just yourselves over the last year or so about the importance of systems companies and the customer base. But we haven't really heard much about how they are different from the more traditional semi or IC customers.
+So perhaps itâs too broad a question but could you talk about in what way do systems customers do in fact differ if at all from your traditional customers in terms of tool mix or capacity, how demanding they are or not with respect to discounting or anything in terms of some general profile you can make about the systems customers making it someway better for you than the semi companies that struggle from time-to-time.
+Lip-Bu Tan
+Jay, this is a good question. First of all I think we mentioned system quite a few times in our call. And I think we are defining the system design enablement as a company going forward. Clearly I think that traditionally EDA as is well known is more on the more on the automation for chip design but the system enablement I think it goes beyond traditional EDA by taking a system view.
+So clearly not only supplying customer with tool, IP, software content and then the design with the end product in mind and that clearly beside just developing for the SoC, we are talking about design integration, analysis, verification of system level components such as board, packaging, software, system IP and mechanical, thermal aspect of the system and so it is kind of more top down systems approach. And clearly traditionally EDA is a very big focus and at the core of our system design ennoblement strategy.
+And also clearly itâs really the foundation of the strategy and then clearly our growing highly differentiated portfolio like packaging, board design, system analysis, system-level IP, system and hardware, software, co-design, co-verification and software product, we are kind of moving towards that.
+And then clearly I think the system company is a much bigger and become an increasing part of our business. And as the new wave of system company they are growing vertical integration to optimizing their SoC and system altogether. And so this clearly plays into our strength. And then clearly the EDA tool, automation I mentioned earlier and software and the whole entire ecosystem partnership and thatâs where the growth opportunities were given.
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Okay just one more about the market for you and follow up on emulation for Jeff. On the market according to the latest industry data the big three EDA companies together would seem to have in excess of 85% of total spend going on in the Asia-Pac region which is fastest growing market in EDA for the last decade. And your proportion of spending in other region is lower particularly in Japan. My question is in Asia Pac does that very high concentration already, the EDA companies including with [EDA IP] limit your growth given how concentrated you are or not? 
+And then similarly do you think there is significant opportunity for you to gain more share of spending in the other regions? And then lastly for Geoff kind of following up on Richard's question on the emulation cost of revenue you had a few million of upside versus our model anyway on emulation hardware but substantial upside on cogs, is it the case that you have to absorb substantial incremental expense to the mix or those material like that and sometimes seeing emulation just to get product out the door?
+Lip-Bu Tan
+So I think Jay, let me answer the first portion and then Geoff will answer the second question. The first portion I think if hear correctly you are talking about the EDA opportunity in Asia Pacific and then what are the opportunities for us. So clearly as you can see from our result U.S. is still a very important market for us, 47% and we are continuing to gain market share continue to work very closely with our customer to enable them in the complex design.
+Clearly Europe is also very an important market for us especially in the automotive and industrial area. We are heavily engaging much from the EDA side and also in the system packaging related area and they are very, very strong in that. And then Asia Pacific is an emerging growth area. We are very excited and we are well positioned as you know in that market.
+And clearly you see a bunch of company coming up from Spectrum, RDA, High Silicon, the Galaxy products IPO in Hong Kong and a suite of company coming up and we are so well positioned engaging with them providing the tool and also increasing the IP blocks and we have a very broad portfolio able to provide them a very good silicon proven IP so that enable them to fast to market. And clearly we also see a tremendous growth on the Palladium hardware emulation because it is a must have when they have a complex chip design especially in the advance node.
+So I think we see good opportunity and we are very well positioned much as for tool, much as for IP and also for the system packaging related area. And we are very well positioned.
+Geoffrey G. Ribar
+And Jay as far as the emulation and the emulation margins and cost of sales we were quite happy with the margins in the business. But this is the fourth year right that Palladium has been out there in the marketplace and so we do anticipate margins all through quite good being a little bit more of a challenge again generally as Lip-Bu we just add we love this business, we love the opportunities it provides for us and by the way our competitors too.
+Jay Vleeschhouwer - Griffin Securities, Inc.
+Thank you.
+Operator
+Our next question comes from the line of Monika Garg with Pacific Crest Securities.
+Monika Garg - Pacific Crest Securities, Inc.
+Hi, thanks for taking my question. First question Geoff you gave 26% of margin guidance. Previously you have talked about 25% of margin business, so is the 26 is a good number to think about going forward or you think there could be more leverage in the model? 
+Geoffrey G. Ribar
+So I think where we said obviously we'll continue to focus on growth for this business and we do think there continue to be operating margin improvements going forward. We are very happy that we're up 2% year-over-year from 24% for the full year 2013 to 26% for the full year of 2014.
+Monika Garg - Pacific Crest Securities, Inc.
+Then could you provide what was Tensilicaâs revenue last year and what do you expect Tensilica revenue for 2014?
+Geoffrey G. Ribar
+I am sorry I didn't hear you. 
+Monika Garg - Pacific Crest Securities, Inc.
+Tensilica revenue for going '13 and your expectation for Tensilica in 2014?
+Geoffrey G. Ribar
+Yeah, because Tensilica is now fully integrated into our IP business we're starting to breakout Tensilica. Again they did exceed our expectations for both Q4 and for the year as we said earlier in the call.
+Monika Garg - Pacific Crest Securities, Inc.
+Okay. Then I have one quick question on we are hearing that Intelâs plan on trying to become a foundry, right, and there are talks about the next node they wonât try to go to Intel for that -- they will go to Intel for that. So my question here is do you think that all new IP libraries will have to be recharacterized priced with now Intelâs library, so will it add kind of more OpEx if you have to do that and how much effort and time you think it will take?
+Lip-Bu Tan
+
+Yeah I think Monika I think clearly itâs a very good question. Foundry enablement is very important in our business and so we work with multiple foundries in the advance nodes and adjust for our tool to optimize for their foundry. And clearly there is a different TAM and now clearly you have a common platform, you have a TSMC and clearly you have Intel. Each foundry they have their own unique specific requirement but we work with all of them and so itâs very important to continue to support and clearly to optimize. So weâre engaging with all of them and them also same thing with IT ecosystem. Itâs very important that kind of big collaboration that you know they support our customer, time to market and winning in the marketplace. 
+Geoffrey G. Ribar
+
+And Monika thatâs one reason why the IP business is so exciting for us.
+Monika Garg - Pacific Crest Securities, Inc.
+
+So then just a last one from me. You have talked about in the past that you are able to pass on some price increase to customers especially given the very high R&D expense of EDA right, I mean you almost see that like 40%-50% of the code going from one generation to another generation. Could you maybe talk about, do you think going forward that opportunity is there and how the EDA industry can be paid better given the R&D which you have to put to support your customers?
+Lip-Bu Tan
+
+Yeah, thatâs a very good question and we clearly believe that EDA industry provides tremendous value to our customer, especially in the mass cost, the design tip out is getting more and more expensive when you move up the geometry and clearly a deep relationship with our customer and then provide value they need to build their products in a timely fashion and a scalable fashion is critical and thatâs why you noticed some of our new products, we emphasized not just high performance multiple time performance and also scalability, can scale to multiple hundreds of cores is critical and then time to market we have to go to second and third span it costs you a lot of money. 
+And thatâs where I think the relationship between the customer and the EDA vendor become very critical in terms of collaboration and then trusted partnership become critical and last five years we have gradually earning the trust from our customer to provide and deliver the scalable products to them.
+Monika Garg - Pacific Crest Securities, Inc.
+Thank you. Thatâs all from me.
+Lip-Bu Tan
+
+Thank you.
+Operator
+
+(Operator Instructions) Our next question comes from the line of Tom Diffely with D.A. Davidson.
+Thomas Diffely - D.A. Davidson & Co.
+
+Yeah, good afternoon. I guess one more question here, first on the Palladium. You talked about 14 wins, new customers during the year. I was curious are those competitive wins? Were you displacing another vendor or are those new customers to the industry that are just adopting emulation for the first time?
+Lip-Bu Tan
+
+Yeah I think you know first of all we are happy with that 14 new customers and as you can tell in every product we definitely are competing and then win based on performance and also the support of the customer.
+And secondly clearly is must have for advance node complex design faster to find the bugs, so that you can fix it, time to market is critical so itâs very good in terms of market growth and the customer needs that. And we just want to support them in the most efficient way and scalable way to support them and so that they can be winning and find the bugs earlier so that they can get to market quicker. So itâs a must have, itâs a nice market and itâs a growing market and we love it.
+Thomas Diffely - D.A. Davidson & Co.
+Okay. I wonder if you could just give us a little more on relationship right now between stimulation and emulation. You know is emulation taking some stimulation share or are they still independent? How do you view those two markets?
+Lip-Bu Tan
+
+Yeah so I think itâs a very good question. Clearly in the emulation side we are the market leader. In terms of the -- as I mentioned in my remarks clearly many of our customers are also using that and accepted that as a stimulation acceleration and in fact in 2013 we have doubled that, in term of the growth and so we're excited and but we're not sitting still. We are continuing to heavily investing to skill that more in the emulation acceleration and the prototyping.
+Thomas Diffely - D.A. Davidson & Co.
+Okay. Whatâs your view of the marketplace for stimulation is that positive growth market in 2013 as well?
+Geoffrey G. Ribar
+Absolutely.
+Thomas Diffely - D.A. Davidson & Co.
+Okay. And then Geoff can you talk about how your business is becoming a little bit more volatile on a quarterly basis based on the hardware side. I am wondering if you have an early view of what do you think the linearity in 2014 looks like, is there any abnormalities coming up? 
+Geoffrey G. Ribar
+Again I donât want to overstate this but we did want to let people know that there may be volatility from quarter-to-quarter in revenue and that's kind of where we see it. We're not going to give specifics obviously. 
+Thomas Diffely - D.A. Davidson & Co.
+Okay. So there is no like the order book of a big slug or trough coming that we should try to model in early on?
+Geoffrey G. Ribar
+Yeah, we gave guidance for the year in Q1 and that I think you can figure out kind of how you need it model it from there.
+Thomas Diffely - D.A. Davidson & Co.
+All right and then you gave us a nice detail on the cash and cash usage. I am curious so on a go forward basis when the cash flow comes in what is relative mixture of U.S. or onshore versus offshore of theâ¦
+Geoffrey G. Ribar
+So onshore and offshore is approximately 50-50. It obviously varies from period to period but it's approximately 50-50.
+Thomas Diffely - D.A. Davidson & Co.
+Okay.
+Geoffrey G. Ribar
+Very similar to our revenue split as you would expect.
+Thomas Diffely - D.A. Davidson & Co.
+Yeah, okay good. And then last thing, tax rate in 2014 what do you think the long-term rate will be in the years ahead?
+Geoffrey G. Ribar
+So when we guide the 26% non-GAAP tax rate that is kind of the long-term rate that we expect over time. Our cash tax rate had traditionally tended to be lower as we have tax attributes and NOLs to help offset some of that.
+Thomas Diffely - D.A. Davidson & Co.
+Okay. Good that's it. Thank you.
+Lip-Bu Tan
+Thank you.
+Operator
+Our next question comes from the line of Sterling Auty with JPMorgan.
+Unidentified Analyst 
+It's [inaudible] here for Sterling thanks for taking my questions. A few here if I may. First it sounds like the new version of Palladium XP is helping that business kind of turn in 2014. And so I guess the question is what were sort of the major changes with that latest version of the product to enable that turn? And then I guess do you foresee any other changes in 2014 that could potentially make that part of the business grow?
+Lip-Bu Tan
+Yeah Sterling let me start first. I think clearly our Palladium XP tool is the second emulation family and a significant improvement in term of capacity, performance and also the software improvement, and clearly improved a lot in terms of the productivity and customer love it. And so that's why you can see more than 50% of our orders in Q4 come from Palladium XP tool.
+So it's very well received and it's very scalable and we are going to continue in a very comprehensive game plan in terms of continue to improve and expand our capacity and growth. And then more important I think we mentioned earlier in the Q4 we have four out of five application process company are using that and also are increasing using from the system company that is very exciting for us and they see it tremendous beneficial for them in terms of building up the system up.
+And so I would see a growth in the system company.
+Unidentified Analyst
+That's helpful. And then secondly kind of along the lines of the emulation business, it sounds like the pricing there might be getting a bit more competitive. Can you just talk about how that impacts kind of overall gross margins in 2014 Geoff?
+Geoffrey G. Ribar
+Well obviously the biggest driver for gross margins is always going to be the hardware business. Of course there is a service business that also shows up but it's large way driven by the gross margin on the hardware business. And as I said earlier right we expect the gross margin to be a little bit challenged going forward again donât want to overstate it, it's a great business for us, and great margins but fourth year in the business there will be some impact.
+Unidentified Analyst
+Absolutely, right. And then one question on the revenue guide if you look at the booking side of 9% to 12% growth that builds in a nice finish to 2013, I think at 19% growth. And I think the revenue for the year, at least at the mid-point of the guide is about 7% growth and that's with less of headwind for emulation it sounds. Could you just maybe help us reconcile that a bit, is that just sort of the ratability or is there anything else to kind of consider in those moving parts? 
+Geoffrey G. Ribar
+Yeah. So obviously as you look at some of our newer businesses like the IP business and you look at some of the strength that Lip-Bu talked about with their innovative products, those are going to push you off in bookings and in the future show up in revenue I think more than anything else you are seeing that.
+Unidentified Analyst
+Okay, got it, that was it from me. Thanks very much.
+Operator
+And our final question will come from the line of Mahesh Sanganeria with RBC Capital Markets.
+Unidentified Analyst
+Thank you for taking my questions. I just have a quick question on the systems design enablement?
+Geoffrey G. Ribar
+Mahesh, can you speak up. We were having a hard time hearing you. 
+Unidentified Analyst
+Yes, hello, can you hear me better. 
+Geoffrey G. Ribar
+Better, thanks.
+Unidentified Analyst
+Hi, this is Shawn for Mahesh.
+Geoffrey G. Ribar
+Hi, Shawn.
+Unidentified Analyst
+Just a quick question on the system design enablement business. It sounds like a very exciting opportunity for Cadence. I just wonder do you guys have any -- have done work around the market size and what's a sustainable growth rate you think in that market and how that does that compare to the traditional the core EDA market growth overall?
+Geoffrey G. Ribar
+Can I try to repeat it, just you -- again you Shawn, you are kind of hard to hear but we will make sure what you had asked. You asked about the systems design enablement and kind of what we see as the market opportunity?
+Unidentified Analyst
+Yes. And what's the sustainable growth rate for the market?
+Geoffrey G. Ribar
+And what's the growth rate of the market?
+Lip-Bu Tan
+Okay, so let me try to answer that and then earlier I mentioned about the discussion of the system design enablement and then how to get it from the end product and then the system view and also the suite of portfolio we have on packaging, system analysis, system IP to hardware. And then also I think I mentioned earlier the system company, the market we are addressing is much bigger. And then broadly talking about the whole system area is almost like $2.6 trillion. 
+And now area is starting to become an increasing part of our business. And I also mentioned earlier because of system companies, the new wave of system companies they are differentiating themselves by going vertically integration. So they come from all the way from Silicon to the SoC to the system level.
+And so in a way we are engaging heavily with them in terms of driving much of the silicon and also the IP requirement, the analysis of the board at system-level and also the software, the entire ecosystem requirement. And so is a whole suite of opportunity for us providing a solution to them.
+So clearly in terms of the market potential is much bigger. And then secondly clearly the system company, they are starting to grow rapidly in terms of beating the requirement from silicon up and then the SoC to the board, to the system and so all kinds of problem and challenges that they need help from us in terms of addressing each one of them, knowing the power, then the signal integrity and the entire board other than just silicon alone.
+And then also the system-level how do you address a requirement in the most power efficient way. And then those are the requirements and challenges they face and we can be a great partner for them to do that.
+Unidentified Analyst
+Thank you.
+Operator
+I'll now turn the call over to Cadence's President and CEO Lip-Bu Tan for closing remarks.
+Lip-Bu Tan
+So let me summarize the remarks for the -- first of all in closing. And I just want to mention that clearly this is a great year and Cadence continued to deliver great technology to our customers and our business results reflect this. While the macro environment remain uncertain and Cadence is well positioned to continue executing and supporting our customers by introducing great new products.
+Lastly I would like to recognize our hard-working employees for these results. And thank all of our shareholders, customers, and partners for their continuous support. Thank you everyone for joining us this afternoon.
+Operator
+Thank you for participating in today's Cadence Design Systems fourth quarter and fiscal year 2013 earnings conference call. This concludes today's call. You may now disconnect.

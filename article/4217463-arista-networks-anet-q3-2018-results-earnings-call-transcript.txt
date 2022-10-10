@@ -1,0 +1,395 @@
+Arista Networks, Inc. (NYSE:ANET) Q3 2018 Earnings Call November 1, 2018 4:30 PM ET
+Executives
+Charles Yager - Arista Networks, Inc.
+Jayshree Ullal - Arista Networks, Inc.
+Andy Bechtolsheim - Arista Networks, Inc.
+Ita M. Brennan - Arista Networks, Inc.
+Analysts
+Balaji Krishnamurthy - Goldman Sachs & Co. LLC
+Erik Suppiger - JMP Securities LLC
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Ittai Kidron - Oppenheimer & Co., Inc.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Jeffrey Thomas Kvaal - Nomura Instinet
+James E. Faucette - Morgan Stanley & Co. LLC
+Mitch Steves - RBC Capital Markets LLC
+Jason N. Ader - William Blair & Co. LLC
+Alex Kurtz - KeyBanc Capital Markets, Inc.
+Aaron Rakers - Wells Fargo Securities LLC
+Samik X. Chatterjee - JPMorgan Securities LLC
+Fahad Najam - Cowen & Co. LLC
+Simon M. Leopold - Raymond James & Associates, Inc.
+James E. Fish - Piper Jaffray & Co.
+Jim Suva - Citigroup Global Markets, Inc.
+Alex Henderson - Needham & Co. LLC
+Hendi Susanto - Gabelli & Company, Inc.
+Woo Jin Ho - Bloomberg LP (Research)
+Operator
+Welcome to the Third Quarter 2018 Arista Networks Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section of the Arista website following this call.
+I will now turn the call over to Mr. Charles Yager, Director of Product and Investor Advocacy. Sir, you may begin.
+Charles Yager - Arista Networks, Inc.
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks' President and Chief Executive Officer; Ita Brennan, Arista's Chief Financial Officer; and Andy Bechtolsheim, Arista's Chairman and Chief Development Officer.
+This afternoon, Arista Networks issued a press release announcing the results for its fiscal third quarter 2018. If you would like a copy of the release, you can access it online at the company's website.
+During the course of this conference call, Arista Networks management will make forward-looking statements, including those relating to our financial outlook for the fourth quarter of the 2018 fiscal year, industry innovations, our market opportunity, the benefits of recent acquisitions and the impact of litigation, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K, and which would cause actual results to differ materially from those anticipated by these statements.
+These forward-looking statements apply as of today and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. Also please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that, I will turn the call over to Jayshree.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Charles. Thank you everyone for joining us this afternoon for our third quarter of 2018 earnings call. I am pleased to report that we had a record Q3, once again surpassing the consensus estimates. We exceeded our guidance comfortably with a non-GAAP revenue of $563.3 million, as we grew 28.7% year-over-year, despite tough comparisons from Q3 2017. Our non-GAAP earnings per share was $2.11, with services contribution at 13.8% of overall sales.
+From a geographic perspective, our customers in the Americas contributed 72% of total revenue, while the rest of our international theaters performed quite well. We delivered non-GAAP gross margins of 64.6%, exceeding our forecast due to product mix.
+Our top 10 customers included all five verticals. Cloud Titans contributed extremely well in Q3 and ranked as our number one vertical, followed by cloud specialized providers and enterprises tied at the number two spot; and financials and service providers tied at third place. Our new customer acquisition and million-dollar customers continues to be solid as well. And the adoption of CloudVision and FlexRoute software exceeds our expectations.
+We closed our first two acquisitions in Q3, both Mojo Networks for Cognitive WiFi and Metamako for low latency based in Sydney, Australia. The acquisition of Metamako plays a defining role in deepening Arista's heritage with next-generation low latency platforms. Metamako's ultra-low latency focus based on unique FPGA designs delivers 5 to 50 nanoseconds with a predictable 70 picosecond timestamping accuracy.
+Last month, Arista introduced the new 400-gigabit fixed switches the 7060X4 Series. This is based on the new Broadcom merchant silicon Tomahawk 3 with significant routing and buffering improvements. It includes 12.8 terabytes capacity in a single RU form factor with superior price performance, power efficiency, density and buffer memory, all supported with our proven single image EOS.
+EOS also brings differentiated traffic management, load-balancing and resilience, and it eases the qualification of our customers in cloud scale networks. We expect early customer trials to begin this quarter in Q4 and mainstream production in 2019.
+I would like to take this opportunity to invite Andy, our Chairman and Chief Development Officer, to elaborate more on the details. Andy?
+Andy Bechtolsheim - Arista Networks, Inc.
+Thanks, Jayshree. 400-gig Ethernet is the next step in the evolution of Ethernet, delivering four times better scalability and density and up to two times the price performance and power efficiency of our existing 100-gig Ethernet products. One of the great things about 400-gig E is that it really showcases our ability to rapidly bring new switch silicon to market that is fully supported by our market-leading EOS network operating system. This means that customers can deploy the latest Arista 400-gig Ethernet switches in their production networks with confidence.
+Going forward, we expect rapid evolution of new merchant silicon for 400-gig. Our ability to quickly release new switches based on the latest merchant silicon with fully supported EOS software is a key competitive advantage with short merchant switch silicon lifecycles.
+While we are very excited about the 400-gig growth opportunity, we do expect to see a lot of 400-gig qualification activity in the first half of 2019, with initial 400-gig production deployments in the second half. The 400-gig ramp in 2019 is also constrained by the volume availability of 400-gig optics, which so far are only available in prototype quantities.
+Please keep in mind that customers are not waiting for 400-gig to build out their networks. We are still in the midst of a major network upgrade cycle to 100-gigabit Ethernet, which is expected to continue to ramp strongly next year, with industry analysts expecting shipments of more than 16 million 100-gig ports in 2019, compared to less than 1 million 400-gig reports. So, clearly, it will take some time for 400-gig to ramp up.
+In summary, we at Arista are very excited about the benefits 400-gig offers to our customers and we expect to take a leading role in the rollout of 400-gig Ethernet in 2019 and beyond.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Andy. I really appreciate your tenacity in driving optics and 400-gig. And I think you do that not only for Arista, but the entire industry. What is clear to us is that we are in the midst of a multi-year cycle for high-performance cloud networking for both 100-gig and emerging 400-gigabit Ethernet spines.
+And so, as I reflect upon our 2018 strategy, we are executing well across many fronts, including innovative platforms, the migration from securities being a silo to a holistic segmentation, our partnerships with VMware in micro-segmentation and a multi-cloud zone segmentation support for Zscaler, Amazon AWS, Google, GCP and Microsoft Azure.
+We're also coping well with the 10% tariffs effected by USTR on September 24, 2018 now affecting our networking products. With judicious planning by our manufacturing teams, we are reducing our dependency on China-sourced components gradually and increasing our manufacturing capacity outside China next year. Meanwhile, we have implemented a short-term tariff fee of 3.3% as we are absorbing some of the incurred costs with the expectation that we can mitigate them in the future.
+It has been 10 years since Arista started shipping products. And as I reflect over the past decade, I am very proud of Arista's leadership, our board, our employees, plus our teamwork and execution from startup phase in 2008 to the prestige of becoming an S&P 500 company this year. I don't think any of us could have accurately predicted the pace and magnitude of Arista's results.
+In Q3 2018, we exceeded a cumulative of 20 million cloud networking ports. To give you a perspective on this exponential traction, it took us five years to obtain our first 1 million ports or 5%, which means we shipped 95% in the next five years between 2013 and 2018, which I think is quite a ramp indeed.
+In particular, our cloud customers have transformed the face of networking forever by mandating Arista as the gold standard in technology, quality and support. We continue to experience momentum not only in this vital sector, but the propagation of these cloud principles to next-generation data centers, LAN, WAN, campus enterprises and service providers with NFV, peering and routing attributes, turning legacy PINs into places in the cloud, or PICs as we call it.
+Now, with that, I'd like to turn it over to Ita, our CFO, for greater details on Q3 2018. Ita?
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Jayshree, and good afternoon. This analysis of our Q3 results and our guidance for Q4 2018 is based on non-GAAP and excludes all non-cash stock-based compensation impacts, acquisition-related charges and certain lawsuit-related costs. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total revenue in Q3 was $563.3 million, up 29% year-over-year and above our guidance of $540 million to $552 million. We were pleased with overall demand in the quarter with ongoing strength across the business. Service revenues for the quarter were approximately 13.8% of revenue, down from 14.4% last quarter, which had included an unusually high level of renewal activity.
+International revenues for the quarter came in at $157 million or 28% of total revenue, up slightly from the prior period, reflecting strength in our in-region international businesses. Our international base is still relatively small and will experience some volatility on a quarterly basis as the business develops.
+Overall gross margin in Q3 was 64.6%, up from 64.5% last quarter and above the midpoint of our guidance of 63% to 65%. This outperformance versus guidance primarily reflected a slightly higher revenue mix from our non-cloud customers.
+Operating expenses for the quarter were $155.1 million, up from $143.9 million last quarter. R&D spending came in at $105.6 million or 18.7% of revenue, up from $92.3 million in the prior period, reflecting incremental head count and higher prototype and NRE spending in support of new products.
+Sales and marketing expense was $41 million or 7.3% of revenue, up from $39.9 million last quarter due to increased head count. Our G&A costs were 1.7% of revenue and excluded some acquisition-related legal and accounting fees, as described below.
+Our operating income for the quarter was $209 million or 37.1% of revenue. Other income and expense for the quarter was a favorable $8.6 million and our effective tax rate, 21.3%. This resulted in net income for the quarter of $171.3 million or 30.4% of revenue. Our diluted share number for the quarter was 81 million shares, resulting in a diluted earnings per share number of $2.11, up 30% from the prior year.
+We completed purchase accounting for the Mojo and Metamako acquisitions in the period with immaterial amounts of revenue and expense included in our non-GAAP results for the third quarter. For those of you who focus on our GAAP results, we recorded $3.4 million of acquisition-related expenses and $5.9 million of acquisition-related tax charge in the period, which we consider to be one-time in nature and which together with $1.6 million of amortization of acquired intangibles have been excluded from our non-GAAP results.
+Now turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at approximately $1.7 billion, down from $1.9 billion last quarter. As a reminder, although the $405 million charge related to the settlement of our lawsuit with Cisco was reported as a non-GAAP expense in Q2 2018, the cash payment for this amount did not occur until the third quarter.
+Excluding the Cisco payment, we generated $286 million of cash from operations in the period, reflecting strong net income performance and improved working capital metrics. DSOs came in at 53 days, up from 46 days in Q2, reflecting the timing of billings and collections in the quarter.
+Inventory turns were 3.2 times, up from 2.7 times in Q2. Inventory decreased to $216.3 million in the quarter, down from $245.4 million in the prior period. This reflects reductions primarily in raw materials buffers as we continue to optimize our supply chain. In addition, we maintained a further $19.3 million of inventory deposits recorded in other assets, compared to $25.3 million last quarter.
+Our total deferred revenue balance was $529.9 million, up from $448.6 million in Q2. Product deferred revenue increased by approximately $38 million in the quarter, largely related to customer certification of features reintroduced into the product following the expiration and invalidation of certain lawsuit-related patents.
+Accounts payable days were 39 days, up from 26 days in Q2, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $4.5 million.
+And now turning to guidance. As we look to the fourth quarter and beyond, we believe that we remain well positioned with our key cloud customers and continue to grow our presence across our other verticals. The midpoint of our revenue guidance in the fourth quarter of $582 million to $594 million results in revenue growth for the full-year 2018 of approximately 30%.
+Turning to gross margin and the impact of the recent tariff announcements. The operations team is working diligently to optimize our supply chain and mitigate the incremental costs for both Arista and our customers. We expect these supply chain modifications to take effect throughout 2019 as we ramp new sources of supply.
+In the interim, we've introduced a tariff adder, whereby we will pass a portion of these costs to our customers pending completion of the (15:12). We expect the impact on gross margins in the fourth quarter 2018 to be somewhat muted as we ship backlog and assume pre-tariff finished goods and component inventories. Based on everything that we know now, we would reiterate our typical gross margin range of 63% to 65%, knowing that tariff impacts, et cetera, will limit our ability to outperform the 64% midpoint of this range.
+With this in the backdrop, our guidance for the fourth quarter, which is based on non-GAAP and excludes any non-cash stock-based compensation impacts, amortization of acquisition-related intangibles and certain lawsuit-related costs, is as follows: revenues of approximately $582 million to $594 million; gross margin of approximately 63% to 65%; operating margin of approximately 35%. Our effective tax rate is expected to be approximately 21.5% with diluted shares of approximately 81.3 million shares.
+I will now turn the call back to Charles. Charles?
+Charles Yager - Arista Networks, Inc.
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. Due to time constraints, I'd like to request that everyone please limit themselves to a single question.
+Question-and-Answer Session
+Operator
+Your first question comes from Rod Hall with Goldman Sachs. Your line is open.
+Balaji Krishnamurthy - Goldman Sachs & Co. LLC
+Hi. This is Balaji on for Rod Hall. I had a question on the competitive landscape as we move into the 400G deployments. And maybe if you could describe how you would characterize the changes? Clearly, Cisco's keeping up with you guys at this point or at least it looks like they are keeping up. And they've also had a lot of engineering engagement. So is there any difference there? And maybe also just commentary on the optics supply shortages that you said, is there any difference between OSFP and QSFP-DD?
+Jayshree Ullal - Arista Networks, Inc.
+I'll kick it off, Balaji, and then I'll hand it to, of course, Andy, who is much more deeply entrenched in this. We haven't seen any significant change in competitive landscape. As the market leader in 100-gig Ethernet, I think everybody's declared their products and introductions just as they did in 100-gig. Time will tell what the real capabilities of these products are and how we match. But we're very confident of our outstanding capabilities and differentiators.
+Particularly, and don't underestimate the importance of combining the right silicon with the right operating system and differentiated features. Inconsistent drivers and discontinuity of OS can be extremely cumbersome for customers. So, ease of qual (18:05) is very important as well. We also firmly believe that internally-developed ASICs are not keeping up with merchant silicon and are often not competitive in the 400-gig market.
+Andy, you want to add to that?
+Andy Bechtolsheim - Arista Networks, Inc.
+Yeah. The other thing is the demand for 400-gig clearly comes primarily from the cloud where we have a strong footprint and there's virtually no demand from legacy enterprise for 400-gig. Cloud customers in particular have little time for experimenting with new software platforms and greatly prefer to go with trusted solutions.
+Balaji Krishnamurthy - Goldman Sachs & Co. LLC
+And what about the optics, Andy?
+Andy Bechtolsheim - Arista Networks, Inc.
+Oh. The optics are not yet in volume production and it remains to be seen how quickly they ramp up here. You realize there's a ramp-up cycle for the whole supply chain, the optics vendors have to order the parts, they have to make the models and so on, they are waiting for purchase orders. So our current belief is that the supply will only reach what you would consider volume in the second half of next year.
+Jayshree Ullal - Arista Networks, Inc.
+And we are very Switzerland and neutral. Andy and the team are supporting both OSFP and DD-QSFP. So, both have advantages depending on where you're starting from. So, Arista will support both.
+Balaji Krishnamurthy - Goldman Sachs & Co. LLC
+Thanks.
+Operator
+Your next question comes from Erik Suppiger with JMP Securities. Your line is open.
+Erik Suppiger - JMP Securities LLC
+Yeah. Thanks for taking the question. Two points. One, just on the last one, is your impression that your competitor for the 400-gig is using internally-developed silicon or is it based on Broadcom as well? And then, secondly, on the tariff front, I just want to be clear, you're adding on a 3% charge for your U.S. customers, is that how you're approaching the tariff impact?
+Jayshree Ullal - Arista Networks, Inc.
+Okay. So, let me try and take on both questions and I'll hand it to Ita for further clarification if needed. On the competitive front, obviously, we're not the experts on implementation. But to the best of our understanding, the announcement was only made yesterday. Some of the models use internal silicon and some of them use non-Broadcom merchant silicon. So they are not really a direct comparison to Arista's introductions.
+And on the tariff side, yes, we're applying a universal 3.3% adder worldwide because a lot of our components are affected worldwide as well as our PCBs. So it's not just U.S.
+Erik Suppiger - JMP Securities LLC
+Very good. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Erik.
+Operator
+Your next question comes from Srini Pajjuri with Macquarie Securities. Your line is open.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Thank you. Jayshree, obviously, you said before many times that the cloud CapEx, the correlation between your business and the overall CapEx is not very high. But there are definitely a lot of concerns in the investor community about CapEx slowing down over the next few quarters.
+I just want to hear your thoughts about what you're seeing out there in the market. What are your customers telling you about next year, if anything? And given where we are in terms of how high the CapEx is, if it were to slowdown, what kind of impact do you think you'll see in your business?
+Jayshree Ullal - Arista Networks, Inc.
+Sure. It's a good question, Srini, even though it gets asked many times. It still remains one of the most popularly asked questions. As you know, our cloud customers have been adopting Arista unabated for over five years. It's not a one-quarter phenomena. It's a 25-quarter phenomena.
+We don't see any near-term signs of that changing nor the predicted concerns. It is true that we don't track one-to-one with their cloud CapEx. And remember now that despite the lumpiness of the Cloud Titans, and we have many of them, we are comfortable with the continued spend because there are multiple use cases. And we expect this to continue this quarter and early 2019, given our typical two-quarter visibility.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Srini.
+Operator
+Your next question comes from Ittai Kidron with Oppenheimer. Your line is open.
+Ittai Kidron - Oppenheimer & Co., Inc.
+Thanks. And congrats, ladies and Andy, on a good quarter. I had two small ones. First of all, you haven't talked about campus, that little product thing that (22:29) in the quarter. So, maybe you can help us talk about business activity there, volume, trial activity, pipeline, how does that look?
+And then just clarification, Ita, on the tariff again. I just want to make sure, if you didn't put on the adder, would your revenue guidance be 3% lower than what it is? I mean, I'm just trying to understand whether the guidance really captures an extra 3% just from a tariff perspective? Thanks.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean I think in Q4 in particular, we have got backlog that was booked prior to the tariff, but I don't really think we can just aggregate and start trying to carve out that 3%. And as we go forward, obviously the goal is to remediate the cost as much as possible and start to kind of normalize that for us and for customers over time. So I wouldn't try to say it's somehow an adder to the top line.
+Jayshree Ullal - Arista Networks, Inc.
+It's more an offset to â otherwise we take a bigger hit in margin. So we're absorbing some of the costs and passing on some is the way to look at it, Ittai.
+So, Ittai, to address your campus question, as we've often said, lot of excitement on the architecture, a lot of excitement on the acquisition of Mojo, not material in revenue this year or the first half of 2019 has been our consistent statement, and that is true.
+Having said that, since our last update, we have introduced the X3 Spline as we call it. This is used both in campus use cases and in data center cases, comes in a modular and fixed form factor, and that has been very well received and is in early trials in the campus. Customers are excited about that.
+Ittai Kidron - Oppenheimer & Co., Inc.
+Very good. Good luck.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Ittai.
+Operator
+Your next question comes from Sami Badri with Credit Suisse. Your line is open.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Hi. Thank you. Could you tell us what drove the strength in deferred revenue, just any color on the material step-up?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean, I think the biggest driver relates to â as we came out of the lawsuit, we had actually invalidated some patents and we'd had some patents expire. And that gave us access to some technology that we had redesigned out of the product previously. And now we've obviously put that back into the product because we have access to that technology. And for some customers, there's a need to re-qualify that new design, that new product, and we're engaged in doing that currently.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Got it. Thank you. And then, just a follow-up is regarding tariffs and your campus switching rollout. Have you heard from customers opting into the Arista Networks switches on mainly the campus switching side, simply because pricing is more favorable to adopt it rather than some of the competing products that might be seeing a higher tariff rate? Could we get any kind of color around that and customer behavior?
+Jayshree Ullal - Arista Networks, Inc.
+I mean, I think the general answer is no, that the tariff is not a reason to choose or not choose Arista products. And in particular on the campus, majority of our business, almost all, is data center. So there's no correlation to be made on data center products or campus products to the tariffs, Sam.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Got it. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Operator
+Your next question comes from Jeff Kvaal with Nomura Instinet. Your line is open.
+Jeffrey Thomas Kvaal - Nomura Instinet
+Yeah. So, a question and a clarification for me, please. Andy, I'm wondering if you wouldn't mind comparing and contrasting what we ought to expect out of this 400-gig upgrade cycle versus 2017's 100-gig? Is it as powerful? Do you expect to gain as much share? Any thoughts along those lines would be helpful.
+And then, Ita, I guess I wasn't quite clear as it sounded as though the Cloud Titan mix was better in Jayshree's initial remarks, but then it sounded like the mix was away from Cloud Titan in your gross margin explanation. So, if you could clarify that for me, I'd be grateful.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. Let me just pick that one up first. I mean, it was very slightly mixed towards the non-cloud. And if you saw the gross margin, it was like 10 basis points. So it wasn't a big shift one way or the other.
+Andy Bechtolsheim - Arista Networks, Inc.
+Okay. And then on your question on the 400-gig expectations, I would like to refer you to the market analysts like Dell'Oro and others that have modeled and predicted this in fair detail. One thing I can mention here is that the crossover in bandwidth shift between 400-gig and the 100-gig is currently projected to be in 2021. So it will take some time for 400-gig to come up to the same level of bandwidth as the 100-gig.
+100-gig, if you look at these reports, is ramping extremely strongly based on the fact that it's fully available, fully qualified for optics (27:24) volumes, et cetera. So, a large cloud company or a customer that wants to deploy a new data center really has no choice. They will deploy this as 100-gig today because that's the only way they can buy hundred thousands of optics and so on each quarter. Whereas on the 400-gig side, it will take some time to get to those kind of volumes.
+In addition, I would like to observe that for brownfield data centers, meaning if you upgrade an existing data centers, it's easy to stay with the same speed throughout the data center. So, most likely those data centers will stay with 100-gig for some time. For a greenfield data center, you have a choice. You can start with 400-gig but, again, only when those components are available in sufficient volume.
+Jeffrey Thomas Kvaal - Nomura Instinet
+Okay. Thank you, all.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Jeff.
+Operator
+Your next question comes from James Faucette with Morgan Stanley. Your line is open.
+James E. Faucette - Morgan Stanley & Co. LLC
+Hi. Thanks. I just wanted to ask one clarifying question to build on Ittai's question for Ita, is that in the formulation of guidance for the December quarter, how much is contemplated to contribute from the acquisitions that closed in the third quarter?
+And then, taking advantage of Andy being here on the call today, Andy, can you talk a little bit about the number of hyperscale customers or what you consider to be hyperscale customers that Arista has and how that's changing? And I guess, more importantly, how are the requirements changing for the newer customers in terms of what they're looking for from Arista? And how is that the same or different from your traditional customers? Thanks.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. So, James, I think on the acquisitions, again I'd remind you that Mojo is a SaaS model. So, that's going to be a ratable rev rec model for us. So, that's a relatively small contribution.
+On the Metamako side, that's already being rolled into our kind of financials vertical. It's now becoming part of the offering there and it's definitely been impactful with customers and opportunities with customers. But we're not planning to really track that separately.
+And then I'll tell you that the combined impact on the quarter is small, right? You've got the Mojo stuff is a SaaS ratable revenue amount and then we have kind of single-digit coming out of the Metamako side of the house. So it's a small contribution at this point.
+Andy Bechtolsheim - Arista Networks, Inc.
+Yeah. On the cloud customer question, we cannot disclose the name of our cloud customers. But I think we have said repeatedly that the competitive environment in this market hasn't really changed. Obviously, every cloud customer is extremely concerned about network reliability, resilience, up-time, et cetera. And my belief is that our fundamental competitive advantage is our EOS operating system which delivers those qualities.
+James E. Faucette - Morgan Stanley & Co. LLC
+Thanks.
+Operator
+Your next question comes from Mitch Steves with RBC Capital Markets. Your line is open.
+Mitch Steves - RBC Capital Markets LLC
+Hey, guys. Great quarter. I just had two actually small ones. So, first, just on the cloud enterprise financials. So, of those three, is it still the case that cloud is kind of the fastest-growing segment? And then enterprise, I'm not looking for exact growth rates, just kind of a trajectory. And then, secondly, how much was the acquisition actually benefiting you guys, is just a few million, just looking for a way to get a number around that.
+Jayshree Ullal - Arista Networks, Inc.
+Let me take the vertical question. There's no doubt that the cloud segment, both the Tier 1 and Tier 2 cloud, has been growing faster than any others, if you put those two together. However, the enterprise is the fastest because it's starting off a much smaller base and we're accumulating customers and million-dollar accounts very rapidly there and there's a lot of interest on both the data center side, where we're succeeding and installing, and the campus side, which we hope to convert into success next year.
+And your second question was?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean I think it was just â in Q3, the acquisitions contributed very little, right? The Metamako only came in kind of half...
+Jayshree Ullal - Arista Networks, Inc.
+Two weeks.
+Ita M. Brennan - Arista Networks, Inc.
+September.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah.
+Ita M. Brennan - Arista Networks, Inc.
+And again, the Mojo acquisition was probably â we probably got a whole month or a little bit more than that, but again it was a SaaS ratable model, right? So they contributed very little to Q3.
+Mitch Steves - RBC Capital Markets LLC
+Got you. So I guess, just to clarify real quick, getting less than 1 point for next quarter, is that roughly correct?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. Again, like I said, we're not really going to start tracking this individually, particularly as we roll the products in to the portfolio. I think for Q4 what I said was low-single-digit contribution.
+Jayshree Ullal - Arista Networks, Inc.
+And perhaps it will help to Mitch, if you look at both of these as tuck-in acquisitions, one's going to help our campus overall and one is already helping our financials since we're in high-frequency trading and low-latency applications already.
+Mitch Steves - RBC Capital Markets LLC
+Okay. Perfect. That's very helpful. Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Mitch.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Mitch.
+Operator
+Your next question comes from Jason Ader with William Blair. Your line is open.
+Jason N. Ader - William Blair & Co. LLC
+Yeah. Thank you. I wanted to ask about the federal vertical. We had picked up that you guys are starting to gain some traction there. So can you talk about where you are with federal? What type of momentum that you're seeing? And where could this business be in a couple of years?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. No, I think Arista is becoming more and more committed to the federal market, not only in the U.S. but worldwide. We have completed a lot of important certifications. So we see this as a big opportunity and one we fully intend to invest in.
+Obviously, we'll be responsible about reporting wins and losses. Until something's public, we won't really comment on rumors or protests. So, can't say anything about specific wins and losses, but definitely an important segment for us worldwide. We're doing well in many parts and many international theaters as well.
+Jason N. Ader - William Blair & Co. LLC
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Jason.
+Operator
+Your next question comes from Alex Kurtz with KeyBanc Capital Markets. Your line is open.
+Alex Kurtz - KeyBanc Capital Markets, Inc.
+Yeah. Thanks and congrats on a solid quarter here, Jayshree and team. Just a clarification about the cloud business. I think historically you've talked about Microsoft kind of this 10% to 15% range. I think your expectation is that it's above 10% this year. Is that still how things are shaping up?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. Thanks, Alex. Although the Cloud Titans is a composition of many customers, Microsoft has always been our number one customer and I believe it'll continue to be our number one in a very solid fashion in 2018 and will be well over 10%.
+Alex Kurtz - KeyBanc Capital Markets, Inc.
+Okay. Great. Jayshree, could you take us through some of the early deals with the campus products? I know it's early days but just how are enterprise customers reaching you on these products and sort of deal size, scope of projects, compared to what you've done in enterprise before? Just kind of compare and contrast what you've seen so far.
+Jayshree Ullal - Arista Networks, Inc.
+Alex, it's probably a little early for the level of detail you are looking at. And I promise I'll answer that question next year better. And I've been personally involved in this. The pattern match I see is many of them have, like the data center, an architectural need to shift and change, where they've got the classic three-tiered model and they want to move to the leaf spine or often a single-tier Spline model and then have different device edge connectivity. So they're looking to make that change. And sometimes it's a brand new building they're going to construct next year or a year after or it's a brownfield.
+The second pattern I'm seeing is that they are already very comfortable with Arista's spines as Splines, and they're using our EOS. And they're going, oh, geez, I don't need to build a separate campus box. I can use the same spine or Spline and enable campus features on that box, whether it's BGP routing or VXLAN or tunneling or security features, so architecturally.
+And the third thing we're seeing is CloudVision for the campus is something they're very excited about. We demonstrated some of that capability at the Gartner Conference. John McCool and Jeff Raymond and the team have done a fantastic job there. And I think you will see these three being the anchors, the design is changing, the cognitive management plane architecture, and our data center customers really want to expand their footprint with us into the campus.
+Alex Kurtz - KeyBanc Capital Markets, Inc.
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Alex.
+Operator
+Your next question comes from Aaron Rakers with Wells Fargo. Your line is open.
+Aaron Rakers - Wells Fargo Securities LLC
+Yeah. Thanks for taking the question and congratulations on the quarter as well. I wanted to ask maybe a longer-term strategic question around the Metamako acquisition. I'm just curious, as you kind of fold that into the product portfolio, and clearly a little bit differentiated in its usage of FPGAs, how do you see FPGAs fitting relative to merchant silicon? And with that acquisition, is there a certain subset or addressable market that you can now address that previously you couldn't and what size would that be?
+Jayshree Ullal - Arista Networks, Inc.
+I think, Aaron, your question is very thought-provoking. As you know, Arista's core being is to adopt and massively deploy merchant silicon in our extensible software. But there are use cases that require deeper programmability. One example even before Metamako would be the P4 programmability we do on the Barefoot silicon. And the FPGA definitely allows us to go capture more state and improve our latency, and really get to the heart of the application in many of these customers and certain verticals for electronic trading.
+Andy, you may want to comment on this. I know you've been deeply involved.
+Andy Bechtolsheim - Arista Networks, Inc.
+Yeah, meaning, you can't beat the latency of an FPGA for those types of applications which include both Wall Street type applications and also very precise traffic monitoring and network visibility kind of applications. So it may not be the biggest market, but it's a very important one, it's a key market for many of our customers.
+Aaron Rakers - Wells Fargo Securities LLC
+And do you see this broadening across the product portfolio over time?
+Jayshree Ullal - Arista Networks, Inc.
+I think it would depend on how big the market gets. But I think at this point we'll keep it focused on the specific application-driven use cases.
+Aaron Rakers - Wells Fargo Securities LLC
+Okay. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Aaron.
+Operator
+Your next question comes from Samik Chatterjee with JPMorgan. Your line is open.
+Samik X. Chatterjee - JPMorgan Securities LLC
+Hi. Thanks for taking my question. I just wanted to understand related to 400-gig, you mentioned kind of the differentiation that you have related to some of your competitors like Cisco, et cetera.
+How should I think about how this plays into the competitive dynamics with white-box? Particularly, is the technology from those manufacturers keeping up or should I think of 400-gig being an opportunity for you to gain share?
+Jayshree Ullal - Arista Networks, Inc.
+Samik, I think the white-box is a bit of a tangential discussion on any speed. There's really two types of players who deploy white-box. One is a captive deployment in cloud customers that are looking to build their own and they're going to do the same thing, whether it's 10-gig, 40-gig, 100-gig or 400-gig.
+And the second is maybe experimental HPC clusters, et cetera, where people may try this. We don't see 400-gig and white-box really that connected. In fact, that is one place I would tell you that the requirement for predictable performance and not compromising speeds will require the best hardware and best software combination.
+So, that's not a combination that comes to mind as the first use case for 400-gig.
+Samik X. Chatterjee - JPMorgan Securities LLC
+Got it. Got it. And then just if I can follow-up on the...
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Samik.
+Charles Yager - Arista Networks, Inc.
+I'm sorry, Samik. We're just restricted to one question. Can we take the next one?
+Operator
+Your next question comes from Fahad Najam with Cowen and Company. Your line is open.
+Fahad Najam - Cowen & Co. LLC
+Thank you for taking my question. Can you remind us how your traction in the routing market is going and if you're hitting your target? I think, if I recall, you indicated that you expect at least to hit $50 million in annual revenue from routing. Are you still tracking to that target or are you exceeding that, any commentary on the routing adoption?
+Jayshree Ullal - Arista Networks, Inc.
+Sure. I will give you some year-end numbers. The way we track it, don't really do it by revenue, we do it by customers and FlexRoute licenses. We've got three routing licenses that we track on and we are doing well in the acceptance of that license, particularly in the cloud, service provider and enterprise markets. It's going well. But I would like it to go even better. Especially in the service provider market I think we can have more improved results.
+Fahad Najam - Cowen & Co. LLC
+So, any update in terms of do you think you're taking share in the routing market right now as is or is this still in cloud...
+Jayshree Ullal - Arista Networks, Inc.
+We do believe we are displacing designs. Taking share would mean we track that market. We don't participate in the classic traditional router market. But we're absolutely taking share and applying routing onto our switching platforms and increasing our switch market share in routing use cases.
+Fahad Najam - Cowen & Co. LLC
+Thank you very much.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Fahad.
+Operator
+Your next question comes from Simon Leopold with Raymond James. Your line is open.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Great. Thanks for taking my question. Appreciate the commentary, Andy, offered on the 400-gig market and the timing being biased towards the second half of the year.
+I'm wondering if you have your own perspective on how to size this particular market, partly because I'm confused. When I look at the quoted data from Dell'Oro versus the IHS, they seem to be a very broad range, as high as $1.5 billion (41:17) for 400-gig in 2019 seems hard to believe. So I was hoping to get your perspective on that and also some clarification on â you talked about the starting price at $1,800, that's a low price. Just want to understand what's the customer getting for that? Thank you.
+Andy Bechtolsheim - Arista Networks, Inc.
+Yeah. I believe that the lower numbers include optics connected to the port. So, when we talk about $1,800, that's purely the switch port excluding the optics.
+Jayshree Ullal - Arista Networks, Inc.
+Exactly.
+Andy Bechtolsheim - Arista Networks, Inc.
+That's a very important difference.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah.
+Andy Bechtolsheim - Arista Networks, Inc.
+The optics cost more than the switch port typically, in some cases significantly more. So there's a gap there, right?
+But going back to your question, I think the best thing you can do is read multiple market research reports. Some of them talk more to the cloud people in particular or more on top of the cloud developments than perhaps others. There's just a lot of momentum right now on 100-gigabit, which is also reflected in these reports. And the reality is the 400-gig can only be deployed once the optics and all the systems are available in high volume, because a volume deployment for a large cloud customer is like 100,000 ports a quarter, right? And you can't buy 100,000 optics right now a quarter. So it takes a while for the supply chain to simply catch up with those kind of numbers. And with 100-gig, all the optics and all the systems are available in high volume today and ramping.
+So it takes time. But both are growing and they are incremental to each other. I wouldn't say one is displacing the other one already.
+Jayshree Ullal - Arista Networks, Inc.
+I think it's a really important point that Andy made. If you go pattern-match with how we did on 100-gig, there's some striking parallels. We had some early trials in 2015, 2016. But it took 12 to 18 months for the market share lead we took and got, because the whole ecosystem had to come into play. Something similar happened with 25-gig as well.
+Until the entire ecosystem comes to place, which takes 6 to 12 months, you don't see that ramp. So I think all the market studies are pointing to that ramp in 2020 or 2021.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Thank you. That makes a ton of sense. Appreciate it.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Simon.
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Simon.
+Operator
+Your next question comes from James Fish with Piper Jaffray. Your line is open.
+James E. Fish - Piper Jaffray & Co.
+Hey. Congrats on the quarter, ladies and Andy. Ita, this one is more for you. It kind of looks like Q4 guide implies a low- to mid-single digit sequential increase for product revenue compared to typically a low-double-digit increase.
+Is there a reason for the caution or conservatism? Or is it more related to the tax impact there? And specifically as well, is there any concern around hyperscaler spending as you look into Q4 and 2019? Thanks.
+Ita M. Brennan - Arista Networks, Inc.
+No, I mean, I think if you look at the guidance, we are largely at the upper end of the guidance of the 27% year-over-year growth rate. I think that's in line with kind of what we had said is the expectations. And I don't think there's anything unusual about the guidance in that sense.
+I think we're comfortable where we are from a business perspective and that's pretty much in line actually with what we've laid out kind of right from the beginning, certainly from the middle of the year. So I don't think there's anything unusual about the guidance. It's not really trying to reflect any particular key driver.
+James E. Fish - Piper Jaffray & Co.
+And any of the clarity on the hyperscaler spending for Q4 and 2019?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean, I'd go back to what Jayshree said, I think for what we have visibility to, I think we're comfortable with where we are. We think we're well positioned and we'll see where we go from there. But we haven't seen anything different in the business in kind of that timeframe that we have visibility. It's kind of been business as usual.
+James E. Fish - Piper Jaffray & Co.
+Got it. Thanks.
+Ita M. Brennan - Arista Networks, Inc.
+Yes.
+Operator
+Your next question comes from James Suva with Citi. Your line is open.
+Jim Suva - Citigroup Global Markets, Inc.
+Thanks very much. When we think about your campus deployment, I know it will take a little bit of time to see how successful it is or not. Can you at least update us about are you first targeting like your top 20 accounts or your certain regions or are you going to all your sales force at once?
+And then maybe for Ita, a question about the tariffs is, I would have thought that the ITC ban would have positioned Arista quite favorably for the sourcing and supply chain of how you do things, is that correct? But still you just need the 3.3% tariff increase? Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. So, just, James, to address your campus question, the most natural conversation is with our customer base across all five verticals because they already know us and love us and are familiar with us and can see use cases.
+The next natural conversation is with the acquisition of Mojo, we're actually getting exposure to new customers. And some of the interest in WiFi is separate from our customer base. So, that's also a second motion.
+And from a sales and go-to-market, both Anshul and Manny are really focusing on campus as a mainstream effort. There's no sideshow going on here. And so we're building an entire sales expertise and especially SE expertise. So, where we are putting special emphasis is not all of our sales team understands WiFi and radio management. So we do have specialized SE expertise there. But the rest of the sales is across the entire sales and marketing focus, there's nothing unique to campus.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. And to your other question, Jim, I think we've certainly diversified our supply base and our outsourcing probably more than maybe we would have if we hadn't come through some of the ITC stuff. But there's still work to do. I mean, we were still sourcing in China. There are certain components that are still being sourced in China, et cetera. So we do have work to do to mitigate some of those costs. And that's obviously top of mind for John McCool and his team to get that done as quickly as possible.
+Jim Suva - Citigroup Global Markets, Inc.
+Thank you so much for the details and clarification. It's greatly appreciated.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Jim.
+Operator
+Your next question comes from Alex Henderson with Needham & Company. Your line is open.
+Alex Henderson - Needham & Co. LLC
+Thanks. I was hoping you could talk a little bit about the international portion of your business. Obviously, you have very tough comps here and tough comps for the next couple of quarters. But could you parse a little bit between the slowdown in that business, between economic conditions versus the comps, and just give us a little bit of color between Europe and APAC?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. No, you're absolutely right, Alex. I think tough comps is the issue. We did very well organically in our overall geography. However, some of the volatility was defined by where the global customers and their spend resided. So, Asia-Pac was strong, EMEA was a little weak, but U.S. was strong across the board. So, it just turned out that way depending on where the Cloud Titans and the top 10 providers spend. But the organic business is still intact and doing well.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. And I think you've seen when we filed the Q, but we do have some volatility back and forth between EMEA and APAC over the last couple of quarters, right, because again the base is still relatively small. So, when you win a sizable deal or a couple of sizable deals, then one or the other is going to (48:50).
+Alex Henderson - Needham & Co. LLC
+If I could just add ask one clarification. Jayshree, did you guys say low-single-digit millions or low-single-digit percentage in terms of the contribution from acquisitions? It wasn't clear which one you were referring to?
+Ita M. Brennan - Arista Networks, Inc.
+Million.
+Jayshree Ullal - Arista Networks, Inc.
+Millions, Alex.
+Ita M. Brennan - Arista Networks, Inc.
+It's still relatively small.
+Jayshree Ullal - Arista Networks, Inc.
+Single-digit million.
+Alex Henderson - Needham & Co. LLC
+Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Yes.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Alex.
+Operator
+Your next question comes from Hendi Susanto with Gabelli. Your line is open.
+Hendi Susanto - Gabelli & Company, Inc.
+Thank you and great Q3 performance.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Hendi.
+Hendi Susanto - Gabelli & Company, Inc.
+So, Jayshree, Arista defined cognitive campus as the next frontier. I would like to understand more about your go-to-market strategy, how similar, how different it is with your core go-to-market and whether you will have some closest partners?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. No, that's a very good question, Hendi. Obviously, the low-hanging easiest go-to-market is the one we already have. And we've now got a nice healthy base of over 5,000 customers. We're going to leverage that. However, that will be a necessary but not sufficient condition to participate in the campus. We are expanding. And one of Manny's initiatives is, in fact, to complement our direct customer focus with an elite channel strategy focus. We're not going to pepper all the channels, but we've already had some channel capability and experience in our international theaters, but we will be adding more to that. So the combination of our own sales and marketing investment in the campus and the channels will be a very important one to step in 2019.
+Hendi Susanto - Gabelli & Company, Inc.
+Thank you, Jayshree, and great job.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Andy.
+Operator
+Your last question comes from Woo Jin Ho with Bloomberg Intelligence. Your line is open.
+Woo Jin Ho - Bloomberg LP (Research)
+Oh, hey. Great. Thanks for squeezing me in. A couple if I may. So, Jayshree, when you came out with the 100-gig switch, you guys innovated on the network architectures of the cloud. Are there any considerations similar to that with 400-gig switching?
+And then, Ita, in terms of the deferred revenue uptick, how much of that was the IT related that needs to be Q-ed? And how should we think about the deferred revenue drawdown hitting the P&L over the next couple of quarters?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean, I think again the product growth is really related to the requalification. As to when exactly that comes back, it's difficult to tell. And again, that balance will move with new stuff versus old stuff, et cetera. So, I'm not trying to forecast that, if you'd like, as part of this. I will say we're not contemplating a significant downward move in that in our Q4 guide, right? But other than that, I think it's too early to try and forecast it beyond that.
+Jayshree Ullal - Arista Networks, Inc.
+And Woo Jin, just to wrap up the last question of the Q3. If you look at the way we approached 100-gig, we approached it from a network design perspective, heavy software differentiation, bringing high availability, agility on automation, analytics into our 100-gig platforms, mix and match of both modular chassis and fixed form factor. You can expect us to adopt a similar strategy for 400-gig over the next year.
+Woo Jin Ho - Bloomberg LP (Research)
+Great. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Charles Yager - Arista Networks, Inc.
+This concludes the Arista Q3 2018 earnings call. I want to mention that we also have posted a presentation which provides additional information on our fiscal results, which you can access on the Investor section our website.
+Operator
+Thank you for joining, ladies and gentlemen. This concludes today's call. You may now disconnect.

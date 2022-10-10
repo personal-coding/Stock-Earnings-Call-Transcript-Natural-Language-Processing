@@ -1,0 +1,249 @@
+SanDisk Corporation (SNDK) Q2 2015 Earnings Conference Call July 22, 2015 5:00 PM ET
+Executives
+Jay Iyer - IR
+Sanjay Mehrotra - President and CEO
+Judy Bruner - EVP of Administration and CFO
+Analysts
+John Pitzer - Credit Suisse
+Srini Sundar - Hambrecht & Summit
+Timothy Arcuri - Cowen and Company
+Mark Delaney - Goldman Sachs
+Monika Garg - Pacific Crest Securities
+Mehdi Hosseini - SIG
+Mark Newman - Bernstein
+Joe Moore - Morgan Stanley
+Craig Ellis - B Riley
+Operator
+Good day and welcome to the SanDisk Corporation's Second Quarter 2015 Financial Results Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Mr. Jay Iyer, please go ahead sir.
+Jay Iyer
+Thank you, Shaneal and good afternoon everyone. With me on the call today are Sanjay Mehrotra, President and CEO and Judy Bruner, Executive Vice President of Administration and CFO. In a moment, we will hear remarks from both of them followed by Q&A.
+Before we begin, please note that any non-GAAP financial measures discussed during this call, as defined by the SEC in Regulation G, will be reconciled to the most directly comparable GAAP financial measure. The reconciliation of our financial results is available in the press release issued this afternoon. A presentation containing supplemental information and non-GAAP to GAAP reconciliation tables, including for all applicable guidance, will be posted on our investor relations website at www.sandisk.com/IR after the prepared remarks. This guidance is exclusive of any one-time transactions and does not reflect the effect of any acquisitions, divestitures or similar transactions that may be completed after July 22, 2015.
+During our call today, we will make forward-looking statements that refer to expectations, projections, beliefs and other future events. Please refer to todayâs press release, the presentation that will be posted on our investor relations website and our SEC filings, including the most recent 10-Q, for more information on the risk factors that could cause actual results to differ materially from those expressed in these forward-looking statements. SanDisk assumes no obligation to update these forward-looking statements, which speak as of today.
+With that, I will turn the call over to Sanjay.
+Sanjay Mehrotra
+Thank you Jay and good afternoon everyone. Our second quarter results benefited from more favorable performance than expected in enterprise and retail. We are also making good progress in strengthening our product roadmap and customer engagements. For the second half of 2015, we expect the industry environment to remain stable and look forward to delivering sequential revenue and profit growth as we continue to make progress in enhancing our execution.
+In our April conference call, we discussed the pending re-qualification of a new embedded component for a customerâs use in their client SSD application. We have completed the SanDisk internal validation of this new product and the qualification work on the customer side is progressing well. We expect to complete the full customer re-qualification process in the third quarter and begin revenue shipments soon thereafter.
+In enterprise SSDs, our Fusion-io revenue grew sequentially in Q2. We also announced our next generation Fusion ioMemory PCIe application accelerators based on our 1Y NAND technology, enabling a significantly lower price point for our customers. We believe that the more competitive pricing enabled by our captive memory-based PCIe products will open up new workloads for this product category. We are currently shipping these captive NAND based PCIe solutions through distribution channels and customer qualifications at several OEMs are expected to be completed in the second half of this year.
+Another factor that we believe will stimulate the future expansion of the enterprise PCIe market is the expected broadening deployment of NVMe infrastructure and availability of NVMe PCIe solutions in 2016 and 2017. In addition, PCIe flash solutions offer higher performance than SATA SSDs, due to the lower latency and higher bandwidth of PCIe. We plan to begin addressing the NVMe PCIe market opportunity with a new offering available for qualification in mid-2016. To increase SanDiskâs penetration in the enterprise SATA market, I am pleased to report that we introduced the CloudSpeed Eco Gen. II, a highly competitive 15 nanometer based 2 terabyte SATA SSD in the second quarter. The solution is now in qualification at multiple hyperscale customers with revenue contribution expected to begin later this year.
+Our enterprise SAS SSDs sales performed well during the quarter driven by better than expected demand for several of our products. Our 4 terabyte Optimus Max SAS SSD was the first of its kind in the market and is making a compelling case for the replacement of 15K and 10K RPM enterprise HDDs. The Optimus Max SSD has become an important high capacity solution for one of our OEM customerâs All Flash Array offerings. Several other OEM and hyperscale customers are now qualifying our 4 TB enterprise SAS SSD because they see the value of reducing their total cost of acquisition and ownership by utilizing this highest capacity solution. We are developing our next generation 15 nanometer-based 12 Gb/s SAS SSD with higher capacity and performance, and expect to introduce that solution to market in 2016 with revenue contribution starting in late 2016.
+We are excited about the progress we are making with our next generation converged platform for enterprise products, which brings the best technologies and IP together from our various acquisitions. This converged platform will be heavily leveraged across multiple product families in the enterprise segment, and allow us to offer market-leading products integrated with our next generation 3D NAND memories. Given the long engineering development cycle typically associated with such major programs, we expect to start sampling products based on this new architecture in 2017. While we expect to continue to grow our enterprise revenue over the next couple of years, we aim to rapidly increase our market momentum once this converged architecture is introduced into volume production.
+Turning to our enterprise system and software solution offerings, since our announcement of our breakthrough InfiniFlash platform in March this year, we have been building up a strong pipeline of potential customers, many of whom have started proof-of-concept engagements with us. Customers are excited to see the potential of this InfiniFlash platform, as it enables them to rethink how flash can structurally improve their data center capabilities when deployed at petabyte scale. Our InfiniFlash platform allows customers to replace hard-disk drive-based solutions with our all-flash solution. InfiniFlash features excellent performance and the industryâs highest density of flash at a breakthrough price point, where it competes with HDD-based solutions in both total cost of ownership as well as upfront acquisition cost, while solving a lot of challenges customers are facing today with scale-out deployments. As the mega-trends towards cloud computing, open source software and data analytics gather momentum, InfiniFlash is the solution at the intersection of these important trends, and we are excited about its potential to accelerate flash adoption in data centers over the next several years.
+Switching to client SSDs, traction for our solutions increased with PC OEMs and in the channel. We announced and started shipping our 15 nanometer X2 client SSDs to the channel and began qualification of these drives with our OEM customers to whom we expect to begin revenue shipments in the second half of 2015. From a market perspective, although the overall PC environment is weak, we believe OEM customers are rapidly increasing their use of SSDs due to the many benefits we have outlined in the past. For example, in the corporate market served by OEMs, CIOs have embraced the benefits of SSDs, resulting in an SSD attach rate to corporate notebooks that is expected to approach 40% by the end of 2015. Decline in unit prices of 128 gigabyte and 256 gigabyte SSDs continues to reduce the gap when compared to HDD unit prices, with the 128 gigabyte drive approaching cost parity with low-capacity HDDs.
+This inflection point is expected to further cause the consumer notebook segment, which today has a low SSD attach rate of less than 15%, to accelerate adoption of SSDs. We are well positioned to benefit from this trend with our new product offerings such as the SanDisk Z400S based on 15 nanometer X2 technology and our 1Y X3 based SSDs, which offer a compelling value proposition for PC OEMs. We are excited to address this growth opportunity ahead of us, as we expect SSDs will rapidly replace HDDs in laptops and desktops.
+Moving on to our mobile embedded product portfolio, we completed the qualification and began shipments of our 15 nanometer X3 customized solution as planned. We have also been working on another new custom embedded 15 nanometer X3 solution that is in the late stages of customer qualification, and expect to be shipping this new product in significant volume in the third quarter. Within the iNAND product family, we are expanding the adoption of our solutions. Our 1Y X3 based iNAND products, which are designed to meet the requirements of high performance mobile platforms with our innovative Smart SLC technology, are expected to ship to multiple mobile OEMs in the third quarter. Additionally, just last week at Mobile World Congress in Shanghai, we introduced an iNAND product built on 15 nanometer X3 that increases embedded capacity to 128 gigabytes, providing greater performance and cost benefits to mobile OEMs. We expect to qualify and ship these iNAND products to key mobile customers in the second half of 2015.
+We are also gaining traction in newer flash markets, including connected home, automotive storage, industrial and the Internet of Things. In connected home, cable operators are beginning to use our flash storage solutions in set top boxes to improve delivery of high-demand content across their networks. Automakers continue to add computational power to their cars as a means of providing infotainment differentiation and advanced driver assistance capabilities. 
+As the automotive industry marches towards a future that will include autonomous driving, storage requirements will grow immensely and we expect to be a leading provider of innovative solutions to this industry. The IoT market is still in its early stages of development; however, we are excited to have been selected by some leading solution suppliers for inclusion in their IoT reference designs, which we believe will lead to expanding opportunities for flash. In retail, we have made progress recovering from our temporary share loss experienced in Q414 and Q115, which was due to the supply constraints we discussed in earlier calls. Overall, retail had a good second quarter, driven by demand for imaging cards and SSDs.
+In June, we introduced a new SanDisk product category with the SanDisk Extreme 900 and SanDisk Extreme 500 external SSDs at 1.92 terabytes and 480 gigabytes of capacities respectively. With no moving parts and significantly faster speeds than portable HDDs, these rugged external SSDs are the perfect solution for photographers and videographers on the go.
+To summarize my comments on products, we have made considerable progress towards addressing our roadmap. Many of our new products are now at various stages of qualification, and we expect our portfolio to continue to strengthen in 2015 and throughout 2016 as well. From a fab manufacturing perspective, our 15 nanometer technology continued ramping through the quarter with bit output exceeding 1Y volume for Q2. The mix of X3 remained at more than 50% of total bits sold.
+We also completed the planned 5% wafer capacity expansion for 2015 during the second quarter, and we believe the inventory challenges we discussed on the last two calls are now behind us. 
+In 3D NAND, we have begun our equipment purchases to support the commencement of pilot production of our 48-layer architecture in the second half of 2015. We are on track to begin using the pilot line output for product samples in 2015, and we continue to expect 3D NAND product sales to begin in 2016. The 48-layer technology provides an excellent combination of increased density, higher performance and lower power compared to 2D NAND.
+We plan to implement our 3D NAND first in high-capacity removable products, then client SSDs and embedded solutions, followed by enterprise SSD solutions, which have longer design and qualification periods. From a supply bit growth rate standpoint, for 2015, we expect the industryâs year-over-year supply bit growth to be somewhat above our previous estimate of approximately 40%, and we expect our captive bit growth to be in-line with the industry. For 2016, our latest estimate is that both the industry and SanDisk supply bit growth rates will be lower than in 2015.
+Some of you may be wondering about the Toshiba announcements from yesterday. While there is some change to the management structure of Toshibaâs semiconductor business, we continue to believe that this will not impact the strategy, investments and execution of the joint venture and that NAND remains a high priority for Toshiba.
+To conclude, we are making progress in strengthening our product portfolio and improving our execution, and we are driving vigorously to regain our overall business momentum. We look forward to delivering improved results in the second half of 2015.
+I will now turn the call to Judy for the financial discussion.
+Judy Bruner
+Thank you, Sanjay. Before I begin, I would like to add to Sanjay's comments on Toshiba and mention that while we are still evaluating the findings of the investigation, we do not expect Toshiba's announcement yesterday to have any impact to our financial results. I will now review our Q2 results and then discuss our outlook, which remains within the range of expectations we outlined in April.
+Our second quarter revenue of $1.24 billion was down 7% sequentially and down 24% year-over-year. Our client SSD revenue declined as expected due to the end of life during Q1 of a program with a major customer, while our client SSD revenue with other OEM customers increased nicely from Q1 to Q2. Our enterprise revenue also declined sequentially, for the reasons we discussed on our April call.
+Embedded revenue was down sequentially in Q2 due to the seasonality of certain embedded products, while our removable revenue increased sequentially driven by seasonality and share gains. By channel, our retail revenue increased 4% sequentially and represented 39% of our Q2 revenue mix, while commercial revenue declined 13% sequentially and represented 61% of our revenue mix.
+Our gigabytes sold were down sequentially by 1% and down year-over-year by 6%, with the year-over-year decline driven largely by rebuilding of our inventory levels combined with the loss of the client SSD program at a major customer as we have previously discussed. The decline in our blended ASP per gigabyte was more modest than in Q1, with a sequential decline of 6% and a year-over-year decline of 21%.
+Our all-in cost per gigabyte declined 4% sequentially and declined 10% year-over-year. Sequentially, the key drivers of cost reduction were a weaker yen, a higher mix of 15 nanometer memory and lower inventory-related charges, with these factors partially offset by a higher mix of non-captive memory. On a year-over-year basis, cost reduction benefited from technology transition, a higher mix of X3, non-memory cost reductions and a weaker yen, with these benefits partially offset by higher inventory reserves, Malaysia factory startup costs and a higher mix of non-captive memory.
+Our non-GAAP gross margin of 42% was better than we had forecasted due primarily to product mix, with a stronger mix of retail and enterprise products and a lower mix of embedded MCP products. The yen to dollar exchange rate in our captive memory cost of sales was 117, and non-captive memory was used in 6% of our sales, compared to 2% in Q1 and 1% in Q2 of last year.
+Our Q2 non-GAAP operating expenses of $327 million were sequentially lower by $48 million, with the reduction stemming from lower charges for restructuring and other, a reduction-in-force, which was largely completed in the second quarter, and some engineering project expenses which shifted from the second quarter to the second half. Our Q2 non-GAAP operating margin, inclusive of the restructuring and other charges, was 15%, consistent with the Q1 non-GAAP operating margin.
+In Q2, our non-GAAP other income of $10 million included $7 million of one-time gains related to foreign exchange and venture investments. Our Q2 non-GAAP tax rate remained at 32%, while our Q2 GAAP tax rate was 11% due to a discrete benefit from a tax audit settlement. The reduction in our non-GAAP diluted share count was driven by a full quarter weighting of our Q1 share repurchases, a partial weighting of the 3.7 million shares repurchased in Q2, and elimination of dilution from the 2017 warrants related to our convertible debt, as the warrants were not in-the-money for Q2.
+Turning to cash flow and the balance sheet. Our share of flash venture fab investments during Q2 was $233 million, and non-fab capital investments were $96 million. For these total gross capital investments of $329 million, we utilized cash of $80 million, with the difference funded by new joint venture equipment leases of $97 million and joint venture working capital. Our off-balance sheet joint venture equipment lease guarantees stood at $636 million at the end of Q2.
+Our inventory increased sequentially by $68 million, and on a petabyte basis, the inventory reflects approximately 12 weeks of forward supply. We expect to continue holding inventory at approximately this level of weeks in order to provide adequate supply for our diverse products and customers. For Q2, cash flow from operations was $29 million, compared to $309 million in Q1 and $241 million in Q2 of 2014.
+The primary drivers of the sequential decline in cash flow from operations were the seasonality of our accounts receivable, which is typically a source of cash in Q1 and a use of cash in Q2, coupled with the planned increase in our inventory levels. On a year-over-year basis, the decline in cash flow from operations was driven primarily by the decline in net income and the growth in inventory.
+Free cash flow for Q2 was a negative $52 million, and we spent $250 million on share repurchases and $63 million on the quarterly dividend. Our cash ended the quarter at $4.0 billion on a gross basis and $1.5 billion, net of debt. We expect our cash flow from operations to be at a significantly stronger run rate in the second half compared to Q2, and we currently plan to continue share repurchases in the second half of 2015.
+Now Iâll turn to our outlook. Our current estimate for 2015 revenue remains within the range of $5.4 to $5.7 billion that we provided in April. We expect the majority of our sequential second half revenue growth to come from mobile embedded products, with a significant portion of this revenue forecasted on the cusp between Q3 and Q4. The ramp timing of several mobile embedded products, along with the market success of our customersâ mobile products, are key variables in where we land in our forecasted 2015 revenue range.
+For the third quarter, we estimate our revenue to be in the range of $1.35 billion to $1.45 billion. We continue to expect non-GAAP gross margin for the second half of the year to be in the range of 40% to 43%. Compared to Q2, we expect the key factors impacting second half gross margin to be an increased mix of mobile embedded sales, which will have a negative impact on gross margin, and a slightly weaker yen to dollar rate coupled with higher sales volume, which will have a positive impact.
+For Q3, we expect the yen to dollar rate in cost of sales to be approximately 120. We expect non-GAAP operating expenses in Q3 to be between $335 million and $345 million, and continue to expect full year 2015 non-GAAP operating expenses to be approximately or slightly below $1.4 billion. 
+For the second half, we expect our non-GAAP other income and expense to be approximately break-even and our non-GAAP tax rate to remain at approximately 32%. Our 2015 fab and non-fab capital investment forecast remains at $1.4 billion, with $709 million purchased in the first half, and our 2015 forecasted cash usage for capital investments remains at approximately $500 million, with $190 million used in the first half. 
+To conclude my remarks, we look forward to delivering sequential growth in revenue and earnings in the second half of the year as we continue to focus on improving our execution and strengthening our product portfolio. Weâll now open the call for your questions.
+Jay Iyer
+Thank you, Judy. Thank you, Sanjay. Shaneal, can we open up the floor for questions please and if I can ask the callers to limit themselves to one question and a brief follow-up, that would be very appreciated and we will do the Q&A until about 3 o' clock.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] And we'll take our first question from Ambrish Srivastava with BMO.
+Unidentified Analyst
+Hi, this is Gabrielle calling in for Ambrish, thanks for taking my question. So you mentioned in the call that earlier that you said you expect the big growth in 2016 to be lower than â15, so what are your assumptions in terms of the wafer growth that the X3 makes and also from a tech transition? And also what percentage of the 3D NAND wafers do you expect in 2016 for SanDisk versus the industry?
+Judy Bruner
+Let me start that and give you some of those assumptions. First of all, our wafer capacity today at SanDisk is just shy of 3 million wafers per year. And that's inclusive of the 5% increase in wafer capacity that we just added in 2015. We have not made a final decision yet for 2016 as to new wafer capacity. However, it is most likely that we will add a small amount of new wafer capacity likely in the single-digit percentage range, similar to the last two years. And most likely that that will be a mix of 2D wafers and 3D wafers.
+In terms of X3, our X3 mix remains over 50% of our sales, and we expect that our X3 mix will increase, both due primarily to our mobile embedded products as well as our client SSD products. And that's factored into our expectations as well. And of course we are planning to begin the transition of some of our existing capacity to 3D in 2016.
+In terms of percent of capacity that is on 3D, I believe that was another of your questions, our expectation is for the industry that the industry will likely exit 2016 in the range of 15% to 20% of wafer capacity on 3D. And our expectation is that we will likely be around the low end of that range.
+Unidentified Analyst
+Okay, thanks. That's very helpful. And on the -- as a follow up, your client SSD was down to about 10% of total, much lower than before. And would you call this a bottom, and do you expect the revenues to improve from here?
+Judy Bruner
+We do expect to increase our client SSD revenue from here, yes. As I mentioned, we did see increases with our other OEM customers in the second quarter, and we expect to grow that revenue and grow our share in client SSD going forward.
+Operator
+And we'll take our next question from John Pitzer with Credit Suisse.
+John Pitzer
+Yeah. Good afternoon, guys. Thanks for letting me ask the question. Sanjay I guess my first question, I know it's a little bit premature because it doesn't come up until next year, but I'm kind of curious as to how you think we should think about the royalty renegotiation scheduled for next year with Samsung, especially as the industry moves towards 3D?
+Sanjay Mehrotra
+We don't comment on loyalty negotiations for future years, of course, each renewal of the license does require a new set of negotiations and they tend to be over extended period of time. And in the past, in certain cases, there has been litigation involved as well. So beyond that, I cannot comment at this point.
+John Pitzer
+Thanks. I appreciate that color. And then Sanjay, clearly the back half of the year is being helped by mobile, I'm just wondering if you can help us better understand the enterprise market for the back half of the year, and what kind of milestones should we be thinking about as you guys progress towards the goal of increasing sort of your exposure there and your profitability there?
+Sanjay Mehrotra
+With respect to the enterprise market, you know we are very much focused on strengthening our product portfolio and rebuilding our execution in that area. I'm pleased with the progress that we are making in the SATA area where our 15 nanometer 2 terabyte SATA that's in qualification stages with multiple customers and we expect revenue contribution later in the year from that solution.
+Similarly with PCIe, continue to make good progress with our 1 Y nanometer PCIe solution with captive memory, and those are in qualifications, and also already qualifications with various customers but also starting to ship in the channel. So good progress there as well. And I spoke about the SAS solutions as well.
+So in Q2, we did better than what we had expected on enterprise. In Q3, we may be flattish to somewhat down in enterprise. Q4, I would expect revenue to increase again. And we have said before that in 2015, overall, we expect year-over-year increase in enterprise revenue compared to 2014, and I expect year-over-year increase in enterprise revenue in 2016 as well.
+So we continue to advance our product solutions roadmap making good progress there. This work will continue through 2016 timeframe as well. And I talked about our future converged platform in details in my prepared remarks as well.
+And enterprise really remains an exciting opportunity for us. Going from a 4 billion TAM in the industry last year to we project about 8 billion TAM in 2018 timeframe. And is certainly the long-term play for us and we're absolutely making the investments and making good progress toward our objectives of regaining momentum and working toward strong leadership position in this market.
+John Pitzer
+That's helpful. So, maybe I could sneak one more in for Judy. Could you just talk about a little bit the inventory direction going into the September quarter? Is the revenue growth all coming from sort of an accelerating bit growth or do you expect inventory draw down into the back half of the year? If you could help me understand that dynamic, that'd be helpful.
+Judy Bruner
+Sure. Well, as we mentioned we just completed the incremental wafer capacity so that will provide more inventory for us in the second half. And we expect to continue to hold our inventory at the higher end of the 10 to 12-week range that I've talked about in the past. We're doing that consciously because we want to ensure that inventory shortages don't impair our ability to gain share and to improve our financial performance.
+And that also plays into us purchasing some increased amount of non-captive. We recognize that that non-captive weighs somewhat on our gross margin. But we think that's the right tradeoff right now as we're trying to improve our financial performance for the long term. So I expect inventory will remain at the higher end of that 10 to 12-week range.
+John Pitzer
+Helpful. Thanks a lot, guys, and congratulations on turning the corner.
+Sanjay Mehrotra
+Thank you.
+Operator
+And we'll take our next question from Srini Sundar with Hambrecht & Summit.
+Srini Sundar
+Hi, guys. Thank you for taking the question. Sanjay, what kind of postmortem analysis did you do on your 1Q and 2Q? And what are the changes that you've implemented so that you don't get surprised in the future?
+Sanjay Mehrotra
+So we discussed this at length in our April call. We went through the various product issues in terms of execution, as well as in terms of some of the market shift that we experienced. And we absolutely are addressing those. And I reported on some of the progress we are making in those areas in terms of enhancing our execution and strengthening our product roadmap, whether it be with respect to the requalification effort that's going on with customized solutions for SSD applications, albeit for SAS, 12 gig, next generation 15 nanometer roadmap or 2 terabyte SATA 15 nanometer drives or next generation PCIe solutions.
+So we are â really, the whole company is very much focused with the leadership really very much targeting rebuilding our momentum here with solid execution. And we talked about the organization changes that we made in the last April call. And I believe those changes are already starting to bear fruits.
+Srini Sundar
+Thank you. And as a follow up, do you have any plans to develop UFS format NAND? And for eMCP, do you propose to have agreements in place or you will mainly depend on third parties?
+Sanjay Mehrotra
+So with respect to UFS, as you know that it is an interface that is being used in Samsung high-end phones. And at this point, we are not seeing yet broader adoption beyond that. However, it is a trend that we continue to monitor carefully. We are offering today eMMC solutions, the discrete eMMC as well as eMCP solutions and of course customized solutions for embedded mobile market.
+And this is the best part of that market. We are monitoring the UFS trends. UFS does tend to have cost and certain power considerations, but we'll be adequately prepared to adjust the UFS market as it builds up in the future. But we are really, still, as I mentioned, continuing to evaluate this market opportunity for the future.
+And with respect to eMCP, we have said several times in the past that we do address this market in a pretty strategic fashion and we do have a couple of sources of DRAM supply to address this. And this is certainly an important market for low-end and mid-range budget smartphones.
+Srini Sundar
+Thank you so much and congratulations on a good quarter.
+Operator
+Weâll take our next question from Timothy Arcuri with Cowen and Company.
+Timothy Arcuri
+Hi, thank you very much. I had two. I guess first of all, Judy, is there some way that you can sort of strip out the effect of the rise in inventory as it relates to gross margin? So what would gross margin have been had inventory been flat?
+Judy Bruner
+I'm not sure that I can answer it quite that way. But I would tell you that we're making progress in terms of inventory related charges, and our inventory related charges are lower than they were in the last quarter. Of course, carrying more inventory does weigh somewhat on gross margins, but the bigger factor, as I already mentioned, is that we are carrying and using a higher amount of non-captive memory in that inventory. So that's the bigger factor in terms of impacting the gross margins.
+Timothy Arcuri
+Got it, thank you. And then I know you've previously said that your full year cost decline would be in the range of down 15% to 25%. Can you talk about that again? Do you still feel good about that? And maybe are you -- at this point since you're halfway through the year, do you feel like you're going to be toward the lower end of that range or toward, say, the higher end of that range for the year? Thanks.
+Judy Bruner
+I do still expect that for the full year of 2015 we will be in that range of 15% to 25%. And I expect that in the second half of this year, we will have a higher contribution from 15 nanometer and also from X3, which will both be helpful in our cost reduction statistic for the full year.
+Timothy Arcuri
+Thank you so much.
+Operator
+And weâll take our next question from Mark Delaney with Goldman Sachs.
+Mark Delaney
+Good afternoon and thanks very much for taking the questions. For the first question, I was hoping we could revisit the enterprise SSD topic. And you did a good job of outlining a number of the product qualifications that you have underway. And I understand that the prior target to hit $1 billion of revenue enterprise SSD was pushed out. As you guys look into 2016, given all the engagements that you have underway, do you think $1 billion is a revenue level that you can reach in 2016 now? Or is it still going to take some -- a longer period of time potentially to get back to that level?
+Sanjay Mehrotra
+We are not putting a specific timeframe for $1 billion target. We certainly target to achieve it in the future. In 2016, as I said previously, we definitely expect year-over-year revenue growth in enterprise business as well. As we continue to rebuild momentum in our enterprise roadmap here and continue to broaden our engagement, this is certainly an area where we will continue to grow in the longer term. And this is an exciting growth opportunity for us.
+Mark Delaney
+Okay, that's helpful. And then for a follow-up question, on 3D NAND, now that SanDisk is farther along with its own product development, can you just talk about your degree of confidence in being able to ramp that product in manufacturing with good yield? And then any update you can provide and any sort of quantification you may be able to help us with just comparing the cost per bit of your 3D NAND solutions relative to what you believe the industry competition is doing?
+Sanjay Mehrotra
+So with respect to 3D execution, there the technology execution continues to be on target with the timeline that we had outlined long time ago, several quarters ago, with pilot line production starting this year and initial pilot line production output going toward internal samples. And then commercial production starting in 2016 timeframe.
+And I believe that our 48-layer architecture for 3D NAND technology will position us very well in terms of cost competitiveness in the industry. We have always said that our 15 nanometer 2D NAND node is the lowest cost node in the industry this year, bar none. And bar none means any -- compared to any other 2D technology or 3D technology that is there today. And similarly, with our focus on continuing to have cost leadership, I believe that our 48-layer will position us well next year as well. Of course 15 nanometer will continue to be the work horse in terms of vast majority of bit production for us in 2016 timeframe as well.
+Mark Delaney
+Thank you.
+Operator
+And we'll take our next question from Monika Garg with Pacific Crest Securities.
+Monika Garg
+Thanks for taking my question. Judy, you talked about that your expectation that 3D NAND still be about 15% to 20% of industry by end of 2016. Do you expect this to be new capacity added by NAND vendors or you think mainly it's going to be conversion of something in NAND capacity?
+Judy Bruner
+I think a very large portion of it is going to be conversion of existing capacity. There is some new, but I think the vast majority would be conversion of capacity.
+Monika Garg
+Then shifting gears to the enterprise, on the PCIe, what is your growth expectations for 2015 and 2016 for the market and where do you think your PCIe market share could be end of 2016?
+Sanjay Mehrotra
+In terms of PCIe market, we have said earlier that in 2015, in terms of industry TAM, that has somewhat stalled, again, given the shift from PCIe to SATA that we have discussed in detail in the April call. Certainly as PCIe solutions get to lower price points enabled by captive flash memory as we discussed, as well as by greater deployment of NVMe solutions in the future, PCIe TAM will resume growth. We expect PCIe TAM to increase in 2016 compared to 2015. And PCIe is going to be very attractive in hyperscale markets with its low latency capability and high capacity, the high op capability that it provides. And PCIe TAM 2015 onward we believe will continue to grow very nicely.
+Monika Garg
+Thank you.
+Sanjay Mehrotra
+If we look at 2018 time frame, SAS TAM for enterprise to be pretty much equal to PCIe TAM. And the SATA TAM by that time will become somewhat smaller compared to the SAS or PCIe TAM. So nice quarter ahead for PCIe 2015 onward.
+Monika Garg
+Thanks a lot.
+Operator
+And weâll take our next question from Mehdi Hosseini with SIG.
+Mehdi Hosseini
+Thank you. I want to focus on the 3D NAND. Sanjay, two questions for you. When you look at how you have developed the BiCS technology, what are the key assumptions you're making? And I'm asking you to better understand how the differences in BiCS and other technologies are out there, the technologies behind 3D NAND are going to evolve. Do you see a major difference in actual product performance, or is this going to be a differentiating factor for SanDisk ? And I have a follow up.
+Sanjay Mehrotra
+So 3D technologies, as they're known, do give at the memory cell level, at the memory architecture level, do give certain benefits with respect to lower power, as well as greater performance and the cell distribution. And of course, specific technology implementation of 3D technology can affect that. So, at this point, we are not really providing specific details of our 3D technology other than that it is a 48-layer technology and we are the first ones in the industry to announce that technology, and expect others to be going toward higher layers in the future as well in order to make that technology become cost effective compared to 2D technologies. So that's all we are really prepared to share at this point with respect to details of our technology.
+Mehdi Hosseini
+Sure. And then as you go to 48 and 60-layer, how should we think about the difference in total bit per wafer for your 3D 48 or 60-layer versus your 15 nanometer planar?
+Sanjay Mehrotra
+Right. So what we have announced so far is 48-layers, and of course in the future years, as you would expect, 3D technology will go to higher number of layers here. But the timing of that, or the number of layers have not been disclosed yet. 3D technologies of course compared to a 2D technology will provide particularly let's say 48-layer technology compared to a 15 nanometer 2D technology will provide more gigabyte per wafer. But again due to confidentiality reasons, at this point, we are not disclosing the specifics of how much more gigabyte per wafer. However, obviously that is baked into our estimations of -- when we talk about the industry, supply bit growth next year being less than what it is in 2015. Our estimation of 3D RAM, as well as 3D gigabyte gain per wafer versus 2D is all baked into that bit growth estimation for next year.
+Mehdi Hosseini
+I ask the question because if you're going to recognize revenue in the second half of â16, do we have any idea how to think about the gross margin impact?
+Sanjay Mehrotra
+We have always said that we will bring 3D into production once it becomes cost competitive with 2D memory technology.
+Mehdi Hosseini
+So when is revenue recognized, we should feel that your technology, even at 48, should be accretive to the bottom line?
+Judy Bruner
+Our 48-layer -- the way I would think about it is that our 48-layer 3D technology will enable us to continue our cost reductions in a similar fashion to in the past.
+Mehdi Hosseini
+Okay, very helpful. Thank you.
+Judy Bruner
+But I don't view it as a step function, I view it as continuing the scaling of our technology.
+Mehdi Hosseini
+Got it. Thank you.
+Operator
+And weâll take our next question from Mark Newman with Bernstein.
+Mark Newman
+Hi, thanks for taking the question and congratulations on a strong improvement on the quarter. My question is on -- twofold, one is on the enterprise and second is on the retail portion. So you mentioned enterprise performance better than you expected. And looking at the retail mix or rather I should say the renewal mix has increased substantially. So first of all on the enterprise side, you mentioned a number of product improvements, the PCIe with captive NAND, the 2 terabytes SATA and a few other things. But as far as I can see, correct me if I'm wrong, these are not impacting revenue in Q2? Could correct me if I'm wrong? And if so, what is driving the improvement in enterprise solutions, I guess I didn't quite catch that, what is the core reason? Is it pricing related? Is it demand being better or is it share? So that's the first part of question.
+And then similarly, on removable, you've made substantial improvement to the mix there. And as I recall back in Q4 last year that was a big reason for the disappointment in Q4 was the removal mix was -- or removal in retail was very disappointing due to not the right bits. I believe it was not enough X3. And you had said at that time that problem was going to continue to Q1. So is this significant increase in Q2 a catch-up from I guess the mistakes or the issues of Q4 â14?
+Judy Bruner
+Okay, so first let me start with enterprise, and Sanjay, you can chime in if I miss something here. But on enterprise, our enterprise revenue did come down from Q1 to Q2. And so I want to make sure that that was clear. And the revenue contribution from the new products that we've just recently introduced, the 2 terabyte SATA product and the captive memory PCIe product is really second half 2016 in terms of revenue contribution. The PCIe captive has begun to ship in the channel.
+Sanjay Mehrotra
+2015.
+Judy Bruner
+Sorry, 2015. Did I say 2016? 2015. So those are second half for the most part, second half 2015 revenue contribution. So enterprise --
+Mark Newman
+For both of them.
+Judy Bruner
+Yes, we've started shipping the captive PCIe product in the channel, but it's in qualification with OEMs.
+Mark Newman
+Got it, okay.
+Judy Bruner
+So the enterprise sales â the key here is enterprise sales were better than we had expected in Q2 primarily from SAS products. But the revenue was still down sequentially from Q1 to Q2. Okay in terms of --
+Mark Newman
+Okay, great. And then â yeah.
+Judy Bruner
+In terms of removable, of course removable is largely retail, but there are some removable products that are sold in commercial channels as well. But if I focus on retail for a moment, the retail revenue grew 4% sequentially from Q1 to Q2, and that was driven by seasonality. Typically Q2 is stronger than Q1, as well as some amount of share gain in retail. And as we said, we are over the supply issues that we experienced and hampered us particularly in the fourth quarter of 2014.
+Sanjay Mehrotra
+And I'd just to add to the enterprise part of your question that while the enterprise revenue went down compared to Q1 as we had expected previously, but it did better as Judy mentioned and I had mentioned as well compared to our expectations. I just want to highlight that PCIe revenue in Q2 went up on a quarter-over-quarter basis.
+Mark Newman
+Great, okay.
+Sanjay Mehrotra
+In the enterprise PCIe.
+Mark Newman
+Yes, got it. And then I guess related to that for the removable and retail mix, should this 44 â so removable is now 44% of the mix, which I think is highest since I believe -- Q4 â13, I believe. Is this an anomaly due to catch up or should we consider this kind of new normal? Just trying to understand if this is just a lumpy catch up due to the missed production or the underproduction in Q4 â14?
+Judy Bruner
+It's really more the result of the decline in the client SSD business due to the loss of the large client SSD program that we've talked about. So it's really because that revenue came down and the enterprise revenue also came down sequentially, although did better than we had expected. Those are really the key factors in causing the removable portion of the revenue to become a larger percent of the mix. 
+And as we mentioned, we also expect the most significant amount of our growth in the second half of this year to come from embedded products. So that will also tend to then cause the removable percentage to decline somewhat.
+Jay Iyer
+Thank you, Mark. Shaneal, we may have time for one, possibly two questions.
+Operator
+Okay, we'll take our next question from Joe Moore with Morgan Stanley.
+Joe Moore
+I wonder if you could talk about the captive â the non-captive part of the mix going up, what exactly is driving that, and what do you see that mix looking like going forward, and what's the margin ramifications of that?
+Judy Bruner
+As I mentioned the non-captive was 6% of our sales mix in the quarter, up from 2% in the previous quarter and 1% in the year-ago quarter. We consciously purchased non-captive memory in order to ensure that we would have no shortages as we address the demand going forward. And we expect to continue to utilize some amount of non-captive in the second half of the year, and again to ensure that shortages do not hamper our ability to gain share and to begin improving our revenue going forward. It is a drag on gross margins. But we're happy that our gross margin in the second quarter was better than we had expected, even inclusive of the non-captive impact.
+Joe Moore
+Okay great, thank you very much. And then with regards to the industry growth being above 40% now, higher than you thought before, what do you see as the biggest driver of the supply being higher for â both for you and for the sector?
+Sanjay Mehrotra
+I think it really is our latest estimation of technology transitions by various suppliers in the industry, the mix of X2 and X3 technology estimations as well, it's primarily related to that.
+Joe Moore
+Great, thanks very much.
+Operator
+And we'll take our next question from Craig Ellis with B Riley.
+Craig Ellis
+Thanks for sneaking me in. Judy, it sounds like versus three months ago, the growth outlook in the back half of the year is weighted more towards embedded and a little bit less towards retail, is that right? And if that's right, why is that?
+Judy Bruner
+I wouldn't say that the growth expectation or the mix of it has changed from what we were thinking in April to now. I think we just didn't talk so much in April about what would be driving the increase, sequential increase in the second half. But our embedded sales are the biggest component of that expected sequential increase. But we do expect the retail revenue to be seasonally stronger in the second half as compared to the first half. So that is a part of the sequential revenue growth as well.
+Craig Ellis
+Okay. And then just a broader question. There's been a lot of concern over the last month or so about in-demand and SanDisk has a unique view given the hundreds of thousands of stores that it ships products into. As you look across the retail business and look at the intensity of demand, can you just characterize some of the regions globally where demand is either tracking well and in line with expectations or where there might have been variances either on the upside or downside versus expectations in the quarter that you reported?
+Sanjay Mehrotra
+You know, there are certainly some pockets of weakness on the global retail markets. However, we have always said that the TAM for retail in general is declining year-over-year in single-digits, in mid-single digit rate, and that's because imaging is moving to the phones, to the smartphones. Therefore digital camera sales, of course are going down and associated with that, imaging card sales are going down as well. USB also is overall the market that is somewhat in a decline.
+Mobile cards, of course is a category that is one of the larger categories within retail and it does grow. But, of course, there are embedded phones where that have embedded solutions as well. So overall TAM for retail declining with certain pockets of weakness. 
+But SanDisk's focus is with our strong penetration in retail channels across the globe with our strong brands with a broad portfolio of solutions and very strong recognition of SanDisk's high quality of products in the retail brand. Our goal, of course, is to continue to gain share in the retail channels and use that to drive a strong position across the globe here. We mentioned that we, in terms of our retail share position, because of some of the supply challenges that we had in Q4 and Q1 timeframe, we lost some share. But we are back on track in terms of positioning our share gains well in the retail channels.
+Craig Ellis
+Thanks, Sanjay. And then if I could just lastly, Judy, the business managed a very nice decrease in pricing intensity in the second quarter. As you look at the business, are you comfortable with where pricing is now on a quarter-on-quarter basis or do you still feel like there's room for improvement as you look into the back half of next year?
+Judy Bruner
+Our expectation currently for the second half of the year is that like-for-like price decline will remain modest in the second half. Of course the price statistic that we report in any given quarter is heavily influenced by the mix of products that we sell. But overall, we feel good about the pricing environment for the second half.
+Craig Ellis
+Thanks, Judy. Thanks Sanjay.
+Jay Iyer
+Thank you, Craig. And folks that's all the time we have for today's call. We want to thank you for joining us. And a Webcast replay of today's call should be available on our IR website shortly. Thank you, again and have a good evening. Shaneal, you can formally close the call.
+Operator
+That does conclude today's conference. We thank you for your participation. You may now disconnect. 

@@ -1,0 +1,332 @@
+nVIDIA Corporation (NASDAQ:NVDA) F2Q13 Earnings Call August 9, 2012 5:00 PM ET
+Executives
+
+Rob Csongor â VP, IR
+Karen Burns â Interim CFO
+Jen-Hsun Huang â Co-Founder, President and CEO
+Analysts
+
+Vivek Arya
+Patrick Wang
+Glen Yeung
+James Schneider â Goldman Sachs
+Raj Seth â Cowen & Company
+Shawn Webster â Macquarie
+Hans Mosesmann â Raymond James
+Kevin Cassidy â Stifel, Nicolaus
+Vijay Rakesh â Sterne, Agee
+Chris Caso â Susquehanna Financial
+JoAnne Feeney â Longbow Research
+Arnab Chanda â Avian
+Craig Berger â FBR Capital Markets
+Raji Gill â Needham & Co
+Suji De Silva â ThinkEquity
+
+Operator
+Good afternoon. My name is Dalinah and I will be your conference operator today. At this time, I would like to welcome everyone to the nVIDIA Corp. Financial Results Conference Call.
+(Operator Instructions)
+I will now turn the call over to our host, Mr. Rob Csongor. Sir, you may begin your conference.
+Rob Csongor
+Thank you. Good afternoon, and welcome to nVIDIAâs conference call on second quarter of fiscal 2013 results. With me on the call today from nVIDIA are Jen-Hsun Huang, President and Chief Executive Officer; and Karen Burns, Interim Chief Financial Officer.
+After our prepared remarks we will open up the call to a question-and-answer session. Please limit yourself to one initial question with one follow up.
+Before we begin Iâd like to remind you that todayâs call is being webcast live on nVIDIAâs Investor Relations website and is also being recorded. A replay of the conference call will be available via telephone until August 16, 2012, and the webcast will be available for replay until our conference call to discuss our financial results for our third quarter of fiscal 2013.
+The content of todayâs conference call is nVIDIAâs property and cannot be reproduced or transcribed without our prior written consent.
+During the course of this call, we may make forward-looking statements based on current expectations. These forward-looking statements are subject to a number of significant risks and uncertainties and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business please refer to the disclosure in todayâs earnings release, our Form 10-Q for the fiscal quarter ended April 29, 2012, and the reports we may file from time-to-time on Form 8-K filed with the Securities and Exchange Commission.
+All our statements are made as of today, August 9, 2012, based on information available to us as of today and except as required by law we assume no obligation to update any such statements.
+Unless otherwise noted all references to market research and market share numbers throughout the call come from Mercury Research or John Peddie Research.
+During this call we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP financial measures in our financial release which is posted on our website. With that, letâs begin.
+Weâre pleased to report a better than expected quarter driven by Kepler, the best GPU we have ever built, and Tegra 3, the worldâs first quad-core mobile processor. Kepler is the most capable as well as the most energy efficient GPU architecture weâve ever created. Kepler drove a record quarter for our notebook business based on the beginning of market share gains. And we believe that due to the later timing of Ivy Bridge rollout this year, the lionâs share of market share gains are still to come in the third quarter.
+Our desktop GPU business was also up this quarter from strong GeForce GTX sales. Up to now, due to supply limitations, we have only been able to address the enthusiast market.
+Finally, weâre able to bring Kepler to the core PC gaming market. From our data of the global install base, roughly 80% of gamers have graphics cards that are below the recommended specifications of the wave of new games coming out in the second half of the year. Kepler is the perfect upgrade for the millions of PC gamers around the world. Kepler will soon be flowing into our professional businesses.
+Our Professional Solutions business was down slightly in the second quarter from the previous quarter but with the recent introduction of the Tesla K10 and K20 GPU for high-performance computing, we anticipate growth again for Tesla starting next quarter as it begins to ship.
+Tegra had a record quarter. As you and the press have obviously noted, Tegra 3 is showing up in some of the worldâs most exciting mobile devices and the businesses is ramping. Google recently announced and launched to tremendous response the Nexus 7, the worldâs first $199 quad-core 7-inch tablet. The Nexus 7 runs the newest version of Android 4.1, Jelly Bean. It is the perfect device for the hundreds of millions of consumers who use Android phones and would like to enjoy the same content on a larger display.
+Microsoft this quarter, unveiled its own Windows RT powered tablet called Surface, again driven by a Tegra processor. A groundbreaking mobile device powered by Tegra 3 was Fujitsuâs ARROWS X, the worldâs first quad-core LTE smartphone, which began shipping into Japan.
+Tegra processors also began shipping in automobiles this quarter, powering Tesla Motorsâ Model S 17-inch touch screen infotainment and navigation system, the largest ever in a passenger car. Tegra also powers its all-digital instrument cluster. For drivers, the system provides larger, more-readable maps and a beautifully rendered instrument cluster that can be personalized from the multi-function steering wheel.
+With that, let me hand the call over to Karen.
+Karen Burns
+Thanks, Rob. Revenue of $1.04 billion increased 13% quarter-over-quarter meeting the high-end of our outlook. Driving this strong demand for our desktop â driving this were strong demand for our desktop GTX GPUs and record quarters for our notebook and Tegra products. GAAP gross margin for the quarter was 51.8% and non-GAAP was 52%, representing an increase from Q1 of 1.7% and 1.6 percentage points respectively. Improved 28-nanometer supply enabled us to ship more of our Kepler GPUs in the high-end segment.
+GAAP OpEx was $401.1 million and non-GAAP was $342.5 million, both much better than our outlook. GAAP OpEx was up on our announced charitable contribution of $25 million. Its net present value of $20.1 million was charged to OpEx as a nonrecurring item. Non-GAAP, which excluded this charge, was down from the prior quarter benefiting from lower discretionary expenses. These results contributed to GAAP net income of $119 million, a 97% increase over the prior quarter equivalent to $0.19 per diluted share, which was up 90%. Non-GAAP net income was $170.4 million, a 75% increase from Q1, equivalent to $0.27 per diluted share, a 69% increase.
+Revenue results by business segment were as follows. Our GPU business was up 15% sequentially due to the strong demand for our desktop performance and enthusiast products, and growing notebook share as the industry continues to move to the Ivy Bridge platform.
+Our Professional business was down 8% sequentially due to continued weak economic conditions in Europe and the slower ramp of Romley platforms. Our Consumer business was up 36% on the strength of our Tegra business.
+While we continue to be supply constrained, our GAAP outlook for the third quarter is as follows: revenue of $1.15 billion to $1.25 billion; gross margin of 51.8%, flat from the second quarter; OpEx of approximately $390 million. We expect our tax rate for the quarter to be 20% plus or minus 1 percentage point.
+For non-GAAP, we expect the following differences from our GAAP outlook: gross margin at 52%, flat from Q2; OpEx of approximately $350 million, which excludes stock-based compensation and certain other charges related to acquisitions in aggregate of approximately $40 million. Depreciation and amortization are expected to be in the range of $57 million to $59 million and capital expenditures of $30 million to $40 million. Diluted shares are expected to be approximately 630 million.
+Rob Csongor
+That concludes our prepared remarks. Weâll now take questions.
+Question-and-Answer Session
+
+Operator
+(Operator Instructions) Your first question comes from Vivek Arya.
+Vivek Arya
+Thanks for taking my question. I was wondering, last year you had two very good quarters with Tegra in July and October to be followed by a quarter of some inventory adjustment. Are conditions different this year? Should we expect it to play out similarly this year?
+Jen-Hsun Huang
+Well, we wouldnât have guided what we guided if we didnât have faith and confidence in the Tegra growth. The difference I guess may be more important to talk about is this year, I think that it is relatively clear that the Android tablet, particularly Nexus 7, the Transformers from ASUS theyâre doing really well.
+And the reason for that is because it has taken us some time to get the cost, the functionality and the quality of the experience really, really good. You now know that there are hundreds of millions of Android phones around the world and whereas the first tablets when they first came out were introduced with the Honeycomb operating system, the Honeycomb operating system was very different from the Android phone operating system at the time.
+But now with Jelly Bean and Ice Cream Sandwich, the applications and the investments that you make in your Android phone, all of those applications just magically show up on your Android tablet and so this Android tablet is a really wonderful, higher resolution and larger format display for you to enjoy your content when youâre not running around, when youâre sitting at home. And so if you havenât had a chance to try the Nexus 7 I really urge you to. Itâs the first thing I use in the morning and itâs the last thing I use at night. And itâs really wonderful that all of the applications and all of my content stay synchronized between my One X phone and the Nexus 7 tablet.
+And so I think that the momentum of the products that we have are much stronger. Our position in the market is much stronger. And weâll see how these devices do in the marketplace. But at the moment, weâre quite confident in their position in the market.
+Vivek Arya
+Thanks, Jen-Hsun. And just for my follow up on the Professional Solutions business, how much of it is macro? How much of it is Romley delay? How much are product specific issues? When should we expect that to pick up? Thank you.
+Jen-Hsun Huang
+Well, Quadro and Tesla are unique in the marketplace and weâve gained share if anything. So the market position of Quadro and Tesla are very good. Their value proposition are very unique and the people that buy Quadro and Tesla buy it because they need it. Itâs not a discretionary expense. They need those products. During times when the economy is a little slower and right now, as you know, the economy is rather slow in Europe and in China that affects peopleâs enterprise consumption. So thatâs a factor.
+The other factor is the Romley platform launch. Itâs a very important platform. And it started out in servers and itâs in the process of moving into workstations and Iâve got a lot of confidence in Intelâs execution. They will ramp up those workstation platforms and the OEMs are all fully charged up to ramp up those workstation platforms. And then on top of that we have the Kepler GPUs that are flowing into Quadro and flowing into Tesla and so I think the trajectory is good and I think things will work itself out.
+Vivek Arya
+Great. Thank you.
+Operator
+Your next question comes from Patrick Wang.
+Patrick Wang
+Great. Thanks for taking (inaudible). The first question, I wanted to ask you about GPU. You talked about being â still being in a supply challenged environment. Iâm just curious how much business you feel like you mightâve left on the table? And separately, if you could talk about the trajectory of your 28-nanometer supply and whether or not you feel like your shortages are going to subside this quarter?
+Jen-Hsun Huang
+We have no idea how much business we left on the table. And we expect to be supply constrained throughout the quarter. Weâve taken the supply constraints in consideration for our guidance. And if the supply situation comes in the way we expect, weâll have some upside. And I know that TSMC is working as hard as they can for us and so weâll report on what we learn at the end of the quarter. Thank you.
+Patrick Wang
+Great. Thanks. And just as a quick follow up I wanted to ask about your plans on having an integrated solution. I think that some of your other competitors out there are trying to ramp at least an integrated processor baseband solution. What are your plans there? Are you guys still on track to really introduce, I guess, codename Grey, sometime in the next couple quarters here?
+Jen-Hsun Huang
+Well, thereâs only one integrated LTE solution in the world today and I think itâs pretty clear that going forward, in order to build a world-class phone and a top-tier phone, you need to have a world-class application processor which includes great CPU and great GPUs.
+And you need to have a world-class software stack. These phones are increasingly becoming computers. Itâs not just a telephone anymore. And so having a software stack that allows you to concurrently use all of the wonderful things that weâve come to know our phone and more is really, really hard to do. And there are very few companies that provide that today. And the third of course is a state-of-the-art modem and baseband.
+And that is exactly the reason why we bought a company called Icera. And our intention is to integrate those three major pieces to provide a really great platform for our customers. We havenât announced when Grey is going to be available in the marketplace, but weâre working as hard as we can for it and when we do introduce it, it would, as youâd expect and as the reason why youâre asking, expand our market position and expand our market potential tremendously.
+Patrick Wang
+Great. If I could squeeze in one quick last one. Congrats on the very strong guidance for the third quarter here. Can you help us understand which parts of your business may be growing above or below that 15% sequential rate that you provided? Thatâs it for me. Thanks so much.
+Jen-Hsun Huang
+Yeah, first of all, thank you. The GPU business is growing. GeForce is growing faster than the sequential rate. Tegra is growing much faster than the sequential rate. And the reason those two, you could probably guess, is because Quadro is not growing as fast as the sequential rate. Okay. Thank you.
+Patrick Wang
+Thanks so much.
+Operator
+Your next question comes from Glen Yeung.
+Glen Yeung
+Thanks for letting me ask a question. I wanted to ask little bit about China. When you guys initially discussed Tegra 3 wins youâd mentioned that China was a big component of that. And wanted to just get a sense from you how you think that business will ramp? Is it white box or branded names? And what kind of ASPs of phones will you be selling into?
+Jen-Hsun Huang
+Yeah, weâre just now ramping into the China, what we call the affordable superphone segment. Basically, all of the capabilities of todayâs superphone but really engineered for affordability and Tegra 3 has such a great reputation, the software stack is really exquisite and so weâre quite excited about it. There are many phones being created right now. A couple of them have been announced and weâre expecting them to ramp shortly. We still expect China to be a big market opportunity for us.
+If you look at the overall market, the U.S. is very LTE-centric. Korea is very LTE-centric. Itâs very important to have LTE and we donât have a very good position there until our i500 standalone LTE modem starts â goes into production and when our integrated solution goes into production. Until then, our target is really focused on the superphone and the premium phones in the non-LTE parts of the marketplace and that would be Europe, that would be Asia and China. And so, we still expect those to be really terrific markets for us.
+Glen Yeung
+Jen-Hsun, just to follow up there when you are creating an affordable superphone, obviously thereâs a price implication on the BoM. How much of a role do you play in that versus other components in the phone that â where they can make different choices?
+Jen-Hsun Huang
+Weâre a relatively small component overall for these phones and so itâs not a factor yet.
+Glen Yeung
+Okay. And then one last quick question on the non-Apple tablet market, you alluded to the idea that you do see momentum there and it sounds like that momentum is better than last year. I guess really just trying to get a sense of your confidence level there, how much bigger perhaps you think the opportunity is, not necessarily for you but for the market, the non-Apple market this year versus last year?
+Jen-Hsun Huang
+Well, I think we found the position. For every product, if you want to be like another product and something like iPad, itâs not particularly a smart, smart strategy. But the Nexus 7âs value proposition is not to be a cheaper iPad. Itâs to be a peripheral or a companion device for someone whoâs really invested in the Android operating system. And the Nexus 7 finally, from a tablet perspective, made it really, really easy for you to enjoy and to synchronize all of your content that youâve already invested in for your Android phone to just magically shows up on your Nexus 7 device. It tells â just picks up where I left off when Iâm reading a book. All of my music is there. All my books are there. All the readers are there. Itâs just â itâs the same e-mail. Itâs just fantastic.
+And so when Iâm traveling, when Iâm running around during the day, I use my One X and when I get home I turn on my Nexus and I just pick up where I left off. And so, I think that the value proposition is just much more clear now and the build quality is fantastic. ASUS did a fantastic job. Google did a fantastic job with Jelly Bean. Google Play is really easy to use.
+Magazines are there. Books are there. Movies are there. And so, I think itâs taken this long to really build a platform that adds value to Android users. And so thatâs the value proposition. Itâs not an alternative to an iPad. Itâs really a device that enhances the user experience for someone whoâs an Android user and there happens to be hundreds of millions of Android users. And so I think this is a â I think the niche is really well met and I think theyâve done a really good job.
+Glen Yeung
+Thatâs a good answer. Thanks for that, Jen-Hsun.
+Jen-Hsun Huang
+Yeah, thanks a lot, Glen.
+Rob Csongor
+By the way, appreciate all of the questions, but just to make sure that we give everybody an opportunity to ask a question Iâd just like to ask letâs keep it to one question with one follow on.
+Operator
+Your next question comes from James Schneider with Goldman Sachs.
+James Schneider â Goldman Sachs
+Good afternoon. Thanks for taking my questions. Congratulations on the strong results. I was wondering if you could quantify for us in the quarter in Q2 how much was the increase in desktop versus notebook in the quarter? And then do you expect desktop or notebook to be up more for Q3?
+Jen-Hsun Huang
+Desktop and notebook were both up strongly in Q2. And we expect both of them to yet again be up strongly in Q3. In the case of notebook GPUs, weâre ramping â you probably know that Ivy Bridge ramp was delayed because the market was kind of soft.
+And now, Ivy Bridge is ramping up strongly and our market share for Ivy Bridge is the best weâve ever had and the reason why itâs the best weâve ever had is because the Kepler GPU is really the best GPU weâve ever created and its energy efficiency is just so fantastic that the market demand for it is really strong, so we expect to gain share and we expect to ramp up Ivy Bridge in Q3.
+In the case of desktop, there are several factors working in our favor. One is the PC gaming marketplace is just really, really, really strong. PC gaming is a vibrant segment. All the game developers are talking about it. Itâs a platform where free to play has become very important and whether here in the United States or China or Europe, weâre seeing strength in PC gaming. And weâre about to introduce and we just started ramping into it, our Kepler GPU that is targeted squarely at the gamers. And the segment starts out at about $99.00 and goes all the way up to about $249.00.
+And those segments, we havenât been able to address until now. And weâve not been able to address it because we just havenât had enough supply. And now that the supply is starting to catch up and gives us enough supply to launch into that segment and that segment is just dying for Kepler, and finally weâre be able to bring Kepler to them.
+And then lastly, Q2 was quite a shock in the system. We had â or Q1 was quite a shock in the system. We had the convergence of a couple of issues. One of them was the shortage of 28-nanometer supply. And that was very surprising to us and to a lot of people. And the second issue was the flood in Thailand that raised the cost of disk drives, which affects the desktop market, as you know. And both of those issues are working themselves out. And so we got a lot of positive momentum driving the desktop market. And the market is really, really strong. Weâre feeling a lot of positive momentum right now.
+James Schneider â Goldman Sachs
+Great. And then as a follow up, obviously the Tegra business very, very strong, as you mentioned. Could you maybe share with us any updated expectations in terms of Tegra revenue for the year? I think you previously guided to 540. Is it safe to say youâll exceed that this year?
+Jen-Hsun Huang
+Weâre comfortable with that this year.
+James Schneider â Goldman Sachs
+Great. Thanks very much.
+Jen-Hsun Huang
+Yep. Thank you very much, Jim.
+Operator
+Your next question comes from Raj Seth with Cowen & Company.
+Raj Seth â Cowen & Company
+Hi. Thank you. Jen-Hsun, in the context of the prior question about modem integration, etcetera, downstream, wondering about your view on connectivity technologies, Bluetooth, Wi-Fi, etcetera. How important do you think that is or not important for you over time to own those technologies? Thanks.
+Jen-Hsun Huang
+Integration is always a good thing. Integrationâs a good thing. If you look at connectivity a multi-function connectivity chip goes for something along the lines of about $3.00, $3.00 to $4.00, but an LTE modem is $20.00 to $25.00. And so the important thing is to focus on the important thing first and so weâve taken off a big bite and weâre working on LTE integration and so Iâm quite excited about the integrated version.
+There are very few companies in the world that have the ability to build an integrated platform based on a world-class application processor, a world-class software stack and a world-class modem and thatâs â they are three things that are very, very hard to do and I think weâre one of those companies that can pull it together and when we get that done, weâll think about other things. But those are really by far way, way, way more important than everything else.
+Raj Seth â Cowen & Company
+Yeah, thanks. As a quick follow up could you comment on attach rates if youâve seen any material shift there, kind of what the trend line on attach rates is notwithstanding the share gains youâre seeing on Sandy Bridge of course?
+Jen-Hsun Huang
+We see no change in attach rate.
+Raj Seth â Cowen & Company
+Great. Thank you.
+Jen-Hsun Huang
+Yep. Thank you.
+Operator
+Your next question comes from Shawn Webster with Macquarie.
+Shawn Webster â Macquarie
+Great. Thanks. Good job all across-the-board there, guys.
+Jen-Hsun Huang
+Thank you.
+Shawn Webster â Macquarie
+On the graphics side you mentioned that you had a mix shift that helped you in the quarter relative to your 15% sequential increase in GPUs. I was wondering if you could add some color on what units did versus pricing sequentially.
+Jen-Hsun Huang
+Units were up, and pricing was probably up too. And the reason why we know that is because we experienced very strong growth in the enthusiast and the performance segment. Yet in the entry segment, the disk drive shortage and disk drive prices are, although itâs getting better, the mainstream part of the marketplace is still slower than usual. That part of the marketplace is picking up, but in Q2 the strength was mostly in the performance and the enthusiast side. We just couldnât build enough.
+Shawn Webster â Macquarie
+So was the pricing up more than the units in Q2?
+Jen-Hsun Huang
+I think units and pricing were both up. But I would think that pricing is up more.
+Shawn Webster â Macquarie
+Okay. And then just as a quick follow up to some of the supply constraints on 28, do you have any view on when thatâs going to normalize in terms of getting the 28 back on track and being able to have normal lead times?
+Jen-Hsun Huang
+Weâre expecting to be supply constrained throughout this quarter. And then weâll report on that in Q4. But obviously itâs a combination of allocation, yield and the market demand. And so those are a lot of variables. So far market demand seems very strong. And weâre selling into a marketplace with quite a bit of pent-up demand for Kepler. Yields are improving.
+And weâd like them to improve even faster because when you improve yield faster with our wafer buy business model that we talked about some three quarters ago, your units grow and your margins grow. And so we really need TSMC and theyâre working really, really hard to improve yield because itâs good for everybody and so we need them to really focus on that.
+Shawn Webster â Macquarie
+Thank you.
+Jen-Hsun Huang
+Yep. Thanks a lot.
+Operator
+Your next question comes from Hans Mosesmann with Raymond James.
+Hans Mosesmann â Raymond James
+Thanks. Congratulations, guys. Jen-Hsun, a question on Windows RT in terms of the ramp in the second half: can you give us a sense of the possible split between your Android-related platforms and RT for Tegra? Thanks.
+Jen-Hsun Huang
+Well, itâs a little early for us to talk about Windows RT. I think all of the Windows RT questions really ought to be targeted at Microsoft right now because they havenât even really launched it. Theyâd be more than delighted to answer that.
+Hans Mosesmann â Raymond James
+But the ramp is â how about this, the ramp that youâre having Iâm assuming youâre having some a ramp into those platforms as we speak. Is that as expected? Is it better than expected or any flavor there? That would be helpful. Thanks.
+Jen-Hsun Huang
+Well, what I can say about Surface RT is that we were all, including all of you, really blown away by the announcement of Surface RT. I think theyâve done an amazing job and itâs a really, really cool device. And so I canât say that I saw that coming. I was very positively surprised and I think so was everybody else.
+Hans Mosesmann â Raymond James
+Very well. Thanks.
+Jen-Hsun Huang
+Yep. Thanks a lot, Hans.
+Operator
+Your next question comes from Kevin Cassidy was Stifel, Nicolaus.
+Kevin Cassidy â Stifel, Nicolaus
+Thanks, and congratulations on the quarter.
+Jen-Hsun Huang
+Thank you.
+Kevin Cassidy â Stifel, Nicolaus
+Can you give us an update on your virtualization efforts both the VGX and the GRID?
+Jen-Hsun Huang
+We are working very, very closely with our partners. The VGX is targeted at enterprise. Our partners there would include the virtualization companies, Citrix, VMware and Microsoft. The OEMs that we would be working with there are the best OEMs in the world the enterprise space. And we announced that Cisco would be working with us and so weâre really excited about that work. And so all of us are working on integrating software, building servers, and introducing them to customers and so on.
+On the GRID side, thatâs targeted at gamers and cloud gaming is really quite the buzz. One of our partners was bought by Sony recently. Gaikai has been a long-time partner of ours and a development partner on GRID and they were bought by Sony recently, so thatâs really exciting.
+Now they have quite large financial backing and of course a rich library of content to bring to it. And so, weâre working with the service providers on that side. We donât have any more to announce at that moment, but weâre very busy working on it.
+Kevin Cassidy â Stifel, Nicolaus
+Okay. And youâd mentioned that you expected some growth in that product group in the next quarter. Is that part of it or is that just going to be the HPC segment, or will it be the virtualization segment also? Do you expect revenue that quickly?
+Jen-Hsun Huang
+I think that we will see some shipments this year but I would expect that most of these servers will go-to-market and ramp next year in Q1 of next year. We have plenty to ship this year and Iâve got â I could use all the supplies for everything else and so we have plenty to do already.
+Kevin Cassidy â Stifel, Nicolaus
+Okay, great. Thank you.
+Jen-Hsun Huang
+Yep.
+Operator
+Your next question comes from Vijay Rakesh with Sterne, Agee.
+Vijay Rakesh â Sterne, Agee
+Yeah, hi, guys. Good quarter here. Just wondering on the Tegra 3, whatâs your split between tablets and handsets? And I think I might have missed this but did you guys say youâre going to integrate baseband down the road here?
+Jen-Hsun Huang
+Thank you, Vijay. Our split on Tegra for tablets versus phones is more tablets than phones. And my sense is that itâs going to stay that way. And the reason for that is because I really feel that the market has held nice positions for alternative tablets, nice positions with really great value proposition, a really good reason to buy it and really affordable and really exquisitely made. And so, I think weâre finally seeing the convergence of all of these wonderful things in non-iPad tablets. And so, weâre delighted by the early success and the demand out in the marketplace for the tablets that weâre in.
+I think tablets is likely to be a strong growth opportunity for us, as we had hoped and as we had worked on. A lot of people think that the tablet market in just a few more years will be as large as the entire PC mobile market and based on the information from people that use our tablet today, I really wouldnât be surprised by that. And so if we can protect and even grow from our current position of tablets, I think this is going to be a very, very large part of our overall business.
+Vijay Rakesh â Sterne, Agee
+Got it, great. Thanks.
+Jen-Hsun Huang
+Yep. Thanks a lot, Vijay.
+Operator
+Your next question comes from Chris Caso with Susquehanna Financial.
+Chris Caso â Susquehanna Financial
+Thank you. So I wonder if you could talk a bit about seasonality for the January quarter and obviously you donât want to give guidance now, but given that thereâs a lot of sort of atypical things happening in the October quarter, youâre still supply constrained, Windows 8 comes out at the end of the quarter, how should that affect what weâd see as typically seasonal patterns into the January quarter?
+Jen-Hsun Huang
+Youâre absolutely right. Itâs too early to comment on January. We have so many new things to introduce. I think there is seasonality, thereâs market share, thereâs supply and thereâs new products and so thatâs enough variables, enough elements to consider for when we get there. But Iâm hoping that supply would be even more improved. Iâm hoping that yield would be much more improved. Iâm hoping that the market is reasonably robust. But mostly Iâm excited about the new products that weâre going to ship.
+Chris Caso â Susquehanna Financial
+Okay, great. And as a follow up, given what you said about 28-nanometer supply improving further and the yields improving further, how should we think of that with respect to gross margins? Is there still some increase available on the gross margin line as a result of those elements?
+Jen-Hsun Huang
+Yeah, back in the good old days, this is three quarters ago, when we started going into wafer buying, our margins are now very, very affected by improving yields. It is a very large lever and if thereâs anything that we can do to improve yields, it should be all hands on deck and thereâs just a lot more room to improve 28-nanometer yield to the 40-nanometer level.
+And so what that says is that as we ramp further and further into 28-nanometer and as we improve yield, it should improve our margins. And the leverage, as you can tell, would be quite significant. And so we should be all hands on deck to improve yield. TSMC is already all hands on deck to improve yield. Nothing could be a greater lever for their ability to increase supply for all of their customers.
+Chris Caso â Susquehanna Financial
+Great. Thank you.
+Jen-Hsun Huang
+So everybodyâs interests are all perfectly aligned.
+Operator
+Your next question comes from JoAnne Feeney with Longbow Research.
+JoAnne Feeney â Longbow Research
+Thanks, and congrats on a real nice quarter, guys.
+Jen-Hsun Huang
+Thank you, JoAnne.
+JoAnne Feeney â Longbow Research
+Yeah, a question for you really, Jen-Hsun, just about your vision of these Android tablets. I understand the easing of barriers to adoption with the similarity of phones, but one thing weâre seeing with iPads is a lot of adoption in businesses, particularly services businesses. So perhaps you could give us a sense of whether you think these Android tablets are likely to remain consumer devices? And what proportion you guys are modeling at least for the maybe percentage of users that might want to add a tablet in addition to their Android phone? So what are you thinking about in terms of your market opportunity?
+Jen-Hsun Huang
+Well, I think itâs taken us a year-and-a-half to really even build something that appears that the market really loves. And weâve taken â during this year-and-a-half weâve worked on some â gosh, 60 tablets, maybe more. And we didnât give up on it because we believed in the future of it. And I think that people recognize now that we have a lot of expertise in building these and the tablets that weâve built are really, really delightful. And so Iâm really excited about the fact that the positioning of Android tablets is now finally resonating with the marketplace. If you have an Android phone, you ought to go get yourself an Android tablet because all of your content just shows up.
+And I think if we could â if we use that â if we extrapolate it from that, surely itâs going to be a very large market. But weâre just going to have to wait and see how it develops. But Iâve got a lot of confidence in the ecosystem and our sales ability to build even greater tablets based around Android. And you can just imagine all the things that people are now doing as they hit this tablet. Itâs just going to be really wonderful. So I think the positioning of Android tablets is spot on.
+Now in terms of enterprise, thereâs a couple of ways to make tablets much more delightful for enterprise users. I donât use my tablet at the office because thereâs just too many incompatibilities. And for me itâs important for me to be able to see every number on the spreadsheet; just several of the numbers on the spreadsheet is not enough for me. And so I need to see all the numbers. And I need to see all the graphs. I need to see all the charts. Itâs too important to me. And thereâs just no reason for me to make that compromise. And thereâs a couple of ways to provide that.
+One is obviously Office and then the other is to virtualize it, which is the way Citrix does it. And Citrix and VMware and RemoteFX makes it possible for us to remote the entire PC experience to any device. And thatâs the reason why we created VGX and Iâm very excited about the work that weâre doing there. It has a real potential of freeing up all of our employees so that they can use whatever device they like and still be able to get 100% compatibility. So thereâs a couple of ways to do that, putting Office on a tablet, the pure Office version, and then putting the PC in the server and remote and virtualizing.
+JoAnne Feeney â Longbow Research
+Okay. Thanks for that. And then could you perhaps give us some thoughts about your operating expenses? Theyâve remained rather elevated. This is an investment stage in the new business, so thatâs understandable. But is this something where you feel like you need to hang on to this level of cost and you just hope to grow into these operating expenses or do you envision maybe coming to a point where youâve made the investments so R&D expenses will eventually fall?
+Jen-Hsun Huang
+Nothing would give me more joy than for us to be able to invest even more. We have more ideas than we can invest in right now and weâre trying to invest as thoughtfully and in a measured way. But as you mention, weâre in the process of reinventing our company. Weâre the only computer technology company that has made its way from the PC industry to the mobile industry. And now we have a real position in the mobile space, whereas there were â just one year ago, I think there was an analyst report that showed some 48 application processor companies in the world and we werenât even on it. And now, weâre probably number two.
+And so I think weâre making really good progress in making our way into the fastest-growing segment of the computer industry. And I think as a computer technology company I canât imagine why, I canât imagine how long-term you could have a sustainable advantage if youâre not one foot in the computer industry and one foot in the mobile computer industry. Itâs just too important not to be in these two segments. And so we made some investments. Weâre making investments to reinvent ourselves and I think that reinvention is really, really paying off.
+JoAnne Feeney â Longbow Research
+So it sounds like we should expect you to grow into those operating expenses over some time?
+Jen-Hsun Huang
+Yeah, we hope to grow our top line. I think Q2 was a good start. Q3, weâve guided to another quarter of growth and weâll take it from there.
+JoAnne Feeney â Longbow Research
+Any hint youâd like to give us on where you might find your OpEx percentage, say, four or six quarters from now?
+Jen-Hsun Huang
+I have no idea.
+JoAnne Feeney â Longbow Research
+Okay. Thanks.
+Jen-Hsun Huang
+Thank you.
+Operator
+Your next question comes from Arnab Chanda with Avian.
+Arnab Chanda â Avian
+Thanks. Jen-Hsun, just a couple of quick questions. First, historically I think, I remember your works Professional business actually had significantly higher margin than your other two businesses. Now youâre getting mix moving towards your GPUs and youâre still actually improving gross margins. Could you talk about that? Is that because of the new business model with TSMC? Is that because your cost structure is much better? If you could talk a little bit about that? Thank you.
+Jen-Hsun Huang
+Well, Kepler is a real margin driver and so when we ship enthusiasts, when we ship performance, those are all margin drivers. But youâre right that Quadro and Tesla were both down and they both have the highest margins and also because theyâre the highest value and the most software-intensive parts of our business. They have much higher margins and they were both down. And so the other businesses made up for their margins and more. But itâs the current business model and I prefer a die buy, to tell you the truth, and itâs just because itâs simpler for us and itâs more predictable for us.
+But now that weâre in the wafer buy model we just have to put a lot more intensity into yield improvement. And yield was better in Q2 than it was in Q1. Weâre expecting it to be better in Q3. And so we just we really have to drive the living tar out of it and be all hands on deck. It is a very, very important earnings driver for us. And weâre still far away from where we need to be. And where we were before was higher than this and so 28-nanometer overall is still dragging our gross margins as a company. But we need to â we have our sights on much higher margins than this.
+Arnab Chanda â Avian
+Great. And then I guess for the Tegra business, obviously one year has made a huge difference. Clearly it seems like nowadays people will agree there is a market for Android tablets. Could you talk about â you said phone versus tablet youâre focusing more on tablets, or you think thatâs where the growth comes from. To the extent you can give us some qualitative idea on Windows 8 or Windows RT I guess I should say; are you talking about multiple design wins? Is it a significant contributor for Q3? And how do you see that progressing? I would really appreciate that. Thank you.
+Jen-Hsun Huang
+We have 3 design wins on Windows RT. And I think Microsoft announced â well Microsoft announced theirs. ASUS announced theirs. And I donât think the third has been announced yet. So I wonât announce it for them.
+In the near term, tablets will be an important driver for us and the reason for that is because our segment of the phone marketplace is mostly focused on superphones and the performance phones. In order for us to grow much, much more, we have to integrate a very important piece called the LTE modem and so we have to integrate that and thatâs the reason why we bought Icera and when we do that, when we achieve that, our market opportunity grows substantially. Itâs many times larger than the current phone segments that we target. And so I think that in the next several quarters our primary focus is going to be continued smartphones or superphones and premium phones, and then of course ramping all of these tablets that weâve been designed into.
+Arnab Chanda â Avian
+Thanks, Jen-Hsun. It seems like your years of investment are finally paying off.
+Jen-Hsun Huang
+Thank you very much, Arnab.
+Operator
+Your next question comes from Craig Berger with FBR Capital Markets.
+Craig Berger â FBR Capital Markets
+Hey, guys. Thanks for taking my questions. Nice job on the quarter. I know you guys earlier in the year talked about 30 handsets on Tegra. Do you have any update for us there? How many of those handsets are now out on the market? How many might still be coming in the second half?
+Jen-Hsun Huang
+There are many that have already come out from HTC; The European models, the Chinese models, the Asian models, the U.S. model is coming out soon, I think. Thereâs the LG phones, the Fujitsu phones and now weâre in the process of ramping the phones that are indigenous to the Chinese market. Weâve ramped the ZTE phone.
+Thatâs also a global phone and weâre in the process of now ramping the superphones in the Chinese market. And so â but as you know, the real focus is to make sure that we build these phones as wonderfully as we can. Iâm just incredibly proud of the work that we did with HTC on the One X. Itâs just an exquisite phone. And so we just made â if we made a whole bunch more like that I think weâre going to be in good shape.
+Craig Berger â FBR Capital Markets
+Great. And the follow-up question is on the professional side of the business. How do we think about Quadro going forward? And can you also give us any update on your enterprise Tesla operations? Thanks.
+Jen-Hsun Huang
+Quadroâs position is better than ever. Our market share and our market position is the highest itâs ever been. The technologies and the capabilities weâre bringing to that marketplace we were just at SIGGRAPH this week and you mightâve seen some of the announcements. The work that weâre doing around Quadro plus Tesla to accelerate the design workflow is really revolutionary and people are just so excited about it because I was just reading a report today about one particular company that took a month-and-a-half to create a particular shot and is now able to do it literally in two days.
+So whether itâs rendering or video compositing or simulation in creating those shots and most shots today have so much computer graphics in it and advertising and HD advertising is a very big part of the work that we do with Quadro. Itâs really revolutionized how people produce videos. And so the work that weâre doing there is better than ever. And I have every confidence that as soon as the economy gets better or even if it doesnât get better, eventually people will have to upgrade their workstations because itâs at the core of the work that they do. Itâs the creative part of their company.
+And so irrespective of the economy at some point that people will have to come back and buy new workstations. I think part of it is people waiting for Romley to launch. Theyâre ramping up into the workstation space and I think that the ramp is just now ramping up. So I have every confidence that once those things get settled down that the enterprise customers will come back and buy again.
+Craig Berger â FBR Capital Markets
+And, Jen-Hsun, one more. You guys have a lot of cash. Got any plans for that cash?
+Jen-Hsun Huang
+The only plans that we have ready to announce right now is to make a lot more cash.
+Craig Berger â FBR Capital Markets
+Very nice. Thank you.
+Jen-Hsun Huang
+Thanks, Craig.
+Operator
+Your next question comes from Raji Gill with Needham & Co.
+Raji Gill â Needham & Co
+Yeah, thanks. And congrats as well. On the Tegra business it seems that most of the growth that occurred in the second quarter was coming from the tablet builds and it appears that, thatâs going to continue into the third quarter as well. I was wondering if you can give me any insight in terms of sell-in versus sell through. Any sell through rates you can talk about?
+Jen-Hsun Huang
+Letâs see. The first observation that you need is that most of the growth came from the tablet segment and in Q3 we expect to have even more tablets for the production. And so I donât know that I have much more insight than that. And weâll come back and report it as soon as we can. I think the highlight is just the market reception of these tablets have been better than any tablet that weâve ever (inaudible).
+Raji Gill â Needham & Co
+And just last question on the graphic card side that business is growing well in light of a very tough PC environment and you expect that to grow in the third quarter. So are you seeing kind of a resurgence in PC demand given the Ivy Bridge ramp corresponding with the Ultrabook Windows 8 or is it primarily market share gains, new product, customers? Can you elaborate a little bit further on that?
+Rob Csongor
+Hey, Raji, could you please mute your phone? Weâre getting a lot of noise on it. Thanks.
+Jen-Hsun Huang
+Thank you, Raji. A couple of growth drivers for us in GPUs. One of them of course is the notebook design wins on Ivy Bridge and Ivy Bridge was going to ramp in Q2 and it ended up ramping in Q3. And so thatâs one growth driver. Our market share is going to be higher, the attach rate is stable, and Kepler is just a really wonderful GPU for notebooks because itâs so energy efficient. The other growth driver is desktop. Weâre not seeing anything different than other people from a demand perspective, but itâs important to realize that desktop for us is not the same as OEM desktop.
+The vast majority of our GPU for desktops are sold to gamers. There are, hard to say exactly how many hard-core gamers around the world but itâs many, many tens of millions.
+And people estimate it somewhere around 50 million to 100 million core gamers around the world. And they upgrade their GPUs every couple years. And I think that Kepler is the best GPU weâve ever built. Itâs the best GPU the industry has ever built and itâs the best GPU in the industry today and so everybody has been anticipating the Kepler GPU for the gamer segment and we havenât been able to ramp into it because the demand or because the supply just didnât allow us to do it until now and so weâre going to be quite enthusiastic ramping Kepler into the gamer market and the reception has just been fantastic.
+Rob Csongor
+Operator, I think we have time for one more question.
+Operator
+Yes, sir. Your final question is going to come from Suji De Silva with ThinkEquity.
+Suji De Silva â ThinkEquity
+Hi, guys. Nice job on the quarter and the guidance. Just to follow-up on that last question, with the constraints on 28-nanometer is that impacting more the OEMs or the channel you just talked about Jen-Hsun? If it is the channel, is there the potential thereâs pent-up demand as that becomes available?
+Jen-Hsun Huang
+For desktop GPUs our desktop market, the OEM market is actually very small and itâs consistent with anybodyâs observations. I mean we donât buy desktop PCs very much from Tier 1 OEMs anymore. Itâs mostly and yet the desktop PC market is really quite vibrant and the reason for that is because gamers build their own PCs and there are tens of millions of gamers all over the world.
+And so I think, one, that the market is very different than people expect. Two, what drives the gamers are two things. One, great games and there are just some wonderful games coming out now and PC gaming is really surging. From a technological perspective, from a game play and interest perspective, itâs surging past game consoles.
+And then secondarily, the Kepler GPU is just so fantastic. Itâs the best GPU weâve ever built. And compared to what the current installed base is, it is so far superior that I think gamers have been clamoring for it. And yet, until now, the most affordable Kepler is about $400. Itâs only been available for enthusiasts â enthusiasts and scientists. And finally weâve been able to bring that, bring the price down to the level of a gamer â PC gamer and a volume that allows us to support the ramp.
+Suji De Silva â ThinkEquity
+Okay and then on share on the notebooks and Ivy Bridge, in the past youâve peaked around 65%, 70%. Do you think you can go above that with the Kepler product given the competitive landscape at this point?
+Jen-Hsun Huang
+Iâm not really sure. Give me a chance to see how it turns out and then weâll come back and report it.
+Suji De Silva â ThinkEquity
+Okay, great. Thanks, guys.
+Jen-Hsun Huang
+Yep. Thank you very much.
+Rob Csongor
+Okay, thank you, everyone. Thatâll do it for today. We look forward to talking to you about our Q3 results. Thank you.
+Operator
+This concludes todayâs conference call. You may now disconnect.

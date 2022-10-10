@@ -1,0 +1,298 @@
+Altera (ALTR) Q4 2012 Earnings Call January 23, 2013 4:45 PM ET
+Executives
+Scott Wylie - Vice President of Investor Relations
+Ronald J. Pasek - Chief Financial Officer, Principal Accounting Officer and Senior Vice President of Finance
+John P. Daane - Chairman, Chief Executive Officer and President
+Analysts
+James Schneider - Goldman Sachs Group Inc., Research Division
+Ambrish Srivastava - BMO Capital Markets U.S.
+Romit J. Shah - Nomura Securities Co. Ltd., Research Division
+Vivek Arya - BofA Merrill Lynch, Research Division
+Ryan Carver - CrÃ©dit Suisse AG, Research Division
+Steven Eliscu - UBS Investment Bank, Research Division
+Shawn R. Webster - Macquarie Research
+Christopher J. Muse - Barclays Capital, Research Division
+Ross Seymore - Deutsche Bank AG, Research Division
+William Stein - SunTrust Robinson Humphrey, Inc., Research Division
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+David Wu
+Srini Pajjuri - CLSA Asia-Pacific Markets, Research Division
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+Sumit Dhanda - ISI Group Inc., Research Division
+Daniel A. Berenbaum - MKM Partners LLC, Research Division
+David M. Wong - Wells Fargo Securities, LLC, Research Division
+Operator
+Good day, everyone, and welcome to the Altera Fourth Quarter 2012 Earnings Conference Call. As a reminder, this call is being recorded. At this time, I would like to turn the call over to Mr. Scott Wylie, Vice President, Investor Relations. Please go ahead, sir.
+Scott Wylie
+Good afternoon. Thank you for joining this conference call, which will be available for replay telephonically and on Altera's website shortly after we conclude this afternoon. To listen to the webcast replay, please visit Altera's Investor Relations webpage where you'll find complete instructions. The telephone replay will be available at (719) 457-0820, use code 258712.
+During today's prepared remarks, we'll be making some forward-looking statements. In addition, management may make additional forward-looking statements in response to questions. In light of the Private Securities Litigation Reform Act, I would like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear in our SEC filings. Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty and that future events may differ from the statements made. For additional information, please refer to the company's Securities and Exchange Commission filings, which are posted on our website or available from the company without charge.
+With me today are John Daane, our CEO; and Ron Pasek, Chief Financial Officer. Ron will open the call with a few brief remarks before turning the call over to John. After John concludes his remarks, we will take your questions. Prior to the Q&A session, the operator will be giving instructions on how you can access the conference call with your questions.
+I would now like turn the call over to Ron.
+Ronald J. Pasek
+Thank you, Scott. First, some comments on the quarter. Although revenue for the quarter was marginally lower than guidance, the gross margin and operating expense were spot on. New products grew 11%, with 28-nanometer contributing $18 million. In addition, we recorded our first SoC revenue in Q4 '12, and Arria V revenue was over $1 million for the quarter.
+Finally, as we mentioned last quarter, we did have two 10% customers in Q4, both in the telecom and wireless space. Stepping back and contemplating the year, 2012 was an obvious disappointment on the top line, but we continue to run a disciplined organization with robust gross margins and admirable expense control.
+Although revenue was down 14% for the year, we achieved a 33% operating margin, which demonstrates the resiliency and elasticity of our business model. After 9 years of FPGA share gains, we did cede some market share in 2012, but the share loss was mostly across our older products. Based on publicly available data, nearly 2/3 of the erosion came from 65-nanometer and older products that are, by their nature, in the sale of decline phase of their life. Said another way, both companies saw declines in these older categories, but our competitor's decline was not as sharp a drop as ours. Yes, some share erosion did occur in our new product category, but that loss was dwarfed by the losses across the older products.
+Future FPGA share growth and strength is a result of new product results where we are well-positioned. At $565 million, we sold $154 million or 38% more of these new products in 2012 than our main competitor. With an estimated 63% Altera share, 40-nanometer has not peaked and will remain the largest part of new products. 28-nanometer design win data shows us holding share in about the same range. Finally, recognize that new products were 32% of our revenue for 2012 versus only 19% for our competitor. So we not only are maintaining a new product absolute dollar lead, but new products for us are a higher percent of our business.
+On to guidance for Q1. We see revenue declining 4% to 8% sequentially. Some of this decrease is due to a headwind with one specific customer moving to a direct VMI arrangement, where we recognize revenue as the customer pulls the inventory. Book-to-bill so far this quarter is less than 1, but adjusting for this VMI transition, it is greater than 1. Turns are in the mid-40s for Q1, so marginally higher than we have seen recently, but still well below historically higher levels.
+We are forecasting a return to robust 28-nanometer growth following a Q4 pause. Additionally, although we don't have perfect visibility from what we see today, we believe that Q1 '13 is the bottom as we see sequential revenue growth returning in Q2 '13.
+Finally, a word on tax guidance for the year and for the first quarter. The core tax rate for the year will now be 11% to 12%, 2 points lower than I guided in December and entirely the result of the reinstatement of the R&D tax credit. Additionally, the estimated tax expense for Q1 reflects the favorable adjustment for the retroactive R&D tax credit for 2012, as well as the adjusted rate for 2013. So you should see a rate of 4% to 5% for the quarter.
+Now let me turn the call over to John.
+John P. Daane
+Thank you, Ron. Fourth quarter revenue decreased 11% sequentially with weakness in communications and industrial markets. Telecom, wireless, networking, industrial and military all declined. Computer grew as we continue to ramp server programs. For the full year 2012, our revenue declined 14%, the result of industry-wide softness in the communications and industrial markets, combined with 2011 business in military and networking that did not repeat in 2012.
+Telecom and wireless markets each declined due to slowdowns in the end markets in China and the U.S. The decrease in networking was entirely the result of the onetime, short-term ASIC replacement business we shipped in 2011.
+Industrial declined due to the weak global economy. Military was down due to several programs that did not repeat or were at lower levels in 2012. Automotive and computer, on the other hand, grew as we continue to ramp new design programs into these early-stage markets.
+For our first quarter, we are forecasting a 4% to 8% sequential revenue decrease. Telecom and wireline should decline on soft end market conditions, combined with the one major customer transitioning to VMI. Automotive will increase on new program ramps.
+We believe 2012 was a bottom for military and networking and that both markets should grow in 2013. Computer and automotive should also grow in 2013 with design wins continuing to move into production. Should LTE deployments start in China and pick up in the U.S., we should see solid growth in the wireless market as well. Based on current customer forecast, we expect wireless to grow sequentially in Q2.
+With design implementation costs and wafer costs increasing with each new process node, PLDs will continue to replace ASICs and ASSPs. We leverage our R&D investments across many customers and markets and as our revenue per node increases, our return on investment is not impacted by the rising design costs. And with die sizes that are in general larger than the ASSP and ASIC industries, we have the ability to cost reduce our products in 20-nanometer, 14-nanometer, and we believe 10-nanometer as well, even with the headwind of rising wafer costs.
+We are confident our R&D -- our investments in R&D will enable us to grow at least twice as fast as the semiconductor industry. We are currently in design of FPGAs in 20-nanometer planar and follow-on FinFET technology, IP to integrate with our FPGAs through silicon convergence to replace ASSPs, microprocessors for the embedded market, a new CPLD family, 3D packaging for system solutions, and new design tools including our OpenCL compiler to improve productivity and to open new markets.
+Now let me turn the call back to Scott.
+Scott Wylie
+We would now like to take questions. [Operator Instructions] Operator, would you please provide instructions and poll for questions?
+Question-and-Answer Session
+Operator
+[Operator Instructions] We'll go first to Jim Schneider with Goldman Sachs.
+James Schneider - Goldman Sachs Group Inc., Research Division
+I was wondering if we could dig in to the wireless business a little bit, specifically, first of all, is the decline you're expecting in Q1, is that driven by just 1 customer or 2 customers, or was it kind of across the board in wireless? And then as a follow-up, can you maybe talk about the expectations that you have for the wireless business as we head through 2013 and what might be the drivers. Is that just going to be the U.S. or would you expect a pick up from Europe or China as well?
+John P. Daane
+Jim, why don't I go back and start with maybe Q3 and then kind of go through time with wireless because they're different phenomena happening. First of all, if you go back to the third calendar quarter of 2012, We grew sequentially in wireless with both TD-SCDMA deployments in China and LTE prototyping as well as LTE trials. We had projected a decrease for the fourth calendar quarter because of the ASIC conversion of one of our larger customers. And while wireless was down sequentially in Q4, much of the loss that we had from the ASIC conversion was actually filled in by continuing strength in TD-SCDMA and also shipments into W-CDMA or 3G. And in particular, what we were experiencing in the quarter was shipments for the 6.1 phase of TD-SCDMA for China Mobile.
+So while again, wireless was down in Q4, it was down a little bit and far less than we had originally projected. So business was actually fairly robust in the calendar quarter Q4. It will be down this quarter for 2 reasons. One is, the major customer that Ron pointed out with a VMI transition, we effectively take 1 of our 2 largest accounts and we'd lose 1 month of sales to that account, as we transition it to a VMI program. And because that's in the communications area, including wireless, it obviously affects our wireless number. The second reason is we're between the phase 6.1 and what is expected to be the 6.2 phase of TD-SCDMA. So both of those reasons are leading to the decrease. Now the reason that we're projecting wireless to go up in the second calendar quarter from the first is again based on our customer forecast. We're seeing an increase for TD-SCDMA for the 6.2 ramp and then also China Mobile is doing what they're calling Phase III of LTE, which is a fairly aggressive rollout of the equipment, and we should see a really good ramp of that towards the end of the second calendar quarter and then continuing strongly into the third.
+So that's based on what we know, and again, if we were to take the one customer that was transitioning to a VMI program out, wireless might be down just a little bit, but not a lot this calendar quarter.
+James Schneider - Goldman Sachs Group Inc., Research Division
+That's helpful color. And then just a quick follow-up. Can you quantify about how many points of sequential decline is due to that VMI transition you mentioned?
+Ronald J. Pasek
+Yes, so Jim, this quarter, it's about 1/3 of the decline.
+Operator
+We'll go next to Ambrish Srivastava with BMO.
+Ambrish Srivastava - BMO Capital Markets U.S.
+My question is on your comments about growth beyond the first quarter. The PLD industry, we all know, notoriously low-visibility, high turns. Besides wireless, what gives you the confidence that you will see a return and Q1 is the bottom for your business? And my follow-up is, John and Ron, if you could please update us on the ASIC conversion, is there any other conversion that you have visibility into? Any other major program that could potentially blindside us again over the next few quarters?
+John P. Daane
+Okay. So to answer that backwards, there is no ASIC conversion that we are aware of that's either going to happen in the short run or the long term. We're not aware of any other programs that are currently in transition that account for any significant revenue.
+Ronald J. Pasek
+Ambrish, the reason we feel the way we do about Q2 -- and if you remember last year, we did the same thing, we guided Q1, and we gave just one view directionally of Q2. We do, do a rolling 6-month forecast, but obviously the visibility in that second quarter is not as good as it is the first quarter. So we're convinced that it is directionally up. I'm going to give no color or detail about where or what markets, et cetera. But directionally, we do see Q2 being up, similar to last year.
+Oh, yes, the other thing I might add is, book-to-bill for the quarter, as I said was -- is right now negative, but when you adjust for this VMI arrangement, it actually is positive. So if we had been an apples-to-apples, we'd be positive for the book-to-bill at this point this quarter.
+Ambrish Srivastava - BMO Capital Markets U.S.
+So Ron, you said similar to last year, last year was a huge guide down...
+Ronald J. Pasek
+I only meant similar in the fact that it's directionally up, don't assume I'm sort of suggesting it's going to be up to that same magnitude. Again, when we gave directional guidance last year, we didn't give any magnitude at all.
+Ambrish Srivastava - BMO Capital Markets U.S.
+That's right, okay.
+John P. Daane
+And part of the reason that we're also seeing some of these markets are at the bottom is, if you kind of go back in time, remember we talked about in 2011 that due to the tsunami in Japan, there were some factories that were impacted. We had a customer that was doing some high-volume ASICs at one of those plants. They needed to continue to ship their products. They migrated their designs over to our FPGAs and basically took product for about 1.5 quarters. We did call that out, but obviously on a year-over-year basis, it challenges the networking business. So while networking grew, without that, with it included 2012 versus 2011, networking declined. Military, as we mentioned, also was an area that was impacted by some programs that purchased heavily in 2011, didn't repeat or repeated at a lower level in 2012. Some of that was because of the winding down of military operations overseas, some of that is just program timing. Ultimately, we look at military now as being a bottom for us as well. And again, we're getting some good buy signals out of communications from orders and forecast from our major customers both for LTE, as well as some of the continuing third-generation deployments. So that kind of leads you to where we get with some of the markets. Some of the others, harder to call, we'll have to see how industrial performs in 2012. Obviously, that's tied more closely to the macroeconomic environment, very difficult for us to project at this time. But some of that we do or can see absolutely a bottom for program timing reasons, others just in the short run based on what we're seeing from order and forecast activity out of our customer base.
+Operator
+We'll go next to Romit Shah with Nomura Securities.
+Romit J. Shah - Nomura Securities Co. Ltd., Research Division
+Just running through the numbers, you mentioned that 1/3 of the decline in telecom is due to this VMI transition. So if I strip that out, I've got total revenues down about 4%. That's still about 8 points below where Xilinx is guiding for Q1. My questions are, one, do you agree with my math? And second, if I'm trying to reconcile the differences, is it just a function of having more exposure to Asia-Pac and some weakness here in military?
+Ronald J. Pasek
+So you got to go look at the pattern for last year. I think if you go through the quarters, we weren't lined up at all. So in the September quarter, we were up significantly, they were down. In June, we're up really significantly, they were slightly up. Obviously, both down in December. So I think you have to go look at the trajectory for both companies through the calendar year last year.
+Romit J. Shah - Nomura Securities Co. Ltd., Research Division
+Okay. And then as a follow-up, Ron, in terms of OpEx for the year, are you still sticking with the outlook you provided in December?
+Ronald J. Pasek
+Yes. Yes, we are. I'm not changing full year guidance.
+Operator
+We'll go next to Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya - BofA Merrill Lynch, Research Division
+One for Ron and then one for John. So Ron, the VMI transition effect, is that a one quarter event or are there going to be any residual impacts in future quarters? And then for John, just a longer term question, you have been gaining share for Xilinx for many years. What specific -- and I'm sure in all those years, there were always transitions between older and newer products. So what specifically changed in 2012 to turn the tide where they started to gain share back?
+Ronald J. Pasek
+So Vivek, the VMI transition was for one specific customer, and I don't expect it to have any effect on any future quarter. Again, we could have another large customer doing a similar arrangement. At this point, we don't know of one.
+Vivek Arya - BofA Merrill Lynch, Research Division
+Got it.
+John P. Daane
+On market share, I think if you kind of strip this down, what you see is that roughly about 2/3 of the market share gain that Xilinx had this year, in calendar year 2012, was from mainstream and mature products, which is not a normal transition in our business. So I realized while they've sort of intimated that it's because of 40-nanometer and 28, when you go look at our categories of new, mainstream and mature. And again, our categories line up pretty well. What you'll see is it's really mainstream and mature driving a vast majority of the number. And I think that's due to some onetime events that they're doing, which I would leave for them to comment on. If you look at the gain that they did have in 40-nanometer, I guess, you could explain that entirely by the onetime upside business that we got in 2011 in the networking category that we broke out at that period of time, which gave us a float in 2011, and obviously, we said would not continue. Take that out and it was very limited, if any, market share gain either way. Overall, I think the most important thing is, if you look at the new products, which represents 40 and 28, it's at less than 20% of our competitor's revenue, it's about 1/3 of ours. So I think, it's -- we're in a much better position to take advantage of the growth of the new products going forward because 40-nanometer will continue to grow this year, and obviously 28 will be a growth driver for several years. And overall, as the older business deteriorates, the math just shows we will continue to take market share, because our market share as a company is much lower than our market share in 40 and 28. So as the old stuff finally goes away and some of these last time events that our competitor seems to be doing transition, we just naturally will gain market share in the industry, and that's just pure math.
+Vivek Arya - BofA Merrill Lynch, Research Division
+Alright. And then just one other last one, John, if I may. In the past, you have expected to -- you have made some comments about gaining share at the larger European customer. Are those discussions and those engagements still on track? Should we expect to see a major ramp of that customer in 2013?
+John P. Daane
+Yes, I think you're seeing that already last quarter. As Ron mentioned, we had 2 customers that were over 10%. One was a large customer in Asia and one was a large customer in Europe. The large one in Europe will actually probably be under 10% because it's the one doing the VMI transition. I think everybody could figure that out by the math. The customer that we have in Asia actually probably will be up as a percentage this quarter because their business is actually doing better than we've guided for the overall market. So it's the VMI transition and then some of the other customers that are going through some softness in their end business. That one large customer in Asia is doing fine this quarter with us. So overall, I'd expect we will continue to have the #1 market share, both in telecom and wireless, in our large Asian customer, and we will absolutely be #1 this year in the European customer.
+Operator
+We'll go next to John Pitzer with CrÃ©dit Suisse.
+Ryan Carver - CrÃ©dit Suisse AG, Research Division
+This is Ryan Carver in for John Pitzer. Can you talk a little bit about, it looks like in this quarter you mixed more into industrial as a percentage of revenue and based on the guidance you gave, it looks like you're going to be mixing further into industrial and military and automotive, but yet your gross margin guidance is sort of below where you guys reported for the prior quarter, can you walk us through a bit of the cause for that margin, sequential margin decline?
+John P. Daane
+We're pulling the data because if I look at the last quarter, actually, industrial and military were down as a company. I think this quarter, if you look at it, yes, probably you'll get a slight increase out of industrial and military, automotive sector because the communications area is the one that we're expecting to be longer. Overall, I think you kind of have to dive into particular products and companies and mix and all sorts of different events within these customers in order to kind of get at that. So it's kind of hard -- we try to tie it to high-level categories to say, for instance, this category is higher or lower than the company. It actually goes into particular programs, because even in military, you can have a high volume program which carries lower margin than for instance, something that could be in communications. And so in general, if something increases or decreases by 1%, and basically you saw the automotive, industrial and military business go up 1% as our business at calendar quarter Q4 from Q3. It's not necessarily going to have a major directional impact on the overall gross margins.
+Ronald J. Pasek
+Yes, I think what we guided was 69% to 70%, and what we reported in Q4 was 69.7%, so I wouldn't say that's really margin erosion.
+Ryan Carver - CrÃ©dit Suisse AG, Research Division
+All right. And then I guess combining the break between phase 1 -- phase 6.1 and 6.2 in Asia and then this VMI adjustment in Europe, can you kind of give us some color in terms of geographies, what you're looking into in terms of calendar Q1 and expectations for 28-nanometer milestones going forward?
+John P. Daane
+So I guess what we've seen is a slowdown in North America and the U.S. in terms of the end markets. I think that it's been known for a while. I won't give any color on our end shipments, because they're really irrelevant. You can get a design that's done in Europe, that's manufactured in Asia, that goes into a U.S. carrier. So we would recognize it as Asia business and really, it's kind of irrelevant because that's not where the business was designed or shipped to. So at this point, I really can't provide any more color than I think we probably already did. Thank you very much.
+Operator
+We'll go next to Steven Eliscu with UBS.
+Steven Eliscu - UBS Investment Bank, Research Division
+I have a couple high-level questions. Just looking at the full year, if we look at your -- just looking at the non-new products, they decline by about 1/4 last year in aggregate. Is there something potentially happening in FPGAs where the new products are used and then potentially systems are getting cost reduced where perhaps you're not aware that the design is switching to some type of processor or other ASSP? Can you reflect on that?
+John P. Daane
+I think if you look at the verticals which have products in production for a longer period of time, they tend to be products, for instance, in the military and industrial areas as an example. Consumer products typically will turn every 1 to 2 years, where they redesign the product. Communication systems can be into production for 5 years to 10 years to 15 years, depending on the system. But the real long tail can be, for instance, in your industrial business. And if you look at our numbers, what we've seen, really, because of the slowdown in the macro, is our industrial numbers are down significantly. Should the industrial -- industry start to recover, actually what you'd see is some of our mainstream business start to grow again and even some of our mature business may have a couple of quarters where that business were to increase. So it's just actually a phenomena where we're seeing very significant and very sharp declines in some of our long-lived product segments. When those businesses do turn around, those revenues from those older products will come back and come back fairly strongly.
+Steven Eliscu - UBS Investment Bank, Research Division
+Yes, that actually leads to the follow-up question, was just specifically when we look by segment, the decline, the biggest decline last year was clearly in industrial, and I assume some of that had to do with the military programs that you said should see some recovery this year, but is there something maybe characteristic about the industrial market where it sounds like -- based on what you said, it just sounds like you have less confidence about the recovery, and I'm wondering, just given the disconnect between your decline and the overall decline of the industry last year of 3 -- about 3%, that there's something more systemic with regards to FPGAs fitting into those applications.
+John P. Daane
+We actually correlate our industrial numbers. So this is industrial, it does not include automotive or military. Just pure industrial. We correlate those numbers with actually some of the analog companies because they have a very broad industrial base business as well. And our numbers are down about as much as theirs. So we think that, that's another way of saying that this is just weakness in industrial because you've seen a slowdown in economies throughout Europe, North America and China as an example. And customers are also remaining very cautious and trying to minimize inventory. So military was the largest declining sector for us on a dollars basis last year, industrial was #2. And those 2 things had an impact on some of our mainstream and mature product lines and that's why you see the decrease. We're not aware of anything that we're losing. We actually do and have a lot of efforts going on to sell our existing products into the industrial base. So we have very good contact with many of the major customers in that space and we're not aware of any transitions that are going on. And again, they'd be perfectly honest, if they were, because they've got nothing to lose by telling us. We're competing with other types of products. So we think we've got good visibility there, and this is just really in the industrial side represents what's happening in the global economy.
+Steven Eliscu - UBS Investment Bank, Research Division
+That's helpful. And just as a quick one, if you can disclose the percentage of sales for your top 2 customers?
+Ronald J. Pasek
+I don't have it off the top of my head. They're just slightly above 10% for the European equipment maker and about 12% for the Chinese equipment maker.
+Operator
+We'll go next to Shawn Webster with Macquarie.
+Shawn R. Webster - Macquarie Research
+Maybe you might have answered this question as part of your other discussion just now, but if I look it on the basis of devices, you had really sharp drops in your CPLD and other products, whereas FPGA didn't do as badly when you're looking at either a quarterly growth rate or the year-over-year. Is that also related to industrial or are there some component specific things going on in those markets?
+John P. Daane
+Yes, we have a larger CPLD business as a percentage of total in the industrial segment than we do in a lot of the other segments, so that tracks fairly closely to that overall business. And then in the other area, I don't have -- oh, other would be related to -- yes, I don't have a good explanation that I could provide for there that I know off the top of my head.
+Shawn R. Webster - Macquarie Research
+Okay. And then as far as the miss in Q4 versus your expectations, was there any one particular area driving that and can you share with us maybe how the order linearity has progressed in December and into January?
+Ronald J. Pasek
+So there was no one. It was just general macro softness. I couldn't isolate it to a specific vertical or even customer for that matter.
+Shawn R. Webster - Macquarie Research
+Order linearity?
+Ronald J. Pasek
+It wasn't bad. It was actually pretty good. It wasn't -- as you know, this wasn't a large miss on the guidance we reiterated in December, so a couple million bucks.
+Operator
+We'll go next to C.J. Muse with Barclays.
+Christopher J. Muse - Barclays Capital, Research Division
+I guess first question, a number of fabless guys have talked about skipping 20 given the rising costs and not having the benefits of FinFET and deciding to push to 16. So curious, A, are you considering that? And B, if so, what would the implications be to your cost structure that you've outlined for calendar '13?
+John P. Daane
+So we are doing design, both in 20 and in the follow-on FinFET technology, which is called 16, it's actually 20-nanometer technology. So we will do business in both the FinFET and the planar transistor. The reason we're doing planar is because of the schedule of FinFET, but you should expect the cost per transistor of the FinFET will actually go up. And the reason that will go up is just to form a FinFET, for instance, over a planar transistor increases the complexity by about 40 processing steps and introduces more chemicals and materials. So if you get the same die size, a FinFET transistor will actually be more expensive. So for that reason -- this is also part of the reason why we're doing some work in the 20 planar technology, as a 20-nanometer FinFET will be more expensive.
+Christopher J. Muse - Barclays Capital, Research Division
+That's helpful. And as a quick follow-up, in terms of the VMI arrangement, can you talk about what the impact is on both the pricing and margins?
+Ronald J. Pasek
+There is no impact on pricing and margins. Simply when a large customer essentially would normally hold some amount of raw materials, work in process and finished goods, with our inventory being some of the raw materials, when you get a VMI arrangement, say simply say, I want you to hold the raw materials and they don't pull it until it goes into work in process. There's no pricing implication. It is stickier, though.
+Christopher J. Muse - Barclays Capital, Research Division
+And I guess I lied. A quick follow-up there. How do you see the catch-up trade with the revenues coming back. Is that something we should see entirely in Q2 or could that bleed into Q3?
+Ronald J. Pasek
+We don't do forecasts out to Q3 at this point, but I can't comment on the second half. You just have to look at some of the macro trends that you might believe [indiscernible].
+John P. Daane
+Just for this one customer, is that the question?
+Christopher J. Muse - Barclays Capital, Research Division
+Yes, I'm just trying to understand. You said it's about a month push out, so roughly, I guess, $10 million that's being delayed. So curious, do we see all of that come back and then some in Q2 or how should we think about that?
+John P. Daane
+You should think about, you sort of permanently lose 1 month because basically, you're now taking on the inventory that the customer may have had. So where they may have bought the product and put it into inventory, now, essentially, you're putting it into inventory, and they pay for it when they pull it. So you lose the 1 month permanently, but when you look at it at quarter-over-quarter basis, yes, I mean, the business obviously improves. In Q1, you see 2 months of shipments to a customer. In Q3, you see -- excuse me, Q2 you see 3 months of shipments. Does that make sense?
+Christopher J. Muse - Barclays Capital, Research Division
+Yes.
+Operator
+We'll go next to Ross Seymore with Deutsche Bank.
+Ross Seymore - Deutsche Bank AG, Research Division
+Just a couple of things I want to make sure I get the math right on. For your first quarter guidance, even if I take the VMI side out of it, it seems like you'd still be down roughly 10% sequentially in your telecom and wireless business if everything else, with the up slightlies and down slightlies are kind of, of the same magnitude. I guess, first, is that math right? And if so, what's driving the non-VMI wireless down that much?
+John P. Daane
+Now there's other businesses which are actually going to be down in the first calendar quarter, as well. I mean, if you look at a lot of the rest of the markets, a couple may be up, a couple may be flat, but some of them will be down as well and will contribute to it. So it's not just communications, although the reason we call that communications is it's a bigger piece of it. But we'll probably see some decreases across some of these other markets as well. Certainly, as an example, consumer is forecasted to be down this quarter because of seasonality. We had a strong Q4. Consumer was up in Q4. It's going to be down this quarter. So there's a few others as well.
+Ross Seymore - Deutsche Bank AG, Research Division
+Got you. I guess similar kind of math question. Ron, I believe you said that your one Asian customer was, the big customer, was about 12% of sales in the December quarter. If I recall, it was about 16% in the third quarter. If I run through the math, it looks like that was about half of the sequential decline from 3Q to 4Q in total revenues. Is the explanation of that similar to this ASIC replacement side of things? Is it inventory? How do I get my arms around that, if you could help, please?
+John P. Daane
+So you want to correlate it with the ASIC replacement. And as we pointed out, it pretty much cleanly happened where we enjoyed a full quarter of the FPGA sales in Q3, and we got no FPGA sales in Q4. So there's no additional impact of that into Q1. And we sort of sized it for you at -- if you took it, it was roughly $20 million of impact in Q3 to Q4, but overall for the year, the Q3 or calendar quarter Q3 was a little bit stronger than normal. So on a full year basis, it's much less than the $80 million that you would get by multiplying it times 4.
+Ross Seymore - Deutsche Bank AG, Research Division
+And that's all behind us now?
+John P. Daane
+Fully behind us, no impact actually into Q1 at all from Q4.
+Operator
+We'll go next to William Stein with SunTrust.
+William Stein - SunTrust Robinson Humphrey, Inc., Research Division
+First, I'm wondering if you'd talk about the booking trend or linearity in the quarter x the telecom, that end market with telecom. My understanding is that would be the end market that would typically have the greatest portion of turns. And so I'm trying to hone in on the end markets outside of that. Is that right? And then maybe the question about linearity.
+Ronald J. Pasek
+So I'm sorry, you were asking a Q1 question?
+William Stein - SunTrust Robinson Humphrey, Inc., Research Division
+First, am I correct in my assumption that the wireless and telecom end market has the greatest portion of turns relative to the other end markets. And then assuming that's right or whether it's right or not, maybe talk about trends in order linearity in Q4 and into Q1 x that end market.
+John P. Daane
+So Ron and I don't have any data in front of us, but our guess would be telecom and wireless would probably have higher turns just slightly.
+Ronald J. Pasek
+Right. Yes.
+John P. Daane
+We have more customers that have VMI programs in communications than we have in any other segments. Now VMI would also include, if I mention communications is also spilling to the networking area where we have them as well. Military companies generally give you longer age backlog as an example, so that may be lower. Overall, though, we don't break out the turns or the...
+Ronald J. Pasek
+By vertical.
+John P. Daane
+Or by vertical, which is why we don't have any data in front of us. But as Ron mentioned, that the order pattern -- and maybe I'll leave that to him to make a comment.
+Ronald J. Pasek
+Yes, so order pattern for Q4 was pretty normal and actually so far this quarter given what we're seeing on the book-to-bill, it's actually fairly normal as well.
+William Stein - SunTrust Robinson Humphrey, Inc., Research Division
+Okay. And then one other brief follow-up. On the end market commentary, you highlighted computing being strong owing to an emerging position in servers. I'm wondering if you can elaborate on that, maybe tell us where you expect that to go over the next year.
+John P. Daane
+Yes, we actually expect computer to grow fairly strongly for us for a couple of years. We have a value proposition there where we now find that -- if you kind of go back in time, GPUs, particularly NVIDIA did I think a really good move where they took their GPUs into the server space knowing that the GPU will run certain algorithms at a much faster rate than the CPU and knowing that many people now are purchasing servers for one specific application, for instance, search or compression technology as examples, there are others. A lot of those algorithms are mathematics algorithms and again run much faster on a GPU than a CPU, and they were able to, with a development of a program called CUDA, enable a C-programmable path to their GPUs and were able to integrate their GPUs in a lot of servers and grow the business. What we've done uniquely in the PLD industry, particularly FPGAs, is we recognized that FPGA actually will run algorithms at a faster rate than GPUs, but at an order of magnitude, less power. And so we've got a much better value proposition than either a CPU or a GPU in a lot of these server applications. But unfortunately, you've had to program our FPGAs with HTL [ph] code and that requires hardware engineers. So we developed a OpenCL compiler to be able to program from a C-like language down to our FPGAs. That's something that we actually announced and deployed in Q4. We had customers working with us all year on that. And that has now allowed us to move our FPGAs into server applications. And so we've got design wins, either that are design wins or designs that are in production with 4 of the top 5 server manufacturers. And those server manufacturers include companies who use their own servers. In other words, they're designing their own servers and manufacturing them for their particular application. And so we think that this opens up a great market for us because they use the largest of your FPGAs, which means that they're the more expensive versions and the lifetime of these is only a couple of years before the servers are replaced. And these can be in financial applications. They can be in search applications. They can be in compression, storage applications. And so we think it can grow fast, and we think it can be a market which can show good replenishment over time of very expensive parts. And it is an area for which we really have a unique value proposition or competition in FPGAs because we're the only ones who have a compiler to enable our customers to use the technology. So overall, computer has been growing very well for us. We would expect it to again grow very well this year.
+William Stein - SunTrust Robinson Humphrey, Inc., Research Division
+If I can squeeze one more in. You spoke last call about the low end of the market going after a smaller competitor there. Perhaps it's very early days in that development, you talked about higher R&D expense to go after that market. Any update in that?
+John P. Daane
+No. We'll announce the products later, as well as the other products. What we really tried to do is outline what are we doing with the R&D investment that we did last year and we're doing this year in terms of all the products. Because obviously, we've had a trend towards not announcing our products or capability unless it's available in the market or close to being available or the software is out. And as such, people will wonder what we're doing, and so we thought we'd provide a little bit more color on all of the programs that we're doing because there are many more than we have maybe 5 years ago. And developing a new CPLD/low-end FPGA is something that we're absolutely pursuing, and we'll provide an update when we announce the product.
+Operator
+We'll go next to Christopher Danely with JPMorgan.
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+John, you talked about you expect 28-nanometer to be up substantially this quarter. Can you just give us the approximate impact of the VMI transition and then just on that note, a little background on VMI, do you have any other large customers on VMI? Why did this customer go to VMI? I guess, can we expect this or could this happen to any other customer?
+Ronald J. Pasek
+So Chris, I didn't understand the 28 question, are you asking a question of whether 28 is affected by this VMI?
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+Yes, you said that the customer is going to go to VMI, so is that going to be at 28-nanometer?
+Ronald J. Pasek
+No. I don't think you should expect it to have a material impact from that one customer. The range we think will be this quarter for 28-nanometer is $25 million to $30 million in revenue.
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+Okay. And then the other, like sort of broader question on VMI is, do any other customers do this?
+Ronald J. Pasek
+Yes, we have it with a couple of other large customers. And again, it's fairly uncommon except with some of our very largest customers.
+John P. Daane
+Mainly in the communications area, telecom, wireless, networking. This particular one was one where they actually had a VMI program. This was with a third-party. And in this case, we would ship it to the third-party and recognize it as revenue. The account had a VMI program. What they're doing is they're just transitioning the program to VMI with all of their major lines. This happens to be our quarter of transition. Some companies saw the transition last year, some may see it later in the year, some may see it next year. They're just kind of doing it one account at a time transitioning into a true VMI program instead of using a third-party.
+Christopher B. Danely - JP Morgan Chase & Co, Research Division
+And just as a quick follow-up, you said that your OpEx is going to be the same as the guidance you gave in December. If we assume above seasonal growth the rest of this year and double-digit growth next year, I think we're still going to be pretty far from the operating margin target. So can you give us a sense of how we can get there and could we expect OpEx to be down in 2014 on a year-over-year basis since it's going up this year?
+Ronald J. Pasek
+Yes, Chris, you're asking some good questions. I can't really comment on 2014. We haven't even begun to plan for 2014, really. The guidance we gave for the long-term operating model was a long-term guidance. Certainly, we didn't contemplate being down 14% this year. So I still think it's a very good target. It may look slightly different. As you can see, we're well above that 67% gross margin. So you may see us higher in certain categories and lower in others. But I still think it's a very good target.
+John P. Daane
+I think that it is a very valid question. I think about 2014 we in fact talked about that. I think the problem that we have is, it really is far too early for us to exactly know or plan out what we're going to have for all the products and the product mixes for next year into our R&D expenses. And there's a variable component that hits our company as well and without knowing what the trajectory is going to be next year, it's very hard for us to predict. And I think the reason you can kind of see that is as Ron detailed in our November call, actually much of the expense increase this year is due to the variable side. We had a poor year last year. We're expecting to have a much better year this year and that drives higher expenses just because of the variable side.
+Operator
+We'll go next to David Wu with Indaba Global Research.
+David Wu
+I got 2 quick ones. The first one is, I couldn't catch everything you said about the initial customers for using FPGA for servers. Are those sort of the large mega-center end user like the ones in the Valley or are they PC OEMs that have several offerings?
+John P. Daane
+So when we looked at this, David, what we said is, look at the top 5 manufacturers of servers. And actually when you look at it, a couple of them are companies that have their own cloud services or they have their own compute farms. And some of them are companies that sell servers to many manufacturers. So when we looked at them, we looked at the top 5 of those. And again, we're engaged with -- currently 4 have either designed our products in or have ramped into production with our products.
+David Wu
+Oh, I see. The other one I want to clarify is, if you're going to go to essentially two 20-nanometer process on the next-generation, the FinFET, since it's more expensive as a transistor level, I assume you use it because it gives you faster transistors which suggest that the high-end would be on FinFET and the more cost-sensitive ones would be using planar. Did I get it right?
+John P. Daane
+I would hate to comment on that because it gives a lot of competitive information out. You're right that the FinFET transistor will provide higher performance and lower power or one of either. If you go for performance, you can get much better performance at the same power, same performance, you get much lower power, you can kind of moderate it between if you like. And it will depend on the particular market and the particular product of what you're trying to do. And I apologize, it's a good question, I just don't want to go into details because of competitive reasons to provide the detailed product roadmap at this point.
+Operator
+Go next to Srini Pajjury with CLSA Securities.
+Srini Pajjuri - CLSA Asia-Pacific Markets, Research Division
+A couple of clarifications. John, you said at 28-nanometer, you are the design win leader. I'm just wondering, what needs to happen for us to see you being the leader in terms of revenues, is it just a matter of some end markets ramping or is it just a matter of time, if you could give us some color, that will be helpful.
+John P. Daane
+It's just a matter of time, I think as you've seen with our products, the 28-nanometer ramp to a large extent, is no different from what you've seen in the prior generations. Each node has been larger in total than the prior node, but they take a while. And the reason that they take a while is if you think of the markets that we serve, military, communications, industrials, as examples, you tend to see customers engage, they'll spend about 2 years to develop their chip, debug their system before they deploy it. So you get some early prototyping revenue in the first couple of years, some early preproduction, but it's not really until years 3 through 6 that you see these products really start to ramp very aggressively. So I think at this time, what you're seeing is really prototype and early production revenue. And given another couple of years, that's when you'll be able to gauge who won. It's very easy for us to tell or have a really good statistics around what we're doing. Obviously, with the communications accounts, the big industrial accounts, military companies, networking, automotive companies, there's not thousands of end customers to talk to. And so you know exactly what you're winning, exactly what you're losing. It's a good way to correlate your overall business. Obviously, we were the incumbent from 40-nanometer, that helps us substantially. We have a lot better products and features than our competitor. And so based on the feedback from companies, based on what we see from our product rollout, we keep correlating to the fact that we're winning still 2/3 of the business, certainly over 60%. Even when we load in that maybe we just don't see everything, so let's put a plug-in that our competitor is winning some business we don't see. Even when we do that, we're winning over 60% of the business. So I think it's going to take a couple of years. As you saw, it was fairly small in terms of revenue last year. But nevertheless, if you look at 40, which will continue to ramp this year, and 28, our market share is certainly much, much higher than our overall FPGA market share, which is about 44%. So as the old stuff goes away and the new stuff grows, we just will naturally continue to take market share.
+Srini Pajjuri - CLSA Asia-Pacific Markets, Research Division
+Okay, that's helpful. And then Ron, the European customer, you said grew to 10% in Q4, did they actually grow sequentially in Q4 or is it just that they became 10%?
+Ronald J. Pasek
+No. They did grow sequentially.
+Srini Pajjuri - CLSA Asia-Pacific Markets, Research Division
+Okay. And then finally, just a clarification on the tax rate. You're guiding for 4% to 5% for the quarter, I'm just wondering if we should model that going forward or is it going to go back up to your normal rate.
+Ronald J. Pasek
+Yes, so it will go back up to what the full year rate would be for, say, Q2, which would be 11% to 12%, 2 points lower than I had given guidance on in December, simply because of the reinstatement of the R&D tax credit.
+John P. Daane
+And back to the question, if I could, that Chris had asked. I mean, I guess a follow-on thought is, do we see any other customers that are going to do a VMI transition that would cause a revenue impact, and we don't see anything on the radar screen at this point that will have the sort of impact that we have with this one large customer this quarter. So I want to make sure that everybody understands this. We do these transitions from time to time, but nothing on the radar for the next several quarters that would have us again come back and say we've got a one-term, short-term issue from a customer.
+Operator
+We'll go next to Brendan Furlong with Miller Tabak.
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+I just want to follow back on a question that was kind of asked earlier. If you look at your largest customer in telecom, which you're saying is going to be up a little bit in the March quarter and the VMI is going to be down. It implies that the rest of your telecom business is pretty weak or weaker. I'm just wondering if you can walk through where that is and what areas of the business that is.
+John P. Daane
+You are correct that we have a couple of accounts within communications that will be down sequentially from Q4 into Q1. Nothing that I can really provide you at this point, because some of it may go into detail about accounts. Nothing of a long-term trend that we see. In fact, we do believe communications, telecom and wireless will be up in the second calendar quarter. But it is -- you're right on that observation, in that some of the other communications accounts will be down in the first calendar quarter for us. Some of that is the market, some of that is accounts, some of that is for instance because we're in between the phases of TD-SCDMA, seen the ramp down after 6.1 and we're about a quarter away from the ramp up of 6.2.
+Brendan Oliver Furlong - Miller Tabak + Co., LLC, Research Division
+And then, and the other kind of question I have a follow-up is, normally you have a -- in your mid-quarter update you have a pretty good handle on your business, as you had in the past. And obviously, you've missed the bottom end of the range. Can you give us any sort of color what happened in the last couple of weeks of the quarter that actually just caused you to miss the bottom end of the range?
+John P. Daane
+There wasn't any particular customer or wasn't any particular vertical, it was just the weak -- the business was a little bit weaker than we thought it would be.
+Ronald J. Pasek
+Brendan, the other thing is, you look at September, we actually were above the high-end of the range. It's not exact, so...
+John P. Daane
+The challenge that you have is obviously, we have inventory and customers can order it and get it right away or they cannot order it. And so sometimes you can see pickups towards the end of your quarter, sometimes you'll see some weakness. And it's just, I think it was roughly, we were off by $9 million or something, which if you think about customers, it can be a few or it could be several that contribute to that. And again, it's always hard to exactly call what your business is going to be when you're in a turns environment.
+Operator
+We'll go next to Sumit Dhanda with ISI Financial.
+Sumit Dhanda - ISI Group Inc., Research Division
+Just one follow-up on the 28-nanometers, John or Ron, so first, I think last quarter you had indicated that there was $4 million in delinquencies. Was that part of the $18 million number that you reported? And then just related to that, your comment for robust growth in 28 nanometers, can you give us sort of a point figure of what you expect in the first quarter?
+John P. Daane
+As Ron pointed out, the expectation for 28 was, for this quarter, calendar quarter Q1, was $25 million to $30 million. Could potentially be more, depending on customers. We did have -- we were able to service the delinquency that we had in the fourth calendar quarter. We did have some other customers that we expected to take some revenue who pushed out into the first calendar quarter. And then have likewise pushed out some of their business that they were going to do in Q1 to Q2. Not uncommon to see during this period of time as customers are trying to debug their systems. Sometimes they're not quite ready to go into production due to other reasons. And so we saw some of that change in the quarter.
+Sumit Dhanda - ISI Group Inc., Research Division
+I guess my second question was just around the turns. Last quarter, you did I guess low-40% in turns. It seems like you've had trouble forecasting that number on a consistent basis, and this quarter you're forecasting slightly higher turns. Just anything that gives you the confidence, whether it's bookings in the early weeks of the quarter or something else that allows us to feel better about the number you've guided to?
+Ronald J. Pasek
+Yes, a couple of things. So as I mentioned earlier, when you make the adjustment for the VMI customer, we do see positive book-to-bill. And as I said earlier, we're pretty much on the linearity we'd expect this far, this quarter. So both of the things are positive.
+John P. Daane
+Yes, I think that the turns number that we have actually right now is at a very low number.
+Ronald J. Pasek
+40s.
+John P. Daane
+We should absolutely be operating in a high 50s, low 60s basis on a normal basis. So what we saw in Q4 is actually, we had some customers push out their backlog, which is why our turns number continues to be low this quarter. So instead of canceling the backlog, what they've done is simply pushed it out and that keeps our turns number artificially low again this quarter, because we're carrying more backlog than we normally would. So it's actually good in that we have a turns number in the low to mid-40s because that means we have a lot more visibility than normal.
+Operator
+And we'll take our final question from David Wong with Wells Fargo.
+Daniel A. Berenbaum - MKM Partners LLC, Research Division
+You talked about 20-nanometer products, can you give us some idea as to when you expect to be sampling these in silicon? And also as you evaluate future technologies, are you looking at any new foundries to supply different technology roadmaps from what you currently offer?
+John P. Daane
+So David, was that on 28 or 20?
+David M. Wong - Wells Fargo Securities, LLC, Research Division
+20.
+John P. Daane
+20. Okay. Thank you. so on 20-nanometer, as is typical with us, we will announce the products when we have the software. So what I do not want to do at this point is mention anymore than we're in design with 20-nanometer and the follow-on FinFET. Exactly when and what the products are, I'll leave to the product marketing group when they actually are in a position to announce, and that's usually based on the software availability. We do look at other suppliers of technology, whether it is foundries, package suppliers, substrate suppliers. We're constantly in evaluation of technologies that are available in the industry. And if we find something that we absolutely need for our products with a different supplier, we may indeed switch. But as you also know with us, we've maintained a very unique position in that we try to minimize the number of suppliers that we have because we do think that through having fewer suppliers, we have a higher spend, which gives us better service, better terms, better quality and also, we can do some custom R&D through these companies as well. So right now, we have a few companies that are our partners who are continuing to focus on those companies. If indeed there is any change, I'm sure we'll talk about it when that change occurs.
+Scott Wylie
+And as we wrap up today, as to this quarter's conferences, on February 13, we will be at the Goldman Sachs Technology and Internet Conference in San Francisco. And on February 25, we will present at the Morgan Stanley Technology, Media & Telecom Conference, also in San Francisco. This concludes Altera's Earnings Conference Call. Thanks for your interest and participation.

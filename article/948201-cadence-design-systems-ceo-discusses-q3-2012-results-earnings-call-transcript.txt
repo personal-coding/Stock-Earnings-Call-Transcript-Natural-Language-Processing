@@ -1,0 +1,259 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q3 2012 Earnings Call October 24, 2012 5:00 PM ET
+Executives
+Allan Winstrom â Director, Investor Relations
+Lip-Bu Tan â President, Chief Executive Officer and Director
+Geoffrey Ribar â Senior Vice President and Chief Financial Officer
+Analysts
+Richard Valera â Needham & Company
+Mahesh Sanganeria â RBC Capital Markets Equity Research
+Jay Vleeschhouwer â Griffin Securities, Inc.
+Gus P. Richard â Piper Jaffray, Inc.
+Sterling Auty â JPMorgan
+Satya Kumar â Credit Suisse
+
+Operator
+Good afternoon my name is Ally and Iâll be your conference operator today. At this time, Iâd like to welcome everyone to the Cadence Design Systems Third Quarter 2012 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakerâs remarks there will be a question-and-answer session. (Operator Instructions)
+Iâd now like to turn the conference over to your host Alan Lindstrom, Group Director Group Investor Relations. Mr. Lindstorm, you may begin your conference.
+Allan Winstrom
+
+Thank you, Ally. And welcome to our Earnings Conference Call for the Third Quarter of Fiscal Year 2012. The webcast for this call can be accessed through our website cadence.com and will be archived for two weeks.
+With us today are Lip-Bu Tan, President and CEO and Jeff Ribar, Senior Vice President and CFO. Please note that todayâs discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the facts that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadenceâs most recent reports on Form 10-K and Form 10-Q including the companyâs future filings and the cautionary comments regarding forward-looking statements in the earnings press release issued today. In addition to financial results prepared in accordance with generally accepted accounting principles or GAAP, we will also present certain non-GAAP financial measures today
+Cadence management believes that in addition to using GAAP results and value in our business, it can also be used to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial measures which can be found in the quarterly earnings section of the investor relations portion of our website.
+A copy of today's press release dated October 24, 2012 for the quarter ended September 29, 2012 and related financial payables can also be found in the investor relations portion of our website.
+Now, I will turn the call over to Lip-Bu.
+Lip-Bu Tan
+
+Good afternoon everyone and thank you for joining us. Momentum continued in Q3 as we delivered strong results. Total revenue was $339 million. Non-GAAP operating margin was 24% and operating cash flow was $92 million. While the semiconductor and world economic environments remain soft and uncertain, most of our customers continue to invest in new designs for electronic products. Ongoing design activity and our own strong pipeline and backlog gave us confidence in raising our Q4 guidance. Geoff will discuss later in the call.
+Now, let us start with highlights for Silicon Realization. In Q3, we strengthened our capabilities at advanced nodes, including 28 nanometers, 20 nanometers and 16 nanometers and below.
+We continue to focus on advanced technology and collaborate with leading foundries and key ecosystem partners on test chips for the 16 nanometer and 14 nanometer FinFET based processes. The Encounter digital platform has been used for over 150 tape-outs at 28-nanometer, over 40 at 20-nanometer, and 5 at 16-nanometer and below. Because our Virtuoso custom analog platform is the gold standard, Cadence tools are used for virtually all advanced node designs.
+Our customers are realizing the benefits of our renewed focus and investment in sign-off solutions. Recently, ST Microelectronics used our integrated sign-off technologies and cut several weeks from the design cycle for a complex SoC.
+We collaborated with ARM to optimize their POP IP with our Encounter digital platform to improve power, performance and area for ARMâs Cortex A9 and A15 processors. TSMC recently qualified our Encounter digital, Virtuoso custom-analog, and sign-off tools for its 20-nanometer design infrastructure.
+Our Incisive verification platform continues to be preferred for designing and verifying complex SoCs. Recently, ST Microelectronics reduced verification time from 35 weeks to 25 weeks by using Incisive with Cadence Verification IP on a 32-bit microcontroller.
+Cadence is the leader in mixed-signal solutions. As consumer, mobile and automotive market segments grow, the demand for mixed-signal solutions is growing. Building on our leadership in analog design this demand is driving increased adoption of our digital and verification tools.
+We recently published the industryâs first mixed-signal methodology guide, which has been embraced by designers. Our recent mixed-signal technology summit is also quickly sold out. Both indicate the growing importance of the mixed-signal market segment.
+Denso, a global automotive components manufacturer in Japan, switched to our integrated mixed-signal flow and significantly improved quality and productivity on a low-power mixed-signal SoC.
+3D-IC designs that combine separate processor and memory chips in the same package have the potential to significantly improve performance and reduce power in mobile products and extend Mooreâs law. Cadence is the leader in 3D-IC design. We just announced that as part of an ongoing collaborative effort, TSMC has validated our 3D-IC design flow with test chips. TSMCâs test chips used both our design tools and Wide I/O memory controller IP and PHY.
+Next let us look at SoC Realization, we continue to make progress in both Design and Verification IP. Cadence is focused on providing industry-leading memory and storage controllers, PHYs and verification models. In Q3, we announced our DDR4 memory controllers and PHYs, the first available in the industry, were also the first to be silicon proven on the TSMC 28-nanometer process. The advantages of DDR4 should be especially appealing to high-speed infrastructure providers that serve the cloud market segment.
+Verification IP continues to be one of our fastest growing product lines. We signed our largest VIP contract to date with a major customer. This demonstrates the growing need for quality VIP to verify complex systems and the successful delivery of these components by Cadence.
+Recently, Samsung was able to significantly accelerate the validation of a PCI Express interface for its solid-state drives using Cadence Accelerated VIP with Palladium XP. Accelerated VIPs running on Palladium XP increased the productivity of Samsungâs validation team by 100%.
+Now letâs talk about System Realization, where we see great momentum. We continue to see strong customer demand for Palladium. Hardware-assisted verification continues to grow rapidly due to increasing hardware-software codevelopment challenges faced by the customers that develop complex systems, with emulation as the preferred technology to address that needs.
+The technology advantages of the processor based Palladium solution gives us leadership position in emulation and enables Cadence to capitalize on strong demand for this technology.
+In Q3, Palladium XP sales was strong, with multiple new and repeat orders from both systems and semiconductor companies. We now expect sales to be flat-to-up for the year. Palladium has particularly strong momentum with companies serving the high-end consumer market, including mobile and gaming products and cloud infrastructure.
+Our PCB and IC Packaging product lines continue to see good growth. Integration of Sigrity technology into our Allegro platform is going well, and customers are very interested in the integrated solution. Recently, we delivered new technology for both OrCAD and Allegro platforms, including capabilities that accelerate the timing closure for high-speed interfaces by 30% to 50% and enable design collaboration using Microsoft Sharepoint.
+Cadence is focused on technology leadership. The industry is seeing that, as a result we are now attracting outstanding technologists from inside and outside the industry to join the Cadence team.
+In summary, Cadence delivered strong Q3 results. And we are working with customers and partners on their most challenging designs and we continue to strengthen and expand our silicon realization product portfolio. Our Design IP and VIP portfolios are expanding, and the demand remains strong for Palladium XP.
+With that, now Iâll turn it over to Geoff, who will review the financial results and provide our outlook.
+Geoffrey Ribar
+Thanks, Lip-Bu, and good afternoon, everyone I will review the results for the third quarter, present our outlook for Q4 and update the outlook for 2012. For Q3 Cadence continued to produce strong operating results. Total revenue was $339 million, compared to $326 million for Q2, and $292 million for the year ago quarter. Year-over-year growth was 16%.
+Product and maintenance revenue was $310 million, and services revenue was $28 million. The revenue mix for the geographies was: 43% for the Americas; 20% for EMEA; 20% for Asia; and 17% for Japan. Total costs and expenses on a non-GAAP basis for Q3 were $257 million, compared to $253 million for Q2, and $240 million for the year ago quarter.
+Q3 headcount was 5,119, compared to 4,850 for Q2. The Sigrity acquisition added 110 employees and the rest primarily came from hiring in R&D and technical field positions.
+Non-GAAP operating margin for Q3 was 24%, compared to 23% for Q2, and 18% for the year ago quarter. For Q3, we recorded GAAP net income per share of $0.21, compared to $0.23 for Q2. For Q3, non-GAAP net income per share was $0.21, compared to $0.19 for Q2, and $0.14 for the year ago quarter.
+Operating cash flow for Q3 was $92 million, compared to $67 million for Q2, and $52 million for the year ago quarter. Total DSOs for Q3 were 34 days, compared to 36 days for Q2, and 50 days for the year ago quarter. Our DSO target is approximately 35 days.
+Capital expenditures for Q3 were approximately $8 million. Cash and short-term investments were $745 million at quarter-end. About half of that cash was in the U.S. For Q3, approximately 90% of all orders booked were ratable. Weighted average contract life for Q3 was 2.4 years. On a weighted average basis, run-rates on Q3 contract renewals increased over the prior contracts.
+Now letâs address our outlook for the fourth quarter of 2012, and our update for fiscal 2012. We are increasing our fiscal 2012 outlook for bookings, revenue, earnings per share, and cash flow due to the strong Q3 results and the expectation of continued strong demand in Q4.
+For Q4 2012, we expect revenue to be in the range of $335 million to $345 million. Q4 non-GAAP operating margin is expected to be in the range of 22% to 23%. Non-GAAP total costs and expenses will be up sequentially, primarily due to the impact of higher bookings on sales compensation and continued growth in headcount, particularly in R&D and technical field positions.
+GAAP EPS for the fourth quarter is expected to be in the range of $0.13 to $0.15. Non-GAAP EPS for Q4 is expected in the range of $0.18 to $0.20 cents.
+Now for our update of the fiscal 2012 outlook. Bookings are expected to be in the range of $1.325 billion to $1.345 billion, compared to the prior range of $1.305 billion to $1.335 billion. We expect weighted average contract life to be in the range of 2.5 years to 2.6 years for 2012, and to book at least 90% of our business for the year under ratable arrangements.
+We expect revenue to be in the range of $1.315 billion to $1.325 billion for 2012, compared to the prior range of $1.295 billion to $1.315 billion dollars. Non-GAAP operating margin is expected to be in the range of 22% to 23% on an annual basis for 2012.
+Now I want to take a moment to provide some preliminary commentary on 2013. Our 2013 non-GAAP total costs and expenses will reflect a full year of costs for Sigrity, our ongoing incremental investment in R&D and technical field positions, and routine increases in employee-related costs. We expect to drop approximately 50% of incremental 2013 revenue through to operating income and we expect to achieve a mid-20s non-GAAP operating margin for the fiscal year 2013.
+Non-GAAP other income and expense for 2012 is expected to be in the range of a negative $11 million to a negative $9 million dollars. For 2012, we expect â weâre assuming a non-GAAP tax rate of 26% and weighted average shares outstanding of 278 million to 282 million shares.
+GAAP EPS for 2012 is expected to be in the range of $0.58 to $0.60. Non-GAAP EPS is expected to in the range of $0.75 to $0.77 compared to the prior range of $0.70 to $0.74.
+For 2012, we expect operating cash flow to be in the range of $300 million to $320 million.
+DSOs for 2012 are projected to be approximately 35 days. Capital expenditures for 2012 are expected in the range of $30 million to $35 million dollars.
+We continued to execute on all fronts in Q3, sales, engineering, and operations, as we exceeded expectations for our key metrics. Near-term pipeline is strong, which gives us confidence in our Q4 guidance.
+Cadence and the EDA industry generally are clearly delivering value to our customers. However, we are concerned about deteriorating semiconductor business conditions and the impact it could have on our customersâ willingness to invest in R&D. At this point it is too early to tell whether this may or may not have an impact on our business in 2013. As is our practice, we will provide our 2013 outlook with our Q4 earnings release.
+Question-and-Answer Session
+
+Operator
+(Operator Instructions) And your first question comes from Rich Valera with Needham& Company.
+Richard Valera â Needham & Company
+
+First question just on the macro environment, with two following up on your questions about customer behavior, and it sounds like you said most of your customers are still spending on design and seeing, I think, youâre seeing strong demand from them, but that might suggest that some customers maybe are pulling back a little. So, I just wanted to get maybe a little more color on what you are seeing from customers and if there are maybe some customers that are pulling back at all at this point?
+Lip-Bu Tan
+Sure. Rich, thank you for the question. So first of all, I think clearly in a short-term there are some in the environment. The macro environment in Middle East, Europe slowdown, China slowdown, but meanwhile, I think, we didnât see much slowdown in our customer base in some of new products they are launching, the R&D they are spending.
+And clearly, we see some end markets like mobile, data center infrastructure are growing, clearly some slower sector like PC and some portion of the consumer, but all in all I think there is a lot of excitement about new product announcements like Apple, Microsoft and others. So I think overall the trend is a lift in mix in the short-term and meanwhile in the longer-term I think there is a lot of new product coming up; R&D, we didnât see any slowdown.
+The other big trend we see is the application driven design and more software content and then mixed signal content become more and more and then the design complexity that really need new and innovative factor solutions and that clearly play into our strength and now that weâve been investing take the leadership in some of the area of designs and technology customer, ecosystem partners that we have been working very close the last few years and weâre clearly delivering the value, the design tool, the IP that they need and so clearly we are looking forward for the outlook.
+Richard Valera â Needham & Company
+Okay. Thatâs helpful. And with respect to emulation, obviously, youâre continuing to see impressive strength there and youâve pumped up your guidance for the year there, wondering if youâd be willing to take anything about next year on emulation, I know you donât want to give specific guidance, but any thoughts on whether emulation could in fact have another year sort of on par with this year flat up or down or anything that youâd be able to say about the suitability of that business would be helpful?
+Lip-Bu Tan
+So Rich, thank you so much for the question. So, clearly as I mentioned, demand for Palladium remains strong and then weâve guide, flat to up for this year and I think the Palladium is a go standard and then the processor based design and what the customer looking for in term of performance, capacity and then the design and that is critical to them. And I mentioned earlier before, 40-nanometer and below anything that is processor intensive, this is a must have, is a go standard, and we continue to see the strong demand as long as the industry continues to do that.
+And then meanwhile, we also caution about the environment, this is a hardware product and but clearly the need of finding the bugs earlier and verify that. Itâs critical for system and semiconductor companies.
+Geoffrey Ribar
+
+And I think, Iâd like to add again these products are largely used 24/7 at our customers, itâs not just our products, but itâs our competitors products. Really is 24/7, believe itâs a secular trend.
+Richard Valera â Needham & Company
+Thatâs helpful. Thank you. And one final one if I could, I guess this is for you Geoff, you gave couple of sort of metrics that youâre looking at for 2013, the 50% incremental margins and targeting a mid?
+Geoffrey Ribar
+
+Rich, we lost you. Operator, can we â maybe take the next question, and when Rich gets back on line, weâll go ahead.
+Operator
+Yes sir, your next question comes from Mahesh Sanganeria with RBC Capital.
+Mahesh Sanganeria â RBC Capital Markets Equity Research
+
+Actually, I was going to follow-up on Richâs question on, you gave some metrics for 2013 and I missed part of it, if you can reiterate that that would be helpful to start with.
+Geoffrey Ribar
+
+Sure, I think the two key metrics again which weâve said before, we expect to get to the mid-20s in 2013 for the full year and generally we expect to be able to drop 50% of the revenue increase to the bottom line, of course that somewhat always is going to be depended on macro economic conditions, the size of the growth and an acquisition can potentially change that, but that's generally have been our matrix that we delivered on over the past few years.
+Mahesh Sanganeria â RBC Capital Markets Equity Research
+Okay, then the next question is for Lip-Bu, you have been closely monitoring the business for a while and the history of the business that we have really which was more of a static and now you're beginning to see some signs of some real growth and so if you can give us based on your time spent with the customers what do you expect the industry could grow for the next five years and what are some of the factors we should considering an estimate meeting that, that would be very helpful.
+Lip-Bu Tan
+
+Yes Mahesh, thank you so much for the question. And yeah, clearly I think and as you know I spend a lot of time with the customers and now overall I am excited about this EDA industry, the future is very bright and our true end solution is really needed essentially for the customers for that design and as you know I'm very passionate about the semiconductor industry that denote semiconductor is the heart of all the key electronic design and couple of big trend I see from the customer one is the application driven design and clearly it help a lot in some of from the foundry, IP tools and also the software stack and now that vertical collaboration is critical for success and we see that and we busily provide our tool in IP to address that challenge.
+And so thatâs why I think clearly the design application driven design, and also the mixed-signal, more and more components semiconductor mixed-signal, and the analog, digital all come together. And this is very complex in the design, and that is critically helpful for us for doing that. And so â and meanwhile, big an opportunity is the data center infrastructure, the web-enabled applications, and then the mobile as we all know from smartphone to tablet, and now itâs really driving all the growth of that.
+So I think all in all, I think this is a tremendous opportunity. But clearly, we are very mindful of the macroeconomic and some of our customer has seen some slowdown. As I mentioned earlier, in Middle East, in Europe and China, and also U.S. were recovering. And so I think all in all, we put that factor in and we watch very carefully and we work closely with our customer and our IP partners and foundry partners, so that we are really on top of it.
+Mahesh Sanganeria â RBC Capital Markets Equity Research
+So â I know, we talk about the macroeconomic environment and â but I think you have been delivering â the industry has been delivering pretty consistently. Even the Palladium, which is a hardware tool, which is I am assuming that booked some revenue in the same quarter. I mean that seems to be better than expected path. I guess that demand is a concern, but are there any specific sign youâre seeing whether thatâs going to impact or you (inaudible) and the reality is that semiconductor companies have to continue to invest to stay on their product pipeline that they canât slowdown and the EDA industry will not be impacted, which side would you take that eventually will hit you or you think that EDA industry can remain largely immune driven by the fact that the customers donât have a choice, but to continue to stay on the product roadmap?
+Lip-Bu Tan
+Yeah very good question, Mahesh. So let me answer a couple of key points and then Geoff can follow-up with that. So first of all I think clearly we see a major trend, itâs a system company co-vertical starting from Apple, Microsoft and Google, they all have their own hardware product, they are starting to embrace the semiconductor to optimize some of the software and the services they want to provide and clearly time to market become more and more critical and so clearly we can now see more growth in the verification side and you touch on the Palladium is one of the key factor on the verification any thing that you can find apart earlier and then you can come to the time to market earlier, I think that will be a success factor for winning the customer.
+And then the other thing I mentioned earlier is the whole mixed signal design. Itâs very hard to find a pure digital, there is a lot of analog component you have to integrate in. So I think the real big challenge for all the customer are really the power, low power is critical in mobile, in infrastructure related product. Area, and clearly we have the string to a size that fit into the â in a hardware platform and then clearly time to market is most critical. And then the other thing is the competitive nature of the business and the semiconductor it become more and more important that youâre able to provide a platform. So not just the chip, the system, the software spec and you have to be all integrated together and thatâs where I think the industry is moving through that direction and weâre so well positioned to capture that.
+Geoffrey Ribar
+
+I think the other point Iâll raise Mahesh is, obviously, our customers are having some challenges right now and having a tough quarter and the outlook isnât great. But largely they are keeping engineering teams intact, those were a few exceptions, but largely keeping the engineering teams intact. And as to specific signs, we havenât seen any, but weâre going to continue to be cautious as we look at the environment being what it is.
+Mahesh Sanganeria â RBC Capital Markets Equity Research
+Okay. Thatâs very helpful. Iâll just get back in the queue. Thanks.
+Operator
+Your next question comes from Jay Vleeschhouwer with Griffin Securities.
+Jay Vleeschhouwer â Griffin Securities, Inc.
+Lip-Bu and Jeff, Iâd like to ask first about where you are and I think momentarily investing particularly in headcounts, which you did bring up on the call. A recent check of your website shows that there has been a small increase lately in the number of open positions that youâre looking to fill geo, thatâs particularly the case it seems in the U.S. and by product area, it looks as though you are more actively looking for in Encounter and custom IC less so with respect to PCB and Palladium. The question is, are these headcounts integrations a reasonable indication of your intentions by geo or by brand, and particularly in the case of customer, it does look again as youâre looking to hire more people. Is that something that you would be doing it anyway or is this perhaps a response to the SpringSoft acquisition?
+Lip-Bu Tan
+
+So, Jay, good question. Let me start and then Jeff check-in. So first of all, I think clearly, we increased our headcount and right now itâs about 5,119 and then some portion it come from the security acquisition and some of them come from the recruitment that we have actually done. And then I mentioned in my remarks that now weâre really excited about some of the top talent we are able to attract from the industry and outside the industry to come onboard, we create a culture that people can come and innovate and weâre going to be the leadership in the technology side.
+So I think in some of the investment we have been very focused on R&D recruitment and also we now focus on the FAE the customer support to support our customer better. I think the investment so far we have been very focused on taking the leadership in the digital especially in the advanced nodes, thin fab, 3D-IC, we are taking the leadership there and then in the advanced nodes and then secondly, our commitment to ARM in the ARM ecosystem and we have a lot of success in there, we are going to continue expend that and then we also had mentioned in the final area and customer is really looking for automotive.
+Now we are well positioned to address that and then in some of the IP (inaudible) and now we have been continue to drive success in the verification IP, we continue to have a process growing area and then we also double that in some of the design IP especially in the memory storage controller find area and also in high speed interface area and then in some of the system side continued capital on the Palladium leadership as a go standard and then also driving some of the â PCB become more and more critical in thermal packaging, IC packaging, board packaging, to serve the vertical customer better.
+And then beside digital the other one is the analog, we double down, take the leadership further in some more advanced nodes and also some of the features and performance we continue to drive success on that. So I think across the board we are really looking at the roof mat, with LIBOR we have, we continue to focus on execution, continue to extract the best talent inside and outside the industry to able to lead from some of the aid design.
+Geoffrey Ribar
+
+Yes and I think Jay, look regarded, it's across-the-board where we're making investments in R&D and in technology part of the sales organization, again we continue to follow EDA 360 as far as our investment philosophy is, and then please donât take over every place for investing some times we get people on board.
+Jay Vleeschhouwer â Griffin Securities, Inc.
+
+Okay, question on emulation, actually a couple of questions one, could you comment at all on remaining backlog and how lead times look like now, there was in the quarter a pretty substantial reduction in your inventory which I assume would have been recently correlated to the emulation deliveries, so are you at a point now or perhaps you need to materially rebuilt the emulation backlog or could you comment at all on how lead times, we're trying to look there.
+Geoffrey Ribar
+
+Yeah, so there has been no change really in our business. We were happy with some progress we made on inventory and I think we're happy with that progress. We shipped a couple of units right at the end of the quarter which is one reason why inventory is down. Our Backlog is great and our lead times are consistent with industry practice.
+Jay Vleeschhouwer â Griffin Securities, Inc.
+
+Alright and then lastly on the software side, to the extent that your tools has been enabled for double patterning which you talked about back for instance few months ago, is there some measurable impact that you could talk about in terms of pricing benefits from that capability or improvements and license consumption or utilization as a result of this new capability.
+Lip-Bu Tan
+Yeah, let me start that, and now clearly when you move the geometry down 20-nanometer to 16-nanometer and 14-nanometer thin-fab double patterning, triple patterning is a very differentiating that we need to have and we work very closely with the leading foundries, and then we continue to drive some of the leadership in that.
+In term of pricing, I donât think you will see so quickly, I think itâs more in term of the showing the capability and then helping our customer and our foundry partners work closely with them to enable that to happen and so that we can drive the success with our customer. The pricing and consumption and all this will come later. I think the volume as you know is still very small during the test chips and proofing the performance is more important right now and then a couple of leading customer engaging behaviorally. And so, but the volume and revenue is still small and â but I think over the years, it will grow.
+Jay Vleeschhouwer â Griffin Securities, Inc.
+Thank you.
+Geoffrey Ribar
+
+Thank you.
+Operator
+Your next question comes from Gus Richard with Piper Jaffray.
+Gus P. Richard â Piper Jaffray, Inc.
+I just want to talk a little bit about trends and tape-outs for 28, 20 and 16, can you just quantitatively talk about or qualitatively talk about how thatâs been trending, are you starting to see an acceleration in 28-nanometer tape-outs and how much of the 20-nanometer activity at this point is test chips versus people actually taping out full devices?
+Lip-Bu Tan
+Yeah, very good question. And right now as I mentioned, we have 150 tape-out in the 28-nanometer, as I think in some of volume increase right now 28 nanometer are the majority of that. And then in some of 20 nanometer, I think clearly we have done a lot of â end of 40, and counting and the 20 nanometer and itâs very much in the early space of test chips and small volume, I donât think it would be significant in the remaining of the year, but is engaging. And then most of the leading companies and customer are heavily engaging with us and we want some mixture and is that why itâs very important we emphasis TSMC qualified all the key tools at the 20 nanometer, so that â and TCP when the customer rolling out on the volume, we will be there, so they can use our tool and can be fabricated in the leading foundries and thatâs something that we are really focused on getting done.
+In some of the 16, in our 14, that is thin fab 20 nanometer and then 3D-IC, we have five and is counting and we are excited to engage with the leading customer and the foundries and IP partners to do that because that is critical for the next phase quite obviously 20 nanometer and then some of the complex design or low power require, there are some clear benefit of that, we want to make sure that we have the growth map, able to engage with the customer and then with the partners in the IP and foundry, we can qualify and fabricate it when they are ready. And thatâs how are â to modify, get ourselves ready to support them.
+Gus P. Richard â Piper Jaffray, Inc.
+Okay. Thank you for â itâs very helpful and then as a follow-on question, Iâm noticing a little bit more activity in 3D packaging, 2.5D packaging both in the interposers, you know it appears that some people are going to be reaching a much higher volume manufacturing by the end of next year and with your recent acquisition of Sigrity, I was wondering if you are seeing a similar increase in activity and if you could just talk about the opportunity there, it would be helpful.
+Lip-Bu Tan
+
+Sure. So I think clearly, as I mentioned, we are the leader in 3D-IC. We are very engaged with our foundry partners and that is critical. And then as you know, as much as the technology so the cost involved. And so I think so far the deployment of the 3D-IC have been slower. And then clearly, people are moving to 2.5D that engaging, but I think in term of the (inaudible) revenue from that further down the road, but I think we definitely want to make sure that we â our tool and then working with our foundry partners make sure that when they are ready, we are able to support our customer in a cost effective way to drive that.
+Gus P. Richard â Piper Jaffray, Inc.
+Got it, okay. Thanks so much.
+Geoffrey Ribar
+Thank you.
+Operator
+And your next question comes from Krish Sankar with Bank of America.
+Unidentified Analyst
+
+(Inaudible) calling in for Krish Sankar. I just wanted to get a little bit more color on your view on the acquisitions that have been occurring in the space. Can you may be give us your thoughts on how you envision your conversations with customers may have changed with Synopsys acquiring Emulation company, EVE as well as, as Jay had mentioned Synopsys integrating SpringSoft into their business now, which goes up against your custom IC design, and I noticed that your custom IC design segment as well as sale to Asia has grown pretty nicely during the quarters. Maybe if you can comment on that?
+Lip-Bu Tan
+
+Yeah. Itâs a very good question. Let me try to address that. So first of all, I think you have two question, one is the EVE and also SpringSoft and more specifically on the Synopsys acquisition on both, so let me try to address both of them. So first of all, SpringSoft, clearly, the largest portion of the SpringSoft function verification. And they are known for the debug capabilities. And then 20% of their revenues come from the custom and analog. And so clearly, itâs the lower end of the market. And so those are the two thing that they have, we watch very closely on them. And then meanwhile and we are very confident with our product Incisive and in fact we just announced our Incisive Debug Analyzer to counter that and also our Virtuoso is a go standard. And 6.1 itâs the preferred solution for the advanced, custom and digital analog and design.
+And so we are confident with our clearly road map that I review our quarterly with our team; and basically, we will be driving the road map, we love what we have and we are aware of the function verification that they acquire from SpringSoft, we are aware of their analog that they bought on SpringSoft in Magna. And they still have to sort it out in term of the overlapping and then flow and meanwhile we are laser focused on our area of our strength.
+In some of these acquisitions and clearly we know the â clearly, they are addressing the low end of the emulation and then prototype application on (inaudible). Meanwhile, our Palladium is a go-standard and we have road map, we continue to thrive and we have the processor based Palladium and that clearly the customer like, the feedback is very positive. We continue to drive our road map and continue to engage with the customer to provide the capacity, the performance and the requirement from the customer.
+Unidentified Analyst
+Thanks. Thatâs helpful. And last quarter, you had announced orders for 14 Palladium XP units for one particular customer. Can you provide us with an update on expectations about when these units are expected to ship?
+Geoffrey Ribar
+No, we are not giving specific, but itâs over time.
+Unidentified Analyst
+Will it be fair to assume to just across the next few quarters or multiple quarters?
+Geoffrey Ribar
+Yeah, itâs over time.
+Unidentified Analyst
+Okay. And then just the last one for me, as we all know there has been a lot of negative sentiment out there for some of the semi customers, but can you maybe just provide us an update on your outlook for growth in the core EDA spending for the industry as a whole and what type of scenario heading into 2013 could really impact that and change that?
+Lip-Bu Tan
+Thatâs a good question. And this is the outlook and the environment are clearly, as Iâve mentioned earlier there are some shot-term challenges, some of our customer announce guide the Q4 and down by 10%. But clearly, we also have some customer doing extremely well and also provide the highlight on the Q4 outlook. But clearly, we can see mobile, data structure, infrastructure growing with all the new announcement from Apple yesterday and then Microsoft and Google.
+So I think thereâs some very positive sign. We donât see any slowdown in some of R&D design. And so I think we clearly see that. And then as I mentioned earlier more and more system companies have to do vertical integration and they have to drive optimization for the semiconductor to support their (inaudible) application and software service. And that opened up tremendous opportunity for us in what we call application specific design and this is also very important in term of driving that whole vertical collaboration that we emphasized a lot with our customers and then the other thing is also the whole mixed-signal content is increasing, and that really play into our strength.
+So all in all, I think, now clearly, we have some short-term challenges in the industry and then weâre watching the macro environment carefully. We want to be cautioned and we will listen to our customer and our customer-customer very closely in monitoring that situation. And then meanwhile, really focus on execution, our roadmap execution, our R&D development to drive the success here.
+Unidentified Analyst
+Thanks. Thatâs helpful.
+Geoffrey Ribar
+Thank you.
+Operator
+Your next question comes from Sterling Auty with JPMorgan.
+Sterling Auty â JPMorgan
+Thanks, guys. I apologize if you talked about it balancing multiple calls, but the duration down, so I think you said, 2.4 years, what percent of your customers are giving, is that really just the confidence in what weâre seeing in the current market outlook. And since the durations really shortened up over last couple of years, when are we going to start seeing some of those early contracts that get shorter duration contracts start to roll back around? And can you give us a sense of what they are trying to run rate renewal look like renewing on a shorter-term basis?
+Geoffrey Ribar
+Yeah, on the duration Sterling, we just take the natural request from our customers, right. So the 2.4 is going to fluctuate, 2.4, 2.5, 2.6, some customers wanted longer deals, some customer are happy with shorter deals. I think already weâre seeing customers come back when you have shorter deals and come back to the â to us for more licenses, renewals, those types of things. I think one reason we say run-rate is up contract-to-contract is because of that, and because of the value we create for the customer itself.
+
+Sterling Auty â JPMorgan
+Thank you.
+Operator
+Your next question comes from Tom Diffely with D. A. Davidson.
+Unidentified Analyst
+
+Andrew calling in for Tom. You guys have been performing quite well in the current environment and just looking forward, are there certain areas where you guys see a share gain opportunities?
+Lip-Bu Tan
+
+Say again the question.
+Unidentified Analyst
+Yeah, just on share gain opportunities.
+Lip-Bu Tan
+Share gain, okay. So those are couple of things we should emphasize, one clearly on the digital front and we are making great progress, we have significant investment in this area for the last three years and I mentioned earlier we take the leadership in the advanced node 3D-IC and also thin fab and also I think clearly our relationship with ARM and the whole ecosystem help us tremendously and then as I mentioned in the past, couple of quarter, we have heavy market share gains in the top 10 semiconductor in the digital front.
+And then the other thing is now we have a strong momentum, rely our route map, also the product that we continue to drive and we also have good top talents coming in to help us and that we are recruiting and also a lot of customer looking for alternatives and clearly the one to have another alternative that they donât have to be so depending on one. And then the other thing is, all this would see the result in the longer selling cycle and we now continue to really laser focused and then winning the customer mindset and also continue to improve our product offering so that really solve the problem and thatâs the design challenge they have in the advanced nodes.
+Geoffrey Ribar
+And I think Andrew itâs showing up in the numbers, we are growing 14% to 15% organically, we believe thatâs faster than our competitors are growing organically.
+Unidentified Analyst
+Okay. Thank you very much.
+Geoffrey Ribar
+
+Thank you.
+Operator
+Your next question comes from Satya Kumar with Credit Suisse.
+Satya Kumar â Credit Suisse
+I have a couple. It sounds like you are cautiously optimistic one EDA prospects, but also you are concerned on the macro and what some of your customers are doing. I was wondering specifically what does the customerâs profitability levels going down mean for pricing trend that we would see in EDA both in the hardware and software side over the next few quarters?
+Geoffrey Ribar
+
+Hi, Satya, this is Geoff. So, yeah, we are cautiously optimistic. We obviously pay a lot of attention to the macro environment. I think the key thing for us is the value that we give to our customers. As their environment gets challenged they do want to get new products out the door, right? And one way to get through a downturn in the semiconductor business is to get new product out the door. They are not getting with engineers with a few exceptions. So the pricing environment can be what the pricing environment is going to be, but generally, I think those two trends are positive for us despite the macro environment.
+Satya Kumar â Credit Suisse
+Okay. And then on 20-nanometer, you talked about the tape-outs, I think, 40 tape-outs in early phases. When we look at some of the designs that you see in the pipeline and what youâre taping our, do you see any differences in the level of double-patterning that you see your customers do â some customers tend to use a lot more double-patterning, some use a lot less, do you see any variations there in the 20-nanometer? And I think there was an earlier question on this as well on what multiple patterning means for EDA, I was wondering if there is a simpler way to look at on a per tape-out basis for example or for a given level of complexity the dollars of revenue opportunity that you guys get when you go to 20 versus what you have at 28?
+Lip-Bu Tan
+
+Sure. Itâs a good question. Clearly, the â as I mentioned, we are very engaged in that with of customer and foundry partners and IT partners in the 20 nanometer. Majority of them are really still in the test chip stage and (inaudible) can be fabricated, can be designed and then what are the advantage in the power of performance and then clearly we work very closely, we have announced with ARM, TSMC and Samsung and we mentioned about the XP and many more.
+So we have about four key engagement and in some this 20 nanometer. And in some way itâs very much mixed with the different customers, they all have different way of doing things and then some and precious more double pattern or even triple pattern. And then, so I think itâs really mix dependent on the customer preference and also the application they try to drive.
+Satya Kumar â Credit Suisse
+And then on the opportunities at 20 nanometer?
+Geoffrey Ribar
+
+Yeah, I think opportunity I think is great and then we are looking forward to that and our customer are engaging quite heavily clearly in some of very strong process and out there â DSP intensive and also some of the graphics and then some of the mobile, the performance and power and geometry is important and so those are the one that are â you can kind of suspect where the customer are, they are very heavily engaging and in fact some of them are really starting to look at using 20 and thin fab and then mostly in the 16 and 14 and so that is â we are engaging intensively with our customer.
+Satya Kumar â Credit Suisse
+Okay. Thank you.
+Geoffrey Ribar
+
+Thank you.
+Operator
+And our final question of today will come from Rich Valera with Needham & Company.
+Richard Valera â Needham & Company
+So I will complete that question I started to ask before. So you gave us two metrics for 2013 and it seems like that you combine those with your 2012 base line for your current guidance. It would imply your need roughly high single-digit revenue growth. Iâd come out with about 8% to sort of get those to 25% op margin with 50% incremental margin. So I was wondering, is there anything you should have takeaway from that or is it something that you should not willing to comment on this point?
+Geoffrey Ribar
+We are going to guide 2013 when we do the Q4 earnings call. So we will be happy to talk more about that then.
+Richard Valera â Needham & Company
+Okay. Just one more if I could just on cash flow. Can you think of if there is anything unusual in the 2012 cash flow in terms of timing or one-timers or should we assume that cash flow â that cash flow numbers should have tracks upward next year kind of consistent with the improvement in operating income?
+Geoffrey Ribar
+Yes. So (inaudible) on cash flow, we obviously work hard damage our cash flow with our operating and â with our revenue and therefore with our operating income. Our cash flow as a percentage of revenue is higher than our operating income. I think that is a good sign.
+Richard Valera â Needham & Company
+Any sense that it should continue to sort of trend at roughly the same ratio there?
+Geoffrey Ribar
+Yeah generally it will match or exceed operating income as a percentage of revenue.
+Richard Valera â Needham & Company
+Great. Thanks very much.
+Operator
+And at this time, Iâd to turn things back over to Mr. Lip-Bu Tan for closing remarks.
+Lip-Bu Tan
+Thank you. In closing, Cadence continues to deliver technology needed by designers and our business results reflect this. EDA industry is also doing better job of delivering value to it customers. While the macro environment remain uncertain

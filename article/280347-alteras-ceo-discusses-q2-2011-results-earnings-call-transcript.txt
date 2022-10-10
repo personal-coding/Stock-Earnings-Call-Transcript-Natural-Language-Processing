@@ -1,0 +1,282 @@
+Altera (ALTR) Q2 2011 Earnings Call July 19, 2011 4:45 PM ET
+Executives
+Scott Wylie - Vice President of Investor Relations
+Ronald Pasek - Chief Financial Officer, Principal Accounting Officer and Senior Vice President of Finance
+John Daane - Chairman, Chief Executive Officer and President
+Analysts
+Shawn Webster - Macquarie Research
+Ian Ing - Gleacher & Company, Inc.
+Uche Orji - UBS Investment Bank
+Glen Yeung - Citigroup Inc
+Sandeep Shyamsukha - Auriga USA LLC
+Sanjay Devgan - Morgan Stanley
+Sujeeva De Silva - ThinkEquity LLC
+Auguste Richard - Piper Jaffray Companies
+C.J. Muse - Lehman Brothers
+James Schneider - Goldman Sachs Group Inc.
+David Wu - Global Crown
+Christopher Danely - JP Morgan Chase & Co
+Ross Seymore - Deutsche Bank AG
+Hans Mosesmann - Raymond James & Associates, Inc.
+Ruben Roy - Mizuho Securities USA Inc.
+Sumit Dhanda - Citadel Securities, LLC
+Vivek Arya - BofA Merrill Lynch
+Srini Pajjuri - Credit Agricole Securities (USA) Inc.
+John Pitzer - CrÃ©dit Suisse AG
+Ambrish Srivastava - BMO Capital Markets U.S.
+Brendan Furlong - Miller Tabak + Co., LLC
+Operator
+Good day, everyone. Welcome to the Altera Second Quarter 2011 Earnings Results Conference Call. Today's call is being recorded. At this time, I'd like to turn the call over to Mr. Scott Wylie, Vice President of Investor Relations for Altera Corporation. Mr. Wylie, please go ahead.
+Scott Wylie
+Thank you for joining this conference call, which will be available for replay telephonically and on Altera's website shortly after we conclude this afternoon. To listen to the webcast replay, please visit Altera's Investor Relations Web page where you will find complete instructions. The telephone replay will be available at (719) 457-0820 and use code 258712. 
+During today's prepared remarks, we'll be making some forward-looking statements. In addition, management may make additional forward-looking statements in response to questions. In light of the Private Securities Litigation Reform Act, I would like to remind you that these statements must be considered in conjunction with the cautionary warnings that appear in our SEC filings. Investors are cautioned that all forward-looking statements in this call involve risks and uncertainty, and that future events may differ from the statements made. For additional information, please refer to the company's Securities and Exchange Commission filings, which are posted on our website or available from the company without charge.
+With me today are John Daane, our CEO; and Ron Pasek, Chief Financial Officer. Ron will open the call and John will follow. After John concludes his remarks, we will take your questions. Prior to the Q&A session, the operator will be giving instructions on how you can access the conference call with your questions. 
+I would now like to turn the call over to Ron.
+Ronald Pasek
+Thank you, Scott. Revenue for the second quarter of 2011 was $548 million, a sequential increase of 2.3%, at the midpoint of guidance. We saw a sequential growth in the Telecom & Wireless vertical, which was somewhat offset by an anticipated decline in the Industrial, Military & Automotive vertical. Our other vertical decreased 9%, while Networking, Computer & Storage increased 4%. 
+We achieved a 1% sequential growth for our new products, while mainstream products grew 14% and mature products declined. Within our new product category, Stratix IV decreased 8%, with Arria II up 41%, Cyclone IV up 5% and HardCopy IV up 24%. The Stratix IV deceleration was due to a military program transition at one customer and does not change our outlook for continuing 40-nm growth in the second half, particularly Q3. All in, 40-nm revenue increased 7% sequentially and totaled 19% of revenue in Q2. 
+Q2 turns were 46%, consistent with our guidance and book to bill for the quarter was above 1. Gross margin for Q2 was 70.9%, a decrease of 1.7 points from Q1. This sequential decrease, about what we expected is the result of vertical mix, growth in the Telecom & Wireless vertical, and an anticipated decline in the Industrial and Military & Automotive vertical. As we have commented frequently in the past, vertical market mix is the most common reason for gross margin variance, and this was the case in Q2. 
+Operating expenses of $150 million were slightly lower than guidance. The largest contributor was R&D, which came in at $80 million, $45 million below guidance. More on R&D a little later. Operating margin for Q2 was 43.4%. Our Q2 effective tax rate was 10%, and net income for the quarter was $250 million, or $0.65 per diluted share. 
+On the balance sheet, cash and investment balances increased to $3.3 billion. Cash flow from operating activities was $159 million for Q2. This was down from Q1 simply due to the timing of shipments, which were slightly more back-end loaded than usual. Our cash conversion cycle is 82 days.
+As we have indicated, we are committed to increasing the dividend over time as one of the methods of regularly returning cash to shareholders. This quarter, the board has approved the increase to our quarterly dividend of $0.08 per share, up from the previous $0.06 per share.
+We ended Q2 with total pipeline month supply on hand of 3.0 which is comprised of 2.3 months for Altera and 0.7 months for distributors. 
+Moving to guidance for the third quarter 2011. We expect revenue to increase sequentially 2% to 6%. Q3 turns look to be in the low 40s. Book to bill thus far through Q3 remains above 1. Gross margin for Q3 will be 69% to 70% as we expect some negative vertical mix. While this margin rate is below our recent quarterly performance, it is strictly a function of the vertical mix. We expect gross margin to recover in Q4 '11, with mix improving due to anticipated Q4 Military business. 
+Gross margin for the full year, we expect to be at the high end of the guidance we gave you on November 29, 2010. We're targeting R&D spend at $87 million to $89 million, up from Q2 as we continue a multi-quarter period of 28-nm introductions in a series of strategic R&D initiatives. So although we are slightly behind the R&D ramp at the half, we expect to catch up and reach the full year number of $330 million we gave you on November 29, 2010. 
+SG&A for Q3 should be $71 million to $73 million. We expect Q3 month supply on hand to be in the 3.0 range. The tax rate for Q3 will be 10% to 11%, and the diluted share count for Q3 will be approximately 332 million shares. 
+Finally, before turning the call over to John, save the date announcement. On November 7, in New York, we'll host a meeting for the Altera Investment Community. Scott Wylie's group will be sending out additional details shortly. 
+With that, let me turn the call over to John.
+John Daane
+Thank you, Ron. We return to sequential growth in the second quarter after a one-quarter inventory correction combined with a pause in the wireless market. For the third quarter, we expect fairly broad-based market growth resulting in record quarterly revenue for the company. 
+In Q2, Telecom & Wireless revenue increased 13% sequentially with growth in each, but with Wireless the stronger of the 2. The recovery in Wireless in turn fueled the growth in 65-nm products. Huawei represented 14% of revenue in the quarter. 
+Industrial, Military, Automotive decreased 7%, with Military driving the decline. Computer, Storage, Networking increased 4%, with Computer down and Networking up. Other declined 9%. In the 28-nm node, we are very confident in our competitive positioning and momentum, particularly as the incumbent from our broad 40-nm success. We extend our differentiation with our continued use of a tailored product approach, utilizing different architectures, process technology and features, providing power and performance advantages across the board. 
+Stratix V is, and will be, the only FPGA using a high-performance process. With software available for over a year, we have several customers that will transition the volume in Q3.
+For Q3 revenue, we are forecasting a 2% to 6% sequential increase based on fairly broad market growth. We expect growth in communications, driven by Wireless, a decline in Automotive, Industrial and Military caused by Military, strong growth in Computer, Networking, driven by each submarket and the other vertical to be flat to slightly up. A portion of the Q3 growth is from short-term ASIC replacement due to supply disruptions from the earthquake in Japan. As these designs are high volume and price sensitive, we expect that they will transition back to ASICs in Q4. 
+The rising cost of semiconductor design will continue the favorable [ph] programmable products with a tipping point well underway. We continue to replace fixed-function ASSPs and ASICs in the infrastructure markets and grow at a faster rate than our customer base. Our goal is to double the growth of the semiconductor industry, and we expect to do that again this year. We have the leading position in 40-nm, the growth node for PLDs over the next several years and a very strong competitive position in 28-nm using our successful tailored product approach, providing the potential for continued growth and market share gains in the future. 
+Now let me turn the call back to Scott.
+Scott Wylie
+We would now like to take questions. Please limit your questions to one at a time so that we give as many callers as possible the opportunity to ask questions during the call. Operator, would you please provide instructions and poll for questions?
+Question-and-Answer Session
+Operator
+[Operator Instructions] And we'll go first to Uche Orji with UBS.
+Uche Orji - UBS Investment Bank
+Let me start off by asking Ron about the inventory days decline in the quarter. Four [ph] questions here, one is how much of that was due to the shift from ASIC to PLDs, and are you able to rebuild inventory going forward? And secondly, on the subject of gross margins, are you saying that outside of the Military area, gross margins in the other areas did not suffer at all? Is there any other thing we should read into the gross margin as to the other [ph] areas of the business?
+Ronald Pasek
+So let's start with the second question, Uche. So yes, we are attributing the gross margin decline in Q2, specifically the vertical vertical mix. That's it. And we saw this coming when we gave you the guidance in the call in April, and so there's really no surprise there. And again, as we look out the mix going into Q3, we see a similar phenomena. So there's no underlying other cost issues going on, okay. The first part of your question, I wasn't sure I understand, you were asking specifically about inventory?
+Uche Orji - UBS Investment Bank
+The days [ph] -- the declined days of inventory. I was just wondering if this is going to be the way level of inventory for you [ph] to rebuild inventory days because you saw both the MSOH was down and also the DSP inventory was down.
+Ronald Pasek
+Yes, and we targeted that from the call in April as well. We typically like to be between 3 to 4 months, lately we've been at the low end of that and we'll continue to be that way for Q3 as well. There's no other story there.
+Operator
+We'll go next to Ambrish Srivastava with BMO.
+Ambrish Srivastava - BMO Capital Markets U.S.
+This is Ambrish with BMO. Just a question, clarification, John, on the ASIC movement to PLDs, Are you implying that fourth quarter might be a little bit worse than seasonal because of the transition, which sounds like over the short term? And I have a follow-up as well.
+John Daane
+Okay, so certainly I cannot comment on Q4 at this time. It's much too early for us to call one way or another how the revenue will play out. In this case, what did happen is there are some very high-volume designs that, unfortunately due to the Japanese earthquake, customers were unable to procure. They looked at PLDs as a temporary replacement for those devices. I think that does show the power of programmable logic, the flexibility and that you can take an ASIC design in literally in a matter of 1.5 months, convert it to the FPGA, and be back up into volume so it doesn't cause disruption from the system perspective. But ultimately because these are very high-volume price-sensitive designs, they do belong in ASIC long term, we simply cannot meet the cost structure in the PLD. So we're really a temporary bridge for these customers until they move back into the ASIC, probably I would bet for these programs at the beginning of the fourth quarter, which is why we're saying that really we're seeing this volume only this quarter.
+Ambrish Srivastava - BMO Capital Markets U.S.
+We really appreciate the details on that, but what would be the dollar impact? And then my follow-up is of the 28, John, could you please remind us where are you on the rollout for the other 2 product categories?
+John Daane
+Sure, okay. So let me -- I'm just writing down the 28-nm. So on the ASIC replacement business, it's over half of the growth for the third calendar quarter. I would note that if you pulled out this ASIC replacement, or temporary business, we would still grow in the quarter and so forecast growth sequentially. Additionally, it still would be very broad-based growth across almost every one of our market segments with the exception, really, of Military and, perhaps, test. Want to comment on the gross margin impact for the quarter as well, Ron?
+Ronald Pasek
+I think given the fact that this is replacing some products that are very, very high volume, it's at a price point that we don't usually see, which is somewhat you're seeing in the gross margin degradation into Q3.
+John Daane
+And ultimately why we believe that the gross margins will recover again going into the fourth calendar quarter. And I would note even though the pricing and the margins are more aggressive on this ASIC replacement business, it is accretive. These are some strategic customers for us and we're getting, I think, some good goodwill out of assisting them during their time of need. In terms of 28-nm, we are well into the Stratix deployment, Stratix V. It's going extremely well from a design perspective as I've mentioned before. The design was far more robust, the rollout is going much better than we saw within the initial Stratix IV 40-nm deployments. So we're very excited and happy, especially with the complexity of the device and the fact that we added some significantly new features. We're very, very thrilled with that. Arria is roughly midyear and you're going to see silicon products rolling out in the third calendar quarter. And then we'll provide you an update in terms of other families and their schedules at a little later date.
+Operator
+Next, we'll go to Sandeep Shyamsukha with Auriga USA.
+Sandeep Shyamsukha - Auriga USA LLC
+My question was actually if you could provide a little more granularity on your defense business, what might have leading to these declines in Q2 and Q3 there, and do you expect this business to bounce back? Has this something to do with a specific design win or, I mean, is there some other trend going on here?
+John Daane
+Military is the one vertical market where you tend to see program buys where they come in and purchase and then go away for a period of time, and they may go away for 1, 2, 3 or 4 quarters before they purchase again. So the numbers can be swayed very heavily on a sequential basis just because of program timing. Ultimately in the second calendar quarter, we did see several programs decline from the prior quarter. We expect that to happen again this quarter. We do expect that Military at this point will increase in the fourth calendar quarter based on the visibility that we have in that segment. And that's part of reason ultimately, that and the fact that some of this ASIC replacement business is going away. This is the reason that we expect our gross margins to rebound in the fourth calendar quarter.
+Operator
+Next, we'll go to Shawn Webster with Macquarie.
+Shawn Webster - Macquarie Research
+Maybe just a couple of quick ones. So if we exclude Military would Auto and Industrial have been up for you in Q2, and do you expect it to rise again in Q3? And then can you give us some comments on your lead times, are there any product areas which are tight for you? Or just general comments on lead times.
+John Daane
+I answer it backwards. Generally, the lead times continue to improve. I would say by the end of this month, everything should be generally back to normal. There are a couple of products that we get surprises on where customers need more than a forecast, and that happens every month, every quarter. But generally, everything is very quickly returning to normal after the Japanese earthquake. In terms of the Auto, Industrial and Military segments, Industrial and Automotive were both up in the second calendar quarter, and we expect those to be flat to up in this calendar quarter as well, probably both up, I would say. Military is the drag-on sector both in the second calendar quarter and again in the third calendar quarter.
+Operator
+We'll take our next question from Christopher Danely with JPMorgan.
+Christopher Danely - JP Morgan Chase & Co
+When you said you expect gross margins to bounce back in Q4, is that to the 71 level they were in Q2, or the 73 level they were in Q1? And then any sort of estimate on how gross margins will trend, or what the drivers will be for next year?
+Ronald Pasek
+So Chris, this is Ron. All I can tell you is they'll rebound. I'm not going to give a specific number, but I did give a full year number, which is will be at the high end of the full-year guidance we gave you back in November. And what we said back then was 70%, plus or minus 1%. So on a full-year basis, we'll be at the high end of that number. Really too early at this point to give you any indication of next year, but recall last quarter we gave kind of a long-term gross margin number of 68% out to 2015. So what that signals is a fairly slow decline over time.
+Operator
+Next, we'll go to James Schneider with Goldman Sachs.
+James Schneider - Goldman Sachs Group Inc.
+On the Telecom & Wireless area, that's been strong for you. For some time, it continues to do pretty well. There's also been some debate out in the marketplace about the directionality of China, CapEx spend, some talk about possible optical push outs or it lay [ph] in the fifth generation of the 3G tenders. Are you seeing any of that going on from your customers in terms of order patterns right now?
+John Daane
+Optical did grow for us in the second calendar quarter, and we would generally expect that Telecom will grow again this quarter. There are certain geographies that are slow, there are certain geographies that are faster in any given point. Wireless was strong last quarter as we predicted. We expect it to be strong again this quarter. I did tell you last quarter I didn't expect in Q2 we'd have any TD-SCDMA that it would push out into the third calendar quarter. I am expecting that we will get revenue from TD-SCDMA in this calendar quarter. Really if you go back to Q2, we did see a broad strength in 2G GSM, in 3G and 4G deployments across many geographies. And we would expect Wireless to be up even without TD-SCDMA. I would note for this round, TD-SCDMA is smaller than it was for the previous round in terms of the number of bay stations deployed. So it won't have, perhaps, as a large of a contribution as it did for the fourth round but then on the other side, it won't come down as much on the other end of it, probably into Q1. And additionally, I think the good news for Altera is our market share is higher in this round of TD-SCDMA than it was in the last round. And in the last round, we have more than 50% market share.
+Operator
+Our next question comes from Brendan Furlong with Miller Tabak.
+Brendan Furlong - Miller Tabak + Co., LLC
+Just a quick follow-up on the end markets. Question on the Auto segment, particularly in Europe if you're seeing any weakness there given the news that we heard of the microchip a week or so ago. And then on the wireline side, if you could just maybe give us some -- what you think are the drivers of the wireline side on a go-forward basis?
+John Daane
+Yes. So in Automotive specifically, it was up for us in Q2, and I would expect it to grow again in Q3. We're not seeing any slowdown in that particular area, and I would note that we're actually seeing some significant expedites from a couple customers in that field. On the other side of the coin, I'd also note Automotive business is a small market for us. So it's not that we're in every car, every model across the world, more in a generally higher-end models. So I cannot compare or contrast ourselves to really any other company as to how they're doing. In terms of the driver within Telecom or wireline, really, we've seen that the access area has been slow for some period of time. Growth predominantly has been in optical Metro Ethernet and some long-haul. And really those are both associated, I would say, with the need to build out local infrastructure around data centers in order to handle all of the Internet traffic. We're also seeing the builds associated with backhaul capacity for the wireless capacity that is being put in place, particularly in 3G and 4G, and would expect those to continue to be strong for some period of time.
+Operator
+Next, we'll go to Sumit Dhanda with Citadel Securities.
+Sumit Dhanda - Citadel Securities, LLC
+A couple of questions. I guess first, question on the new product. I think you mentioned that Stratix IV decelerated 8% because of specific military program. I guess I was just curious on the math related to that, given that Military as a whole is a pretty small percent of the business and how the one program ostensibly impacted growth as much as it did for Stratix IV.
+John Daane
+Military was well over 10% of the business last quarter. And as Ron is pointing out, that was a major driver. Certainly, it wasn't everything, but it was, I think, the most significant contributor.
+Ronald Pasek
+And to John's point earlier, the Military business can be kind of lumpy. That's all there is to it.
+John Daane
+I think the other thing I'd point out is that we expect 40-nm is actually going to be the driver for most of the growth this quarter. So it's not only going to rebound, it's going to accelerate this quarter from a revenue perspective not only for some of this ASIC replacement business, not all but some of it. But just generally, across a broad set of customers, we're seeing very aggressive ramps in the 40-nm product for Q3.
+Sumit Dhanda - Citadel Securities, LLC
+Okay, and just one quick housekeeping question. The R&D guidance doesn't change for the full year, Ron, despite the under on, on Q2?
+Ronald Pasek
+No. I mean, I think we're going to hit that number. That's the best number I have for you at this point. As we indicated, we put the first guidance into place in November. We ramped R&D to grow 25%. That was a steep ramp. We're a little behind in the first quarter, get some good catching up in the second quarter and I think we're going to make it.
+Operator
+Next, we'll go to see C.J. Muse with Barclays Capital.
+C.J. Muse - Lehman Brothers
+I guess 2 quick questions. The first one, I was hoping you could talk geographically in terms of where you saw strength and weakness on the Telecom side, and then secondly on the R&D side, given the timing of your ramp for 28-nm here, would love to hear your initial thoughts on how we should see R&D trajecting for 2012.
+John Daane
+I really don't have any specific geographic breakdown to give you the on the wireline sectors, so apologize about that. Don't really have anything to provide in terms of color. Ron, on the second point?
+Ronald Pasek
+On the second point, C.J., we'll clearly [ph] ask that you wait until we have the Analyst Meeting on the 7th of November. At that point, we'll give you quite a bit of guidance for next year. We've just barely started our planning process at this point. So I would just ask you to wait a couple of months.
+Operator
+Next, we'll go to John Pitzer with Credit Suisse.
+John Pitzer - CrÃ©dit Suisse AG
+A couple here. John, on the near-term ASIC replacement because of the Japan earthquake, can you tell us what end market specifically that's going for, and you guys did a good job talking about the revenue impact. I'm just kind of curious what was the gross margin impact from that business, i.e. had you not had that business, where do you think gross margins will be coming in for the September quarter?
+John Daane
+Okay, so in terms of the market segments, I would like to withhold providing that. The reason is, is I don't want to -- I'm sensitive to the fact that people may start to guess which customers these are, and again it's a couple of customers. And because I'm sensitive to providing any information about our customer base, I'd just rather hold off from pointing to that. What I would point out though is that even without this ASIC growth, almost all of our markets would be up and so the growth would still be very broad based. So ultimately, we're still -- I think that's a good positive, and that we're seeing strong growth out of almost all of our market segments, really with the exception of Military and possibly this quarter as well, test.
+Ronald Pasek
+So on gross margin, I think we can attribute about a point of the decline in Q3 to this business. It's about a point on the rate, okay?
+Operator
+Our next question comes from Ruben Roy with Mizuho Securities.
+Ruben Roy - Mizuho Securities USA Inc.
+John, on the TD Phase 5 commentary that you had, it sounded like you were expecting kind of a quick in-and-out, maybe see that start to add early next year. Are you expecting kind of the bulk of the ramp in Q3 or does that happen in Q4?
+John Daane
+We expect it to be Q3 and Q4. I would expect it to ramp down into Q1 and there maybe some residual, but probably loaded into Q3 and Q4. And that's very typical to what we've seen in the last couple of cycles where the bay station build is about 6 months.
+Ruben Roy - Mizuho Securities USA Inc.
+Great, and are you seeing any activity related to TD-LTE yet? And then finally on the 28-nm ramps that you we're talking about in Q3, how do you characterize those? Are those kind of replacing some 40-nm product or are they new sockets that you've won, et cetera?
+John Daane
+Can you repeat the last part of the question, please?
+Ruben Roy - Mizuho Securities USA Inc.
+Yes, just you talked about some 28-nm products starting to ramp it further, had customers. I'm just wondering the initial design wins that you've gotten in 28-nm, are they designs that your customers are replacing the Altera 40-nm products with 28-nm or are they kind of new sockets that you've won?
+John Daane
+In terms of TD-LTE, the activity that we're seeing is initial prototype builds and initial system deployment for testing. So we haven't seen any significant commercial deployment, and I think it will probably be a little while before we see that. The current round requirement for the fifth generation of TD-SCDMA is that the systems are supposed to be upgradable to the TD-LTE standard. And so for the most part, that is achievable with the bay stations that will be shipped with some software, and perhaps some hardware upgrades as well. In terms of 28-nm design, the initial customers that are ramping volume are in the communications and test area. Test is a great fit for us because of the 28G transceivers that we have that were really, I think, transceivers, in general been a strength of Altera for many years. And certainly from what we've seen in 28, continue to be. And those are not replacing existing Altera designs. They are replacing either new systems, new sockets that are being developed, or replacing other components, ASSPs, ASICs or other FPGA vendors so it's all additional revenue.
+Operator
+Next, we'll go to Glen Yeung with Citi.
+Glen Yeung - Citigroup Inc
+John, we've obviously seen a lot of macro uncertainty in the last few weeks or even months and yet your business has done quite well, and I recognize there's some volatility with respect in the inventory cycle that happened last quarter, and then this ASIC issue, post the earthquake. But I wonder if you would step back and look at your business broadly and give us a sense as to how resilient you think it actually is to any volatility in the economy. Seems to be a little less consumer sense to me [ph] which may be helping, but any thoughts you can give us as to how resilient you think your business maybe at this point?
+John Daane
+Well as you pointed out, consumer is weak, I think, across the industry and that the good news there is we have a very small portion of our business in consumer. We're in infrastructure play, we, in some markets, are new to this market like automotive, the security area as examples, and so we really are ramping into some new markets. Even if they're soft, it's going to be a growth opportunity for Altera. Communications there, I believe even if we see macro challenges, there will continue to be deployments in China and the United States and some other geographies of new wireless and wireline technology in order to build out their systems. So over the next several years, I expect that to go well. We're actually seeing a lot of activity in Computer and Networking, both new design wins displacing other components as well as new areas. The whole flash memory area is for computers, has been a wonderful home for programmable logic and particularly Altera. So we've been growing in that. So are we completely immune to macro factors? Absolutely not. They would affect us. But in general, even if some of these markets slow down because we are new to areas like Automotive, Military, security or because we are increasing market share, I would expect us to continue to do well. One point not to lose sight of is that 40-nm really is going to be the growth driver for PLDs over the next several years. And obviously, that was a node for which Altera did extremely well, and our market share is very, very significantly higher than our overall FPGA market share. So we would expect that to also benefit us uniquely over the next several years.
+Glen Yeung - Citigroup Inc
+That's a good point. Okay, second question is just thinking about the capacity. I heard your comments about lead times becoming more normal. But as we think about the capacity available to you in Q3, Q4 and arguably beyond that, do you sense that, that is becoming more available? And is that partially because post the earthquake, people may have placed excessive orders during the inability to get certain components and that has now come down and ostensibly opened up some capacity for you?
+John Daane
+Well, I think ultimately, the challenge from the Japanese earthquake was twofold, one is companies who operate at fabs that were in the area that were impacted obviously had shortage issues on the wafer side. And then I think the larger issue for the entire industry was on the package material side, predominantly for flip chip. All of that on the back-end side for packages really has abated at this point. We see that the suppliers have returned to prior capacity levels. Prior capacity levels actually, they were not operating at full capacity before the earthquake. So there's, I think, spare capacity available for many of the package materials at this point. So I don't see that as a limiter. We have the ability to procure everything that we need, and more at this point. So I do not see capacity as being a limiter for our growth for the rest of the year, or for that matter in the next year either.
+Operator
+We'll go to Srini Pajjuri with CLSA Securities
+Srini Pajjuri - Credit Agricole Securities (USA) Inc.
+Just a clarification and a question. John, in the vertical breakdown that you provided, there's a segment called the Other, which is about 19% of your sales, and that's down 9%. I'm just wondering what's included in that segment and what's driving the decline.
+John Daane
+Yes, there are 4 particular subsegments within that segment, broadcast, consumer, test and medical. If you look at the second calendar quarter, broadcast and consumer were both down significantly. Test was down, medical was up. I would say going into the third calendar quarter, we expect that broadcast is going to grow, consumer's going to grow, test, I think, is probably flat to down and then medical is probably flattish. And you put all those together and you get to my flat to slightly up sort of forecast for the quarter.
+Srini Pajjuri - Credit Agricole Securities (USA) Inc.
+Okay, great. And then just a clarification on the TD-LTE comment that you made, you mentioned that some of the bay stations are software upgradable. If you have to take a look at the entire market, the TD-LTE opportunity in China, just wondering if you're going to compare that with the TD-SCDMA longer term, how should we think about the PLD content, given that some of the bay stations are obviously software upgradable?
+John Daane
+Well, I think in general, remember there are 3 operators in China, each of which today for 3G is deploying a different standard. So CMCC or China Mobile is the one deploying TD-SCDMA. As we get into TD-LTE, all 3 carriers will be deploying that equipment eventually. And what that means is ultimately, the market for just TD-LTE is going to be bigger than it is for TD-SCDMA. In terms of content, our continent has continued to increase, going from 2G to 3G to 4G. So we've said in the past and it remains true today that our content in 3G doubles from 2G to 3G, and then it goes up about 2.5 to 3x going into 4G from 2G. So our content's up. There'll be more bay stations deployed. Ultimately, the number of radios deployed is very high because generally also you see that the frequencies being deployed for the newer standards is much higher, requiring more units so we think therefore the communications business for us over the next several years is going to continue to grow very well for us.
+Operator
+Next, we'll go to Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya - BofA Merrill Lynch
+I have 2 quick ones. John, what is your sense of the current design in the market share at 28-nm? Is it pretty much spread between yourself and Xilinx where you were taking the high end and Xilinx going up to the midrange? And the second question is somewhat different. The dividend raise is encouraging. It brings the yield up. What will it take to match the 2% dividend yield that Xilinx is supporting?
+John Daane
+So I'll take the first question and then I'll leave the second for Ron. In terms of 28-nm, I think actually today, we're leading in terms of market share. The reason I say that is we've had software for Stratix V for over a year and have the only silicon in the marketplace for the high end. So ultimately, all design activity for that is coming our way. In fact, we don't see competitors quoting 28-nm at the high end today. If they're quoting, it's an older generations of products. In terms of the midrange, if you want a working product today that's also production qualified, Arria II is the only answer and so we haven't seen really any significant shift in the midrange away from us. Remember the midrange was entirely our category in the past, so I think we're still doing extremely well There. Would also note that we're very shortly going to be releasing our midrange product. And then if I look at the low end, there really is no discernible difference in timeframe from what I understand between what we're doing and what our competition is doing. I would say in general, if you kind of take a step back and you look at history, the key to success has been who has the better product, not who's out first. The reason I say that is these products live and have a design win window for about 2 years before you come out with the next generation of product. So a few months here or there does not matter. If you're significantly late, that does matter. But if you're a few months early, a few months late, I don't think that has a material impact necessarily on the family. However, having the best product because you're head-to-head with your competitor for a couple of years is really the key determining driver to how successful you're going to be. And I think because we're using the tailored approach in 28-nm and that tailored approach has shown proven success over several generations for Altera in terms of market share gains, we're going to have the better product set. Roughly, our timeframe is either earlier or very similar to the competition so we're not at a advantage there. And I think we'll do as well with 28 as we did with 40-nm. Last point I'd make is incumbency. Certainly when I joined this company, I underestimated how important that was from a software customer perspective and how difficult it is coming back in the marketplace once you have lost that. We certainly have that today. And I think that definitely plays in our favor. So 28, I'm actually really excited. We did extremely well in 40. We have incumbency, we have the better product set with a tailored approach and we're either out early or very similar to the competition. So the advantage, I think, is definitely an Altera's favor again for this node.
+Ronald Pasek
+So with respect to the dividend, the $0.02 increase we announced was a 33% increase to the dividend. The payout rate is slightly less than 1%. It's twice the increase we announced last year, so I feel really good about that. Over time, you will see continued increases in the dividend. I'm not going to give you a timeframe. At which point, we'd equal anyone else's yield. But it is going to be, over time, a regular way of returning significant amount of cash to shareholders.
+Operator
+Next, we'll go to Hans Mosesmann with Raymond James.
+Hans Mosesmann - Raymond James & Associates, Inc.
+John, last year, when you gave guidance, you assumed that your customers were doing some level of inventory adjustments or over ordering and after that dynamic is occurring now. But is that what you continue to just assume that there could be some over ordering method again that you're seeing? I have a follow-up.
+John Daane
+The book to bill was above one for the quarter and so far for this calendar quarter as well. But again since the lead times are returning to normalization, I would expect that if anybody had any inventory, they would be either pushing out orders, they were canceling orders, and we simply don't see that because the book to bill is above one. Of the larger customers, we saw a couple that tried to procure a lot of product as the Japanese earthquake tragedy played out. We were able to make sure that they did not so that we could spread the material across the customer base so that everybody got what they needed. And by doing that, we made sure that really no large customer was able to establish proper stock. Some of the smaller companies may have. We haven't seen a material change in really the business there that says that there's inventory in place. So generally, my feedback to you would be we believe at this point that there's a minimal amount of inventory, if any, out in the customers, and what we're seeing from a demand perspective is really true demand.
+Hans Mosesmann - Raymond James & Associates, Inc.
+And then as a follow-up, going back to 28-nm and at the high end of the market, on the transceiver side, what is your comfort level regarding your solution at the 28-Gbps? Your competitor has a slightly different way, of approaching the market, so I just wanted to see if you got a chance to look at what customers are saying or how you guys are positioned?
+John Daane
+Yes, so the 28G transceiver is fully functioning and working. We actually will be -- we've been shipping up to 14G on the initial Stratix V devices. We're very quickly going to be shipping now the 28 -- up to 28G silicon. I think, honestly, transceivers have always been a strength of ours. Anything still today in any process technology above 6G, we're, as far as I can tell, the only working silicon in town. And so, very pleased with that overall design effort we've been able to, time and time again, extend our leadership fully functioning. We've actually got a video that we put together that we've been showing that shows the 28G both transmit and receive, so I think this is another competitive advantage for us, and certainly in this node, we'll remain so.
+Operator
+Next, we'll go to Ian Ing with Gleacher & Company.
+Ian Ing - Gleacher & Company, Inc.
+First question is high-volume ASIC placement opportunities. Is it largely MAX II we should think of, and are you going to remain opportunistic for these sockets or would you ever revisit the market with some new strategy or roadmap? When I look at smartphones, I see Lattice and SiliconBlue getting some more permanent sockets right now.
+John Daane
+Yes, these are not in a -- good question. They're not MAX II opportunities. These are really higher end ASICs that are in very high volume. And again price points, we can't touch. So you want to think of really the Stratix class sort of devices, Stratix IV, Stratix III in terms of replacement opportunities or technologies. And again, these are sort of one-time events. I don't expect these to ever repeat. It really just was because of a tragedy that happened and we're a near-term fill-in. We did want to disclose it because it's obviously a temporary piece of business.
+Ian Ing - Gleacher & Company, Inc.
+Okay, great. And maybe you could talk for 28-nm a little bit more on the software update. It looks like Arria and Cyclone, is it currently beta version right now for customers, and is there a GA release dates? And what do you want to highlight in softwares with sort of the runtimes or what advantages do you want certainly look at?
+John Daane
+Yes, I think at software, we've had advantages in compile times or, as you say, runtimes. We've had advantages in terms of static timing analysis, getting more of the ASIC standard design format. We've had advantages with DSP builder tool, which is very powerful for both the broadcast and military markets. We've had, I think now, an advantage with Qsys, which is our new system builder tool for microprocessor work that we have released as well. So I think software has been a strength and remains a strength of ours. I don't have particularly off the top of my head the release schedule, so I apologize for that. I don't know exactly when the general release is. We usually issue a press release around that, so we'll find out very quickly. I should know that, I apologize I don't.
+Ian Ing - Gleacher & Company, Inc.
+Okay, well, a lot [ph] of your customers -- your competitor has shared already beta version should be in the customer's end at this point, right, for mid and low tier?
+John Daane
+Yes.
+Operator
+Next question, we'll go to Sanjay Devgan with Morgan Stanley.
+Sanjay Devgan - Morgan Stanley
+I just had a quick question on, just following up on the TD-LTE builds, the question that came earlier, and just want to touch on the LTE market in general. I was wondering if you can just touch on, from a design win perspective, can you talk about the shared differences between macrocell versus microsell? Are you seeing any differences in terms of the percentage of sockets you're winning? Can you talk about how that market is evolving and how you kind of see your share in macro versus microsell kind of playing out?
+John Daane
+Well, the dollar content is a little bit different between macro and micro, pico, femto as you kind of go down. So the product dollar content that we would have would be different, but ultimately because the smaller macrocells are also higher volume. Typically, these things play out and your dollar content sort of evens out. I would say in deployment currently, the idea of using the very small bay stations is discussed, but not necessarily what the current architecture is used. So the idea of using, for instance, femtocells has been around for a while, but has not picked up any particular steam. The pico obviously is. In terms of our overall market share, I would say in general, Wireless, if you look at it from year-to-year, our market share continues to go up. And so from a design win perspective, I think that's still the case. I don't see any overall trend or change within that particular field, so I'm very confident that we will continue to build market share within the Wireless space.
+Sanjay Devgan - Morgan Stanley
+Okay, great. And then just as a follow-up question, just going back to yields and you talked about the new 28-nm product that started initial shipments. Was wondering if you can kind of give us an update on how yields are turning for that product. and then if you could just kind of give us an update on your 3D stacks, a look in [ph] technology, where you guys are there, latest thoughts?
+John Daane
+Yes. So in terms of the yields, it's running ahead of our -- slightly ahead of our models and expectations for the yields, which is solid. I would say if you look at 40-nm at this period of time, 40-nm might have been running slightly behind our model. So yields are okay. Still a long way to go, but we're able to start to ship some volume to the customers that need it. In terms of -- I'm sorry the second question, 3D, we are doing development in 3D across many different aspects. In particular, we've been working with TSMC. I think if you look at the idea of either doing 2.5D [ph], which is taking a silicon substrate and putting multiple dye on the silicon substrate or indeed stacking through TSP, really the industry is looking at a 2013 deployment schedule for that in volume, which is why we're not announcing products today. There really isn't going to be anything capable of being produced in any volume really in the short term other than some specialty products. So very aggressive R&D effort, and we will have products in that area, but nothing to talk about today because we're not deploying anything in the short run.
+Operator
+Next, we'll go to David Wu with Indaba Global Research.
+David Wu - Global Crown
+John, with all the different trends you talked about, are we back to a normal seasonal pattern for you as we exit Q3 into Q4 and next year, unless the macro situation change dramatically, one way or the other. And for Ron, I understand your payout ratio can up from here, but do you have a targeted payout ratio that you're aiming to achieve over the next several years?
+Ronald Pasek
+So over time, we do have kind of a target payout ratio. We're not talking about what that is, but over time, we will keep increasing the dividend until we get at or near that ratio.
+John Daane
+I'm sorry I missed the first part of the question, could you repeat it?
+David Wu - Global Crown
+John, historically, we have seen the fourth quarter being your strongest quarter seasonally for the year. And things seem to be coming back to normal these days. Should we assume that seasonal pattern to reoccur?
+John Daane
+Yes, so what we have seen in our business is there really -- I mean, you can take many years together and put an average together to see how a quarter is performing, but there is tremendous variation around that average. So what we've said before is we really don't, ourselves, see any seasonality. In other words, there's nothing that we could really tell you that this quarter should always be up and this quarter should be flat or down. So that's why we take it one quarter at a time when we do our forecasts. Really couldn't tell you how Q4 is going to behave one way or the other. We'll just have to wait a quarter and see at that point.
+Operator
+Our next question comes from Gus Richard with Piper Jaffray.
+Auguste Richard - Piper Jaffray Companies
+Given all the anomalies in the quarter, could you talk a little bit about linearity and sort of how your customers responded as we went through the quarter?
+Ronald Pasek
+Gus, this is Ron. As we thought it would be given some supply disruptions, it was a little less linear than normal, a little more back-end loaded which is one of the reasons why you saw our cash flow from operating activities a little less than it was in Q1. We think that was somewhat of an anomaly in Q2, and probably return to almost straight linearity which we usually see going forward here. Again we could attribute most of that, the back-end loadedness, to some supply disruptions which we knew about, and we knew we'd be okay in the quarter, but it would be somewhat back-end loaded.
+Auguste Richard - Piper Jaffray Companies
+Got it. And then just in term of this high-volume ASIC opportunities, is it good guess to say that, that's going to be about $10 million in the fourth quarter -- in the third quarter, rather?
+John Daane
+It will be more than half of the increase, just to kind of give you sort of a rough idea. We'll see how the quarter plays out. And again, when they're able to convert back to the ASICs and give you a better read of that at the end of the quarter.
+Operator
+Next, we'll go to Ross Seymore with Deutsche Bank.
+Ross Seymore - Deutsche Bank AG
+Kind of a question following up that last answer. Do you expect the decrease in that ASIC replacement to be a one-quarter event just like the increase was, i.e., will it all go away in the fourth quarter?
+John Daane
+I am anticipating, at this point, that it goes away by the fourth quarter, so that we do not have any of that shipping in the fourth quarter. Of course, that could change based on availability of the ASICs and a requalification and so forth, but that is my expectation at this point.
+Ross Seymore - Deutsche Bank AG
+Then as a follow-up on the gross margin side of things, you talked about the mix and how that falls into play. Is there any reason to think things won't be symmetrical and that Military going down, and ASICs up in the third quarter, is what's leading your gross margin to go down by 1.5 points or so in the fourth quarter? Those 2 things reverse themselves. You're thinking about it symetrically the right way or are there other variables we should consider?
+Ronald Pasek
+So I think it's hard to say it's going to be perfectly symmetrical. Again, I gave guidance on what I think will happen directionally for gross margin in Q4. But as you know, we're not giving the top line. So at this point, what we see is a rebound. Will it be perfectly symmetrical, really difficult to say. I can see pieces of it but again, the whole entire mix is not completely clear. So it will rebound, I am sure of that and whether it's symmetrical, I'm not so sure of that.
+Operator
+Next, we'll go to Christopher Danely with JPMorgan.
+Christopher Danely - JP Morgan Chase & Co
+I just had one quick follow-up. So the decline in Military business is not share losses, just the lumpiness of the business, right?
+John Daane
+Yes. As far as I can tell at this point, yes. I mean, there's nothing that we're losing that's going to a competitor for a new system or a new design. These are just programs and timing of the purchase of the programs.
+Operator
+Our next question comes from Sujee De Silva with ThinkEquity.
+Sujeeva De Silva - ThinkEquity LLC
+Can you give me an idea of when 28-nm becomes a more reportable percent of revenues, perhaps kind of 5%, the timeframe?
+John Daane
+I cannot give you specific forecast on percentages. We've stayed away from doing that in the past. I think, as you typically see prototype activity early, and then by the time you see customer start to build the systems and go into some early deployment and you get enough customers that are buying product, it typically starts to ramp. What you really see is the products peak about after years 4 and 5, probably between 1 year to 1.5 years from initial deployment is where you see it becoming meaningful. I think we're starting to ship some volume in Q3, and we'll probably start to give you some specific figures to start with because we've typically done that with every family, so that you can track the rough revenue of each family for Altera.
+Sujeeva De Silva - ThinkEquity LLC
+Okay, great. That color helps. And then a quick follow up. You shied away, Ron, from talking about the R&D progression into 2012. But is it safe to say the second half of this year is a more intensive product rollout period than what we should expect in the first half of '12 on a relative basis?
+Ronald Pasek
+So you're equating R&D spending with product activity?
+Sujeeva De Silva - ThinkEquity LLC
+To some extent, I guess, yes.
+Ronald Pasek
+I think the first half of next year you'll still see quite a bit of mass in wafer activity, yes.
+Operator
+And we'll take that question from Sumit Dhanda with Citadel Securities.
+Sumit Dhanda - Citadel Securities, LLC
+A quick follow-up, John or Ron. The benefit from ASIC replacement that you're seeing in Q3, was there any element of that present in Q2 at all or not really?
+John Daane
+Very, very little.
+Sumit Dhanda - Citadel Securities, LLC
+Okay, so less than a percent in your opinion?
+John Daane
+It was not meaningful either to the top line or to the gross margin line or anything.
+Scott Wylie
+And as we wrap up today, in terms of conferences this quarter, we will participate in the Citigroup Annual Technology Conference in New York on September 7. This concludes Altera's Earnings Conference Call, and thanks for your interest and participation.

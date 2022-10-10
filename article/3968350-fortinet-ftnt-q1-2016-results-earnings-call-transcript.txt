@@ -1,0 +1,505 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q1 2016 Earnings Call April 26, 2016 4:30 PM ET
+Executives
+Michelle Spolver - Fortinet, Inc.
+Ken Xie - Fortinet, Inc.
+Andrew H. Del Matto - Fortinet, Inc.
+Analysts
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+Brent Thill - UBS Securities LLC
+Gray W. Powell - Wells Fargo Securities LLC
+Saket Kalia - Barclays Capital, Inc.
+Shaul Eyal - Oppenheimer & Co., Inc. (Broker)
+Rob Breza - Wunderlich Securities, Inc.
+Scott Zeller - Needham & Co. LLC
+Jeremy Benatar - Raymond James & Associates, Inc.
+Imtiaz Koujalgi - Deutsche Bank Securities, Inc.
+Andrew James Nowinski - Piper Jaffray & Co.
+Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)
+Gregg Moskowitz - Cowen & Co. LLC
+Catharine A. Trebnick - Dougherty & Co. LLC
+Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)
+Hendi Susanto - Gabelli & Company
+Erik L. Suppiger - JMP Securities LLC
+Rohit Chopra - The Buckingham Research Group, Inc.
+Ken Talanian - Evercore Group LLC
+Operator
+Good day, ladies and gentlemen, and welcome to the Fortinet First Quarter 2016 Earnings Announcement. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will be given at that time. As a reminder, today's program is being recorded.
+I would now like to introduce your host for today's program, Michelle Spolver, Vice President of Investor Relations. Please go ahead.
+Michelle Spolver - Fortinet, Inc.
+Thank you, Jonathan, and good afternoon, and thank you, everyone, for joining us on this conference call to discuss Fortinet's financial results for the first quarter of 2016. With me today are Ken Xie, Fortinet's Founder, Chairman and CEO, and Drew Del Matto, our CFO. Ken will begin our call by providing perspective on our business and product advantages. We will then review our financial and operating results and conclude with (0:55) outlook before opening up the call for questions.
+As a reminder, today we're holding two calls. For those who have additional or more detailed questions, we will hold a second conference call at 3:30 p.m. Pacific Time. Both calls will be webcast from our Investor Relations website.
+Before we begin, let me first read the (1:12). Please note some comments we make today are forward-looking statements. These forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected in these statements. Please refer to our SEC filings, in particular, the risk factors in our most Form 10-K and 10-Q for more information. All forward-looking statements reflect our opinions only as of the date of this presentation, and we undertake no obligation and specifically disclaim any obligation to update forward-looking statements.
+Also, please note that we'll be discussing certain non-GAAP financial measures on the call. Our GAAP results and GAAP to non-GAAP reconciliations can be found in our earnings press release and on slides 13 and 14 of the presentation that accompanies today's remarks. Please refer to our Investor Relations website at http://investor.fortinet.com for important information, including our earnings press release, issued a few minutes ago, and the slides that accompanies today's prepared remarks. A replay of this call will also be available on our website.
+With that, let me now turn the call over to Ken.
+Ken Xie - Fortinet, Inc.
+Okay. Thanks, Michelle, and thanks to everyone for joining the call today to discuss our first quarter 2016 results.
+I'm very pleased to share that we have a strong start to the year. Our 30% year-over-year growth in billings in the first quarter highlight our ability to consistently outgrow and take share in the network security market. Fortinet's base of customers is now over 270,000, approximately 9,000 of which were landed during the first quarter. And IDC research show that more Fortinet network security appliances are deployed worldwide than any others. Our strategy of acquiring important new customers is working and our expansion opportunity is significant.
+There are several industry trends that are and will be important drivers of our business. Cyber threats are continuing at an alarming rate and our network's perimeter is growing due to the growing adoption of the mobility cloud application and the Internet of Things. This is keeping security at the top of IT spending priorities, resulting in customers taking a fresh look at a legacy infrastructure and driving meaningful shift in the market.
+First, enterprises are favoring a consolidated security platform that integrates multiple technology, products and service for improved security and a reduced complexity. This very notion is Fortinet's mission since we founded the company 16 years ago.
+Second, enterprises are increasingly circumventing their network and deploying internal firewall to protect key resources, such as customer or patient records, finance data, or research and development information, and third, they are evaluating how to secure application and the data in the cloud.
+All of these shifts benefit Fortinet. We are one of the only vendors with the breadth of the solution to address this need and we do it with the best technology and constantly innovation. The internal segmentation firewall trend we identified nearly two years ago is gaining traction and helping us land new customers and cross-sell to existing customers. We continue to see healthy enterprise demand globally for high end and mid range FortiGate appliance deployed as internal segmentation firewall.
+We worked many of these type of deals during the quarter, including a seven-figure expansion deal with a large public health organization and a large prolonged (5:02) deal with a global evaluation (5:04) company. In both cases, our high-end FortiGate product outperformed competition on both security features and performance. Fortinet's ability to offer firewall performance and switching speed, which is the key criteria for internal segmentation, is an advantage competitors cannot match.
+On the consolidation front, yesterday, Fortinet announced our Security Fabric, which weave together our highly advanced security for the endpoint access layer, network, application, data center and the cloud. This can be seen on slide three. Through this integrated Security Fabric, we protect the expanding attack surface with a single unified operation system that can be managed through a single pane of glass. This reduced operational complexity and TCO, but also improved security by enabling direct communication between solutions for a unified and rapid response to threats.
+Our Fabric has several key attributes, including scalability to protect entire attack surface from IoT to the cloud and wire speed. Awareness to behave as a single policy and a logging entity enabling end-to-end network segmentation for visibility, inspection and control of network traffic. Security through global and local threat intelligence should act across products to reduce time to protect and an open framework to integrate with an ecosystem of third-party solutions, enabling customers to maximize their existing infrastructure and security investments.
+At Fortinet, we take innovation very seriously. This is proven by third-party test of our product and by our intellectual property portfolio of more than 300 issued and 250 pending patents. Looking ahead, we will continue to invest in technologies which help power and enhance our Security Fabric, and enhance our customers to implement internal segmentation, cloud and other innovative security strategies capable of deliver seamless, comprehensive threat protection across the expanding attack surface.
+Yesterday, we announced the FortiGate 6000 and 2000 product family, which are the first to integrate our ninth generation FortiASIC content processor, CP9, and significantly reached (7:58) next-generation firewall, IPS SSL VPN performance. I'm especially excited about FortiGate's 6000E family, the newest and most powerful addition to our product line, and geared to meet highest performance requirement of large enterprise and service providers.
+(8:18) 6000 series encompasses FortiASIC CP9 processor, as well as significant advance in hardware design system performance, and the ability to deliver more than double the next-generation firewall performance of our existing high-end system.
+The first model being announced in 6000 series is the FortiGate 6040E, which is capable of delivering 320-gig of firewall and 80-gig of the next-generation firewall support. Over the next few years, we will be refreshing our entire line of (8:57) enterprise and carrier-class FortiGate system with the CP9 processor, and continuously extending our performance and technology lead.
+Fortinet has a strong technology advantage and a visionary roadmap in place to help us continue to grow our market position and address a huge opportunity. Our mission has always been to deliver the most innovative and integrate highest performance security solution across the whole IT infrastructure. We are seeing this play out in the market now, and we are well-positioned to continue to grow and take market share from competitors.
+I will now turn the call to Drew, to review our financial results of Q1 2016.
+Andrew H. Del Matto - Fortinet, Inc.
+Thank you, Ken.
+Fortinet started 2016 on a strong note, with the first quarter exceeding our guidance across all key metrics: billings, revenue, operating margin and EPS. We're especially pleased with our sales execution and the return on our marketing investments, which helped drive our billings growth 30%.
+This represents 3x the growth of the security market. This also illustrates a smooth recent realignment and very nice execution by our sales force, especially given the economic headwinds in Latin America.
+We enter 2016 with an excellent start with our new go-to-market structure. We're generating significant growth while increasing profitability, and are demonstrating scale leverage in our model. Fortinet also continues to generate substantial free cash flow, while still investing for growth.
+Let me now share our financial results for the first quarter, which can be seen on slide four. As I mentioned, Fortinet's billings increased 30% year-over-year to $330 million, exceeding our guided range of $315 million to $322 million. Total revenue of $285 million was up 34% year-over-year and above our guided range of $270 million to $275 million. Our deferred revenue balance increased to $837 million, up 39% year-over-year, exceeding our billings growth. This illustrates our ability to sell our margin-rich recurring subscriptions and services.
+From a profitability perspective, non-GAAP operating margin was 11%, above our guided range of 8% to 9%. Non-GAAP earnings per share was $0.12, also above our guidance. We continue to invest in line with our strategy to drive growth, but show gradual operating leverage as we grow in scale.
+Our gross margin was strong at 74%, which was also above our guided range of 72% to 73%. This was driven by sales of higher value subscription bundles. And finally, our cash generation continues to grow, as evidenced by the $71 million of free cash flow generated during the quarter.
+Fortinet continues to outgrow the network security market by a wide margin and take share. This is a trend we expect to continue, as enterprises increasingly shift to integrated security platforms and value premium technology. We continue to both land new customers and also win substantial expansion deals with existing ones, due to the strength and performance of our broad and integrated Security Fabric. We have many more enterprise customers today than we had in the past, illustrating our investment strategy is paying off.
+We see ample opportunity to expand our presence within our installed base and drive a continuously higher customer lifetime value. Our acquisition of new customers and ability to expand sales within our growing installed base provides broad opportunities for future growth and leverage in our model for years to come.
+As Ken mentioned, complexity and extension of networks from IoT to cloud has caused the attack surface to increase dramatically, and security is now borderless. Enterprises want strategic security partners who can provide a broad and integrated platform of solutions, versus numerous vendors and disparate products that solve only a small part of the problem.
+This integration, or Security Fabric, improves security, reduces deployment and management complexity, and saves on operational costs. Our Security Fabric uniquely positions Fortinet. This weaves together our products, services and partnerships to provide seamless protection at all points in the network, from endpoint to data center to cloud.
+Our fabric delivers integrated scalability, awareness, security, and openness, both from the cloud and for the cloud. This is a strategic consideration for our customers, as they move from the limited capabilities of point products or incumbents lacking the necessary innovation or integration capabilities.
+We expect this consolidation trend and framework to be a meaningful business driver and expansion opportunity for us going forward given the key disruptive vectors of more cloud, mobility and proliferation of inherently insecure IoT devices.
+We are already seeing the beginnings of this materialize today. Billings of non-FortiGate products outpaced overall billings growth during the quarter, with the highest growth coming from our FortiSandbox ATP appliances and virtual software offerings, which grew over 270% year-over-year. The majority of our FortiSandbox deals also include our FortiGate, FortiMail, FortiWeb and FortiClient products to serve as a framework for protecting advanced threats at multiple areas of the network.
+Some of the multi-product deals won during the quarter included a deal with a large international telecommunications company that selected our FortiSandbox and FortiMail appliances to extend their FortiGate deployment. Together, these products provide an ATP framework for protecting against advanced threats at the perimeter, core and mail server.
+We also won a multi-product deal with a large and very well-recognized global automotive corporation that is a long time Fortinet customer. We expanded in this account, winning a deal to secure a large division with a combination of numerous FortiGate, FortiWiFi, FortiAP and other Fortinet products. These wins exemplify the value of our Security Fabric to customers and to Fortinet's growth opportunity.
+And though still in early stages, cloud adoption also represents a significant expansion opportunity. As you could see on slide five, Fortinet delivers security for the cloud and from the cloud. We support all major cloud deployment scenarios, whether public, private or hybrid, giving customers the ability to choose and migrate when and where they want.
+The move to the cloud continues to be a long-term driver for our business. Customers recognized Fortinet's distinct advantage in providing a unified security posture through a common operating system across IoT to cloud. The vast majority of cloud deployments are a hybrid of physical and virtual, partly due to the need for high performance.
+In cloud scenarios, high security performance for north-south traffic is extremely important. IoT devices are typically headless or lacking any security intelligence. The ability to secure applications in the cloud and IoT devices at the access layer and within the network is an emerging necessity. Fortinet plays uniquely well here, given our strong performance advantage and integrating network and secure access technology that competitors just can't offer. As a result, our cloud and virtual business again grew significantly, and though off a small base, this represented one of the fastest growing areas of our business.
+Some first quarter cloud wins included landing a first seat at the table of a global software vendor for a hybrid cloud to data center deployment in a Microsoft Azure environment. And we also expanded with an existing Fortinet customer for a hybrid cloud deployment in an AWS environment. For both deals, we sold a combination of our virtual security products and high-end data center appliances. Critical to both were our unified Security Fabric and operating systems across the hybrid environment of cloud and premise-based deployments, coupled with a single pane of glass management and unmatched performance for the data center.
+And lastly, we expanded with an existing telecommunications customer that selected Fortinet for its cloud migration project. This included upgrading competitive firewalls and adding virtual firewalls for an AWS environment. We expect continued expansion opportunities with this customer as we help them implement their hybrid cloud strategy.
+Our service provider business was also very strong during the quarter. Fortinet counts nearly every major service provider in the world as a customer. This was due to our ability to deliver the very highest levels of performance, security, advanced networking and deployment flexibility. This combination allows telcos to offer an array of managed services, including fully hosted security, private hosted cloud or customer premise-based security services.
+One of the service provider deals won during the quarter was one with a very large North American carrier for a major network firewall upgrade for its MSSP offering. We also won a deal with a U.S. service provider that purchased our FortiSandbox appliances to deliver a managed ATP service.
+Finally, I'd like to highlight that we had numerous large subscription and support renewal deals with existing Fortinet customers. Our renewal rates, which are tracked by appliances, not customers, remain in the mid-70% range and exclude product refresh and upgrade purchases. Our customer retention rate continues to be above 90%, which demonstrates overall customer satisfaction as well as the stickiness of our solutions.
+Our high renewal and retention rates also show that we are not only winning numerous customers from incumbents, but we're keeping them. Our base of large deals is growing and is larger today than ever before. During Q1, the number of large deals grew in all categories. Deals over $100,000 grew 43%; deals over $250,000 grew 28%; and deals over $500,000 grew 43%.
+Our breakdown of billings across our top five verticals was service provider at 22%, government at 14%, financial services at 10%, education at 6% and retail at 7%.
+Now, let me turn to the geographic breakdown of billings for Q1. Americas billings grew 29%, EMEA billings grew 30% and APAC billings grew 32%. In the Americas, the U.S. performed well and Canada rebounded and saw strength for the first time in several quarters. Excluding Latin America, North America grew in the mid-30% range year-over-year. As we cautioned in our guidance commentary in January, we saw weakness in Latin America, primarily resulting from economic headwinds as well as political headwinds in Brazil.
+EMEA delivered another exceptional quarter, growing an impressive 30% year-over-year. We continued to see early investments in growth pay-off, especially in northern Europe and emerging markets like Africa and the Middle East.
+In APAC, we grew an impressive 32% year-over-year and performed well across the region. Japan, which represents the largest portion of our APAC business, performed especially well.
+We are seeing returns on our sales and marketing investments in all regions. We're pleased with our new global sales structure and the team's execution during the first quarter of realignment. This enabled us to better source, win and support multi-national enterprises. Our marketing investment strategy is progressing nicely. With an expanded and seasoned team, we have improved public awareness activities and significantly increased the amount of end user events, demand generation campaigns and lead qualification resources. We remain committed to this strategy.
+Now, turning to billings by product segment on slide six, we continued to see diversity of product billings across all segments and strength among our high-end FortiGate products, which accounted for 37% of total product billings. This indicates strong sales to large enterprises and service providers. Our mid-range enterprise products accounted for 28% of the total mix and our entry-level products accounted for 35%.
+Total revenue was $285 million during the first quarter, up 34% year-over-year, and above the high end of our guided range. Revenue performance was driven by the combination of 28% year-over-year product revenue growth and 39% year-over-year services revenue growth. Our richer subscription bundles and corresponding price increases is helping drive services revenue growth.
+On a geographic basis, you could see on slides seven and eight, the revenues continue to be diversified globally, which remains a key strength of our business. In the Americas, revenues grew 31% to $120 million, EMEA revenues grew 39% to $105 million, and APAC revenues grew 29% to $59 million.
+Moving to non-GAAP expenses and profitability, during the first quarter, our non-GAAP gross profit margin was 74%, above our guided range of 72% to 73%. Non-GAAP product gross margin was 61%, up 340 basis points over the first quarter of last year. Non-GAAP services gross margin was 84%, an increase of 150 basis points over last year and highlighting the margin expansion opportunity of our FortiGuard and FortiCare subscription offering, which also provide valuable recurring revenue streams.
+Non-GAAP gross margin was again positively impacted by higher sales of software products such as our VM line, our virtualized security solutions, and the impact of recent price increases on our FortiGuard security subscription bundles I just mentioned.
+Non-GAAP operating expenses were $180 million during the first quarter, resulting in non-GAAP operating income of $30 million, or 11% of total revenue. This was above our guided range of 8% to 9% and primarily driven by the revenue and gross margin overperformance.
+As a result, non-GAAP net income for the first quarter was also above our guidance at $20 million, or $0.12 per share, based on 174 million diluted shares outstanding. The non-GAAP tax rate for Q1 2016 remained 34%.
+As seen on slide 10, we ended Q1 with a strong balance sheet, including $1.194 billion in cash and investments. Our $71 million of free cash flow included $19 million in real estate purchases to support growth and $11 million in other capital expenditures, including our ERP project. Our free cash flow is strong and increasing, even as we invest in the company to support growth, while delivering returns to shareholders. Annualized inventory turns for Q1 were 2.1, in line with our annualized goal of two or better. Deferred revenue increased to $837 million, up $237 million, or 39%, year-over-year and $46 million sequentially.
+Finally, during the first quarter, we repurchased approximately 2 million shares of stock for approximately $50 million at an average price of $24.97. As of the end of March, we've repurchased approximately 7.5 million shares for a total of approximately $188 million at an average price of $24.87 since the inception of the buyback programs. $150 million remains under the new $200 million share repurchase program announced in January of 2016.
+Now, let me finish with our guidance for the second quarter of 2016. As a reminder, all forward-looking statements including all of the guidance statements provided are subject to Michelle's cautions at the start of this call.
+Fortinet's market opportunity and competitive advantage is significant. Our investments have helped lay the foundation for our future growth, increasing profitability and free cash flow, as we continue to scale Fortinet to be a multi-billion dollar business. We are well-positioned to benefit from secular tailwinds, such as security product consolidation, network segmentation and cloud with our end-to-end Security Fabric.
+Additionally, we are embarking on the beginning of the new FortiGate product refresh cycle with our FortiASIC CP9 which further strengthens our performance lead and competitive advantage.
+On the execution front, our recent sales realignment and investments are bearing fruit, and our salespeople are motivated. However, some of the changes made in January are still early given sales cycles often extend beyond six months, and we think it'll take a bit more time for the benefits to fully materialize. Additionally, we're still facing challenges in certain regions such as Latin America. It's prudent for us to factor all of this into our forward outlook.
+During Q2, we expect billings to be in the range of $365 million to $370 million, up approximately 24% year-over-year at the midpoint. Total revenue is expected to be in the range of $301 million to $306 million, up 27% year-over-year at the midpoint. Non-GAAP gross margin is expected to be approximately 73%. Non-GAAP operating margin is expected to be approximately 12%. And finally, we expect non-GAAP earnings per share to be approximately $0.14 based on an expected diluted share count in the range of 176 million to 178 million fully diluted shares.
+Turning to guidance for the full year 2016, we're increasing billings, revenue and EPS expectations. This accounts for our first quarter overperformance and continuing confidence in our market opportunity while considering the cautionary factors I just mentioned.
+Billings are now expected to be in the range of $1.520 billion to $1.530 billion, up 24% year-over-year at the midpoint and an increase from the $1.505 billion to $1.520 billion we previously estimated.
+We expect total revenue to be in the range of $1.262 billion to $1.272 billion, up 26% year-over-year at the midpoint and an increase from our prior guidance of $1.250 billion to $1.260 billion.
+Non-GAAP gross margin is expected to be approximately 73%. And we're maintaining our non-GAAP operating margin guidance of approximately 15%.
+We remain committed to our strategy of investing for growth, as well as showing margin expansion. We believe our investments will benefit us long-term from a growth and customer life-time value perspective, enabling us to drive scale leverage over time.
+Finally, we expect non-GAAP earnings per share to be in the range of approximately $0.69 per share to $0.71 per share based on an expected diluted share count in the range of 180 million fully diluted shares to 182 million fully diluted shares. This is up from our previous guidance of $0.67 per share to $0.69 per share.
+In closing, I'd like to thank Fortinet employees, partners, customers and shareholders for their continued confidence and support.
+With that, Ken, Michelle and I will now take your questions. Operator, you may start the Q&A.
+Question-and-Answer Session
+Operator
+Certainly. Our first question comes from the line of (30:20).
+Unknown Speaker
+A question, and congrats, on the solid results. Maybe just a little more, Ken and Drew, on where you're seeing the traction under the new sales structure, particularly as it pertains to gaining new customers in the mid-range enterprise.
+And then, Drew, I think in the past, you've talked about looking internally at productivity metrics and sales and marketing. If you could just give us an update there, that would be great. Thank you.
+Ken Xie - Fortinet, Inc.
+Yeah. This is Ken. I think the global sales infrastructure, like Drew mentioned, starting to benefit a lot for us to manage some bigger account, global account and that's making the customer more comfortable to deploy globally, and also, the partner also can support end customer. Actually also, we started to have the global marketing program, which synchronized all the regions together and helping generate a lead and also helping the training and also position in the marketplace.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. And Gabriella (31:24), I mean at the end of the day, we grew 30%, 3x the market. The only place we really saw a drag, so to speak, I would say was Latin America. That was just a tough quarter down there. I mean clearly, economic issues across the region, and then, in Brazil, in particular, not only the economic issues, but political issues and even the Zika virus is probably causing some concern down there.
+So I mean that was the toughest region for us. We actually felt like transition was smooth given some of the remapping that occurs in a transition and the fact that sales cycles often take anywhere from six months to nine months. So I think taking that all into consideration, we were pretty happy with what we saw.
+Unknown Speaker
+That's very helpful. Thank you. And then, just a follow-up if I could. On the last call, when we talked about the full year guidance, I think there was the two risks that you mentioned, the macro and the sales reorganization. Maybe just relative to three months ago, how do you feel about both those two factors and as it pertains to the second half, what are the things that we should be thinking about that could drive upside or downside relative to normal seasonal trends? Thank you.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. Fair question. In January, we talked about Latin America and that absolutely came to â we saw that as an issue. It clearly was a headwind in Q1. And we're calling that out going forward. I just spent some time on that, called that out in the script. So that's certainly there.
+Beyond that, I think what also was happening in January was the stock market. We were â I think there were some concerns, just not only us, but others, that that might cause a drag just on the economy as a whole, but it seems like that recovery â that's recovered. So I think that's good.
+And then, beyond that, I still see some concerns about the Chinese economy. Didn't seem to be much of an issue this quarter, but going forward, if that were to decline or get worse, that could potentially be a headwind for us. We don't have a lot of business in China. It's probably less than 2% of our business, but we'd be more concerned about trading partners, if that created just a broader headwind outside of the country of China itself.
+Ken Xie - Fortinet, Inc.
+Yeah. This is Ken. I think for the world, the market condition in the network security, we see still we're healthy and still keeping growing nicely, especially in the â we call the internal segmentation. So we see pretty strong demand in there, and also, the new â we call the Security Fabric, which making the internal security, access, endpoint, cloud, all working together, and that also have a huge demand in the customers partners side. So the market is still healthy, continue to drive the demand, the growth there.
+And on internal execution side, we go through a few months of change in restructuring. It's all improving, and we feel, probably, second half of this year, we can see even better improving in the result.
+Unknown Speaker
+That's very helpful. Thanks.
+Operator
+Thank you. Our next question comes from the line of Melissa Gorham from Morgan Stanley. Your question, please.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+Great. Thanks for taking my question. Ken, I just wanted to follow up with you on the internal firewall opportunity. So you mentioned a good amount of demand. I'm just wondering if that business is meaningful today, in terms of the financials, and how we should expect that to kind of ramp throughout 2016 and beyond.
+Ken Xie - Fortinet, Inc.
+Yeah, this is a market we identified about two years ago. And we're starting to see it's starting to ramp up pretty quickly, and it's starting to get (35:22) meaningful. We're starting to see like one or (35:24) two research report, they say it will be like a few billion dollars in the next three years to five years, contribute maybe like between 6% to 8% additional growth of the network security market, because the traditional firewall, which only deploy and where companies have Internet connections no longer, in fact, enough, and the mobility, the cloud and the BYOD, starting making up (35:51) that border protection no longer effective.
+So that's where inside enterprise is starting to deploy a lot of internal segmentation, and also the IoT, probably the only effective way to secure is really through the segmentation there. There are some new reporting to (36:08) come up, but we do believe this will be eventually what drive quite some growth and net adds on the current network security infrastructure.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. And just to follow on to that, Melissa, it's Drew. When Ken mentions IoT, it's important to know that most of the devices out there are headless or lacking security, and so, they're going to be â a lot of those are going to be accessed through network through a wireless layer. And there's really just access controls there. And so, once they're in, the segmentation becomes a very important architecture strategy for companies as those begin to proliferate. So that's just part of the vision going forward, and we're seeing some interest there.
+Michelle Spolver - Fortinet, Inc.
+Melissa, it's Michelle. The last thing I wanted to add â I think the question was, how big of a part of the business internal segmentation firewall is for us? I think the challenge is, is that the products. There essentially are FortiGate high-end products. So it's hard to sort of separate, when you look at a deal and you look at data, if it's being deployed in the core or if it's being deployed as an internal segmentation firewall. We do know, qualitatively, that it is helping drive the business. We can see that in the type of big deals that we win, but we don't have an actual metric to be able to give you on that.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+Okay. That's helpful. And then, just one last on the sales reorg, so can I just clarify that the changes in terms of the sales organization is fully complete, and now it's just about executing? And then, have you started to see an improvement in growth in your U.S. enterprise business?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, the realignment really has taken place. In terms of the enterprise business, I mean the number we used to give out in the past, quite frankly, was the team that no longer exists. What I would share â I think I shared in the script that the North America growth was in the mid-30% range. And so, it feels like the realignment went smoothly. We did well, if you look at the large deals or if you look at the product mix, the high end did really well. And those are factors to kind of to show really who's buying the product. So it tends to be larger customers buying the product with the large boxes and again, the large deals tend to be an indicator of that.
+Ken Xie - Fortinet, Inc.
+It's probably a few quarter continuous improvement. And also, including those repositioned (38:41) restructured sales force and also keeping invest and also as a marketing team, working closely with the sales team. And so, we do commit to keeping invest in the marketing and sales, especially in the U.S. side and driving the growth, but that's also we want to smooth out the change, make sure it's a â while we're improving, the same time, maintain the healthy growth.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from the line of Brent Thill from UBS. Your question, please.
+Brent Thill - UBS Securities LLC
+Drew, not to dwell on the sales force reorg, but can you just remind us what percent of the overall sales and marketing team has been realigned, or it sounds like it's done. But can â what did you change? Can you just walk through that, mechanics of what those changes were?
+Andrew H. Del Matto - Fortinet, Inc.
+Sure. We went to a more regional approach, is what I would say. We basically â I think the top two things are, one, go to a regional approach and then, peel off the top level for a strategic account team.
+And so, the regional approach would be, I think you'd have people in the west, the central and the east, for instance, and so that they're closer to the company â customers, versus flying around the country. One of the things we saw, we give the examples of the financial services team was highly focused in Manhattan, yet there are banks elsewhere and we weren't really covering those, because the teams in the local area would effectively stop (40:30) calling the financial services â the banks in their region, because they were expecting the financial services people to do it. And we weren't really just getting the scale we needed to touch those customers.
+So those are really the big changes. And so, when you think about that, there's some remapping and it's not 100%, but there's definitely some remapping of accounts. And that, although it went smoothly, again, just keep in mind that it takes â probably takes six months to nine months for a sales cycle. So we're still hopeful that that will ramp a bit more.
+Brent Thill - UBS Securities LLC
+Okay. That's helpful. And just a quick follow-up on the whole wireless play and when you talk about the shift to IoT, can you talk a little bit how â what you're seeing from customers, and how that's starting to impact some of the deals that you see right now?
+Ken Xie - Fortinet, Inc.
+This is Ken. I think the IoT, the wireless is really part of the infrastructure. So that's where we talk about, we need to provide the total solution and also consolidate and also integrate together like a fabric. So that's where, I think, we talk about â we had only vendor contracts from endpoint to the access, wireless, to the IoT, and then, the network side, the data center and the cloud. But all this has to be working together and also managed together, so that's the provision â the direction we keeping driving right now.
+Brent Thill - UBS Securities LLC
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Gray Powell from Wells Fargo Securities. Your question, please.
+Gray W. Powell - Wells Fargo Securities LLC
+Great. Thanks for taking the question. I was hoping we could just jump back on the internal segmentation firewall opportunity. How big are those deals, generally speaking, relative to traditional perimeter firewall deals? And then, how long is a typical sales process on internal segmentation? Thanks.
+Ken Xie - Fortinet, Inc.
+I think, like Michelle said, it sometimes, because of the channel, little bit difficult to see how to identify as an internal or as a perimeter security, but for quite a few case, we see a similar size. And because after the â I think most companies already have the border security, the traditional firewall deployment there. But what they miss is really how to secure internally, so that's where we see â but internal, you need to deploy like where the switch deployed, and also match the speed of switch, which tend to be 10 times to 100 times faster than the traditional firewall throughput there. So that's where we see, probably, I'd say for the deal size will be similar, if not larger â something even larger than the traditional perimeter security, in an enterprise environment.
+Michelle Spolver - Fortinet, Inc.
+Sorry. Yeah, Gray, it's Michelle. It depends on sort of the size of the customers' network and how much segmentation they want and how many firewalls they want, and then, also the other thing is that they aren't always â these type of deals aren't always a straight internal segmentation firewall deal. We've talked in the past couple of quarters about landing first feet that were straight internal segmentation firewalls. But it's also an expansion opportunity for us with our existing base. And many times, it includes products for other types of deployments. But I mean they are...
+Gray W. Powell - Wells Fargo Securities LLC
+Okay.
+Michelle Spolver - Fortinet, Inc.
+...I mean it could fall in the 100,000 on that, but it's probably not going to be in the million (44:01).
+Andrew H. Del Matto - Fortinet, Inc.
+And Gray, you also asked about sales cycle. I mean I don't think these are particularly short sales cycles unless it's a follow-on deal. If you follow Michelle's logic, I think, they're just buying more the same than it's a shorter sales cycle. If it's a large new architecture deployment, it's going to take a little longer.
+Ken Xie - Fortinet, Inc.
+Yeah. The two products we just announced, 6000, 2000 probably more towards supporting enterprise, the carrier for the internal high-speed deployment environment.
+Gray W. Powell - Wells Fargo Securities LLC
+Got it. Okay. That's really helpful. And then, just one follow-up, is there a way to gauge like where the market is in terms of its development or maybe the percentage of customers that have even deployed some form of internal segmentation?
+Michelle Spolver - Fortinet, Inc.
+It's really early. I mean I think we're seeing it materialize. We talked about it a year-and-a-half or so ago and we're seeing it materialize now, but it's still early in terms of the opportunity (45:03).
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah, I think it tends to be, from what I've seen more and where you would suspect, the verticals you would suspect it, probably first in financial services, definitely seeing some interest in healthcare as well and then even some of the telcos.
+Gray W. Powell - Wells Fargo Securities LLC
+Okay. That's really helpful. Thanks for the color.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah.
+Operator
+Thank you. Our next question comes from the line of Saket Kalia from Barclays Capital. Your question, please.
+Saket Kalia - Barclays Capital, Inc.
+Hey, guys. Thanks for taking my questions here. Maybe to start off, we've started to see some of the new CP9 appliances come out. Can you just talk about, historically, what's been the price difference between some of the new appliances with the new ASIC and the previous product families has been and whether you've seen any different dynamic with the new appliances from like a subscription attach perspective?
+Ken Xie - Fortinet, Inc.
+Yeah. This is Ken. I think we tend to â when we upgrade the system, the new generation tend to be on how our price is about the same as the old generation, but do improve in performance and the function there, that's where leverage (46:17) the new ASIC and other. That's where you can see the new 6000 and the 2000 we call the E. So that's probably the fifth or sixth generation in the system level.
+We stay with the same number (46:30) after FortiGate, then, it tended to be priced about the same, similar. But the new system do give us additional computing power, additional security function capability, especially like we announced the â we call the enterprise bundle security compared with the traditional UTM bundle security which added two additional new subscription service. It's the ATP subscription service, and also the mobile cloud security subscription service, so that's in the enterprise bundle that will be â each additional service, individually, will be 20%, but bundled together, probably like a 25% or 30% above the traditional UTM bundle.
+So that will be, long-term, driving the additional subscription service and also the additional value out of the hardware deployment. So that's where we see that the new CP9 will help in improving that performance a lot like we see the intrusion prevention side, they probably like a 3x of whether the CP or the previous processor there. At the same time, we're improving like the (47:43) performance like 14 times, 15 times faster than whether (47:49) the CP or the content processor. And the same thing for other security â additional security function put in the content processor.
+Saket Kalia - Barclays Capital, Inc.
+Got it. Got it. And then, for my follow-up, I just wanted to hit on seasonality of billings a little bit. Obviously, very nice year-over-year billings growth of 30% and ahead of expectations. But Drew, I remember last quarter you mentioned something about maybe a little bit more seasonality from Meru. It seems like LatAm was maybe a little soft this quarter. You also had the realignment.
+So can you just talk about maybe what that seasonality in billings would have looked like, adjusting for Meru or adjusting for maybe some of those other items. Would have been â it sort of more in line with what we've seen kind of Q4 versus Q1? Or was there something different in the seasonality this quarter in billings?
+Andrew H. Del Matto - Fortinet, Inc.
+Was there something â let me just stare at seasonality for a minute.
+Saket Kalia - Barclays Capital, Inc.
+Yeah. So I guess specifically, billings down roughly, let's call it, $50 million or $51 million over Q4, maybe historically that's more closer to $25 million, $30 million. So I wasn't sure if that was Meru just being a lot weaker which I think you mentioned last quarter or maybe there were other items to note.
+Andrew H. Del Matto - Fortinet, Inc.
+It looks like we're down â so I'm just staring at 13% quarter-on-quarter down seasonality. We were down what 10% last year, 11% the year before. So it doesn't feel too out of range at low-teens. I think flat in America probably is the primary culprit, quite frankly. That would probably account for the difference for...
+Ken Xie - Fortinet, Inc.
+Yeah. And also..
+Andrew H. Del Matto - Fortinet, Inc.
+...the billings perspective that would pretty much mathematically do it.
+Ken Xie - Fortinet, Inc.
+Yeah. For the Meru, we â fully integrated team is we just went out for like a Wi-Fi security together and using FortiGate as the way to manage that. So I don't think Meru contribute much at all.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah.
+Saket Kalia - Barclays Capital, Inc.
+Got it. Very helpful. Thanks, guys.
+Operator
+Thank you. Our next question comes from the line of Shaul Eyal from Oppenheimer & Company. Your question, please.
+Shaul Eyal - Oppenheimer & Co., Inc. (Broker)
+Thank you. Good afternoon, guys. Congrats on strong quarter and improved outlook. Two questions on my end. Drew, how would you characterize linearity trends between the months of the quarter, 1Q 2016 versus 1Q 2015? Our checks indicate it to a more back to normal linearity trend versus a perceived, I think, panic buying mode we have seen a year ago. Just wanted to get your perspective on that point.
+Andrew H. Del Matto - Fortinet, Inc.
+Fair question. By the way, I don't know that, again, the panic buying is probably not our terminology. And I'm not sure those two things go together. But just full disclosure, I mean Q1 2015 had much better linearity than Q1 2016. We got off probably to a better start. I think â think of it like this. First of all, you have Latin America headwind that we talked about. And then, you also have â I think the stock market might have given people a little bit of pause in January. There was a little bit of caution out there, and then, obviously, we had our sales realignment. And so, things picked up very nicely as we proceeded towards the end of the quarter.
+Shaul Eyal - Oppenheimer & Co., Inc. (Broker)
+Got it. And where do you guys stand on the Chief Marketing Officer search process given the departure a few weeks â a few months back.
+Andrew H. Del Matto - Fortinet, Inc.
+So we're searching for a global marketing head. We continue to do that. From a strategic standpoint, our strategy remains to invest in marketing. We have our plans that we're executing against. We've tripled the marketing spend over the last several years. We continue to invest there. And we think those are paying off, primarily in the area of market awareness, clearly, building a lead generation team and a process there, and then, focusing a lot on training, especially with the new sales realignment. Those two things go hand-in-hand and they seem to be going very well.
+So we're very committed to the marketing. We're very committed to our partners and that seems to be going very well.
+Shaul Eyal - Oppenheimer & Co., Inc. (Broker)
+Got it. Thank you. Congrats.
+Andrew H. Del Matto - Fortinet, Inc.
+You're welcome.
+Operator
+Thank you. Our next question comes from the line of Rob Breza from Wunderlich Securities. Your question, please.
+Rob Breza - Wunderlich Securities, Inc.
+Hi. Thanks for taking my questions. Congrats as well. Ken, I was wondering if you could talk a little bit about the new product cycle, as you think about maybe the value that's provided to the customer in terms of performance and price performance? And then maybe, Drew, just comment on how you see the product cycle benefiting the financial statements. Thanks.
+Ken Xie - Fortinet, Inc.
+Yeah. Once we have a new FortiASICs or some other new technology, it's going to take some time to gradually build into the system and also have the FortiOS, the software gradually to leverage that additional computing power or the function there.
+So that's where we â like, we're constantly keeping improving. So if you look at â we have probably 20, 30 different models of a FortiGate. So you know that every quarter there's one, two new upgrade refresh come out. So that's where we don't see much like a big change, like from quarter-to-quarter, but we'll continue to refresh.
+Like, take the last two years, we refresh a lot of the high and the mid-range that we call the NP6, network processor sixth generation. So that's pretty much done. Then, we started in this cycle the content processor. We also have our other chip, we call the System-on-Chip which is more targeted low end product there. So that's where the three FortiASIC chip will help in keeping driving, refreshing the system like gradually, quarter-over-quarter.
+So every new things come out, we try to leverage the latest one, but we also try to, like, upgrade one generation. You only think about like a three-year timeframe to keep and upgrade. That's more like a 20 to 30 different FortiGate system. It would take some time.
+And also, we're starting to leverage the FortiASIC expanding into some other products, non-FortiGate like the web security, the Sandbox, in the email, some other. You see also the growth of the non-FortiGate product, we call that application security side, starting accelerating â starting to grow faster than the overall company growth, which like the super majority do come from FortiGate. So the other products are also starting to see a lot of growth whether to up-sell, cross-sell and also leverage the technology we've developed on the FortiGate side starting expanding into some other applications.
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. And Rob, I think Ken addressed the timing. What I would say is â what it really gives us is a tailwind of market awareness. And so, it gives us something to discuss with our customers and prospective customers where we're reinforcing the message about the Security Fabric and showing how this tethers into it to drive higher performance and innovation. And so, that's the message we're trying to drive. That's what we're doing with this.
+And again, there's obviously a higher performing product there, but it plays right into the strategy and the vision that we're communicating to our customers and it gives us a great opportunity to talk to them, whether it's trying to do a new installation, up-sell, cross-sell or just grab a new customer.
+Rob Breza - Wunderlich Securities, Inc.
+Great. Nice quarter.
+Andrew H. Del Matto - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Sterling Auty from JPMorgan. Your question please.
+Unknown Speaker
+Hey, this is (56:07) for Sterling Auty. Thanks for taking my question. I just wanted to ask a small question, if we see last year, the sequential change in the operating margin was somewhere around 280 bps. But as I said for this fiscal, the sequential change from March to June quarter we see only an expansion of 140 bps. Could you please provide some color on that and how do you plan on reaching your 15% operating margin for the full fiscal year?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, so let me take the last part first, if that's okay, how do we get to 15% for the year? So obviously, you've seen some margin expansion on the service â clearly, the services line where we're executing a strategy of selling retro subscription offerings on the FortiGuard side and that translates â that manifests itself into the higher priced points we discussed a year ago. You see those basically flowing into the P&L as they amortize from deferred revenue and that drives just a more â a higher gross margin which is effectively floated down to the operating margin, that along with the higher than expected revenue.
+So those are obviously good things. We've guided on those. So I can't really touch any more on it. But we're very focused on managing costs and living within that envelope, 15%. We feel like we're off to a great start and we're working well together internally to execute against that target.
+Unknown Speaker
+Yeah. Regarding the expansion of 280 bps for â if you see the expansion of 280 bps in 1Q to 2Q in 2015, was this 1Q to 2Q in 2016? It's only half of it, it's 140 bps.
+Andrew H. Del Matto - Fortinet, Inc.
+Well, look, I think if you're â are you trying to get us to guide on the detail â I'm not sure...
+Unknown Speaker
+Yeah, just to provide the color.
+Andrew H. Del Matto - Fortinet, Inc.
+Well, look, I mean gross margin is product mix dependent as well. So we clearly feel like we're doing well with the recurring revenue. The price increases are clearly taking hold, but there's obviously some uncertainty and caution just around product mix which can influence the gross margin overall. So as we continue to see that uplift occur, that's something we can obviously look at going forward where we take that â where we guide on the gross margin, but I think it's a bit early yet.
+Unknown Speaker
+And on the operating margin side?
+Andrew H. Del Matto - Fortinet, Inc.
+And so, we guided 15% for the year and we're sticking to it. We're committed to doing that.
+Unknown Speaker
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from the line of Scott Zeller from Needham & Company. Your question, please.
+Scott Zeller - Needham & Co. LLC
+Yes, thank you. I knew there was a comment earlier from Ken around Meru, but we just like to get some more color. I know it's fully integrated now, but maybe the momentum of the business, if you could.
+Andrew H. Del Matto - Fortinet, Inc.
+Well, Meru is fully integrated, Scott. And what one of the things that's occurring right now is that, it's literally in the price book, and before, we had the sales force integrated, but the price book was separate until January. So it doesn't really â you don't get kind of the factors, both teams, the incumbent Fortinet team and the legacy Meru team, selling both products. But now we're kind of that. And so, clearly, you have the opportunity to sell either one and the lines become a little blurry on it.
+The idea all along was, again, this Security Fabric strategy where you're going from IoT into the â end-to-end from IoT into the data center. Access is really the only security right now in the Wi-Fi layer and what we can do by selling our controllers is have an integrated platform to sell all of that. And that's kind of the strategy. It's a little broader than your question, but that's effectively the strategy.
+So across the board, the wireless team did fine. And we look forward to that actually doing, I think, increasingly better, as we integrate the code on the products and we're able to sell the controllers across the product line.
+Scott Zeller - Needham & Co. LLC
+Okay. And a follow-up, I saw the news that Verizon has either sold or is considering selling its data center assets, and given the historical relationship with Verizon and others, can you tell us what it means for demand for your high-end products, or low-end products, actually, when data center assets are sold off?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. We talked to our team. They don't see any impact with that spin-off.
+Michelle Spolver - Fortinet, Inc.
+You have to remember, Scott, the majority of our service provider business is MSSP business. And so that doesn't necessarily get tied into a data center sell-off, right.
+Scott Zeller - Needham & Co. LLC
+Well, just for clarification, when a service provider uses your products for internal network use, your point is that that is not disrupted by data center sales?
+Michelle Spolver - Fortinet, Inc.
+That would be disrupted by data center sales, but there's a minority of our business is just having them use it internally. And Verizon is a public MSSP customer. I can't comment whether or not they are a data center â whether they use this from a data center perspective, but as Drew said, our team feels good about minimal or no impact really based on that division.
+Andrew H. Del Matto - Fortinet, Inc.
+So we're telling there's no disruption.
+Michelle Spolver - Fortinet, Inc.
+Yeah, yeah.
+Scott Zeller - Needham & Co. LLC
+Great. Thank you very much.
+Operator
+Thank you. Our next question comes from the line of Michael Turits from Raymond James. Your question, please.
+Jeremy Benatar - Raymond James & Associates, Inc.
+Hey guys. It's Jeremy Benatar in for Michael. I just had a question on competition in the carrier segment. So CheckPoint and Palo Alto both released high-throughput appliances recently and they're investing in the market. Just wondering if you've noticed increased competition from them or anyone else in the quarter?
+Ken Xie - Fortinet, Inc.
+We have not seen any changing in the competitors' side yet. And also with the new 6000 and 2000, we feel we are even increasing the lead, the gap compared to competitors. Like we said in the earnings clearly, we have pretty much all the major carriers globally as the Fortinet customer and we're keeping expanding with them, especially on provide additional service to their managed security service up in this year (1:02:56).
+So we see it's a still huge growth opportunity, and at the same time, we have the best position. So far I'm not seeing competitor, whether from some software security company or some other network company, have the product come close to what we have. So the CP9 will help in especially driving the quarter whether the next-gen firewall or some other performance a lot at the same time, the new 6000 system also improving the performance a lot as built in (1:03:25) faster than the previous solution which we feel we're keeping leading in that space.
+Jeremy Benatar - Raymond James & Associates, Inc.
+Okay. Thanks.
+Operator
+Thank you. Our next question comes from the line of Taz Koujalgi from Deutsche Bank. Your question, please.
+Imtiaz Koujalgi - Deutsche Bank Securities, Inc.
+Hey, guys. Thanks for taking my question. I have two questions. One on the long-term deferred. If I look at the growth in long-term deferred this quarter, it was far higher than your total deferred. So if I look at the mix, the mix of long-term deferred is actually much higher than what it typically is. Is there any color on that?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah, we â Taz, we looked at the â I think it's a point higher, right? Yeah, it's 1% higher and it's been trending that way, and part of it is just really due to the â you're taking it off â it comes off at the old price and goes in at the new price, so there's a bit of an uplift there.
+Along with the fact, the way the accounting works, again, when you value the invoice for revenue recognition, you're going to weight more towards the higher price, so you end up deferring a little bit more too. And if it's a long term deal, you're deferring not only the higher price, but some multiple of that, because you carve out the number of years attached to the deal. But when we looked at tenure of the deals, we didn't see any change this quarter. So we don't believe it's that; it's not like we're hitting the billings numbers by extending deal terms.
+Imtiaz Koujalgi - Deutsche Bank Securities, Inc.
+So just to be clear, this is a function of the price increase you had last year, the increase in the long-term deferred mix?
+Andrew H. Del Matto - Fortinet, Inc.
+I think that's right, yeah.
+Imtiaz Koujalgi - Deutsche Bank Securities, Inc.
+Got it. Thanks. Then one follow-up. You talk about the strong growth in your cloud and virtual products. Can you tell us what the impact of that is on your revenues and gross margin? Is there an ASP impact between a physical appliance sale and a virtual appliance sale, and maybe a gross margin impact?
+Ken Xie - Fortinet, Inc.
+It's still relatively small. I don't think we really separate that out right now. It comes from a very small base, but growing very fast.
+Imtiaz Koujalgi - Deutsche Bank Securities, Inc.
+But the ASPs, I'm assuming, would be lower for virtual appliance, and higher gross margins? Is that true directionally?
+Michelle Spolver - Fortinet, Inc.
+Yeah, that's true. If you're doing a product by product, so I mean a customer would need to buy more virtual licenses, several virtual licenses versus one appliance. But yeah, if you're looking at individual license, the price point, the ASP is lower and the margin's higher.
+Imtiaz Koujalgi - Deutsche Bank Securities, Inc.
+Got it. Thank you.
+Operator
+Thank you. Our next question comes from the line of Andrew Nowinski from Piper Jaffray. Your question, please?
+Andrew James Nowinski - Piper Jaffray & Co.
+All right, thanks. Just want to go back to your annual guidance. You raised the revenue outlook and your billings outlook, but you maintained your gross and operating margin targets for the year, despite the solid upside above your guidance in Q1. So I'm wondering what changed, and why we won't see that upside flowing through on the operating margin for the remainder of the year?
+Andrew H. Del Matto - Fortinet, Inc.
+Andrew, fair enough. I would say nothing has really changed. I think we're being â we're really looking â as we just talked about on the gross margin side, we're looking for a more trend, a longer trend of a performance there. And then I think that's obviously something we'd consider. We've committed to the 15%. We stay committed to that. We're certainly trying to manage within that envelope. We've done well there. We hope we'll continue to do well there, but for right now, we're going to stick to 15%.
+Andrew James Nowinski - Piper Jaffray & Co.
+Understood. I guess, did you change any sort of spending in the back half of the year, or accelerating spending plans that may have been on the border that you weren't committed to at the time of last quarter's guidance?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, Andrew, I mean we â always spending plans are â we really kind of manage within the envelope, quite frankly. And so, we're continuing to invest some things, probably â we probably didn't end up, quite frankly, spending as much as we thought in Q1. And so, some of it turns out to a timing difference, where it just may show up later, where you may still spend something, for instance, on marketing, maybe you were going to start a program in Q1, you're not starting until Q2. And so, it's just too early to call it, I think, just three months into the year.
+Andrew James Nowinski - Piper Jaffray & Co.
+Got it. And the last question for me. I don't know if you gave a breakout this quarter for Meru revenue, but â or whether you're going to provide that or not going forward, but can you just tell us, was your organic growth rate excluding Meru higher or lower than the 25% you had in Q4?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah, it would have been higher, yeah.
+Michelle Spolver - Fortinet, Inc.
+Yeah, I mean the one thing is, we didn't break out Meru for â we didn't break it out for Q4, did we, Meru?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah, I think we did.
+Michelle Spolver - Fortinet, Inc.
+We did? Okay, all right. It's hard to answer the question, because you can't â we're not breaking it out for Q1. But the question is, what was our organic growth rate, was it higher or lower than Q4, right?
+Andrew James Nowinski - Piper Jaffray & Co.
+I was wondering whether it trended up or down versus where it was at in Q4. You did $16 million in revenue in Meru in Q4. So just wondering what the growth rate would have looked like this quarter.
+Andrew H. Del Matto - Fortinet, Inc.
+What I could share is, again, what I would say is, just the business is blank so much it's not â (1:08:51) it's kind of hard to predict. Our wireless business is less than 7% of our total billings, if you will. The Meru piece of that might have been slightly more than half of that, something like that, when you look at the Meru products, again, I would â it's hard to consider that organic growth now, with the teams fully integrated and selling into our installed base and vice versa, it's just â I'm not sure that really applies in this case.
+Andrew James Nowinski - Piper Jaffray & Co.
+Got it. Thanks a lot.
+Operator
+Thank you. Our next question comes from the line of Jayson Noland from Baird. Your question, please.
+Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)
+Okay, great. Thank you. Nice quarter, guys. I wanted to ask on some of the specific segments here. By my math, the high end was down a little over 20% quarter-on-quarter, and then service provider too was down over 20% quarter-on-quarter. Are those two things related? Is the high end down because SP was weak, and did the SP9 release contribute to delays there?
+Andrew H. Del Matto - Fortinet, Inc.
+The CP9?
+Michelle Spolver - Fortinet, Inc.
+CP9.
+Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)
+Yeah.
+Andrew H. Del Matto - Fortinet, Inc.
+No, we just...
+Michelle Spolver - Fortinet, Inc.
+Yeah. So no â sorry, go ahead. Let me just answer the first part and let them expand. So CP9, we don't even have products out yet. We just announced it, and the products will be delivered in Q2. So that was not a factor. We wouldn't categorize our service provider business as being weak during the quarter. Some quarters are stronger than others, it was exceptionally strong in Q4, and we called that out. But if you look at it, it was 22% of our â of the vertical mix, which is roughly in line of where it's been in many past quarters. It's kind of fluctuated between 22% and 26%, really, for the last two years. So it's a little bit less than it was in Q4, but we've seen this trend several times over the past two years. We wouldn't categorize it as weak. But yes, I mean, less service provider sales would also translate into less high-end products.
+Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)
+I guess I was just wondering if they had some advance release of CP9 product for PSD that caused...
+Michelle Spolver - Fortinet, Inc.
+No.
+Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)
+Okay.
+Michelle Spolver - Fortinet, Inc.
+(1:10:58)
+Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)
+And then my final question, I wanted to ask again on internal segmentation. Sometimes you hear companies in the channel, partners, talk about software-only solutions for network segmentation, SDN-based solutions from a VMware or Cisco. What does your customer base say when they consider a hardware solution versus software solution to segment up the network?
+Ken Xie - Fortinet, Inc.
+I think that's where some data center security, they may use in some software to segment in some OS level and some other area. But if you look at enterprise infrastructure, that's where I'd say probably 97% of firewall deployed to secure the enterprise, which they only deploy on the Internet connection, the border side. But more inside separate departments and separate, like the important data server, so that have not been done before, and we're starting to see the trend to really deploy internally, and where you need a switch deploy.
+Also some data centers also have a similar approach. So the software model applied within the server level, OS level ,compared to (1:12:17) on the infrastructure. And also, you can see even the biggest cloud provider, they also, like (1:12:24) Amazon or whatever, they also say the hybrid model is the trend in the long-term. You still need to have the physical deploy in the enterprise in a user side, compared to some into the cloud side.
+So I see, for us, we have a both approach. We do have the cloud software version, which we see a nice growth. We mentioned in the script there and that's come from a small base, but growing pretty fast. But also the internal segmentation, which you see in the high end and also middle range products, because the middle range product we have, half of it is have the 10-gig interface, which internal segmentation mostly had to be able to deliver in the 10-gig performance. So that's where the middle and the high end were starting to fit into where the segmentation deployment will be.
+Jayson A. Noland - Robert W. Baird & Co., Inc. (Broker)
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Gregg Moskowitz from Cowen & Company. Your question, please.
+Gregg Moskowitz - Cowen & Co. LLC
+Okay. Thank you. So your services revenue in the quarter was very strong for Q1, up 5% sequentially, whereas typically, you see flattish performance. And you've alluded to a few things, including more success with higher value subscription bundles and pricing changes as well. Is there anything in particular, Drew, that you would call out here as a primary driver of that strength this quarter and also, why do you think subscriptions are perhaps resonating more now, or more today, than they did previously?
+Andrew H. Del Matto - Fortinet, Inc.
+Sure. Maybe start with the last. I think start with the good news. Obviously, subscriptions are very sticky. So they do provide that recurring revenue stream. We've been focusing on it, Gregg. If you listen to the call for the last, I mean year and a half, we've certainly been calling that out as one of our objectives, a great way to stay attached to the customer. And then obviously the predictable recurring margin expanding revenue stream that comes from it is a very nice thing from an economic perspective. And so we're seeing that happening. I think we're getting very good at selling it as well as we focus on training. And so, we're optimistic that that continues.
+And then, just in terms of the line itself, yeah, it's really that. You're starting to see it amortize and then layers of it amortize and just kind of that compounding effect starting to come through. There's also a little bit of software in there. I talked in the past about how some software virtual licenses effectively get deferred, if they're more of the ratable nature let's say for some reason and so that shows up on the services line as well. And I think that's really the explanation there.
+Gregg Moskowitz - Cowen & Co. LLC
+Okay. Thanks for that, Drew. And then just, sorry, to beat a dead horse on service provider. But one of your competitors recently issued a negative preannouncement. And in part attributed the weakness is slower carrier spend. Are you seeing any recent changes with respect to behavior from service provider?
+Ken Xie - Fortinet, Inc.
+For our service providers, a very small part go with their internal security, but most come from the â call it managed service, the service provider offer to their customer, most enterprise customer. So that part we see as very healthy. And internally, I think it's probably â from our side, we don't see much change.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+Yeah. I mean I think security still â the competitor you're talking about obviously, I mean I think it's more their networking business that they might see an impact. Security still remains a strategic investment priority for customers, so that would cover sort of the internal component. And then, as Ken said, the MSSP business which is the majority of our business with service providers is a revenue generating business for them. So very â it doesn't always usually gets tied back to OpEx expense cuts.
+Gregg Moskowitz - Cowen & Co. LLC
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from the line of Catharine Trebnick from Dougherty. Your question please.
+Catharine A. Trebnick - Dougherty & Co. LLC
+Oh, hi. Thank you for taking my question. I want to switch it over to the endpoint. You noted â during the quarter, you announced a technology partnership with Carbon Black. Can you give us any insight into this partnership? Does that impact any of the FortiClient products you have now? And then, the follow-on question is, are there other endpoint partnerships you're looking at? Thank you.
+Ken Xie - Fortinet, Inc.
+We view to manage the security you need to be addressed the whole infrastructure, including the endpoint, so that's where the Security Fabric message. So that's the partnership you talk about is part of the whole Fabric solution, our Security Fabric solution there. But like some endpoints, especially, the new IoTs and mobile device also need to be addressed both at endpoint and also infrastructure. So they need to be working together. So that's where we're starting to see some healthy partnerships develop right now. But at the same time, you've seen the Security Fabric to really link everybody together and manage benefit together so that's the direction we're heading right now.
+Catharine A. Trebnick - Dougherty & Co. LLC
+All right. Thank you. And then looking at other endpoint partners like (1:17:42), et cetera, or you're sticking with Carbon Black to begin with?
+Ken Xie - Fortinet, Inc.
+That's just starting but we do see more partnerships will be formed going forward using the Security Fabric.
+Andrew H. Del Matto - Fortinet, Inc.
+That's right. One of the key attributes of Security Fabric is openness, the ability to integrate with some of the point solutions out there at any point in the network. The value, again is the fact that we can integrate that from IoT into the data center with a common operating system.
+Catharine A. Trebnick - Dougherty & Co. LLC
+All right. Thank you, gentlemen.
+Andrew H. Del Matto - Fortinet, Inc.
+So openness is key. Yeah.
+Operator
+Thank you. Our next question comes from the line of Walter Pritchard from Citi. Your question please.
+Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)
+Hi. Thanks. Just one more follow-up on the service provider side. You called out MSS, Michelle. I'm wondering just any quantification of how large MSS is as a percentage of our service provider? And generally, do you see that business growing ahead of your overall service provider or your overall revenue?
+Michelle Spolver - Fortinet, Inc.
+Yeah. I mean, I can't give you exactly what it was in Q1. I think in the past it's trended about 65%-ish versus 30 â 65% to 70% of the service provider business is used for MSSP deployments. Again, it changes a little bit quarter to quarter. And I think it's growing â what was the second question? Is that growing faster...
+Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)
+Just if it's growing faster â yeah, in line faster, how it's trending versus your overall?
+Michelle Spolver - Fortinet, Inc.
+I think more in line with sort of overall. I mean, the service provider business has been really steady for us through sort of the accelerated growth phase and that's really driven by the MSSP component.
+Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)
+Okay. And then just to clarify on the sales side is do you have all the sales leadership in place at this point, or are you still out recruiting? I know you're recruiting a CMO, but on the sales side, are those, call it the major regional positions, the folks below that, are they filled at this point?
+Andrew H. Del Matto - Fortinet, Inc.
+Generally filled. We're still growing. I mean, keep in mind we're growing â we're still scaling the business, Walter. So we'll continue to invest. There's a couple of open positions. There're definitely some open positions to fill, but at the level you're talking about, so you may see that. But we're going to probably â you're going to continuously recruit as you grow and scale the business. And we're trying to be very focused on getting experienced sales people who are motivated and gets to the space (1:20:05). So you're very selective on who you hire â on who we hire. We want them to have a good technology background and also get the security space and understand the good book of business and be able to work with our team. But I would call it kind of both on your question.
+Ken Xie - Fortinet, Inc.
+Yeah. Also on the marketing side, we have a very strong team in a position. And a few VPs, really the best in the industry whether they come from the communications side, the lead gen side, the products side and also helping driving the demand. I think the team is there. We're keeping invest more in there. But at the same time, we also keep investing and recruiting and grow in there, both internal and externally.
+Walter H. Pritchard - Citigroup Global Markets, Inc. (Broker)
+Okay. Great. Thank you.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+Thanks, Walter.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Hendi Susanto from Gabelli & Company. Your question, please.
+Hendi Susanto - Gabelli & Company
+Drew and Ken, thank you for taking my question and good afternoon. So Fortinet introduced price increases last year. Would you be able to share more insight into the penetration of the price increase among your customer base? Furthermore, how much more opportunity out there for introducing your price increase?
+Andrew H. Del Matto - Fortinet, Inc.
+Well, it's doing well. Clearly, you could see from the growth in deferred revenue, the growth in services revenue, our focus all along, Hendi, has been build that big, that recurring predictable, margin enhancing revenue stream and it's clearly working. We started the price increases last January, but it takes â I think we told people probably it'll take 60 days to 90 days to hit the channel. And then you have to go through sell cycle which is anywhere from, I don't know, call it 45 days to somewhere beyond six months to maybe even nine months.
+And so clearly, what you've seen so far is taking in kind of that first year plus some of that, maybe a few renewals, but I think it's a little early yet on the renewals side and then clearly its wide open as we continue to grow and penetrate. And I think we're hopeful that the Security Fabric vision that we're articulating will help also provide an uplift for that and that's what we're training people and that's what we're marketing. And we think that fits very nicely together, the message that a common operating system, with that attached are (1:22:29) subscriptions from IoT into the data center is just a great vision and is going to resonate at the customer level.
+That being said, we're not â we're trying to find other opportunities. We've talked about the enterprise bundle last quarter, very early. That's just really hitting the price book. We just did that a few months ago. So, just like last year, it takes a while to wean its way into the quotes and the channel and all of that. But we continuously question ourselves on products and look at ways to enrich the offering so that we can drive that. We think that's taken, we think the economics are still there where customers are willing to pay up for more security. They're looking for consolidation. That's clearly a trend and we're looking to provide that for them and hopefully charge more for it. Okay?
+Ken Xie - Fortinet, Inc.
+Yeah. And let me add some clarity there. So the price we increased is that we call it a UTM bundle, which offer four services â four subscription services, if you buy individually (1:23:32) of our price. So when we bundle together of a full service, called a UTM Bundle, we increase that price by 10% one year ago.
+And then early this year, we started an offer we called the new subscription service which is ATP and also the mobile cloud security service. That's starting â putting that we call the Enterprise Bundle. So the Enterprise Bundle, price-wise, is about 25% above the UTM Bundle, which bundles six services together. So that's the one we started promoting there, because customers see the additional need for the ATP and also for the mobile cloud security. So that's where we're starting to see â we're starting to ramp up this year. So that's where the pricing bundle strategy we have.
+Hendi Susanto - Gabelli & Company
+Okay. And then one more question for Ken. Ken, who do you see as your major competitors when you compete for internal segmentation firewall deals?
+Ken Xie - Fortinet, Inc.
+You know, the internal segmentation firewall need to deploy in a very high speed environment and the internal spend tend to be 10 times to 100 times faster than the border security. That's where most of our competitors don't have that technology to address the high speed environment. And at the same time, the deployment is also different. It has to be more automatic provision instead of depending too much on fixed policy. So that also have quite a different need. So far we don't see any other competitor come close to even address this market. We see this is a huge opportunity and we're keeping investing in this area.
+Hendi Susanto - Gabelli & Company
+Thank you, and congrats on strong results.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+Thanks.
+Andrew H. Del Matto - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Erik Suppiger from JMP Securities. Your question, please.
+Erik L. Suppiger - JMP Securities LLC
+Yeah. Thanks, and congrats on a good quarter. Most of my questions have been asked, but can you comment a little bit about the geographic mix in the Americas? Given the weakness you're seeing in Central and South America, can you give us a sense for what portion of businesses within Americas is coming from that region?
+Andrew H. Del Matto - Fortinet, Inc.
+Sure. Erik, I hate to point you to this, but I know, I believe we break it out â I believe geographic mix, at least on revenue is broken out and certainly in the K if not the Q. Yeah. So let's see. It's a significant part of our business.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+I can probably â let me at least go point â we don't have the number right in front of us. So let me actually â I can email that to you, Erik. And if it's not the exact number, at least give you something to look back on within our last Q.
+Andrew H. Del Matto - Fortinet, Inc.
+I would just say it was clearly a headwind and we, even in the phase of the political and economic environment there, we thought it was a bit soft.
+Erik L. Suppiger - JMP Securities LLC
+Okay. Then secondly, can you give us a sense, for a long time the non-FortiGate products have been under 10% of revenue. Given the Fabric strategy and some of the diversification, are you seeing some opportunity to take the contribution from non-FortiGate products up from about to above 10%?
+Andrew H. Del Matto - Fortinet, Inc.
+We'd love to do that. That clearly is the idea of the Security Fabric to hopefully provide a tailwind to that. That's part of the vision, to sell against that vision. We did see a nice uptick in deals this quarter where we're selling more of the product line across the board. We hope that continues. We think training's a part of that; just training our teams on how to do that and getting them away from being more focused on firewall for instance. But selling the Security Fabric vision, we think helps do that. That's clearly the idea.
+Erik L. Suppiger - JMP Securities LLC
+Okay. Very good. Thank you.
+Operator
+Thank you. Our next question comes from the line of Rohit Chopra from Buckingham Research. Your question, please.
+Rohit Chopra - The Buckingham Research Group, Inc.
+Yeah. Thanks for taking my question. Drew, a question on free cash flow and then a follow-up. So free cash flow guide last quarter was $55 million...
+Andrew H. Del Matto - Fortinet, Inc.
+For the year.
+Rohit Chopra - The Buckingham Research Group, Inc.
+I think you talked about here (1:27:50) â for the year, right, ERP and real estate. I think you did $30 million this quarter, right, in CapEx. So I just want to get a sense of the trajectory for the rest of the year, so that's the first question, if you don't mind, trying to get a sense of where we're headed? Are we still at $55 million or going down or is it higher?
+Andrew H. Del Matto - Fortinet, Inc.
+Just to answer the question, it's $55 million. We're sticking to $55 million.
+Rohit Chopra - The Buckingham Research Group, Inc.
+There you go. Very good (1:28:11). All right. And then, the other question and maybe this is for Ken and yourself. But, what are â look, EMEA grew very fast this quarter. So I just want to get a sense of what your EMEA clients are saying about the data protection legislation? And what you're doing to maybe capitalize it on â capitalize more on that potential opportunity over there?
+Andrew H. Del Matto - Fortinet, Inc.
+Yeah. Clearly, it's something that we address in our training and messaging with our people. I think it's a little early â it's not coming up as a huge issue yet. I mean, with you bringing it up, honestly, quite honestly, it's the first time anybody's brought it up to us. We could certainly follow up and provide more color on that. But it's certainly something we're aware of. We try to weave in as appropriate. But I think it would be better if perhaps we did a bit of a follow up. Great question, though.
+Rohit Chopra - The Buckingham Research Group, Inc.
+Thanks Drew. Yeah. I appreciate it. Thank you.
+Andrew H. Del Matto - Fortinet, Inc.
+You're welcome, Rohit.
+Operator
+Thank you. Our next question comes from the line of Ken Talanian from Evercore ISI. Your question, please.
+Ken Talanian - Evercore Group LLC
+Hey, guys. Great. Thanks for taking my question. Just to follow-up on Taz's question regarding the long-term deferred. Did you have any exceptionally large deals in the quarter, any eight-figure deals, for example?
+Andrew H. Del Matto - Fortinet, Inc.
+Eight-figure deals? I don't believe so.
+Melissa A. Gorham - Morgan Stanley & Co. LLC
+No. Not in this quarter. No.
+Andrew H. Del Matto - Fortinet, Inc.
+No.
+Ken Talanian - Evercore Group LLC
+Okay. And second question, just I was hoping to understand your vision for the Security Fabric better. I've always thought that the FortiOS does a good job of integrating all of your products. And was wondering is the really incremental factor here the inclusion of APIs that allows integration with third parties?
+Ken Xie - Fortinet, Inc.
+The FortiOS mode (1:30:00) works for the FortiGate. That's where is the center, the network, including the internal segmentation solution there. But when you cross to the like end point, the access and then the application, the cloud, IoT, then you need to have a â some different solution working together whether it's the internal Fortinet product or there's other third-party product. That's where we try to use in this a Fabric, Security Fabric approach to make it all working together. Because the biggest challenge I see a lot of enterprises facing today is too many products, whether pulling products in order to manage, how to make it working together, manage together, reduce the management costs is really the issue, because the management cost tend to be higher than the product cost. So that's where the Security Fabric try to get all wave together, linked together and also working together to address the whole IT infrastructure instead of just a point in the infrastructure side.
+Ken Talanian - Evercore Group LLC
+Okay. Great. Thanks for taking my question and congrats on the results.
+Ken Xie - Fortinet, Inc.
+Thank you.
+Operator
+Thank you. And this does conclude the question and answer session of today's program. I'd like to hand the program back to Michelle Spolver.
+Michelle Spolver - Fortinet, Inc.
+Thanks, Jonathan, and thank you everybody. The call obviously went long today. I guess that's a benefit of not having a lot of competing earnings calls today, but we had a lot of questions in the queue. We're doing another follow-up call at 3:30, so in about a half hour. So if you want to collect more questions and call back in, we're happy to take them. But thank you very much for being on the call today. We look forward to talking to you later and through the quarter.
+Operator
+Thank you, (1:31:44). This does conclude the program. You may now disconnect. Good day.

@@ -1,0 +1,354 @@
+Qorvo, Inc. (NASDAQ:QRVO) Q2 2016 Earnings Call November 5, 2015 5:00 PM ET
+Executives
+Douglas DeLieto - Vice President-Investor Relations
+Robert A. Bruggeworth - President & Chief Executive Officer
+Steven Eric Creviston - President-Mobile Products
+James L. Klein - President-Infrastructure & Defense Products
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Analysts
+Mike A. Burton - Brean Capital LLC
+Adam Gonzalez - Bank of America Merrill Lynch
+Gabriela Borges - Goldman Sachs & Co.
+Harsh V. Kumar - Stephens, Inc.
+Blayne Curtis - Barclays Capital, Inc.
+Srini R. Pajjuri - CLSA Americas LLC
+Amanda M. Scarnati - Citigroup Global Markets, Inc. (Broker)
+Quinn Bolton - Needham & Co. LLC
+J. Steven Smigie - Raymond James & Associates, Inc.
+Thomas Robert Diffely - D. A. Davidson & Co.
+Edward F. Snyder - Charter Equity Research, Inc.
+Thomas Sepenzis - Northland Securities, Inc.
+Operator
+Good day, and welcome to the Qorvo Incorporated Second Quarter 2016 Earnings Conference Call. Today's call is being recorded. At this time, I turn the conference over to your host, to Doug DeLieto, Vice President of Investor Relations. Please go ahead, sir.
+Douglas DeLieto - Vice President-Investor Relations
+Thanks very much, Corrine. Hello, everybody, and welcome to our September 2015 quarterly earnings call.
+This call will include forward-looking statements that involve risk factors that could cause our actual results to differ materially from management's current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release published today, as well as the risk factors associated with our business and our annual report on Form 10-K filed with the SEC because these risk factors may affect our operations and financial results.
+In today's release and on today's call, we provide both GAAP and non-GAAP financial results. We provide this supplemental information to enable investors to perform additional comparisons of operating results and to analyze financial performance without the impact of certain non-cash expenses or other items that may obscure trends in our underlying performance. During our call, our comments and comparisons to income statement items will be based primarily on non-GAAP results. For a complete reconciliation of GAAP to non-GAAP financial measures, please refer to our earnings release issued earlier today available on our website, www.qorvo.com, under Investors.
+In fairness to all listeners, we ask that each participant please limit themselves to one question. Sitting with me today are Bob Bruggeworth, President and CEO; Steve Buhaly, Chief Financial Officer; Eric Creviston, President of Qorvo's Mobile Products Group; and James Klein, President of Qorvo's Infrastructure and Defense Products Group. I'm also joined by other members of Qorvo's management team. And with that, I'll hand the call over to Bob.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thanks, Doug. Good afternoon, everyone, and welcome to our Fiscal 2016 Second Quarter Earnings Call.
+Qorvo's revenue in the September quarter increased approximately 5.2% sequentially to $708 million. In mobile products, revenue grew 5% sequentially and 19% year-over-year driven by large customer product ramps. In infrastructure and defense, revenue grew 6% sequentially and declined 13% year-over-year with wireless infrastructure down approximately $24 million versus last year.
+Supporting Qorvo's future growth across all segments, the global appetite for mobile data continues to expand placing a greater premium on the limited frequency spectrum available to support that demand. This is a global mega trend that remains early in adoption and it's bigger than smartphones or smartphone product cycles. It is favoring the leading suppliers of premium RF solutions and it will have far reaching implications on how we interact within our communities, access content and transact commerce.
+For smartphone manufacturers, the use case for smartphones continues to shift to more data intensive applications. The phone we once used for voice and texting, we are now using for streaming videos and media conferencing. Soon the cellular air waves will be home to immersive virtual reality content and other data hungry cloud-based applications. For network operators, the limited frequency spectrum they have deployed is their most precious asset. The continuing increase in the global demand for mobile data is driving network operators to seek new ways to optimize spectral efficiency and improve network capacity. Regardless of the device or application, the appetite for mobile data continues to expand and that's increasing the economic value of RF to our customers and to our customers' customers.
+To accommodate that demand and fuel our growth, Qorvo's investing in the industry's broadest portfolio of enabling technologies and products. We're putting an increasing number of highly integrated system-level solutions in our customers' hands, and we're working closely with leading wireless carriers and infrastructure OEMs to help them increase throughput and enhance their competitive positions. Qorvo today is at the forefront of multiple long-term trends. In mobile products, we're capturing new opportunities as smartphones migrate from feature and value 4G devices to premium 4G and performance 4G smartphones. These performance and premium 4G devices contain up to $20 of RF content versus $2 to $3 in the lower end devices. They represent less than one-third of the smartphones built this year and they're continuing to increase as a percentage of the mix as smartphone units grow.
+Those measuring generic smartphone unit growth are missing an important distinction. The greatest growth driver for RF suppliers is the RF content inside the smartphone and that's what's growing. We're adding new bands of coverage and enabling increasing levels of performance and that's driving unprecedented levels of functional density in Qorvo's most highly integrated products.
+Take for example the deployment of carrier aggregation, which is adding RF content first in the receive path and later in the transmit path. Carrier aggregation is being pulled by the carriers to help maximize their investments in frequency spectrum. This is increasing the content and the complexity in the device and that's creating new opportunities for RF suppliers. For Qorvo, this is placing a premium on our higher performance filters and switches, while also giving us clear visibility in the customer architectures that will be supporting the majority of the RF TAM growth in 2016 and 2017.
+We're also seeing a steady migration from 3-mode LTE to 5-mode and 6-mode LTE among smartphone manufacturers in China. Last year, it was estimated that fewer than half of the 4G devices were 5-mode, and we expect 5-mode and 6-mode devices to represent the majority in the next year. Again, this is incremental to the growth we're seeing in the RF TAM as 4G devices become a larger percentage of that total handset mix.
+Layering on top of that, Qorvo has introduced new, highly integrated solutions that incorporate multiple dollars of content, including filters, switches and PAs. These parts enhance performance and reduce product footprint. We've already locked down several wins, including at our largest Korean customer, and the ramps begin early next calendar year.
+As an example, we're combining premium BAW filters with high performance switches to intersect the growing market for diversity receive modules. The diversity market today is valued at approximately $1 billion and is dominated by lower performance SAW filter technology. It's expected to double over the next three years as an increasing number of these solutions require premium BAW filter content.
+We're also uniquely positioned to reduce cost and enhance our operating model. Our two largest synergy opportunities remain the in-sourcing of packaging, assembly and test, and the in-sourcing of SAW filters. We estimate these represent greater than $60 million in annualized savings. They're progressing on schedule and the benefit is expected to favorably impact results beginning early next year.
+Now before handing the call over to Steve for a review of the financials, let's look at some quarterly highlights.
+In mobile, we were very successful during the quarter securing expanded content opportunities on marquee smartphones launching in calendar year 2016 and 2017. We entered the BAW-based multiplexer market with a family of quadplexers for smartphones supporting carrier aggregation in China and Europe. Those parts are sampling at leading customers and we expect production volumes beginning in the spring.
+Collaborating with our leading channel partners in China, we also captured multiple reference design wins on next-generation LTE reference designs for multimode PAs, multimode transmit modules, switches, duplexers and multiplexers. In China, while we believe we've seen the underlying market fundamentals begin to rebound, we remain cautious and believe we've embedded conservative expectations in our forward guidance related to China-based handset demand. Qorvo has excellent long-term opportunities in China as smartphones continue to proliferate, as customers in China increase the number of phones they export and as the RF content in China-based smartphones continues to expand.
+Looking at IDP, we enjoyed strong design win activity and signed multiple long-term supply agreements in defense and aerospace. In connectivity, we secured multiple high value 5 gigahertz PA and filter slots. And in transport, we won an increasing percentage of DOCSIS 3.1 sockets leveraging best-in-class efficiency, bandwidth and power.
+One achievement of note in cable TV, Qorvo was especially strong where hybrid GaAs and GaN power doublers, saving operators 15 watts to 20 watts. These solutions mix and match our legacy technologies and capability and they're especially strong in power efficiency and needed in applications where power consumption is everything. In wireless infrastructure, Qorvo was an active participant in pre-5G and 5G demos at major OEMs and we sampled the five leading base station customers our breakthrough GaN high power amplifiers. We're also continuing to see incremental opportunities for growth driven by small cell deployments and the uptake of our SOI switches and GaN HPAs at leading base station OEMs.
+In China, we saw industry fundamentals begin to improve and believe base station customer activity bottomed in the September quarter. We're taking a cautious view on wireless infrastructure in our December guidance and expect the recovery to be gradual.
+Now, looking a bit further out in time, I want to spend a few minutes highlighting how our IDP organization has essentially repositioned itself to accelerate growth above what our legacy IDP businesses had achieved historically. As you know, IDP is structured around a diverse portfolio of businesses, all leveraging Qorvo's shared core competencies and focused on winning with premium products using highly differentiated internally developed technologies. To accelerate growth in IDP, we're increasing our focus on automotive, Internet of Things, data centers and Wi-Fi, and we're increasing our resources in those value streams. We're also targeting segments that don't appear to enjoy the same dynamic growth but have large niches that can be exploited with differentiated products based on Qorvo's technology.
+A few examples include Qorvo's GaN-based products in the base station market, in the traveling wave tube replacement to the defense and commercial markets, using our patent protected Spatium Solid State products. We're especially enthusiastic about GaN as a disruptive technology. We're continuing to penetrate the defense market with our expanding family of GaN-based products and we're increasing our leading market share as measured by strategy analytics.
+In automotive, we expect that by the year 2020, 75% of the automobiles shipped will feature connectivity. That would equate to a market of approximately 69 million cars and a CAGR of 45%. IDP is uniquely positioned in this market to deliver amplifiers and premium filtering solutions to tier one automotive suppliers.
+In telecom and datacom, Infonetics forecast 100G ports will grow to over 4 million units by 2020, a 75% CAGR driven by the expansion of cloud and hyperscale data centers. We fabricate our low power linear drivers by using proprietary semiconductor processes that push the state-of-the-art in power consumption and bandwidth.
+In Wi-Fi, where the CAGR is forecasted to be 18% through 2020, we're winning by enabling higher frequency performance and higher data rates and by solving complex spectrum congestion challenges with our market leading 5 gigahertz PAs and BAW filters. In the rapidly expanding vision of the Internet of Things, industry sources are forecasting over 25 billion connected devices by 2020, resulting in a 65% CAGR. This includes over 3 billion units for the connected home, which alone accounts for a projected $50 billion market for connectivity circuits. Many of these applications are undefined architecturally but will require RF solutions similar to what we provide today to the Wi-Fi and automotive segments.
+And finally, we look to pre-5G and 5G infrastructure upgrades. Ericsson has estimated that by 2020, communications infrastructure capacity will need to increase by a factor of 1,000. That's a staggering undertaking and base station OEMs are experimenting with infrastructure solutions that operate in the millimeter wave spectrum to help them achieve these goals. These solutions will require advanced semiconductor geometries and leading-edge packaging, which are areas where our internal research is focused today. The pre-5G market is being driven by carriers looking to optimize existing spectrum through the use of small cells, distributed antenna systems, MIMO active antenna technology and carrier aggregation. These systems are readily served by new Qorvo amplifier products, using our production proven GaN technology. In fact, we're already sampling these products today to leading infrastructure OEMs.
+So, looking from a high level, IDP is targeting the highest growth segments within their diversified businesses with compelling premium solutions using highly differentiated internally developed technologies. They're moving the organization forward from pre-merger levels, where both companies saw low growth trajectories, to today where we see IDP on a path to grow their business two times to three times those legacy growth rates. So for Qorvo across all of our businesses the industry fundamentals and our unique competitive positioning give us ample opportunity for significant growth. Our products and technologies are tightly aligned with customers, channel partners and carriers and our design win traction in our first year as Qorvo has been very promising, finishing the year extremely strong. Looking into 2016, we're confident we will expand our content across marquee smartphones and leading reference designs and will position to accelerate growth in IDP's target markets.
+And with that, I'll turn the call over to Steve for a more detailed look of our financials.
+Steven Eric Creviston - President-Mobile Products
+Thanks, Bob. In the September quarter, Qorvo grew revenue 12% year-on-year, $708 million when compared to RFMD and TriQuint on a combined basis. Year-over-year growth was led by mobile, up 19% to $578 million. In IDP, revenue declined 13% year-over-year to $129 million due to the $24 million year-over-year decline in wireless infrastructure revenue.
+Outside of wireless infrastructure, IDP revenue grew approximately 6% year-on-year. Qorvo had two 10% customers, the larger at approximately 41% of revenue representing the aggregate demand of multiple subcontractors for this end customer. Our second 10% customer during the quarter was Huawei. Gross margin was 49.7%, down sequentially from 51.5% and up from 47.4% in the prior year period for RFMD and TriQuint on a combined basis. Product mix drove the sequential decline.
+Operating expenses were $156.8 million for the September quarter, down $2 million sequentially. Year-on-year, operating expenses grew at half the rate of revenue growth. Within OpEx, R&D grew 14% sequentially as we pursued major growth opportunities, while sales and marketing and general administrative expenses declined. I should say grew 14% year-on-year. The realization of synergies is allowing Qorvo to appropriately invest in product and process development, while driving towards our operating expense model.
+Operating income was $194.8 million, up 28% from the year ago period for RFMD and TriQuint combined. This strong growth was led by our mobile products business unit, which on a preliminary basis, achieved about 30% operating income, while growing the top line by 19%. Net income for the September quarter was $183.3 million or $1.22 per diluted share. This compares favorably to our original guidance of $1.10 per diluted share.
+Turning to the balance sheet, total cash and investments were $195.6 million and cash flow from operations totaled $168.8 million. Capital expenditures were $80.3 million, primarily to address growth and demand for our premium filters. Finally, the company repurchased approximately 9.1 million shares at a total cost of $500 million. This week our board authorized a new one year $1 billion share repurchase program, which we plan to implement on an opportunistic basis.
+In the nine months since Qorvo's formation, revenue has grown 25% from the same period in the prior year, while non-GAAP operating income has nearly doubled. We're proud of this performance and are excited about our opportunities in the coming year. Synergy achievement is on track, led by the consolidation of test and assembly into our China operations. We're introducing an expanded set of new products combining switches and filters and leveraging our broad set of competencies, including BAW filter and gallium nitride process technologies, and all of this is creating exciting new growth opportunities for Qorvo.
+Now let's turn to our business outlook. Qorvo believes the current demand environment and its end products support the following non-GAAP expectations for the quarter ending January 2, 2016. Quarterly revenue of approximately $720 million to $730 million, gross margin of approximately 50%, a tax rate of approximately 10% and diluted earnings per share in the range of $1.25 to $1.30, based on approximately 147 million shares.
+We think calendar 2016 will be a strong year for Qorvo and believe we will fully achieve our target operating model of 30% operating income over the full year, while building a robust and defensible technology mote. Actual quarterly results may differ from these expectations and such differences may be material. We currently expect to report December quarter results on February 4.
+With that, we welcome your questions.
+Question-and-Answer Session
+Operator
+Thank you. And we'll take our first question from Mike Burton with Brean Capital.
+Mike A. Burton - Brean Capital LLC
+Hey. Thanks for taking my questions. First, can you help us understand the components that came in a little stronger for you in the September quarter? Was it broadly a little better or maybe concentrated on a single customer? And then looking at your December guide, you typically have your top customers seeing strength, your top Korean customer declining. I'm interested in what you're seeing from the Chinese OEMs in the December quarter? Thanks.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thanks, Mike. From a overall business perspective, both the IDP business and the mobile business did a little bit better than planned. It was, I would say, a little bit broader based. In regards to China, I'll go ahead and let Eric talk a little bit more about this business for the December guide, but I think you have the moving pieces within our business fairly well understood as far as how you describe what was going on in December, but...
+Steven Eric Creviston - President-Mobile Products
+Yeah. In China, for the mobile group, I think we are beginning to see some improvement. For sure, it's good, not great yet. But we're definitely seeing a bit of a rebound as Bob said. Inventory levels are definitely in check now. The 4G adds have been very, very stable so we're starting to see a pick up. Design win activity in particular is very, very strong right now. That's not going to affect the December quarter particularly. But early 2016, I think we'll see a really nice rebound.
+Mike A. Burton - Brean Capital LLC
+Thanks. And then if I could sneak in a second. If â can you comment on your views of your relationship with Samsung and MediaTek? Bob, you said Samsung was a sore spot for you guys in 2015 and MediaTek held some great promise as it ramped its second gen LTE solutions. Can you update us on those relationships? And how you expect those platforms to develop for you in calendar 2016 versus the overall market growth? Thanks.
+Robert A. Bruggeworth - President & Chief Executive Officer
+I'd love to, Mike, but Eric would probably strangle me. I think he really wants to talk about this. This is a real bright spot in what he's worked on this year.
+Steven Eric Creviston - President-Mobile Products
+Well, yeah. Yeah, you're right. That's been a real focus area for us. And first of all, I want to point out, Mike, there's never been any issue with the relationships. So it hasn't been about relationships at all. In fact we're â we've had very long and deep relationships across all tiers of both of those companies. It's been about product placement and having the right products for them. And as you know, Samsung made the leap up the integration curve a generation earlier than we thought. We weren't ready as TriQuint and RFMD, but that's exactly why we formed Qorvo.
+We worked hard all year and I'm much, much more happy with the content opportunities we're going to see early 2016 with Samsung; and really, the same applies to MediaTek. We entered phase two a quarter or two behind our largest competitor. We're now a quarter or two further down the road. We're seeing tremendous design activity there and I think we're going to see the share come back to where it ought to be on MediaTek as well, early 2016.
+Mike A. Burton - Brean Capital LLC
+Great. Thanks, guys.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Operator
+We'll move onto our next question from Vivek Arya with Bank of America Merrill Lynch.
+Adam Gonzalez - Bank of America Merrill Lynch
+Hi. This is Adam Gonzalez dialing in on behalf of Vivek. Thanks for taking my question. First, I just wanted to ask on the IDP segment, I know that there's been some varying views on the health of the China base station recovery. NXP and Freescale are saying it's weak. Xilinx is saying it's stabilizing. IDT is saying it's growing. What's your reality as you see it?
+Robert A. Bruggeworth - President & Chief Executive Officer
+James, would you like to take that?
+James L. Klein - President-Infrastructure & Defense Products
+Yeah. This is James. As Bob said, I think we saw it stabilize, bottom out in September, and we're starting to see signs of it picking back up as we go into this quarter. We'll see growth in that area quarter-over-quarter and it appears to be a fairly broad based return. We're seeing orders out of â growth out of most of the OEMs â so looks like it's the final stage. Now we're being pretty cautious on how quickly it's going to recover.
+Adam Gonzalez - Bank of America Merrill Lynch
+Great. Thanks. And I guess my second question would be more on the mobile side. But is 10% plus, I guess the 10% to 15% long-term growth rate you've stated for that segment, is that still valid for calendar 2016? Or do you see that maybe slowing down to the lower end of that range? Just your thoughts on that. Thanks.
+James L. Klein - President-Infrastructure & Defense Products
+So, our view is that the market opportunity for us is in the 10% to 15% range. Over the next few years, we expect to be in line or better than that.
+Adam Gonzalez - Bank of America Merrill Lynch
+Great. Thanks.
+Operator
+Next question will come from Gabriela Borges with Goldman Sachs.
+Gabriela Borges - Goldman Sachs & Co.
+Great. Thanks for taking my question. Congrats on the solid results. Maybe just a little more detail on the opportunities that you have for content growth if you could. Do you expect these to materialize over the course of the year or be more weighted towards the first half or the second half? And then to the extent you're willing to comment broadly on the degree of visibility you have into designs for the second half, that would also be helpful. Thank you.
+Robert A. Bruggeworth - President & Chief Executive Officer
+All right. I believe that was mobile product centric or just...
+Gabriela Borges - Goldman Sachs & Co.
+That's right. Yeah.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Yeah. Okay. Eric, go ahead.
+Steven Eric Creviston - President-Mobile Products
+Sure. Well, we could say an awful lot about that. The general trends that drove 2015 are going to continue into 2016, 2017 and 2018 where we're seeing just that incredible increase in mobile data and the complexity that's driving in the RF front end. Adding to that now, of course, carrier aggregation being brought in, in multiple bands and multiple regions, it's having a multiplier affect really.
+If you look at the complexity in those front ends, it takes so much R&D to get a phone to market that customers are trying to cover more markets with fewer models, right. And when you do that, that just fundamentally drives up the amount of RF in each model. And when you do that, the amount of complexity drives you to integration and that's exactly where we come in. And when you look at integrating all that complexity, it turns out there's a lot of switching in there and there's a lot of high performance filters and that's where we're well positioned.
+So it's really more of the same, just increasing in complexity and content over the next few years. It's not isolated to any one or two or three OEMs; it's across every tier. So you've got some people in the performance range that are growing to premium and global skews, but you've also got those that are going from regional 4G phones up to multi-regional or even global export phones. So across really all tiers and all OEMs. We think the opportunities for content growth are very well aligned with Qorvo's investments.
+Gabriela Borges - Goldman Sachs & Co.
+That's very helpful. And just as a follow-up if I could on the BAW multiplexer technology. Maybe you could comment on what sort of interest you're seeing at the high end from customers, what the feedback has been and when you think this could mean material revenue? Thank you.
+Steven Eric Creviston - President-Mobile Products
+Yeah. The multiplexers were an important part of the portfolio to solve some very important carrier aggregation bands. We are seeing interest once again at all levels of the portfolio. At the higher end tiers, it's even higher orders of multiplexing than what we've so far announced. The ones that are in the market today are very well suited for more of the China and Europe, more regionalized skews, but we're developing as you can imagine hexaplexers as well and pentaplexers to complement the quadplexers we have on the market today. So we'll be seeing a lot of attention for those across all tiers.
+Gabriela Borges - Goldman Sachs & Co.
+Thanks for the color. I appreciate it.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Operator
+We'll hear next from Harsh Kumar with Stephens.
+Harsh V. Kumar - Stephens, Inc.
+Hey, guys. I had a couple questions. My first one is, Bob and Eric, typically, you see a little bit of a bigger growth rate in revenues to the September quarter. I'm curious â I know that China is down and it looks like it's turning â but I'm curious, are there other parts that are moving? Is there perhaps an earlier build by one of your customers that's involved here? Is this the normal going forward or just a one-time deal?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Harsh, this is Bob. I'll go ahead and take that. I think you're right. We are taking a pretty cautious view in the China market right now. I think we've kind of beat to death in our last call that we thought they got a little ahead of themselves in the first half. And I think things happen, timing of new program ramps and all of that, but I think this is more of a one-off case right now and it's not our expectation this carries on into calendar 2016.
+Harsh V. Kumar - Stephens, Inc.
+Understood. Thank you. And second question was â we get this a lot from investors â there seems to be a viewpoint that the growth rate in handsets are slowing down and that the China growth rate is slowing down. You talked about China may be bottoming out, but could you also talk about what your expectation of the growth in China is next year, two years out, however you want to take it? And then also how do you â the $1 billion buyback â there's not enough cash in the balance sheet so how does, Steve, how do you propose to fund that?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Steve, I'll go ahead and take the first part and obviously, if I don't complete it, Eric will add some color. But, Harsh, I think we have to look at a couple different things. One is for the China market itself, you have to remember there are people that also produce phones that are not Chinese. And some of these players out there have had tremendous growth in the China market itself.
+Now what we do see is what we look at is the macro trends that I spoke about earlier of the shifts from basically dimes to dollars that we talk about as they migrate through their portfolio. What we're seeing is the China local OEMs are now starting to gear up for the export market. So they're gearing more towards regional skews and even some are going to global skews. I use somebody like a Huawei that will put in $15 plus into a phone. So that trend is continuing and we expect that to continue next year.
+And then also we have that trend from 3-mode to 5-mode for those phones that stay in China. So we do expect the RF content to continue to grow like we said earlier in that 10% to 15% range. But I will say the China export market continues to grow and that does drive the dollar content as well.
+Harsh V. Kumar - Stephens, Inc.
+Got it.
+Steven J. Buhaly - Chief Financial Officer & Secretary
+What was your other question, Harsh?
+Harsh V. Kumar - Stephens, Inc.
+Yeah. The buyback. How do you fund the buyback, Steve?
+Steven J. Buhaly - Chief Financial Officer & Secretary
+How do you fund it? Well, the buyback is valid for a year and Qorvo is going to be very cash flow positive over that period of time, which is a good piece of the story there. And then if we elect to, we will opportunistically access the capital markets to supplement our cash flow from operations.
+Harsh V. Kumar - Stephens, Inc.
+Great, guys. Thank you so much.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Thanks, Harsh.
+Operator
+Cody Acree with Drexel Hamilton will have our next question.
+Unknown Speaker
+Hey. Thanks for taking the questions, guys. This is David on for Cody. I wanted to kind of get your thoughts on the adoption trends of RF Flex and RF Fusion, maybe where you're seeing the most traction. And then also knowing that, that customized solution will be a little bit different, what's a good ASP range to think about for the RF Fusion engagements?
+Steven Eric Creviston - President-Mobile Products
+Yeah. It's a bit of a complicated question actually because many customers are working with both for different parts of their portfolios. So in general, of course, the RF Fusion is â well, it's really being used in two different tiers. In the highest tier you're definitely seeing that, that level of high level customization integration where there's several specialized RF Fusion modules to cover an entire global skew.
+And then in the mid-tier, RF Flex is certainly picking up a lot of traction, of course, as people are going from more discrete solutions to a level of integration that helps drive some of the complexity up while still gives them flexibility for different band combinations. But then we also see Fusion coming into other tiers, like we mentioned a new product ramp into a wearable. And in this case, they're using Fusion as the vast majority of the RF content is fully integrated into one placement because it's a very compact high performance wearable solution where size is at a premium.
+So really there's a wide array of applications depending upon really the flexibility of what the end customer is trying to accomplish with the product.
+Unknown Speaker
+Great. And could you maybe give us a little color on your capacity expansion plans for filters? And how we should maybe think about linearly over the next few quarters, what are the largest impediments to growing that capacity faster?
+Steven J. Buhaly - Chief Financial Officer & Secretary
+This is Steve Buhaly. We do plan to grow capacity primarily in premium filters since that's where our demand is expanding most rapidly. And our typical pattern is to put new capacity in place during the first half of the calendar year. That's a little slower period of time and then to be well-positioned for the aggressive customer ramp that often happens in late spring, mid-summer. And we're looking forward to that this year as well.
+Unknown Speaker
+Great. Thanks for the time.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Operator
+We'll move on to Blayne Curtis with Barclays.
+Blayne Curtis - Barclays Capital, Inc.
+Hey, guys. Thanks for taking my question. I guess just two quick ones. You talked about the visibility of the marquee handset. Just wanted to understand, I know there's been some debate with your largest customer, but just want to make sure whether that design is done. And how you feel in general with your content there if that was included in that marquee comment. And then if you could just talk about in general your view into March, the puts and takes, you talked about being conservative for China. I was wondering, as you look into March, what gets you â what are the puts and takes in terms of your other customers? Thanks.
+Robert A. Bruggeworth - President & Chief Executive Officer
+All right. I'll take the marquee questions because that was in my opening comments and I'll let Eric and James talk a little bit about seasonality in the March quarter for their respective businesses. But I implied that to mean as there's only really a couple major players with some marquee phones and we're confident in our ability to continue to grow our footprint and expand our dollar content in their phones for 2016 and 2017 based on what we've got all lined up. Yes, there has been a lot of discussion out there about that, but it's really never changed in our mind. It's normal course of business and how we work with these guys, and we feel very confident in our ability to continue to grow with those accounts. So, James, you want to talk a little bit about seasonality in your business?
+James L. Klein - President-Infrastructure & Defense Products
+Yeah. In IDP, really being so broad market base, we don't see the traditional seasonality that you maybe used to in Eric's business. And we'll â we should continue to see growth quarter-over-quarter.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Eric, can you talk about...
+Steven Eric Creviston - President-Mobile Products
+And in mobile, as I think everyone knows, March is a tricky quarter there. So a lot of moving pieces there and it's typically down 10% to 15% for mobile, but it's â you've got one kind of major handset platform ramping down sharply sequentially and another one from another manufacturer ramping up sharply at the end of the quarter, and exactly the timing and volumes of those ramps make a huge difference in how the quarter ends up. But it's too early to say whether there'll be anything out of the ordinary this year. We certainly aren't aware of anything.
+Blayne Curtis - Barclays Capital, Inc.
+Thanks, guys.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Operator
+We'll now move onto Srini Pajjuri with CLSA Securities.
+Srini R. Pajjuri - CLSA Americas LLC
+Thank you. Eric, just a clarification and then I have a question. So you said the Korean customer, your content opportunity is looking pretty good for early next year. Can you talk about what sort of product that is, whether it's pad, discrete filters or antenna switch module?
+Steven Eric Creviston - President-Mobile Products
+Yeah. The great news is it's literally across I think every product category we sell. We've got a wide range of products with great opportunities in that platform, literally discrete switches, discrete BAW filters, Wi-Fi products, diversity receive modules, power amplifier based pads and so forth. So we again, we've really focused on closing that gap on that platform and I think we believe the prospects are pretty good.
+Srini R. Pajjuri - CLSA Americas LLC
+Okay. And then, Bob, just a clarification again to the previous answer. So when you talk about this content increase opportunities in the marquee phones, are you anticipating any share gains for you? Or do you think the RF content itself is increasing and you just participate in that content increase?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Well, I think it's clear content will continue to increase as the complexity that we talked about. And then we'll just have to wait and see how things end up. But I feel very good about our prospects and our ability to continue to grow.
+Srini R. Pajjuri - CLSA Americas LLC
+Thank you.
+Operator
+We'll move on to Atif Malik with Citi.
+Amanda M. Scarnati - Citigroup Global Markets, Inc. (Broker)
+Hi. Thanks for taking the questions. This is Amanda Scarnati for Atif. On Qualcomm's call yesterday talked about 3G, 4G device shipments at about 10% year-over-year next year with device sales at low single-digits, which implied that ASP pressure for application processors. How should we think about gross margins for RF components in an environment where smartphone units are decelerating next year?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Yeah. I think what's interesting is and I tried to address some of this in my opening comments that if you look at smartphones, they're growing, as you point out, single-digits, but the real story in our business is the RF content is continuing to grow and Eric spoke earlier 10% to 15% in his mobile business. And from an ASP perspective, given those kind of growth rates, we don't anticipate any change from the way the business is run almost the last two years. So, again, the RF content inside the phones is what's growing. And in China, they're going from 3-mode to 5-mode and 6-mode, that's significant increase in the dollars that are in a phone. So a little bit different in the space than the application processors.
+Amanda M. Scarnati - Citigroup Global Markets, Inc. (Broker)
+And then just a question on the gross margins, there's about 100 basis point miss off of the guidance this quarter. Was there any impact from the transition pulling in RFMD's test and assembly? And how should we expect gross margins to trend going forward once that test and assembly is fully rolled in?
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Yeah. So gross margins, I think fundamentally the company's running right around 50%, which is what we've guided for next quarter. Our mileage varies a little bit quarter to quarter depending on the particulars of the mix and I think that's what you saw in this quarter. We expect the benefits from our assembly and test consolidation to largely accrue in the second half of the calendar year as we intersect our customers' new products with our products tested and assembled in China. And so all â clearly, it's going to be a positive. There's plenty of other factors. I'll wait till we get closer to call it more specifically.
+Amanda M. Scarnati - Citigroup Global Markets, Inc. (Broker)
+Great. Thank you.
+Steven J. Buhaly - Chief Financial Officer & Secretary
+You bet.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Operator
+Quinn Bolton with Needham & Co. has our next question.
+Quinn Bolton - Needham & Co. LLC
+Hi. Just wanted to follow-up, Eric, on the China comments. Obviously, I think you guys, on the last call, said that the China business, back in June, it increased by over $100 million quarter-on-quarter. Wondering if you can give us any sort of comments on what that business did sequentially in September. And then just from your script it sounds like you're starting to see recovery in unit shipments out of China, but you're guiding that business pretty cautiously. I assume that the delta there is you're going to continue to under ship consumption just to work down inventory levels. Is that the right way to be thinking about China?
+Steven Eric Creviston - President-Mobile Products
+Yeah. I mean that sounds about right. I think to characterize what we've seen, you're right. The first couple quarters of the calendar year, we saw tremendous growth and we definitely in retrospect shipped faster than the market at that timeframe. As we've gone through the second half of the year, we still see our largest customer there, who's now a 10% customer, considerably strong compared to the rest of the pack. And so we're very pleased to be supporting that customer. And then the rest of the pack has definitely slowed and most are not achieving their original goals that they set up for at the beginning of the year, but it's still good. Like I said, not great, but good, and it's going to return to more of a regular level.
+Quinn Bolton - Needham & Co. LLC
+Okay. Thanks for the additional color. And then one for Steve. Steve, I think in your guidance you're now guiding tax to be at 10%, sort of the lower end of your 10% to 15% range. Is that going to be a temporary sort of December quarter effect? Or does that carry into fiscal 2017?
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Yeah. Well, it'll clearly pertain to the March quarter, right. We try to level set it for the course of the year. And as we look into the next fiscal year, I think I want to take a little bit of a hall pass on that as we've got some math to do on that. We are running through our NOLs and credits and yet on the other hand, we'll have more of our revenue going through Singapore for the full year. So I'm going to stick with the 10% to 15% for now for FY 2017. But I think it's fair to model 10% in for the March quarter as well.
+Quinn Bolton - Needham & Co. LLC
+Thank you, Steve.
+Operator
+Steve Smigie with Raymond James has our next question.
+J. Steven Smigie - Raymond James & Associates, Inc.
+Great. Thanks a lot. Sorry if there's any repeat questions. But I was just curious if you guys could talk about architectures a little bit on the marquee phones where if you get your typical tear down there, maybe four boxes typically on a phone or something like that in terms of pads or whatever it may be, but then there's also lots of other filters and switches elsewhere in the phone. So as a company, as you guys gain content, can you have it stay in the same sort of four boxes? Could there be more or less than four boxes on the phone? Just talk about all the different variations that could happen out there. It seems like there's a lot of different ways it could go?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Go ahead, Eric.
+Steven Eric Creviston - President-Mobile Products
+I'll take a shot at it I guess. You're right. There's a lot of different ways it can go. And so, what you tend to see, I guess, is there's a generation in which there is an integration around three or four kind of large elements and then some discretes around it. And the next generation, it generally stays roughly the same in terms of the number of highly integrated component. It's pulling in a lot of the stuff that was outside before but then you end up with a bunch of other discrete stuff around it a lot of times. So there's no real one answer on that, but I think generally the trend is for higher levels of integration overall and in particular, I think, at the kind of mid-tier of the market. They're adding an awful lot of functionality and they don't have the R&D or the bandwidth to glue together 50 different parts. And so, they're trying to get to higher levels of integration, fewer boxes, as you would say, at that tier of the market as well.
+Robert A. Bruggeworth - President & Chief Executive Officer
+But I think overall, Eric, I think people recognize there's different blocks. But I mean, there's a lot of content outside of those things. And that's where a lot of the growth that we've enjoyed over the years, still there's a lot of discrete switches and tuners and now we're getting into diversity receive modules and things like that. So, I don't want to over simplify it down to four or five boxes, but there is revenue there and that architecture does â and the lower end is moving more towards that. But there's still on the big global phones a lot of added dollar content outside of those boxes.
+Steven Eric Creviston - President-Mobile Products
+Yeah. It's a good point. It's not really just about the boxes, I guess that's what you're saying. Because if the boxes themselves have all kinds of different things in them but then also the discretes there are lots of different types. And there's opportunities to differentiate just as much on some of those discrete parts as there are in the big boxes too, right. So, yeah.
+J. Steven Smigie - Raymond James & Associates, Inc.
+That's great. Yeah. That's what I was looking for. Thank you. And then I'm not sure, have you talked about 2016 overall? And I apologize if that's been discussed, but typically you say some color like, hey, we're looking for such and such industry growth and we expect to grow above that. So I was just curious if you've commented on what you think the industry growth is for calendar 2016?
+Robert A. Bruggeworth - President & Chief Executive Officer
+We didn't comment too much on overall for the company, but I believe we might have had a question earlier on the RF content will probably grow in that 10% to 15% range in the mobile business and that's what we'll probably grow.
+J. Steven Smigie - Raymond James & Associates, Inc.
+Okay. Great.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Or slightly faster than that.
+J. Steven Smigie - Raymond James & Associates, Inc.
+Okay. And my last question was just on mix of customers. So, obviously, there's the big guy in Cupertino and the big guy in Korea and then you've got maybe four or five big Chinese guys. How much is that of your mix? Or another way to ask it, how much business do you still get from like a Microsoft, Sony, HTC, all those guys down below there? And how important are those guys to continue growth going forward?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Steve, you want...
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Yeah, I'll take that. Our top three customers added up to about 60% of our revenue last quarter and then that's probably not out of line with the market structure. Of those three, Huawei is the one that we sell both IDP and mobile products to. And then below that you have a pretty large number, a very broad diversification of customers.
+J. Steven Smigie - Raymond James & Associates, Inc.
+Okay, great. Thanks, guys.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Operator
+We'll move onto Tom Diffely with D.A. Davidson.
+Thomas Robert Diffely - D. A. Davidson & Co.
+Yes. Good afternoon. First, Steve, it looks like you're getting some very nice synergies on the operating margin line and the EPS line. Where are we as far as the initial goal of $75 million of cost cutting in the first and then second year?
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Yeah. We're in good shape on both counts. As you know, we have a very detailed management process where we have a dedicated professional program manager who tracks all these things. And I expect to beat both of our $75 million commitment for year one and then a subsequent $75 million commitment for year two. We're in good shape for year one and in year two, it will be a bit back loaded, about two-thirds of that commitment pertains to this migration or in-sourcing of mobile assembly and test and the remainder is a pretty broad variety of items.
+Thomas Robert Diffely - D. A. Davidson & Co.
+Okay, great. And then previously you talked about the â your plan to ramp up the BAW filters a little bit here in the first half of the year. Where do you see the health of the industry supply and demand of BAW filters? And what do the customers do right now that can't get access to BAW filters?
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Well, a lot of questions in there, but I would say that the supply and demand are broadly in balance. The reason we had capacity in the late winter/spring is that it's a little bit lower demand period in the cycle and it's a good chance for us to add capacity for the next wave. For example, a lot of the diversity receive or carrier aggregation demand will be in the phones that launch in the fall and we'll want to have the capacity to support that as we approach it.
+But generally, I'd say supply and demand are fairly matched. I expect that'll continue to be the case. We build this capacity based on our customer forecasts and while there may be an error in an individual case, in aggregate, they tend to be pretty decent.
+Thomas Robert Diffely - D. A. Davidson & Co.
+Okay.
+Steven Eric Creviston - President-Mobile Products
+I might add to that, to your point about what happens when customers can't get it. I think the industry is beginning to understand the capacity curve and when the capacity is available. And some customers actually plan their production around the time they know they're going to be able to get their filters.
+Steven J. Buhaly - Chief Financial Officer & Secretary
+And make longer-term forecasts and commitments to us.
+Steven Eric Creviston - President-Mobile Products
+That's right.
+Thomas Robert Diffely - D. A. Davidson & Co.
+All right. Thank you. That's perfect.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you.
+Operator
+We'll move next to Edward Snyder with Charter Equity Research.
+Edward F. Snyder - Charter Equity Research, Inc.
+Thanks. Thanks very much. So, a couple things, Steve, nice savings on OpEx this quarter. How do you expect that to trend the next quarter? And what's your plan for next year? Are you going to scale up with some of these CapEx expansions in BAW and in SAW? And then, Eric, the merger required blending a lot of people and a lot of different sites. You still have the Portland facility going. How is that progressing overall? Are you still working through it or is it pretty much finished in terms of organizationally? And how do you feel it's going operationally? Are you where you want to be? Or has it impacted execution, especially on some of your newer designs?
+Steven J. Buhaly - Chief Financial Officer & Secretary
+So, for my part, OpEx, I think this quarter and next will be in the mid-$150s million, so continue to be slightly down from what we just reported in Q2. And what was the second part of the question?
+Robert A. Bruggeworth - President & Chief Executive Officer
+CapEx, I think he said.
+Steven J. Buhaly - Chief Financial Officer & Secretary
+What was the second part of the question, Ed?
+Edward F. Snyder - Charter Equity Research, Inc.
+I'm curious because your CapEx plans for, especially your filter fabs and then you have the pad facility, that I would expect OpEx to ramp up once those are installed in order to staff them and to actually do all the design work that you're going to need to (50:56).
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Well, most of that goes into our cost of goods sold line and by and large the implementation of that cost for bringing that online is coincident with them being used for production. So it tends to be reasonably well-matched.
+Robert A. Bruggeworth - President & Chief Executive Officer
+But I think we can say, Ed, yes, we will continue to invest in R&D but it will be a much slower rate than what we're expecting for the top line to grow.
+Steven J. Buhaly - Chief Financial Officer & Secretary
+Yeah. And consistent with our expectations of the 20% of revenue model that we have.
+Edward F. Snyder - Charter Equity Research, Inc.
+Great. And then on the merger?
+Steven Eric Creviston - President-Mobile Products
+Yeah. So thanks for the question, Ed. I couldn't be more pleased with the organization, frankly. As you know, the culture matches very good between the two companies. A lot of people have worked at each and so we had a lot of good kind of immediate synergies socially and culturally. And before close, we're able to already develop a new product development process that combined the best of both companies, a lot of lessons learned. So it was a great unique opportunity to kind of wipe the slate clean and come out with better practices and processes.
+We have combined several of our sites, and there's a little more to be done there, so far completely without disruption. I'm not aware of any execution issues that the mergers created. So it's a lot of fun actually. It's a great opportunity. These product cycles, it takes a while to feel the entire effect of them, but they're coming on strong.
+Robert A. Bruggeworth - President & Chief Executive Officer
+In fact, I would just add, we're holding this call in our San Jose office. That is consolidated between the two former offices here. And it's good to physically bring the teams together, and it's good to put the savings on the P&L.
+Edward F. Snyder - Charter Equity Research, Inc.
+So like that leaves my next question, on the MediaTek reference line for phase two. As far back as February at MWC, we were talking with you about possible share gains there. And you seemed fairly confident about it through most of the year even when we met up several times since then. And it didn't turn out that way. It sounds like Skyworks got most of that thing. Is that just â that's not an execution issue then? That was just a product issue? I'm just trying to get my arms around what happened on what was supposed to be one of the big highlights of the second half of the year. I understand phase three is coming. You're going to do much better on that. There were a bunch of other gains. But I'm just curious then, if it wasn't execution, is it performance? Is it, what is it?
+Steven Eric Creviston - President-Mobile Products
+Yeah, so that's one of the things I guess we keep maybe struggling to communicate correctly. Up until even this point today, we're still basically selling RFMD and TriQuint parts, parts that result from the merger where we're able to combine and bring the new org and new technologies together. We're really just beginning to release the first one. So the integrated FEM for Wi-Fi, the diversity modules and so forth. So phase two, especially March quarter, June quarter of the year, I mean that's where each of the two legacy companies basically were in their product cycles. And we didn't have an org focused on that as a matter of fact at RFMD and TriQuint as well was not really focused at all on that market. So, when we formed Qorvo, we organized around it.
+We've got a business unit dedicated to that market and MediaTek in particular. And so they've been really working hard all year and picking up a lot of momentum. You're right, not as fast certainly as we would've liked, but picking up momentum on phase two now significantly. And then we've been in line with phase three all along for the MediaTek platform.
+Robert A. Bruggeworth - President & Chief Executive Officer
+I think â this is Bob. Sorry, Ed. At a little higher level, I mean our share on Qualcomm reference designs in China was significantly higher than our MediaTek. And as you know what's playing out there, that's also worked against us.
+Edward F. Snyder - Charter Equity Research, Inc.
+Yeah. So basically, it's more legacy product that you were competing individually from the companies for phase two, whereas phase three it will be the combined companies?
+Robert A. Bruggeworth - President & Chief Executive Officer
+That's a very good way to put it, yeah.
+Edward F. Snyder - Charter Equity Research, Inc.
+Okay. And then, Bob, that was my next question actually. You guys have gotten much closer to Qualcomm over the last year. Qualcomm of course hasn't been doing as well. But in the net of it all, is it a net improvement still for you both on the Wi-Fi side and on the LTE reference design side of it? Or because of their problems, it's kind of a wash?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Oh, net total revenues. I'd have to think through that and I think you've got the assessment right. We continue to grow the relationship with them into more than just, quote, PAs and filters and sitting on reference designs and working with them and then to your point, we're making great progress with Wi-Fi for the IDP side as well as the mobile side working with Qualcomm, but I don't think we've actually done any forward math to be able to answer that, Ed. As you know, what we're trying to do is be strong at each one of the platform providers and each one of our customers because they do tend to move around who's number one and two over time.
+Edward F. Snyder - Charter Equity Research, Inc.
+And then along on the same lines, Bob. It's clear Qualcomm is obviously (55:43) the leg of their problems. But they're doubling down RF360, they've been showing PAM IDs around China and are playing into that. It sounds like they're going to make another gasp in this area. I don't expect it will turn out any better than it did for the first one, given well, I think when we think about the technology. Is your new relationship with them make you the go to guy if their solution doesn't work? Because last time, kind of the same thing, right? You guys were shipping them an amplifier for their first version of it when it didn't work out. So I'm just curious, because you did get closer to them last fall, if this falls apart and they're facing a â and they need to ship, will you guys be the first one they turn to, to try and stopgap the product?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Well, I can't say what'll happen in the future, Ed, but I think in the past, yes, we've worked very closely with them when customers wanted a different solution. And I think that's â an important point is, at the end of the day, the customers decide. I mean that's what really takes place and in our business you need to have very high performing, competitive parts. And we work with them, so that we make sure we understand the architectures and where things are going. But at the end of the day, it's as much the customer, but because we do work with them, we feel we've got that leg up and that opportunity and that's why we felt our share was so strong with them throughout the last year as you pointed out.
+Edward F. Snyder - Charter Equity Research, Inc.
+Okay. Final question. Sorry for so many. So I knew you guys had won a DRx module on the Note 5, which congratulations by the way, because I'm sure you had lots of competition for that slot. But then Samsung didn't actually field that phone, which is unfortunate. Obviously, you had to allocate the filter capacity for that part, and I would imagine, I don't know if that was BAW or TC, but the fact that it didn't ship, did that free up some capacity especially in the Florida facility? Or are you still impacted overall on filters?
+Robert A. Bruggeworth - President & Chief Executive Officer
+You want to take that Eric?
+Steven Eric Creviston - President-Mobile Products
+Yeah. So as of now, at least, all of the diversity modules we are planning are based on BAW. So that was a BAW opportunity. Volumes weren't tremendous on those few that we were on. So it did actually allow us to have more capacity available for a lot of Wi-Fi coexist filters and other things that we are shipping into the China market in general.
+Edward F. Snyder - Charter Equity Research, Inc.
+Great. Thanks, guys.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you, Ed.
+Operator
+We'll now move to (sic) Tom Sepenzis with Northland.
+Thomas Sepenzis - Northland Securities, Inc.
+Hey, guys. I was just wanting to ask a kind of future question in terms of 5G, and how â is BAW capable of handling the millimeter wave type frequencies that the government is talking about potentially using at least in the cities in the 40 and 50 gig range? Or is that something that you have to redesign from the ground up to be able to handle those types of frequencies?
+Robert A. Bruggeworth - President & Chief Executive Officer
+I would say currently BAW today doesn't handle those frequencies, but certainly, there's tremendous amount of bandwidth available in the millimeter wave frequencies that could reduce that need a bit. And then we certainly have a significant amount of product available in power amplifiers and other type technologies that'll play in 5G. I think it's also important to remember that 5G, we always see as a layered on approach to what's in the existing content in the handset today.
+Thomas Sepenzis - Northland Securities, Inc.
+Thank you.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thanks, Tom.
+Operator
+And we'll take our final follow-up question from Harsh Kumar from Stephens.
+Harsh V. Kumar - Stephens, Inc.
+Yeah. Hey, guys. Quick question. How should we think â so IDP has gone to the blender here in the last call it six months. How do we think of IDP in 2016? What would be a good, normal long-term growth rate for IDP for us to think about?
+Robert A. Bruggeworth - President & Chief Executive Officer
+Good question, Harsh. I'll go ahead and let James talk about it because in my opening comments I talked about how he's tried to reposition â not tried, but he has repositioned his product portfolio to drive growth out of what we â typically seen was the single-digits. We'll begin to see that this year, but go ahead.
+James L. Klein - President-Infrastructure & Defense Products
+Yeah. In â we've traditionally talked about the business in that five- to seven-point growth range. I think what you heard from Bob today is that we're repositioning to get that to be able to grow two times or three times that rate. That'll start as we go into 2016. In fact, it's started now. So I think you'll start to see our growth rates pick up as we go into next year and certainly as we move into 2017 and 2018.
+Harsh V. Kumar - Stephens, Inc.
+Understood, guys. Thank you very much.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thanks, Harsh.
+James L. Klein - President-Infrastructure & Defense Products
+Thanks, Harsh.
+Operator
+It appears we have no further questions at this time. I turn the conference back over to management for any additional or closing remarks.
+Robert A. Bruggeworth - President & Chief Executive Officer
+Thank you for joining us this evening. It continues to be clear that in any market environment, the global appetite for mobile data continues to expand. That's placing a greater premium on the limited frequency spectrum available to support that demand and expanding the economic value to our customers of Qorvo's premium solutions. We appreciate your time and look forward to meeting with you at our upcoming investor conferences and at our Analyst Day on November 17. Thank you.
+Operator
+And ladies and gentlemen, that does conclude today's conference. Thank you for your participation.

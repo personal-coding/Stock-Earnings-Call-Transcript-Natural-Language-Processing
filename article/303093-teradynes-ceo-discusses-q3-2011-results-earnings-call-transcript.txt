@@ -1,0 +1,310 @@
+Teradyne (NASDAQ:TER) Q3 2011 Earnings Call October 27, 2011 10:00 AM ET
+Executives
+Gregory R. Beecher - Chief Financial Officer, Principal Accounting officer, Vice President and Treasurer
+Michael A. Bradley - Chief Executive Officer, President and Executive Director
+Andrew J. Blanchard - Vice President of Corporate Relations
+Analysts
+Stephen Chin - UBS Investment Bank, Research Division
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+James Covello - Goldman Sachs Group Inc., Research Division
+Wenge Yang - Citigroup Inc, Research Division
+Satya Kumar - CrÃ©dit Suisse AG, Research Division
+Olga Levinzon - Barclays Capital, Research Division
+Krish Sankar - BofA Merrill Lynch, Research Division
+David Duley - Merriman
+Jagadish K. Iyer - Piper Jaffray Companies, Research Division
+Patrick J. Ho - Stifel, Nicolaus & Co., Inc., Research Division
+Operator
+Good morning. My name is Satonya [ph], and I will be your conference operator today. At this time, I would like to welcome everyone to the Q3 2011 earnings conference call. 
+[Operator Instructions] I would now like to turn the call over to today's host, Mr. Andrew Blanchard, Vice President of Investor Relations. Sir, you may begin your conference.
+Andrew J. Blanchard
+Thank you, Satonya [ph] Good morning, everyone, and welcome to our discussion of Teradyne's most recent financial results. I'm joined this morning by our Chief Executive Officer, Mike Bradley; and our Chief Financial Officer, Greg Beecher. Following our opening remarks, we'll provide details of our performance for the third quarter of 2011 as well as our outlook for the fourth quarter.
+First, Iâd like to address several administrative issues. The press release containing our results was sent out via Business Wire last evening. Copies are available on our website or by calling Teradyneâs Corporate Relations office at (978) 370-2221. This call is being simultaneously webcast at teradyne.com. 
+Note that during this call, we are providing slides on the website that may be helpful to you in following the discussion. To view them, simply access the Investor page of the site and click on the Live Webcast icon. In addition, replays of this call will be available via the same page about 24 hours after the call ends. The replays will be available, along with the slides, through November 13.
+The matters that we discuss today will include forward-looking statements that involve risk factors that could cause Teradyneâs results to differ materially from managementâs current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release, as well as our most recent SEC filings, for a complete description. Additionally, those forward-looking statements are made as of today, and we take no obligation to update them as a result of developments occurring after this call.
+During todayâs call, we'll make reference to non-GAAP financial measures. We have posted additional information concerning these non-GAAP financial measures, including reconciliation to the most directly comparable GAAP financial measures, where available on our website. Again, to view them, go to the Investor page and click on the GAAP to Non-GAAP Reconciliation link.
+Also, you may want to note that between now and our next conference call, Teradyne will be participating in the Piper Jaffray TMT Conference on November 8 and UBS' Technology and Services Conference on November 17, both in New York; Credit Suisse's 2011 Technology Conference in Phoenix on November 30 and Barclays Global Technology Conference on December 8 in San Francisco. 
+Now let's get on with the rest of the agenda. First, our CEO, Mike Bradley, will review the state of the company and the industry in the third quarter and our outlook for the fourth quarter. Then, our CFO, Greg Beecher, will provide more details on our quarterly performance, along with our guidance for the fourth quarter. We'll then answer your questions. For scheduling purposes, you should note that we intend to end this call after 1 hour. Mike?
+Michael A. Bradley
+Good morning, everyone. Thanks for being with us again today. I'd like to first just to recap both our quarterly results and the short-term outlook. Second is to step back and look at how 2011 will close out, with an emphasis on both our core business and on how our expanded product portfolio is performing. And third is to frame how our acquisition of LitePoint fits into our overall strategy. As always, Greg will give you the financial details and outlook. But he'll also add some insights into our model going forward, as well as our operating flexibility and cash strategy after the LitePoint acquisition. 
+So let me go over how we're doing in the current market environment, our third and fourth quarter [indiscernible] forward. We exceeded the top end of the Q3 range and had another solid bottom line performance. But the fourth quarter continues to track down as we step through the continued pullback in the SemiTest demand and see the normal choppiness in the HDD shipments. So we've moved our Q4 guidance down in line with this order trend to a $270 million to $300 million range with a 6% to 11% operating profit level. Now this does include LitePoint revenue, but not a full quarter. So you can see that our ongoing business has downshifted considerably since midyear. Greg will break the numbers out in a bit more detail in his comments. 
+What's happened in our main associate test market is a sequential order drop of about 22%. Power management and image sensors, with a strong sector at or close to their highest levels during the last year or so, followed by wireless and mobile processors. But demand for precision analog, microcontrollers and automotive were all off their Q2 levels. Now I don't think there's any special significance here other than the higher caution customers have during pullbacks. And most of these are, of course, tied to macroeconomic themes. 
+I mentioned last quarter that the overall market size expectation in SOC for Q4 could be about $500 million. But I'd amend that at this point, and put it more in the $450 million to $500 million range. That means a sub $2 billion total market run rate as we exit the year. And that includes some reasonably hefty tooling in the PC test segment. So we'll see pretty tight times across the board and SOC for the short term. 
+Now the pattern in Memory Test was similar in Q3 with bookings down 37% from the second quarter. Although we saw incremental business in both FLASH and high-speed Memory Test, the overall market is now running at a quarterly rate of between $100 million and $150 million, so a sub $600 million annualized market size. 
+Total OSAT bookings were at $55 million for the quarter, which is very close to the most recent trough quarter, Q3 2010. 
+IDM buying in Q3 this year was actually below the levels of that Q3 2010 trough. So you can see that we're in a very cautionary environment. 
+That said, we haven't seen anything significant in the way of cancellations. So what's on the books is truly needed for new product introductions and ramps. And our service business provides an additional floor of support averaging about $240 million annually over the last 2 years. 
+Now outside of SemiTest, our defense and in-circuit test business units are holding up quite well, with increased order rates in the third quarter, and they're delivering model bottom line performance due to our ongoing cost discipline. 
+The defense sector, uncertainties of the past year are stabilizing. So we expect that business to be more steady going forward. While the in-circuit business will more likely follow the cycle of the overall economy. 
+On the spending front, we're making some selective investments in engineering and distribution that Greg talked about last quarter. We see these as prudent and disciplined moves that are aligned with our continued drive for market share. 
+So let me now move to how this year will shape up in total. Assuming the midpoint of our fourth quarter range will end the year with revenues of just over $1.4 billion, and above model profits for the second year in a row. Systems Test will have its best year ever with solid results in defense and in-circuit tests. Storage test will exceed the top end of our expectations in revenues as the group has successfully penetrated new customers and expanded its range of test solutions in 2.5-inch hard drives. 
+Eagle Test has performed exceptionally well, and has been a major component of our market share thrust in performance analog and mixed signal applications. And despite a subdued memory market, Nextest has made market share progress in both wafer and final test applications for DRAM and FLASH memory testing. 
+Our SemiTest strategy has been best focused on sectors like wireless, power management, image sensors and anything mobile, as well as unsteady growth sectors like automotive and microcontroller-rich consumer end products. And in virtually every arena across SemiTest and Systems Test, we have new products in the field or in the pipeline for 2012 introductions. 
+Which brings me finally, to the most recent move in our long-term growth strategy. As we've discussed, LitePoint gives us an extension into the fast-growing wireless test market for products like smartphones, tablets and the array of wireless products connected to the Internet. What's compelling about LitePoint is how they've married a unique ATE type tester architecture to a production solution that integrates the needs of the product brand, the chipset designer and the contract manufacturer. 
+Litepoint's close enough to our core to get leverage from our technology and scale, but separate enough to open up a new high-growth market. So we can concentrate on expanding their business, not being mired down by the challenges of overlapping products and markets. We believe that it's close to a bullseye in the potential for growth and leverage, and thus a great use of our capital. 
+In summary, the short-term picture's one mostly of caution. As such, we'll stay disciplined but not frozen in the investments we make. But the longer term course, I believe, holds a great deal of promise for our core test businesses in the strategic additions we've made. 
+Now let me turn it over to Greg.
+Gregory R. Beecher
+Thanks, Mike, and good morning, everyone. Before I get into the details around Q3 and Q4, I'll first address the 3 questions that I expect many of you have. First, how does LitePoint affect our model? Second, given the LitePoint acquisition, what is our thinking around our cash strategy and future M&A? And third, what are our plans if we enter a deep or prolonged downturn?
+Taking these in order. First, how does LitePoint affect our model? LitePoint is expected to add about $160 million or more in revenue next year, though its quarterly sales will be volatile as revenue is both tied to new programs and is somewhat seasonal. The model sale is necessary to achieve our 15% operating profit. We'll move from about $305 million a quarter, to about $350 million with the addition of Litepoint's fixed cost and some other changes in SemiTest, which I'll get to in a moment. 
+While Litepoint's fixed cost will increase the revenue required to earn our 15% model profit rate, its lean cost structure will improve gross margins of the entire company by about 2 points at that $350 million model quarterly sales level. 
+The SemiTest changes included increase of about $3 million a quarter from our earlier model beginning in the first quarter, as we increase engineering spend on product development to drive future market share gains. 
+We also expect Semi margins will decline about 1% over the next year based upon our best estimate of the pricing environment. Recall this level of model operating revenue of $350 million simply describes our gross margin and OpEx at that revenue point that delivers 15% operating profit for the company. It shouldn't be viewed as a cross cycle midpoint. In fact, as you can see in the slide in the earnings call package on the web, pro forma sales over the 8 quarters ending in 2011, with the pro forma addition of $40 million per quarter of LitePoint revenue, is over $400 million, well above that $350 million level. 
+LitePoint is off to a good start for our first partial period with sales in the low $30 million range projected in the fourth quarter. For the full-year 2011, we expect about $130 million in LitePoint sales. Now LitePoint will also move our cash tax rate to about 10% to 12% in 2012, up from 6% in 2011. And we'll talk more about cash taxes a bit later. 
+The second question is: Given the LitePoint acquisition, what is our thinking around our cash strategy and future M&A? The short answer is that our cash plans remain unchanged. We'll continue to be patient and opportunistic in our buyback program, so that it provides value to our long term shareholders. The purpose of the program remains to offset dilution from employee equity instruments. So far, we've bought back 2.6 million shares at an average price of $11.83. Well over the period of buyback authorization last Friday, our stock has averaged $14.64. 
+We have $169 million left under the buyback. As the use of cash for future M&A, we'll also continue with our strict criteria of earning our 15% cost of capital. And any tenants that we consider must be a very close fit with either our technology or distribution capabilities. Clearly, our overriding focus will be on our core test businesses and fully ensuring that LitePoint is a success. 
+And the third question. What are our plans if we enter a deep or prolonged downturn? If this were to happen, as we've said before, we would not plan to take actions to reduce headcount or change our product roadmap or support levels. This is because our model was designed for full cycles, including sharp downturns. Our operating breakeven is set so that in a normal downturn, we'll stay profitable. 
+Our lean model keeps our entire organization fully focused on growth and customer support through downturns, versus having to turn our attention inward every few years to rework the cost structure. And at the extreme, a 2008, 2009 or even worse scenario could actually play to our competitive advantage, as we are significantly better prepared than our competitors from a cost structure or balance sheet perspective. 
+Now moving to the key highlights of the third quarter. We exceeded our sales and earnings guidance with a top line of $344 million and non-GAAP EPS of $0.34. The higher top line was primarily due to more hard disk drive test system revenue than projected as product acceptances were achieved ahead of schedule. 
+The third quarter marks the seventh quarter in a row operating above our model 15% profit rate. Our financial health matches up well against the leading front end companies, as we expect to average a 24% operating profit rate, along with free cash flow of 23% of sales over the 3-year period ending this calendar year. 
+On the market share and growth front, the key standout this year is in hard disk drive. This quarter, our hard disk drive sales exceeded its first half of volume, and brought the year-to-date hard disk drive sales past the high end of our original target of $80 million to $120 million. This was accomplished by expanding into multiple new customers and new applications in the 2.5-inch space. This year will also set new records for our Systems Test Group. This is on course to achieve our highest sales and profit levels ever. 
+On the SemiTest front, we are continuing with SOC socket wins at a pace consistent with the past. But as I mentioned last quarter, moving on the other side of the segment shifts, as strong PC test buying will temporarily depress our 2011 market share. You recall that last year, we said that about half of our 9-point SOC test share gains were temporary segment shifts favoring us, and the other half were permanent. This year the second buying has favored our largest competitor, as PC-driven buying is unusually high. We believe that our normalized share basis were in the mid-40s in SOC test. 
+In memory, we expect to gain a few points with our very strong FLASH and DRAM test portfolio. On the balance sheet, we grew cash and marketable securities to $1.2 billion. Subsequent to the close, we spent $514 million, including transaction cost, to acquire LitePoint, net of cash and tax benefits acquired. At year end, we expect our gross cash and marketable security balances to total about $750 million. 
+As I mentioned before, our cash tax rate in 2012 is moving up to 10% to 12% from about 6% in 2011. Let me explain this. With the addition of LitePoint, our U.S. 2012 taxable income is significantly increased. This is because we eat through our unlimited variable tax attributes much sooner, and start to encounter the tax attributes that have annual limits on their usage. The bottom line to all this though, is that our favorable tax attributes will be spread over a longer time period. We've added to our [indiscernible] additional information on taxes to help you fine tune your models. 
+Moving now to the demand side. SemiTest bookings declined 24% to $196 million. SOC test orders were $177 million and Memory Test orders were $19 million in the third quarter. Systems Test group came in at $44 million, reflecting a decline in HDD orders after very strong shipments in the third quarter. 
+In the third quarter, semiconductor sales were 70% of the total, and the Systems Test group was 30%. Our book-to-bill ratio for the third quarter was 0.7 for the overall company, 0.81 for semiconductor test and 0.42 for the Systems Test group. 
+At the end of the quarter, our backlog stood at $362 million, of which 81% is scheduled to ship and be recognized as revenue within the next 6 months. 
+The top line of $344 million was down $66 million, or 16% sequentially from the second quarter. SemiTest was $241 million, down $102 million, or 30%. And Systems Test group was $103 million, up $36 million or 53%. SemiTest product shipments decreased 36% from a quarter ago. Within the $344 million, service revenue was $69 million, flat with the second quarter. SemiTest service revenue was $56 million. 
+Total company product turns business was 21% versus 29% a quarter ago. SemiTest product turns business was 30% versus 32% a quarter ago. Memory revenue was $26 million. 
+Moving down the P&L. Gross margins decreased from 52% in the second quarter to 49% in the third quarter due to lower volume and a much higher mix of hard disk drive revenue. 
+R&D expenses were flat at $47 million, or 14% of sales, compared to 12% of sales in the second quarter. SG&A expenses were $55 million or 16% of sales, compared to $57 million or 14% of sales in the second quarter. 
+Operating expenses in total of $102 million were down $3 million from the second quarter, driven by lower variable compensation. 
+Our net non-GAAP interest and other expense was 0 due to gains our marketable securities sold to fund the LitePoint acquisition. We recorded a tax provision of $2 million; a tax rate of approximately 3%, which reflects a reduction in our estimated full-year cash tax rate from 7% to 6%. The lower tax rate and gains on marketable securities that were sold contributed $0.02 to our third quarter EPS. Cash flow from operations totaled $71 million after capital additions. 
+As noted in the press release, sales for the fourth quarter are expected to be between $270 million and $300 million. And the non-GAAP EPS range is $0.08 to $0.16 on 202 million diluted shares. I should add that the guidance excludes the inclusation [ph] of acquired intangibles, the non-cash imputed interest on the convertible debt and estimated GAAP purchase accounting charges related to the acquisition of LitePoint. The operating profit point at the midpoint of our fourth quarter guidance is about 9%. 
+Now moving to the P&L percentages in the fourth quarter. We expect gross margins to be 50%, R&D should be 21% to 19%, and SG&A should be 22% to 20%. Non-GAAP net interest expense is expected to be about $2 million. The cash tax provision should be about $1 million. 
+In summary, if I step back from the short term for a moment, over the last few years, our strategy has been to exercise strong financial discipline while at the same time, strengthen each of our core businesses. This strategy has resulted in strong cash flow and market share gains. We've used that cash flow for very close to the core of growth such as the Eagle and Nextest acquisitions, and for the organic expansions into hard disk drive and high-speed memory. We're also patiently returning capital to shareholders with our buyback program. 
+The 4 growth initiatives I've just mentioned have contributed about 1/3 of our EPS since the beginning of 2010. We've now added LitePoint into the fold, which has both a higher gross -- a higher growth rate and better margins than Teradyne with its highly differentiated product and solution set and lean cost structure. We plan to stay on course, which is to stay sharply focused on strengthening our core businesses, maintaining financial discipline and deploying our excess cash for the highest possible returns. 
+Now I'll turn the call back over to Andy.
+Andrew J. Blanchard
+Thanks, Greg. Satonya [ph], we'd now like to take some questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] And your first question comes from the line of Stephen Chin with UBS.
+Stephen Chin - UBS Investment Bank, Research Division
+Just first question about just short-term items. I was wondering if you guys would share about -- if you could see another wave of strong HDD opportunity from this investor [ph] perhaps?
+Michael A. Bradley
+Stephen, it's Mike. I think it's too early to tell. I wouldn't -- you maybe asking an HDD question. But we have hundreds and hundreds of customer systems. We have many more semiconductor test systems in Thailand than we have storage test systems. So if you'd like, I can broaden my comments to that.
+Stephen Chin - UBS Investment Bank, Research Division
+Sure, Mike.
+Michael A. Bradley
+Well, let's see. Let me say just a couple of things. One is, it's too early to tell definitively what the impact is going to be. Our priority right now is to be side-by-side with customers trying to assess the damage and quickly mobilize so that if they need anything, whether [ph] they are both with technical support and with material. We do, of course -- we're in the process of assessing where every system is. And we've got some take here on status of systems. I think it would be not appropriate for me to break down how many systems are affected and so on. But there is a direct effect that we're looking at systems that have been directly damaged and then there are any environmental effects that may reveal themselves over time. Right now, everything we know is factored in. So the guidance has got some amount of additional short-term equipment in it to try to plug any holes for folks. So your question was in the short term, is there an impact? Everything you see in our revenue plan is broken down there. We obviously don't want to get into describing either product types or customers and how they're affected. I think we'll leave that to those customers to delineate that.
+Stephen Chin - UBS Investment Bank, Research Division
+Okay. Thanks for that, Mike. Just to expand on that, do you think there may be perhaps a second wave of opportunity in the HDD space once the M&A is sorted out?
+Michael A. Bradley
+Well, let's see. For us, I don't know if that's a market question or -- for us, this last year, we've been able to get into -- penetrate a number of new accounts, with a number of new applications. So consolidations will typically -- they can have 2 effects. One can be some compression in buying because there's better utilization of equipment. And the other one is that if there are new opportunities, you can pursue those new opportunities. I think we're tied more to the total market and how the market's going to move now. If you asked me that a year ago, I think the consolidation might have had a different effect because we were trying to design in at that point, and maybe that gets slowed down by a consolidation. So I don't think there's a kind of double effect here. We'll track, I think, more of the market now than we would in a specific business combination.
+Stephen Chin - UBS Investment Bank, Research Division
+Got it, and that's helpful. And just if I could switch to SOC. On the SOC side, 2 questions. Are you seeing an impact from accelerated depreciation in the December quarter, as what Novellus mentioned yesterday? And second, how should we think about 2012 buyrates, given the weakness at analog [ph] customers?
+Gregory R. Beecher
+Steve, this is Greg. I'll take the first one on accelerated depreciation. No, we have not heard that from our customers as a catalyst that might cause them to pull orders [ph] than they would otherwise. So that hasn't hit our radar screen yet.
+Michael A. Bradley
+Stephen, on the buy rate. We're exiting the year at a pretty depressed rate. I think if you annualized SOC, it's operating at a sub-$2 billion level. And then memory, it's in the low 500-s. So in these cycles, if you are buying into -- that we're connected here at some mid-cycle level, we obviously have a recovery ahead of us. What's the magnitude of the recovery? Well, this will be the second lowest buy rate year for those 2 sectors in more than 10 years. And it's only -- the only lower buy rate was in the downturn in 2009. The timing of that, no one can call. I think -- you see, there's a chart in our -- on the web that talks about what the typical drops have been. And we are close to that 50% sequential quarterly drop, which is where some of the cycles have troughed. But the duration of it, uncertain at this point, whenever you hear customers are very, very conservative. And that's what we're hearing. But I think it has to come back, this $2 billion to $2.5 billion SOC market, I think is probably too north. And memory is a little harder to call but $600 million, $700 million in total market, I think would not be unreasonable to get back to. When is obviously everybody's question.
+Stephen Chin - UBS Investment Bank, Research Division
+And your market share would be around 45% roughly?
+Michael A. Bradley
+In SOC, our market share would be -- I think that's a good number. You remember last year, we were higher than that, because we had some of our sectors grow faster -- but around 45%. That's a normalized market -- we call it a normalized market share for us. Okay. Can we have the next question, please?
+Operator
+Your next question comes from the line of Wenge Yang with Citigroup.
+Wenge Yang - Citigroup Inc, Research Division
+You showed a pretty good slide showing that in the last 4 to 5 cycles, the downturn was recorded never longer than that even in 2009. So for this time, we are facing 2 quarters of order decline. Do you see this downturn to behave similar to the past, or do you see it different?
+Michael A. Bradley
+It feels to us more like a normal cycle than it does -- 2009 I think it will remain a little higher [ph]. So if you would do comparables, you'd look at those other 50% cycles. Now could it go for an extra quarter? Sure, it can.
+Wenge Yang - Citigroup Inc, Research Division
+Okay, that's helpful. I'll switch to the LitePoint, so can you discuss a little bit more about the growth opportunities of that business? And you mentioned about a $1 billion market size. What's the growth rate in the next couple of years? And what's the market share of LitePoint at this point? And what's the target market share coming up in the next couple of years?
+Gregory R. Beecher
+Okay. Let me just give it to you quickly. The LitePoint business this year will be in the $130 million, roughly in that level. So if the market is around $1 billion, $900 million to $1 billion, that means it's in the midteens, let's say, 13% to 15%, 16% share. As we've looked at this market, it has -- the end market growth is higher than the semiconductor device unit end market growth, and the tester market growth is higher. We think the tester market could grow 8% to 10% compound for the next few years. So that's the TAM we're looking for, and as Greg outlined, we think we can be in the 20%-plus growth rate compounded over the next few years. So you can do the math, and see that our market share can move up as it will grow faster than the -- it'll grow -- we hope it'll grow about twice the rate of the tester market.
+Operator
+Your next question comes from the line of Jim Covello with Goldman Sachs.
+James Covello - Goldman Sachs Group Inc., Research Division
+I guess, a couple of questions. First on the competitive environment, now that we've seen a little bit of time go by with one of your old standalone competitors integrated into a bigger company, what kind of things are you seeing that you might have not expected relative to the competitive environment and relative to that?
+Gregory R. Beecher
+Jim, it's Greg. I'll take that one. At this point, it still feels more as if it's the same. We haven't seen any significant changes in either's approach, and we certainly haven't seen any significant cost synergies. So it feels a little bit more that it's the battle that we're have been fighting for many years. I suppose that at some point, there may be some synergies or some rationalization, but that doesn't appear to be in the foreseeable future.
+Michael A. Bradley
+Jim, I think the surprise from our end is not -- it isn't a big surprise because it looks like the same product set and same roadmaps that we're going to be -- have been competing with and will compete with. I think from an analyst standpoint, the surprise would be that there isn't more product rationalization in the short term. But that's the battle we're in. And as we've said in the past, this won't shift things quickly. It more shifts it on the basis of the normal socket war that transpires.
+James Covello - Goldman Sachs Group Inc., Research Division
+Okay, that's helpful. And if I could ask a follow-up on the analog side, it seems pretty clear that your analog customers are under-shipping their demand as the supply chain goes through a little bit of an inventory draw down, which obviously, is healthy at the end of the day for your customers. How much do you think analog shipments would need to increase before those customers could start to think about ordering again? Any idea on kind of percentage increase that your customers would need to see there?
+Michael A. Bradley
+On their device shipments?
+James Covello - Goldman Sachs Group Inc., Research Division
+Correct.
+Michael A. Bradley
+No. I don't have a picture of that.
+James Covello - Goldman Sachs Group Inc., Research Division
+Okay. Maybe if I could then get a different follow-up since we couldn't fairly address that one. On the NAND side, NAND's been very, very healthy and NAND test has been okay. But I guess I might have expected even more on the NAND test side in light of the health of the NAND market this year. What are your thoughts around that?
+Michael A. Bradley
+Well, NAND has clearly been better than DRAM in the total market and for us. You were saying that you would expect more from us or more from...
+James Covello - Goldman Sachs Group Inc., Research Division
+No, more from that. I guess, I would have expected the NAND industry to order even more test equipment, given what's been a pretty darn good year on the NAND side.
+Michael A. Bradley
+Yes.
+James Covello - Goldman Sachs Group Inc., Research Division
+It's been good for you, but I guess I'm surprised it hasn't been even better or your customers haven't even had more activity there.
+Michael A. Bradley
+Well, I don't disagree with you. I think what happens is that as the device units and bit counts go up, the testers don't go up anywhere close to that. So the productivity side of the equation is still pretty effective in how customers are using the equipment. But I think you're right to characterize that the NAND side of the equation is certainly better in the market and it's certainly been better for us. The Magnum product's been doing pretty well there. So if you take total memory market, we'll gain a little bit of ground this year in share points. But unfortunately, that's in a smaller rather than bigger market.
+Operator
+Your next question comes from the line of Mehdi Hosseini with SIG.
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+Going back to the Q4 guidance, I understand on the top line, LitePoint is going to contribute somewhere in the $30 million to $35 million. But can you provide more color on the margin side? I see in your material that the non-GAAP gross margin is about 50% for Q4. So should we assume LitePoint is at those levels?
+Gregory R. Beecher
+Mehdi, this is Greg. We're not going to break out LitePoint's gross margin, so we won't do that. So there's a lot going on when you go from any one quarter to the next. For example, there's a lot less hard disk drive shipments in the fourth quarter. There are other ins and outs. So you're not going to have a trail that you can quantify LitePoint. What I did say earlier, though, if we had a normalized mix of business, everything was normalized at the $350 million. LitePoint would have an impact of about 2 points versus it not being in there. So LitePoint will obviously improve our gross margins.
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+And what about on the OpEx side?
+Gregory R. Beecher
+LitePoint has higher OpEx. So the higher gross margins gets diluted a bit with their higher OpEx, but the operating margins, that's still healthier than Teradyne on average.
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+Sure. And then did you say that for Q4, the non-GAAP operating margin guidance is 6% to 8%?
+Gregory R. Beecher
+The operating profit would be 6% to 11%.
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+6% to 11%?
+Gregory R. Beecher
+Yes. And 9% is sort of a midpoint.
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+Okay. And then if I may -- and this goes back to LitePoint again.
+Gregory R. Beecher
+Sure.
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+There could be well over $130 million of revenue opportunity next year.There was also a commentary on the seasonality part of that segment.So how should we think about Q1 of next year versus like Q2, Q3?
+Michael A. Bradley
+Mehdi, the number for next year we said was $160 million plus. The $130 million was this year.
+Gregory R. Beecher
+Mehdi, I think it would likely build and have stronger quarters in Q3. Q2 could be strong.I think it would build through the year. So I wouldn't look for Q1 to be a blowout quarter at all. There's new programs that they're going after and making great progress. So I think some of those things will take off midyear.So it is going to be quite volatile, it's level of sales.So I think it's easier to think about it as $40 million, on average, a quarter or better. But it can be quite a bit lower or quite a bit higher in any one quarter.
+Michael A. Bradley
+Similar to what we've done in having to describe the volatility that you see in the storage test.
+Mehdi Hosseini - Susquehanna Financial Group, LLLP, Research Division
+And then one final one.How should we think about kind of a booking direction in Q4? We're already almost a month into the quarter. And I do understand you do more than half of your business in the latter part of the quarter. But given the current business trend, should we assume that there's another double-digit decline in booking or is it less?
+Michael A. Bradley
+Mehdi, as you know, we don't guide for the reasons you'd just described. I think that the -- if you go back to that chart that shows the prior troughs, I think you could -- as we said, you could see continuation at or around that level. I don't think we actually have more visibility than that.
+Operator
+Your next question comes from the line of Krish Sankar with Bank of America.
+Krish Sankar - BofA Merrill Lynch, Research Division
+I have 2 of them. Number one, Greg, you mentioned that Semi business might see a 1% decline in margins because of pricing pressure. I do remember your comments, I think in 2Q you said you saw some pricing pressure. So my question is has the pricing gotten incrementally worse? Or has it stabilized that do you think just a spillover will affect next year on margins?
+Michael A. Bradley
+I think it stayed on that same trajectory we've talked about earlier, that the pricing environment for the last 6 months thereabout, has been a little bit sharper than in the past. But we have gone through these ebbs and flows many, many times. And what normally happens is when you introduce your new product down the road, you do better because it had a different cost structure. But in the near term -- and maybe we're conservative. But in the near term, we want to reflect in the models, some of what we're sensing or seeing in some particular situations.
+Krish Sankar - BofA Merrill Lynch, Research Division
+All right. And then on the LitePoint side, from my understanding, this is more of a focus box position that has really short lifetime. I mean, the lifetime is only like 12 to 18 months of these products, if I'm right. And along this [indiscernible], should be assume that LitePoint really does not have a service business and services and so does the mix of total revenues is going to go down next year?
+Gregory R. Beecher
+That's a great question. LitePoint service business is very small, you're right. So it will be different than other parts of Teradyne. It will not get up to 18%, 20% being serviced. It will be dramatically lower. So yes, you can model that. And the life is certainly shorter. It's not as short as you've mentioned. I would think of it more as 3 years. And -- but there's a high rate of technological change, which obviously, is good for us because there's always a new tester needed every couple of years.
+Michael A. Bradley
+Right. For the incremental revenue from LitePoint, it wouldn't carry the same 18% to 20% level that the other business does..
+Krish Sankar - BofA Merrill Lynch, Research Division
+That's very helpful. And then just the final question. Your breakeven with that LitePoint, I think, was somewhere in the $220 million run rate for operating breakeven.
+Gregory R. Beecher
+Yes.
+Krish Sankar - BofA Merrill Lynch, Research Division
+What is it with LitePoint?
+Gregory R. Beecher
+With LitePoint, it's about $250 million..
+Operator
+Your next question comes from the line of David Duley with Steelhead Securities.
+David Duley - Merriman
+A couple of questions from me. Is the growth that you expect from LitePoint, do you think that will come more from current customers or from new customer wins?
+Michael A. Bradley
+I think a big chunk will come from current customers in the near term. As time goes on, more will come from new customers. They have very strong penetration into some existing customers, and we expect their new product to gain market share at existing customers first. But it's also being shown to some new customers. But I think the traction at the existing customers is just much stronger.
+David Duley - Merriman
+Okay. And as far as the SemiTest business, do you think -- just not asking for guidance, but do you think that the business has bottomed? And I guess I'll just ask that part first then I have a follow-up.
+Gregory R. Beecher
+Well, from an order rate, I think we're in the ballpark, plus or minus some amount. But we're in the ballpark. And I think that unless there's something very different going on, which we don't think there is because if you look at the segments, or if you look at OSATs and IDMs, I think all of these things triangulate to this level being likely to be around the bottom level.
+David Duley - Merriman
+So your subset at the bottom isn't driven by looking at the last 5 or 6 cycles and looking at the duration of the cycles that's based on what your customers are telling you and where the levels of spending are?
+Gregory R. Beecher
+It's a combination of all of those.
+David Duley - Merriman
+Okay. And the -- did you mention what the hard disk drive revenue was in the third quarter? And what should we expect for that business in the fourth quarter?
+Gregory R. Beecher
+We didn't mention that other than to say that it was more in that one quarter than the entire first half of the year and that with the third quarter revenue, we're above the top end of our earlier range, which was $120 million. So over $120 million right now and there's a fourth quarter to go. Third quarter was a big quarter. Fourth quarter, we expect to be quite a bit less. But obviously, this is a very strong year for hard disk drive based upon new customers and new applications. Now I should also say, we set hard disk drive up to hit model profitability of 15% when they're at $125 million of sales. So we're obviously pleased that they're above that this year. And we'll close out this year with a record year for hard disk drive. And we'll look forward to next year in terms of any other expansions we can get.
+David Duley - Merriman
+Okay. Final question for me is you mentioned what cash should end up the year at. Can you just give us an idea of what the cash flow from operations is kind of in this, I guess, perhaps trough quarter?
+Gregory R. Beecher
+The trough quarter, from ops, about $60 million or so. One thing that has a little bit of an impact on us is we still have decent amount of deferred revenue customer advances. I know that's coming down. But that balance does tend to reduce what otherwise would be our cash flow inflows, about $60 million.
+David Duley - Merriman
+And you incorporated the reduction in the customer deposits in that $60 million?
+Gregory R. Beecher
+Yes.
+Operator
+Your next question comes from the line of Patrick Ho with Stifel, Nicolaus.
+Patrick J. Ho - Stifel, Nicolaus & Co., Inc., Research Division
+Two-part question on LitePoint. You mentioned the seasonality aspect. What's the normal seasonality for LitePoint? And the second question on LitePoint is what are kind of the average lead or cycle times? How quickly do you turn those products around for those customers?
+Michael A. Bradley
+So far, I think it's going to be hard to say normal. But we think it's going to have the characteristics of being more of a midyear. If you try to pick the peak quarter, it's probably going to be Q2 to Q3 rather than the beginning or end of year quarters. What was the second question?
+Patrick J. Ho - Stifel, Nicolaus & Co., Inc., Research Division
+I just -- on the like the lead and cycle times in terms of that business relative to your other businesses.
+Gregory R. Beecher
+This is Greg. That's much quicker. It's 2 to 4 weeks. And those boxes have less variations or configurations. So it's much quicker.
+Patrick J. Ho - Stifel, Nicolaus & Co., Inc., Research Division
+Okay. So that could just increase your overall turns business for the whole company?
+Gregory R. Beecher
+It does. And I'll add to that, that the turns and some other quarters can be 90%. So they're going to be a little more difficult to forecast with their volatility, high terms business, very little service business. So we might continue to have a little bit wider range to compensate for that.
+Patrick J. Ho - Stifel, Nicolaus & Co., Inc., Research Division
+That's very helpful. Going to the hard disk drive business in terms of some of the recent events that have occurred, have you made any adjustments in terms of your lead times, your inventory management to potentially respond to any, I guess, sudden changes or requests from customers because typically I believe, and you could correct me if I'm wrong, it's typically over 3 months in terms of the lead times. Have you made any adjustments based on potential customer requests?
+Michael A. Bradley
+Patrick, we have. We're trying to position some material in the first quarter to be able to respond to the uncertainty.
+Patrick J. Ho - Stifel, Nicolaus & Co., Inc., Research Division
+Okay, great. And final question for me in terms of the overall SOC test market, if we look at -- if we're approaching a bottom as you've suggested, how do you look at the overall industry SOC test market in 2012 at this point of the game?
+Michael A. Bradley
+Well, let's see. We -- I think we do 2 things. We speculate only to the level of saying that we think this is a 1%-plus buy rate business and a $200 billion device market. So we've been sizing our operations here around a $2 billion level, which has certainly been the floor in the last 4 or 5 years, below the floor of the market, which has been in the $2.3 billion to $2.5 billion range. So in a recovery year like you had in 2010, it's stronger than this year. I think this year's number is actually going to end up at about $2.3 billion or $2.4 billion. But we exit the year at a $1.9 billion rate. So we always try to size the business conservatively, meaning sizing the expense level. But we expect to -- that market to be still in that -- I'll call it $2.3 billion to $2.5 billion range.
+Gregory R. Beecher
+I'll add one thing to what Mike just said. We've sized our cost structure for $2 billion. But our inventory pipeline is often positioned to deliver revenue between $2.3 billion, $2.5 billion, that neighborhood. So we sort of have 2 plans, a revenue plan based upon where the market has been and what we have some belief that it's reasonable. But we size it -- the cost structure at $2 billion to ensure healthy profitability.
+Operator
+Your next question comes from the line of C.J. Muse with Barclays Capital.
+Olga Levinzon - Barclays Capital, Research Division
+This is Olga calling in for C.J. Just following up on an earlier question regarding the pricing declines that you're seeing in SemiTest, can you talk about which areas or markets and specifically where you see the most pressure? And what that equates to on a blended basis in terms of year-over-year declines in pricing for your testers?
+Michael A. Bradley
+Olga, there's no particular segment or customer. It's really the competitive environment that, in some cases, there are offensive moves, and we're the aggressor. In other cases, it's defensive moves where we're moving price to protect the sector. But if you looked at the last '10 [ph], you wouldn't see a pattern either in customer or market segment or product.
+Olga Levinzon - Barclays Capital, Research Division
+Got it. And then I guess on the LitePoint targeted model. In the revised model that you offered incorporating LitePoint, does that include just existing OpEx structure or does that also incorporate your potential cost-cutting efforts as we go through 2012?
+Gregory R. Beecher
+It incorporates existing and actually added investment at LitePoint. They need to hire some more people in Asia and other locations to achieve a higher plan than the $160 million. So they're ramping up for more ambitious plan. It's not significant hiring, but some hiring. And LitePoint is doing quite well financially now. So we would certainly be on the side of investing more in LitePoint. And that's all factored into the model. We have put that in the model. So in truth, we might start off a little favorable to the model because all that spending may not be in right away in the first quarter of 2012.
+Olga Levinzon - Barclays Capital, Research Division
+Got it. And then just a clarification question on the share buybacks, you said that you had $169 million left, and so far you're really targeting just offsetting the dilution. Are you targeting a specific timing in terms of deploying the cash? Or is this more of an opportunistic type of just of monitoring the stock price?
+Gregory R. Beecher
+It's the latter. It's opportunistic. We want to be very patient in prior buybacks, whether it was Teradyne or others. Companies tend to buy back once they have a lot of cash and the authorization. And that often did not work with hindsight. So we'd rather be very patient, very patient. We have a conservative grid, pick up larger amounts as the stock goes lower and lower. So we may not meet our target in a 1-year period or 2-year period. But we think over a longer term period, it will be a better deal for the shareholders.
+Operator
+Your next question comes from the line of Satya Kumar with Credit Suisse.
+Satya Kumar - CrÃ©dit Suisse AG, Research Division
+Did you give out your utilization rate for your tests [indiscernible] with subcontractor customers [ph]?
+Michael A. Bradley
+Satya, we didn't, but I can for you. Let me put it in context from last quarter to this quarter. I think last quarter, we were describing a total utilization rate maybe -- I think we broke it down, actually. Set the OSATs, we're in the mid to high 70s. In the IDMs, we're in the 80s. That's notched down slightly. The IDMs are now in the low 80s. They're probably in the mid-80s a quarter ago. The subcons are and the mid-70s at this point. So combined, I'd put us around 80 with a slight little bias towards the under, so high 70s at this point. So it's pretty low level.
+Satya Kumar - CrÃ©dit Suisse AG, Research Division
+Just sort of macro level, when you look at the packaging in the test industry in aggregate customers, from what your subcontractors like -- will actually raise their CapEx. And they seem to be shifting a lot more of their spending to packaging, where the utilization rates seem to be a lot higher. Do you see a mix shift happening, just in the back in the test and back in the universe, where the mix is going more for packaging and the testing productivity? Or pricing pressure is sort of making the testing market go slower?
+Michael A. Bradley
+I don't think that the money is being allocated and what's left over is going to test. I think that the test productivity has been very strong over the last few years, which has allowed unit volumes to go up and the tester capital to stay at a steady rate. So the allocation is based upon technology changes and with the test industry has been doing a very good job at is improving productivity and improving the useful license systems. Now that doesn't work great for the size of the market. But we're -- that's why our focus has been on share gains.
+Satya Kumar - CrÃ©dit Suisse AG, Research Division
+A couple of quick questions on LitePoint. You mentioned it doesn't include a full quarter worth of sales. I was wondering if you can say how many weeks of sales are included in LifePoint? Is it everything after October 5?
+Gregory R. Beecher
+I'll make it easier for you. We're missing about $4 million of revenue. It was a full quarter.
+Satya Kumar - CrÃ©dit Suisse AG, Research Division
+Okay. And then if you looked at LitePoint's higher growth rates versus the market growth rates for 2012. My understanding is LitePoint's very strong in the short-range wireless test market, and the cellular market is obviously much bigger than, and we have the LTE deployment and could be a big growth opportunity as well. Is that part of the big area that you expect that LitePoint will get a lot stronger? And if that's the case, what specifically can Teradyne bring to the table that might accelerate the option rate for LitePoint and the cellular market? Maybe you can put into context the QUALCOMM licensing that you guys announced as well?
+Michael A. Bradley
+Satya, you're correct that the opportunity upside in the larger cellular market is one of the places that we think LitePoint has great growth potential. What Teradyne brings to the table -- frankly, we're trying to make sure that the engineering programs and the customer support ambition of LitePoint is met. And I think the bigger challenge is expanding in the field organization. So that's where we're trying to directly help. Longer term, there's obviously some opportunity for us to cross-pollinate on technology because we're in the device testing end and they're in the product testing end. So over a longer horizon, we intend to figure out ways that we can exploit the combination of the full range of test from semiconductor all the way to end product. But the focus right now is for us to accelerate to our larger worldwide footprint, the staffing that they need to do to get this market penetration during this next year.
+Operator
+Your final question comes from the line of Jagadish Iyer with Piper Jaffray.
+Jagadish K. Iyer - Piper Jaffray Companies, Research Division
+Mike, you talked about mobility a lot. So I just want to understand how should we think about unit growth for your testers in '12 versus '11, given your share position there, please?
+Michael A. Bradley
+Unit growth for the?
+Jagadish K. Iyer - Piper Jaffray Companies, Research Division
+For Teradyne testers in the mobility segment.
+Michael A. Bradley
+Okay, so you're talking about Semiconductor Test?
+Jagadish K. Iyer - Piper Jaffray Companies, Research Division
+Yes, yes, yes.
+Michael A. Bradley
+Let's see, I'm pausing because -- I guess, we're not looking at it in units. We look more in terms of what's going to happen in the market segments. And I can give you a picture of that if you hold just 1 second. I don't want to do this in terms of 2012, Jagadish, if that's all right, because we don't think -- well, next year we're going to have 12% more unit volume because then you get into well, which testers at which level of price performance. But I think the important thing is if you carved the Semiconductor Test SOC market into its segments, the mobility segment is a little bit underside of the market [ph]. And I want to go back to a baseline of 2008, okay, because I think that's a pre-downturn or pre-correction of 2010. We think that market, the projections we have and that the market is projecting is that, that takes -- that moves up to be about 20% of the market. So overall, that goes up 17% over the next -- from '08 to '13. So it's got a larger a piece of the pie. I would add automotive and microcontroller to that, which is actually growing a bit more than that from about 9% to 13% of our projections. So what's being offset in the PC, the chip test, microprocessor or graphic segments are declining. So when you factor all that -- and those are the kinds of numbers we're thinking about market growth. And then you layer on top of that, we think we've got a very competitive position in mobility, automotive and microcontroller. And that's what, together, gives us the projection that -- we're trying to gain 1 or 2 points of market share each year in the total market.
+Jagadish K. Iyer - Piper Jaffray Companies, Research Division
+I've got 2 quick questions. Two quick questions as a follow-up. On the LitePoint acquisition, if you think that LitePoint revenues are going to increase year-over-year, not the quarter-over-quarter fluctuation in '12, can you draw some meaningful conclusions on the overall SemiTest orders or revenue trajectory for 2012? I'm not worried about quarter-to-quarter, but overall for the year, please?
+Michael A. Bradley
+Well, I think it's what I had said. In terms of the tester market, we think the sizing that you should use -- that we would use would be in the $2.3 billion to $2.5 billion market size.
+Gregory R. Beecher
+I also think it's tricky to correlate LitePoint to SOC test because LitePoint has some sort of technological discontinuities, where new standards are being introduced, requiring a different tester. And that opens up buying. There's less of that in SemiTest.
+Jagadish K. Iyer - Piper Jaffray Companies, Research Division
+Okay. And one last question is that you had one of your customers -- NAND customers really talked about growth in SSD space. I just want to find out if there's any offering in the SSD space in the horizon? and how do you think the tester market is going to shape up for the SSD?
+Michael A. Bradley
+Yes. We're keeping an eye on the SSD module test area. And there's nothing -- we don't have products in that space at this point. But we'd certainly have technology both in the NAND test and in the storage test area that -- we're watching that market to see if it grows to a substantial size that would justify the kinds of platforms that we could develop or combine to address it. So nothing in the short term. But obviously, we're watching closely. And we think we've got a different portfolio of IP at this point to address it.
+Andrew J. Blanchard
+Everyone, this concludes today's call. Thank you for your interest in Teradyne. And we look forward to talking with you down the road.
+Gregory R. Beecher
+Thank you very much.
+Michael A. Bradley
+Thanks, everybody.
+Operator
+This concludes today's conference call. You may now disconnect.

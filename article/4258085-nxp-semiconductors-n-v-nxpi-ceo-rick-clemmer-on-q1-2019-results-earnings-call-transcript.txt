@@ -1,0 +1,318 @@
+NXP Semiconductors N.V. (NASDAQ:NXPI) Q1 2019 Results Earnings Conference Call April 30, 2019 8:00 AM ET
+Company Participants
+Jeff Palmer - VP, IR
+Rick Clemmer - CEO
+Kurt Sievers - President
+Peter Kelly - CFO
+Conference Call Participants
+John Pitzer - Credit Suisse
+William Stein - SunTrust
+Stacy Rasgon - Bernstein Research
+Vivek Arya - Bank of America Merrill Lynch
+Ross Seymore - Deutsche Bank
+Blayne Curtis - Barclays
+Craig Hettenbach - Morgan Stanley
+C.J. Muse - Evercore
+Matt Ramsay - Cohen
+Toshiya Hari - Goldman Sachs
+Harlan Sur - JPMorgan
+Operator
+Good day, ladies and gentlemen, and welcome to the Q1 2019 NXP Semiconductors Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference is being recorded.
+I would now like to introduce your host for todayâs conference Mr. Jeff Palmer, Vice President of Investor Relations. Sir, you may begin.
+Jeff Palmer
+Thanks, Meteras, and good morning everyone. Welcome to the NXP Semiconductors first quarter 2019 earnings call. With me on the call today is Rick Clemmer, NXP's CEO; Kurt Sievers, NXP's President; and Peter Kelly, our CFO.
+If you've not obtained a copy of our earnings press release, it can be found at our company website under the Investor Relations section at nxp.com. This call is being recorded and will be available for replay from our corporate website.
+Our call today will include forward-looking statements that involve risks and uncertainties that could cause NXP's results to differ materially from management's current expectations. These risks and uncertainties include, but are not limited to, statements regarding the macroeconomic impact on the specific end markets in which we operate, the sale of new and existing products, and our expectations for financial results for the second quarter of 2019. Please be reminded NXP undertakes no obligation to revise or update publicly any forward-looking statements. For a full disclosure on forward-looking statements, please refer to our press release.
+Additionally, during our call today, we will make reference to certain non-GAAP financial measures, which exclude the impact of purchase price accounting, restructuring, stock-based compensation, impairment, merger-related costs, and other charges that are primarily by discrete events that management does not consider to be directly related to NXP's underlying core operating performance.
+Pursuant to Regulation G, NXP has provided reconciliations of the non-GAAP financial measures to the most directly comparable GAAP measures in our first quarter 2019 earnings press release, which will be furnished to the SEC on Form 6-K and is available on NXP's website in the Investor Relations section at nxp.com.
+Now I would like to turn the call over to Rick.
+Rick Clemmer
+Thanks, Jeff, for that enlightening opening. And welcome everyone to our conference call today. Today we are going to take a new approach to our prepared remarks. I'll start off and provide some longer term strategic commentary, then Kurt Sievers, who is the President of the company will review the end market revenue details of Q1 and provide some revenue guidance for Q2. And finally, Peter Kelly will review the financial details of the quarter and expectations for Q2.
+Now for all of those - that have followed the company for a while, no we spend a lot of our efforts assuring that our product portfolio is aligned to the long-term customer needs in our chosen application segments. We believe if we consistently make the right product development decisions this will result in very sticky high relative market share positions and true leadership, which should allow us to outgrow the market by 1.5 times.
+If we look at a few of the major themes from our September 2018 Analyst Day and the progress we've achieved they clearly reflect the positive traction. First, our automotive sales was just over $4.5 billion in 2018. And we continue to be the number one ranked global automotive semiconductor supplier. We have gained share in the strategic areas of auto processing, ADAS radar solutions and digital clusters.
+According to the strategic strategy analytics, NXP is the leading supplier of both automotive processing and infotainment applications processors. 30% of our auto business is focused on high growth sectors like ADAS and electrification which has grown at nearly 40% in compounded growth rate since 2015 and which we expect to continue to grow at 20% - 25% to 30% compounded growth rate as the businesses becomes more material in size.
+The other 70% of our automotive business represents a very large and entrenched core business with hot barriers to entry. We anticipate our core business will grow at a modest premium to the overall auto semiconductor market.
+Our deep customer relationships with both Tier 1 suppliers, as well as the OEMs enable us to gain long-term insights into the requirements. It is these relationships, combined with our world class IP which has allowed us to expand in new high growth application solutions.
+As an example, our ADAS business which currently represents about 10% of our total automotive revenue has grown at over 50% compounded annual growth rate since 2015. In a few short years, we have emerged as the number one supplier for the complete radar subsystem, including the 77 gigahertz front-end transceivers, the ISO D [ph] compliant vacuum processing engine, power management and the high speed interconnect, all tied together with our software.
+Based on design wins, we are - that we are currently shipping and designs we have been awarded with major OEMs, we see the business continuing to grow in the high 20% range through 2021 and beyond. We believe this growth rate is about 1.4 times faster than the overall ADAS radar market, which is still in its relative infancy.
+Another new auto business we are very excited about is our Battery Management System, our BMS products for electric power trains, which we have learned from customers, particularly the actual battery manufacturers is the need to increase the efficiency and resulting range of the battery subsystem. To be able to achieve that requires the ability to monitor and take real time action on the health of the battery on a cell by cell basis. What is required is the combination of precision analog capability ISOD functional and safety expertise and deep automotive process know-how. Our team has developed a truly unique solution which combines these capabilities.
+While the business is relatively small today at about $50 million dollars on an annualized run rate basis, it has doubled over the last year, as more global auto and OEMs expand their electric vehicle offerings we are actively engaged winning designs and anticipate emerging in a leadership position versus current existing suppliers.
+We think the BMS market is a subset of the overall power control market. We expand about $800 million in 2021 at about a 30% compounded growth rate. If we expand the designs we have been awarded and are beginning to ship, we think this business could easily be several hundred million dollars of revenue in 2021.
+Now looking at our industrial and IoT business, which is about $1.8 billion in 2018, it is primarily made up of our broad microcontrollers in application processor portfolios, along with some analog attach. This is a business which is levered to the secular trends of the increased processing and security requirements of the edge in IoT market.
+NXP is in a unique position to address the market demands for higher performance microcontrollers which are combined with functional audio visual capabilities and features normally found in applications processors. We term this the crossover processing market. We see the addressable market for crossover processors growing about - from about $270 million in 2018 to just under $1.5 billion by 2023, our 40% five year compounded growth rate.
+We are already seeing great traction for this class of products which range from our RT, ULP and M scale LP families the processors. End application span from the secure AI powered factory automation and building control in the industrial space to home audio solutions enabling full Dolby Atmos support, down to high volumes, smart home in ultra low power wearable type devices.
+To be specific, we just received our Dolby 1.6 Atmos certification last week based on a multi-core crossover processor, as opposed to the previous solutions based on multi DSPs. We're seeing very good early traction on these families of processors and anticipate our crossover business will grow into a multi $100 million business by 2022. These are just three exciting product areas that we believe will differentiate NXP in the coming years.
+Clearly our strategy is yielding positive results, enabled us to aggressively return capital. Since the termination of the Qualcomm transaction through our report today, we've aggressively reduced the total number of shares outstanding by approximately 65 million shares or about 19% of the float and returned over $6 billion to our shareholders. A testament to the strong free cash flow of our business - that our business creates, based on our long-term strategic decisions.
+I'd like now to pass the call over to Kurt to discuss the results of the current quarter.
+Kurt Sievers
+Thanks, Rick. And I am blessed to be able to talk to all of you today.
+Overall Q1 results were just above the midpoint of our guidance, as NXP delivered revenue of $2.1 billion. However, due to a richer sales mix, combined with good expense control, we successfully delivered profitability towards the higher end of our guidance range.
+Looking forward, our second quarter guidance reflects the successful design win momentum and traction which we have achieved with our customers. However, while we continue to believe the demand environment in the second half of 2019 should improve versus the first half, the macroeconomic environment is still uncertain, especially in China.
+Let me turn to the Q1 trends in the end markets. Automotive. Revenue was $1.04 billion, down 8% year-on-year, in line with our guidance. It was a challenging quarter given the macro environment, especially in China.
+All major product categories declined as expected, except for revenue from our ADAS solutions which were up double-digits versus the same period from a year ago. That continued reflection of the strong customer attraction of our solutions in that space.
+In industrial and IoT revenue was $368 million, down 14% year-on-year. This was below our expectations as the demand for general purpose microcontroller products in the broad based China market continues to be very weak.
+Remember this portion of our business is very dependent on thousands of smaller customers, service through distribution who appear to be particularly affected by the U.S. China trade tensions.
+Let me turn to Mobile. Revenue was $241 million, down 9% year-on-year better than our expectations. Overall, we experienced normal seasonality in this market. Yes, as we predicted at our Analyst Day in September 2018, we are beginning to see the attach rate of mobile transaction solutions with a broader set of customers accelerate. In the premium smartphone market we did see reduced demand for custom interface products.
+Lastly, communications infrastructure and other revenue was $449 million, up 10% year-on-year with RF Power Solutions up a strong double-digit versus the year ago period.
+We are currently seeing strong order rates for both our massive MIMO and high power single channel RF power amplifiers. That demand is broad based across the spectrum of global base station OEMs.
+Based on our customer conversations most believe 2020 will be the big year for the 5G base station infrastructure build outs, especially in China. From a profit perspective, we think this translates into a phase to build out approach with sub 6 gigahertz products driving the early portion of the 5G cycle and then in 2021 and 2022 we will see carriers begin to deploy high frequency millimeter wave product.
+In digital networking, we continue to see stabilization and design interaction for the landscape family of multi-core ARM processors which is positive, so revenue contribution is just beginning.
+Now turning to our expectations for quarter two. We currently do anticipate total revenue will increase in the range of up 3% to 7% sequentially, reflecting improved order rates associated with companies specific drivers. At the midpoint of our range, this is an increase of 5% sequentially or $2.2 billion.
+From a year-over-year perspective, this represents a decline of 4% versus the same period a year ago of which 2% is the elimination of the MSA versus the year ago period.
+At the midpoint, we anticipate the following sequential trends in our businesses. Automotive is expected to be essentially flat. Industrial and IoT is expected to be up in the mid single digit range on a percentage basis. Mobile is expected to be up in the low teens range on a percentage basis. And lastly, communication infrastructure and other is expected to be up about 10%.
+Now, I would like to pass the call to Peter for a review of our financial performance. Peter?
+Peter Kelly
+Thank you, Kurt. And good morning to everyone on todays call. As Kurt has already covered the drivers of the revenue during the quarter and provided our revenue outlook for Q2, Iâll move to the financial highlights.
+In summary, our first quarter revenue performance was just above the midpoint of guidance and combined with richer sales mix and good expense control, we delivered better than anticipated non-GAAP operating profit.
+Focusing on the details of Q1. Total revenue was $2.09 billion, down 8% year-on-year of which 2% was the elimination of the MSA versus the year ago period. We generated $1.1 billion in non-GAAP gross profit and reported a non-GAAP gross margin of 52.7%, down 20 basis points year-on-year, but 40 basis points above the midpoint of guidance given the better mix.
+Total non-GAAP operating expenses were $547 million, down $37 million year-on-year and of $4 million from the fourth quarter due to bonus expenses. This was $3 million below the midpoint of our guidance.
+From a total operating and profit perspective, non-GAAP operating profit was $559 million and non-GAAP operating margin was 26.7%, down 50 basis points year-on-year despite the $175 million drop in revenue over the same period.
+Interest expense was $61 million. Non-controlling interest was $5 million and cash taxes for ongoing operations was $17 million, modestly better than the midpoint of guidance. Stock based compensation which is not included in our non-GAAP earnings was $86 million.
+Now, I'd like to turn to the changes in our cash and debt. Our total debts at the end of Q1 was $7.34 billion, essentially flat sequentially. Cash was $2.19 billion and net debt was $5.15 billion.
+We exited the quarter with a trailing 12 month adjusted EBITDA of $3.1 [ph] billion and our ratio of net debt to trailing 12 month adjusted EBITDA at the end of Q1 was $1.65 times and our non-GAAP interest coverage was nine times.
+Our liquidity is excellent and our balance sheet continues to be very strong. During the first quarter, we returned $788 million to shareholders as we bought about 8.5 million for $715 million and paid $73 million in cash dividends.
+Turning to working capital metrics, days of inventory was 113 days, an increase of 11 days sequentially, although inventory on a dollar basis declined $38 million. We continued to aggressively manage our distribution channel and inventory in the channel continues to be a very healthy 2.4 months in line with our long-term targets.
+Days receivable were 35 days, an increase of 5 days sequentially and days payable were 74, a decrease of 6 days versus the prior quarter. Taken together, our cash conversion cycle was 74 days, a deterioration of 22 days versus the prior quarter due to lower sales. Cash flow from operations was $296 million and net CapEx was $144 million resulting in free cash flow of $152 million.
+Turning to our expectations for the second quarter. As Kurt mentioned, we anticipate Q2 revenue to be about $2.2 billion, plus or minus $50 million. At the midpoint this is up 5% sequentially and we expect non-GAAP gross margin to be about 53.3% plus or minus 50 basis points.
+Operating expenses are expected to be about - are expected to be about $553 million plus or minus about $10 million. And taken together, we see non-GAAP operating margin to be about 28% plus or minus about 60 basis points.
+We estimate interest expense to be about $64 million and anticipate cash tax related to ongoing operations to be about $38 million. Non-controlling interest will be about $6 million, a reflection of our reduced loadings in SSMC.
+I would like to provide an update on our share repurchase program. As previously mentioned, during the first quarter we bought back approximately 8.5 million shares at a cost of $715 million.
+Since March 31, we have repurchased an additional 2.5 million shares at a cost of about $252 million under our 10b5 program. We suggest that for modeling purposes you use an average share count for Q2 of $287 million.
+Finally, I have some closing comments I'd like to make. As Rick highlighted, NXP has multiple unique drivers of growth which will play out over the coming years. We see our product portfolio as ideally positioned to address multiple secular market trends from the evolution of next generation automobiles, all the way to securely connected edge and IoT devices.
+As Kurt pointed out our revenue for the first quarter was slightly better than guidance with a richer sales mix combined with good expense control, taken together resulted in a better than guided non-GAAP operating margin. And while our gross margin improved in Q1 and we anticipate an improvement in Q2, we still have work to do to achieve our long-term targets. But we continue to anticipate achieving our intermediate target of 55% exiting the fourth quarter of 2019.
+We continue to believe our cash tax rate related to ongoing operations for 2019 should be about 5%. We continue to be committed to returning all excess free â all excess free cash flow to our owners and we currently have approximately 3.7 million shares remaining under the current authorization.
+So with that, I'd like now to turn it back to the operator for any questions you might have.
+Question-and-Answer Session
+Operator
+Thank you. [Operator Instructions] Our first question comes from John Pitzer with Credit Suisse. You may proceed.
+John Pitzer
+Yeah, guys. Thanks. Let me ask the question in pursuit all the team. So I wanted to ask a little bit about the industrial IoT sentiment and the expectations for the calendar second quarter. You're coming off a Q1 where you modestly missed your expectations, but you aren't guiding it up sort of single digits. I am wondering if you could help sort of understand from bottoms up perspective just given all the macro uncertainty why the confidence level of sequential growth and as you answer that question could this remind us what normal seasonality is for that business in Q2?
+Peter Kelly
+Well, we're not really going to guide the second half of the year, John. First of all, in terms of Q2 as always our revenue is based on our backlog and what we believe will - I will book and certainly the industrial market particularly in China has been difficult in Q1 and Q2.
+But I guess your third question hidden in there was, what's normal seasonality? I would 'd say, you know, 2019 you throw normal seasonality out the window really, it's really hard to say what might happen, certainly as we thought Q2 is a strong - Q2 is stronger than Q1 and the second half we think we'll likely be stronger than the first half. But beyond that, I don't know Rick would you say much more beyond that.
+Rick Clemmer
+So I think the key John is the specific design wins we have that will drive our revenue increase, its not about an expectation of a rebound in the marketplace, but more of kind of a stabilization. And frankly, you know, China continues to be which is clearly a large market for us from an industrial perspective continues to be somewhat frozen.
+You know, our distributors or partners are becoming somewhat encouraged, but the end customers are still quite reticent based on the trade uncertainty and the general environment about what's going to take place.
+But what's really give me â us the confidence in the outlook that we have is the specific customer design wins with a ramp up of those new designs that will allow us to outperform the general market.
+Kurt Sievers
+The one thing that was interesting John is just going to Rick's comment there on the - what our distribution partners are thinking, we probably could have shipped about another $42 million worth of product at the end of - at the end of the quarter in terms of what distribution is asking for. But we were not seeing them ship it out to their end customers. So we we've not allowed them to take that product yet.
+So it is interesting that, but we see a little bit of strength in POA, but we haven't seen the additional or more importantly the strength in POS yet.
+John Pitzer
+That's helpful. And then maybe for my follow on, lot of conversation about China U.S. trade relations. I'm wondering relative to autos if you can talk about U.S., Europe and what's going on around potential tariffs around mission. And as you look at your guidance for Q2 kind of flat revenue growth Q-on-Q How are you thinking about sort of overall industry production versus company specific drive NXP like to rate some?
+Kurt Sievers
+Let me take this. We - when we think about the car production, we really look at the forecasts of IHS mainly, which had deteriorated a little bit since our last call. I think we talked about like minus 0.4 for the global reduction in 2019 over â18. by now the IHS forecast was minus 0.9%, so almost minus 1% which clearly did not have a great start in China. So the China Q1 production number in 2019 was actually minus 13%.
+Now if you look at the forecast for the full year being minus 0.9% only in quotes that means IHS obviously does project a rebound in both Europe and China in the second half of the year. And that's largely what we take as the basis for our forecast. So with that we also believe our business is going to be stronger in the second half of the year relative to the first half of the year.
+And yes, you were rightfully pointing to that part of our business, which is largely independent of that, most prominent factor, certainly the radar business. We did say it in the prepared notes earlier, we are on track here in Q1 and we see this also for Q2 and the rest of the year to be in the high 20% range in year-on-year growth, so Europe 25% to 30% growth in radar, which is a perfect continuation of the trends which we've also seen over the past years already.
+John Pitzer
+Thanks, guys.
+Rick Clemmer
+Thanks, John.
+Operator
+And our next question comes from William Stein with SunTrust. You may proceed.
+William Stein
+Hey. Thanks for taking my questions. Also too on the demand side. I think with regard to your Q2 guidance, I think both your infrastructure and handset business look like they're being guided above seasonality. Can you dig a little bit into the trends, especially in - well in each of them, really? Thank you.
+Rick Clemmer
+Well, I think the key on the communications side is really the some of the early deployment of 5G which we clearly being a near-term acceleration. And then we think that we'll go through it a little bit of a lull for a period where we won't see that continued growth. But clearly very positive for us in Q2 and a positive contribution.
+In Mobile it really comes down to the continued deployment of the mobile wallet, in the applications that we've been referring to in the past. We're beginning to see that come to fruition with developing countries and new customers really offering opportunities to drive the growth rates that we're talking about for Q2.
+A - Kurt Sievers
+Yes, so that's let me ask you this. This really falls in line with the longer term trends which we called it earlier. So from a tax rate of about 2% last year, we see the mobile wallet of tax rate going to 50% in 2021 and that's well on track and that's actually behind the growth forecast for you do in mobile.
+William Stein
+If I could just dig into one of those first sec Rick, I think you mentioned something about DN getting new design wins, that business has been challenged for some time, is this sort of a turnaround we should expect here with growth going forward and sort of reacceleration business?
+Rick Clemmer
+Well, we didn't try to say that, what we did say was the decline we think is under control. I think we had been getting design wins to be fair through this period of time. It's just that the revenue ramp associated with those had been delayed. And what we are now beginning to see is some of the revenue increases from those new design wins growing faster than the declines of the older legacy business, which created so much pressure over the last few years as you're well aware.
+We are encouraged about our DN in business and the design wins we have though and the full engagement and the opportunity to participate in a number of new areas where we really operate differentiated technology with some of our software defined radio technology that gets our customers the ability to expand into different networking innovative networking applications.
+William Stein
+Thanks for the detail.
+Rick Clemmer
+Thanks, Will.
+Operator
+Our next question comes from Stacy Rasgon with Bernstein Research. You may proceed.
+Stacy Rasgon
+Hi, guys. Thanks for taking my questions. So the first one, wanted to hit on, on margins, I know you said you're still holding to the exit rate of 55%. Can you just talk a little bit about gross margin drivers? I guess in Q2 and then through the rest of the year that's going to get you there, as well as your thoughts on OpEx and operating margins as we go through the rest of the year?
+Peter Kelly
+Well, on gross margin, I'll just go back to exactly what I said to last year because â last quarter because I think that best illustrates where we are on flat volume from a flat revenue from Q4 â18 to Q4 â19.
+It's basically 200 basis points of sale-held and it's not any one single individual item you know, we've got a bunch of things going on in test to - test times and yields and there's a bunch of I guess the largest part of it is savings that we have tied up with our supplier pricing. So that - that really hasn't changed at all.
+And in terms of OpEx, what we said to you, you should think whatever your number is for the full year take 16% of that we're in our annual R&D number and 7.5% for SG&A number and I guess given now that we've given you the Q2 number, a portion of difference over Q3 and Q4 based on how you think revenue is happening.
+Within OpEx you know, the big changes you see from quarter-to-quarter, typically more around what we're doing from a max [ph] perspective than anything else. Right now we're not really - we're not really hiring, you know, clearly there are some critical replacements we put in place. But we're trying to keep a cap on our costs and I think - I think what you saw in Q2 is we're able to manage our expense pretty well actually.
+Rick Clemmer
+I think that's really important, Stacy, you know, as we look at it with the current environment we see, we're keeping our expenses completely under control and keeping them fairly constrained. We clearly will have investments that we need to ramp up when we see a robust return to the marketplace. But clearly that's not something that we're - that's in the line of sight that we have today. As we talked about the ramp up, we see in revenue as more customer specific and design wins specific than the general market improvement.
+Stacy Rasgon
+Got it. Thank you. My follow up, I want to ask about the distribution channel, so I'm glad to see that you guys are monitoring tightly, but I don't understand, you said that this channel could have taken an additional $42 million in revenue that you chose not to shift.
+But how do I reconcile that with your comments on the general uncertainty in cautioning the market, why would the channel be looking to take additional inventory if the environment is so uncertain. Unless that has some implications for other truly seeing, how they're truly viewing the outlook through the second half, justâ¦
+Rick Clemmer
+I don't â Stacy, I don't think you should read too much into that. I think the point is we had the orders from distis [ph] that they had the confidence, that they will need the requirements that would have driven a $40 million additional revenue for us. But without seeing the pickup in actual shipments out from the distributors, we chose not to ship that in because that would have obviously increased our months of inventory and we're very focused on maintaining that around the 2.4 range.
+I think you know, the distributors are more encouraged than I've seen them in a - in a few months, but it's not really materializing into shipments out to their customers in a significant fashion. So I think it's more of a general indicator, but it's clearly hasn't resulted in improved business yet.
+Stacy Rasgon
+I guess, what I'm asking is, what do you think is driving that sort of improved outlook from - with that improved confidence from them. Because you don't seem to be seeing it in most other places don't seem to be seeing it just yet. Or is it just a whole fun in general like that this second half better or what?
+Rick Clemmer
+I think it's just their business planning, as they go through it and look at what their plans are, they've placed orders that would have driven and further increase in our shipments into distribution, which obviously we chose not to do based on the impact that would have had on inventory levels.
+Peter Kelly
+But to be clear, it wasn't one order from one distributor, right. It was across the distribution.
+Stacy Rasgon
+Got it. Okay. Thank you, guys. Appreciate it.
+Rick Clemmer
+Thanks, Stacy.
+Operator
+And our next question comes from Vivek Arya with Bank of America Merrill Lynch. You may proceed.
+Vivek Arya
+Thanks for taking my question. The first one for Rick or Kurt, the Q2 sales outlook is among the best that we have seen in your peer group who were all complaining about the China weakness which is kind of surprising because my sense is that the NXP is perhaps you know, relatively more exposed to that market.
+So maybe could you give us some sense of trends you're seeing. I think you mentioned China is kind of frozen. So the trend you're seeing in Q2 is that you know, a measure of your own company specific design win activity or are you just seeing better trends outside of China. Can you just give us some quantification of what you are seeing in and outside of China?
+Rick Clemmer
+Yes. So I think it's really important to understand that our guidance is based on company specific design wins that we have with customers that give us the confidence about our Q2 revenue outlook.
+If you look at the market, the market in China continues to be pretty frozen and we don't see a robust recovery coming yet. There's still a great deal of concern relative to the trade activities and the uncertainty associated with it.
+I think if you look at Europe, Europe has been kind of okay, but you know, it's actually maybe even softened a little bit recently. It's not clearly a robust improvement. And US continues to operate quite fine.
+So I think all of that comes together, but clearly our revenue increase is based on company specific design wins which we've been working on for a long period of time and we're now beginning to see the results of that design activity that we've had.
+Vivek Arya
+And so my follow up, on the automotive business the revenues on a quarterly basis have been in this $1 billion, $1.1 billion range for the last two years now. I'm curious at what point do you think all the new activities you mentioned whether it's an ADAS or radar or BMS can help your overall automotive business get back into a target growth rate which I think you had at a 7% to 10% CAGR on a longer term perspective? Thank you.
+Peter Kelly
+Well, I would say they do have right now, because it's about 30% of the total revenue which - which is way above average in terms of growth. So once the other 70% based on the SAAR comes back to a normal growth rate you will see this striking through for the total. So - and obviously with these above average growth engines, like radar or BMS, or the digital clusters of course, gaining share against the total this will become more and more material all the time. This is today a 30% period since it grows far above average the 30% percent of course they'll take a higher share in the coming in years.
+Rick Clemmer
+I think the real clear thing is the reason we haven't seen our total growth is because of the general automotive market and the declines in production. So the fact is we've been able to hold that level on our shipments based on those new product areas. And as the general automotive market production levels come back to more of a normal basis, clearly it will kick in and drive revenue growth for us as a company.
+Vivek Arya
+Thank you.
+Operator
+And our next question comes from Ross Seymore with Deutsche Bank. You may proceed.
+Ross Seymore
+Hey, guys. Thanks for letting me ask a question. I want to stick on the automotive side of things, and between the first quarter report and your second quarter guide it looks like you're down in auto 8%, 10% year-over-year and I understand it's a tough market for all the reasons you've given in answering prior questions.
+But if we think about that relative to SAAR, the last couple of years you guys have outperformed SAAR. You have the 30% driver et cetera. and then you outgrow it even in the 70%, but it doesn't seem like that's happening in the first half of the year.
+Can you talk about some of those drivers, is it simply the inventory burn in the first half, is your expectation still to be able to outgrow the SAAR side of things and even the automotive semi peers as we get through 2019 and beyond?
+Kurt Sievers
+So yes, clearly the expectation is to continue to outgrow the auto SAAR. It just doesn't work on a on a quarter-by-quarter basis. I mean, you have to look at a little bit longer time. We started this also historically, its just swinging and one single quarter doesn't really - doesn't really work.
+But yes, clearly we will continue to outgrow the overall auto SAAR by say 5% to 7%. That has been the basis and continues to be the basis for mid and long term forecast which is like 7% to 10% which was based on a 2% percent SAAR. Now if the SAAR in a couple of quarters returns to more normal rates like zero to 2% we are also back to that growth rate.
+Relative to peers, I mean, I don't know what peers will print all that time, but clearly in our chosen fields of focus which we also mentioned at the beginning of the call very clearly, be it's a battery management for the electric power train or be it radar within the ADAS space, we have outgrown and we believe continue to outgrow also our peers very clearly.
+Ross Seymore
+Thanks for that Kurt. And my follow up is one of the cast returns, probably for Peter. I know you have a couple million shares left to buy in the currently approved authorization. Can you just talk about the logistics to expand that and how you're planning to return cash and the balance between share repurchase and the dividend as we think going forward beyond this share repurchase program that's about to expire?
+Peter Kelly
+Yeah, we can - actually we can buyback about another 3.7 million shares between now and our annual general meeting which is in June. So in June we'll request the authorization for our shareholders to have a general buyback capability of - I think it's 20%. That doesn't mean weâre - at that point saying we're going to buy about 3% of the stock. But normally a Dutch company runs with this 20% allowance in its back pocket. But no one ever spends it as Rick mentioned before we basically just spent in the last six months which is kind of unusual.
+So in June we'll get that topped up. But more generally our commitment is to return all excess cash flow to our shareholders. We have a history of living to that commitment and we'll continue to - we'll continue to do it. And we will continue to have a dividend and you know and we'll get that chance as we go forward to possibly potentially increase that dividend next year.
+Ross Seymore
+Thanks, Peter
+Operator
+And our next question comes from Blayne Curtis with Barclays. You may proceed.
+Blayne Curtis
+Hey, guys. Thanks for taking my question. I just want to revisit the RF segment. It looks like it's re-acerbating in June, just kind of curious your perspective on that trajectory this year and the next. There's been some talk about maybe customers positioning ahead of Chinese tenders, so maybe you get a little front loading, just kind of curious your view there and then any perspective on your GaN [ph] product would be helpful? Thanks.
+Rick Clemmer
+Yeah. So I don't think we see a lot of pre-ordering associated with that. What we really are seeing is a ramp up of deployment of our massive MIMO solutions which we've had quite a success in the marketplace and frankly we're limited by our manufacturing capability right now.
+So I think that's really kind of the contributing factor for us. It's not about - I think the term you used was pre-orders associated with Chinese. We don't see that as being a significant factor in our Q2 guidance. But instead the massive MIMO results.
+Our GaN solutions continue to be well-received in the market. We continue to win design wins and frankly it's a challenge to be able to supply all the customer requirements associated with it. And we do have our internal manufacturing facility to be ramping later this year associated with GaN.
+So I think we're in - we believe quite reasonable shape in GaN and I think we can continue to take our leadership position in the base section RF market even as the market converts more to GaN. But the timing of the transition to GaN has clearly changed over the last few years and frankly the massive MIMO opportunity represents a much more significant growth we believe that in the next number of quarters a year and a half or so then really the opportunities specifically associated with GaN. and the LD Moss [ph] technology has clearly moved up and been able to move into higher performance than what people would have anticipated several years ago.
+Blayne Curtis
+Thanks. And then just want to follow up on the comments you know on BMS, you talked about several $100 million potential in 2021, as you wrap any color in terms of view geographic in any sort of between now and 2021. Is there anything else that has to happen in terms of that design program? Thanks.
+Rick Clemmer
+Well, the focus from a positive perspective is really the battery companies. So we do work not that much with the classic automotive Tier 1 companies but with the battery companies and they tend to be by definition more in Asia and in Europe or in the U.S. So I would say from a from a geographic design in perspective a single box China, Korea, even Japan not that doesn't mean that that has to do with the local consumption there. It's just that they are the leaders globally in battery technology and lithium ion battery technology, but they do ship and we do have some transparency into this in which we have a programs are ramping that's absolutely global. I mean, I wouldn't make any differentiation there between the European, U.S. or Asian car programs.
+Kurt Sievers
+And the initial production is quite exciting platform.
+Rick Clemmer
+Yeah. So I mean, I I'm still trying to say it because it is just about to launch, but actually it's a lot a very, very large German car OEM which is which has its empire electric power train battery platform based on our solution. And the first cars which are very nice high end sports cars which I think we'd love to have while they are sold out by the way for the next two years as far as I know, they will launch in late summer this year.
+But again that that's a platform win which is then going to - actually go and spread out into all of the electric vehicles will step out off that car company. So again that happens to be a German company, but that doesn't mean that the rest of the battery work has been done with a German battery company which doesn't exist but actually all in Asia.
+So it's a very global business. I think we stand very strong based on the combination of all of our analog position of our [indiscernible] function as if you know how in the microcontrollers which we have, so that system approach continues to give us a unique position in that market.
+Blayne Curtis
+Helpful, thanks.
+Operator
+And our next question comes from Craig Hettenbach with Morgan Stanley. You may proceed.
+Craig Hettenbach
+Yes, thank you. I have a question on industrial IoT, if you can just talk about kind of a attach rate with connectivity with core microcontroller and then the update on some of the trends you're seeing along those lines?
+Rick Clemmer
+Yeah, I think we've talked about you know, that the connectivity requirements for low power Wi-Fi associated with industrial and IoT market, we announced some partnerships in the previous - in the most recent quarter that one of those in specifically was an announcement with Murata and Cypress associated with a solution that we're offering, but we continue to see high demand from our customers looking for a complete solution with the connectivity to go with our processing capability to be able to facilitate their solutions and what they're trying to accomplish.
+Craig Hettenbach
+All right. And then just to follow up, appreciate the calling on the channel and inventory. Any updates on just kind of how lead times are. And then just you know the comments around kind of overall the market's stable just kind of how things were through the quarter you know is it still kind of choppy intra quarter or anything along those lines on the order front?
+Rick Clemmer
+So I guess on the order front you know as we talk a little bit about you know, we've actually seen an improvement in orders, so we don't see the sell-through from our distribution partners picking up specifically in China. So I think while we've seen that increased order activity we're a little bit reluctant to expect that to really fall through to the customers in the near term or in Q2 timeframe and thus we're relying on the specific design wins that we have to be able to achieve the revenue increase that we have and I'm sorry I forgot your first.
+Kurt Sievers
+We basically maintain our lead times. We don'tâ¦
+Rick Clemmer
+OEMsâ¦
+Kurt Sievers
+Times around like maybe some of the â some of the new guys.
+Rick Clemmer
+Yeah, we we're pretty religious about our lead times, if someone wants to place an order within the lead times, we actually evidence we charge him a premium associate with being able to meet those requirements.
+Craig Hettenbach
+Got it. Thanks.
+Rick Clemmer
+Thanks.
+Operator
+And our next question comes from C.J. Muse with Evercore. You may proceed.
+C.J. Muse
+Yeah. Good morning. Good afternoon. Thank you for taking my question. I guess, first question NXPI specific design when momentum is clearly a key theme on this call, so curious as you look at your second half outlook for continued recovery is that NXPI specific again. Or is that something cyclically structurally that where you see improvements?
+Rick Clemmer
+Like you know, we're not - we're not talking about the second half as far as projections associated with it beyond, what we said that Q2, I mean, second half will be about the first half. The confidence we have is clearly associated with the design wins we have and that being able to facilitate that.
+Although you know, there should be some nominal pick up in market even if there's not a robust recovery in the second half.
+C.J. Muse
+Helpful. Well, then I guess as a follow up. The mobile upload teams in June, I guess a bit surprising seasonally, curious how we should interpret that in terms of impact and what the run rate will look like into the second half of 2019?
+Rick Clemmer
+That's a design wins that we talked about in the improved acceptance of our mobile wallet. So it's kind of continues down that same path and we expect that to continue as Kurt talked about from the - from the you know 30% to 50% by 2021. So we're kind of on course to be able to maintain that and see a wider acceptance with more customers in different applications to continue to increase our confidence in it.
+You know, we're a niche player in the mobile market. We're not a mainline player in the mobile market and don't ever plan to be a mainline player, but instead can take unique technology to drive applications for customers. They just happen to be deployed in the mobile market.
+C.J. Muse
+Thanks, Rick.
+Operator
+And our next question comes from Matt Ramsay with Cohen. You may proceed.
+Matt Ramsay
+Thank you very much. Kurt, I wanted to ask a question just on the automotive semi's macro just as more of a clarification than anything, the ADAS business that you have 30% your business obviously has really strong growth. The other 70% that's been commented a few times is tied to SAAR. But I wanted to make sure we made the distinction between SAAR growth and semiconductor growth within the SAAR. Maybe you could sort of remind us what you guys are forecasting for market growth for the semiconductor macro within this SAAR? Thanks.
+Kurt Sievers
+Well, let me first to try and clarify when we say the 70% are tied to the SAAR, we still outgrow the SAAR. So there is still content growth obviously it should be at least 5% ahead of the SAAR, also in that 70% portion of our business.
+When we say type to SAAR, what that really means is since it is closer to the SAAR it swings more with the SAAR, where in Radar maybe grows say 30% year on year, I mean the SAAR with the 2%, 3% change actually doesn't matter. I mean, that was the commentary we made about association on long association with the SAAR.
+So that's why I would say the semi auto market should continue, thanks to the content increase across the board should continue to be I don't know 4% or 5% ahead of SAAR through the cycle and through the year.
+The more crucial question is actually what the SAAR is going to be. And I mentioned earlier on the call that some that Q1 wasn't a particularly great start. So IHS was reporting Europe minus 8% year on year in Q1 in car production and China minus 13%. And those are two pretty significant factors, while IHS still forecast for the year that this gets better in the second half which results in minus 1% for the full year which should indicate a positive or semiconductor market for the full year.
+Rick Clemmer
+Yeah, it's really important to think about the mix of that SAAR as well. If you look at it China is like double the size of the U.S. market and Europe is larger than the U.S. market. So in fact the two largest regions for SAAR production were quite weak in the first quarter.
+Matt Ramsay
+Got it. Thank you very much for the clarification. Just one quick follow up on BMD because its been brought up a few times. Maybe just curious as to your focus or strategy for the charging side of the battery equation whether that's supercharger or infrastructure et cetera. If you're doing any work there? Thank you.
+Rick Clemmer
+No we don't.
+Kurt Sievers
+On the automotive side, we do have charging mobile for mobile device.
+Matt Ramsay
+Got it. Thank you.
+Operator
+And our next question comes from the Toshiya Hari with Goldman Sachs. You may proceed.
+Toshiya Hari
+Thanks very much for squeezing me in. Peter, I had a follow up question on gross margins. You talked about richer product mix driving your profitability in Q2. Can you talk to some of the product areas that drove the upside there.
+And related to that, Rick you talked extensively about ADAS and BMS as long term drivers. Can you speak to profitability for those two segments as they continue grow as a percentage of sales going forward?
+Peter Kelly
+So we don't disclose profitability by segments either the gross margin or the operating margin level. So it was you know - there's just lots of moving parts as I've said previously. You have the big groups do have slightly different margin profiles, but within the groups you have different product sets which have different margin profiles as well. And that turned out pretty nicely for us this quarter.
+Rick Clemmer
+I mean, it maybe we're a little bit conservative going into the.
+Peter Kelly
+Yeah, the mix comment was really more focused on Q1 helping facilitate that. And then I guess the only thing that we could say ADAS and BMS margins are quite nice.
+Toshiya Hari
+Okay. That's helpful. And then as a quick follow the comps [ph] in another segment I believe the long term growth rate from your Analyst Day is flat top 2%. Given the recent developments there and given your commentary on the call is that a pretty conservative kind of guide at this point and could there be potential upside or do you think that near-term strength could be a one off in nature if you will? Thank you.
+Peter Kelly
+Well, you know there there's always gives and takes associated with it. So I don't think we're going back and changing our long term guidance at all. Clearly in the near-term it's a positive contributor and helps us kind of offset the general market weakness that we see. But clearly we were pretty conservative on that segment and we said that at the time that we said the growth guidance. So there could be opportunity for upside, but it's always some gives and takes and we're not really changing any of our long term guidance at all.
+Toshiya Hari
+Thank you.
+Jeff Palmer
+Operator we'll take one more call.
+Operator
+And our next question comes from Harlan Sur with JPMorgan. You may proceed.
+Harlan Sur
+Morning. Thanks for taking my question. On the industrial and IoT segment in the June quarter you talked about companies specific design wins, is a pretty broad based segment you've got [indiscernible] high performance analog, wireless connectivity can just help us understand given the strong design win pipeline what are the specific applications or products or platforms that are driving the sequential growth is this and is it biased more towards things like building automation or factory automation or connected home any insights would be helpful?
+Rick Clemmer
+So it's more on the crossover segment is I think the key where we anticipate seeing the significant growth contribution, its the crossover segment where we're kind of uniquely positioned and as far as driving the growth it's a lot more on the on fitness track, the wearables segment than anything else.
+So I think over the intermediate term there is a lot like the immersive sound solutions that we have to be able to differentiate on the Dolby Atmos capability, a lot of factory automation that are spread among many thousands of customers.
+Kurt Sievers
+And maybe adding voice assist. So it's really four areas the variables which you mentioned Rick industrial automation, which is an analog detection and that kind of stuff. Voice assist into a lot of home solutions and industrial and finally the sound bars where I think you regularly spoke about the [indiscernible] certification. 
+I'd say it's those four very different segments but they all use all the crossover technology.
+Harlan Sur
+Yeah. Thanks for the insights there and insights into the RT [ph] crossover platform.
+Rick Clemmer
+Specific Harlan, it's not just RT, our crossover family processors is a combination of RT, ULP and M scale [ph] So it's a combination of those not just RT.
+Kurt Sievers
+It's actually a broad - broadening category which is very good - which I would almost say we are creating between the micros and the application process. So while that started really with a soft focus on the arty I think we are broadening this because we have so much direction that we become put more into it.
+Rick Clemmer
+Basically bringing some of the function specific functionality that you could normally only get in a in a very costly apps processor down to a more reasonable cost point for a broader array of implementations.
+Harlan Sur
+And that's a good segway into my next question which is that, when we think about your full blown process and family [indiscernible] NX family which we typically associate with auto, I don't MX actually you know continues to have actually I think strong traction in the industrial and IoT edge markets, for example like your i.MX eight each family that's actually 14 nanometer technology. Can you guys just help us understand the contribution and design win traction of the i.MX in industrial and IoT markets?
+Rick Clemmer
+It's significant. You know, I don't â Kurt, talked about these specific applications that we see in the broad base associated with that and we continue to have good traction but it's a broad array of customers and not any individual single solution.
+Harlan Sur
+Great. Thanks for the insights.
+Rick Clemmer
+Thanks, Harlan.
+Operator
+Thank you. Ladies and gentlemen, this now concludes our Q&A portion of of todayâs conference. I would now like to turn the call back over to Jeff Palmer for any closing remarks.
+Jeff Palmer
+Maybe I'll make a few closing remarks as opposed to Jeff. But you know, I think we were very pleased with our quarterly results in Q1 and encouraged about the customer acceptance that we have that allows us to have the guidance for Q2. That opportunity continue to gain traction with the design wins and make a difference for our customers is really about our long term strategy and how we're focused on customer focused Passion to Win to be able to drive our solutions to be able to make a difference with our customers and we're encouraged about being able to demonstrate the comprehensive results associated with that. So thanks a lot for your support and we appreciate it.
+Rick Clemmer
+Thank you.
+Operator
+Ladies and gentlemen, thank you for attending today's conference. This does conclude the program. You may all disconnect. Everyone have a great day.+

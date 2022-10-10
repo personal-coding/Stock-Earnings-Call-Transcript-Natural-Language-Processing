@@ -1,0 +1,319 @@
+TriQuint Semiconductor (TQNT) Q2 2011 Earnings Call July 27, 2011 5:00 PM ET
+Executives
+Steven Buhaly - Chief Financial Officer, Principal Accounting Officer, Vice President of Finance & Administration and Secretary
+Ralph Quinsey - Chief Executive Officer, President and Executive Director
+Analysts
+Nathan Johnsen - Pacific Crest Securities
+Blayne Curtis - Barclays Capital
+Scott Searle - Merriman Capital, Inc.
+William Dezellem - Tieton Capital Management
+Parag Agarwal - UBS Investment Bank
+Todd Koffman - Raymond James & Associates, Inc.
+Edward Snyder - Charter Equity Research
+Anthony Stoss - Craig-Hallum Capital Group LLC
+David Duley - Merriman
+Dale Pfau - Cantor Fitzgerald & Co.
+Aalok Shah - D.A. Davidson & Co.
+Unknown Analyst - 
+Quinn Bolton - Needham & Company, LLC
+Operator
+Good afternoon. My name is Jeremy, and I will be your conference operator today. At this time, I would like to welcome everyone to the TriQuint Semiconductor Second Quarter Earnings Call. [Operator Instructions] Thank you. Mr. Buhaly, you may begin your conference.
+Steven Buhaly
+Good afternoon, and welcome to our second quarter 2011 conference call. This call will include forward-looking statements about TriQuint's business and projected financial results. Results could differ materially based on factors, including those described in our reports on Forms 10-K and 10-Q and other filings with the Securities and Exchange Commission.
+All numbers will be presented on a non-GAAP basis. Non-GAAP financial measures report tax on a cash basis and exclude equity compensation charges, entries associated with acquisitions and other specifically identified nonroutine items. These non-GAAP measures are provided to enhance understanding of our core operating performance. A full reconciliation of this non-GAAP measures to our GAAP results is in our press release and in the Investor section of our website. Ralph will now provide an overview of the quarter.
+Ralph Quinsey
+Thank you, Steve, and welcome to those on the call. This afternoon, I will provide an overview of Q2 results with additional color for our major markets. Steve will follow with a detailed look at Q2 and specific Q3 financial guidance. I will then summarize and open the call for questions.
+ 
+TriQuint's revenue for Q2 was $229 million. EPS was $0.17 and at the midpoint of our guidance. Legal expenses related to our antitrust and IP claims against Avago were $7.5 million. TriQuint's core earnings defined as non-GAAP earnings, excluding legal expenses, were up 15% sequentially, benefiting from improved gross margins and nearly flat operating expenses. Year-to-date revenue was up 17% as compared to the first half of 2010. Comparing the same periods, Mobile Devices revenue is up 29%, while Networks is flat and Defense and Aerospace is down 17%. I expect litigation costs to come down in Q3 as we complete the discovery phase of the process. To summarize our position, we believe Avago designed and executed a series of actions intended to limit choice in the BAW market, eliminate TriQuint as a competitor and discourage new entrants. As a result, we believe Avago violated U.S. antitrust laws and we are seeking triple damages for the harm their actions have caused us. Our case is about preserving an open and competitive marketplace. 
+I will now provide additional detail for our major markets. Starting with Mobile Devices, our revenue was up 19% as compared to Q2 2010 and up to 29% year-to-date as compared to the first half of last year. Revenue from wideband CDMA products, which supports the smartphone and data card markets, was up 66% as compared to the first half of 2010. As I have previously discussed, due to GaAs and BAW supply constraints last year, we shifted capacity and focus from 2G products to 3G and LTE, resulting in a decline in GSM and legacy CDMA revenue. Our GSM revenue is down 68% as compared to the first half of last year and legacy CDMA revenue is down 46%. Wideband CDMA growth has more than offset the decline, but the transition has muted growth for Q2 and Q3. I expect to return to solid sequential growth in Q4. 
+The RF content expansion within a smartphone is creating a rising tide of demand. 3G penetration remains at an early stage and multiple bands of LTE or 4G are creating a large and exciting new wave of revenue opportunities for amplifiers and high-value, high-performance duplexers. For this new 4G market, which will likely start as discretes and move to integration, TriQuint's opportunity is nearly double many of our competitors, who only sell power amplifiers or only sell duplexers. With all this RF complexity, we are entering the next phase of expansion for solution size and flexibility that become the critical customer requirement. 
+Phone designers are working to reduce circuit board size to create more space for batteries. This puts pressure on space for components and routing. The RF section of a typical smartphone being designed today, if done discretely, may require dozens of separate components. Designing this level of RF complexity on the printed circuit board of phone is a major challenge, and customers are increasingly asking for integration to reduce size and time-to-market. Different chipset suppliers have embraced a mixture of RF architectures, ranging from discrete lineups to various integration approaches. 
+One of these integrated PA architectures is referred to as an MMPA or multimode power amplifier. This is the current approach on the Qualcomm reference design, and TriQuint is the preferred supplier on this reference design. We are currently sampling the MMPA and are targeting design wins at key customers in China and Taiwan. Though TriQuint actively supports a variety of RF solutions, including discrete, MMPA, broadband and converged, we believe the bulk of the industry volume has been and will continue to migrate towards PA-Duplexers. PA-Duplexers offer a clear advantage in layout flexibility and solution size. 
+TriQuint has been very successful with our first 3 generations of PA-Duplexers, and we are currently ramping TRITIUM IV with a reduced footprint and reduced current consumption. We are now sampling our next-generation TRITIUM, which are 2 PA-Duplexers in 1 package. These products bring higher levels of integration in the smallest RF solution size available to customers, reducing footprint by up to 50% as compared to discretes. Equally important, the PA-Duplexer approach is modular and easily supports both high-end and low-end smartphones. In short, these products give customers greater flexibility to optimize their phone design for performance, size and cost. 
+ 
+Switching to our Networks market. Revenue for Q2 was flat to slightly up both sequentially and year-to-date as compared to first half of 2010. We continue to see strength in our overall transport market, with Q2 softening in point-to-point radio and continue the inventory burn in AMI/AMR. Some of the Q2 softness in point-to-point radio is attributed to the tsunami, as some Japanese customers slowed their order rates during the crisis. Cable revenue was flat year-to-date as compared to first half of last year and up 8% sequentially. Our optical market remains robust with revenue up 26% sequentially and 59% as compared to Q2 of 2010. We remained bullish on the optical market with several new 40-gig modulated driver design wins at major customers, including Huawei, NEC and Mitsubishi. I believe safety stocks may be elevated with the customers due to the tsunami, and this could be a slight headwind in Q3. The AMI/AMR market has worked through its inventory bubble. And based on current orders, I suspect we will return to normal revenue levels late Q3 and into Q4. 
+Finally, Defense and Aerospace revenue for Q2 2011 was up to 31% sequentially, rebounding from Q1 but down 11% as compared to Q2 2010. On July 5, James Klein joined TriQuint as our Vice President of Defense & Aerospace Business unit. James has 20 years of industry experience, most recently at Raytheon Space and Airborne Systems and is a welcome addition to the TriQuint senior staff. I want to thank Tom Cordner for his distinguished contributions over the last 45 years. Tom will assist James in transition prior to his retirement. As I guided earlier, first half revenue in this market was soft as the F-22 and B2 bomber programs wound down and we crossed over to ramping new programs, such as the Joint Strike Fighter. As announced previously, TriQuint Semiconductor supports the F-35 Joint Strike Fighter, a multirole, multinational aircraft, by providing critical RF technology including power amplifiers, other gallium arsenide devices and Bulk Acoustic Wave filters for the phased array radar system. Additionally, we continue to see strong revenue from our F/A-18 and F-15 phased array radar programs. 
+Turning to R&D programs. We have a broad portfolio of contracted research and development sponsored predominantly by DARPA, the Air Force Research Lab and the Office of Naval Research. These activities totaling approximately $12 million to $15 million a year are mainly focused on the development and producibility of GaN technologies for future DoD programs. We continue to see high market interest in our GaN processes and products based on their state-of-the-art performance, and expect funded R&D to increase next year as we are targeting an additional $10 million to $20 million of research dollars. Steve will now provide a detailed financial review of the quarter and guidance for Q3.
+Steven Buhaly
+Thank you, Ralph. For the second quarter of 2011, we generated revenue of $228.8 million, up 10% over the second quarter of 2010 and 2% sequentially. Year-on-year, Mobile Device revenue grew 19%. And Networks and Defense and Aerospace declined 3% and 11%, respectively. For the quarter, our revenues split to end markets as Mobile Devices, 70%; Networks, 20%; and Defense and Aerospace, 10%. Please refer to the supplemental data posted on the Investor section of our website for a detailed breakdown of our revenue by market. 
+During the second quarter, revenue from Foxconn Technology Group was 10% or more of our total revenue. Our book-to-bill ratio for the quarter was 0.62. As we demonstrated adequate capacity to serve all product demand, excess and long lead time orders placed during periods of limited supply have worked through the system. Our backlog for Q3 is at normal levels relative to expected revenue. Our gross margin of 41.4% for the second quarter of 2011 was up sequentially from 40.0% and down from 42.3% in Q2 of 2010. 
+Operating expenses were $65.6 million or 28.7% of revenue for the second quarter of 2011. Operating expenses grew $2.4 million sequentially due to growth in litigation expenses to $7.5 million. Tax expense for the second quarter was $0.3 million reflecting usage of net operating loss carry-forwards. Net income for the second quarter was $28.9 million or $0.17 per diluted share. Net income grew 11% sequentially. 
+Total cash and investments decreased about $18 million to $180.9 million during the second quarter. Capital expenditures of $60.7 million were partially offset by a $31.6 million of cash flow from operations and approximately $8.0 million of cash from stock option exercises. Inventory grew by $12.8 million and turns for the quarter decreased to 3.9. Accounts receivable increased slightly, but DSO remained consistent at 54 days. Return on equity was 12.8% for the second quarter of 2011. 
+Moving to our outlook. We believe third quarter revenue will be between $225 million and $235 million with non-GAAP gross margins between 40% and 42%. Non-GAAP operating expenses are expected to be between $64 million and $65 million, including about $5 million of expected litigation expense. Third quarter net income per share is expected to be between $0.16 and $0.18 on a non-GAAP basis. As of today, we are 88% booked to the midpoint of our revenue guidance. We expect solid sequential revenue growth into the fourth quarter. 
+During the quarter, we plan to participate in several investor relations events. On Monday, August 8, I will be in Vail, Colorado presenting at the Pacific Crest Global Technology Leadership Forum. On Wednesday, September 7, I will be presenting at the Kaufman Bros. 14th Annual Investor Conference in New York City. Our Q3 2011 conference call is scheduled for October 26, 2011. I'll now turn to Ralph for closing comments prior to welcoming your questions.
+Ralph Quinsey
+With cloudier, near-term visibility and some headwinds, we are forecasting flat revenue in Q3. But I anticipate returning to strong sequential growth in Q4. Headwinds include macroeconomic weakness, including the tsunami, largely impacting our networking business and a steeper decline in our 2G business than I originally expected. I continue to forecast strong secular demand in our markets over several years and strong sequential growth for TriQuint in Q4, setting the stage for success in 2012. 
+I do believe we are growing our market share where it counts, but I am disappointed our revenue growth appears to have stalled in Q2 and Q3. When our factories filled up last year to support 34% growth in 2010, we made decisions to focus in key areas. Some products did not see the success we had planned for, particularly Android-based tablets and WLAN demand for Symbian phones. In the long run, I am sure those decisions and the way we handle them will pay off, and starting in Q4. 
+Currently, we are not as diversified in Mobile Devices as I would prefer, but we have not been idle. We have created a new capacity footprint and a product roadmap that has broad customer interest. TriQuint's long-term growth story remains intact despite our short-term headwinds. We are leading the industry of mobile devices with the inherent advantages of co-designing the filter MPA for efficient PA-Duplexer integration. 
+Innovative technologies such as copper bump to flip and wafer-level packaging for duplexers are allowing us to cut the RF footprint for smartphones in half. Our best-in-class optical drivers are in high demand to support increased traffic for broadband data and video on demand. We have solid product roadmaps for share gain in cable and base station RF. We have established a new capacity footprint that will allow us to leverage growth over the next several years, and we continue to benefit from our relationships in Defense and Aerospace, creating growth opportunities for advanced RF technologies and building on our technology edge. 
+During this year, we have sharpened our focus, invested in innovation, and I expect a return to strong growth in Q4. In fact, our greatest challenge is managing our growth opportunities in this strong RF market. I'd like to open it up to questions now.
+Question-and-Answer Session
+Operator
+[Operator Instructions] First question comes from Aalok Shah.
+Aalok Shah - D.A. Davidson & Co.
+A couple of quick questions. In terms of the decision to open up Richardson, when should we expect that now at this point? And then secondly, if I can ask about just the forecasting ability. I mean, you guys are missing now 3 quarters in a row. So trying to get a sense of where really is the forecasting error really coming from at this point.
+Ralph Quinsey
+So the question of Richardson was referring to our 6-inch investment in Texas? Is that correct?
+Aalok Shah - D.A. Davidson & Co.
+That's right.
+Ralph Quinsey
+Yes. So right now, that continues, by and large, on plan. We expect it to quality near the end of this year, possibly early next year but likely near the end of this year, and then to ramp beyond that. As far as forecast accuracy, I'm disappointed that our revenue has stalled, and we've been flat here for a couple of quarters. We are trying to manage through a transition where we had to make choices and limit our support to specific areas as we crossed over into our new capacities and new products. And so the forecast there is really on our ability to judge that. If you step away back and look at it, Q3, we're just in that transition period. I do see strong design wins across multiple markets and platforms for Q4 and do expect to see strong sequential growth in Q4.
+Aalok Shah - D.A. Davidson & Co.
+Ralph, on the Q4 guidance -- the expectations for strong growth, I mean, is it broad-based? Should we expect multiple different OEMs? Or is it mainly 1 OEM that we should really be concerned about?
+Ralph Quinsey
+It's broad-based across multiple markets. We should see growth in Mobile Devices, and we should see growth in Networks. And I anticipate, on a smaller number, growth in Defense and Aerospace in Q4. Within Mobile Devices, we are less diversified than we would like to be, but we believe that the product roadmap that we have in place, with the 201 PA-Duplexers, which we're sampling now, and the MMPA, which customers have already received and we are starting -- we have won some design wins and we're targeting more design wins in the not-too-distant future. That should ramp up. I suspect that unlikely that will hit in Q4, but early next year, we should see some of the benefits from the MMPA.
+Aalok Shah - D.A. Davidson & Co.
+And then last, just a housekeeping question, could you tell us the utilization rates at Hillsboro and at Richardson?
+Ralph Quinsey
+Sure. In Q2, our utilization in Oregon, Hillsboro was 82% and our Texas utilization was quite high. This is the 4-inch line, it was at about 90%.
+Operator
+The next question comes from Blayne Curtis.
+Blayne Curtis - Barclays Capital
+Maybe I just want to go back to the guidance. I'm not understanding it fully. The 2G headwind, it seems like that was only $6 million in the June quarter, so it seemed like that there's not much that, that could fall down. Just some color as to why the flat guidance. And was there any design losses? Or is it purely just inventory that you're talking about there?
+Ralph Quinsey
+No, I think that we -- other than the design sockets that we gave away last year, I think where we are targeting the win, we are winning. When you look at the 2G losses, we had a step-down in Q1 with GSM, a step-down in Q2 with legacy CDMA. And then going forward, we carried those steps down. So that puts pressure on it. It's more of a transitional issue for us in Q3, where earlier in the year, we had expected some products to be more successful than they were, particularly Android Pad [ph], and to some extent, WLAN for Symbian phones. And so a function of those products not being successful and other product launches slipping a little bit, we've got this gap now in Q3, which results in the flat revenue guidance. Q4, I believe it should be strong sequential growth.
+Blayne Curtis - Barclays Capital
+Got you. And just the timing of this because it did seem like during the June quarter that you still thought that 20% was possible. So just trying to understand the timing of when this changed.
+Ralph Quinsey
+I understand the abruptness of the news. And we expected better success out of several products. And I was surprised at how quickly the 2G demand went away. Not the same magnitude but layered on top of that, we got a couple of other headwinds, right? We're seeing some macroeconomic headwinds associated with uncertainty in the marketplace, a little bit with the tsunami affecting our Networks business. And part of our growth this year has been in wireless LAN in total. And one of our partners is phasing down an older generation, that really creates sequentially a $5 million to $7 million headwind in wireless LAN that we have to push through. So I expect to see continued growth in our targeted markets offset by some of the headwinds we're seeing. And then really in Q4 is when the major design wins kick in.
+Blayne Curtis - Barclays Capital
+I got you. And then maybe just one clarification, I didn't realize you're talking on a year-over-year basis when you're talking about the headwinds. On a sequential basis by the 3 buckets, do you expect them all to be roughly flat? Or are there some up and down?
+Ralph Quinsey
+Sequentially, with our guide right now, we're actually a little bit conservative. And I would say flat in Mobile Devices, flat to down in Networks, flat in Defense and Aerospace. So by and large, we're conservatively guiding flat. Most of that in Mobile Devices is a lack of the new products taking off. I think that's going to hit towards the end of the quarter for some of our launches and well into Q4 for other launches across all of our markets.
+Blayne Curtis - Barclays Capital
+If I could just sneak one more in. The MMPAs you talked about maybe ramping into the year, how do you feel versus the competition as far as the timing of your product availability?
+Ralph Quinsey
+For the current version of the Qualcomm reference design, we feel that we have the best-performing and the lead position for the reference design that's going to the market, as we speak. So we think we feel pretty good about that.
+Operator
+Next question comes from Anthony Stoss.
+Anthony Stoss - Craig-Hallum Capital Group LLC
+Ralph, if you won't mind providing a little bit more color, do you expect to grow sequentially on an absolute basis with your biggest customer in Q3? And also a follow-up, you made some accentuated comments about Avago and your BAW filter litigation with them. And can you give us a sense of where you stand position-wise for LTE? I'd love to hear more detail on those 2 topics.
+Ralph Quinsey
+Tony, I'm not going to guide specific to customers. For the LTE market, I see that is a really exciting market for us and really an opportunity as it will start originally as discrete products most likely. We have the chassis supply, both duplexers, high-performance duplexers and amplifiers, so our market opportunity is double many of our competitors. That will again integrate into PA-Duplexers where we're well positioned. We are shipping revenue in LTE. It's still relatively small numbers. It's quickly ramping up into millions of dollars, and so I expect it will be millions of dollars next year. And what was your question again on the litigation?
+Anthony Stoss - Craig-Hallum Capital Group LLC
+Just exactly where you stand because you accentuated that. I'm just wondering if they're preventing you or preventing the uptake in your BAW filters with certain LTE designs right now.
+Ralph Quinsey
+Well, I don't want to make any comments about the current market situation and litigation. But I will say that we believe that Avago designed and executed a series of actions to limit choice. We have been successful in growing our BAW business. But I don't want to say that we have not been harmed.
+Operator
+Question is from Edward Snyder.
+Edward Snyder - Charter Equity Research
+Ralph, you mentioned a couple of times now that you don't have the products that you think you need to grow on Mobile Devices. Could you be more specific? Are we talking about converged MMPAs? Are we talking about pads? Because it's probably -- and TriQuint probably leads in the breadth and depth of technologies available internally. So it would be odd if you didn't have technology in-house to build whatever you decided to build. Is it specs? Is it customers? Is it -- what is it? So if you can give specifics on what products you're missing and why you're missing out on some of these design wins that are affecting mobile.
+Ralph Quinsey
+No, I wasn't clear, Ed. We have products and we have technology, what we didn't have was capacity, and so we directed our focus to support some bets and our customers' products, in some cases, weren't successful. Android tablets, in some cases, were not successful and those were within our expectation. In fact, we were seeing good uptake, and then it just stopped. And then of course, you're familiar with the situation around Symbian phones. And we had focused and had planned on larger revenue for wireless LAN. We had the products, but our customers were not successful with their products in the Symbian space.
+Anthony Stoss - Craig-Hallum Capital Group LLC
+You don't feel you're losing share. TriQuint is not losing share in sockets with your customers, if those customers that are not winning with their products is affecting your revenue. Is that the case?
+Ralph Quinsey
+Yes, I believe that where we are -- where it counts, we are holding or gaining share, and that's in 3G and 4G. Clearly we had lost some share in 2G. But in 3G, in 4G, in optical, I mean, where we have targeted as we went through our period of capacity constraints, where we have targeted, we have been successful. And I believe that will have a good growth here in Mobile Devices year-over-year. I am disappointed that we've hit a flat spot here in the middle of the year. Absolutely disappointed we have hit flat spot in the middle of the year. And it is -- it wasn't my expectation to hit that flat spot. That flat spot is more a function of the timing of the decisions we made back at the middle of 2010 to pick and choose where we thought the products in our constraint capacity will be successful, and we did not do a good job. We've hit this flat spot, we still see the other side, the products, the design wins that we did focus on that will ramp up coming in Q4, and we believe that will generate strong sequential growth in Q4. And we believe we've got a great product lineup for 2012.
+Edward Snyder - Charter Equity Research
+Okay. So just bear with me. So it sounds like given the capacity constraints ending last year, you had to make more focused bets on where you're going to apply you capacity. Some of those didn't play out as well as you thought they were going to? Is that fair? So you're suffering today for the capacity constraints forced bets that you had to make last year?
+Ralph Quinsey
+Yes, that's correct. And specifically, all the people that tried to launch tablets to compete with the industry leader have not been very successful. And WLAN or wireless LAN for Symbian phones is below what our expectations were back when we made those decisions in the end of last year.
+Edward Snyder - Charter Equity Research
+Right. And you've award -- partnered with TI in WiFi, correct?
+Ralph Quinsey
+Yes, we've got participation with TI. WiFi is a big part of our business, as well as we match up in some applications with broadband -- Broadcom.
+Edward Snyder - Charter Equity Research
+Okay. But since then, since your Analysts Day, you where talking about -- and you kind of predicted that you'd be kind of a flat spot in mid-year. It's a little bit worse than people expected. But since your Analyst Day, you were talking about giving ample capacity both in BAW and GaAs. It sounds like you're about there now. So your design -- you have new products coming out, and you've got capacity to address a lot of your customers. When could you expect -- you're expecting that to start playing out in Q4? Is that more of a 2012, early 2012 effect?
+Ralph Quinsey
+Well, you are correct. We have ample capacity in GaAs, BAW and SAW in place right now, and we anticipate the growth to resume sequentially in Q4 of this year compared to the current quarter.
+Edward Snyder - Charter Equity Research
+Right. And then there was talk about 20% growth guidance year-over-year for the full year. Obviously, that's off the table completely at this point given the next couple of quarters. But its speaks to the issue of visibility. I know that it's very tough because you only have about 6 to 8 weeks. Why are you so confident that you're going to get solid growth in the fourth quarter? It's -- I mean, it's pretty far out there. You probably didn't have POs in hand yet for production on that. Can you just give us some color on why anybody should have confidence that, that would see a strong rebound when something closer in, like this quarter, was a surprise on the downside?
+Ralph Quinsey
+Yes, we do have confidence based on solid design wins with big opportunities that we do have orders in hand and fully expect to support and grow. So design wins and customer forecasts support a very strong Q4 for us.
+Edward Snyder - Charter Equity Research
+Okay, final question. Mike reported yesterday, as you well know, did very well at Samsung. It looks like their converged solution has gained a lot of share. So they're now the largest supplier of RF in a sense, by their claim anyway. But it's clear they've gained a lot of ground with this, and the solutions are getting popular based on their guidance. Nobody else offers that converged solution. What kind of uptick are you seeing just for the MMPAs, the hybrid device, which I understand several large domestic handsets manufacturers are looking at going to, versus the converged. Can you give us any feel at all, a, how big a market, how fast is the ramp and where you think you sit in the line of semi guys offering products?
+Ralph Quinsey
+Yes. For the period of 2012, the best way to look at it is by chipset supplier. The MMPA is the choice of Qualcomm. And for their open market-launched reference design, we are a preferred supplier. We're getting strong customer -- customers call us. So we're using the Qualcomm reference design. They recommend TriQuint. And so we welcome that business. And we are actively working to ramp that up. I believe those products could ramp in the first half of 2012.
+Edward Snyder - Charter Equity Research
+So this is a new reference design that Qualcomm is now showing around? The old one was all discrete, right?
+Ralph Quinsey
+Qualcomm has many reference designs. It's -- you've got to get that information from Qualcomm directly. This is a relatively new reference design.
+Operator
+Your next question is from Quinn Bolton.
+Quinn Bolton - Needham & Company, LLC
+I mean, I just wanted to follow up on Ed's question there on MMPAs. In your prepared script, you talked about targeting customers in China and Taiwan. Just wondering if you're also targeting some of the Tier 1s.
+Ralph Quinsey
+Well, what's your definition of Tier 1? That's changed quite a bit over the last 12 months. Clearly, we're targeting smartphone leaders in Taiwan. We classify them as Tier 1 customers. And in China, it boils down to Huawei and ZTE. That's who we're targeting. And so we expect to have -- we have a good chance of winning design wins with those customers. We will target other customers. Samsung, it looks as -- they're going to prefer more of a discrete approach for the Qualcomm chipset at this point. Nokia, depending upon which references I may choose, I certainly believe that Qualcomm has a good chance. So that could be an opportunity at Nokia. I believe Motorola is not targeting this particular PA architecture. Who else would you like me to comment on?
+Quinn Bolton - Needham & Company, LLC
+Well, the -- obviously, Apple and/or RIM In North America could be 2 others which -- if you can comment.
+Ralph Quinsey
+Well, I'm not going to comment on Apple, and I don't have any specific knowledge on RIM.
+Quinn Bolton - Needham & Company, LLC
+Okay, great. And then a second question. You talked about the dual-band pad starting to sample now. Is that something that's being designed into either Qualcomm or other ACN partner reference designs? Or is that something where you're targeting more, the OEMs directly?
+Ralph Quinsey
+Well, we are targeting the OEMs directly. Too soon for the other activity. We are now just ramping up what we call our Tritium IV products. Those are significantly reduced size and better current drain, individual PA-Duplexers. We are sampling now PA-Duplexers, the next generation which are 201 PA-Duplexers. Getting good feedback from customers in multiple regions, including Korea, China and North America. And so we believe that those will be good products because they provide not only a lot of space savings, 50% reduction over the discrete implementation but great flexibility where you could build a high-end or a low-end smartphone because you can add 2 bands or 4 bands. You can pair up these bands and very flexible as far as where you place them on a circuit board.
+Quinn Bolton - Needham & Company, LLC
+Okay. And just in the past, you've talked about not necessarily wanting to participate in a true converged architecture. And on the call, you've talked about dual-band pads and MMPAs as your sort of approach to some more integrated solutions. Are customers now looking more for converged? Is that something that comes back on the road map at some point in the future? Or are you comfortable that dual-band pads and MMPAs really could get you a very significant portion of the market over the next couple of years?
+Ralph Quinsey
+Well, it's that clear. Again, Quinn, in the past, what I've said is that the market is transitioning through phases of integration that will include MMPA converged in PA-Duplexers, and we will participate with all of them. My expectation, at least a couple of years ago, was that the 2011, 2012 time, it slipped a little bit, would be the period for MMPAs, and I think originally I said 2012 would be converged, and that was probably closer to accurate. We've done investments and we continue to do investments with MMPA converged PA-Duplexers and broadband solutions. We backed away from converged because they have a very narrow support from chipset suppliers, and the performance architecturally we didn't think was valuable. So it'll address a relatively small part of the market. We do believe that the dominant trend over time will support all of these different architectures. But the dominant trend over time will be PA-Duplexers for the inherent advantage of integrating along with transmit lineup and the flexibility in size of the solution. So we continue to support discretes, MMPAs. We invest in converged, and we think that we could bring a -- create an innovative solution to market when the market is ready for it. And PA-Duplexers has been a major investment just because that's the bulk of the market right now. That's where we see the bulk of the volume.
+Quinn Bolton - Needham & Company, LLC
+Okay. Just last one for me. [Indiscernible] on another call talked about -- come out with a band to pad capability using partner suppliers in Japan. Is that something do you think that band gets more competitive? I know it's a rather technically more challenging band and I think that carries a higher dollar content relative to some of the other pads. Any change in that competitive landscape from what you're seeing in the market?
+Ralph Quinsey
+Well, first of all, we welcome competition. We spend a lot of money to preserve an open and competitive marketplace. Secondarily, we haven't seen the parts in the market. So I can't comment on that. I just - I haven't seen it in the market. I know nothing about it.
+Operator
+Question comes from Nathan Johnsen.
+Nathan Johnsen - Pacific Crest Securities
+I wonder if we could chat a little bit more on CapEx. Clearly, when you guys had prepared the CapEx plans in place, you didn't expect a substantially higher revenue run rate. And it sounds like at least in the past you've talked about looking to offset any gross margin headwinds just due to the ramp in revenue. I'm just wondering if the outlook for gross margins is now meaningfully different given a substantially lower growth rate. And then secondly, on wireless LAN, you've talked about wireless LAN with some new devices being weak. That said, it looked like your conductivity revenue increased sequentially in Q2. So is it Q3 that you're expecting a significant roll-off? And then along those lines, do you think there is some share loss in your competitors on Symbian devices? Or do you think it's purely a function of the end markets?
+Ralph Quinsey
+Well, I'll take the first one. Clearly, we are going to be constraining new capital authorizations as volume is a bit lower than we've previously expected. I think as we complete some of the major adds that we initiated earlier in the year and expect to use over time, we'll probably have about $80 million more in the second half of the year. So about $40 million a quarter down from the first half run rate but still meaningful. Then I would guess in 2012, we will have a lower capital spend rate as we grow into some of the capacity we invested in. Keep in mind, we consciously made a decision to err on the side of extra capacity since we had been in a position of being short previously, and we are in a market with great fundamental growth characteristics.
+Nathan Johnsen - Pacific Crest Securities
+Could you give a sense potentially on what the gross margins headwinds then would look like in Q4 and potentially Q1 of next year?
+Steven Buhaly
+Well, it's unclear whether this goes in late Q4 or early Q1. I'll just talk about the Texas 6-inch line since that's the one, kind of, discrete item. And I think that once that goes in, you're talking about around $5 million a quarter until we get the volume up to where our costs are comparable with what we have in Oregon.
+Ralph Quinsey
+And I can address the connectivity question. We should see a step-down in revenue in Q3 in that $5 million to $7 million range. And the way to think about that, Nathan, is with one of our partners, we have gone to market in 2 different fashions. One, as a foundry supplier, where we supply die to a partner. They put them into a module and sold them in the marketplace. And then we also supply packaged devices directly into the next-generation solution not as a foundry supplier of die but as a packaged parts solutions supplier. So the foundry business is the older business, and that took a significant dip down going into Q3. So that's where we're seeing the headwind. Our overall wireless LAN business, that business aside, will continue to be at nominal levels and I think has the opportunity to grow slightly over the next couple of quarters.
+Nathan Johnsen - Pacific Crest Securities
+Great. And one last one for me. In terms of the discussion on sequential growth in Q4, just wondering how much of that is predicated on 2G bouncing back and how much of it is just 3G and 4G platforms taking off.
+Ralph Quinsey
+Yes, the -- clearly, the material piece is 3G opportunities, smartphone opportunities. I don't see legacy CDMA coming back. And in fact, as I've mentioned on previous calls, we have lost visibility because new phones will have both legacy CDMA and Wideband CDMA embedded into the same devices. And so legacy CDMA goes down and stays down. GSM/GPRS, we are reengaging that market. And so I think we should see some incremental revenue in Q4 but the major part -- the significant design wins are more around 3G.
+Operator
+Next question is from Parag Agarwal.
+Parag Agarwal - UBS Investment Bank
+I just wanted to get a feel of your design win pipeline into 2012. Basically, I want to get an understanding of whether the customers who were impacted by the CapEx [indiscernible] spend are coming back to you.
+Ralph Quinsey
+Yes, good question, and I believe that how we handled our capacity constraints by being very open and transparent for our customers, we have not been locked out or precluded from any design opportunities. We have hit a soft spot and I'm disappointed that the revenue is not growing in Q3. But it's more based on the decisions we made last -- in late 2010 where we picked to support and didn't combine with the ramp-up of new opportunities, and so we've created this gap. But we have been fairly successful creating new opportunities for revenue growth through design wins at just about every customer we've gone to. You will see that in Q4 right? We'll see the benefits of that in Q4 and into 2012. Also, the new products that we've tabled, both the MMPA where we've won the primary composition in representing Qualcomm and the sampling, resampling of our new 201 PA-Duplexers. Really good customer feedback on those devices. I mean, it solves a lot of problems for those customers. So the door is open for our customers. We have to execute. We've hit this air pocket, the soft spot. We don't feel good about that. We're a competitive company. We're a growth company. This is -- it does feel good to us. But we feel confident we're going to be back on track in Q4.
+Parag Agarwal - UBS Investment Bank
+Okay, fair enough. As we look forward, as the -- as we see a shift on [indiscernible] the RF players, do you think pricing will be at levels that the various competitors are going to use in -- at this, say, 2012?
+Ralph Quinsey
+Well, pricing -- it's always been a very competitive market, and pricing is clearly an area that we live with every year. We plan in nominally 10% to 15% price reductions every year. I believe that in the 2G market, pricing is very competitive right now, particularly in the GSM market. 3G will follow the same path over time. Right now, people will pay for small solutions, quick time-to-market, low current drain. But this is a price -- this is an aggressively competitive market just because of the volume and the concentration of revenue.
+Parag Agarwal - UBS Investment Bank
+And lastly, the headwinds you talked to due to the uptick in Japan. So would it believe that we'll see an impact after the cost cutters are everything will be behind us, and starting fourth quarter you will see growth in all the segments, not just mobile?
+Ralph Quinsey
+Yes. So yes, I believe that Q3, those -- the Japanese-related headwinds will be behind us. Keep in mind that wasn't the major issue and, in fact, it's primarily our network's markets. And it was a mixed result. Some customers bought early in Q2 and actually increased their stock, safety stock. We think that, that happened in opticals. So it will be a headwind to bring down the inventory in Q3 for optical. And other customers were directly affected by Japan, and they just didn't buy in Q2 and created by not purchasing some inventory stock and had to bring that down in Q3. So mixed reasons why I do believe that it will be behind us for Q3 forecast. For Q4, our networks business continue to look strong.
+Operator
+Our next question is from Dale Pfau.
+Dale Pfau - Cantor Fitzgerald & Co.
+Could you talk a little bit about -- you mentioned 2G falling off in Q2. How much of a decline should we look for in 2G and CDMA in Q3? Another similar decline and similar growth sort of in that -- in your 3G, 4G-type applications?
+Ralph Quinsey
+It was a pretty significant falloff in Q2. That won't be repeated in dollar terms. We probably lost sequentially about $9 million of CDMA -- legacy CDMA revenue Q1 to Q2. And as I pointed out, just prior to that, we lost not that much but a significant chunk of GSM revenue Q4 to Q1. So we were down into the range on legacy CDMA of the $3 million to $4 million. I think there's about another couple of million headwind into Q3. But also, it gets cloudy because the legacy CDMA socket by and large is being displaced by merging it into the 3G Band 2 socket. So the market is going to be serviced by the same products going forward. We'll lose visibility going forward as far as how we're servicing the market. We will target legacy CDMA sockets, but we will target them with Wideband CDMA products.
+Dale Pfau - Cantor Fitzgerald & Co.
+So if I -- is that then -- there's a couple million bucks here on CDMA going down, but I think you mentioned $6 million to $7 million on some WLAN parts going down. What are the other headwinds and maybe dollar amounts so we can get a handle on this?
+Ralph Quinsey
+Those are the major ones. And I did that math. I tried to pull the headwinds out, saying what is the handset business really doing? The core handset business? And I think it's growing seasonally 6% or 7%, offset by the headwinds that we just talked about.
+Dale Pfau - Cantor Fitzgerald & Co.
+And...
+Ralph Quinsey
+Are they helpful?
+Dale Pfau - Cantor Fitzgerald & Co.
+Oh, that's very helpful. And then when we take a look, are there any significant market share shifts or shifts in your customers between Q2 and Q3?
+Ralph Quinsey
+Between Q2 and Q3, I don't see significant shifts in market share. I believe we continue to gain share year-over-year in the cell phone market on the strength of our customer mix, by and large. We were hurt at Samsung at the beginning of the year, all right, as we made some choices and we would -- we were hopeful that the Galaxy Tablet would be more successful than it was. And so we lost some share. But that's largely behind us now. I mean, it's hard to go down much further with Samsung. I do believe we'll still be stronger with second half with Samsung than we were in the first half.
+Dale Pfau - Cantor Fitzgerald & Co.
+And one final question. Q4 for your industry, sometimes there's a little a bit of rough that people to begin to adjust their inventories on mobile devices, sometimes earlier in those quarters, sometimes the middle of the quarter. How confident are you that you can get that kind of sequential growth with potential model overhangs and everything else in Q4?
+Ralph Quinsey
+Yes, our expectations for Q4 are based on solid design wins in major programs and forecasts from customers. If something happens in the macro environment such that a holiday season is not a holiday season or something like that, certainly we are at risk to that. Right now, I'm comforted by the fact that we have a strong market in smartphones and mobile devices that I believe will be persistent for several years. But we are at risk for macro impact.
+Operator
+Your next question is from David Duley.
+David Duley - Merriman
+A couple of quick ones for me. Did you -- what was the Foxconn percentage during the quarter?
+Steven Buhaly
+Over 10%.
+David Duley - Merriman
+Was it historically like -- just like it has been the last 2 quarters, in that 25% to 32% range? Can you give us a...
+Steven Buhaly
+We'll report that in our Q, which will be filed August 4.
+David Duley - Merriman
+Okay. And then I noticed inventory is up about $36 million the last couple quarters. That's a lot of sales dollars. Is there a reason why it's up so much? Or what's going on there?
+Steven Buhaly
+Yes, partly. We intentionally built inventory up in Q1 because we depleted our safety stocks in the prior year. So that was intentional. I think there's a little bit more than we would have preferred in the second quarter and are returning to flat back. I think, again, we want to make sure we're capable of serving demand. But long term, I think we can do that with better terms. And we'll be working that as we approach the end of the year to get that ratio closer to 5 than where it is today.
+Ralph Quinsey
+Well, and I would add obviously, David, as we thought we would have higher revenue in the quarter than we did, that revenue turned into inventory.
+David Duley - Merriman
+Okay. And obviously, to the extent that you've given us the math in the previous questions there, I would guess. And then a final thing from me. Steven, I didn't understand what you said. It was a little -- could you just run over again the book-to-bill stuff and why your order number was where what it was?
+Steven Buhaly
+Yes, sure. For the quarter, the book-to-bill was 0.62. And the primary driver of that low number is as we demonstrated our ability to serve all demand in the marketplace, excess and long lead time orders that had kind of accumulated during the period of allocation unwound in the period. And that was the primary driver. It's a very classic behavior.
+Ralph Quinsey
+And let me add, David, that book-to-bill quarterly -- for the current quarter is quite strong as you might expect, about 1.55:1.
+Steven Buhaly
+Similar -- currently typically -- pretty typically booked for the revenue we expect this quarter.
+Operator
+Your next question is from Todd Koffman.
+Todd Koffman - Raymond James & Associates, Inc.
+Can I ask, it looks like there was a recategorization or a reclassification on your supplemental data schedule as to what you used to call 2G and now what you're calling 2G. Was there a recategorization of what is 2G from the first quarter to your supplemental data this quarter?
+Ralph Quinsey
+Good, good eye. You're absolutely correct. We had inappropriately categorized the legacy CDMA into Wideband CDMA when we changed categorization last quarter. Remember, that's when we changed to the 3G/4G/2G connectivity to give you more visibility. Obviously, we noticed that error when we saw the strong downtick in legacy CDMA. So we corrected the error. And I think we put a note on the page that highlights that.
+Todd Koffman - Raymond James & Associates, Inc.
+I don't see notes of them. So what was thought to be basically de minimis 2G last quarter ended up being $17 million worth of 2G that had now fallen off in the June quarter to $6 million where the $17 million last quarter was not de minimis. It was $17 million worth of business in 2G. Is that correct?
+Ralph Quinsey
+Not totally. We had about $9 million to $10 million of 2G revenue last quarter. And that's fallen down into the $3 million to $4 million range.
+Todd Koffman - Raymond James & Associates, Inc.
+I'm looking at the supplemental data schedule where it looks like for the second quarter of 2011, it was $6,128,000. Am I...
+Ralph Quinsey
+Yes, we'll be happy to take that off-line. If there's an error in our schedule we will correct it. If there's some information we can give you to better understand it, we'll do it as well.
+Todd Koffman - Raymond James & Associates, Inc.
+Okay. Totally unrelated, just a quick follow-up. You hadn't called out on this call, Ralph, this customer concentration being, I guess, at levels that maybe you're now you sounded like uncomfortable with given some of the share losses and whatnot. And I know you said you'll -- we'll see some additional data August 4. But has there been a dramatic change in your customer concentration the last 3 months?
+Ralph Quinsey
+No. To be clear on my comments in that regard, when we ran into capacity issues, we were in a year when revenue was growing 34%. That was 2010. The prior year, we grew faster than the market and our competition. In fact, for the prior 3 or 4 years, we were growing significantly faster than competition, and we ran out of capacity. So we had to focus our efforts and support a limited set of customers as opposed to all of the customers in the market. That was the simple meaning behind the statement.
+Operator
+Your next question is from Bill Dezellem.
+William Dezellem - Tieton Capital Management
+You have referenced several times on this call the strong sequential growth that you anticipate in Q4. Would you please give some quantification what that means to you, whether we're talking greater than 10%, greater than 15%? What sort of a ballpark there do you currently have in mind?
+Ralph Quinsey
+I would say stronger than seasonal for sure. I would say stronger than 10% sequentially. I just don't want to get in a position trying to guide Q4, Bill. You put me in a difficult position.
+William Dezellem - Tieton Capital Management
+Understood. And then, if Q4 was difficult enough, I'm actually going to be push this out even one more quarter. You had referenced the benefits from MMPA, that you felt were going to be quite large, that, that would fall into Q1. And so the question is, do you believe that the benefits from MMPA are large enough that it could lead to a sequential growth in revenues in Q1 versus Q4, which would be completely out of the realm of normal seasonality?
+Ralph Quinsey
+And again, just to be clear on my comment, I felt as though we could see MMPA revenue as early as Q1. I was not trying to communicate the scale of that product or actually any other products. Or I was not trying to communicate any guidance for Q1. At this point, barring any data, I would expect Q1 to be normal seasonality. I am comfortable that we're going -- we are getting design wins in MMPA, and that would be an important part of our revenue. But I wasn't trying to communicate any scale of that business in the first part of the year.
+William Dezellem - Tieton Capital Management
+And then a couple of other questions here. Your revenues were below what you had guided, and yet your non-GAAP EPS was in line with where you had guided. What actually happened in the model that was at a little bit better than what you anticipated to -- between revenues and the bottom line?
+Steven Buhaly
+I'll take that. I think gross margin was slightly better than we had expected at 41.4%. So they're probably about a 40 basis pickup there. And other than litigation, we're pretty successful holding operating expenses very flat. And so I think between that and maybe a little bit of rounding, that accounted for our ability to get to $0.17.
+William Dezellem - Tieton Capital Management
+And then a final question for now. Ralph, you had referenced the 4G opportunity for the industry being much greater than the 3G opportunity. But would you please discuss specifically the magnitude or -- of the 4G opportunity for TriQuint relative to 3G opportunity as you see it today?
+Ralph Quinsey
+4G, mostly LTE, relatively low revenue in the market today but will grow next year. And it adds more bands for our data front. And so as we move from 1G to 2G to 3G to 4G, we'll see increasing opportunities, I believe 4G will follow a similar path. What you need for TriQuint is initially, the implementation of 4G. In many cases it's likely to be discrete amplifiers and discrete filters, duplexing filters. We supply both of those components. And so our market opportunity for LTE is typically bigger compared to many of our competitors that might supply only one or the other of those devices. That's what I meant by the bigger opportunity.
+William Dezellem - Tieton Capital Management
+And as a result, do you see the total opportunity or total addressable 4G market for TriQuint to be a bit bigger with 4G than 3G, but that's primarily for TriQuint anyhow going to be due to the increasing number of bands?
+Ralph Quinsey
+Yes, Bill. Just again to be clear, I was not in my comments trying to compare 4G to 3G in any way. 4G is the next generation, and there'll be a 5G, but I wasn't trying to make any time bound comparison of the opportunities in 3G versus 4G. In fact, the phones that will launch that are 4G phones will have 2G in them and 3G in them for backward compatibility. So the better way to look at it as opposed to comparing them is continues to be additive revenue opportunities per phone platform.
+Operator
+Next question is from Scott Searle.
+Scott Searle - Merriman Capital, Inc.
+Just a couple of housekeeping questions. Steve, did you mention depreciation for the quarter? And if you could maybe, what was linearity in the June quarter?
+Steven Buhaly
+Yes, depreciation was $14.5 million in the quarter, up from $14 million in the prior quarter. And I would say the quarter's linearity was comparable to last quarter. And you can kind of see that in our DSO.
+Scott Searle - Merriman Capital, Inc.
+Got you. And Steve, maybe to follow up on the litigation front. It seems like you had a peak quarter in June at $7.5 million, coming down to $5 million. Looking beyond September, I know it's very hard to gauge, but will that take another step function down? And maybe just quickly, the milestones of when we might be able to see that at least mitigating if not completely going away?
+Steven Buhaly
+Yes, I'm going to dodge the question. So first of all, it's very hard to predict. Second, the key driver here is the timing of the trial, and the trial has not been scheduled yet by the Judge. So once we know the timing of it, we will be able to make some estimate of what the quarterly expenses look like. So that's really the data that we're missing.
+Scott Searle - Merriman Capital, Inc.
+Okay. And with cash and where the stock is in the aftermarket, what are the thoughts on a buyback?
+Steven Buhaly
+You know, too soon to say. I haven't got to digest that yet. I would say, though, that, that's -- close to $80 million of our cash is offshore, and we can't use that for buyback purposes. And so that leaves about $100 million. I would say that, that doesn't present the opportunity for a very meaningful buyback.
+Scott Searle - Merriman Capital, Inc.
+Okay.
+And lastly, Ralph, maybe to follow up an earlier question just in terms of the sequential outlook into December. It sounds like you're expecting better than seasonal. But could you just provide us with a little bit more color? It sounds like it's multiple design wins. Is it with existing OEMs? is it with new OEMs? And maybe, given the tab experience and the Symbian experience, it sounds like, in the first of the year, are there any issues, concentration or otherwise or OS exposure, that we should be thinking about going forward into the fourth quarter and/or first quarter as it relates to things that could be potentially problematic, be it tablets or, in the case you mentioned, Symbian, Windows Mobile 7? What kind of exposure do you have there? Maybe just a little bit of color to help us frame things.
+Ralph Quinsey
+Yes, the best way to think about it in mobile devices, Scott, is that our design wins for Q4 are in line with our historic design wins. And I don't see the risk, as far as the Symbian or the Android tablet scenario, coming into play. So I think we're in solid platforms, high likelihood the platforms will launch and very similar to the type of design wins that we have turned in over the last 5 years in the mobile devices space. So I have some sense of security about those design wins and the ramp they'll drive in mobile devices. In networks, it's even more broad based, right? We've got some great wins with some digital step attenuators where you've -- or variable gain attenuators in the Playstation market, some good design wins in optical with Huawei. And you've seen Mitsubishi that I referenced in the script. Some solid wins with cable. I think the Networks business is more characterized as design win success in Q4 layered on top of some rebounding from an inventory burn Q3 scenario. So we get a double lift in -- hopefully get a double lift in Networks for Q4.
+Scott Searle - Merriman Capital, Inc.
+Got you. And just to make sure I'm real clear. When we're looking at 3Q and 4Q from a design win standpoint, you have not lost any share. Is that correct?
+Ralph Quinsey
+In total, I believe we have lost share in 2G and GSM over the year. Where we have targeted design wins, we have won, right? We did give up some sockets late last year, and we're seeing a reflection of that today. So if I understand your question, I feel comfortable with our share position. I think our Mobile Devices business will grow this year, and I think we'll be positioned in an excellent spot for 2012.
+Operator
+Our last question comes from Drew Berg [ph].
+Unknown Analyst - 
+Could you guys -- I know we've been trying to get to this fourth quarter a little bit. And you've framed a couple of things that you've lost: the 2G stuff is going away, the tsunami headwind. But we're talking about a good $30 million revenue in Q3. You haven't said. Has some of your design wins maybe slipped into Q4 or you were expecting revenue in Q3 from?
+Ralph Quinsey
+Yes, I would say when we gave our guidance for the year, earlier in the year, we had some programs that had walked out on us, that's correct.
+Unknown Analyst - 
+Those programs were gone or the timing of that has moved back to Q4?
+Ralph Quinsey
+No, no, no. The programs are not gone. Our design wins are secure, but the programs aren't pushed out in time.
+Unknown Analyst - 
+Okay. And just from a seasonality thing, you used to be really you -- Q3 -- and past your -- before 2010, you were flat Q3 to Q4 oftentimes. And last year, that wasn't the case. You expect that trend to continue? Is it that you're getting your products to market faster? Your customers are building their products faster to accommodate for seasonality? What -- where do you expect that?
+Ralph Quinsey
+I wouldn't say there's any discernible pattern. We're -- in the mobile devices space, we tend to have big quarters based on product launches. And there's typically 2 groups of product launches, 1 later in the year, 1 earlier in the year. And depending upon if those products are successful and we're successful in penetrating, that really drives the quarter-to-quarter variation. By and large, the second half of the year, we typically get more revenue than the first half of the year.
+Unknown Analyst - 
+Okay. And then a couple of quarters ago, we were talking about what your capacity could be, say, for Q4. Can you remind us of what those numbers would be, your capacity as you finish this CapEx and the systems come online?
+Steven Buhaly
+Yes. By the end of the fourth quarter, we think we'll have capacities for $350 million of revenue per quarter.
+Unknown Analyst - 
+Split among the same basic market segments? 70, 20, 10, I think?
+Steven Buhaly
+Yes. Well, that's approximately correct.
+Operator
+There are no further questions. Do you have any closing remarks?
+Ralph Quinsey
+Well, thank you, everybody, for participating in the call. I look forward to updating our results after the quarter's close. Thanks.
+Operator
+That does conclude today's teleconference.

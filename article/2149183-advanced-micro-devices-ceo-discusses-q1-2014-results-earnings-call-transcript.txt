@@ -1,0 +1,308 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q1 2014 Earnings Conference Call April 17, 2014 5:30 PM ET
+Executives
+Ruth Cotter â VP, IR
+Rory Read â President and CEO
+Devinder Kumar â SVP and CFO
+Lisa Su â SVP and General Manager of Global Business Units
+Analysts
+Betsy Van Hees â Wedbush Securities
+Vivek Arya â Bank of America Merrill Lynch
+Christopher Rolland â FBR Capital Markets
+Hans Mosesmann â Raymond James
+David Wong â Wells Fargo
+Cody Acree â Ascendiant Capital Markets
+Joe Moore â Morgan Stanley
+Andrew Paik â Credit Suisse
+JoAnne Feeney â ABR Investment Strategy
+Mark Lipacis â Jefferies & Co.
+Kevin Cassidy â Stifel Nicolaus
+Operator
+Good afternoon. My name is Eric [ph] and I will be your conference operator for today.
+At this time I would like to welcome everyone to AMD's First Quarter 2014 Earnings Conference Call.
+[Operator Instructions]
+I would now like to turn the conference over to Ms. Ruth Cotter, Vice President of Investor Relations for AMD. Please go ahead.
+Ruth Cotter
+Thank you, and welcome to AMD's first quarter earnings conference call. By now you should have had the opportunity to review a copy of our earnings release and the CFO commentary and slides. If you have not reviewed these documents, they can be found on AMDâs website at ir.amd.com.
+Participants on today's conference call are Rory Read, our President and Chief Executive Officer; Devinder Kumar, our Senior Vice President and Chief Financial Officer. For the question-and-answer portion of the call, we will be joined by Lisa Su, our Senior Vice President and General Manager, Global Business Units.
+This is a live call and will be replayed via webcast on amd.com.
+Iâd like to take this opportunity to highlight a few dates for you. Lisa Su will attend the JPMorgan technology, media and telecom conference on Tuesday, May 20th in Boston. Devinder Kumar will attend the Bank of America-Merrill Lynch Global Technology Conference on June 3rd in San Francisco. Our second quarter quiet time will begin at the close of business on Friday, June 13th. And lastly, we intend to announce second quarter earnings on Thursday, July 17th.
+Please note that non-GAAP financial measures referenced during this call are reconciled to their most directly comparable GAAP financial measure in the press release and CFO commentary which are posted on our website at quarterlyearnings.amd.com.
+Before we begin, let me remind everyone that todayâs discussions contain forward looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date, and as such involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Please refer to the cautionary statement in our press release for more information. Youâll also find detailed discussions about our risk factors in our filings with the SEC and in particular AMDâs annual report on form 10-K for the year ended December 28, 2013.
+Now, with that, I will hand the call over to Rory. Rory?
+Rory Read
+Thank you, Ruth.
+Revenue for the quarter was $1.4 billion, an increase of 28% from the year-ago period. The 12% sequential revenue decline from the previous quarter was better than our expectations due to healthy demand for our newest Radeon GPUs and semi-custom gaming APUs. This is our third consecutive quarter of delivering non-GAAP profitability. And we also saw an improvement in EPS of $0.15 from the year-ago period.
+Our first quarter performance demonstrates the success that we are having transforming AMD's business. We are consistently executing and delivering on our commitments. Our strategy is working and we are building a foundation for continued profitability and growth as we transform AMD. We are on track to generate approximately 50% of our revenue from high-growth markets, including embedded, semi-custom, dense server, professional graphics and ultra-low-power client, where we can create differentiated winning solutions by the end of 2015.
+There was strong demand in the first quarter for AMD-powered Microsoft and Sony game consoles. These consoles continued to outpace previous generation ramps and drove continued momentum in the semi-custom business. The success of these two products is an excellent example of the power of our strategy. When our unique IP and design expertise is married with the ingenuity and product ideas from our customers, we jointly delivered tailored market-changing solutions that win. We believe that our semi-custom business will continue to realize strong growth. As gaming consoles ramp throughout the year, we remain on track to capture one to two new semi-custom design wins this year as well.
+Now turning to AMD's embedded business. Revenue increased by double digits from the year-ago period. We continued to win designs with strategic market makers in key verticals such as digital signage, medical and thin client, to name a few. Consistent with our strategy to participate in a much broader portion of this market, we see an approximately $9 billion total addressable market for our high-performance embedded SOCs and processors. This margin-accretive business is also characterized by product cycles that last up to five years, providing a more predictable and consistent revenue stream.
+In our professional graphics business, we delivered sequential growth in the first quarter. We believe we gained share, highlighted by the launch of Apple Mac Pro which uses two of AMD's industry-leading FirePro GPUs. We are expanding our professional GPU products with the announcement of our new flagship FirePro W9100. This GPU is attracting significant interest from video, design and engineering professionals who need to work at the latest 4K resolutions and beyond.
+We are also continuing to make investments to accelerate our growth by strengthening our relationships with key professional IFVs and customers that dominate market share.
+In our dense server business, revenue also increased sequentially. This was highlighted by Verizon's ongoing deployment of AMD's SeaMicro-based dense servers that are powering the world's largest public cloud solution. The dense server market is projected to be approximately 25% of the overall server market by 2019. And we intend to lead this transition with our unique fabric technology and 64-bit processors.
+We have also reached a significant milestone in our ambidextrous strategy. We have introduced Seattle, our first 64-bit ARM server processor and the industry's first at 28-nanometer technology, positioning AMD as the only SOC provider to bridge the x86 and ARM ecosystems for server applications. We are excited to announce that we have started sampling Seattle this last quarter and plan to ship in the fourth quarter of 2014.
+Now let's turn to our traditional businesses. In graphics we see strong demand in the enthusiast portion of the market. Our industry-leading R7 and R9 products drove GPU revenue growth year over year and sequentially. And we also started to see the ramp of new mobile discrete design wins. And we believe this momentum will continue and we expect to gain market share.
+In our personal computing business, our mobile APU unit shipments increased sequentially in the first quarter as our customers prepared to introduce notebooks powered by our newest Beema and Kaveri APUs.
+In the desktop channel, we continue to build momentum in the upper part of our portfolio as we enrich our product mix. Our high-end A8 and A10 APUs had a second straight quarter of record unit shipments. We continue to build a stronger desktop portfolio, ramping our high-end Kaveri APU and introducing our first low-powered socketed APU for the desktop channel this past quarter. We expect these APUs will drive revenue growth in the coming quarters.
+The PC market continues to remain challenging. We are seeing signs that the market decline is slowing and potentially stabilizing as some of the softness in consumer is being offset by demand for commercial PCs. Based on this, we now expect overall PC shipments will decline approximately 7% to 10% for the year, and we are positioned to take advantage of this based on our strategy to gain share in parts of the market where we are currently under-represented.
+For example, in the commercial client market, we expect to more than double the number of designs that will come to market from our key OEM partners compared to last year. As a result, we believe we will deliver sequential PC revenue growth in the coming quarters of 2014.
+Since our last earnings call, we also successfully concluded our 2014 WSA amendment with Global Foundries and re-profiled our near-term debt, both of which will help us accomplish our financial goals for 2014 and beyond. The vendor will cover both of these topics in detail later in the call.
+So in summary, we continue to hit all of our key milestones and product commitments as part of our long-term strategy to transform AMD. Our first quarter performance demonstrates that we are making significant progress building the strong foundation required to deliver consistent profitability and revenue growth. Our growth businesses continue to gain momentum. And we remain on track to diversify our revenue base, generating approximately 50% of our revenue from our high-growth businesses by the end of the next year.
+We also see the PC market beginning to stabilize. And we are well-positioned to grow revenue throughout the year. Finally, based on the strength of our industry-leading graphics products, we believe we will gain share and grow GPU revenue in 2014.
+Based on this momentum, we remain firmly committed to delivering profitability and revenue growth for the full year in 2014.
+With that, let me turn the call over to Devinder.
+Devinder Kumar
+Thank you, Rory.
+Our first quarter results demonstrated continued financial and operational discipline and execution. Our gross margin and revenue came in at or better than expected, despite a seasonally down demand environment, and we achieved non-GAAP net income profitability and earnings per share for the third quarter in a row.
+Building on the momentum we established in the second half of 2013, 2014 is off to a good start. Additionally, we successfully completed a couple of significant transactions by re-profiling our debt and concluding the fourth amendment to our wafer supply agreement, WSA, with Global Foundries. Under the revised WSA agreement, we expect wafer purchases from Global Foundries to be approximately $1.2 billion in 2014 on a take-or-pay basis.
+Our 2014 wafer purchases are in line with our current PC market expectations and also include the manufacturing of certain GPU and semi-custom game console products at Global Foundries. There are no special payment triggers as part of the fourth amendment of the wafer supply agreement for 2014. In Q1 2014, we spent approximately $250 million on wafer purchases from Global Foundries.
+Let me now provide some specifics on the quarter. Revenue in the first quarter of 2014 was $1.4 billion, a decrease of 12% from the previous quarter and an increase of 28% year over year. Typically the first quarter of the year is a seasonally down quarter, and the sequential decline was driven by decreased sales of both our traditional and semi-custom products. Gross margin was 35%, flat sequentially. The first quarter result includes a $4 million benefit from the sale of previously reserved inventory in the third quarter of 2012 as compared to a $7 million benefit in the fourth quarter of 2013.
+Non-GAAP operating expenses were $421 million and down from $462 million in Q4 2013. GAAP operating expenses of $438 million, and include a $14 million charge for workforce rebalancing severance expenses as part of the ongoing transformation and diversification strategy at AMD as we continue to increasingly focus and deploy appropriate resources to our high-growth opportunities.
+Consistent with our strategy to transform AMD and manage for sustainable profitability, non-GAAP operating income was $66 million and non-GAAP net income was $12 million, while non-GAAP earnings per share was $0.02, calculated using 761 million diluted shares. Adjusted EBITDA was $139 million, a decrease of $26 million from the prior quarter, primarily due to reduced operating income.
+Now turning to the business segments. Computing Solutions segment revenue was $663 million, down 8% sequentially, in line with seasonal trends. The decrease was primarily due to lower desktop and chipset unit shipments, partially offset by higher notebook unit shipments. Computing Solutions' operating loss was $3 million, an improvement from an operating loss of $7 million in the fourth quarter, despite the sequential $8 million or $59 million decline in revenue. This was driven primarily by lower operating expenses.
+Graphics and Visual Solutions segment revenue was $734 million, down $131 million or 15% from the prior quarter, primarily due to a decrease in sales of our semi-custom SOCs. Operating income was $91 million, compared to an operating income of $121 million in the prior quarter.
+Turning to the balance sheet. Our cash, cash equivalents and marketable securities balance, including long-term marketable securities, totaled $982 million at the end of the quarter, close to our optimal balance of $1 billion and well above our target minimum of $600 million. During Q1 2014 we also made the final $200 million cash payment to Global Foundries related to the reduction of the take-or-pay wafer obligation commitments for 2012.
+Inventory was $869 million, down $15 million or 2% sequentially as we reduced graphics inventory.
+Debt as of the end of the quarter was $2.14 billion, up slightly from the prior quarter. During the first quarter we repurchased $62 million of our 6% convertible notes due in May 2015 in the open market utilizing cash on hand. We also issued $600 million in principal value of 6-3/4% notes due in March 2019 utilizing the proceeds to extinguish most of our 6% convertible notes due in May 2015 and approximately $50 million of our 8-1/8% notes due in December 2017. The remaining net proceeds of approximately $80 million borrowed under the new debt issuance will be used to pay down or repurchase outstanding debt in due course.
+By executing these transactions, we have pushed out the maturity of a significant portion of our near-term debt and now have no significant debt maturity spending until December 2017, a period of more than three and a half years.
+Accounts payable at the end of the quarter was $483 million, down slightly from $519 million in the fourth quarter.
+Lastly, we had negative free cash flow of $225 million in Q1 2014, largely due to the previously mentioned $200 million payment of Global Foundries.
+Now turning to the outlook, for the second quarter of 2014, AMD expects revenue to increase 3% sequentially plus or minus 3%. Gross margin is expected to be approximately 35%. Non-GAAP operating expenses are expected to be approximately $435 million. Inventory is expected to increase slightly from the first quarter and cash, cash equivalents and marketable securities, including long-term marketable securities, is expected to be approximately $1 billion.
+In closing, we are pleased with our first quarter results in a seasonally down quarter. We have started 2014 with continued financial and operational discipline and maintain non-GAAP net income profitability for the third quarter in a row. We are making continued progress in our strategic transformation journey with the goal of transitioning approximately 50% of our revenues to high-growth adjacent markets and businesses by the end of 2015. Our focus in 2014 remains on managing for profitability as we work to deliver full-year revenue growth and net income profitability.
+With that, I'll turn it back to Ruth. Ruth?
+Ruth Cotter
+Thank you, Devinder.
+Operator, we'd be now happy for you to poll the audience for questions please.
+Question-and-Answer Session
+Operator
+Certainly. [Operator Instructions]
+And our first question comes from Betsy Van Hees from Wedbush Securities. Please go ahead.
+Betsy Van Hees â Wedbush Securities
+Good afternoon. Congratulations on the quarter and the guidance. Rory, I was wondering if we could dig a little deeper into your commentary. You said that you now see the PC market declining 7% to 10%, versus your prior guidance of 10% -- down 10% sequentially, sorry. And I was wondering if you could tell us, give us a little more detail as to what happened during the quarter to give you that confidence level that the PC market will decline at a lesser rate than your previous expectations.
+Rory Read
+Thanks, Betsy. Yeah, absolutely. What we've seen is the commercial market's been a bit stronger. Whether that's driven by the XP refresh work that's gone on through April, or it's continuing refresh across commercial, I do believe commercial is going to be a bit stronger this year than we anticipated based on that XP refresh and the strength of the overall economic environment. And that's offsetting a bit of the pressure that we're continuing to see in consumer from tablet.
+I think the PC market will be down, no question, and I believe that it's down 7% to 10%. And it's really driven on that strength of the commercial space.
+As it relates to us though, Betsy, what I like about what we're doing is the diversification strategy is really taking hold. What we're trying to do is to win in the desktop space as well as capture [indiscernible] commercial segment for AMD. And that's why I talked about in the early part of the call that we see the opportunity for us, AMD, to grow our PC revenue in the coming quarters of 2014.
+Betsy Van Hees â Wedbush Securities
+Thanks, Rory. And since you mentioned the desktop business as well as the notebook, your ASPs were flat sequentially, and I would assume that your desktop ASPs are higher than your notebook, but yet your ASPs were flat, which is really great. I was wondering if you could talk a little bit more about what drove that flat ASPs in the market and what you're seeing.
+Lisa Su
+Yeah, Betsy. This is Lisa. Maybe let me give you a little color on that.
+So, yeah, relative to what we saw, was, you know, very much in line with our strategy that we've been weighing out on improving the mix of our product. So in the desktop channel, in the first quarter, we launched Kaveri at the high end of the stack. So from that standpoint, it did very well, and that was a good driver for us in terms of the mix improvement. And in the notebook business we also saw that we're starting to launch some of our new products that will go into market later in the second quarter. So we started shipping Beema in the notebook segment. And both of those helped to, you know, keep the ASPs at that flattish range.
+Betsy Van Hees â Wedbush Securities
+Thanks, Lisa, that was very helpful. And then my last question and I'll jump out of the queue and let others ask questions, is about, how should we look at the guidance of basically flat to up 6%? As you look at your different business units, will competing will be growing more or semi-custom be growing more? I wonder if you could help rank us on how we should be looking at and modeling that?
+Rory Read
+Yes. So from a standpoint of what we talked about in the early part of the call, there's no doubt that we continue to see momentum across the growth businesses. You know, Betsy, this has been a record ramp in terms of the game consoles. You probably saw some of the news coming out of Sony earlier this week. Microsoft had a very good launch with the Titanfall game. These are perfect examples of how when we combine our IP and design expertise with their great ideas, we can really breathe life and create a real change in the marketplace. We see that in embedded, we see that in semi-custom, we see that in pro graphics. These are all areas -- dense server -- where we see an opportunity for us to continue to build on that momentum.
+At the same time, our part of the PC business, we're doing a nice job of introducing a nice set of new products that are positioning us to grow as we come to the next quarters of 2014.
+Betsy Van Hees â Wedbush Securities
+Thanks, Rory. And once again, congratulations on a great quarter and guidance.
+Rory Read
+Thanks, Betsy.
+Operator
+Our next question comes from Vivek Arya from Bank of America Merrill Lynch.
+Vivek Arya â Bank of America Merrill Lynch
+Thanks for taking my question. I actually had one short-term and then longer-term question. So on the shorter-term, I'm curious, what's your sense of the inventory of game console or chips in the channel? I mean you certainly had a very strong ramp. But if my math is right, by Q2 you would have probably shipped over 20 million console chips, which is I imagine, you know, 4 million, 5 million above the potential sales of those consoles. Is it that we should be expecting, you know, seeing those second half just because of the lag between the new ship and when the consoles ship? Or just if you could give us a sense of what the inventory situation is of all these console chips.
+Lisa Su
+Sure, Vivek. This is Lisa. Let me give you some guidance there.
+So in terms of how the game consoles have behaved, I mean they've actually done quite well. There were some seasonality in the first quarter coming off of a very strong holiday season, but we've been pleased with the results.
+And relative to inventory, we don't see any significant inventory build-up in the channel. So our expectation for semi-custom is that the second half in terms of units will be higher than the first half as we're going into the second holiday season. And everything that we see is that the consoles are selling through nicely.
+Rory Read
+And Vivek, one of the things that we're taking a deep focus is we're consciously managing how we're introducing product into the market. Remember, as we talked about in 4Q, how we manage the notebook transition, you saw that, in terms of a return to seasonality in 1Q. We're doing the same thing, working with our strategic partners across gaming to build the product, to introduce the product, to create a velocity model where the product's going into the channel, moving through cleanly, and executing off of that site. That's the kind of business and execution we want to drive consistently so we have nice, smooth revenue through this.
+Vivek Arya â Bank of America Merrill Lynch
+Got it. And then maybe, Rory, you guys have been able to achieve your target for the semi-custom as part of your revenues last year and you have laid out a longer-term target. I'm curious, what do you think is going to be the proportion of semi-custom by the end of 2014? And as part of that, I think you have mentioned about one or two opportunities -- if you could give us some more color what end-markets do they represent, when should we start baking those, and what milestones should we look for in those opportunities?
+Rory Read
+Sure. From a semi-custom perspective, we see a very robust and interesting pipeline across many segments, and I'm sure Lisa will add some color in just a second. We are on track to tackle the one to two design wins this year. I think they're very interesting. And as we look through the year, as Lisa just said, Vivek, I think that we see momentum in this ramp, we see momentum in this launch, and we expect this business to continue to move through the year well.
+So, Lisa, did you want to add some color on where you see these design wins and where the robustness of this pipeline is?
+Vivek Arya â Bank of America Merrill Lynch
+Sure. So, you know, Vivek, when we talk about the opportunity pipeline for semi-custom, they are very, you know, sort of tailored opportunities, but they are across multiple segments. So our strength is currently in gaming, given our strength in graphics. But we're seeing opportunities across mobile enterprise as well as some of the other consumer sectors.
+I think our engagement model with these guys is very, very deep architectural discussions and really solutions work. And that's what we're in the progress of doing right now. And so we have good visibility into achieving the key milestones of one to two design wins this year.
+Rory Read
+And that's a really important guidepost for you to look for, Vivek, as we demonstrate this as a key part of our business, a key part of our strategy, and showing those design wins and delivering on the commitments we're making here on this call this year is a very important part that you should look at, and we're on track for those items.
+Vivek Arya â Bank of America Merrill Lynch
+Got it. And then last very quick one on the long term. You guys have clearly now stabilized the business. So as we think about your longer-term targets, which is to get 50% of revenues from semi-custom, what does that imply for the business model in terms of gross and operating margins? Because your gross margins have come down to the mid-30s level. How should we think about those gross and operating margin numbers to construct a longer-term model for AMD. Thank you.
+Rory Read
+Sure. So what we've talked about in terms of the strategic view is we want to enter into these growth segments. We used to be a business centered over one stream of revenue, one opportunity, the PC market. Now we've introduced five new ones with our traditional space that seeks key markets where we can leverage our core IP. We see this as an opportunity to consistently grow and to consistently expand profitability. We'll look through 2014, '15, '16, '17 as an opportunity for us to lift this revenue consistently and deliver profitability. I don't think we're ready yet to say what that growth rate is because we're in the transformation phase, and clearly we want to continue to demonstrate to everyone on this call that when we make a commitment, we deliver on that commitment.
+Devinder Kumar
+Yeah. Vivek, one clarification. You mentioned 50% on the semi-custom space, the 50% target, at the end of 2015, in addition to semi-custom, which obviously is a big piece, also includes dense server, professional graphics, embedded, all of those three higher than the corporate average from a gross margin standpoint. Semi-custom, you called it right, the gross margin is lower than corporate margin, but it's operating margin accretive. And then we have ultra-low-power business that's part of the mix that Rory mentioned in terms of the six total businesses that we are focused on, to get to the 50% by the end of 2015.
+Vivek Arya â Bank of America Merrill Lynch
+Great. Thank you.
+Operator
+Our next question comes from Christopher Rolland of FBR Capital Markets. Please go ahead.
+Christopher Rolland â FBR Capital Markets
+Hey guys. Congrats on the quarter and thank you for letting me ask question as well. Can you guys talk about the puts and takes of either moving or perhaps not moving your next-generation follow-on to Kaveri to the next node here and how this might affect your decisions to move other products and families to the next node, or not to move them? Thanks.
+Lisa Su
+Sure, Chris. So let me take that and give you a little bit of our thinking.
+So in terms of product and technology selection, certainly we need to be at the leading-edge of the technology roadmap. So what we've said in the past is certainly this year all of our products are in 28-nanometer across both, you know, graphics client and our semi-custom business. We are, you know, actively in the design phase for 20-nanometer and that will come to production. And then clearly we'll go to FinFET. So that would be the progression of it.
+Relative to the competitiveness of the products, we feel very good about the competitiveness of the products, to vary in terms of total compute, what we're able to do across the stack with our Beema product line and our graphics capability.
+Rory Read
+And what you're also going to see, Chris, is how we're going to continue to leverage our software stack and our software capability to truly differentiate, not only in terms of performance but tailor it to the specific solutions that we see out there, and engage us. As a good example of that, the work that we're doing there is being proved out and the examples like PC market point one, these are industry metrics that are showing how AMD's products performed, and software plays a very key role in that. And we're going to continue to invest in that.
+Christopher Rolland â FBR Capital Markets
+Okay, great. Also there have been pretty widespread stories out there about high-end gaming cards either not on the shelves or going two times MSRP. And I know a lot of those are going into coin mining [ph] out there. So what do you guys in terms of this market right now? Is it still alive? Have you guys met the supply now out there or do you think this quarter maybe that it will be met? And then where do you think that sort of goes over time?
+Lisa Su
+Sure. So, Chris, the graphics market was certainly good for us in the first quarter. We were pleased with the performance. What we did see is we did see strong demand, particularly in the enthusiast and performance segments, with our R9 and R7. We did have let's call it the supply not quite meeting demand for the first quarter, and that was largely due to just like I said high demand. We expect that to catch up in the second quarter.
+Relative to the big coin or the white coin stuff, the way we look at it is, we're designing these products to be leadership, you know, graphics, gaming capability. We have a lot of investment in the ecosystem and all of the other things like in our project mantle that really gets the software ISVs optimizing to AMD. So we think that's driving long-term demand. And relative to the current currency stuff, we'll see how it develops over the next couple of quarters.
+Christopher Rolland â FBR Capital Markets
+Okay, great. I'll just squeeze in one more quick one if that's all right. So, love the profitability in GPU. But there was an operating loss in all other, maybe wider than expected. Maybe if you can go on the little puts and takes, what that's all about, and what we might expect there for the rest of the year. Thanks.
+Devinder Kumar
+I think just to clarify, when you say wider than expected loss, what do you mean by that, Chris?
+Christopher Rolland â FBR Capital Markets
+Wider than I had expected, let's put it that way.
+Devinder Kumar
+Yeah, okay. Well, if you look at the Computing Solutions segment, if that's what you're referring to, revenue was down because of seasonality from Q4 to Q1. And the loss I guess was $7 million going to $3 million. We do have the impact in all other of the stock comp expense. That's pretty -- it was the same as last quarter. And then there was a severance that I talked about in my prepared remarks of about $14 million that exist in the all other as opposed to the two business segments.
+Rory Read
+I think, Chris, what's really important to look in terms of the compute segment is the fact that we returned to a more seasonal performance in terms of our business, and that we're talking about the opportunity for us to see growth in the future quarters of 2014. That's different than where we've been over the past two years, and that reflects the kind of products that we're creating and the kinds of strategic relationships we're building with our customers.
+Let's go to the next question.
+Operator
+Our next question comes from Hans Mosesmann from Raymond James. Please go ahead.
+Hans Mosesmann â Raymond James
+Thank you guys. Question, this is probably for Lisa, in terms of making a big push in tablets, subsidizing a fair amount of the design expense in Asia with the ODMs and so forth, what impact, if any, does that have with low-ends and Beema? Because there's probably some -- a gray area there where you actually could compete with some of these types of platforms. And I have a follow-up. Thanks.
+Lisa Su
+Sure. So, Hans, when we look at sort of what we're doing with our product portfolio, it's really about building a balanced portfolio. Clearly low-end tablets are very competitive and we are not going after the very low end of the space. And we're looking at a balanced portfolio around both profitability and share.
+And so for Mullins and Beema, I mean I think we have a strong sort of design wins for those products. We expect those to launch in Q2 and build through the second half of the year. And what we're looking to do with those products is really get a clear portfolio mix. So we'll be very aggressive at the low end where we need to be for the entry-level notebooks. But we want to balance that with enough profitability off the stack, and we think that the performance of these products, particularly Beema, that's very well reaching up further than we had before with our previous generation Kabini.
+Hans Mosesmann â Raymond James
+Okay, thanks. And then as a follow-up, so you started sampling Seattle, you're going to be shipping in Q4. What is the visibility, if any, in general, in terms of the adoption that you see into next year by hyper-scale guys and so on for ARM in general -- yeah.
+Lisa Su
+Sure. So, you know, what I'll tell you is that there's been a lot of customer interest around Seattle, so certainly for the server guys, the hyper-scale guys and then even some adjacent markets, there's good customer interest. I think the important thing for us and what we're working with the customers on is platform development and software development and ensuring that we get some of the ecosystem there.
+So relative to revenue, it's probably a little early to tell what's going to happen in 2015, but I'll say the interest in the platform is quite high and it's a major milestone for us to introduce our first 64-bit ARM chip into the market.
+Rory Read
+And Hans, getting that ambidextrous strategy in place and launch it, that's a really important milestone. What we're doing here is identifying this opportunity long before it's taken place. And we're catching it just as the way it is forming. That's the kind of innovation leadership that we really want to go after.
+This is going to be an important market over the next three, five years, and we have an opportunity to truly lead in this ARM server ecosystem, and take advantage of our ambidextrous capability. This is spot-on in the strategy.
+Hans Mosesmann â Raymond James
+Great. Thank you very much.
+Operator
+Our next question comes from David Wong of Wells Fargo.
+David Wong â Wells Fargo
+Thanks very much. Does your guidance for the June quarter assume Computing Solutions sales go up or go down sequentially?
+Devinder Kumar
+We assume that they go up from Q1 to Q2.
+David Wong â Wells Fargo
+Great. And when will we expect you to introduce GPU products at a node below 28 nanometers? Will have you have any 20-nanometer GPUs this year or next year?
+Lisa Su
+David, I think what I said earlier sort of what we're doing in terms of technology strategy, we are 28 this year, we have 20-nanometer in design, and then FinFET thereafter. So that's the overall product portfolio.
+David Wong â Wells Fargo
+That includes GPUs, Lisa?
+Lisa Su
+That's the overall product portfolio, so I'm not being specific about graphics versus other products.
+David Wong â Wells Fargo
+Okay, great. And my final question, when do you expect to first start generating semi-custom revenues from chips made at Global Foundries? And will moving to Global Foundries for game console chips reduce the cost of the chips or is it a neutral move?
+Lisa Su
+Yes. So we will see semi-custom chips from Global Foundries in the second half of this year. And relative to our operating margin guidance on semi-custom, it stays the same. So it's what we've said previously.
+David Wong â Wells Fargo
+Great. Thank you.
+Operator
+Our next question comes from Cody Acree of Ascendiant Capital Markets. Please go ahead.
+Cody Acree â Ascendiant Capital Markets
+Thanks for taking my questions, and congrats. Lisa, you talked a bit about the enterprise strength. Can you talk about where your split is now in your branch, the consumer, and what you expect that to look like for the rest of the year?
+Lisa Su
+Right. So relative to the client business, was that the question, or relative to data center?
+Cody Acree â Ascendiant Capital Markets
+No. Clients.
+Lisa Su
+Okay. Yes, we also do client business. I would say we're pretty under-represented in commercial or enterprise at this point in time. So we have a good set of design wins, and those are going to ramp in the second half of the year. We've worked very closely with some of the major OEMs. And so we expect the commercial client side of the business to be a growth engine for us. As Rory said, we expect to grow the PC business overall, and commercial will be an important piece of that.
+Cody Acree â Ascendiant Capital Markets
+And you talked about the low end of the tablet market, something you're going after, we've heard Intel talking pretty aggressively about going after the sub-$400 notebook market. What impact are you seeing there in an area that has typically been your strong suit?
+Lisa Su
+Certainly the consumer portion -- the low-end consumer portion of the PC business is the most volatile piece of it, so there is a lot of competition there and the prices are aggressive. However, back to our overall strategy, I think the key piece for us was building a strong foundation for the client business. It's an important piece of our business and we want to manage it for both growth and profitability.
+And so our focus is really on, how do we get, you know, the right mix into the marketplace, making sure that we're selling our value proposition, you know, the strength of our products? And so if we miss on some units at the low end, so be it. But we want to make sure that we have a balanced business across the stack going forward.
+Cody Acree â Ascendiant Capital Markets
+And then lastly, on the dense server side, so Seattle in the third quarter. What's the intersection of SeaMicro working on your Seattle platform, timing that, versus what has historically been more Intel levered?
+Lisa Su
+Yes. So one of the advantages of having a systems business is that we can do co-development between our chip development and our systems development. So it will be quite important for us to have Seattle and SeaMicrosystems, and that's in development.
+Cody Acree â Ascendiant Capital Markets
+And will those launch in Q4 together?
+Lisa Su
+The Q4 statement was a chip statement.
+Cody Acree â Ascendiant Capital Markets
+Okay. And then lastly, the interest, the heavy interest you said you're seeing in Seattle. How big of that -- how much of that is driven by the strength that you have in your fabric?
+Lisa Su
+I think what we're seeing in Seattle is really interest from a number of different angles. I think the, you know, there's general interest in ARM, there is interest in sort of trying out the new workloads with the capability. I think we see the fabric as an important differentiator, but we see that as a longer-term differentiator in the systems portion of the business. So I think the interest in Seattle is really, you know, it's the first 28-nanometer, 64-bit server chip out in the market. And I think that's driving the customer engagement.
+Cody Acree â Ascendiant Capital Markets
+Thank you very much, and congrats.
+Operator
+Our next question comes from Joe Moore of Morgan Stanley. Please go ahead.
+Joe Moore â Morgan Stanley
+Great. Thank you. The timing [indiscernible] GPUs into Global Foundries, is that also second half? And I guess just do you think there's any risk of getting those products qualified on time to sort of use up the entirety of the $1.2 billion [indiscernible]?
+Lisa Su
+Yeah, actually for the timing of the graphics in Global Foundries, we've already started shipping from Global Foundries in graphics. So we think that the qualification cycle has been as expect, so.
+Rory Read
+And from a standpoint, Joe, just like we did in 2013, we laid out our commitments and delivered on those commitments. As we move into '14, that WSA, each of the commitments we are doing and making here, we're focused on the execution to deliver those. We're on track to meet that objective of WSA, and you should see it as that commitment.
+Joe Moore â Morgan Stanley
+Okay, great. Thank you. And then for semi-custom products outside of consoles, are you -- do you meet [ph] with the GPU in those sales or are these kind of more GPU driven, or is it the combination of the two? I mean, can you just give us some idea of kind of what the value proposition that you're selling outside of the game console market in semi-custom?
+Lisa Su
+Sure. So really the value proposition for semi-custom outside of game consoles is sort of the integrated package between our CPU capability, having both ARM and x86 capability, as well as our leading-edge graphics, and the ability to integrate sort of very custom solution for these architectures. So I think it's all of the above. The foundation is the IP, and then the blue is sort of the SOC integration and architectural capability.
+Rory Read
+Joe, one of the things, as you may know, I came from the customer side. The customer side that we're working with day in and day out to create that strategic relationship, they're looking for an edge. Just like we did with Microsoft and Sony, we created an edge for them. We created a differentiated solution by narrowing our IP with their ingenuity and product ideas. That's exactly what we want to do in semi-custom. We're becoming easy to work with, we are delivering on our execution and commitments with that [indiscernible] and people are out in the marketplace looking for that edge on the semiconductor side how they can beat the market. And they don't want just commercial standard solutions anymore. They want a unique offering that allows them to change the game and win. And that's exactly what we're trying to do in semi-custom.
+Joe Moore â Morgan Stanley
+Okay. Thank you.
+Operator
+Our next question comes from John Pitzer with Credit Suisse. Please go ahead.
+Andrew Paik â Credit Suisse
+Hi. This is Andrew Paik calling on behalf of John Pitzer.
+Just to quickly touch on embedded on semi-custom business again. It'd be very helpful if you could elaborate on some of the specific application products that you're targeting. I guess those, you're not necessarily engaged in right now, but targeting within the growth end-markets you discussed earlier. Thank you.
+Lisa Su
+Sure. So -- Andrew -- so on the semi-custom side, as we said, there's a wide range of opportunities. These are usually larger opportunities that drive higher volume and can justify a semi-custom NRE engineering expense. So, things like gaming, of course, mobility, enterprise applications, and sort of other consumer, things like living room type applications, would be kind of semi-custom, sort of high-volume stuff.
+Relative to embedded, we really see embedded as a very interesting long-term growth opportunity because it fits very well with our APUs and GPUs, and we're able to differentiate and call, you know, visual embedded type solutions. So, things like digital signage, industrial controls and automation, medical imaging. Those are some examples. Fin client [ph] are other examples that fit well with our embedded business. So those are the end-markets that we're attacking.
+Andrew Paik â Credit Suisse
+Got it. Thank you. Very helpful.
+And I just want to quickly touch on the gross margin, longer-term gross margin structure again. I know someone asked this earlier, but is it largely a function of product mix or is there other I guess important element that could be a positive driver in the near-term future. Thank you.
+Devinder Kumar
+I think if you look at the gross volume drivers, the embedded business that Lisa and Rory talked about. We talked about the professional graphics, the growth we had in 2013 and continued the momentum into 2014, you have the dense server piece of it, and then a richer PC mix on the commercial space. All of those in combination are higher than corporate average gross margin. So that's obviously good.
+The PC market environment obviously is a factor, and we see that at least from where we were with the 10% down to the 7%, 10% not improving. If effect [ph] richer mix there, that could benefit the gross margin.
+And part of the mix here is because the semi-custom business is likely different -- is a different model. You have lower than corporate average gross margin, but is accretive to the operating margin line. And that is where the mix and the interplay happens for the gross margin for the short term and also for the longer term as we continue to diversify our product portfolio.
+Andrew Paik â Credit Suisse
+Got it. Thank you. And as my last question, relative to your updated view on the overall PC end-market to be down approximately 7% to 10% year over year, I guess do you expect your Computing Solutions business to outperform your expectation of the overall PC end-market or mostly in line to the -- to your updated view of the PC market? Thank you.
+Rory Read
+From our perspective, I think there's an opportunity for us, as we said, to return to seasonality in first quarter. We did that. Now we've set the objective to grow in the future quarters of 2014. I think that's the next step and the logical next step in terms of our stabilization of that business.
+Let's take a look at how this next quarter unfolds. We have a whole set of new commercial products that are beginning to roll out. We have the desktop channel. You may have noticed that we introduced that low-power socketed APU into the channel this quarter. We're seeing some nice trends there and some nice product introductions, but we also have a competitor that's really taking a different approach in terms of revenue management and they have a different philosophy on profitability sometimes, and we're going to choose the mix and the right business.
+This idea of counter-revenue [ph] is a foreign idea to us.
+Andrew Paik â Credit Suisse
+Got it. Thank you -- very helpful. Thank you very much.
+Operator
+Our next question comes from JoAnne Feeney of ABR Investment Strategy.
+JoAnne Feeney â ABR Investment Strategy 
+Hi. Congrats, folks, on a nice quarter. I have a question about the Global Foundries new agreement. Given what you ended up spending last year, sub $1 billion, this year up to $1.2 billion. Can you perhaps give us a sense of a breakdown of that number, that growth in the anticipated payments? How much of it is coming from higher anticipated production of chips they already product, the APUs, and how much of it is coming from the graphics that you're moving over and then how much from the semi-custom you anticipate in the second half? If you could give us any color on that, it would be really helpful.
+Devinder Kumar
+Yes, JoAnne, I can give you some color. I may not get that specific or granular in terms of the various parts that you mentioned, but if you recall, 2013 we had an original agreement at about $1.2 billion. As we broadened in 2013 with the relationship and the partnership, we took $200 million less wafers in 2013 without any special payments or penalties.
+If we go on to 2014, we look at the demand profile, we have taken about $250 million in Q1 of 2014 and the overall purchases on a take-or-pay basis for 2014 are $1.2 billion. What I can tell you is everything we've talked about in the PC business, the purchases of the PC products from Global Foundries is in line with our business expectations, no impact from a financial standpoint and from a gross margin standpoint. And the balance of that obviously is in the semi-custom high-end graphics space, the products that we are taking from Global Foundries in 2014.
+JoAnne Feeney â ABR Investment Strategy 
+Okay, that's helpful. And then as a quick follow-up, in your efforts to better representation in the commercial business, is it primarily in the desktop that you feel like you're making inroads or the notebook, or a balanced mix of both?
+Lisa Su
+Yeah, JoAnne, we actually see opportunity across desktop and notebook for commercial, and it's really a good set of design wins and platforms that we think will be offered in the market in the second half of the year.
+JoAnne Feeney â ABR Investment Strategy 
+Okay, great. And then one other clarification. On the new semi-custom business you're working on this year, it sounds like you are approachable enough that you have these design wins in place, you anticipate getting these design wins, but perhaps it's too early to talk about the revenue stream. Can you give us any sense of where you are in the design win process and perhaps any sense of how the revenues might compare to what you have so far on the game console side?
+Rory Read
+We're, as I said earlier, JoAnne, we're on track to close one to two of those wins this year. And I think that's clear as where we are and what we're trying to do. Let us get those things closed. And there are going to be confidential wins, but we'll make it clearer as the year unfolds. That's about where we should be. But we're on track on those one to two wins as we said we would be for 2014.
+JoAnne Feeney â ABR Investment Strategy 
+Okay, thanks. That's helpful.
+Ruth Cotter
+Operator, we'll take two more questions please.
+Operator
+Certainly. Our next question comes from the line of Mark Lipacis with Jefferies & Co. Please go ahead.
+Mark Lipacis â Jefferies & Co.
+Thanks for taking my questions. First question, hoping you can help me with some back-of-the-envelope math, if you're going to target 50% from high-growth areas, I think from my math, that implies about $1 billion of additional revenues above -- beyond your gaming consoles. And if you're going for one or two more semi-custom deals, then that implies that these would be big revenue kind of homerun opportunities. Is that a fair way to think about it?
+Rory Read
+Well, you should look at the 50% objective and target that we are on track to achieve by yearend 2015 as across those key high-growth segments. There's five of them. We're going to see progress, and we mentioned, there was year-to-year progress embedded. There was sequential progress in terms of pro graphics. These are all going to be factors.
+And they're also factors, as Devinder highlighted, in the mix to drive the gross margin strategy across the portfolio. What we target is really interesting applications in the semi-custom space where we can partner with an industry leader to create a really differentiated solution. That in hand [ph] generally targets something in the $200 million to $500 million plus lifetime revenue targets.
+Mark Lipacis â Jefferies & Co.
+That's very helpful, Rory. Thank you. And then a follow-up question, on the manufacturing process roadmap, Lisa, the -- it looks like your -- Global Foundries signed a partnership or announced a partnership with Samsung to license their technology on fully depleted 14-nanometer FinFETs. You talked about your roadmap to FinFETs, Global Foundries, if they are using fully depleted technologies, is that different than the technology they're currently using? And would that require additional investment by you guys to try to get to that ultimately?
+Lisa Su
+Sure, Mark. So let me comment on that. So if we look at the overall relationship that Global Foundries signed with Samsung, I think we view that as a good thing. I think it's good for the industry and it's good for AMD relative to collaboration and getting FinFETs to market sooner.
+Relative to investment side, I think from that standpoint, we have a roadmap to go to FinFETs, it's a very important technology for us, and I wouldn't see that disagreement, changes or affects that in any way.
+Mark Lipacis â Jefferies & Co.
+Thank you. Last question if I may. The -- according to 8-K filing, it looks like Mubadala exercised warrants to get to 19% ownership. Are there any implications on steering the direction of the company, or should we read anything into this? How should we think about that? Thank you very much.
+Rory Read
+Yeah, no problem, Mark. We don't generally comment on our investors' actions and strategies. We have a very strong relationship and focus with our key investors. I think you should probably talk to them in terms of where they're going.
+Mark Lipacis â Jefferies & Co.
+Fair enough. Thanks.
+Operator
+And our final question comes from Kevin Cassidy with Stifel Nicolaus. Please go ahead.
+Kevin Cassidy â Stifel Nicolaus
+Thanks for squeezing me in. The professional GPU business seems to be getting some good momentum. Can you tell us -- give us an idea what type of growth you expect and maybe what percentage of your GPUs it could be this year and next year?
+Lisa Su
+Yeah, Kevin, let me try to answer that. So the pro graphics business is definitely a growth opportunity for that. You've heard that in our, you know, it's part of those five segment -- five businesses that we think will drive to that 50%.
+Without getting into exact numbers, I would say we're quite under-represented in pro graphics right now. And so it's been a key focus item for us to get the right products and drive growth. We saw sequential growth from Q4 to Q1, that was good. We talked about the Apple Mac Pro driving some of the share gains there. And then we've just launched a new W9100 product that is exceptional for the high-end professional workstation market.
+So we think it's a great growth opportunity for us, and we'll give more color on that as we progress through the year.
+Kevin Cassidy â Stifel Nicolaus
+Okay. Thank you very much.
+Ruth Cotter
+Okay, operator, that concludes our first quarter 2014 earnings call. And we'd like to thank everybody for participating this evening.
+Operator
+Thank you, presenters. And thank you, ladies and gentlemen. Again this does conclude today's call. Thank you for your participation, and have a wonderful day. Attendees, you may now all disconnect. Thank you.

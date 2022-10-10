@@ -1,0 +1,380 @@
+Arista Networks, Inc. (NYSE:ANET) Q1 2016 Earnings Call May 5, 2016 4:30 PM ET
+Executives
+Chuck Elliott - Director, Product and Investor Advocacy
+Jayshree Ullal - President, Chief Executive Officer & Director
+Ita M. Brennan - Chief Financial Officer
+Marc Taxay - Vice President & General Counsel
+Mark Stephen Smith - Senior Vice President-Worldwide Sales Operations
+Analysts
+Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)
+James E. Faucette - Morgan Stanley & Co. LLC
+Jeffrey Kvaal - Nomura Securities International, Inc.
+Paul Silverstein - Cowen & Co. LLC
+Tal Liani - Bank of America
+Alex Kurtz - Sterne Agee CRT
+Alex Henderson - Needham & Co. LLC
+Ittai Kidron - Oppenheimer & Co., Inc. (Broker)
+Simon M. Leopold - Raymond James & Associates, Inc.
+Hendi Susanto - Gabelli & Company
+Jess Lubert - Wells Fargo Securities LLC
+Ryan Hutchinson - Guggenheim Securities LLC
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Rajesh Ghai - Macquarie Capital (USA), Inc.
+Stanley Kovler - Citi Research
+Mitch Steves - RBC Capital Markets LLC
+Mark Moskowitz - Barclays Capital, Inc.
+Steven M. Milunovich - UBS Securities LLC
+Simona K. Jankowski - Goldman Sachs & Co.
+Operator
+Welcome to the First Quarter 2016 Arista Networks' Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. As a reminder, this conference is being recorded, and will be available for replay from the Investor Relations section at the Arista website following this call.
+I will now turn the call over to Mr. Chuck Elliott, Director of Investor Relations. Sir, you may begin.
+Chuck Elliott - Director, Product and Investor Advocacy
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks' President and Chief Executive Officer; and Ita Brennan, Arista's Chief Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal first quarter ended March 31, 2016. If you would like a copy of the release, you can access it online at the company's website.
+During the course of this conference call, Arista Networks' management will make forward-looking statements, including those relating to our financial outlook for the second quarter of the 2016 fiscal year, industry innovation, our market opportunity, and the impact of litigation, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K, and which could cause actual results to differ materially from those anticipated by these statements. These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call.
+Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis, and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that, I will turn the call over to Jayshree.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Chuck. Thank you, everyone, for joining us this afternoon for our first quarter 2016 earnings call.
+I am pleased to report that we had another good quarter. Our revenue grew 35% year-over-year to $242.2 million, while earnings per share was $0.68. This was driven by our new innovative platforms and differentiated EOS stack. Services contributed 12.3% of our overall sales as cloud demand fueled our growth across our top verticals, especially the cloud titans.
+From a geographic perspective, our customers in the Americas generated 76% of our total revenue, while our international theaters progressed steadily in the quarter. We delivered non-GAAP gross margins of 64.4% as we grew profitably in a highly-competitive and dynamic industry.
+We now have in excess of 3,850 cumulative customers, and we have increased our market share in 2015 for our relevant 10-gigabit, 40-gigabit, 100-gigabit Ethernet TAM to 12% in ports and 10% in revenue according to Cleveland Research.
+This quarter, we unveiled the next generation of the Universal Spine with its many roles with the Arista 7500R Series. Defying the traditional definitions of router and switch functions, the flagship 7500R blends the best of both with uncompromised Cloud Scale performance. Arista has been a longstanding pioneer of Spines since 2010 with deep and proven experience.
+The 7500R is inherently designed for investment protection across generations, a really rare feat in our industry. It is also our industry's first 100-terabit Spine. Combined with our innovative FlexRoute support for multiple routing protocols and rapid re-convergence of Internet tables, it supersedes prior notions of siloed places in the network for data center and core. By subsuming traditional router functions into the Spine, we are expanding our adjacency into the core and WAN router markets.
+In Q1 2016, we demonstrated many technology partnerships as well, including the integration with Checkpoint at RSA 2016, and with Palo Alto Networks at the Ignite User conference. Both are joint solutions for inserting security services into data center traffic flows using Arista's Macro Segmentation Services or MSS for short.
+Today, I would like to share a wild card topic with you on our Cloud Networking Strategy. It is clear to me, and us that the industry is changing with demand for more dynamic control for specific cloud-native applications. Rather than endure the perils of high operational cost of a monolithic closed OS, Arista recognized this trend very early on, and required an open, standards-based programmable network stack, which we pioneered as Arista EOS.
+We delivered differentiated attributes on it such as self-healing, high-availability, resiliency, a centralized network state database, modern scripting, granular programming and open APIs for interoperability. Our product and technology strategy is resonating and is symbolic of the continued shift from Enterprise IT to cloud workload.
+To cope with this inevitable shift, should networking move to a more component-based approach or continue as a network stack? The answer and the choice depends on the type of customer, and I want to reiterate that Arista is committed to different consumption models for the cloud. No one size fits all. We expect three delivery models for Cloud Networking as we enter into mainstream.
+One, Cloud-Class; here, the customers prefer best-of-breed systems like our Arista 7000 Series Leaf and Spine technology with our EOS brand of quality, high availability, extensibility across our top verticals. Two, Cloud Scale, cloud titans with engineering prowess demand hyperscale, and their desire for customization and control of their application environment means they sometimes need building blocks in their Leaf. Examples of this include Facebook's Wedge, Microsoft's SONiC or Google's focus on OpenConfig, used in conjunction with Arista's Spines of client (06:52) technology. Three, Cloud Converged Network. The more IT-based enterprises are seeking converged networks, and this convergence may be compute, storage, virtualization, containers or security.
+In conjunction with our technology partners, Arista seeks to leverage turnkey solutions, such as CloudVision. A good example is the open stack-based announcements in May of a converged system based on Arista Networking, Mirantis and Supermicro Systems, announced last month. Arista will vigorously pursue all three segments to address our Cloud Everywhere opportunity ahead of us.
+As we move into the second half of 2016, Arista is planning the addition of another strategic contract manufacturing partner. We have initiated the investment and local inventory hubs to support our increasing scale of operation. We believe, taking a page from the Tesla factories, that we can create a world-class automated manufacturing operation, and in doing so, bring more workforce to America. Naturally, we will incur some near-term costs and overhead to bring that kind of sustainable capacity and flexibility for our large customers.
+With that, I'd like to turn it over to Ita, our CFO, for our Q1 2016 financial detail.
+Ita M. Brennan - Chief Financial Officer
+Thanks, Jayshree, and good afternoon. This analysis of our Q1 2016 results and our guidance for Q2 2016 is based on non-GAAP, and excludes all non-cash stock-based compensation expenses, and legal costs associated with the ongoing lawsuits. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total GAAP revenues in Q1 were $242.2 million, up 35% year-over-year, and above our guidance of $232 million to $240 million. Our cloud titan vertical demonstrated continued strength in the first quarter, combined with solid contributions from the other verticals. Service revenues continued to grow, reaching 12.3% of revenue for the quarter, up from 11.5% in Q4.
+International revenues came in at $59 million, or 24% of total revenue, up from 19% last quarter. While we continue to focus on expanding our international footprint, you should expect our geographical revenue mix to fluctuate on a quarter-over-quarter basis, depending on the timing of U.S. and international deployment. Overall, gross margin in Q1 was 64.4%, slightly favorable to last quarter, and to our guidance of 62% to 65%, and reflecting the revenue mix in the period.
+Operating expenses for the quarter came in at $85.8 million, flat to last quarter. R&D spending was 22.7% of revenue, up from last quarter, reflecting growth in headcounts and continued prototypes and NRE investments. Sales and marketing expense was 9.9%, down from 11.4% last quarter, reflecting reduced variable compensation, offset by increased head count. Our operating income for the quarter was $70.1 million, or 29% of revenue.
+Other expense for the quarter was $0.4 million and our effective tax rate was 29.6%, resulting in net income for the quarter of $49.1 million, or 20.3%. Our diluted share count for the quarter was 72.2 million shares, resulting in a diluted earnings per share number of $0.68, up 36% from the prior year. Legal expenses associated with the ongoing lawsuits came in at $7.1 million for the quarter, below our outlook of $9 million on the last earnings call. As a reminder, these expenses are excluded from the non-GAAP results discussed above.
+Now, turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at $762.3 million. We generated $71 million of cash from operations in the March quarter. DSOs came in at 51 days, down from 54 days in Q4. We are pleased to see continued progress in this area during the quarter. Inventory turns were 3.6 times, up from 3.2 times in Q4. Inventory decreased to $84 million in the quarter, down from $92.1 million in the prior period. This reduction is the result of an ongoing focus on inventory management and supply planning.
+Our deferred revenue balance was $219.2 million, up from $197 million in Q4. The balance continues to be largely made up of short and long-term service contracts with some product deferrals related to acceptance terms and future deliverables. Accounts payable days were 26 days, down from 45 days in Q4, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $8.6 million with some incremental investments in R&D and operations.
+Now, turning to our outlook for the second quarter and beyond. We are pleased with our financial performance in the first quarter, with revenues and earnings per share up more than 35% on a year-over-year basis. As we look forward, we are excited about the fundamentals of the business and are seeing strong adoption of our new products across our verticals.
+As Jayshree outlined in her remarks, we plan to add an additional contract manufacturer, beginning in Q2 2016. In terms of what this means for the financials, you should expect to see us increase inventory by approximately $50 million to $100 million as we ramp new products and build out this additional manufacturing capacity.
+Turning to gross margin, our current view is that, while we may see some resulting increase in costs, all other things being equal, gross margin should remain within our previously stated long-term outlook of 60% to 65%. We may also incur incremental capital expenditures in the range of $5 million to $10 million in relation to this project.
+Now, turning to our guidance for the second quarter, which is based on non-GAAP results and excludes any non-cash stock-based compensation expenses and any legal expenses associated with the ongoing lawsuits; revenues of approximately $259 million to $265 million, gross margin of approximately 62% to 65%, and operating margin of approximately 26%.
+Our effective tax rate is expected to be 27% to 29%, with diluted shares of approximately $72.5 million. Please note, that based on our current understanding, we expect costs associated with the ongoing lawsuits to be approximately $8 million for the quarter.
+I will now turn the call back to Chuck. Chuck?
+Chuck Elliott - Director, Product and Investor Advocacy
+We will now begin the Q&A portion of the Arista earnings call. I'd like to request that everyone please limit themselves to a single question due to time constraints. Thanks, all.
+Question-and-Answer Session
+Operator
+We will now begin the Q&A portion of the Arista earnings call. Your first question comes from Kulbinder Garcha with Credit Suisse. Your line is open.
+Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)
+Thank you for the question. Just some clarifications, Jayshree, you mentioned again that the cloud titans were strong this quarter. Are we getting to the point now, whereby that vertical is disproportionately higher than the other three that you typically talk about? Or is it still quite balanced? And was there any specific â more than 10% customer concentration this quarter? And then for, Ita, just on the gross margin pressure that you might see from the new contract volume dynamics, is that just a one-quarter phenomena or could it last for a few quarters? Many thanks.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Kulbinder. I think, the full vertical balance continues, although very much like Q4, Q1 had a strong contribution from cloud titans. And as long as you see a strong contribution from cloud titans, the gross margins tend to be lower. So if you recall, we saw 64% in Q4, and we're continuing to see around 64%.
+And I would go as far as to say, perhaps 64% is becoming closer to our reality on a per-quarter basis, with the possibility of it going to 62% and 63%, as well. And that is a, reflection not just of the cloud titan mix, but any volume-driven customer in any of the verticals.
+Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)
+Okay.
+Jayshree Ullal - President, Chief Executive Officer & Director
+So I wouldn't say there's dramatic changes, but there's certainly a strong acceptance of key cloud titan customers who are increasing their spend in general in the cloud, and therefore with Arista. In terms of 10% concentration, we do not talk about this on a quarterly basis, but we'll certainly share this to you at the end of the year.
+Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)
+Okay. Okay.
+Operator
+Your next question comes from James Faucette with Morgan Stanley. Please go ahead. Your line is open.
+James E. Faucette - Morgan Stanley & Co. LLC
+Thank you very much. I guess, I just wanted to ask on â we hear a lot about internal development efforts at cloud titans, and I just wanted to get your color, Jayshree, on what you feel like the objectives generally are of those cloud titans on those internal development efforts and what their resources look like. But perhaps even more importantly, you also often talk about working with those customers to support their efforts. Can you give us some color on what you're doing to support those efforts? And how does that support benefit you in the long run? Thanks.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. Certainly. Thanks, James. We view these internal developments as important elements of application control for our cloud titans, and because we have such an open programmable EOS, we definitely view them not as a threat, but as an opportunity.
+And what I mean by that is, if you look at â let's take three examples of these that I tried to highlight earlier in my opening comments. We worked very closely with Facebook and Wedge and FBOSS to make sure that some of their user feed, cloud native applications could work better, and it's one use case in the least.
+Another example is our contribution of our drivers to SONiC; that was announced as part of OCP. A third example is the work that Google and AT&T and many companies are doing on OpenConfig in developing higher levels of abstraction. Arista is closely working on elements of EOS and tying that with these initiatives.
+So in that case, as I explained earlier, these end up being important building blocks, and typically, these are investments that the titans make that are not hundreds of thousands of engineers, but maybe tens of engineers. And so what we do and they do together is more tightly coupled and better together than each one alone.
+So from our perspective, there's always an important control of element for our cloud titans with the tremendous scale they have that we must help them with, and we look at this as joint development and joint solutions.
+Operator
+Your next question comes from Jeff Kvaal with Nomura. Please go ahead. Your line is open.
+Jeffrey Kvaal - Nomura Securities International, Inc.
+Yes. Thank you very much. I would like to follow-up on this interesting new wrinkle, which is the factory build. Could you take us through the thought process behind that a little bit? And could you help us understand, is this a new factory that's going to support one customer in particular? It sounded like that might be a possibility. Or is this something that is going to support all of your customers? That would be helpful. Thank you.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Sure. Sure. Absolutely. So first of all, as you've noticed, Jeff, we have a very large percentage of our large customers in the U.S. So this is intended to support all of our customers, and in particular, our large customers.
+So one of the things we do consistently is expand the scale of our contract manufacturers. We already have a couple of them, and now we're adding a third. And what I mean by that is, adding capacity can come in the form of just adding capacity with our existing contract manufacturers or adding another contract manufacturer.
+And we felt the need to automate the facility more, bring more proximity to our headquarters and our engineers for some of the new product ramps and development, significantly increase our manufacturing capacity, and also bring several operational flexibilities to our business, including the impact of litigation. Marc Taxay, do you want to talk about that some more?
+Marc Taxay - Vice President & General Counsel
+Sure. So I think as Jayshree said, there were a number of different considerations that we took into account in bringing on the new contract manufacturer. In factoring in the litigation to that, I think it's really important to understand that. The ITC is continuing to review initial determination, so that remains open. They haven't issued a final determination. But if we do receive a final determination that's adverse, we're of course going to respect the decision of the ITC and fully comply with it. And as we've said many times before, the primary strategy for us in the event of an adverse decision would be to implement design-arounds, so that our products would be non-infringing.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you.
+Operator
+Your next question comes from Paul Silverstein with Cowen. Please go ahead. Your line is open.
+Paul Silverstein - Cowen & Co. LLC
+Jayshree, can you hear me?
+Jayshree Ullal - President, Chief Executive Officer & Director
+I heard Jayshree, and then you cut off, Paul.
+Paul Silverstein - Cowen & Co. LLC
+I guess, you could hear me in part. So my basic question â I apologize if you've addressed this in your initial remarks, but while we all focus on the cloud titans, understandably, my question would be on the balance of your business with Fortune 500, especially, but Fortune 500 and beyond. Can you give us any incremental insight in terms of the progress from both the customer breadth expansion standpoint, as well as the customer depth of penetration?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. No, actually we're very pleased with the deployment of cloud, and clearly the cloud titans are creating hyperscale networks. But I want to reiterate, Paul, that it isn't just the cloud titans. We're seeing a very nice mix of service providers, high tech enterprise and financials. And all of them have contributed in Q1 2016 to adoption of the cloud. I'll reiterate that the scale of the cloud is always far greater with the titans. But the deployment of the cloud is across all four verticals. So we feel good.
+Paul Silverstein - Cowen & Co. LLC
+Jayshree, I know you don't give the mix on a quarterly basis, but can you give us some sense of what the growth rate looks like for the non-titan business?
+Jayshree Ullal - President, Chief Executive Officer & Director
+It is definitely double-digits, and higher than our average growth rates.
+Paul Silverstein - Cowen & Co. LLC
+Higher than your average growth. Okay. Perfect. One other quick follow-up. On the gross margin, I respect the fact that you want to be conservative, but given that with the benefit of large-volume customers, you're still putting up relatively strong gross margin â and relative to your admonitions about the risk, the downside risk from other large deals, it appears that 64%, 64%-plus is what you could generate even with these big volume purchasers. Is there anything that should change going forward relative to that 64%?
+Jayshree Ullal - President, Chief Executive Officer & Director
+So, Paul, in general I do feel strongly that you should consider our long-term band to be 60% to 65%, particularly as we bring more capacity into the United States and we have some additional costs.
+But in addition to that, remember we're still in a very competitive environment where average ASPs for 10-gig for sure are still coming down. And while we're seeing a nice uptake in the acceptance of 100-gig, there is no reason to imagine that we would trade off maintaining gross margin for market share.
+In other words, we're still going all-out for increasing our market share. In fact, when even I talk to our board, they say, you can do even better than increasing their shares. So given that backdrop, I would still say our long-term gross margin is in the 60% to 65% range.
+Operator
+Your next question comes from Tal Liani with Bank of America. Please go ahead. Your line is open.
+Tal Liani - Bank of America
+Hi. I had so many questions. I'll focus on one with two parts, maybe. First, you highlighted at the beginning, the routing opportunity. Are these products or is this product coming to replace the MX routers that are typically above the Spine to consolidate it together? And then what is the opportunity? How do you size the opportunity of this market? And how fast do you think it could ramp? Is there a loan qualification process ahead of you? Or testing with customers, et cetera?
+And one, just follow-up on something you said before. Can you discuss the pricing environment now given that Cisco discussed their prices for 100G or discussed their prices publicly? Is this more aggressive than you had expected? Or do you expect this market to be more price-competitive in the future, versus before because of Cisco's pricing? Thanks.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Okay. Wow. That's a lot of one question.
+Tal Liani - Bank of America
+I'm not very good with math.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Oh. Thank you, Tal. So regarding our routing opportunity, as I said, I'm very proud of the 7500R Series. It's a fantastically well-designed, well-architected product, lot of third-party acceptance and independent benchmarks. I would look at the 7500R in sort of two applications. One is in the traditional data center market we already are, where it is being accepted by our existing customers as a natural 100-gig Spine.
+So we believe the qualifications and the deployment of a 100-gig Spine will be quicker there, because these are customers who already know that, and by quicker, I mean it can be one to three quarters. So I view that as a positive.
+In terms of the Spine being a router, replacing things like the MX or others, that would be a longer qualification time, because while it's not a different platform, there will be a qualification, and there will be a testing bed that is longer than one or two quarters.
+So I would say, over there, it can be six months to a year. So the material effect of the 7500R will be faster in the switching application, so it's 100-gig Spine, and will be second half to next year for routing applications. And in general, even in the short time we've had â we launched this product March 29. So here we are with less than six weeks of data. The reception has been very positive.
+Tal Liani - Bank of America
+Got it. And on pricing?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thanks, Tal. On pricing, no change. Competitors continue to be aggressive, and we continue to be competitive.
+Operator
+Your next question comes from Alex Kurtz with Sterne Agee. Please go ahead. Your line is open.
+Alex Kurtz - Sterne Agee CRT
+Yeah, thanks. I have two micro-questions. So Jayshree, there's been some discussion about changes to your go-to-market strategies. I was wondering if you could address that?
+And then Mark, in case â again, this is hypothetical â in case of product injunctions, could this domestic CM fully support your existing product portfolio?
+Jayshree Ullal - President, Chief Executive Officer & Director
+All right, Alex. So I'm going to ask Mark Smith, our Senior Vice President of Worldwide Sales, to address our sales strategy question. I think, few people realize that our engineering strategy is disruptive, but so is our sales, Mark, right?
+Mark Stephen Smith - Senior Vice President-Worldwide Sales Operations
+Yeah. Thank you, Jayshree. And it is disruptive. You know, I've been in the industry over 35 years, I guess, that makes me old. But during that time, I haven't seen a traditional sales model that resembles what we do at Arista. Our model is very differentiated from a go-to-market.
+First of all, many customers or companies talk about customer focus. But few companies have as flat an organization as we have in sales, where all of our VPs and managers all own accounts personally, along with the fact that our engineers, our engineering management and leadership team are actively involved in every large customer.
+Secondly, our product focus, as we've probably reiterated many, many times, Arista delivers best-of-breed data center switching and routing. That's all we do. And our sales team become trusted advisors to customers, where they are extremely competent technically to be able to help customers meet their needs.
+The third area on our go-to-market is the cloud everywhere focus. We are in the business of building large clouds across the world. We call that the Cloud Scale. And we take that functionality and deliver it to our top vertical, which we call Cloud-Class. And in addition, this allows us to enable our enterprise customers to build turnkey-converged and hybrid cloud solutions, which we call Cloud Converged.
+Finally, on our go-to-market, we have a very, very deep focus on our specific verticals where we know that we can add huge values. Many times we talk about intense focus in cloud titans, financial services, service providers, web and the high tech enterprise. Rather than spreading a mile wide, we focus on going a mile deep in these verticals.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Wow. Thanks, Mark. You're not old. We're middle-aged. If you're old, I am too. That was a great summary. And we really are proud of our go-to-market, and what Mark and the team have done to build customer intimacy, which along with our excellent products, really gives a total differentiated experience. Alex, did you have a â did we answer your question? You said you had a micro-question.
+Alex Kurtz - Sterne Agee CRT
+Yeah, the other micro-question was just, could this domestic CM, in the case of product injunctions allow you to basically continue supply of your existing product, if you have a domestic CM like you're talking about?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Marc, you want to take that?
+Marc Taxay - Vice President & General Counsel
+Yeah, sure. Alex, as we had mentioned earlier, in the event of an adverse decision, our primary strategy here is the technical design-arounds...
+Alex Kurtz - Sterne Agee CRT
+Yep. I understand.
+Marc Taxay - Vice President & General Counsel
+That is the strategy. I think your question was, would the CM here in the U.S. support manufacturing of all our products, and the answer to that is, yes.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. Absolutely.
+Alex Kurtz - Sterne Agee CRT
+Okay. Good. Thank you.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Alex.
+Operator
+Your next question comes from Alex Henderson with Needham. Please go ahead. Your line is open.
+Alex Henderson - Needham & Co. LLC
+Thank you very much. Two very quick questions. One, could you just give us some sense of what happened in the financial vertical in the quarter? There was a lot of discussion about the financial vertical being quite soft in January and February, and should we assume that maybe that was a little soft, and it would come back more in later quarters?
+And then the second one is just on the routing product. We talked about this with you back last year. You kind of implied, it was 2017 before it was going to impact revenues in any way. Has that timeline changed at all, now that you've announced this product a lot sooner than I thought you'd be getting it out?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thanks, Alex. The financials â we are still seeing strong interest from them. Definitely they've spent less in the last quarter, and the last second half, I would say. But I think, going into Q2 â and this year, we expect our spending to be good. Maybe not super strong, but we don't see weakness the way others are describing. So, pretty good. In terms of routing and routers and what acceptance, six weeks don't make a trend, but I have to tell you the excitement, the enthusiasm and the differentiation of VR (31:20). We definitely think we will see material impact in 2017, and maybe with a little bit of customer qualification acceleration, we could see it sooner. But we're still planning on 2017.
+Alex Henderson - Needham & Co. LLC
+Okay. Great. Thank you very much.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you.
+Operator
+Your next question comes from Ittai Kidron with Oppenheimer. Please go ahead. Your line is open.
+Ittai Kidron - Oppenheimer & Co., Inc. (Broker)
+Thanks. I wanted to dig in into the workaround situation. It's good to hear that the contract manufacturing could solve that problem if that problem arises, but can you give us an update on the workarounds, the level of preparedness and ability to permanently solve the problem if you get the wrong court decision?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah, no. I think we said this before, and then again I'll have Marc clarify this from a legal perspective, there are two cases in ITC; 944 Investigation and 945 Investigation. We have had an initial determination on 944 Investigation, but as you know it's still under commission review, and there is no final determination. Should we get a final determination this summer, we are absolutely prepared with the right design workarounds and engineering workarounds, and we're very comfortable with that. 945 Investigation, you might have heard, has been delayed by a few months so that is a separate case. And we have similar comfort, but it is later in the year. Marc, you want to add to that?
+Marc Taxay - Vice President & General Counsel
+The only other thing I would add is that, with respect the technical design arounds in the 944 Investigation, we actually will have an image â a separate image ready and available in Q2 â actually, this month.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah, perfect. We have been ready in trials in Q1, so we'll be ready for general availability in Q2.
+Ittai Kidron - Oppenheimer & Co., Inc. (Broker)
+Very good. Good luck.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Ittai.
+Operator
+Your next question comes from Simon Leopold with Raymond James. Please go ahead. Your line is open.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Thank you for taking my question. A real simple quick clarification, and then a question. On the clarification, it was pretty quick. I missed the tax rate for the quarter for the â sorry, for the outlook of 2Q.
+And in terms of my question, Jayshree, last quarter, I had asked you for an update on partnerships because you have a number of those that I think help in terms of competing against some of the larger players. So I was looking for an update on â and maybe some metrics on your partnership strategy with folks like Hewlett-Packard, VMware, Palo Alto. Thank you.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Simon, thank you. I remember it well, and I will come back to you with metrics. But if I had to give you a qualitative answer right now, I would say the partnerships are going very well. Our top partners are VMware, HP and Palo Alto Networks. If I had to add a number set of partners that I'm getting excited about, it would be in the media and entertainment space, where we had a very successful broadcasting show last month.
+And also stay tuned for some exciting things we're doing in storage. So I still owe you metrics, but qualitatively I'm very pleased. And actually, Mark, since you're with us, and you deal with this much more. Maybe you can broaden Simon's question and spare with us how things are going in the channel and the technology partners.
+Mark Stephen Smith - Senior Vice President-Worldwide Sales Operations
+Yeah. Actually, I had the chance over the last three weeks to go to the VMware Partner Leadership Conference down in Phoenix and Tempe. And it's something that we really got quite excited about, because that week, followed by the Palo Alto Ignite event in Las Vegas, what we saw was a lot more interest from the channels, globally. And this is really exciting to us, because as an emerging company, we've developed a lot of the end-user customers ourselves.
+But now we're seeing, with the integration with our key partners, an unbelievable opportunity to provide a more comprehensive solution. And it's all based on being open. So I would say, from a partnership standpoint, we're seeing more momentum, both with the combined sales organizations with VMware, Palo Alto, HP, et cetera, and from a product standpoint where we're able to provide better solutions, as Jayshree addressed, like the Macro-Segmentation, which is getting just outstanding reviews.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Mark. And you had a tax rate question. Ita?
+Ita M. Brennan - Chief Financial Officer
+Yeah. The guidance was 27% to 29%, Simon.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Great. Thank you very much.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you.
+Operator
+Your next question comes from the line of Hendi Susanto with Gabelli. Please go ahead. Your line is open.
+Hendi Susanto - Gabelli & Company
+Good afternoon, Jayshree and Ita. Jayshree, the adjacent routing platform is a great new market opportunity for Arista. How should we think of customer profiles that fit your routing platform target, especially those with significantly smaller network resources than Netflix? Will your routing customers require sizeable network resources to implement it?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Hendi. No, I think it's a very natural extension from where we are. Be clear that, Arista has been doing switching and routing for a long time. We've been doing BGP routing for several years. We're doing multicast routing; we're doing VXLAN routing.
+What we've really done with the R Series is expand the scale and expand the routing protocols and Internet tables with FlexRoute. So now we now have selective route downloads, segment routing, MPLS, LBP-type routing. And we're really bringing in additional WAN protocols and a level of high availability.
+So I don't think it's a dramatic change in our customers' learning, nor in our SE (37:06) and sales force understanding. But it will take time to associate Arista with that and qualify it. But in terms technology adjacency, it's very natural.
+Hendi Susanto - Gabelli & Company
+Thank you, and great results.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Hendi.
+Operator
+Your next question comes from the line of Jess Lubert with Wells Fargo Securities. Please go ahead. Your line is open.
+Jess Lubert - Wells Fargo Securities LLC
+Hi, guys. Thanks for taking my question and congrats on a nice quarter. Question or clarification, first, just on the clarification, can you help understand with the workaround, how long the ITC's review is likely to take following the final determination? Is that something that we should expect to be weeks or months; any kind of insight there?
+And then for, Ita, it looks to me like you underspent, at least our expectations a bit in Q1, particularly on the sales and marketing side, even though revenue is fairly strong. So I was hoping to understand what happened there, and given you've been struggling to grow expenses faster than sales for multiple quarters now, what leads you believe operating margins are likely to dip to 26% in Q2?
+Ita M. Brennan - Chief Financial Officer
+Okay. Marc, this is an earnings call, and thank you for the wishes, Jess, but once again, this question's for you on what do we expect the ITC timeframe to be?
+Marc Taxay - Vice President & General Counsel
+Yeah. I mean, I think just taking a step back, if there is an adverse decision in the ITC, full compliance with an order would be essentially having non-infringing products. I think that's the most important thing. Yet, clarity around that, there are different paths to get those approved, and we'll make a decision if there is a final determination that's adverse to us, we'll make a decision at that point as to the appropriate path to follow in order to be able to get some clarity around approval. In terms of timing, the timing varies greatly, and I don't think that we can provide you any sort of detail around the timing. It just depends on the process.
+Ita M. Brennan - Chief Financial Officer
+Yeah. I think, in terms of the operating expenses, I think if you look Q4 to Q1, we did see some good growth on the R&D side, and we expect that to continue. We're obviously hiring as much talent and resources as we can find. And we also have some other expenses associated with the workarounds and the designs-arounds and so on.
+So that's a number that I would certainly like to keep some optionality around how that number grows over the next coming quarters. So that's part of why, I think you're seeing that spread on OpEx. On the sales side, Q4 is typically a high, variable comp quarter with sales commissions and so on. I think we saw that as well. We are hiring sales head count, again, in all regions. And as fast as Mark is finding those people, we are hiring them, and it's our intention to continue to do that.
+Jayshree Ullal - President, Chief Executive Officer & Director
+And I think we have increased sales head count every quarter. So there's no change there.
+Ita M. Brennan - Chief Financial Officer
+Yeah.
+Jess Lubert - Wells Fargo Securities LLC
+Would you expect sales and marketing expense to increase as a percentage of revenue, going forward or is 10% or lower kind of the new normal?
+Ita M. Brennan - Chief Financial Officer
+Well, I think longer-term you should expect that to be 10% to 12% at least of revenue. How fast we get there, kind of depends on our growth, but certainly in my mind it should be a double-digit percentage of revenue, right. And that's our expectation over time.
+Jess Lubert - Wells Fargo Securities LLC
+Thanks, guys.
+Operator
+Your next question comes from Ryan Hutchinson with Guggenheim. Please go ahead. Your line is open.
+Ryan Hutchinson - Guggenheim Securities LLC
+Okay. Great. So most of the questions have been asked. I guess, Jayshree, with all new chipsets, there's supply constraints, and we've talked about supply constraints with Jericho. I guess what I'm trying to figure out is have those supply constraints improved? Your guidance would suggest otherwise, but perhaps your guidance doesn't bake in much in the way of the 7500R platform. So just try and help us understand that dynamic, and how to think about it over the next, call it, six months to 12 months?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. So I think, one of the things you heard â thanks, Ryan â Ita say is we're really working on building the right inventory mix of new product and existing product. And you are right; there are a lot of chips in the mix here, existing chips as well as new chips like Tomahawk and Jericho.
+But be clear, there's still an awful lot of going on with Trident and (41:36), so we're dealing with a tremendous amount of component variety with varying levels of lead times. And typically these lead times require us to plan our forecast three months to four months in advance because the lead times for the components can be that long.
+So no material change there from our vendors, but they're certainly working very closely with us, and we factor that in like we always do. And this is true by the way both for new products and existing products, so we aren't seeing it just on Jericho or just on one type.
+Ryan Hutchinson - Guggenheim Securities LLC
+The 7500R though is based on Jericho? Or could it be based on...
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah, the 7500R specifically is based on Jericho. You're right.
+Ryan Hutchinson - Guggenheim Securities LLC
+Okay. So my question is really around adoption of that platform and what's embedded in guidance, and what's not?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah, got it. Separate from the supply constraints, as I said, we announced the platform March 29, we started shipping in Q2 and the acceptance and the reception has â we are already into double digit customers. And a tremendous amount of the acceptance is as a 100-gigabit Spine.
+Operator
+Your next question comes from Vijay Bhagavath with Deutsche Bank. Please go ahead. Your line is open.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Yeah. Thanks. Yeah. Hi, Jayshree, Ita. Solid results here. A quick question and a follow-up. The question is on, could we expect the design win, Jayshree, for the 7500R solid product at one of the major U.S. telcos this year? For example, AT&T's dead serious with their NFV roll-out and the Jericho router seems to be a good fit for NFV. Thank you.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Vijay, you're asking me to speculate something I don't have an answer to. Let's just say, I've read more press about it than I can comment on. But I think the more general answer, rather than specific to a Tier 1 would be, the 7500 is a very natural product for large-scale cloud and service providers, both Tier 1 and Tier 2. So you would expect we're seeing a lot of interest in collapsing two layers that are very costly for them today, and bringing both OpEx and CapEx advantages to them.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Perfect. And then a bigger picture question, Jayshree, on your channel strategy, a little confused here. Over the next few years, what percentage of revenues would you expect to see come from indirect channel versus direct sales? And how strategic do you view the channel for expanding sales into enterprise, and some of these telco opportunities over the next few years? Thanks.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. So, thank you. And since I have my good friend Mark Smith here, I'm going to ask for his help here. But first of all, I think there's a misnomer on Arista that while we're extremely customer-focused and end customer-focused, the channel is an enabler and a very large percentage of our business is enabled and even fulfilled through channels. Mark, you want to comment more on this?
+Mark Stephen Smith - Senior Vice President-Worldwide Sales Operations
+Well I think, first of all, internationally it's virtually 100% of our business flows through channels. And the benefit we have by having the best technology is, we have this elite program in our channel that actually is self-selecting where the best networking partners actually pick up Arista. And then when you look at the other technology companies in this space that are providing the best solutions, they combine them with those. So I think what you're going to see is, the channel becoming more and more important to us over time. And I think, we're still early, Jayshree, in the actual development of the channel. But I think it is really important to us.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. That's very true. And the channel for us means more than just channel partners. It also means our technology partners. So it's a much more holistic approach to that.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Excellent. Yeah. Thanks, Jayshree. Solid results.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Vijay. Thanks for your support.
+Operator
+Your next question comes from the line of Rajesh Ghai with Macquarie. Please go ahead. Your line is open.
+Rajesh Ghai - Macquarie Capital (USA), Inc.
+Thanks. Good afternoon. I wanted to follow-up on a question â on a response that you gave earlier on a question, Jayshree, about internal development efforts at the cloud titans. You said, you were working with them in the initiatives, providing them the drivers and other software-based application control elements and their initiatives. In the future when someone like Microsoft or Facebook begins to use their own operating system, does that mean a reduction in scope for Arista? In that situation, how do you continue to kind of maintain or grow the gross profit pool that you earn from those customers that you earn today?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. Rajesh, that's an excellent question, and I know it's one that many of you view as it's either/or; I view it as and. I think if we work with them closely on software stacks, take a large titan, they generally have multiple tiers of Leafs and multiple tiers of Spines. And it is quite possible that one of those tiers of Leafs may be software-only from Arista, or maybe a joint software development from Arista, and the cloud titan, but it still keeps a lot of opportunity available for us in other application.
+So I think, you are going to see different strokes and different folks and different building blocks. And especially the Tier 0 Leaf could be one that we do more as software-only, should the cloud titan want to go there. So we don't rule that out. And in terms of profit pool, it can actually be pretty good in gross margin, even if the gross margin percentages â even if the dollars maybe lower. So we view this as a portfolio. We don't view this as one particular product.
+Rajesh Ghai - Macquarie Capital (USA), Inc.
+Okay. Thank you.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Rajesh.
+Operator
+Your next question comes from the line of Stanley Kovler with Citi Research. Please go ahead. Your line is open.
+Stanley Kovler - Citi Research
+Hi. Thanks for taking my question. I just wanted to ask one clarification on gross margin, and then a larger question. Gross margins, when we think about the second half dipping as low as 61% for the second half, given the change in the manufacturing and just some of the customer mix? So that's one. And then just on the larger question, here, which is the main question. As you get more involved with the Spine and the 7500R ramps; how should we think about the cloud titan exposure that you have? Are you in a position to expand your business, particularly in the Spine, with customers that maybe â have been more prone to using white boxes before?
+And now that this product is making more attractive for them to use you for more of their network â so that's really the nature of the question. And then if that extends into the international growth this quarter as well â if that's what the existing customers, or that was for new customers? Thanks a lot.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Wow. Okay. Thank you, Stanley. We'll try. Ita, you want to take the gross margin question? And I'll address the Spine.
+Ita M. Brennan - Chief Financial Officer
+Yeah. I mean, I think the way to think about the impact of the manufacturing on gross margin is, we'll start to produce volume probably in Q3. And the first time we'll really be selling product from that factory and having an impact on the financials will be in Q4, and then into 2017.
+So I think that impact is really something to think about, as you look in to next year, right? And again, it's early to start to really try to size that. I think what we're seeing is, we believe in all scenarios we can be in that range. And then we'll refine that as we go. But it's more kind of a Q4 and into 2017 effect. And we'll refine that as we get closer to that.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah, so with respect to Spines and white box, maturity of the white box activity or the things you see tend to be in the Leaf, in simple single-chip configuration. The spine is a more difficult thing, especially in the chassis to do. I don't say I preclude it, but I think what you'll see is many tiers of Leafs, many tears of Spines. With the Leaf, there will be more experimental project. But the Spine, especially with Arista's highly-differentiated product both on the architecture and on the EOS, we feel very comfortable, especially at 40-gig, 50-gig and 100-gig will be ours to lose.
+So back to the portfolio answer, I think, it will really be a mix and match, and white box may mean that they get standard hardware from somewhere, but may still consider our software.
+Spine really, I think is still very much a decision they make in totality with the vendor, because there's so much complexity in the scale, the switching, the routing, the high reliability that you really have to think twice before building core capability internally for that.
+Stanley Kovler - Citi Research
+Thanks. And do you expect that the spine will be a greater portion of your revenue as we head into 2017 than it was in 2016? Thank you.
+Jayshree Ullal - President, Chief Executive Officer & Director
+That's hard to predict at the moment, but I think it's not going to be something that just happened suddenly, one quarter or one year later. It's going to be gradual.
+Stanley Kovler - Citi Research
+Thanks a lot.
+Operator
+Your next question comes from the line of Mitch Steves with RBC Capital Markets. Please go ahead. Your line is open.
+Mitch Steves - RBC Capital Markets LLC
+Hey. Great quarter, guys. Just wanted a quick question on the OpEx side. So knowing that you guys are bringing some more jobs onshore, could you maybe explain one, potentially what the strategic advantage is? And then secondly, is this going to inflate the OpEx line consistently as we go forward?
+Jayshree Ullal - President, Chief Executive Officer & Director
+Ita, you may want to answer it, but as I said, I think we seek several strategic advantages. We got a lot of new product going and having proximity to our engineering sides is one. I think, if I had to summarize it in a nutshell, it would be operational flexibility to conduct our business and provide our customers with continuous product. You want to address that some more?
+Ita M. Brennan - Chief Financial Officer
+Yeah. I mean, I think in terms of the financials and how it impacts the financials, I mean, this is really; it will be kind of a product cost impact if we see one, right? And then, like I said, I think that's something we would see Q4, and into next year, but it would be a product cost impact, but obviously we would work to optimize over time, right? It's not really an OpEx impact in the sense that these would be contract manufacturing resources and jobs that, Jayshree was mentioning.
+Mitch Steves - RBC Capital Markets LLC
+Got it. Thank you. And then secondly, from an enterprise perspective outside the hyperscale, I mean, are you guys seeing share gains at this point?
+Jayshree Ullal - President, Chief Executive Officer & Director
+We're seeing overall share gain. Clearly, the titans are contributing to it, but so are the three verticals including the enterprise.
+Mitch Steves - RBC Capital Markets LLC
+Got it. Thank you.
+Operator
+Your next question comes from the line of Mark Moskowitz with Barclays. Please go ahead. Your line is open.
+Mark Moskowitz - Barclays Capital, Inc.
+Yes. Thanks. Good afternoon. Maybe a question here for both, Jayshree and Mark. A lot of focus has been on the channel the enterprise mix during this call. I want to see â are we missing something here in terms of â there's a bigger dynamic here, whereby because of the change in how technology has been procured and implemented that a lot of folks are now just going with the cloud providers or a private cloud type of apparatus? You don't have to really focus maybe on the channel or the enterprise per se, as maybe traditionally was the focus.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. No, I think you hit the nail on the head quite honestly, Mark, because it's something we've been saying because we keep getting asked why is our sales and marketing so low, instead of why is your sales and marketing so successful and targeted. And I think, Mark and his team have done a fantastic job with that. You want to comment, Mark, on why it's so fantastic?
+Mark Stephen Smith - Senior Vice President-Worldwide Sales Operations
+No comments. But I will say, Mark, one thing that I'll say is, having been â this is my fourth public company, having been in a lot of companies with a lot of good product, a big differentiator for my sales organization is product quality. You can't go to an executive briefing here at Arista if you're a prospect or customer without hearing about quality, quality, quality, quality and we look at every P1 that comes across. We have a massive customer that in 2015, one of my reps comes out, and he goes do you realize they didn't have a single switch fail in the entire year? So I'll tell you, from a sales standpoint they're enabling us to be efficient, that's the number enabler is product quality.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you, Mark.
+Mark Moskowitz - Barclays Capital, Inc.
+Okay. This if I could clarify too for Ita here, real quickly on gross margin, the commentary around long-term of 60% to 65%, what is that trying to prepare us for? Is that due to mix related to product or customer or is that due to any sort of loyalty dimension that could be introduced here, because of the ongoing litigation? Is there any sort of preparation around us getting ready for immediate royalty payment that would be a slight minor drag on gross margin?
+Ita M. Brennan - Chief Financial Officer
+No. I think the reiteration of that on this call is really around the manufacturing and the impact of bringing up a new factory and a new CM with potentially maybe a slightly disadvantaged cost structure at least in the beginning, right? So I think really, that's what we're referencing. Just to provide some context in terms of what would the ramp of that new factory do to gross margins, we're really just restating, that would still stay within the 60% to 65%, and that's really what it was intended to do, nothing more than that.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Yeah. What's really nice is, a new manufacturing facility means everything is highly automated. You get to bring brand new machines and you get to spend lots of money. The flip side of that is you also have some increased labor and wages, and overheads from that initially, until we streamline the operation and get the cost out of it. Nothing different than we saw early on when we even started our first and second contract manufactures, but it is a process, and it is a multi-year process.
+Mark Moskowitz - Barclays Capital, Inc.
+Thank you.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you. Our final question's here, please.
+Operator
+Your next question comes from the line of Steve Milunovich with UBS. Please go ahead. Your line is open.
+Steven M. Milunovich - UBS Securities LLC
+Thanks. You said that the pricing environment really hasn't changed, but I was just curious. Your competitors have some new systems out. Cisco announced some a few months ago. The Juniper QFX10k just started shipping last quarter. Are you seeing these products in competitive situations? And is it impacting anything?
+Jayshree Ullal - President, Chief Executive Officer & Director
+No, we've been always seeing different products from different companies, and they've always been aggressive and competitive. And when I say it hasn't changed, I mean the aggression continues in the same way it always has. No different. There's always been a level of dynamic and highly-competitive and highly-pressured on the price, but since we've always experienced it, there's no change in the aggression.
+Steven M. Milunovich - UBS Securities LLC
+Okay. Thanks.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Thank you.
+Operator
+Your last question comes from the line of Simona Jankowski with Goldman Sachs. Please go ahead. Your line is open.
+Simona K. Jankowski - Goldman Sachs & Co.
+Hi. Thanks so much. Jayshree, I just wanted to add some context around the earlier discussion of white box adoption at the cloud titans. Is your Cloud revenue primarily tilted to the Leaf versus the Spine? And maybe you can quantify that for us. And then I have a quick one for, Ita as well.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Hi, Simona. Thank you. No, our Cloud Scale and cloud titans are very much a mix of both, and sometimes it's Leaf, sometimes it's Spine, sometimes it's more Leaf and sometimes it's more Spine. So I wouldn't read too much, but I will say one thing we see in common is, there's a more rapid migration to the Leaf being 25-gig and 50-gig, and the Spine being 100-gig.
+Simona K. Jankowski - Goldman Sachs & Co.
+Thank you, Jayshree. And then Ita, you had very strong services growth, much faster than products. Can you talk a little bit about what is driving that? And also what kind of attach are you seeing with your cloud customers for services?
+Ita M. Brennan - Chief Financial Officer
+Yeah, Simona, I think Q4 is typically â kind of Q4 into Q1 is typically a good, strong services quarter, right; and you tend to see a fair amount of renewals and so on happen in that timeframe. That's really what's driving that. I mean, the attach rate across the board is pretty high, right? Customers value the service, and there aren't too many customers who'd like to run a network without service coverage, right. So I think, the attach rate for all customers is pretty high.
+Jayshree Ullal - President, Chief Executive Officer & Director
+And it's very competitively priced, and brings meaningful service. So...
+Ita M. Brennan - Chief Financial Officer
+Yeah.
+Simona K. Jankowski - Goldman Sachs & Co.
+Okay. Thank you.
+Chuck Elliott - Director, Product and Investor Advocacy
+Great. So this concludes the Arista Q1 2016 earnings call. I also want to mention that we have posted a presentation which provides additional perspective on our first quarter 2016 fiscal results, which you can access on the Investors section of our website. Thank you to everyone for joining us today.
+Jayshree Ullal - President, Chief Executive Officer & Director
+Good job, guys.
+Operator
+Thank you for joining ladies and gentlemen. This concludes today's call, you may now disconnect.

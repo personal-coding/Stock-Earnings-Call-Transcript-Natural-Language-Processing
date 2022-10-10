@@ -1,0 +1,285 @@
+NVIDIA (NASDAQ:NVDA) Q2 2012 Earnings Call August 11, 2011 5:00 PM ET
+Executives
+Karen Burns - Interim Chief Financial Officer
+Jen-Hsun Huang - Co-Founder, Chief Executive Officer, President and Director
+Rob Csongor - 
+Analysts
+Craig Berger - FBR Capital Markets & Co.
+Rajvindra Gill - Needham & Company, LLC
+Shawn Webster - Macquarie Research
+Uche Orji - UBS Investment Bank
+Glen Yeung - Citigroup Inc
+Christopher Muse - Barclays Capital
+Daniel Berenbaum - MKM Partners LLC
+Hans Mosesmann - Raymond James & Associates, Inc.
+Harlan Sur - JP Morgan Chase & Co
+Vivek Arya - BofA Merrill Lynch
+Christopher Caso - Susquehanna Financial Group, LLLP
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Operator
+Good afternoon. My name is Rose, and I will be your conference operator today. At this time, I would like to welcome everyone to the NVIDIA Financial Results Conference Call. [Operator Instructions] Now my pleasure to introduce the President and Chief Executive Officer of NVIDIA, Mr. Jen-Hsun Huang. Go ahead, sir.
+Jen-Hsun Huang
+Thank you. Good afternoon, and welcome to NVIDIA's conference call for the second quarter of fiscal 2012. In addition to Karen Burns, our Interim CFO, with me on the call today is our new Vice President of Investor Relations, Rob Csongor. Rob is a longtime veteran of NVIDIA and one of our original employees. He joined our company in 1995, and has since ran product marketing, launching our first product, NV1, was GM of our embedded business, and in 2003, I asked him to start our notebook GPU business.
+Our notebook GPU business is now approaching $1 billion a year and has just had a record quarter. Over the last 5 years, he was our VP of Corporate Marketing, responsible for many of the company's marketing initiatives. I'm very excited to welcome Rob to his new role, where he will bring his knowledge of NVIDIA and to serve the investor community and communicating the company's growth strategies.
+Please join me in welcoming Rob to his new job. With that, I would like to turn the call over to Rob to begin our summary of second quarter of fiscal 2012.
+Rob Csongor
+Thank you, Jen-Hsun. After our prepared marks, we'll open up the call to a question-and-answer session. Please limit yourself to one initial question with one follow-up question. 
+Before we begin, I'd like to remind you that today's call is being webcast live on NVIDIA's Investor Relations website, and is also being recorded. A replay of the conference call will be available via telephone until August 18, 2011, and the webcast will be available for replay until our conference call to discuss our financial results for our third quarter of fiscal 2012. The content of today's conference call is NVIDIA's property and cannot be reproduced or transcribed without our prior written consent. 
+During the course of this call, we may make forward-looking statements based on current expectations. These forward-looking statements are subject to a number of significant risks and uncertainties, and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our Form 10-K, for the fiscal period ended January 30, 2011, and the reports we may file from time to time on Form 8-K filed with the Securities and Exchange Commission.
+All of our statements are made as of today, August 11, 2011. Based on information available to us as of today, and except as required by law, we assume no obligation to update any such statements. Unless otherwise noted, all references to market research and market share numbers throughout the call come from Mercury Research or Jon Peddie Research.
+With that, let's begin. Our GPU business was strong in Q2, driven by our record quarter for notebook products. Despite typical seasonal weakness in the PC market, we recorded record notebook GPU revenue, increasing our notebook GPU market share by 9% to 50.6% according to Mercury Research.
+We launched the GeForce GTX 560M into the heart of the notebook gaming markets, delivering DirectX 11, 1080p gaming, and Optimus technology to notebooks for the first time ever. Optimus Technology optimizes your notebook performance by intelligently delivering power when you need it and conserving it when you don't, completely automatically.
+In addition, we launched the world's fastest notebook GPU, the GeForce GTX 580M. The GeForce GTX 580M, along with NVIDIA and Optimus technology, delivers 5 hours of browsing battery life and 100 frames per second performance in Call of Duty: Black Ops.
+While our desktop GPU business decreased within typical seasonality, overall desktop GPU attach rate of consumer PCs remained strong at 55%. We added 2 new desktop products targeted at the sweet spot of the gamer market. First, the GeForce GTX 560 into the extremely popular $199 segment of the desktop gamer market. And secondly, launching new 3D Vision wired glasses, delivering the best 3D PC experience at a new affordable price of $99.
+The Sandy Bridge transition continues to drive growth for our discrete GPU business. According to Mercury Research, integrated CPU eroded integrated graphics chipset market share, while discrete GPU attach rates remained constant overall. GPU attach rates actually increased in notebook, from 33% to 36%. Notebook discrete GPU shipments were up 6.7%. Industry press is confirming what we had expected, that while Sandy Bridge graphics still won't come anywhere near the performance of a discrete GPU, according to Tom's Hardware, the combination of a Sandy Bridge CPU with NVIDIA discrete GPU, delivers the best price performance solution for the PC market.
+Our enterprise workstation GPU business grew 4%, as the adoption of the Fermi generation continues to ramp. During the quarter, we also launched an extremely important product into the compute market, the Tesla M 2090 GPU, the world's fastest parallel processor for high-performance computing. In the latest version of AMBER 11, one of the most widely used applications for stimulating behaviors of biomolecules, 4 Tesla M 2090 GPUs, coupled with 4 CPUs, delivered the fastest results ever reported, according to Ross Walker, Assistant Research Professor at the San Diego Computer Center, and principal contributor to the AMBER code.
+Our Consumer Products business, which includes Tegra processors and embedded products, increased 37% to $167.7 million, with much of the increase revenues coming from embedded products. We delivered another strong quarter for Tegra, with new Tegra 2 based android products hitting the market. Among them are the Motorola Photon 4G and DROID X2; the world's thinnest, lightest tablet, the Samsung Galaxy Tab 10.1; the Toshiba Tribe; Lenovo IdeaPad K1 and ThinkPad Dell Streak 10 Pro in China.
+In addition to new products, Tegra 2 continues to have legs, with new products launching into new regions and with new partners. Consumers can now buy Tegra super phones on all major carriers in the U.S., including T-Mobile, AT&T, Verizon and Sprint. In addition, we announced with Alibaba and Tianyu, the first smartphone designed by a China OEM, and the first phone offered by Alibaba.
+In May, at Computex 2011 in Taipei, our Tegra 2 processor was selected from more than 400 products, and awarded the prestigious Computex Best Choice Award for smart handheld devices innovation from the Taipei Computer Association.
+Our next generation Kal-El processor had a very strong quarter of design wins, with new products launching in time for the holiday season. In addition, our acquisition of Icera lets us expand beyond the super phone and tablet segment, and address mainstream smartphones. With these moves, we believe we are well-positioned to continue our strong momentum with Tegra.
+With that, let me hand the call over to Karen.
+Karen Burns
+Thanks, Rob. Revenue for the second quarter was $1.02 billion, up 5.7% sequentially. GAAP gross margin of 51.7% was a record for the fourth consecutive quarter. Gross margin exceeded our expectations we had at the beginning of the quarter, primarily as a result of a more favorable product mix and our GPU and TFB businesses.
+GAAP OpEx was $351.3 million, in line with our estimates, as it includes $17.3 million of costs related to Icera, including costs of its ongoing operations and those related to its acquisition.
+Combined, these results generated a GAAP net income of $151.6 million, or $0.25 per diluted share. The dilutive effect of the Icera acquisition, including its results of operations and all acquisition-related costs, was $0.02 per diluted share. Consequently, net of the Icera acquisition, we achieved the high end of our outlook range for the quarter.
+Revenue by business segment was as follows. Our GPU business was relatively flat compared to the previous quarter, despite the continued quarter-over-quarter decline in our MCP revenue, as we end-of-life these products. Desktop was seasonally down, while notebook grew strongly, as we continued to gain share through the Sandy Bridge transition.
+We also benefited from the first full quarter of licensing revenue from Intel. Our professional business was up 4.2% from the prior quarter. Our Quadro professional graphics business increased sequentially, as we saw a pickup in enterprise IT spending, and as we continued our transition to Fermi generation products. Our Consumer business was up 36.8% over the prior quarter. Much of the increase was driven by game console royalties, which were seasonally up over the prior quarter, and customer refreshes and embedded entertainment products.
+Tegra revenue was steady, as the product ramps of our first quarter reached consumer. Icera's revenue contribution was not significant. 
+Turning to the balance sheet. Cash, cash equivalents and marketable securities at the end of the quarter were $2.47 billion, down $252 million over the prior quarter, due primarily to the purchase of Icera for approximately $352.2 million. This was partially offset by our cash flow from operations of $82 million. 
+Accounts receivable at the end of the quarter was $419.9 million, up $76.7 million sequentially. Although our DSO increased 5 days from 33 to 38, our demand was relatively linear for a fiscal second quarter, and remained under our corporate average.
+Our inventories at the end of the quarter were $361.9 million, down 5% from $381 million in the prior quarter, as we actively managed production builds throughout the quarter. 
+Our outlook for the third quarter of fiscal 2012 is as follows. We see strengths in our business coming into the third quarter, and expect revenue growth of 4% to 6%. This is despite the ongoing decline from our discontinued MCP business. We expect gross margin in the third quarter to stabilize at the record levels achieved in Q2, both on a GAAP and non-GAAP basis. Of course, we will work hard to continue to improve our gross margin.
+For operating expenses, we expect GAAP OpEx to be between $361 million and $366 million, with non-GAAP OpEx between $319 million and $321 million.
+The increase is primarily related to engineering costs for new product tape outs, verifications and qualification, and to account for a full quarter of Icera's ongoing cost from operations, as well as critical hires in key growth areas. 
+While we will continue to control expenses very tightly, we believe continued strategic investment in our business is critical to our company's future growth. In particular, within the mobile space, we will invest in supporting the next generation Windows on Tegra, ramping our baseband processor business and executing on design wins. We believe the tax rate will track near 16% for the rest of the year, resulting in an annual effective tax rate of about 15%. This outlook includes Icera. 
+That concludes our prepared remarks. We will now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Ladies and gentlemen, your first question comes from the line of Shawn Webster of Macquarie.
+Shawn Webster - Macquarie Research
+I was on the guidance for up 4% to 6%, I was wondering if you could add some color on what you're seeing in terms of order trends, where you're seeing strengths from a geographic perspective, and maybe by segment, which of the end markets do you expect to be the strongest and weakest for you going into Q3?
+Jen-Hsun Huang
+Well, going to the first, the first part of the quarter looks pretty good. And bookings look strong. We don't see anything unusual across the world. And your question on segments, nothing unusual. I mean, frankly, nothing unusual.
+Shawn Webster - Macquarie Research
+Well, as far as your outlook goes, do you expect, for example, your notebook or desktop GPU to be the strongest or Tesla workstation?
+Jen-Hsun Huang
+We're expecting growth in enterprise. We're expecting growth, which is our Quadro and our Tesla business. We're expecting growth in our GeForce business. And we're expecting business to be steady as she goes on the Tegra business. We're ramping new tablets and new phones, introducing new tablets and new phones this coming quarter. In Q2, we introduced 6 new phones and 5 new tablets. Next quarter, we'll introduce more. And we're looking forward to those devices being successful as well.
+Shawn Webster - Macquarie Research
+And if I might, the last one. What did graphics chip pricing units do sequentially?
+Jen-Hsun Huang
+No significant change.
+Operator
+Your next question comes from the line of Hans Mosesmann of Raymond James.
+Hans Mosesmann - Raymond James & Associates, Inc.
+Jen Hsun, as you look at your roadmap with Kal-El and next year's new products and the introduction of a new Google Android operating system, what is the competitive environment look like? What are your customers saying? And how does that all play out based on what you think your position is, as we look into next year?
+Jen-Hsun Huang
+We are now, I think, the only processor to be in production. We're shipping devices in Froyo, Gingerbread, as well as Honeycomb. And we just recently introduced and went to production with Honeycomb 3.2. If you look at our position now relative to a year ago, at this time, we had no operating systems shipping at the time. And in this business, having a stable operating system and having a full software stack translates to velocity. And so we've made really, really large investments in the Google operating system, as you know. And we have a great working relationship with those guys. And so as soon as our next generation processor Kal-El is ready for production, we can run like the wind, like we do in the PC industry. Now that we have a full software stack ready to go.
+Hans Mosesmann - Raymond James & Associates, Inc.
+And if I can, just a quick follow-up. 28 nanometer, how does that look relative to 40-nanometer? That was a tough industry transition. Can you give comment there?
+Jen-Hsun Huang
+28, we are far, far better prepared for 28 than we were for 40. Because we took it so much more seriously. We were successful on so many different nodes for so long that we all collectively, as an industry, forgot how hard it is. And so one of the things that we did this time around was to set up an entire organization that is dedicated to advanced nodes. And we've had many, many tests chips run on 28-nanometer. We have working silicon and, momentarily, about to go to production with 28-nanometer. And it's looking really good, it's looking much, much better than our experience with 40-nanometer. It's just a comprehensive, across-the-board engagement between TSMC and ourselves, and making sure that we're ready for production ramp when the time comes. So I feel really good about 28.
+Operator
+Next in queue is Raji Gill of Needham & Company.
+Rajvindra Gill - Needham & Company, LLC
+A question on the Tegra part of the business. You said it held steady, but really didn't contribute to any of the sequential growth in the CPB business. Just wondering why that is, especially with all the new phones and tablets that have come out in the second quarter relative to the first quarter, why wouldn't you see NVIDIA figure jump in the second quarter? And also, how that relates to the, around the consumer side in October, should we see a seasonally down quarter on the Sony royalty business and will that be offset by Tegra and the CPB business in the October quarter?
+Jen-Hsun Huang
+Our phone business ramped up towards the second half of the Q2. And so these devices are just now going to production. The Photon 4G, of course, was just announced. And the reviews have been fabulous. And I'm delighted to see Motorola build such a great phone. The Samsung Galaxy R just went to production. And so those 2 phones are really wonderful phones and the Motorola phones in China just went to production. And so Q2 -- those devices didn't contribute very much to Q2's business. And now, as we look forward to Q3, all of these phones that are ramping up, we now have something like 53 SKUs around the world. And we cover some 16 of the world's top 20 carriers. And so these devices are now just going into production. And so we look forward to seeing how they do. And our results will reflect that. But I think that the indicator that probably makes the most sense for me to watch and for all of us to keep an eye on is just the number of phones that go to production each quarter and the number of countries and carriers that we increasingly expose ourselves to. And I think the numbers will follow.
+Rajvindra Gill - Needham & Company, LLC
+And in the guidance, you say -- you talked about including Icera. Is that meaningful in terms of a revenue perspective?
+Jen-Hsun Huang
+Not very much yet. The Icera modem technology was just recently approved by a very large carrier for a product acceptance this year. And they were approved for LTE multimode. Some companies have LTE modems and some company have 3G modems. Very few companies have LTE 3G, 4G multimode modems. And they passed 100% of the LTE testing. And in fact, the Icera modem is used in a very large number of the 3GPP industry standards body's testing. And it is the reference by which many modems are tested. And so I think that business will surely be very important to us in the LTE segment. And then a little longer term, our intention is to integrate the modem into our Integra application processors so that we can address this segment that is very fast growing and also very large, the mainstream segment of the smartphone market.
+Rajvindra Gill - Needham & Company, LLC
+And just last question on the, going back to the Sony royalty. Can you maybe just remind us where the seasonally strong quarters are? Is it the second quarter, as you mentioned? Does it trail off in the third quarter and then bounce back up again in the fourth quarter?
+Karen Burns
+It will be sequentially up again quarter-over-quarter, Sony royalties, not by a lot. But typically, the ramp for the game consoles is a ramp that just grows to Q3 as you go into Christmas, back-to-school. But Q3 is one of the strongest quarters.
+Operator
+You have a question from the line of Kevin Cassidy of Stifel, Nicolaus.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Tesla adoption in high-performance computing and data centers, would this be tied at all -- is the adoption tied to world GDPs or if there's a slowing economy, do you customers get more hesitant or does it accelerate it?
+Jen-Hsun Huang
+Well, that's a good question. We're trying to figure it out ourselves, to be honest. Because it's still a relatively small business, as you know. It's on its way to be a couple of $100 million business. And more and more OEMs are adopting it and are bringing it to market. Just this last quarter, we introduced the M 2090 module that goes into data center configurations from HP and Dell. And so we're ramping that business up. But it's still very much, at the moment, an application-driven business. The more applications we have ported, the greater the opportunity we will see. And so I don't know that in the near term right now, that it's tied to GDP or anything like that. I just think it's just way too small of a business to be affected by the global economy. People who are early adopters have very severe computation needs, and those severe needs exist whether the economy is doing well or not. Probably, more than anything right now, the lumpiness of the business comes from, occasionally, very large deals because they go into large data centers. And those design wins and installations don't happen on a regular basis yet. And so every now and then you'll see some lumpiness. But this is a business that just still being developed.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay. So it's more of a technical issue, you'd say, right now?
+Jen-Hsun Huang
+I would say right now, it's an application limited business. The more applications we have, the more applications we announce, the greater the market opportunity is, that's one. And then number 2, it's dependent on large data center design wins.
+Kevin Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay. If I could ask one other, any competitive, any new -- any changes to the competitive landscape in this segment?
+Jen-Hsun Huang
+Well, we really are just about the only high-performance computing, GPU computing processor company today. And the reason for that is because it's not just about having a chip, it's really about having an entire software stack, and developers who can help and work with software companies to optimize their software and having configurations that are designed to be server and enterprise caliber and enterprise ready, and having OEMs that bring these products to market. So this ecosystem is not trivial to build out, and we have a very large lead on that. And so we just have to keep getting those applications ported.
+Operator
+Next in queue is CJ Muse of Barclays Capital.
+Christopher Muse - Barclays Capital
+I guess, first question I was hoping, you could, I guess, elaborate a bit on the Tegra ramp and what you expect in the second half, whether we're on track for the 400 plus million? And then, I guess, in terms of mix, what kind of mix do you see between handsets and tablets, as you think about what the revenue stream would look like over the next 3, 4, 5 quarters?
+Jen-Hsun Huang
+I guess it's probably about -- just on the mix question first, it's about 2/3 phones, and 1/3 tablets. Just because there's just so many phones. And we now have 53 SKUs of phones that are shipping. There'll be more phones shipping next quarter, and then there will be more phones shipping the quarter after that, new phones. And so that -- those are really the only indicators that I know because we're pretty new to this business, CJ, and we ramped it up pretty hard, and we have a whole lot of new design wins on Tegra 2, and we have a whole lot of new design wins on Kal-El. And so the only thing that I can watch is how many design wins do we have? And are they high-quality design wins from high-quality customers and OEMs? And when the phones and the devices come out, are they well-positioned? Are they really well-designed? And are they well-positioned as a product? And then, after that, we really don't know how to judge at the moment how well these devices will do. In terms of is the business on track, I would say that the business is doing better than on track in a sense that our design win momentum is better than ever. And Kal-El, it's going to be world's first quad-core processor. And it's so much higher performance than Tegra 2 and at so much lower power. And very few people have internalized that Kal-El is lower power in every use case compared to Tegra 2. And so this is, it's really a great breakthrough based on the technology we call variable SMP, variable symmetric multiprocessing, that makes it possible for us to achieve much higher performance where performance is needed and much lower power in almost everything that you do.
+Christopher Muse - Barclays Capital
+That's very helpful. I guess, as my follow-up, I guess curious, if I look at the midpoint of the revenue guidance, it's about $50 million sequentially. And you talked about the Sony royalties being up again in October. And it sounds like design win-wise, the Tegra ramp is coming. Is it fair to say that at least 50% of the revenue uptick is coming from the consumer products division?
+Jen-Hsun Huang
+No, what you didn't pick up in Karen's comments was that underneath that is a chipset business that's declining. And so our growth is actually more than a $50 million quarter-to-quarter in the core businesses.
+Christopher Muse - Barclays Capital
+Sure. But I guess, all right, I guess, we add the decline in chipset. Is it fair to say that 50% is coming from the consumer side, or no?
+Jen-Hsun Huang
+I don't think so. I think the numbers are -- our other businesses are so large in total dollar amounts, GeForce is growing, Quadro is growing, Tesla is growing. And Tegra, we'll see how it goes.
+Operator
+You have a question from Harlan Sur of JPMorgan.
+Harlan Sur - JP Morgan Chase & Co
+Along the lines of the last caller, so Jen-Hsun, you talked about enterprise for Q3. You talked about your GPU business. Embedded within your assumptions for the third quarter, are you guys expecting consumer to be up, down or flat sequentially in Q3?
+Jen-Hsun Huang
+We're expecting it to be up.
+Harlan Sur - JP Morgan Chase & Co
+Up. Okay, great.
+Karen Burns
+DSP will be up as well. DSP is more significantly up.
+Harlan Sur - JP Morgan Chase & Co
+The enterprise business?
+Karen Burns
+That's right.
+Harlan Sur - JP Morgan Chase & Co
+Okay, great. And then my follow-up questions on...
+Jen-Hsun Huang
+On the chipset business, all of our businesses next quarter are expected to be up.
+Harlan Sur - JP Morgan Chase & Co
+Okay. And then in your prepared comments, Jen-Hsun, I think within consumer, you had mentioned Tegra as being sort of a steady contributor in Q3. Should we take that to mean flat growth quarter-over-quarter? Or how should we interpret your comments there?
+Jen-Hsun Huang
+You should interpret it as a flat, and we're hopeful for more.
+Harlan Sur - JP Morgan Chase & Co
+Got it, okay. Then one last question, on the new baseband business. The Icera team was downplaying its 450 baseband processor. This is the, I believe it's the 3G chip with voice capability. Can you just give us an update on the progress? Does the team have design wins? And when do you think you're going to start taking this to production?
+Jen-Hsun Huang
+We have design wins in smartphones with a modem. And our expectation is that we would have our first smartphone with Icera modem in it about the Q1 timeframe of next year. We are nearly 100% passing on voice in all the major carriers and infrastructures. And we are 100% pass on LTE.
+Operator
+Next in queue is Ambrish Srivastava from BMO.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Jen-Hsun, good job on the graphics side, especially with the share gains, and also on the attach rate. But just wanted to get your perspective on how should we think about it going forward, share gains and the attach rate, given that Sandy Bridge ramp is probably going to slow down? And then I had a follow-up for Karen as well.
+Jen-Hsun Huang
+Well, if you look at the GPU business overall, over the course of the last 5 years, it grew from about 100 million consumer GPUs to 150 million this last year. We're at 150 million run rate. My expectation is that the overall GPU business, if you include the 2 pieces that we have a very large position on, that we by and large drive in the industry, the enterprise GPU business of Quadro and Tesla. If you combine those 2 with the consumer GPU business, the overall GPU business to us should grow faster than that. And so my sense is that the GPU business is going to continue to grow. And how big is it going to be in the coming years is kind of hard to say. But it's grown 100 million to 150 million over the last 5 years. And there was integrated graphics all the way along, there was competition from Intel and AMD all the way along. And so I think that is probably an early -- a good indicator. And on top of that, we've added Quadro and Tesla as growth vehicles for us in the overall GPU business. Our expectation next quarter is to grow share, and we'll come back and report it next quarter how well we do.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Okay, Jen-Hsun, and before I turn to Karen, I'm assuming you're refusing to answer the $400 million to $600 million targets. So we should assume that, that's off the table?
+Rob Csongor
+The $400 million to $600 million for Tegra is the number...
+Jen-Hsun Huang
+Well, how would we -- we don't guide that far out. So come Q4, I'm going to confirm or deny it.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Fair enough, Jen-Hsun.
+Jen-Hsun Huang
+We're only literally 2 quarters into the shipment of Tegra. And there's 2 quarters left in the year, 2 big seasons left. So we're looking forward to them.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Okay. And Karen, on OpEx, how should we think about -- I just wanted to make sure I understood. Including Icera, how should we think about OpEx versus revenue growth for the following 2 quarters?
+Karen Burns
+Following which quarters?
+Ambrish Srivastava - BMO Capital Markets U.S.
+For the following quarters, post the one that you're guiding to?
+Karen Burns
+So we don't guide beyond the next quarter.
+Ambrish Srivastava - BMO Capital Markets U.S.
+I understand, but how should we think about it? Icera, you said, is slightly dilutive. But then you also said that you would be also investing for new products, and then you have the Project Denver investment also ahead of you. So if you put that, lay that against your long-term target that you had laid out at the Analyst Day, how should we think of the target versus that, that you had laid out?
+Jen-Hsun Huang
+I guess I'm not sure that I understand the question myself. We've guided for next quarter, and we typically guide one quarter out.
+Ambrish Srivastava - BMO Capital Markets U.S.
+So you're not, so that's nothing beyond that...
+Jen-Hsun Huang
+Nothing irregular happening beyond that.
+Operator
+You have a question from Chris Caso of Susquehanna.
+Christopher Caso - Susquehanna Financial Group, LLLP
+Just a question on the Consumer Products business. And I guess, if we take out the Tegra business, it appears that, that's up very significantly on a year-over-year basis. Could you give us some color on what we may be missing there? What we may not be factoring in? And then if you could remind us of the consumer business, again, excluding Tegra, what the normal seasonality for that business is? I think it's normally seasonally down in January quarter. Should we model in a sharper seasonal decline, given that it's at higher levels now?
+Jen-Hsun Huang
+Embedded entertainment is expected to do well next quarter. And we've had embedded entertainment businesses for quite a long time. These are -- consider them slot machines or entertainment machines like that. And our embedded business is likely to continue to grow over time. And the reason simply, reason being that you see displays all over the world in arcades, in malls, and these large displays need to have great graphic processors. And it's nice to -- we have a full platform that is with a great operating system on top of it that embedded customers could use. The embedded business will also grow into auto. We've already announced that starting next year, Audi would be 100% NVIDIA. And there will be many, many cars, other car companies to follow beyond that. And so I think our embedded business is going to continue to grow. We're expecting next quarter, specifically to your question, next quarter, we're expecting embedded entertainment to grow as well.
+Christopher Caso - Susquehanna Financial Group, LLLP
+And then just moving on with respect to the notebook business. And obviously, listening to others, there's been some fairly cautious commentary about the notebook market in general in the second half of the year. What's your expectations with respect to share gains? We also -- the Mercury numbers, which had you gaining some share. Do your expectations in the second half assume additional share gains of kind of additional, of similar magnitude? Could you give us some color there?
+Jen-Hsun Huang
+We don't know what's going to happen in the second half completely yet until it's done. For now, we -- our expectation is that we will gain share in the second half. How much, we don't know yet. And what was the other question? The notebook market, We're seeing all the same commentary that you see in notebooks. And my sense to what's happening is that the netbook part of the market, and the entry-level part of the notebook market is probably under a lot of pressure from tablets. And so in that part of the market, our computing strategy, our strategy is to build tablets, processor for tablets. The segment market that seems to be still relatively robust is the high-end part of the notebook market. As you know, our tablet is really wonderful, but it's no comparison to a high-end notebook. And if you're a high-end notebook customer, you probably have greater computing needs and greater digital content creation needs than a netbook customer. And so I think that tablets are not really a solution for that, but much better a solution for media consumption than media creation. So that segment of the marketplace we see are relatively, relatively, relatively strong. In terms of GPU attach rate, the GPU attach rate around the world is higher than the United States by far. For example, in China, the attach rate is about 80%. And in Europe, the attach rate of GPUs in consumer PCs is about 60 some-odd percent, 60% to 70%. Here, in the United States, the attach rate is only in the 20s. And I don't know exactly why. Maybe it's because people have a greater sense of value outside the United States, maybe people have -- use their PCs for more additional content. But nonetheless, the attach rate is much, much higher outside the United States. And as you know, the growth rate of PCs outside of the United States is higher than United States. And so I think that our GPU position for consumers and high-end notebook segments are doing quite well.
+Operator
+Next in queue is Craig Berger of FBR.
+Craig Berger - FBR Capital Markets & Co.
+I guess, the first question is, can you talk about inventory in the channel or at your customers, did it go up in the second quarter? Did it go down? Or any other color you can provide around channel inventories?
+Jen-Hsun Huang
+Channel inventory is slightly down, and we're comfortable with the levels.
+Craig Berger - FBR Capital Markets & Co.
+Okay. As a follow-up, it was sort of asked a little bit more, but this baseband business, Icera, obviously, it's going to invest a lot to be active in the baseband business. How do we think about R&D as a percentage of sales, as we move out into time, not exclusive guidance, but how were you guys thinking about the investment profile in NVIDIA as we move forward? Because I get this question a lot from investors, and any color you can provide would be helpful.
+Jen-Hsun Huang
+We try very hard to invest what we can afford. And as a result, we focus our investments on things that either have extraordinary growth opportunities, or something that we're really, really good at. And in the case of GPUs, it's something that we're very, very good at. It has grown from 100 million to 150 million units over the last 5 years. And because it's a growth business, we're going to continue to invest in that. Now, ideally, our SoC business, the Tegra business, in combination with Icera, will start in the near future to grow faster than the R&D that we've invested it. And so that's what we're looking forward to. Hopefully, we get to a point where we're investing R&D proportional to the growth that we're experiencing.
+Craig Berger - FBR Capital Markets & Co.
+Last question. Can you just help us understand how big are the non-Intel royalties as part of your Consumer business?
+Jen-Hsun Huang
+It's really hard to break out anymore. Because we increasingly have unified the engineering development in our company. We have one huge soft organization, and we have a very large deal of [indiscernible] design organization. And so it's hard to figure out exactly which part of it is for Tegra and which part of it is for GeForce.
+Operator
+Next up is Glen Yeung from Citi.
+Glen Yeung - Citigroup Inc
+Just a question. If you think about all the years you've been in this business, and looking at what we're seeing in the economy now. First of all, how would you characterize your current visibility into, particularly the PC business? And then secondly, if you think, looking at what we're seeing in the economy, do you have incremental concern at this point? Or are you still relatively comfortable?
+Jen-Hsun Huang
+Well, the only thing that, the only gauge that we have is bookings rate. And bookings rate is probably about as linear as I've ever remembered it for Q2. And bookings rate continues to be solid going to Q3. And so that's really about as much indicators as we have about the quality of the quarter.
+Glen Yeung - Citigroup Inc
+Okay. Then one other question is, and I recognize it maybe hard for you to tell. But can you differentiate between what is share gain on your part versus what is the overall market? i.e. obviously, we see some softness in the PC market but we don't necessarily see it in your numbers. And so is there a way for you to slice it so we can figure out which is which?
+Jen-Hsun Huang
+[indiscernible] I'm having a hard time understanding your question to say something...
+Glen Yeung - Citigroup Inc
+All I really want to know is how much do you think of your results are share gains versus the overall market conditions?
+Jen-Hsun Huang
+We gain share in notebooks. But our desktop business was about flat share. Our workstation business is about flat share. But then on the other hand, our market share in workstations is very, very high. Our share in Tesla is flat. But then, of course, our market share there is practically 100%. So the answer, I guess, to your question is we gain share notebooks and we were flat share everywhere else. And next quarter, we're expecting small gain shares, and the rest of it would be coming from the market.
+Operator
+And you have a question from Uche Orji of UBS.
+Uche Orji - UBS Investment Bank
+Let me ask you, let me start with Karen, please. Karen, on gross margins. So if I strip out the Intel payments and I get gross margins to be down on the product side, almost 300 basis points, and the royalties probably calculated about $45 million, I'm not sure whether that number is correct. But even if I put that in, then product gross margins goes on even further. So in a quarter that you've had improvements in Quadro, I'm just trying to understand why products gross margins went down? And how I should think about the outlook for product gross margins into the next quarter?
+Karen Burns
+So quarter-over-quarter, product margins, excluding Intel royalties, is basically flat. We held up very strong ASPs, strong same cost. So I'm not really sure what you're looking at. Other than, of course, Icera, when you come into an acquisition, you have an accounting where you're going to basically step up your inventory to fair market value. You're not going to get a lot of lift from what we sold for Icera. So there's a little bit of drag there. But NVIDIA core is stable.
+Uche Orji - UBS Investment Bank
+Okay. So including, if you strip out the impact of the royalty increase, product gross margins were still flat?
+Karen Burns
+Yes.
+Uche Orji - UBS Investment Bank
+Okay. I shall take that offline with you. Second question, Jen-Hsun, if I look at the Tegra business -- or look at the Quadro business, we finally started to see some growth there. I mean, after a few lethargic quarters. How sustainable do you think the improvement we're seeing now is? How much of it is driven by the movement to Fermi? And how much of it is just a large reaction from enterprise in terms of spending, and should we expect this to continue for a few more quarters? I'm not asking you to guide specifically. I'm just trying to understand when you have conversations with your customers, what they're telling you about [indiscernible] Quadro?
+Jen-Hsun Huang
+Well, Quadro's grown from several different areas. One, you mentioned Fermi. The Fermi GPU is just so much better than the last generation and can do so much more, and so that's one. The other is that people are using workstations for more and more applications. Digital video editing is a very large market and growing. And there's just so much more digital video content being created all over the world. And the third is global expansion, whereas the developing countries used to be a manufacturing-oriented culture and economy, it's increasingly a design-oriented economy. And so in order for movies and advertisement and products to be designed in China, they need workstations to do that. And so that's a really fabulous growth opportunity for us. And so we're seeing usage of workstations in more industries than ever. We're seeing that our GPUs can do more things. At Scene Graphs [ph] this week, we demonstrated a workstation that has the ability to not only visualize, but also simulate and visualize in realtime. It's technology we call Maximus, Quadro Maximus. And so all of these vectors are growth opportunities for workstations. Frankly, I wouldn't be surprised to see our workstation business continue to grow for many years to come. And just as the world continues to become more and more of a design environment, design economy, you're going to see other countries develop their capabilities and therefore they need the tools such as workstations.
+Uche Orji - UBS Investment Bank
+Okay, that's great. And in terms of what we should expect from Icera, I apologize if someone has asked this earlier, I dialed in a little late. But in terms of what we should expect from Icera going forward, obviously, I know you said that the contribution this last quarter wasn't material. At the moment, was the top line growth obviously coming from dongles, but what, in terms of the roadmap, should we be looking for? And would the contribution next quarter be material within the guidance you gave?
+Jen-Hsun Huang
+We're not expecting much contribution from Icera next quarter either. The real growth of Icera is going to come from 2 things. One, as we launch our LTE MultiMode modems, their MultiMode modem is fabulous. And it's been fully tested and approved. And we're looking forward to shipping them in tablets early next year. So that's one. That's one growth. Just discrete, high-end, high-speed modems, where they have a really great expertise and something that they've been quite famous for, for a long time. The second area requires us to build a unified chip. And we're in a process of doing that. And that allows us to address the low-end part of the smartphone market with an integrated application processor and baseband. And that part of the marketplace is going to become quite large over the next several years. Analysts estimate that the mainstream smartphone market is going to grow to about 1 billion units by 2015, from a couple of 100 million units today. And so that part of the marketplace is really not well served today by anybody. And we had to go and build a highly integrated versions of application processor and modem that will address that. So those are the 2 growth opportunities for us with respect to Icera.
+Operator
+And next in queue is Daniel Berenbaum from MKM Partners.
+Daniel Berenbaum - MKM Partners LLC
+If we can come back, Jen-Hsun, to your comment that you're not seeing anything unusual. Can you help me calibrate against normal seasonality? And maybe my math is just off. But I have that your October quarter is usually the strongest seasonal quarter. But it seems like we're, and I have an up 10% sequential number for normal seasonality, and you're guiding up revenues. But it seems like we're a bit light of what a normal seasonality would be. So can you just help me close that disconnect if we're not seeing anything unusual, then why is the quarter not seasonally as strong as you might expect it to be?
+Jen-Hsun Huang
+You have to subtract out the decline in chipset business.
+Daniel Berenbaum - MKM Partners LLC
+So that's it? So basically, can I not assume then that Tegra is growing enough to offset the chipset business? Is it all just due to chipset business declining? And if chipset business didn't decline, you'd be up kind of in a 10% range?
+Jen-Hsun Huang
+We'd surely be a lot more. Yes, we would grow a lot more.
+Daniel Berenbaum - MKM Partners LLC
+You would grow a lot more if the chipset business wasn't going away? Okay. Is there going to be anything left to remodel, anything left of the chipset business then after the October quarter?
+Jen-Hsun Huang
+There's not much left after the October quarter.
+Daniel Berenbaum - MKM Partners LLC
+There's not much left after the October -- okay. And then I want to come back -- this question was asked, and maybe I'll try to ask it in a different way. When we look at what the OpEx model is over a long period of time, is there a way to think about where you want R&D and SG&A to be as a percentage of revenue? Because it looks like OpEx has been creeping up a little bit as a percentage of revenue. Should we expect it to creep down over the course of the next year?
+Jen-Hsun Huang
+Yes. And the reason for that is because we like our -- I was trying to say it earlier, we like our revenues to start contributing. And the GPU business is, of course, growing quite nicely. The SoC business growing very fast, but off a very small base. We had 0 business in Tegra, practically, a year ago, and now it's a substantial business. But even at a few $100 million dollars a year, you can't build and sustain a world-class SoC business. At this level of play, if you want to build modern Android application processors, you better get that business up to $1 billion before R&D funds itself.
+Daniel Berenbaum - MKM Partners LLC
+So then how long does that take?
+Jen-Hsun Huang
+Well, I hope we can get there on a run rate basis some time next year. We'll try to get there as soon as we can.
+Operator
+You have a question from Vivek Arya of Bank of America.
+Vivek Arya - BofA Merrill Lynch
+Jen-Hsun, what is your sense of sell-through on Android tablets? Because I think the initial response was not as good. So what is changing or can change for that segment to grow and compete more effectively than Apple's iPad?
+Jen-Hsun Huang
+At some level, it's weird to put an injunction on a product that's not selling. And so it must be selling really well. The early products had a clumsy launch, and we already talked about that. But the Android 3.1 and 3.2 are just fabulous. And the apps all followed, and more and more apps are showing up all the time, and these devices are getting better all the time. The WiFi version came out, and now they're at $399 [ph]. And you've got thinner devices, you have lighter devices, and now you have 7-inch devices coming out. So we that's the -- and you have the transformer from ASUSTeK. That's the power of an open platform like Android. That you have all these great companies who are innovating around it. And although it started out a little clumsy, it fixed itself very quickly. And now the Android devices are selling wonderfully. And I just saw the market share data. I thought that it showed 30% and growing. And it looks like the Android tablets are a huge success.
+Vivek Arya - BofA Merrill Lynch
+And I think you are showing good progress on notebook GPUs. What will it take to regain the Apple business back from AMD?
+Jen-Hsun Huang
+We have to build a great GPU that is on schedule when they want to use it. Their rhythm is a little bit off the rhythm of the PC industry. And their cycle is a little bit off of the cycle, the rest of the industry. And so we just have to make sure that we have the right GPU for them at the right time and we'll have a good shot.
+Vivek Arya - BofA Merrill Lynch
+So as you look at your roadmap, do you think you are in sync with what they might need?
+Jen-Hsun Huang
+Well, I don't have any future products [ph] to announce today.
+Vivek Arya - BofA Merrill Lynch
+Got it. And just one last question. I think this was asked in many different ways. But if you look at operating margins. Obviously, you have all these new sales growth opportunities, but there's also the pressure on OpEx. So if you had to predict what an operating margin might do, as we talk a year from now, do you think it will be sort of at similar levels as it today? Higher or lower? Any sense of that?
+Jen-Hsun Huang
+Hope that it's higher. And the reason for that is because we like our top line to be growing faster than our investment. This last year, we had to invest in Tegra. And the Tegra investment is quite high, as you can imagine. We're building Android platforms and Windows 8 platforms. And all of these new platforms require investment. But we hope that our design wins will translate to revenues. And I'm very bullish about Windows 8, I think it's going to be an amazing operating system. Windows 8 tablets and Windows 8 clam shells that Tegra is going into, I hope will translate into real growth for our company in the second half of next year. And so the answer to your question is we like our operating margin to expand.
+Vivek Arya - BofA Merrill Lynch
+Got it. And just lastly, as this new Ice Cream Sandwich release come out from Android, do you think it puts more competitive pressure on you because obviously, one of your competitors has been selected as the reference of solution. And I think when you were selected as a reference solution with Honeycomb, you obviously got a very strong head start. Do you see that same kind of situation develop where your competitor might be able to get that kind of head start? Or is the situation going to be different with this new release?
+Jen-Hsun Huang
+Well, we have lots of competition already. And the only 2 other players that we see these days have been in the application processor business for, well, since the beginning of Android. And so I don't know that they need a head start. In terms of Google, Ice Cream Sandwich, I don't have any comments on it. The only thing you could -- if you have questions on Ice Cream Sandwich, you should ask Google. But we have a great working relationship with Google. And we're working on Google operating system tablets and phones at every phone company and tablet company just about all over the world. And so we're looking forward to the next version, and we're expecting to be very successful with it.
+Jen-Hsun Huang
+Okay. Thanks, you guys. I look forward to talking to you guys at the next conference call.
+Operator
+Thank you, Mr. Huang. Ladies and gentlemen, that concludes our conference. You may now disconnect.

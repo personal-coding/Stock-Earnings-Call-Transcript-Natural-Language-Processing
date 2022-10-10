@@ -1,0 +1,217 @@
+Cadence Design Systems, Inc. (NASDAQ:CDNS) Q1 2022 Earnings Conference Call April 25, 2022 5:00 PM ET
+Company Participants
+Richard Gu - Vice President, Investor Relations
+Anirudh Devgan - President and CEO
+John Wall - Senior Vice President and CFO
+Conference Call Participants
+Gary Mobley - Wells Fargo Securities
+Charles Shi - Needham & Company
+Joe Vruwink - Baird
+Blair Abernethy - Rosenblatt Securities
+Pradeep Ramani - UBS Securities
+Jay Vleeschhouwer - Griffin Securities
+Vivek Arya - Bank of America Securities
+Ruben Roy - the WestPark Capital
+Devin Au - KeyBanc Capital Markets
+Operator
+Good afternoon. My name is Erica, and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence First Quarter 2022 Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakersâ remarks, there will be a question-and-answer session. [Operator Instructions]
+Thank you. I will now turn the call over to Richard Gu, Vice President of Investor Relations for Cadence. Please go ahead.
+Richard Gu
+Thank you, Operator. I would like to welcome everyone to our first quarter of fiscal year 2022 earnings conference call. I am joined today by Anirudh Devgan, President and Chief Executive Officer; and John Wall, Senior Vice President and Chief Financial Officer. The webcast of this call and a copy of todayâs prepared remarks will be available on our website, cadence.com.
+Todayâs discussion will contain forward-looking statements, including our outlook on future business and operating results. Due to risks and uncertainties, actual results may differ materially from those projected or implied in todayâs discussion.
+For information on factors that could cause actual results to differ, please refer to our SEC filings, including our most recent Form 10-K and 10-Q, and todayâs earnings release. All forward-looking statements during this call are based on estimates and information available to us as of today and we disclaim any obligation to update them.
+In addition, we will present certain non-GAAP measures, which should not be considered in isolation from or as a substitute for GAAP results. Reconciliation of GAAP to non-GAAP measures are included in todayâs earnings release.
+Todayâs earnings release for the first quarter of fiscal 2022, related financial tables and CFO commentary are also available. For the Q&A session today, we would ask that you observe a limit of one question and one follow up. You may re-queue if you would like to ask additional questions and time permits.
+Now, I will turn the call over to Anirudh.
+Anirudh Devgan
+Good afternoon, everyone, and thank you for joining us today. I am pleased to report that Cadence delivered exceptional results for the first quarter of 2022, with broad-based demand for our innovative solutions driving solid double-digit growth across all business groups. In view of the strong start to the year and the continuing momentum of our business, we are raising our financial outlook for the year. John will provide more details on that in a moment.
+Generational trends such as hyperscale computing, 5G, 5G, autonomous driving and AI/ML are creating an explosion of data that in turn is driving the need for next-generation compute, connectivity, storage and data analytics solutions.
+Along with accelerating digital transformation of multiple end markets, these trends continue to fuel robust design activity, creating rich market opportunities for our differentiated end-to-end EDA, IP and system solutions.
+Now letâs talk about our key highlights for Q1. A key element of our approach has been to closely collaborate with our ecosystem partners and focus on market shaping customers. We are very excited to have built upon our successful engagements with a marquee U.S. semiconductor company, and in Q1 signed one of the largest contracts in company history, to enable the broad proliferation of our EDA, hardware and systems solutions.
+Additionally, in Q1, we expanded our longstanding partnership with Arm, who is using a comprehensive set of Cadenceâs EDA solutions and Cadence who is using Armâs latest IP, to jointly provide implementation reference flows and optimized processor IP to accelerate customer innovation. Rapidly increasing challenges in system verification and software bring-up continued to be a strong pull for our verification business, which delivered 30% year-over-year revenue growth.
+On the heels of a record year, our hardware business had its biggest quarter by far, with unabating demand for our best-in-class Palladium Z2 and Protium X2 hardware platforms. With 10 new customers and over 50 repeat customers, more than half the orders during the quarter included both the platforms. Demand for hardware was broad-based, with particular strength seen in the hyperscale, 5G/communications, and AI/ML segments.
+Our digital and signoff business had another strong quarter, with 23% year-over-year revenue growth. Deployment of our digital full flow, delivering industry leading quality of results at the most advanced nodes, continued to accelerate with more than 15 new wins in Q1.
+Our innovative Cadence Cerebrus solution uses unique reinforcement learning ML technologies to explore the entire design space and intelligently optimize the digital full flow in a fully automated manner.
+Several market shaping customers have successfully deployed Cadence Cerebrus, and realized remarkable productivity and power, performance and area benefits, including, a marquee Asia-Pacific systems company used Cadence Cerebrus to achieve 5X engineering productivity and nearly 10% power gains on a critical advanced node subsystem.
+And a leading Asia-Pacific hyperscaler used Cadence Cerebrus with our digital full flow to tapeout a chip with nearly 2 billion instances, reducing power by 5% compared to the alternative flow.
+Our System Design & Analysis business, which is driving our expansion beyond EDA, continued its strong momentum in Q1, delivering 22% year-over-year revenue growth. There is growing interest in our Integrity 3D-IC solution, the industryâs most advanced multi-die platform, with tightly integrated system planning, implementation and analysis technologies. A large U.S. data infrastructure company successfully deployed Integrity to tapeout their 2.5D IC and Lightelligence, used 3D -- Integrity 3D-IC, Virtuoso and Innovus in the development of their fully integrated optical computer system.
+In System Analysis, we continued executing to our strategy of building out our multi-physics platform, offering best-in-class engines delivering superior results compared to legacy solutions. We are pleased with the new wins and growing repeat orders for our organic Clarity and Celsius products, as well as our recently acquired CFD technologies. Over the past year, our CFD solutions have continued to proliferate, especially in the aerospace and defense arena with market-shaping customers such as Lockheed Martin.
+In Q1, Juniper Networks renewed their commitment to Cadence technology, including comprehensive access to our systems portfolio across PCB, packaging and System Analysis solutions.
+And last week we introduced Fidelity CFD, a comprehensive CFD platform that includes enhanced meshing technologies, as well as a next generation massively parallel high-order solver, that dramatically improves the performance and accuracy of complex CFD applications across multiple vertical end markets. Fidelity CFDâs software meshing capabilities have been chosen by Toyota Motor Europe to be their standard workflow for CFD preprocessing and the winning Americaâs Cup, Team New Zealand, relies on Fidelity Marine solver for their hull hydrodynamic modeling.
+Lastly, in addition to our outstanding business results, I am also proud of our high-performance inclusive culture and thrilled that we have been selected by Fortune and Great Place to Work as one of the 2022 100 Best Companies to Work For, for the eighth consecutive year.
+Now I will turn it over to John to provide more details on the Q1 results and our updated 2022 outlook.
+John Wall
+Thanks Anirudh, and good afternoon, everyone. I am pleased with the results we achieved for the first quarter of 2022, driven by broad-based strength across our technology portfolio and record demand for our leading hardware products.
+We continue to execute to our Intelligent System Design strategy, making further significant strides with our innovation roadmap, and most importantly, we continue to delight our customers.
+Here are some of the financial highlights from the first quarter. Total revenue was $902 million, 
+GAAP operating margin was 35% and non-GAAP operating margin was 44%, GAAP EPS was $0.85 and non-GAAP EPS was $1.17, cash balance was $1.135 billion, operating cash flow was $337 million and we repurchased $250 million of Cadence shares.
+Before I provide our updated outlook for fiscal 2022, Iâd like to highlight that it contains our usual assumption that the export limitations that exist today remain in place for the remainder of the year. With that in mind, our updated outlook for fiscal 2022 is revenue in the range of $3.395 billion to $3.435 billion, GAAP operating margin in the range of 28.5% to 30%, non-GAAP operating margin in the range of 38.5% to 40%, GAAP EPS in the range of $2.51 to $2.59, non-GAAP EPS in the range of $3.89 to $3.97, operating cash flow in the range of $1.19 billion to $1.29 billion and we expect to use at least 50% of our free cash flow to repurchase Cadence shares in 2022.
+For Q2, we expect revenue in the range of $825 million to $845 million, GAAP operating margin in the range of 29% to 30%, non-GAAP operating margin of 39% to 40%, GAAP EPS in the range of $0.59 to $0.63, non-GAAP EPS in the range of $0.95 to $0.99 and we expect to repurchase at least $200 million of Cadence shares in Q2.
+Our CFO commentary, which is available on our website, includes our outlook for additional items, as well as further analysis and GAAP to non-GAAP reconciliations.
+In conclusion, all our businesses had a strong start to the year. I am pleased that revenue growth and profitability continue to accelerate. We are on track to exceed 50% incremental margin for 2022, which contributes to our continued operating margin expansion. Also, with the increase in our outlook at the midpoint, we now expect revenue growth for the year to exceed 14%, driving acceleration in our three-year revenue CAGR to over 13%.
+As always, Iâd like to close by thanking our customers, partners and our employees for their continued support.
+And with that, Operator, we will now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question comes from the line of Gary Mobley with Wells Fargo Securities.
+Gary Mobley
+Hey, guys. Thanks for taking my questions and let me extend my congratulations to the strong start to the fiscal year. I want to start off by asking about backlog, you had roughly a 16% sequential increase, and I was wondering, to what extent has emulation, prototyping hardware tools contributed to that increase, as well as IP? And I want as well ask you about the diversity of the backlog increase, was it largely driven by that marquee customer win that you highlighted in your prepared remarks?
+John Wall
+Yeah, Gary. Great question. This is John. Yeah. We are very pleased that backlog is now up to over $5.1 billion and it mainly came from broad-based strength across all of the different business groups. There was a substantial uptake in terms of hardware demand and you saw some of that come through in the revenue number in the quarter.
+But also I think you refer to, we had a large record contract with the marquee U.S. semiconductor company that we booked in Q1. This was a big extension and expansion to replace an existing deal that was expected to expire at the end of 2022 and that contributed significantly to backlog growth as well.
+Gary Mobley
+Great. Thank you. Thank you, John. I wanted to ask you about the disclosure in your SEC filings about the subpoena that you received from the U.S. Commerce Department or BIS and I was wonder if you can give us any update in -- what that entity is asking for in, and perhaps, what it relates to and your take on what specifically is motivating them to ask you for more information?
+John Wall
+Yeah. Gary, yeah, we mentioned previously that this is an administrative subpoena and the focus of the subpoena is information about sales to certain Chinese entities. Our response to the subpoena at this stage is mostly complete and Cadence is in compliance with all export control regulations. But other than that, I really donât have anything else to say.
+Gary Mobley
+Okay. All right. Well, thank you, guys.
+Operator
+Your next question comes from the line of Charles Shi with Needham & Company.
+Charles Shi
+Hi. Good afternoon. Thank you for taking my question. Maybe the first question, I want to follow-up quickly on the U.S. marquee semiconductor customer. I wonder you mentioned about record contract you signed. Is that a reflection of expanded the scope of a collaboration with that customer or a, I mean, a longer contract duration with this particular customer or maybe a combination of both, can you give us some color on that?
+Anirudh Devgan
+Yeah. Hi, Charles. Thank you for the question. This is Anirudh. So, like we have mentioned, key approach, a key element of our strategy is to focus on market shaping customers. And I am very happy with this new arrangement with the marquee U.S. semiconductor company.
+And you may know we have been working with this particular customer for a while and now we are excited to build upon these successes with these new contracts and itâs a broad ranging contract like we mentioned so it includes our EDA solutions, but it also includes our hardware platforms and our new systems solution. So itâs a fairly comprehensive arrangement and we look forward to continuing deployment with this very important customer.
+And to give you example I think last time we also mentioned, for example in EDA, we have a lot of successful engagement on our digital full flow, and for example, Cerebrus gave very good results at several key blocks on a recent paper out and about 5x productivity improvement.
+At the same time we also have engagement in analog with Virtuoso and Spectre, and of course, verification with the key element with hardware and then system solution. So, overall, we are happy with the progress and we look forward to wider deployment as we go forward.
+Charles Shi
+Thanks, Arun -- Anirudh. So maybe a second question I want to follow-up on China, definitely I understand you donât have any new news on the subpoena front and but your competitor recently, I mean, maybe not recently, they received a subpoena and made news with, sorry, WAFTA -- WAFTA press [ph] there. Just not really asking you to provide more legal comments on that, but from a business standpoint, are you seeing any changes in terms of behavior among the Chinese customers, who are not really subject to the export control measures, but may see whatâs the new development as a sign of potential escalation between U.S. and China on the semiconductor? Any -- I just want to point out that that your China revenue did see a little bit pickup in the first quarter. Maybe I am not making the wrong correlation here, but any color on this front would be great? Thank you.
+Anirudh Devgan
+Yeah. Thank you, Charles. So we are pretty pleased with our business in China. I think you may know we had some tough compare in 2021 versus 2022, fiscal 2021 versus fiscal 2020. But we are -- thatâs behind us now. So I think we expect China business to be strong and continue to grow and we seeing that strength across our product portfolio. So, John, you want to comment?
+John Wall
+Yeah, I would add that -- yeah. I mean, we are seeing customer demand is strong and it continues to present a growing opportunity for us out in China. One thing that benefited us in China in Q1 was we did pick up some software revenue in custom IC and digital IC from some license compliance transactions and they benefited us in Q1, as well as the strong hardware in the quarter.
+Charles Shi
+Thank you very much.
+Operator
+Your next question comes from the line of Joe Vruwink with Baird.
+Joe Vruwink
+Great. Hi, everyone. Maybe just going back to the backlog development, when you think about how your involvement with the marquee U.S. semiconductor company has evolved. Do you think it is emblematic of kind of how your relationships across your broader customer base are evolving and maybe at a strategic level can we just discuss how that scope of involvement is changing? And related to that, you introduced quite a few new products over the past 12 months. You have been talking about some today. Are you starting to see those factor into larger ACVs or deal sizes?
+Anirudh Devgan
+Yeah. Joe, thatâs a good point. So, what I would say is that, we are pretty happy with our product portfolio and competitive positioning. And we are happy that, we always start, we focus on the important customers, focus on benchmarking, focus on adoption, proliferation that leads to booking and revenue.
+So, overall, I think we all feel confident of our product portfolio that includes EB and IP, and then expansion of that product portfolio into system design and analysis, as you see, that also grew pretty well in Q1. And then the use of AI to further differentiate our solutions, whether they are in EDA or in systems.
+So at this point, I think, we feel good where we are, and also, we are, as you know, in the golden era of semiconductors and electronic systems. So the market is also growing and we feel we are in a strong position. So together itâs a good tailwind for our solutions and our company.
+John Wall
+And I would just add there, Joe, that we are very excited about the growth opportunity that this expansion brings us over the next several years.
+Joe Vruwink
+Okay. Okay. Thatâs great. And then specifically on your hardware platforms, a quarter ago, you discussed how verification had really good visibility and this was informing your view on a strong 1Q forecast at that time and also a strong first half, but that you werenât necessarily extrapolating the strength in the first half into the second half, maybe can I wait and see a bit more with the updated forecast you are providing today can you just give an update on kind of where your thinking and forecasting stands with your verification hardware?
+Anirudh Devgan
+Yeah. Let me go ahead and talk about verification first, and I think, John, can comment more about the outlook for the year. But I think verification, as you know, is a key differentiator for our customers.
+I think to really be a state-of-the-art kind of design company or a system semiconductor company, your ability to do good verification is critical. That is what can lead to you know rapid cadence of your products and also how fast from silicon tape out to product release.
+So I think importance of verification becomes critical and the importance of hardware platforms especially driven by Palladium and Protium to do not just, ideal verification but also software bring up is critical. So, therefore, we are seeing a strong demand across both the semiconductor companies, but also the system companies which inherently have software who are verification products and we had a record quarter following a record year last year. Now in terms of going forward, I would like John to comment on rest of the year guidance.
+John Wall
+Yeah. Joe, I mean, we are seeing significant demand for all of our hardware products and as we said in our year end call just a few weeks ago, we werenât comfortable with providing an outlook or extrapolating that demand into the second half of the year until we saw the pipeline kind of closer to the summer and thatâs we kind of retained that position for this guide.
+Joe Vruwink
+Okay. Okay. Understood. Thank you very much.
+Operator
+Your next question comes from the line of Blair Abernethy with Rosenblatt Securities.
+Blair Abernethy
+Thanks very much and nice quarter guys. Just wondering if we could talk a little more about the multi physics simulation side of things, just wanted to get an update on how your channel partner programs are developing, whether they are getting traction to the overall business? And just perhaps on the model physics simulation, sort of what would you classify or what do you view as areas where you have got some competitive strengths?
+Anirudh Devgan
+Yeah. Thatâs a great question. So, first of all, as you saw we are growing pretty well in system design and analysis. And also just to remind you that we take all our revenue ratably, even in this segment compared to some other companies.
+So whenever you have ratable revenue then the bookings are you know growing faster than revenues. Overall, we are pretty happy with system design and analysis and especially the System Analysis portion that is becoming a bigger portion of Cadence business.
+And our key strength is our computational software expertise. So in ED over the last 20 years, 30 years we have a lot of experience doing very, very large systems efficiently and accurately. So we apply that computational software expertise to System Analysis. So our solutions can be order of magnitude better than what has been these legacy solutions in this space, okay.
+And we first always focus on key customers, the top customers and the top customers in that space are similar to our traditional top customers. So these are big system and semi-companies, also our top customers in System Analysis, because we want to make sure your product is differentiated and I think thatâs ongoing and you see the strength and clarity in Celsius and now with the introduction of Fidelity.
+Now beyond that, to your point, I think, we also work on channel expansion and I think we have mentioned in the past that we are expanding our partner network and also expanding more and more of these solutions to be available on the cloud, which also naturally reaches more and more customers.
+So we always want to first focus on the product, focus on the top customers and the big customers, and then build -- systematically build out a framework to expand the deployment and go-to-market. So, overall, we are pleased with our progress and you know, it is also very synergistic with our overall EDA position and overall intelligent system design strategy.
+Blair Abernethy
+Thatâs great. Thanks very much.
+Operator
+Your next question comes from the line of Pradeep Ramani with UBS Securities.
+Pradeep Ramani
+Hi. Thanks for taking my question. I just had a couple of questions on the marquee customer win that you are talking about. Should we think about that as a competitive displacement from your side or should we think about it more as a similar scope or maybe expanded scope, but larger contract values? How do you think about that?
+John Wall
+Yeah. I would profile it as an expansion of the proliferation of our technology with that customer. I think that customer has seen the value in the products that, that we have provided over the last number of years and itâs ready to take the next step.
+I mean, typically when we are proliferating with costs like this, it starts with them using our technology in a number of individual designs and then based on the success of those designs, they proliferate and expand into other multiple designs. They may also continue to use the other technology, but itâs certainly, it has I was very excited about the growth opportunity that this expansion means for us for the next number of years.
+Pradeep Ramani
+Great. And as a follow-up, your IP business is sort of accelerating, if you think about -- if you look at the last two quarters. Do you still feel good about the low-teens, so the type of growth rate for the year or should we be thinking about something thatâs much higher than that?
+John Wall
+Well, over the last three years or so, I think, they have been growing around mid-teens. We put in the outlook low teens. Itâs in the outlook at 13%. We havenât changed that from the end of last year, but you might have noticed that they achieved 17% in Q1.
+What we find is that, when we give them a target for low-teens, they focus on the most profitable IP business and generally over perform. But the current outlook just represents 13%, there may be upside for us.
+Pradeep Ramani
+Okay. Thank you.
+Operator
+Your next question comes from the line of Jay Vleeschhouwer with Griffin Securities.
+Jay Vleeschhouwer
+Yeah. Thank you. Good evening, Anirudh and John. Question number one, Anirudh, we have spoken over the last few months of how your semiconductor customers are becoming increasingly like systems customers, systems customers are becoming more like semi customers. With that in mind, though, in what way are the two halves of the customer base still different? I mean, even though they are becoming more like what are the important differences that remain in terms of their process or their mix of product from a company like yours? And in any case, given the overall rising tide of your business, given the strength of the end markets, how are you seeing the kinds of services and support requirements that you are having to invest in and expand for your customer base? Second question, going back to the marquee customer, thatâs who we all think it is, that company is already by far the largest vendor on commercially EDA. They like many other semi companies have been materially expanding their R&D budgets inflecting higher substantially over the last number of quarters. The question is, could you foresee that particular customer becoming a more than 5% customer for you or even perhaps 10% and thereby increasing your overall customer concentration? Thanks.
+Anirudh Devgan
+Yeah. Hey, Jay. Let me start with the -- your first question. Like you said, system companies are becoming doing more semiconductor design and semiconductor becoming companies are becoming more system company and this is great for Cadence and the industry.
+And there are similarities there, but you asked about the differences. So some of the differences, of course, first thing is, thatâs one of the reasons we expand it into system design and analysis. So, naturally to system companies, we are not just engaging with our EDA and IP products, which are silicon-centric.
+We are also engaging with the system design and analysis products whether itâs 3D-IC or PCV design or simulation and thatâs a natural synergy of our strategy and the natural synergy of what is happening in the customer base. So thatâs one big difference.
+I think the second big difference is that the system companies naturally, as you know, have software content. Thatâs why they are a system company. So the need for hardware platforms, especially both Palladium and Protium, and software bring up, is always critical, but is even more critical for these system companies that are doing semiconductors. So I think I would say these are probably the two big things.
+And then the third thing that always helps is a lot of times the system companies are new at or sometimes are engaging in new activities in semiconductors. So there is no legacy there. So that always helps us, because without legacy, with the strength of our portfolio, we typically do well in the market.
+Now, with respect to your second question, like we said, we are pretty happy with our engagement with the marquee U.S. semiconductor company and thereâs a lot of opportunities to grow there over the years in multiple aspects EDA, hardware and the system solutions.
+John Wall
+Yeah. Jay, we have a very diverse customer base, as you know, and I mean, we are very, very happy that this opportunity means that this particular customer is likely to spend a higher percentage of their dollars with us over the next few years and it sets us up to grow well in that account over the next few years. But we expect to grow well in many, many of our accounts, if not all of our accounts over the next few years, and so, yeah, I wouldnât -- I am not expecting a 10% customer.
+Jay Vleeschhouwer
+Thanks. If I can just ask youâ¦
+Anirudh Devgan
+Also another thing, Jayâ¦
+Jay Vleeschhouwer
+Yeah.
+Anirudh Devgan
+Yeah. Another thing, Jay, you probably know already to highlight is, as we do more of these AI-based solutions, Cerberus and you will see more from us going forward. Itâs an opportunity to provide much more productivity to our customers, whether they are semiconductor company or a system company.
+So what I -- what we are hoping is that because, as you know, the labor market is tight and the need for talent is always growing there is more and more need for automation and higher level automation.
+So I think there is opportunity for us to do well in variety of customers, especially moving more towards automation and less towards hiring, they will still hire more people, but thereâs opportunity for EDA and IP to be a bigger percentage of wallet as we provide more automation in our solutions.
+Jay Vleeschhouwer
+Understood. Thank you.
+Operator
+Your next question comes from Vivek Arya with Bank of America Securities.
+Vivek Arya
+Thanks for taking my question. I know that you look at the growth acceleration over the last few years, has it come from a wider customer base or is that more revenue per customer? And that -- if I kind of carry that question forward for the next three years to four years, what do you think is going to be a more important factor in driving the growth, is it a wider customer base or is it more revenue per customer?
+Anirudh Devgan
+Yeah. Thatâs a good question. What I would say is that, three big trends that are helping us. So first trend is, as you know, we are in golden age semiconductors and itâs expected to grow, continue to grow for next five years to 10 years. So our core business can do well with the semiconductor companies.
+I think the second thing is, like was mentioned earlier, the system companies are doing more silicon. So that adds like new kind of opportunities to engage with system companies and that I think is going to continue for the next five years or 10 years, because there are systemic reasons for system companies wanted to silicon for customization for a differentiation.
+And then the third big trend is, we are also expanding our portfolio in the system design and analysis, which is a growing tab for us and also expand -- itâs a growing market, itâs a profitable area.
+And so that these three trends, which is one is the core semiconductor business is going to do well that helps IED and IP. Second, system companies are going to do more silicon. And third, our portfolio itself is expanding the system design and analysis, and all these three things can be help with AI and more automation and I donât see that changing in the next five years, 10 years. So I think these are these are fundamental trends for a while that can help us.
+Vivek Arya
+Got it. And I know this is probably, it might be apples and oranges, but when I look at semiconductor companies, they are benefiting from raising prices and they see across the Board that their margins are getting better. Are you benefiting at all from raising prices on a like-to-like basis or is that not a factor when you look at the stronger growth and the acceleration this year, like, is there a level of price inflation that that is benefiting you in some ways also?
+John Wall
+Yeah, Vivek. Our revenue increase always comes from a combination of volume and pricing increases, and you see that happen over time on all of the accounts. Yeah, the -- I donât know what else to say in terms of that, but everything has been -- all we, we just focus on continuing to provide more and more value to customers and they continue to provide more and more share of the wallet to us.
+Vivek Arya
+Okay. I guess on my question is, is the price increase this year different than what you have had historically?
+John Wall
+We have increased prices this year, but similar to the prior years.
+Vivek Arya
+Okay. Thank you.
+Operator
+Your next question comes from the line of Ruben Roy with the WestPark Capital.
+Ruben Roy
+Hi. Thanks. Anirudh, I just want to follow up on sort of the discussion around the core segments and certainly off your fast start and some of the other areas this year. I am just wondering, when you look at the especially the customized IC design, are you thinking that thatâs an area of your business that is going to sort of -- get back to sort of the corporate type of growth rates or maybe underperform a little bit relative to some of these newer areas, whether itâs fabrication tools, system design and analysis tools, et cetera. Just wondering, I hear you the core business is still growing along with the semiconductor area. But it seems like some of your other businesses are set up to grow at a faster pace, am I thinking about that correctly?
+Anirudh Devgan
+Yes. So I think on the question on the -- I think your question is on the analog -- the customâ¦
+Ruben Roy
+Yeah.
+Anirudh Devgan
+â¦ analogâ¦
+Ruben Roy
+Yeah.
+Anirudh Devgan
+â¦with signal business. And if you look back several years, that business has performed very well and continues to grow, because as we go to newer nodes, itâs not just the digital, but in the analog has to go to these advanced nodes.
+Now we have a pretty good position in the market there and so, I mean, that has grown I think slightly slower than maybe digital verification, but still has done pretty well over the last few years and I expect that to continue and there are a few things that are helping it also apart from the traditional analog design, I mean, there is more and more RF design. So our recent move into RF with the acquisition of AWR, that is well integrated with Virtuoso.
+And with 3D-IC and more and more, thereâs a lot of activity still at mainstream nodes. So I think, overall, we are pretty pleased with that business and itâs still has a very healthy growth rate and continues to be also a fairly profitable business for us.
+Ruben Roy
+Okay. Understood. As a quick follow-up, Anirudh, given whatâs going on. Itâs great to hear, sort of the traction that marquee customers and large deals, et cetera. Is there an update on how to think about your cloud, the kind of the move to the cloud for some of your products or whether or not you are seeing some of your customers move to even a hybrid cloud situation or do you think, as we get more of these larger customers, is it still going to be, the vast majority of your business is going to be on-prem? I am just trying to figure out if thatâs still a big initiative for the -- over the next few years?
+Anirudh Devgan
+Oh! Absolutely. I mean, cloud is a key initiative, and I think we have done this for several years. I think we were probably the first company to really invest heavily in the cloud and both from a customer managed cloud or a Cadence managed cloud and also a variety of business models, right? So, because primarily cloud allows more flexibility for our customers in terms of usage and business models.
+So, we have done this for several years and we are open to all kinds of possibilities. And itâs important to give choices to our customers and in some cases they use their own cloud platform, in some cases, they use our kind of cloud platform that we work with our partners in a more of a SaaS offering. And in some cases, like you said, they use hybrid, especially a really big customers if they have a -- already a good data centers internally then they use the hybrid cloud for like peak utilization and whereas some of the smaller customers are the newer startups may completely go to the cloud, okay.
+So I think we will see how the market evolves, but we are ready with all kinds of solutions and business models and do how the customers use those solutions. But I do see the smaller or the newer companies go more towards full cloud and more of the traditional companies go towards hybrid cloud. But in any case we are set up to service all these models for our customers -- to our customer, yeah.
+Operator
+Our final question comes from Devin Au with KeyBanc Capital Markets.
+Devin Au
+Hi, John. Hi, Anirudh. Thanks for taking my questions. Yeah. Some double click on verification and China. Did you see any of the strength in these areas was maybe due to customers trying to buy ahead of any price increases or perceived inflation, just given the whole term macro backdrop?
+John Wall
+Yeah. I mean there is very strong demand, but we have such strong demand that thereâs a waiting list right now for our hardware. We are building the hardware as quickly as we can. So the hardware that we delivered in China in Q1 many of those orders were pre-Q1 they were from last year. We have many, many more orders that we booked in Q1 that we will deliver later in the year, but we are flat out trying to build those systems as quickly as we can right now, demand continues to outstrip our ability to supply.
+Devin Au
+Got it. Got it, John. Maybe just one more for you. Nice raise to the operating margin for the full year. Where you look at first half margin, if my math is right itâs around 40%, 41% range. The guidance suggests operating margins with a little bit lower in the second half. Can you remind us on whatâs mainly driving the mix shift? Is it mainly due to timing of investments or maybe hiring thatâs more backend loaded?
+John Wall
+Yeah. I would characterize the second half guide as prudent. Thereâs lots of external factors playing out at the moment and we are very, very confident in that second half outlook. At the start of the year, we highlighted that we expected a strong start to the year with hardware. We didnât want to extrapolate that into the second half of the year until we saw the pipeline sometime in the summer. But we have -- we are delivering those hardware systems as quickly as we can, the -- we will take a look at the second half outlook in the summer when we have a better visibility into the pipeline.
+Devin Au
+Got it. Got it. Thank you. Thatâs super helpful.
+John Wall
+Thanks.
+Operator
+Iâd now like to turn the call back over to Cadence for closing remarks.
+Anirudh Devgan
+Thank you all for joining us this afternoon. Itâs an exciting time for Cadence with strong business momentum and a thriving semiconductor and systems industry offering tremendous market opportunity. We are proud of the innovative and inclusive culture we have built at Cadence. And on behalf of our employees and our Board of Directors, we thank our customers and partners for their continued trust and confidence in Cadence. Thank you.
+Operator
+Thank you for participating in todayâs Cadence first quarter 2022 earnings conference call. This concludes todayâs call. You may now disconnect.

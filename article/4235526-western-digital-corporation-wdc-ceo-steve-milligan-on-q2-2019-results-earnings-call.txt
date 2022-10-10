@@ -1,0 +1,276 @@
+Western Digital Corporation (NASDAQ:WDC) Q2 2019 Results Earnings Conference Call January 24, 2019 5:30 PM ET
+Company Participants
+Peter Andrew - VP of IR
+Steve Milligan - CEO
+Mike Cordano - President and Chief Operating Officer
+Mark Long - CFO
+Conference Call Participants
+Aaron Rakers - Wells Fargo
+C.J. Muse - Evercore
+Vijay Rakesh - Mizuho
+Mehdi Hosseini - SIG
+Amit Daryanani - RBC Capital Markets
+Karl Ackerman - Cowen & Co.
+Sidney Ho - Deutsche Bank
+Jim Suva - Citigroup
+Wamsi Mohan - Bank of America
+Mark Delaney - Goldman Sachs
+Munjal Shah - UBS
+Operator
+Good day, ladies and gentlemen. And welcome to the Western Digital Corp Second Quarter Fiscal 2019 Conference Call. [Operator Instructions] As a reminder, this conference is being recorded.
+I would like to introduce your host for today's call, Mr. Peter Andrew, Vice President of Investor Relations. Mr. Andrew you may begin.
+Peter Andrew
+Okay. Thank you and good afternoon, everyone. This conference call will contain forward-looking statements within the meaning of the federal securities laws, including business plans and strategies, industry trends, and business and financial outlook. These forward-looking statements are based on managementâs current assumptions and expectations and we assume no obligation to update them to reflect new information or events.
+Please refer to our most recent annual report on Form 10-K filed with the SEC for more information on the risks and uncertainties that could cause actual results to differ materially. We will also make reference to non-GAAP financial measures today. Reconciliations between the non-GAAP and comparable GAAP financial measures are included in the press release and Guidance Summary that are being posted in the Investor Relations sections of our website.
+With that, I will now turn the call over to Steve Milligan, our CEO.
+Steve Milligan
+Thank you, Peter, and good morning, everyone. With me today are Mike Cordano, President and Chief Operating Officer; and Mark Long, Chief Financial Officer.
+For the second quarter of fiscal 2019, we reported revenue of $4.2 billion and non-GAAP gross margin of 31.3%. Non-GAAP operating expenses were $738 million and we delivered $1.45 in non-GAAP earnings per share with $469 million in operating cash flow during the quarter.
+Despite a softening business environment, our fiscal second quarter results were generally within our guidance ranges. Consistent with indications we provided at our Investor Day, overall demand trends exhibited a negative bias as the quarter progressed, subsequent commentaries from several companies in our served markets and highlighted continued demand weakness. Geopolitical and macroeconomic conditions have contributed to our customers having a more cautious outlook.
+Additionally Flash industry dynamics remain challenging. Consequently, our outlook for the March quarter will be significantly weaker than it would otherwise be given normal seasonality. I will comment on the actions that we are taking in response to current business conditions.
+First, we have been transparent in sharing our views on the evolving business environment and we'll continue to do so. In December 2017, we were the first to describe normalization trends in Flash and since then we've enhanced our disclosures to provide greater insight into how we are performing in both Flash and hard drives.
+Second, from a product perspective, we are entering calendar 2019 with the strongest product portfolio in our history. We expect to further enhance our portfolio throughout the year. In Flash, we continue to lead the industry's transition to 96 layer BiCS4 technology. We expect broad implementation of this technology across our product portfolio in calendar 2019. We have 96 layer products in customer hands today.
+In the December quarter of calendar 2019, we expect BiCS4 to achieve BiCS mix crossover with the BiCS3 from a supply standpoint. The product development investments we have made are yielding results. Specifically, we have completed development of internal controller and firmware architectures that can be leveraged across our portfolio in client, enterprise, mobile and embedded applications. We now address all the key categories for the enterprise SSD market.
+In addition, we will be sampling our enterprise NVMe product with BiCS4 by mid-2019. We have a significant market position with our NVMe client portfolio and expect to further capitalize on this success. We will be shipping our mainstream client SSD based on BiCS4 in the March quarter.
+Our embedded solutions are now shipping to all of the top global smartphone manufacturers enabled by our expanding portfolio of UFS products. Surveillance, automotive and gaming are attractive growth opportunities for Flash and we are already making inroads in these areas.
+In hard drives we continue to provide the enterprise market with leading aerial densities, enabling the highest capacity points and most cost-effective solutions. We have had an exceptionally smooth qualification process for our 14-terabyte helium drive and expect customer qualification activities for this industry-leading offering to be completed at virtually all of our customers in the current quarter. We've already commenced revenue shipments for several customers.
+Last quarter we announced a 15 terabyte offering at our Investor Day and described our plans for a 16-terabyte product based on energy assist technology. This will be followed by an 18-terabyte product, details of which will be shared later this calendar year. Data Center Systems continue to gain momentum across all of its product offerings in the quarter.
+As we've previously indicated, we are taking actions to right-size our factory production levels while ensuring we maintain our competitiveness and technology leadership. In Flash we are executing on the previously announced changes.
+Operator
+Ladies and gentlemen please standby. Once again ladies and gentlemen please standby.
+Peter Andrew
+Hi Sherry.
+Operator
+Hi yes, we can hear you now. 
+Peter Andrew
+Put me back on the line I'm going to begin the call. 
+Operator
+You're in the line, sir. We can hear you now.
+Peter Andrew
+You can hear?
+Operator
+Yes, I can hear you.
+Peter Andrew
+Okay. We're okay on your side now?
+Operator
+Yes, I believe so.
+Peter Andrew
+Okay.
+Steve Milligan
+All right. Well, I don't know where we cut off. Anyway I'm going to back up - sorry about that, I'm going to back a little bit on my script.
+As we have previously indicated, we are taking actions to right-size our factory production levels while ensuring we are maintaining our competitiveness and technology leadership. In Flash, we are executing on the previously announced changes to our wafer output levels to reduce our bit supply growth for calendar 2019.
+We are also making adjustments to the pace of our capital investments in Flash in order to align of our bit output with our market demand. Additionally, we have accelerated the closure of our Kuala Lumpur hard drive manufacturing facility by almost three quarters.
+Lastly, we are implementing substantial cost and expense reductions across the company. In total, we are targeting $800 million in annualized reductions in non-GAAP cost and expenses. Mike and Mark will provide further details in their prepared remarks.
+The long-term growth opportunities for our business remain unchanged. Transformative trends such as artificial intelligence, machine learning, autonomous vehicles, mobility, and IoT will continue to drive massive amounts of data that needs to be captured, preserved, accessed, and transformed.
+Western Digital remains well-positioned to further capitalize on the fundamental opportunities associated with the rapid growth in the volume and value of data. I want to thank the Western Digital team and all our partners for their ongoing support.
+With that, I will now ask Mike to share our business highlights.
+Mike Cordano
+Thank you, Steve and good afternoon everyone.
+We have spent the last two years aggressively investing and building our architectural platforms to power product line expansion. We are now at the point where these platforms and the products launched from these platforms are ramping as we enter 2019. The results of these investments gives us the confidence that we have the strongest portfolio in the company's history.
+Before I get into the details of our December quarter performance, I'd like to comment on how we intend to capitalize on the strength of our expanding portfolio throughout the calendar year and beyond.
+Our architectural platforms consisted of a combination of industry-leading-based technologies, internally developed controllers, and the corresponding firmware. The underlying storage technology whether Flash or the hard drive heads and media and the manufacturing and test processes to mass-producer products with high yields and industry-leading quality.
+We have developed our product portfolio to allow us to increase our participation and differentiated end markets that have strong growth prospects. We are also strengthening our market-facing capabilities across the sales, marketing, and go-to-market organizations.
+These key ingredients are allowing us to innovate and quickly bring products to our targeted end markets working collaboratively with our customers in the broader ecosystem. We are now in a position to drive greater participation in higher value markets and expect to corresponding improvement in the quality of our revenue throughout 2019. I will illustrate with a few important achievements today.
+For the data center we began qualifications of our NVMe SSD product in the December quarter and due to stronger customer pull we expect to ramp this product for the meaningful revenue by the middle of this calendar year. Leveraging our enterprise architectural platform and the associated IP blocks, we will be able to expand our enterprise SSD product portfolio throughout 2019 in a cost-effective and predictable manner. This includes shipping BiCS4 based products to customers within this calendar year.
+In capacity enterprise, we are focused our investments to build upon a highly successful helium technology platform, which has become an industry standard. We continue to maintain our leadership position as demonstrated by the ongoing ramp of our 14-terabyte hard drive and the introduction of our 16-terabyte hard drive later in the calendar year.
+Our position in the midrange capacity enterprise market continues to strengthen with the ramp of our cost optimized 4 terabyte to 8 terabyte products, fueling customer breadth and geographic penetration.
+We continue to capitalize on our industry-leading client SSD platform with products spanning from high performance gaining solutions to cost optimized mainstream offerings. All with the quality and reliability customers expect from Western Digital. This platform will enable exciting derivative products which will announce throughout this year.
+In mobile and embedded, we will further expand our presence within top-tier accounts given our complete portfolio of products to address all categories of this market. We've got it additional design wins with our eMMC and UFS solutions further expanding our customer base and enhancing our position among the top five smartphone manufacturers.
+We're also successfully developing leading embedded solutions for automotive, connected home, and surveillance categories. This is being illustrated through several of the product announcements, we've made in the second half of 2018 and expect to make in the coming quarters. We are realizing the benefits of two years of accelerated product R&D investments already in terms of greater participation and higher value areas of the market and a broadening customer base.
+I will now provide additional details on some of the near term actions we are taking. We previously announced the reduction to wafer starts for a proportion of the Flash joint venture along with the way deployment of the capital equipment. The magnitude of these actions is a planned reduction of 10% to 15% of our bid output in calendar 2019.
+As the year progresses, we will continue to assess market conditions and evaluate the need to make further adjustments to right size our inventory. We are also accelerating our Kuala Lumpur facility closure time line by almost three quarters along with rationalizing other HDD manufacturing costs.
+In terms of our second quarter results, revenue in each of our end markets declined on year-over-year basis due to a combination of lower demand and aggressive Flash pricing conditions despite healthy growth in Flash bits sold. We maintain our leadership position across our G-Tech, SanDisk and WD brands in our client Solutions portfolio. We grew up presence in client SSDs during the quarter and delivered solid performance on differentiated Form Factor devices such as iXpand.
+Demand elasticity contributed to a strong 30% year-over-year increase and average capacity in the Flash portion of our Client Solutions portfolio. Within Client Devices, while near term demand trends in the smartphone market are soft. Our view on the longer term shift towards higher average capacities remains unchanged.
+We achieved excellent momentum in our client SSD portfolio in the quarter. Average capacity for client SSD grew over 60% year-over-year in the December quarter of fueled by an increase mix of our 512 gigabyte SSD at our key customers. For the first time our client compute SSD revenue exceeded client compute HDD revenue.
+In data center, devices and solutions we have maintained our position as a leader in aerial density with the highest capacity HDD products. As Steve described the production ramp of a 14-terabyte helium drive has progressed smoothly. We are pleased to have commenced product sampling of our first generation energy-assisted 16-terabyte drive and we are on-track to begin revenue shipments of this 8 flatter solution later this calendar year.
+In terms of the Exabyte growth rate for Capacity Enterprise, as we previously stated we are seeing a moderation in the first half of calendar 2019. Based on our customer discussions we continue to forecast year-over-year growth to resume in the second half of calendar 2019.
+In Data Center systems we experienced excellent momentum with record quarterly bookings and new customer acquisitions in our IntelliFlash and ActiveScale portfolios. We also had record revenue in our Ultrastar portfolio of storage platform and servers.
+For the third fiscal quarter demand for our products is expected to be affected by many of the market factors we highlighted at our Investor Day. These include reduced demand for mobile handsets a continued slowdown investments by hyperscale customerâs inventory adjustments at certain customers and geopolitical volatility.
+To conclude my remarks as we enter the New Year, we are confident in the strength of our product portfolio and our evolving market position. We fully expect to emerge from the current soft market environment in a position of strength and in the near term we are taking the necessary steps to effectively navigate current conditions.
+I will now turn the call over to Mark for the financial overview. 
+Mark Long
+Thank you, Mike and good afternoon everyone.
+Revenue for the December quarter was $4.2 billion at the lower end of the guidance range, primarily due to a decline in Flash, offsetting slightly better-than-anticipated hard drive revenue. Flash revenue was $2.2 billion with a sequential bit growth of 5% and a sequential average selling price per gigabyte declined of 18%.
+Hard drive revenue was $2 billion. Non-GAAP gross margin in the quarter was 31.3% below the 32% to 33% guidance range due to a product mix for hard drives that included less capacity enterprise products and lower-than-expected Flash pricing.
+Non-GAAP gross margin for Flash was 35% and for hard drives 27%. Continued focus on operating expenses combined with lower variable compensation in the quarter resulted in total non-GAAP operating expenses of $738 million. And non-GAAP tax rate was 14.5% which was higher-than-expected.
+We also recorded a GAAP-only charge for various tax-related accruals of $496 million consisting of the true up for the repatriation taxes related to tax reform and future withholding taxes related to decisions about permanent reinvestment in foreign jurisdictions. These are not expected to result in the near term cash payments.
+Non-GAAP EPS was $1.45. Operating cash flow for the December quarter was $469 million and free cash flow was $24 million, primarily driven by lower operating income and a sequential increase in the inventory. Within inventory almost all of the sequential increase was driven by continued hard drive builds, due to the Kuala Lumpur plant closure.
+In the December quarter, we returned to $144 million in dividends to shareholders. We did not repurchase any common stock during the quarter. However, we did repay in full our outstanding revolver balance and made scheduled principal payments reducing our overall debt balance by $537 million.
+At quarter end, we had $4.1 billion in cash, cash equivalents and available-for-sale securities and principal debt outstanding of $10.8 billion. As Steve noted earlier, we planned to reduce our annual non-GAAP cost-of-goods sold and total non-GAAP operating expense levels by combined $800 million evenly split between the two line items.
+For cost-of-goods sold, we expect to see the full results of these efforts reflected by the end of the December quarter of 2019. And for operating expenses we expect to see the full results reflected within the September quarter of 2019.
+These planned actions are designed to reduce our base level of non-GAAP operating expenses before variable compensation by $100 million per quarter including a normal level of variable compensations our new total non-GAAP operating expense level for 13-week fiscal quarter would be approximately $740 million starting in the September 2019 quarter. For modeling purposes, please note that the September 2019 quarter will have 14 weeks instead of the normal 13 weeks.
+I will now provide our guidance for the third fiscal quarter of 2019 on a non-GAAP basis. We expect revenue in the range of $3.6 billion to $3.8 billion. Gross margin of approximately 28%. Operating expenses between $760 million and $780 million, which reflect the normal payroll tax reset and other one-time items.
+Interest and other expenses of approximately $105 million and effective tax rate of 15% to 17%. Diluted shares of approximately 294 million. As a result, we expect non-GAAP earnings per share of $0.40 to $0.60.
+I'll now turn the call over to the operator to begin the Q&A session. Operator?
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes from Aaron Rakers with Wells Fargo.
+Aaron Rakers
+I do have a follow-up as well. Maybe to start given the questions that we've gotten through the course of the last month or so, Mark if you wouldn't mind just addressing the balance sheet concerns, your thoughts on the capital structure, the covenant situation as you kind of look at that threshold of roughly $0.50 a quarter in EPS and any kind of thoughts on how you view the dividend?
+Mark Long
+Well, I'll talk about the first part and then Steve can talk about the dividend. So in terms of the leverage ratio, we are currently in compliance with significant headroom. And as we look forward we are focused on cash flow and we believe we have the necessary headroom through the near term and through our forecast period. And we certainly from a balance sheet perspective have sufficient liquidity to operate our business. And I'll let Steve talk about the.
+Steve Milligan 
+Yes and Aaron with regards to dividend we absolutely remain committed to our dividend. And so it's as simple as that. 
+Aaron Rakers
+And then as a quick follow-up. I think last quarter you had alluded to the view that possibly the near line, high-capacity business into the CSP's would see more or less flattish kind of year-over-year growth rate in capacity shift. Clearly the result of this quarter were worse the next expected. And so, as we work through the CSP kind of digestion what's your updated view on capacity shipments looking into the March quarter as well as any thoughts into the June quarter as well? 
+Steve Milligan 
+Yes just to reiterate our view of the first half is remains the same, roughly flat growth year-over-year. It was our tough compare as you know what's growth resuming in the back half. 
+Aaron Rakers
+I want to be clear there. So flat year-over-year growth in total capacity ship would put you at -- I don't want to put numbers in your mouth, but roughly 50 exabyte which is a pretty notable jump quarter-over-quarter into the March? Is that right? 
+Steve Milligan 
+Yes. So think about it mark zero growth year-over-year flat. 
+Operator
+Our next question comes from C.J. Muse with Evercore.
+C.J. Muse
+I guess first question in terms of your revenue guide. Can walk through how you're seeing contribution between the NAND side of things and the HDD side? 
+Steve Milligan 
+Yes. So in terms of the guidance, it's about an 80:20 split. In terms of the delta from quarter - our current quarter to the past quarter. 
+Mike Cordano
+With 80% being flat.
+Steve Milligan 
+Exactly. 
+Mike Cordano
+So the line share the decline is Flash related as opposed to HDD related. 
+C.J. Muse
+And then as a quick follow-up, in the slide deck you discussed price aggression in HDDs and I'm just curious are you seeing that across all verticals? Is that related just a near-line? We would love to get clarification on that.
+Steve Milligan 
+No. In the slide deck it was talking about our client solutions business of that external hard drives. We do not see any of that within sort of standard devices business. The Capacity Enterprise or any of the other direct to OEM businesses.
+Operator
+Our next question comes from Vijay Rakesh with Mizuho.
+Vijay Rakesh
+Just wondering when you looking at the NAND side, if you can give us some color on what inventories look like exhibiting the December quarter versus the normal and same for the hard disk drive as well?
+Steve Milligan 
+Sure. So can you go on mute we're getting feedbacks.
+Vijay Rakesh
+Sure. So I was asking - just wondering if you can give us some color inventory levels on the NAND side exiting the December quarter and hard disk drive as well. Hello?
+Operator
+Ladies and gentlemen please standby. Once again, ladies and gentlemen please standby.
+Peter Andrew
+Sherry, are we coming through on your side?
+Operator
+Yes. We're coming through.
+Steve Milligan 
+I will restate the answer. In terms of inventory for the past quarter on a sequential basis we grew inventory by a little over $300 million and that was virtually all hard drive related and that was a function of both the bills associated with our KL closures and our return to normal inventory levels for capacity enterprise. So we did not have a significant build from a dollar standpoint in Flash.
+On a year-over-year basis, we have grown a little over $1 billion, and it's roughly half Flash and half hard drives. And it's basically, the same drivers for hard drives, but with Flash, it is a function of the cycle and holding more inventory. So that's our current position. 
+Vijay Rakesh
+And when you look at demand side in both NAND and hard disk drive, one of the hiccups has been the data center demand has been a little bit weaker. I was wondering, what your expectations are? I know you've talked about that it should come back in the second half. What gives you the confidence that it should come back in the second half given that it's still continues to be at very low level here? Thanks.
+Steve Milligan 
+So the confidence we have is a number of things. Obviously, it's through direct conversations with our customers. It's a combination of the rate of growth relative to their services remains sort of steady and constant. So what they need to do collectively is get through their optimizations as well as in some cases, there are some excess inventory in this system for that group of customers. So a combination of those factors gives us confidence that will see the growth resume for us in both sides of a business and the second half of the year.
+Operator
+Our next question comes from Mehdi Hosseini with SIG.
+Mehdi Hosseini
+I have one question, one follow-up. Going back to the NVMe commentary and how you're position for new product launch, I want to better understand your value and what is it that you've been able to get some design wins. I'm under assumption that three quarter of the NVMe SSD market is dominated by two and one Korean competitor dominating at least half of the market. And in that context, I want to understand what is it that gives you confidence that you're going to gain traction? And I have a follow-up.
+Mike Cordano
+So two things. One is the quality of the product we're bringing the market in terms of its relative competitiveness. And you sort of stated one of the other motivations. There is two guys with a lot of market share. They all preferred to diversify. So there is a pull from our customer base on those two factors and they're rather significant.
+Steve Milligan
+Yes, and the other thing Mehdi that I would add to that is we have to keep in mind that these are our traditional customers. I mean they deal with this across the product spectrum. We are a known supplier to them and so we're able to deliver the right product at the right time with the right cost. We arguably have a pretty good head start anyway given our pre-existing relationships.
+Mehdi Hosseini
+And my follow-up has to do with TMC in relationship in wafer supply agreement. And I'm just going to ask you and you feel free to how we're going to answer this. Historically you've been obligated to purchase a certain amount of wafer and it's been a cost-plus arrangement. Given all the changes that you're making cut backs on wafer starts and everything and in the context of where NAND process are going and the SSC revenue contribution not in the second half of 2019, how should we think about these relationship? Is there room for realignments of both party would benefit? And should we still assume that the prior arrangements that are based on sustain looking forward? 
+Steve Milligan
+So two things. No. I'm not sure that you're characterizing the relationships the right way. We have the ability to throttle our wafer start levels on our own. Now there are certain fixed costs that they have incurred. For example building, setting up the building, some of the infrastructure costs that we don't pay directly that we are still obligated to pay for.
+And so we talked about this last quarter on our earnings call when we looked at that from the broad economic perspective from a cash perspective we determined that it was more economical given the supply demand situation to cut our wafer starts which we are doing and are in the process of doing and that will carry you through your kind of the first half of this year and we'll continue to evaluate what level that needs to be.
+But from your characterization and relationship is not correct. And the economic consequences of that for us were favorable well from a cash perspective essentially.
+Mehdi Hosseini
+Perhaps a better question would be, will the current downturn, bringing the two parties together? Everyone talks about the need for consolidation. And is this opportunity for a more close relationship?
+Steve Milligan
+Well that, I'm not going to speculate on that. Mehdi, I'm sure you appreciate that.
+Mehdi Hosseini
+Would you agree that industry needs to consolidate to better adjust to the industry dynamics supply and demand?
+Steve Milligan
+I'm not going to comment on that. I appreciate your questions Mehdi, but I'm not going to comment on that. Operator, can we go to the next call for questions please?
+Operator
+Our next question comes from Amit Daryanani with RBC Capital Markets.
+Amit Daryanani
+Hopefully, I got four questions as well. I have two though that I'll stick to. I guess, I'm surprised by the gross margins on the HDD side of 27%, Steve I don't think I've seen that since the time and slot time. So could you just touch on what's going on over there? And how do you see the path of the gross margins on the HDD side 2019?
+Steve Milligan
+No. Fair question, Amit. And the reality of it is just to be upfront. I'm not happy with the hard drive margins. I'm disappointed by the level there. It's driven by two things: one, weaker or lower capacity enterprise mix, which obviously capacity enterprise hard drive carries a higher-margin profile.
+And by the way we are carrying a cost burden in the HDD space, which is the reason why we're closing of Kuala Lumpur and not only the reason we're closing it, but also acceleration of that.
+And so as we finalize the closure of that facility and capacity enterprise are mix improves in the back half of the year, we'll see those margin levels to return to a more acceptable and traditional level on the hard drive space.
+Amit Daryanani
+And if just follow-up, and I realize everyoneâs crystal ball are somewhat cloudy these days. But to the extent you could see and look at all the cost reduction initiatives that you guys have up. Do think gross margins in aggregate to Western Digital trough out of the March quarter and they start to improve for the rest of the year, or do you think June could be another soft quarter before things ramp-up in the backups? How do you think the gross margin trajectory from given all the cost reductions you guys are doing?
+Steve Milligan
+Well, let me give you a little bit. Let me answer your question. I'm going to broaden that question. So let's talk a little bit about how we see 2019 playing out. So let me talk about the top line first.
+So we would expect that for next quarter our fiscal Q4 and I'm going to speaking relatively general terms, but this will help all of you. Our revenue levels to look pretty consistent with what we're expecting for fiscal Q3.
+Going into the back half of the year we would expect that our revenues will begin to improve for two principal reasons: one, improvement in capacity enterprise volumes as our hyperscale customers return to more normal buying patterns and resumption of growth in terms of capacity enterprise.
+And then additionally, let's call it a seasonal bump in terms of our revenue kind of call it across the board both in terms of Flash as well as in other areas. So our revenue will begin to improve.
+Now I'm going to start your question on margin for the time being. I'm going to talk a little bit about OpEx. OpEx this quarter in terms of expectations, Mark touched on it is inflated beyond what it would normally be. It's an inflated -- it's inflated really because of a couple of different reasons.
+Inflated compared to fiscal Q2, because one we've got FICA taxes that kick in this quarter that for a higher wage or people that will kind of go away as we move through the quarter. And then the other thing is that we had some variable comp, credits that were in the December quarter that will not reoccur in terms of in the March quarter.
+So that's why that compared looks a little bit odd. When you then move to the balance of the year, one we've got operating expense actions that we will be taking that will â the full effect of that will be realized in September, but you will begin to see more of a benefit of that in the June quarter.
+So OpEx will be trending down as we move through the year to a $740 million level starting the September quarter. After one complexity in the September quarter's we will have 14 weeks of operating expenses versus 13. So we all need to keep that in mind from a modeling perspective.
+From a margin perspective that is always difficult to determine. And it is really the wildcard. Clearly, from a Flash supply and demand perspective, which is consistent with what others have said, we expect that we're going to continue to be under pressure as we move through the first half of the year.
+The second half is a little harder to say, but I'm going to tell you what we are assuming. It doesn't mean that it's going to happen, but I'll tell you what we're assuming is that we are assuming that margin pressure in the Flash area will persist through calendar 2019.
+Now we're doing that for really one principal purpose from a financial modeling perspective and that we want to have a conservative bias, so we're kind of - I'll call it planning for the worst that is leading us to the actions that we outlined from a cost and expense perspective in terms of either accelerating actions that we are already planned or taking new actions to take cost and expense out of our system.
+But it's obviously not fully within our control to say how is Flash supply and demand going to play out as we move through the calendar year, because obviously we've got demand which there is a fair amount of fluidity and uncertainty associated with that right now. And then, we do not have â clearly, we don't have control nor do we have complete visibility in terms of the production level of our competitors.
+I know it's a long answer. What that will mean from an EPS perspective is that you â is that probably next quarter will look a lot like this quarter in terms of EPS performance. With some level of improvement as we move through the back half of the year with one exception in that we don't know how the 14-week can we make up for that 14th week of OpEx in the September quarter in other words can we get 14 weeks of sales. That's always a challenging thing that when we get 14 weeks. But that's kind of how the year is going to look based upon our current expectations.
+Operator
+Our next question comes from Karl Ackerman with Cowen & Co.
+Karl Ackerman
+Steve or Mark I wanted to clarify on your - I appreciate all the commentary that you just gave. Thank you for that. But I did want to clarify on your gross margin and OpEx savings assumptions combined equating to a run rate of $800 million. Could you please remind me, how much of these savings are incremental beyond what you previously called out from integrating SanDisk exiting calendar 2020, which if I recall correctly, you expected an incremental $600 million from the end of 2018 through 2020?
+Secondly, where are the two largest buckets you expect to extract the $400 million of COGS savings from? And then lastly, how should we think about you reinvesting those savings into strategic growth areas of the market? Thank you.
+Steve Milligan
+So the first question is relatively straightforward. In that the entirety of the COGS actions are incremental to the previously announced SanDisk related synergies. So that will -- we were targeting 2020. And so these are separate from those. And then, when we think about the primary drivers from a COGS standpoint, these are first associated with our acceleration of the KL closure and rightsizing our HDD footprint.
+And then the second big driver is just an overall focus and improvement in terms of our other COGS related expenses on the primarily in the hard drive side. So the vast majority is associated with the hard drive side. I think those were the main points you asked. Was there?
+Mark Long
+I think there was a last question which I was going to answer. I have lost. I'm sorry I missed that. There was -- do we cover everything? You have a follow-up there?
+Karl Ackerman
+The reinvestments.
+Mark Long
+Where do we reinvest.
+Steve Milligan
+Reinvestment. Yes, so let me comment on that. I'm sorry. Yes. Reinvestment. One other things we make this point. One of the things that we are trying to do -- obviously, we need to tighten our belts, there is no question about that. I mean, it's a challenging market. Margins have been under pressure.
+So we obviously need to tighten our belts and we will do everything to do that. One of the things that we don't want to do I've used this phrase before as cut our nose off in spite of our face, right. So we don't want to unreasonably curtail our investments in terms of fundamental technology or in terms of fundamental product offerings.
+So those are areas where at present we other than trying to push on efficiencies and things like that we're not making fundamental cuts that we will believe will hurt either our short-term or our long-term competitiveness.
+Now that being said, as market conditions evolve, we will continue to evaluate. At present that's what we're trying to do and we believe that we can do that even with the aforementioned cuts that we're making in both cost and expenses.
+Operator
+Our next question comes from Sidney Ho with Deutsche Bank.
+Sidney Ho
+I guess previously talking about fiscal 2019 cash CapEx of 1.5 to 1.9 and maybe another $1 billion of JV CapEx I assume that hasn't changed I understand you assess that throughout the year. Can you talk about within that budget, what are you planning in terms of wafer capacity additions versus just to kind of more technology transitions?
+Steve Milligan
+So we are not expanding wafer capacity. So that's all tech transitions that you see from us.
+Mike Cordano
+And just to address the qualitative side, we do continue to expect to be in that $1.5 billion to $1.9 billion range for total cash CapEx for fiscal 2019.
+Sidney Ho
+And then my follow-up question is that in your prepared remarks you talked about bit supply crossover of 96 layers in BiCS4 in Q4 of this calendar year. And at your Analyst Day you showed a slide that says cost per gigabyte crossover between to 96 layers will happen sometime in the first quarter in calendar 2019. Is that normal to see a three quarter lack in terms of the supply bit crossover? In other words are there any changes to the technology road map and maybe can you remind us what kind of cost improvement per gigabyte do you expect this year? Thank you.
+Mike Cordano
+So let me try to answer. That is normal. And that's really the benefit of the technology transition gets you the crossover earlier. But we have to continue to transition the fab to get a bit crossover. So that is standard and normal. And we've talked about this notion of our long-term cost down between 15 and 25. We think this year is at the lower end of that range and is driven as we get more of the production over to the BiCS4 96 layer output.
+Steve Milligan
+So, going back to the Investor Day, we absolutely standby and â our ability to have the lowest cost per bit from a NAND perspective. So that belief and conviction remains.
+Operator
+Our next question comes from Jim Suva with Citigroup.
+Jim Suva
+Considering the cost-cutting that you're proactively doing can you help us compare to where that kind of gets us from a gross margin perspective or other actions you're doing? I believe last month at your Investor Day you gave some gross margin guidance longer term 35% to 40% if I'm correct and kind of what you're looking at now is 28% so quite a gap. Is there a road map to get back to that or if timeline or given that industry changes are those of the table? Thank you.
+Steve Milligan
+No. I think as Steve pointed out, we standby our long-term financial model with the gross margins of 35% to 40% for the reasons we stated at Investor Day. Currently, because primarily of the Flash cycle, we are below that range, we highlighted, we will periodically operate below the range and periodically operate above the range.
+And our actions are designed to improve our cost structure as we said a lot of that is focused on the HDD side of things, but we continue to believe that overtime as the Flash market normalizes and returns to a balanced stage, we will get head back towards our target range. But we haven't given a timetable for that.
+Operator
+Our next question comes from Wamsi Mohan with Bank of America.
+Wamsi Mohan
+Steve this was one of your weaker free cash flow quarters in a very long time. I was wondering, how you're thinking about the company's ability to drive free cash flow in Q1 and the rest of fiscal 2019? And just how quickly can you work down that inventory from the Kuala Lumpur build?
+Steve Milligan
+So you're absolutely right. I mean, free cash flow if you were essentially -- well cash flow were essentially were slightly free cash flow positive for the quarter. Right now, I mean, obviously, as our earnings compress cash flow terms under more pressure.
+I can tell you that what I am pushing the team, in other words, challenging the team is that, I'm going to talk about the current quarter that we remain free cash flow neutral for fiscal Q3. That's going to be a challenge. Certainly, not saying that don't take it as guidance per se. But we are absolutely pushing on cash flow. That is our number one priority.
+And so we are looking at all the levers we can from an economical standpoint to maintain a free cash flow neutral position from an operating perspective. And of course, that's before any financing activities whether that's payment of our dividend or any debt -- inventory debt pay-downs that we might have.
+And so we are successful at maintaining free cash flow from an operating perspective that would mean that we'd have kind of I'll call it relatively modest decline in our aggregate cash balance ending in the March quarter.
+So that's where we're challenging ourselves. But you're absolutely right. And valid to focus on that and it remains very much of a high-priority from my standpoint and accordingly with the rest of the management team.
+Operator
+Our next question comes from Mark Delaney with Goldman Sachs.
+Mark Delaney
+The question is on the enterprise hard drive business. Looking at my model, I think units came in at the lowest level since the HGST acquisition. So there's a lot of discussion about the new line portion of that already on the call. But so maybe you could talk about the mission critical piece of that business. I know WDâs prior view has been that's there is still going to be a longer tail of that business and curious if any of the weakness in enterprise hard drives is related to mission critical and how you think your market share of mission critical is trending?
+Steve Milligan
+No. We've talked about previously. We have exited that marketplace from a new developments standpoint. We are getting near the tail end of our participation from production shipments. So from that standpoint we prioritized investment in enterprise SSD and other areas.
+So from an overall market share standpoint, we probably seated some market share in the quarter just reported, but that's really about the end of our â our end of life shipment scenario.
+Operator
+And our next question comes from Munjal Shah with UBS.
+Munjal Shah
+I had two quick ones. How would you characterize the inventory in the channel and at the customers at current levels? And then on China, did you see any demands, I mean, what is your exposure there and what type of demand trends do you see there?
+Steve Milligan 
+Let me comment. So I think channel inventories are slightly elevated. And inventory at end customers in certain pockets there's a substantial amount and that's part of the muted demand we see as we came into the quarter.
+Mike Cordano
+And certainly, I donât - I mean, obviously people have talked about a softening environment in China in kind of a broad sense. And that's generally what we've seen and it's kind of across the board. I don't think that we've seen anything that is unusual or deviates from that.
+In other words smartphone guys are kind of enterprise business. So just kind of a general weakness but nothing that stands out in particular to highlight.
+Operator
+Thank you. I would now like to hand the call back over to management for any closing remarks.
+Steve Milligan
+So thank you very much for joining us and we certainly look forward to continuing our dialogue. So have a great rest of the day. Thank you very much.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. You may all disconnect and have a wonderful day.

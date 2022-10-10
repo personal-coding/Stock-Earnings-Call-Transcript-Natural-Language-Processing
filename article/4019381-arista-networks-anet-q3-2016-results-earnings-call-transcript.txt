@@ -1,0 +1,410 @@
+Arista Networks, Inc. (NYSE:ANET) Q3 2016 Earnings Call November 3, 2016 4:30 PM ET
+Executives
+Chuck Elliott - Arista Networks, Inc.
+Jayshree Ullal - Arista Networks, Inc.
+Ita M. Brennan - Arista Networks, Inc.
+Analysts
+Stanley Kovler - Citi Research
+Erik L. Suppiger - JMP Securities LLC
+James E. Faucette - Morgan Stanley & Co. LLC
+Paul Silverstein - Cowen & Co. LLC
+Hendi Susanto - Gabelli & Company, Inc
+Jess Lubert - Wells Fargo Securities LLC
+Alex Kurtz - Pacific Crest Securities
+Mark Moskowitz - Barclays Capital, Inc.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Ryan Hutchinson - Guggenheim Securities LLC
+Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)
+Rod B. Hall - JPMorgan Securities LLC
+Victor W. Chiu - Raymond James & Associates, Inc.
+Steven M. Milunovich - UBS Securities LLC
+Mitch Steves - RBC Capital Markets LLC
+Simona K. Jankowski - Goldman Sachs & Co.
+Jeffrey Kvaal - Nomura Securities International, Inc.
+Dariush Pirmin Ruch-Kamgar - Bank of America
+Operator
+Welcome to the Third Quarter 2016 Arista Networks Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time.
+As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website following this call. I will now turn the call over to Mr. Chuck Elliott, Director of Investor Relations. Sir, you may begin.
+Chuck Elliott - Arista Networks, Inc.
+Thank you, operator. Good afternoon everyone, and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks' President and Chief Executive Officer; and Ita Brennan, Arista's Chief Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal third quarter, ended September 30, 2016. If you would like a copy of the release, you can access it online at the company's website.
+During the course of this conference call Arista Networks' management will make forward-looking statements, including those relating to our financial outlook for the fourth quarter of the 2016 fiscal year, industry innovation, our market opportunity, and the impact of litigation, which are subject to the risks and uncertainties that we discussed in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements. These forward-looking statements apply as of today and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call.
+Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that, I will turn the call over to Jayshree.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Chuck. Thank you, everyone for joining us this afternoon on our third quarter 2016 earnings call. I am pleased to report that we had another record quarter. Our revenue exceeded a consensus as we grew 33.4% year-over-year to $290.3 million, while our non-GAAP earnings per share grew to a record, $0.83. Our new products, the 7500R Series and 7280R Series, as well as our highly differentiated EOS platform, fueled our growth across our top verticals. Services contributed over 12% of our overall sales. From a geographic perspective, our customers in the Americas contributed 82% of our total revenue, while our international theaters progressed steadily in the quarter. We delivered non-GAAP gross margins of 64.6% in a highly dynamic and competitive industry.
+In terms of market trends, we have now acquired over 4,100 aggregate customers and have crossed 10 million ports in cumulative shipments since 2008. We are enthusiastic about our market adoption as we increased our market share in the first half of 2016 to 14.9% in 10-Gigabit, 40- Gigabit, 100-Gigabit Ethernet high performance ports according to Crehan market research. In terms of Q3 highlights, Arista unveiled its next generation telemetry, based on EOS and CloudVision. The Arista Telemetry Tracers leverage open source solutions such as HBase and standards such as OpenConfig to capture, stream, store, classify and view real-time actions.
+Just about every modern customer and architect is looking for analytical methods to efficiently and consistently gain visibility into millions of devices, data and events. Arista's EOS streams the state of network events instantaneously for that real-time visibility into thousands of entities into a Cloud network. In September of 2016, HP Enterprise reinforced its strategic partnership with Arista as the preferred networking vendor at its Worldwide Channel Partner event. We believe this is an important step in a relationship we started a year ago.
+As we enter the final quarter of 2016, I am quite pleased with our execution in Cloud Networking. It has been a multi-year journey requiring the strong dedication and hard work by our employees and leaders alike. One executive who leads by example in the Arista way is Anshul Sadana. Effective October 2016, Anshul has been promoted to Chief Customer Officer responsible for all customer related functions including worldwide sales, product management, market development, systems engineering, proof of concept and customer advocacy. Many of you may have interacted with him in the investor community, and I'm sure you'll join me in extending our warm wishes and congratulations.
+Arista's vision and new products are resonating, and they are being actively deployed by our customers. In particular, the Arista Universal Spine and Leaf R-series products have ramped nicely and we expect this momentum to continue into 2017. Arista is clearly in the midst of a tornado Cloud market. This increased demand has, however, created some challenges in our supply side as we are working diligently to address component shortages and ramp our new San Jose, U.S.-based contract manufacturing facility. I couldn't be more excited by our customer acceptance of our software-driven Cloud Networking and deeply appreciate our customers' patience with us as we improve the predictability of our shipments.
+Now, I will turn it over to Ita for quarterly financials and specifics. Ita?
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Jayshree, and good afternoon. This announcement of our Q3 results and our guidance for Q4 2016 is based on non-GAAP, and excludes all non-cash stock-based compensation expenses, legal costs associated with the ongoing lawsuits and the release of a GAAP tax reserve as described below. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release. Total GAAP revenues in Q3 were $290.3 million, up 33% year-over-year, and above our guidance of $279 million to $285 million. Overall, the demand in the quarter was strong, not only from our Cloud titan customers, but also across our other key verticals.
+Service revenues grew with the business, representing 12.4% of revenue consistent with last quarter. International revenues came in at $53 million, or 18% of total revenue, down from 25% last quarter. The reduction in international revenues largely reflects the timing of overseas deployments by our global customers. These deployments tend to be somewhat lumpy and can be significant relative to the overall size of the business in those regions. We remain focused in expanding our international footprint, but you should expect our geographical revenue mix to fluctuate on a quarter-over-quarter basis, depending on the timing of U.S. and international deployments.
+Overall gross margin in Q3 was 64.6%, up from last quarter at 64.1%, and favorable to the midpoint of our guidance of 62% to 65%. This reflected a somewhat more balanced revenue mix across our key verticals, offset by some additional overhead costs associated with ramping our U.S. contract manufacturer and supply chain. Operating expenses for the quarter came in at $100 million, up 3% from last quarter. R&D spending returned to a more typical 21.6% of revenue, down from 22.9% last quarter, reflecting some reduction in prototype spending. Sales and marketing expense was consistent at approximately 10.1%, down slightly from last quarter.
+Our operating income for the quarter was $87.2 million, or 30% of revenue. Other expense for the quarter was $0.1 million and our effective tax rate was 29.7%, resulting in net income for the quarter of $61.2 million, or 21%. The increase in the non-GAAP effective tax rate was primarily related to the shift in geographical revenue mix for the quarter. Our diluted share number for the quarter was $73.5 million, resulting in diluted earnings per share number of $0.83, up 41% from the prior year. Legal expenses associated with the ongoing lawsuits came in at $9 million for the quarter, below our outlook of $11 million on the last earnings call.
+As a reminder, these expenses are excluded from the non-GAAP results discussed above. For those of you focusing on our GAAP results, you will notice that our effective tax rate on a GAAP basis came in at 18.5%, down from 26.4% last quarter. This reduced rate benefits from the release of some GAAP tax reserves related to an uncertain tax position for which the statute of limitations has now expired. We have excluded this effect from our non-GAAP results in keeping with our view that the non-GAAP numbers should represent ongoing business trends.
+Now, turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at $800 million. We used $47.3 million of cash from operations in the September quarter, primarily due to incremental investments in working capital as outlined below. DSOs came in at 67 days, up from 50 days in Q2. This increase primarily reflects a healthy increase in deferred revenues and some shift in linearity in the period. Inventory turns were 2.7 times, down from 3.5 in Q2. Inventory increased to $162.1 million in the quarter, up from $118.1 million in the prior period.
+This is in line with our outlook on the last call for an overall incremental investment and supply chain related working capital of approximately $100 million. $44 million of this increase is reflected here in the form of finished goods inventory, with a further $62 million as inventory deposits recorded in other assets. Our deferred revenue balance was $284.8 million, up from $230.3 million in Q2. This balance continues to be made up of short- and long-term service contracts and product related deferrals associated with acceptance terms and future deliverables. Accounts payable days were 68 days, up from 56 days in Q2, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $3.7 million.
+Now, turning to our outlook for the fourth quarter and beyond. We are pleased with our year-to-date financial performance with revenues and earnings per share up more than 35% on a year-over-year basis. As we look forward, the demand drivers of the business remain strong, with healthy adoption of our new products across all verticals. We continue to ramp our new contract manufacturer, working to increase volumes on a week-by-week basis. We shipped meaningful revenue from this plant in Q3, and expect to see this contribution increase significantly in the fourth quarter.
+As previously indicated, we believe gross margins may be negatively impacted by these activities in coming quarters, and could range from 60% to 65% depending on how heavily weighted our revenue mix is towards products manufactured in our new U.S. facility and its associated supply chain. With this as backdrop, our guidance for the fourth quarter, which is based on non-GAAP results and excludes any non-cash stock-based compensation expenses and any legal expenses associated with the ongoing lawsuits, is as follows.
+Revenues of approximately $310 million to $320 million, gross margins of approximately 61% to 64%, operating margin of approximately 26%. Our effective tax rate is expected to be approximately 29% with diluted shares of approximately $74 million. Please note that based on our current understanding, we expect costs associated with the ongoing lawsuits to be approximately $12 million for the quarter.
+At this time, we would like to open the call up for questions. Operator?
+Question-and-Answer Session
+Operator
+We will now begin the Q&A portion of the Arista earnings call. Your first question comes from the line of Stanley Kovler with Citi Research. Please go ahead. Your line is open.
+Stanley Kovler - Citi Research
+Yes. Thank you very much for taking my question. I just wanted to get a better handle on the gross margin trends, Ita. If we back into the trends into Q4, it seems like you're at about a 62.5%-ish, and previously I thought that the outlook into that quarter would be towards the lower end of the 60% to 65% range. If we can just get some clarity on what you've done to close the gap there? And then I have a follow-up. Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, no, I think the way to think about it, Stanley, is that we had talked about the 60% to 65% range as a range over time, and the lower end of that range was always going to be in a situation where we were not only manufacturing and shipping from the U.S. contract manufacturer, but also heavily reliant on the supply chain in the U.S. And that was something that's going to happen over time, right? So I think being in the midpoint of that range, that original range in Q4, that's indicative of the fact that we're shipping a lot of product manufactured in the U.S. in the CM, leveraging some supply chain, but we're still also leveraging prior Asian supply chain product as well.
+Stanley Kovler - Citi Research
+Thanks, and if I can just ask about the supply constraints that were referenced on the prior call, and if sources are correct, throughout the quarter, the supply chain constraints sort of continued. How should we think about that into Q4 and potentially into Q1? When do you expect that to alleviate? And can you help us understand at least in some of the product families what's been going on, more specifically as far as the supply constraints go? Because I think they're affecting the end customers differently. And if I could just squeeze in a quick question on Europe and international, help us understand the disparity in the trends that you're seeing â potentially more strength in the U.S. than international markets, and how we should think about that? Thank you very much.
+Jayshree Ullal - Arista Networks, Inc.
+Okay, I'll take a bit of that question, Stan. Basically, you should think of our lead times as having gotten worse between Q2 and Q3, but we have every intention to recover in Q4 and Q1. And our component shortages were across-the-board. They were on our switches. They were on our new products. They were on our cables. They were on our optics. They were shortages in 100 gig. So while we've been working very closely with vendors to improve all of them, component shortages definitely plagued it, combined with the fact that we had unforecasted demand. So that combination definitely did not help.
+On the other hand, I think we've got â our VP of Manufacturing and Ita and the whole team has been working very hard. I'm very comfortable that our vendors are working closely with us, and this will improve in Q4 and get better by Q1. In terms of international trends, I think Ita already covered this. Basically, it fluctuates and it's volatile. It's a strong function of not just our organic international performance, which is doing well, but really our Cloud titans and how they expand globally or don't. So they expanded globally very well in our Q2. They did more United States in Q3, and that's reflected in the numbers. But what I would like you to take away is our international theaters' organic growth is just fine.
+Stanley Kovler - Citi Research
+Thank you.
+Operator
+Your next question comes from the line of Erik Suppiger with JMP Securities. Please go ahead. Your line is open.
+Erik L. Suppiger - JMP Securities LLC
+Yes, thanks. Say, on the constraints, what did the lead times do in the third quarter? And what can you get them down to in Q4?
+Jayshree Ullal - Arista Networks, Inc.
+Okay. If you recall, Erik, I said with you all that the lead times in Q2 were in the range of 4 weeks to 10 weeks, which was already creeping up. We'd like it to be 2 weeks to 8 weeks and 10 weeks is on the high side. And I would say, in general, it shifted by 20%, 25% higher in Q3. So it's probably more like 6 weeks to 12 weeks in Q3. We're looking to definitely bring it down. Depending on the product, some of them will come down in Q4, but we expect all of them will recover nicely in Q1.
+Erik L. Suppiger - JMP Securities LLC
+And you said that â it was that combined with unforecasted demand. What does that mean? Was there areas that you saw â that you did not anticipate demand that you saw, or what did you see â what did you mean by that?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah, no, I think we didn't forecast accurately, and forecast is a strong function of two things, right? There's the numbers themselves and then there's the mix, and in both cases, we under-forecasted.
+Erik L. Suppiger - JMP Securities LLC
+Okay. So will Q4 be benefiting from a fair amount of business slipping from Q3 because of the constraints? Is that how we can interpret the Q4 outlook?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah, I think the way to look at Q4 is â and in fact, as you notice, Ita gave a wider range. On one hand, I think we will release some of the component shortages. On the other hand, we won't recover entirely in terms of lead times because many of the components have much longer lead times than our products do. If you may recall, I shared with you that some of them have 16 week to 22 week lead times. So while we will recover on some components, we won't recover on all products and all components. So this will be a multi-quarter process. It will take us Q4 and Q1 to recover.
+Erik L. Suppiger - JMP Securities LLC
+And that's not necessarily just a function of you moving your manufacturing, is it?
+Jayshree Ullal - Arista Networks, Inc.
+Well, so that's the component shortage. That combined with the fact that Q4 is our full first quarter of U.S. manufacturing is why we've got a lot of execution ahead of us.
+Ita M. Brennan - Arista Networks, Inc.
+But at the same time, Erik, we're shipping record quarters, right? But we are seeing incremental shipments and incremental demand. Obviously, we're responding to those as fast as we can while we're bringing up the U.S. manufacturing. So that's definitely a factor but there's also the fact that we are shipping volumes now. We've been growing 30%, in excess of 30% year-over-year all through the year. So that volume is growing as well at the same time. So it's a combination of both, right?
+Erik L. Suppiger - JMP Securities LLC
+Very good. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Erik.
+Operator
+Your next question comes from the line of James Faucette with Morgan Stanley. Please go ahead. Your line is open.
+James E. Faucette - Morgan Stanley & Co. LLC
+Hi, good afternoon. I just want to follow-up on kind of the shortages question. And I'm just wondering, how confident are you right now that you're being able to scrub your orders and forecasts to take into account potentially any double ordering? How much double ordering do you think is taking place, I guess, is a more direct way to ask.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. Thanks, James. We're very confident that there's very little or no double ordering because our customer intimacy is very high. This is not just happening at the channels. We know every single order is on new products that we're working closely with on their migrations, so we're comfortable that the customer is ordering for their demand and we're fulfilling for that.
+James E. Faucette - Morgan Stanley & Co. LLC
+Great. And then turning to the HPE relationship, can you talk a little bit about how you expect that to develop? I know, maybe from what it was to how you would envision that operating going forward and I guess a small accounting question associated with that, will there be any channel fill or other changes in the way that you ship and recognize associated with the HP relationship? Thanks a lot.
+Jayshree Ullal - Arista Networks, Inc.
+Sure. Thank you, James. First of all, I think I speak on behalf of Anshul, Mark Smith, Ita, myself, everyone, that we're all very excited about the HP Enterprise relationship. It's not a brand new one for us. We've had a chance to date and get to know each other this last year really well. From Meg Whitman to Antonio, all the way at the top, what we're seeing is that there are a number of partnership possibilities. We started out with the Converged Infrastructure and that's clearly one that Arista hasn't been participating alone on. You've heard me talk about the three markets: the Cloud scale, which is our cousin; the Cloud class, which is our four verticals, and then the Cloud converge.
+The Cloud converge is a very natural synergy with HPE and especially with their compute and storage platforms. So with HP's reinforcement, that's really going to help in a tier of enterprise that Arista has not typically been in. The second thing I would say is, I think HP's realization and partnership that we are the preferred vendor on the datacenter side, and obviously, they have a great deal of depth and assets on the Aruba and Campus side makes it very complementary. So we see a lot of excitement. The agreement itself is actually officially getting signed next week, November 7. So right now, we have the enthusiasm and we look forward in 2017 to convert that into real partnership and real wins.
+Ita M. Brennan - Arista Networks, Inc.
+And James, it doesn't drive any different accounting on our side.
+Operator
+Your next question comes from the line of Jeff Kvaal with Nomura. Please go ahead. Your line is open.
+Jayshree Ullal - Arista Networks, Inc.
+Jeff?
+Operator
+Jeff Kvaal, your line is open. You may be on mute. Your next question comes from the line of Paul Silverstein with Cowen. Please go ahead. Your line is open.
+Paul Silverstein - Cowen & Co. LLC
+Thanks. A couple of quick ones, if I may. Jayshree, can you give us any update on the Cloud side in hyperscale as a percent of revenue, or their growth relative to the rest of the customer base? Also, any more granular insight you can offer on the 7500R and the 7280R platforms in terms of the uptake, either from a customer quantification standpoint where I trust the revenue contribution is still small, but anything that would speak to the way they're being ramped? And I hate to ask you again on the component tightness, but Ita would it be possible to â have you quantified the impacts on Q3, as well as how much more revenue you think you would have been able to do in Q4, but for the component tightness?
+Jayshree Ullal - Arista Networks, Inc.
+Okay. Three part question. Hi, Paul. Thank you. So on the Cloud titan's, they continue to be very strong for us and the mix is very similar to prior quarters and important for you to understand it isn't one Cloud titan, but many of them. So we're quite pleased with their acceptance of our products and our relationship with them. But no change in momentum and mix, it's still very strong and growing well.
+Paul Silverstein - Cowen & Co. LLC
+Jayshree, is it still around 25% of revenue or is it greater than that?
+Jayshree Ullal - Arista Networks, Inc.
+I have never mentioned percentages, and as you know, so I won't comment on agreeing or disagreeing with that. But I'll tell you, it's as good as it was in the prior quarters. So going back to the R question, which is our new products, as I told you guys, I was expecting single-digit customers in Q2, which was the first real quarter of shipment for our brand new products. And what's nice is I think we've doubled from Q2 to Q3 in the number of customers in routing, and I'm still going to challenge the team to do 100 customers in a year. So by next Q2, I'd like to be at 100 customers in routing. But both the 7500R and 7280R as new products is ramping very well â very, very well. Very rapid qualification and ramp, both as a switch and in terms of routing, and again, I think we're hitting our targets and exceeding them. And let's see, what was your last question? Your last question was quantify? You have something to quantify?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, I don't know how to quantify it. I will tell you, we're working very closely with customers. We obviously had a record ship quarter in the quarter. And really this is more â we're facing a lot of activity and we're working with customers to figure out how to slot in their demands. So it's very difficult to say, okay was there something that was removed from one quarter to the other? It's more that there's good strong activity and we're working with customers to figure out how to fulfill that.
+Jayshree Ullal - Arista Networks, Inc.
+I think...
+Paul Silverstein - Cowen & Co. LLC
+What...
+Jayshree Ullal - Arista Networks, Inc.
+Go ahead.
+Paul Silverstein - Cowen & Co. LLC
+I'm sorry. No, go ahead, Jayshree.
+Jayshree Ullal - Arista Networks, Inc.
+Paul, I was going to add to Ita that one of the things we're doing, is it's not so that we ship or we don't ship. A lot of times we work with the customer to figure out what's their priority and ship partials as well. So some of them will get shipped in one quarter.
+Paul Silverstein - Cowen & Co. LLC
+But clearly there was some revenue. Clearly revenue would have been greater, I assume for Q3 as well as for Q4, but for the component tightness. And if I may, while I'm at it, any change in the pricing environment?
+Jayshree Ullal - Arista Networks, Inc.
+So in terms of, clearly revenue would be greater. I'm not one to speculate on the past. I'm going to focus on the present and the future. Don't know, Paul. But, what was your question? Pricing? No, we didn't feel any different pricing pressure than we always do. In our market the pricing pressure by definition is high and it continues to be competitive, but nothing unique in Q3.
+Paul Silverstein - Cowen & Co. LLC
+Great. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Paul.
+Operator
+Your next question comes from the line of Hendi Susanto with Gabelli & Company.
+Hendi Susanto - Gabelli & Company, Inc
+Good afternoon Jayshree, Ita and Chuck. First, congrats on your achievement on winning almost 15% market share.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you Hendi.
+Hendi Susanto - Gabelli & Company, Inc
+Jayshree, I think you alluded to this. Would you be able to quantify some estimate of the impact of the component shortage to your sales? I don't know whether you're willing to share that or not. If not, one additional question is, do component shortages occur more in the United States versus international markets since you're ramping up your U.S. facility?
+Jayshree Ullal - Arista Networks, Inc.
+No. So to answer the second question, I'm not able to quantify any more than I'm sharing with you, which is our lead times moved and our shortages are not unique to one product; they were across the board. But no, they did not just apply to the United States. In Q3, we were shipping with standard contract manufacturing, until our borders closed, till August 23. So almost half the quarter we had the flexibility of all our contract manufacturers, right? So our component shortages were tied to all our contract manufacturers. They weren't unique to international only.
+Hendi Susanto - Gabelli & Company, Inc
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Operator
+Your next question comes from the line of Jess Lubert with Wells Fargo Securities. Please go ahead. Your line is open.
+Jess Lubert - Wells Fargo Securities LLC
+Hi, guys. Congrats on another nice quarter. A couple of questions as well. Just first on the 7000 products. I was hoping you can maybe provide a little bit more color with respect to the interest you're seeing on the routing side? If it's beyond the Cloud vertical, how you see that progressing over the next few quarters? And to what degree Jericho or incremental software features are the gating factors at moment? And then on the inventory side, it didn't increase sequentially as much as I would have expected. So I guess I was hoping you could comment to what degree you feel you can meet your needs this quarter with internationally-sourced supply? Do you think you need to leverage the U.S. supply chain more heavily? And if we don't hear something from U.S. Customs by the end of this quarter, to what extent are there ways for you to get components that aren't manufactured in the U.S.?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, so maybe I'll take that first. I mean, so inventory, we had said we'd grow kind of inventory and working capital total around this for about $100 million. If you look at what we actually did, we grew inventory for $40 million plus and then we grew component inventory. It's just showing up differently in the financials by a further $60 million plus. So we achieved about $107 million of incremental, finished goods and component inventory in the quarter, which was pretty much in line with what we had planned to do, right?
+We've always â so as you look at what's been happening, we've been executing pretty well to the plan, right? We saw the contract manufacturer contribute meaningful revenue in Q3, and they're ramping in Q4, right? So I think more and more of the volume will come from that U.S. plant in Q4, and that's always been part of the plan. As we go beyond that, we still have components that we'll consume, and then we have plans for what happens beyond that, right? And we'll execute on those as we go. But really, there's nothing happening that's different from what we expected and what was in line with our original plans.
+Jess Lubert - Wells Fargo Securities LLC
+Is it fair to assume that...
+Jayshree Ullal - Arista Networks, Inc.
+Yeah â go ahead.
+Jess Lubert - Wells Fargo Securities LLC
+...is that you can get components that aren't necessarily directly manufactured in the U.S. through a third-party or some other source?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, I'm not going to try to go component-by-component or what those plans are, but we've been thinking about this for a long time and we've laid out plans for the various components and needs.
+Jayshree Ullal - Arista Networks, Inc.
+And so to answer your question, Jess, on the routing, I'm pleasantly surprised by the acceptance of our routing platforms faster than I expected. I don't think there will be material revenue till next year and year after. But as you know, Arista's target is not the legacy router kind of customers that deploy SONET/SDH or traffic engineering and incumbency. Most of those service provider and enterprise customers are transforming from traffic engineering to a more Cloud-like datacenter interconnect and leaf-spine architecture with software-based automation, routing and telemetry. So, our customer count is increasing, and it's going beyond the classical Cloud titans. As I've said, we've gone from single-digit customer acquisition in routing in Q2 to double-digit in Q3, and I think we'll continue to see more customers in Q4, Q1 and 2017.
+Jess Lubert - Wells Fargo Securities LLC
+Thanks, guys.
+Ita M. Brennan - Arista Networks, Inc.
+Thank you, Jess.
+Operator
+Your next question comes from the line of Alex Kurtz with Pacific Crest Securities. Please go ahead. Your line is open.
+Alex Kurtz - Pacific Crest Securities
+Yeah. Thanks for taking the question and congrats on the really strong execution here, Jayshree. Just to clarify in Q4 around the U.S. manufacturing, is it a good assumption that most of your U.S. customers will be supplied from U.S. manufacturing this quarter? Or is there still some international products and inventory that can be used?
+Ita M. Brennan - Arista Networks, Inc.
+There's some mix there, but we're weighting more heavily towards the U.S manufacturing in Q4.
+Alex Kurtz - Pacific Crest Securities
+Okay.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah, I think it's a good assumption that the majority of our supply will come from U.S. manufacturing.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah.
+Alex Kurtz - Pacific Crest Securities
+Okay. And my last question, Jayshree, inside your top accounts, how are you â assuming that the lead times stay where they are that you saw in Q3, how do you prioritize across different accounts and within accounts to make sure that you don't lose market share with really critical customers? How are you making those decisions right now? Or maybe those decisions that you've had to make haven't really materialized yet? If you could short of comment on where you're making your bets with the inventory?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. No, actually thank you for that question, and thank you for the good wishes. I feel like my CEO title right now stands for Chief Expedite Officer, and so I'm prioritizing all my top customers very, very highly. And it isn't easy when you don't have the parts to give all of them all they want. But I think because of the nature of the relationship my team and I have with these customers, they have put themselves in our shoes and feel our pain and we feel theirs, and we're doing the best we can to A, prioritize based on the mission criticality of their project; B, prioritize based on when they put in the order. So first in, first out is a fair mechanism from our perspective. And as I said earlier, also where we cannot prioritize and ship everything, we've worked with them on partials. So those are the three primary mechanisms.
+Alex Kurtz - Pacific Crest Securities
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Alex.
+Operator
+Your next question comes from the line of Mark Moskowitz with Barclays. Please go ahead. Your line is open.
+Mark Moskowitz - Barclays Capital, Inc.
+Yes, thank you. Good afternoon. A couple of questions, if I could. I want to understand more about the kind of the growth factors you're seeing within cloud in terms of public cloud versus private cloud. There's been some mixed trend lines that we've come across in my research related to public cloud versus private cloud adoption. While private cloud adoption seems to be content in air pockets. Are you seeing that in your business? And then the second question is around routing, following up on some prior questions. Can you talk about how we should think about the longer term sales motion there? Is there going to be greater R&D required, sales and marketing required, as you begin to penetrate more sophisticated Telco providers with their newer rollouts?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. No, so let me take the two questions. First, public versus private. I think there's no doubt in anybody's mind that the public cloud has already arrived. We're seeing a lot of workloads moving there. And just to put this in context, even two years ago, there wasn't as much scale and expansion in the public cloud as there is today. Just about every major Cloud titan is making investments in that, the seven we state and others.
+Now, in terms of public cloud, the one other thing I'd want to say is there's the Cloud titans, but there's a number of companies we're working with that I would say are not quite the scale of the titans but are also building public clouds. And they're very, very promising, and we're working closely with them. And there may be an instance of private cloud or public cloud, but I see a whole other tier, a second tier of cloud providers who are so promising, some of them may well make it into the titans in the next year or two. So that's another thing to consider, that the workloads are moving rapidly, and our product and our capabilities are beginning to become interested not just with the top titans but the next tier as well.
+In terms of private cloud, this is an area we've been focusing on with our other verticals, (37:08) high-tech enterprise and financials. And what I would tell you there is they very much emulate the practices of the public cloud, but obviously the scale of it is much, much smaller. And this is something we have been working on, and it tends to be on a project basis whether it's compute or storage or security. And a lot of the datacenters in the public â in the private enterprise on-prem are starting to look more and more like the public cloud.
+In terms of R&D for routing, it's an area we've invested in pretty significantly. We didn't just start now. We have been on it for last couple of years, and we continue to see that as an important thrust. We continue to believe that we lead with high R&D as a percentage of revenue, and that'll be a metric that's â a metric of important investment for us. So both switching and routing are factored in that R&D, and definitely we are increasing our investment in routing protocols.
+Ita M. Brennan - Arista Networks, Inc.
+But all still within kind of that 20% to 22% of revenue that we talked about, right?
+Jayshree Ullal - Arista Networks, Inc.
+Exactly. So within the business model we have.
+Alex Kurtz - Pacific Crest Securities
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you. Mark (38:19).
+Operator
+Thank you, your next question comes from the line of Vijay Bhagavath with Deutsche Bank. Please go ahead. Your line is open.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Yeah, thanks. Hi, Jayshree, Ita.
+Ita M. Brennan - Arista Networks, Inc.
+Hi, Vijay.
+Jayshree Ullal - Arista Networks, Inc.
+Hi, Vijay.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Yeah, hi, Jayshree. The question and a quick follow on. Any update on timing on Customs approval for the software workarounds that you have submitted? And would you anticipate any delays in this workaround approvals? And then, Jayshree, quickly, any concerns on potential share loss to Cisco in the near term, if customers would see higher lead times for their purchase orders? Thanks.
+Jayshree Ullal - Arista Networks, Inc.
+So on the Customs, maybe Ita wants to add to that, but we've always said that the typical cycles for Customs approval can be anywhere from two months to a year. And so we don't have much else to add. We don't have an update. When we do get an update, we'll share that with you.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, I mean there's really nothing new, Vijay, and we probably wouldn't expect to see anything new at this point, yeah, right.
+Jayshree Ullal - Arista Networks, Inc.
+And in terms of share loss, we still talk about share gain, not share loss, so I hope that's our trend. And we will do everything to continue to gain share.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Vijay.
+Operator
+Your next question comes from the line of Ryan Hutchinson with Guggenheim. Please go ahead. Your line is open.
+Ryan Hutchinson - Guggenheim Securities LLC
+All right, Jayshree. I've got 16 more questions on supply constraints. Okay. Let's see. So I just wanted to step back a second here and look and think about next year, specifically Q1, given these supply constraints and the manufacturing transition. And how should we think about seasonality? Will it be down greater than Q1 of 2016? Any sort of broad strokes, just so we have the right starting point as we think about 2017 and we don't get ahead of our skis? Thanks.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. No, so I think you should separate demand from our short-term shortages. So you should think of Q1 as always seasonably flat to down, like it's been the last few years. And even if we were to get ahead and increase our demand and fulfill it and get over all our shortages, that's not going to take care of the fact that usually six weeks out of the quarter in Q1, there's not a lot of customer interaction and engagement. So separate those two issues. We'll work on shortages, but seasonality is what it is in Q1.
+Ryan Hutchinson - Guggenheim Securities LLC
+So something similar to what we've seen in 2016, I guess?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, I think so, 2016, 2015, 2014, we've got like five years to spend on this.
+Ryan Hutchinson - Guggenheim Securities LLC
+Got it. Okay and then just finally, maybe just some quick comments on Anshul and the promotion there. What does that mean for Arista and what does it allow you to do?
+Jayshree Ullal - Arista Networks, Inc.
+It allows me to sit back and tell others what to do. Just kidding. But first of all, I think Mark Smith and his team have done a fantastic job and this is truly a recognition of an individual, Anshul, who has teamed with Mark, teamed with the product management, teamed with the engineers, and personally, also run systems engineering and customer advocacy for nine years in the company. And really, says what he does and does what he says the Arista way. So it's a recognition of Anshul. And as you know, there's a lot of customer-facing functions that need strategic thought. It needs depth in technology and it needs unification. So I think what you're really seeing here is the acknowledgment and promotion of a fantastic individual who deserves it, earned it and is going to be very much the future of Arista.
+Ryan Hutchinson - Guggenheim Securities LLC
+Okay. Perfect. Okay. Thank you very much. Appreciate the color.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Ryan.
+Operator
+Your next question comes from the line of Kulbinder Garcha with Credit Suisse. Your line is open.
+Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)
+Thank you. Most of my questions have been answered but I just want to clarify one thing. The mix between U.S. and non-U.S. manufacturing that you're assuming in Q4 that's embedded in your gross margin guidance. Is that going to continue to change more towards the U.S. going forward for the foreseeable and then into next year? So could there be more step downs in gross margin or is this roughly where you're going to be at the midpoint? That's first. And the second question I had was with respect to the routing product. So my understanding always was it would be â it would become material in terms of revenue into 2017, but then Jayshree mentioned just as â you want to get to 100 customers by Q2. Are those two the same statements in essence? Just wanted to be clear on that. Thanks.
+Ita M. Brennan - Arista Networks, Inc.
+Yes. So to go back to gross margin, Kulbinder, I think what we've always said is that the manufacturing in the U.S. in of itself is not the biggest driver of gross margin, right? So we are migrating to being more heavily dependent on the U.S. manufacturer and that was always the plan in Q4,. And you're seeing some impact of that in the gross margin guidance in Q4. For it to go beyond â go below that, then we would have to have a protracted period of time where we can't import components and we start to leverage the U.S. supply chain more and more, and that's when we would see something like the 60% in the lower end of that range. So I can't tell you exactly what's going to happen here because there's obviously some unknowns, but I think that's the framework to think about it, is if we become more and more U.S. supply chain dependent, then that's when we would hit the bottom end of that range. If we're manufacturing but still leveraging other components, then something similar to what you're seeing in Q4.
+Jayshree Ullal - Arista Networks, Inc.
+Okay, thanks, Ita. And Kulbinder, to answer your routing question, I think the materiality of revenue will take time. It will be second half 2017 or 2018, but the acquisition of customers is a great starting point. As we can qualify our platform to not just be the world's best spine switch, but also enable routing capabilities, this will get customers very comfortable in making this shift, if you will, from a router versus routing. It is different. We're doing VXLAN routing, segment routing, MPLS-lite without all the traditional traffic engineering, leaf-spine architecture. So there's a lot to trial and think about and that's why the first metric for me is winning the customers and their hearts and minds. And then the next material revenue metric would come later. It's also going to be challenging to measure the revenue metric because sometimes we won't know if they're using it as a switch or a routing platform or both, and so in many cases, it maybe a combination of both.
+Kulbinder S. Garcha - Credit Suisse Securities (USA) LLC (Broker)
+Okay. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Kulbinder.
+Operator
+Your next question comes from the line of Rod Hall with JPMorgan. Please go ahead. Your line is open.
+Rod B. Hall - JPMorgan Securities LLC
+Yeah. Hi, guys. Thanks for fitting me in. I've got a couple of questions, actually. I wanted to go back to the HPE agreement and just talk a little bit. We understand that all the channel deals have been done there, which is great news for you guys, but how are you going to prioritize channel fill there? Jayshree, are you going even be populate the channel or is there overlap and you've already got inventory out there in the channel that they can start selling? So I'm just curious how that's going to work or if they just have to wait until some of these other customers get served?
+And then also wanted to ask about greenfield datacenter builds. We understand some of those are pushing out into early next year, that a lot of us had thought would complete the end of this year â at least be ramping. And I wonder if you guys have exposure to that? Do you see that happening or is that really not customers you're involved with? And then lastly, I guess on this U.S. manufacturing, are we at pretty much a 100% impact at the end of Q4? Or when â can you just update us on when that impact you think is maximized so that we kind of know what to think about on gross margins, when we think those gross margins will stabilize? Thanks.
+Ita M. Brennan - Arista Networks, Inc.
+Yes, again, just to take maybe the gross margin one first, right? Again, it depends how things evolve, right? Obviously, we're waiting for â some Customs update, et cetera, as we go through this cycle. Pure manufacturing in the U.S., like we said, is not a huge drag on the gross margin. To hit the lower end of the range that we've talked about, we would have to be in a position where we would be leveraging the U.S. supply chain heavily, right? And that would happen obviously with more time as we have to develop some of those supply chain activities. So I think where we're manufacturing and still using Asian supply chain, you're in kind of the range that we see in Q4. As time goes on, and we don't get access to Asian components, we'll become more and more dependent on U.S. components and that's when you would see the lower end that range.
+Rod B. Hall - JPMorgan Securities LLC
+When would that happen, Ita? Can you just help us understand, like let's say worst case scenario you didn't get Customs approval?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. It varies by component, Rod. It's very hard to try to put some timing on that. I think what we've tried to do is at least put book-ins on the range, and then we'll update as we go â when we know more.
+Rod B. Hall - JPMorgan Securities LLC
+Okay.
+Jayshree Ullal - Arista Networks, Inc.
+So, Rod, to answer your two questions on HPE distribution. Our agreement is really a resell agreement and any bundling with channels and partners, HPE will be leading with. We'll supply the networking component and they will pile on the converged components, which is the compute and the storage and sometimes the OneView integration with CloudVision. So we're very comfortable that they're owning the channel and the converged piece and we're supplying the building block, which is networking. So no issues there on this. It's really a resell agreement, not a distribution.
+Rod B. Hall - JPMorgan Securities LLC
+But do you have to â Jayshree, don't you have to give them some inventory to be able to sell it or that's just not the case? You just ship as they need it?
+Jayshree Ullal - Arista Networks, Inc.
+I mean, if they do need inventory to sell it, we will. But in many cases, it may be a drop ship directly to the customer and we verify it in the rack over there at the customer property; so it will vary.
+Rod B. Hall - JPMorgan Securities LLC
+Okay.
+Jayshree Ullal - Arista Networks, Inc.
+Can you repeat your datacenter greenfield question? I didn't follow it.
+Rod B. Hall - JPMorgan Securities LLC
+There's some instant (48:52) data points through the earnings season here suggesting that there's some big greenfield builds going on, as you guys know. And there've been a number of data points suggesting those are pushing even further out into the beginning of next year than people had expected, for various reasons â a lot of them to do with component shortages. So just curious if you guys have seen that same kind of thing from your point of view or are these people that are not particularly customers of yours?
+Jayshree Ullal - Arista Networks, Inc.
+Okay.
+Rod B. Hall - JPMorgan Securities LLC
+And by the way, when I talk about component shortages there, I'm not talking about your specific component shortages, but rather, industry-wide shortages.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah, no. I got it. Yeah. So to answer your question â let me take it a little broadly and I think I know who the customers are you're talking about. But broadly speaking, when you hear a cloud company (49:56) talking about their massive hundreds of millions of dollars of spend, you know it includes building facilities, power, compute, virtualization, storage. The networking is a small percentage of it, so while we are really influenced by their spend, their spend can continue with us, independent of the volatility in their overall spend, because we're a small number. So we're pretty comfortable that the networking spend has a long road ahead, and we're feeling quite good about Q4 here based on our guidance, and next year. So no, I don't think even if datacenter greenfield opportunities have shifted, that they are affecting us in any negative fashion at this time.
+Rod B. Hall - JPMorgan Securities LLC
+Okay. Thanks a lot guys.
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Rod.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Rod.
+Operator
+Your next question comes from the line of Simon Leopold with Raymond James. Please go ahead. Your line is open.
+Victor W. Chiu - Raymond James & Associates, Inc.
+Hey, guys. This is Victor in for Simon. I wanted to ask if any customers have expressed concern, I guess, regarding the increased lead times? And I guess more importantly, are you observing any hesitation from customers committing to purchases, given the uncertainty around the outstanding litigation issues with Cisco? And if not, I guess, what's giving customers confidence that they'll have support for their purchases over the longer term?
+Jayshree Ullal - Arista Networks, Inc.
+So I'll take â the short answer is we â customers do express concern on our longer lead times. There's no doubt about that, and they wish they were shorter, and they wish we would go back to our predictable on-time shipments. Our on-time shipments is virtually 100%, and now it's much less than that. In terms of litigation, no change. Our customers do want to know that we stand by our workarounds, and that we're legally compliant. And Marc Taxay, our General Counsel, who has shared with you many, many times, as we have, we are completely committed to and are following the law. And so our customers take the time to understand that and get through the flood of our competitors and some ask questions, some have deeper questions, and some are not worried at all and recognize this as a protection of the competitors' behavior.
+Victor W. Chiu - Raymond James & Associates, Inc.
+Great. Thanks.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Victor.
+Operator
+Your next question comes from the line of Steve Milunovich with UBS. Please go ahead. Your line is open.
+Steven M. Milunovich - UBS Securities LLC
+Great. Thank you very much. You had previously alluded to 100-gig uptake constrained by the availability of optics. Is that now resolved?
+Jayshree Ullal - Arista Networks, Inc.
+No, it's not fully resolved. We hope it will be in Q4 or Q1.
+Steven M. Milunovich - UBS Securities LLC
+Okay. And I was curious if you can give us any sense...
+Jayshree Ullal - Arista Networks, Inc.
+And just â sorry, Steve, just to put that in context, these 100-gigabit optic shortages are not unique to Arista.
+Steven M. Milunovich - UBS Securities LLC
+No.
+Jayshree Ullal - Arista Networks, Inc.
+They're industry wide.
+Steven M. Milunovich - UBS Securities LLC
+Yep, understood. Can you give us any sense of kind of how much business you do at the Spine versus the Leaf level, and if that's going to continue to shift to the Spine?
+Jayshree Ullal - Arista Networks, Inc.
+We've not been expressedly specific, but we've generally said that the Leaf can be â yeah, it generally can be â the Leaf and the Spine are almost split 50%/50%, if you don't include the accessories or if you put these optics and accessories more associated with 100-gig with the spine.
+Steven M. Milunovich - UBS Securities LLC
+And that's across all your verticals, or specifically the Cloud?
+Jayshree Ullal - Arista Networks, Inc.
+Across â I gave you a general, but they don't vary too much across the verticals.
+Steven M. Milunovich - UBS Securities LLC
+Okay.
+Jayshree Ullal - Arista Networks, Inc.
+Probably more Spine-centric in the Cloud vertical.
+Steven M. Milunovich - UBS Securities LLC
+Okay, great. Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Thank you.
+Operator
+Your next question comes from the line of Mitch Steves with RBC Capital Markets. Please go ahead. Your line is open.
+Mitch Steves - RBC Capital Markets LLC
+Hey, guys. Thanks for taking my question. I just have one clarifying one. I hate to go back to the topic of the gross margin, but â so if we look at Q4 guide, it looks like 61% to 64% which makes sense, because you have some more U.S. inventory coming in, but wouldn't that be the case for Q1 as well in the following year, since all the items are now being manufactured in the U.S.?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, so again I think we had put out the range of 60% to 65%, and I think everybody kind of settled in at the midpoint of that range, and that's a good place to be when we're leveraging the manufacturing plans and we've got a mix of component and supply chain between Asia and the U.S., right? And we'll see â that's how it should be for the foreseeable future. If it's protracted and we end up becoming more dependent on the U.S., then I think that's when we would see kind of below that into the 60%ish range that we have put as the bottom metric, right? So I think in an environment where we're manufacturing in the U.S. and where we've got mixed supply chain, the Q4 guide is pretty representative of that. If we become more heavily dependent on the U.S. over time, then that's when you would see it go below that.
+Mitch Steves - RBC Capital Markets LLC
+Got it. Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Mitch.
+Operator
+Your next question comes from the line of Simona Jankowski with Goldman Sachs. Your line is open.
+Simona K. Jankowski - Goldman Sachs & Co.
+Hi, thank you. I had a question for Ita and then one for Jayshree as well. Ita, the day sales were quite high. So just curious why the quarter was so back-end loaded? And then there was also really significant increase in current deferred revenues, so just curious what's behind that as well?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, so they're somewhat linked, right? The DSO calc reflects the fact that there was growth in deferred revenue. There was healthy growth in deferred revenue in the quarter. The deferred revenue portion of that is based on acceptances and if we are â saw linearity that favors the back end of the quarter, then that will grow, and we did see some of that, right? So it's a combination of some shift in linearity a little bit, and also, the fact that the deferred revenue grew and I don't see that kind of corrupt the DSO calc a little bit because it's not included in the denominator.
+Simona K. Jankowski - Goldman Sachs & Co.
+But what drove that shift in linearity?
+Ita M. Brennan - Arista Networks, Inc.
+Again I think we've been â we're seeing increasing demand as we went through the quarter and we were responding to the demand and that's just how the shipments happened.
+Simona K. Jankowski - Goldman Sachs & Co.
+Okay. And then Jayshree, any thoughts on the implications of Broadcom's acquisition of Brocade and the intended sale of the IP networking business? And then on another M&A topic, we've seen some of your competitors acquire optical component businesses, so just curious if that would be of interest for you guys, not just because of the shortages near term, but also just considering that optical components keep increasing as a percent of the overall system?
+Jayshree Ullal - Arista Networks, Inc.
+So no, I think the Broadcom-Brocade announcement is a very interesting and intriguing one. It shows that the industry is consolidating. And it also shows that the SAN market, fiber channel market has been very sticky, but not growing at all and one that really reflects more of a chipset and OEM business than a system business. So I applaud Broadcom for thinking about it strategically. I also applaud them for not competing with their customers and realizing that the IP networking business is not their core goal here, and they are likely to spin it off. Nobody wants to compete with their customers.
+So I look at that acquisition quite favorably, and obviously, like all M&As, execution is important and we would be looking to see how they do that. In terms of optics, I couldn't agree with you more, Simona. I think the whole datacenter connect and the integration of layer one, layer two, layer three, optics, particularly for 100-gig, where the optics can get very expensive, very much happening. Our point of view on this, along with Andy's is, we would like to see standardization of connectors and we would like to see more diversity of supply rather than shortages. We would like to see more vendors there. I'm not sure I want to lock myself in with one optics vendor. I would like to see five or 10 of them.
+Simona K. Jankowski - Goldman Sachs & Co.
+Thank you, Jayshree.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks Simona.
+Operator
+Your next question comes from the line of Jeff Kvaal from Nomura. Please go ahead. Your line is open.
+Jeffrey Kvaal - Nomura Securities International, Inc.
+Hi, can you all hear me okay?
+Ita M. Brennan - Arista Networks, Inc.
+Yes.
+Jayshree Ullal - Arista Networks, Inc.
+This time we can, Jeff. We missed you last time.
+Jeffrey Kvaal - Nomura Securities International, Inc.
+I was here. I don't know what happened. I'm sorry. Okay, could I broaden on that last question about Brocade and could you tell us a little bit more about the competitive landscape? Are the Brocade products any good if they find the right home? Are they going to be more of a competitive threat? We hear a lot about Juniper's new QFX10000. Are you running into that? Help us along those lines.
+Jayshree Ullal - Arista Networks, Inc.
+Well, look. This market is $6 billion or $7 billion TAM, and every competitor has their strength and weakness. I think Juniper is a very good company for service provider routing. I think Brocade is a very good SAN switching company. I think Cisco is a very good enterprise company. And I think Arista is the best ever Cloud Networking company you saw. So, you look at the market share for these vendors and it reflects that, and you can see here that Brocade's been around 2% to 3% in IP networking. That is not sustainable in terms of position. I think you have to be number one or number two to be a strong leader. And I think this was a good outcome for Brocade because of that.
+Jeffrey Kvaal - Nomura Securities International, Inc.
+Okay. And then my second question is 2015 was not actually that super of a year for datacenter CapEx, and I'm wondering if â well, there's a lot of digestion underway in 2015 according to Google. 2016 has been a lot better, the CapEx is up a lot. What does the magic crystal ball tell us about 2017? Should we worry about another period of digestion after a strong 2016? Thanks.
+Jayshree Ullal - Arista Networks, Inc.
+Yeah, no, I think you'll always see certain companies go through digestion, but if I sort of even out the highs and the lows, we see 2017 as being a good year of Cloud CapEx. Some may buy less and some may buy more, and a lot of that I think becomes sort of a long-term building and capital investment, less about networking.
+Jeffrey Kvaal - Nomura Securities International, Inc.
+Okay. Perfect. Thank you very much.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Jeff.
+Operator
+Your next question comes from the line of Tal Liani with Bank of America. Please go ahead. Your line is open.
+Dariush Pirmin Ruch-Kamgar - Bank of America
+Hey, guys. This is Dariush on for Tal. Thanks for squeezing me in. I want to ask a question about components somewhat differently. Clearly, you've built up component inventory from overseas ahead of the import ban, and now you're shifting to your U.S. supply chain, you're seeing longer lead times. So my question is how long would it take to draw down versus all of your component inventories from overseas? And do you see a scenario where component shortages in your U.S. supply chain could impact revenues as you draw down your overseas component inventories? Just looking at differences in lead times between components and your product lead times implies that this should happen at some point.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean, again, like I said earlier, we've been thinking about this problem for a long time, and we've laid out plans across the different components. And we're not going to get into those in tremendous detail here.
+Dariush Pirmin Ruch-Kamgar - Bank of America
+Okay. And do you guys use the first in, first out method, or last in, first out for...?
+Ita M. Brennan - Arista Networks, Inc.
+FIFO. Yeah, FIFO.
+Dariush Pirmin Ruch-Kamgar - Bank of America
+FIFO, okay.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah.
+Dariush Pirmin Ruch-Kamgar - Bank of America
+Thanks, and then just a quick last question from me. What was customer count in the quarter?
+Jayshree Ullal - Arista Networks, Inc.
+Over 4,100.
+Dariush Pirmin Ruch-Kamgar - Bank of America
+4,100. Great. Thanks, guys.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks.
+Chuck Elliott - Arista Networks, Inc.
+This concludes the Arista Q3 2016 earnings call. I also want to mention that we have posted a presentation, which provides additional perspective on our third quarter 2016 fiscal results, which you can access in the Investors section of our website. Thank you to everyone for joining us today.
+Operator
+Thank you for joining, ladies and gentlemen. This concludes today's call. You may now disconnect.

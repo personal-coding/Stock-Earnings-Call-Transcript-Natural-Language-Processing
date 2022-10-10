@@ -1,0 +1,369 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q4 2014 Results Earnings Conference Call December 3, 2014 5:00 PM ET
+Executives
+Aart de Geus - Chairman and Co-CEO
+Brian Beattie - CFO
+Analysts
+Rich Valera - Needham & Company
+Krish Sankar - Bank of America Merrill Lynch
+Sterling Auty - JPMorgan
+Tom Diffely - D.A. Davidson
+Jay Vleeschhouwer - Griffin Securities
+Monika Garg â Pacific Crest Securities
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Synopsys Earning Conference Call for the Fourth Quarter and Fiscal Year 2014. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] Today's call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today's call is being recorded.
+At this time I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+
+Thank you, Sandy. Good afternoon, everyone. Leading today's discussion are Aart de Geus, Chairman and Co-CEO of Synopsys; and Brian Beattie, Chief Financial Officer.
+Before we begin, I would like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts and targets and will make other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+In addition to any risks that we highlight during this call, important factors that may affect our future results are described in our most recent quarterly report on Form 10-Q, and today's earnings press release. The reconciliation of the non-GAAP financial measures discussed on this call to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, the earnings press release, the financial supplement and the corporate overview presentation that we released today. All of these items are currently available on our website at www.synopsys.com.
+With that, Iâll turn the call over to Aart de Geus.
+Aart de Geus
+Good afternoon and thank you for joining us. Q4 was a strong finish to a very solid year; a year that was significant from at least three perspectives. Specifically, we released several game-changing new EDA products that will drive a multi-year product upgrade cycle.
+We further broadened our IP offering, solidifying our position as the number 2 IP provider with a strong business outlook into FY15. And last, but not least, we embarked on a transformational journey into the software quality, test and security space with our acquisition, and integration, of Coverity.
+Let me briefly summarize the financial results for the quarter and year. We delivered Q4 revenue of $539 million and $2.057 billion for the fiscal year. We reported non-GAAP earnings per share of $0.64 in Q4 and $2.53 for the year. We generated $551 million in operating cash flow, bought back $120 million of our stock, and grew our three-year backlog to $3.5 billion.
+Building on our strong year-end position, we're setting a 2015 non-GAAP EPS objective of $2.67 to $2.72, a revenue target of $2.185 to 2.225 billion, and an operating cash flow target of approximately $450 million. Brian will discuss these in more detail shortly.
+As we head into 2015, itâs clear that global demand for electronics continues unabated. From the newest mobile phones and tablets; to a cloud infrastructure that requires unprecedented amounts of data storage, transportation and analysis; to a whole new wave of innovative electronic content in Internet of Things applications - technology is king!
+In 2014, we have seen hard-driving adoption of the most advanced FinFET technologies, with already more than 170 active designs and tape-outs as far down as 10 nanometer.
+Meanwhile, designs at the more established 20, 28, and 40/45 nanometer nodes are also increasing in complexity as designers drive performance while squeezing out power and cost.
+In other words, the technical essence of Moore's law is alive and well, and the term system on a chip coined in the late 90s is in full swing. This product wave is also increasingly complex. Billions of transistors in massive numbers of interconnected chips, all with enormous amounts of embedded and applications software is, simply stated, very hard to do.
+Synopsys is at the vortex of this process. While 2014 semiconductor industry growth looks stronger compared to last year, the market remains extremely competitive, driving a number of customers to seek efficiency and differentiation through consolidation and restructuring.
+For the EDA industry, this brings some headwinds, but also great opportunities. In this context, Synopsys is the only vendor offering state-of-the-art solutions from Core EDA, to IP, to software quality tools, positioning us well to be the partner of choice.
+Given these dynamics, let me state our priorities for the next several years. While we continue to build on our strengths in EDA, we plan to accelerate our expansion into a more diversified set of customers and solutions. Weâre driving three priorities:
+Priority number 1: Maintain our clear technical, business and support leadership in core EDA.
+Our strategy for mostly organic growth is the following: First and foremost, invest in technology focused on continued leadership in FinFET solutions at 16 nanometer and below, as well as highest productivity for advanced design at the established process nodes.
+Second, drive customer success on a global basis. Today our support teams are integral to the completion of virtually all state-of-the-art chips. Synopsys will continue to provide highly skilled and trusted EDA experts at our customers' global locations.
+And third, deploy and proliferate the new game-changing design and verification products we introduced in 2014, and additional products to be announced in 2015.
+Priority number 2: Drive continued growth in IP and Systems, leveraging the confluence of increased outsourcing of IP, growing technical complexity, and the essential customer need for trust and reliance on its partner suppliers. In this area, our strategy for organic and potential M&A growth is the following.
+First, invest in and proliferate new titles across the portfolio, both in the most advanced silicon technologies and in more established geometries targeting the Internet of Things. With an offering that features interfaces, memories, embedded processors and analog IP, Synopsys is a cornerstone partner in the deployment of any new silicon technology generation.
+Second, provide increasingly complex, pre- configured IP subsystems to help ease integration into our customers' SoCs. And third, provide software-and hardware-based prototyping solutions to enable earlier software development and system validation with today's software-intense devices.
+Which brings me to our third strategic priority: Expand our presence in the software-quality, test and security space by building on the excellent technology from Coverity. Our strategy for organic and potential M&A growth is to leverage the just-completed Synopsys field integration, while focusing on fast and agile execution.
+We expect to grow in: A, the directly adjacent embedded software market, where we already know the electronic and semiconductor companies well, and can leverage Synopsys' global relationships built over many years.
+And, B, the large untapped software-applications market that reaches from financial to health, energy, retail, social media to virtually any company doing sophisticated software and having quality, security and testing issues.
+From a shareholder value perspective, these priorities drive a diversified and coherent product portfolio in both mature and growing markets, balancing both growth and profitability for Synopsys.
+Specifically, core EDA is very stable, with solid profitability and cash flow; IP delivers higher growth with increasingly good profitability; and the software quality tools are in a brand new TAM with an even better growth opportunity, with expected profitability in 2016.
+Let me provide some highlights for each of these, beginning with core EDA. In core EDA, the demand for the most leading-edge technology is unrelenting. I mentioned earlier the latest breakthrough process FinFETs. Of all the designs and tape-outs weâre tracking, Synopsys is integral to over 95% of them.
+Being the leader makes a difference: customers can rest easy, knowing that they're relying on the most technically advanced tools, and support teams, in the world.
+Earlier this year, we launched a breakthrough in implementation: IC Compiler II. We indicated at that time that ICC II is a game-changer delivering a 5X speed-up and 10X throughput improvement.
+Now, six months later, we have even more hard evidence from many customers with excellent results. With a rapidly growing number of engagements, designs, tape-outs and now working silicon, we see our multi-year adoption and deployment progressing even faster than with any previous products.
+The benefits are equally compelling for both very advanced and established nodes. One such example is Panasonic, who achieved such excellent results with a high-performance multimedia design at 40 nanometer, that theyâre expanding use into other 40 and 28 nanometer designs.
+Moving to verification, where approximately 80% of advanced designs use Synopsys as their primary simulator, customers have responded extremely well to our Verification Continuum vision and first deliveries. Just as the name implies, the Verification Continuum platform spans all the key components, from our franchise VCS functional verification, to static and formal analysis, to verification IP, to emulation and prototyping, all aligned on a common infrastructure, with best-in-class, common debugging.
+With a 3X near-term and 10X long-term productivity improvement, our vision, plans and deliverables are already having impact on customers. The first deliverable, Verification Compiler, launched in Q2 with brand-new static and formal verification, the integration of software-based simulation and debug tools, and key verification IP, all in a single product. It is currently delivering 3X productivity improvement.
+Also launched this year was the next-generation ZeBu Server-3 emulator, which is the fastest, highest-capacity emulator on the market today. Stay tuned as we roll out additional components over the next year, starting in Q1.
+Around our tools, Synopsys continues to support, and benefit from, strong ecosystem partnerships, as evidenced by several announcements in the quarter. We expanded our long-standing collaboration with ARM to benefit our mutual customers with optimized tools throughout the flow for designing with ARM IP. This very broad, multi-year agreement gives us early access to the latest ARM processors.
+On the foundry side, we achieved broad certification for TSMCâs 16 nanometer FinFET-plus process, for both digital and custom implementation tools. And both companies entered into a 10 nanometer FinFET collaboration.
+In addition, TSMC selected Synopsys as Partner of the Year in two categories: Joint development of 16 nanometer FinFET-plus design infrastructure, and for the fifth consecutive year, Partner of the Year for interface IP.
+Which brings me to highlights for our IP products, where demand is strong. Let me give you some examples: In Q4, we closed a multi-year agreement for 16, 14 and 10 nanometer IP outsourcing with AMD, and hired 150 of their engineers to augment our team. The advances in the most leading-edge technologies are progressing well, with the first 10 nanometer IP business wins with two industry leaders.
+Our interface IP is evolving continuously. Our USB 3.0, for example, has been shipped in more than 100 million production SoCs, while in Q4 we already launched our USB 3.1 controller with double the data rate. Finally, our IP is already used extensively in Internet of Things applications. During the quarter we announced a new Sensor and Control subsystem, and also an enhanced memory offering for embedded flash used for IoT and Automotive.
+Lastly, let me update you on Coverity. As a brief reminder, Coverity provides essential testing software used during code development. This software finds, and fixes, critical defects and security issues. Coverity is an ideal TAM expansion for us: About half the business addresses software embedded in chips and electronic systems from customers we know well; and half is aimed at a new, very broad set of application software customers.
+Weâve spent the last two quarters learning about Coverityâs products, customers, and market dynamics. The quality of the technology and employees is outstanding, and
+Coverityâs results under Synopsys were in line with the initial expectations we communicated back in the spring. We expect to reach break-even in the second half of fiscal 2015, while being accretive in 2016 with revenue over $100 million.
+From an overall financial perspective, our primary long-term objective is to drive high-single-digit, non- GAAP earnings-per-share growth through a mix of the following elements: One, organically grow traditional EDA revenue generally in the low-to-mid single digit range. Two, organically grow IP and Software Solutions revenue generally in the low double-digits. Three, actively explore TAM-expanding R&D and M&A opportunities.
+Four, focus on global operational efficiency to deliver solid non-GAAP operating margin in the mid-20s range; And five, optimize the use of our strong cash flow, through a balance of M&A, debt reduction, and stock buybacks. While the combination of elements may vary, based on business cycles and in-period priorities, our long-term driving principles remain consistent.
+Before I conclude, let me also highlight today's organizational announcement. As we scale the company into its next phase, I am pleased that Brian has been promoted to Executive Vice President, Business Operations and Chief Administrative Officer, and while continuing to lead finance, operations and IT, he will also head up human resources, facilities, business development, and strategy.
+Trac Pham, who has worked closely with Brian for many years as a key member of the finance team, will step into the CFO role. Many of you will meet and get to know Trac over the coming months. Brian will remain available in investor relationships as well. Congratulations to both Brian and Trac in their new roles.
+To conclude, Synopsys is in a high-potential position. Propelled by yet another decade of technology advancements, the electronics industry is gunning for the next wave of far reaching products. Synopsys is a cornerstone company enabling this new wave of innovation.
+In 2014, we built a very strong financial foundation, and we enter 2015 with a good deal of momentum. Our newly launched game-changing products are expected to drive a multi-year upgrade cycle, IP demand is strong, and our expansion into a new higher-growth software quality and security space enters its next, exciting phase.
+Let me now turn the call over to Brian Beattie.
+Brian Beattie
+Thank you, Aart. Good afternoon everyone. In my comments today I will summarize our financial results for the quarter and fiscal year and provide you with our targets for Q1 and the full year of 2015. In my discussions, all of my comparisons will be year-over year unless I specify otherwise.
+Synopsys delivered very good fourth quarter and full year results, highlighted by strong business levels, solid growth in both revenue and earnings, and considerable free cash flow generation. We significantly exceeded our original 2014 target for operating cash flow, entered an exciting new market segment with our Coverity acquisition, and continued our stock repurchase program.
+Q4 total revenue increased 7% to $539 million and annual revenue grew 5% to $2.057 billion. Revenue contribution from Coverity was modest and met our prior expectations. About 90% of Q4 revenue came from beginning-of-quarter backlog and we had one approximately 10% customer for both Q4 and FY14.
+The weighted average duration of our renewable customer license commitments was about 2.8 years for the quarter and about 2.9 years for all of fiscal 2014. We currently expect weighted average duration for FY15 to continue to be approximately three years.
+Three-year backlog increased to $3.5 billion from $3.1 billion due primarily to the timing of large contract renewals, business growth and to a lesser extent, acquisitions. Looking ahead, we have approximately 80% of our target fiscal 2015 revenue in hand for the coming year.
+Turning to expenses, Q4 total GAAP costs and expenses were $482 million, which included $33 million of amortization of intangible assets and $21 million of stock-based compensation. For the year, total GAAP costs and expenses were $1.81 billion, which included $126 million of amortization of intangible assets and $79 million of stock-based compensation.
+Q4 total non-GAAP costs and expenses were $423 million. For the full year, total non-GAAP costs and expenses were $1.58 billion, well within our expected range.
+Non-GAAP operating margin for the quarter was 21.6% and 23% for the full year, which reflects the approximately one percentage point impact from our Coverity acquisition and the standard purchase accounting haircut that is applied to deferred revenue. For all of FY15, we expect non-GAAP operating margin to increase over FY14 levels by approximately 100 basis points.
+We continue to drive company-wide operational discipline, as well as implementing targeted cost savings initiatives, including a voluntary retirement program and some additional severance in the current quarter. As a result, in Q1 we expect to incur a one-time, GAAP-only restructuring charge between $15 and $19 million.
+Our strategy is to reduce expenses in certain areas so that we're able to allocate resources to our higher-growth areas such as IP and our new software quality and security arena.
+Turning now to earnings, GAAP earnings per share were $0.39 for the quarter and $1.64 for the year. Q4 non-GAAP earnings per share increased 14% to $0.64. Full year non-GAAP earnings grew 4% to $2.53 and again includes the dilution from Coverity, which came in within our target range.
+Our non-GAAP tax rate was 14% in Q4 and 18% for the full year, both below our targets, due primarily to a cumulative favorable transfer pricing adjustment for 2014. For modeling purposes, we think that a more normalized non-GAAP tax rate of approximately 22% is a reasonable estimate for fiscal 2015.
+Now turning to our cash flow. We generated $173 million in cash from operations in Q4 and $551 million for all of fiscal 2014. FY14 operating cash flow exceeded our original expectations, due primarily to strong business levels and collections throughout the year.
+During FY14, we borrowed and paid back both our outstanding $200 million revolver, initially drawn to acquire Coverity, and $30 million of our term loan, leaving $75 million of debt outstanding on the term loan.
+During fiscal 2014 we purchased about 3.1 million shares of Synopsys stock for $120 million that included 1 million shares for $40 million in Q4. We have $380 million remaining on our current share repurchase authorization. Our goal is to accelerate our buybacks in FY15 to keep our share count roughly flat with FY14 levels.
+We also closed a number of acquisitions during the fiscal year, putting our balance sheet to work. We ended the quarter with cash and cash equivalents of $986 million with 16%, or $162 million, onshore and 84% offshore.
+We plan to continue optimizing the use of our very strong cash flow through a balance of M&A, stock buybacks and debt reduction. Each quarter we will evaluate the best uses of cash, but our ongoing goal is to allocate capital to where we think it can generate maximum long-term shareholder value.
+At this time we're targeting operating cash flow of approximately $450 million in FY15, which reflects about $35 million in one-time disbursements due to our voluntary retirement program and additional severance, and one-time benefits changes.
+We're also expecting cash taxes to be somewhat higher in 2015. And finally, we expect our operating cash flow quarterly profile to be similar to prior years, with a net operating cash outflow during the first quarter of fiscal 2015, due primarily to the timing of prior year annual incentive compensation payments.
+Capital expenditures were $45 million for the quarter and $103 million for the year, reflecting the increased facilities related expenditures, including the ongoing two-year build out of our newly leased Bay Area facility, along with facilities and other expenditures due to past acquisitions.
+DSO was 55 days, reflecting strong business levels and the timing of invoices, and we ended Q4 with approximately 9,440 employees, with over one third in lower-cost geographies. The year-over-year increase was driven primarily by planned hiring and Coverity, along with the IP engineers we hired from AMD as part of our recently expanded IP partnership.
+Before moving onto guidance, let me provide some additional commentary on Coverity. As you recall, at closing, Coverity had about $69 million of deferred revenue, of which $47 million will not be recognized due to standard purchase accounting.
+As a result, FY14 revenue contribution would have been approximately $24 million higher without the deferred revenue haircut, and FY15 would be approximately $15 million higher. While we are not breaking out Coverity product sales, we believe we are on track to grow revenue in this space to more than $100 million in fiscal 2016.
+So now let's address our first quarter and fiscal 2015 guidance, which excludes the impact of any future acquisitions. For the first quarter of FY15, our targets are: revenue between $535 and $545 million, total GAAP costs and expenses between $482 and $505 million, which includes approximately $21 million of stock-based compensation expense and the one-time restructuring charge.
+Total non-GAAP costs and expenses between $415 and $425 million. Other income and expense between $0 and $2 million. A non-GAAP tax rate of approximately 22%, outstanding shares between 155 million and 159 million. GAAP earnings of $0.18 to $0.25 per share; and non-GAAP earnings of $0.61 to $0.63 per share.
+Now our Fiscal 2015 outlook, revenue between $2.185 and $2.225 billion, a growth rate of approximately 6% to 8%. Other income and expense between $2 and $6 million; a non-GAAP tax rate of approximately 22%; outstanding shares between 155 and 159 million. GAAP earnings per share of $1.22 to $1.35, which includes the impact of approximately $88 million in stock-based compensation expense.
+Non-GAAP earnings per share of $2.67 to $2.72, which reflects Coverity being on track to reach break-even in the second half of 2015. Capital expenditures of approximately $110 million, and we are targeting cash flow from operations of approximately $450 million.
+And then finally, to assist in your modeling, second half revenue and non-GAAP EPS are expected to be slightly higher than the first half. At this point, we expect total non-GAAP expenses to be skewed slightly toward the first half of the year.
+In summary, we're pleased with our very good fourth quarter and full year financial results, was highlighted by solid top-and bottom-line growth and strong cash flow generation.
+So with that, I'll turn it over to the operator for questions.
+Question-and-Answer Session
+
+Operator
+
+[Operator Instructions] And our first question is from Rich Valera with Needham & Company. Please go ahead. Your line is open.
+Rich Valera
+Thank you. First congratulations Brian, on the promotion.
+
+Brian Beattie
+
+Thank you very much Rich.
+Rich Valera
+So Aart, just first wanted to take your pulse on the environment. It sounds from your prepared remarks that it is quite similar to last quarter but just wanted to hear in your words sort of how you would view the environment if there was any change quarter-over-quarter?
+
+Aart de Geus
+You characterize it right, which is its similar to last quarter. I think if you look at the year, semiconductor is looking a little stronger than last year but the reality is, it's an on and off and the rate of change is very high in the field that we're in, which is a good thing because that means that the technology adoption is raising forward.
+And we definitely see a number of companies looking at, at the coming years as opportunities for strong new product. So, one hand same old, same old. On the other hand, same old has always meant very rapid progress.
+Rich Valera
+
+That's great. And then with respect to ICC II it sounds like your â you're kind of on track with where we wanted to be. I'm assuming on track for GA end of this calendar year, is that still correct?
+Aart de Geus
+
+Well we have brought release at the time. We are very careful of how to roll it out so that we can support to people that are adopting it very effectively which means that we're controlling quarter-by-quarter how many people we pick up.
+But definitely the customer interest is not an issue, its well on schedule. And what has been particularly rewarding is that the, there are really hard evidence on all the results is absolutely at least as good as what we have said it would be and so that is very encouraging.
+Rich Valera
+And I know you donât like to talk too much about share because its little tricky how it's measured and seems like everyone sort of gains share. But, when you look at the digital space where your - certainly the digital design space where you have quite high share. Do you think ICC II could enable you - to reflect the gain share or willing to make that go at this point.
+
+Aart de Geus
+
+Your comment is right. Everybody always claims that theyâre gaining share. The reality is things shift very gradually in the field that we're in and for starters, what of course ICC II does, it solidifies strongly on the places that weâre in.
+But, given the substantial advantages in terms of productivity, this really gives us the opportunity to gain over time. And given that, many of the agreements that we have are multi-years, that is how this will roll out. The adoption is very, very rapid.
+
+Rich Valera
+Great. And just one final one, you had a very nice increase in backlog year-over-year despite a drop in duration. Wondering if you can give any more color on what drove that particularly if youâd be willing to say how much Coverity contributed to that?
+Aart de Geus
+Well, for starters, yes, it was a very - a very good increase and actually the most relevant in all of that is actually a different number, which is the very fact that weâre entering the coming year with a very strong coverage, 80% or so.
+And, but you're right, that's the - Q4 grew the backlog substantially. I hadn't even noticed thatâs the duration has slightly changed because it's - from my perspective itâs sort of all in the same ballpark. We donât really see much change there.
+So I think, we just had a very strong business result in Q4 that will manifest itself over the coming years. I guess that's called momentum
+Rich Valera
+That's great.
+Brian Beattie
+Rich, I think - just adding to that, itâs just again reflective of a strong year with good level of business coming in, a very strong fourth quarter. And we just saw good renewals, good momentum on that and then it set us up nicely for 2015.
+Some of the acquisition work we did had a smaller impact but was also a contributor to that growth about $400 million on the three year backlog space.
+Rich Valera
+Brian, just quickly on the CapEx guidance. There still seems pretty elevated by historical standards is that still in relation to the new facility build out?
+Brian Beattie
+It is, Rich. If we you can think back at the beginning of 2014, we thought our CapEx profile would be about $135 million, and it came in just over $100 million. So again, as we try to optimize the actual cash disbursements to as late as we can allowed us to come in just over the $100 million mark. And then looking ahead to next year some of that related to our new leased facility, weâll just extend into 2015.
+So, the rest is normal. Itâs really only related to IT, related to giving us state-of-the-art capability and computing and networking, and then still some of the build that related to finishing off our new facility and also relative to some of the new acquisitions that we've completed so the rest of it is all related to facility side.
+I had forecast ahead that 16 of that number would come down at this point because our major leased new facility in Silicon Valley will be completed by then.
+Rich Valera
+How much it might come down the several 100 - not willing to go there at this point?
+Brian Beattie
+Yeah, I think, just for that facility, it's going to come down on $10s of millions just on that facility itself but what weâre calling our 690 middlefield set up.
+
+Rich Valera
+Great. Thanks very much, gentlemen.
+Brian Beattie
+Thank you.
+Operator
+And our next question is from Krish Sankar with Bank of America. Please go ahead.
+Krish Sankar
+Hi, thanks for taking my question. I had two of them, number one, Aart, where do you think you have the share in emulation is today? And given the fact that, in the past youâve spoken about more of the softer wrapping being used by â using emulators. Have you seen any traction to the platform and where do you think it is today versus a year ago?
+Aart de Geus
+Yeah, we don't disclose the individual share of product. But, you're correct, to say that a lot of emphasis is going into the software dimension. In general terms with a number of three in the emulation market, but in the overall prototyping space I think we are in a strong leadership position, and we see that in some of the other product.
+And while we open the door of the software, of course verification is heading there but so is the Coverity move. And you can sort of see that as a natural adjacency to that whole space of verification.
+Krish Sankar
+That's very helpful. And for FinFET side, how would you characterize the progress? It seems like you guys have been qualified at pretty much all the major FinFET manufacturers. How would you characterize its progress compared to like maybe six or nine months ago given that they had some starting issues. Do you think most of those are behind us and the yield improvements are getting. Or do you still think there is a long road ahead.
+Aart de Geus
+Yes, and yes, meaning that, I think the progress has been excellent. I think that in general people will say, well you know there have been quite a number of challenges to overcoming yield, which actually is not a surprise at all, this is very sophisticated technology.
+But the adoption rate and the number of new designs I think is well on track to rival the previous major generations. And so, Synopsys specifically, we are very much on top of this because weâre engaged very early to the tea CAD, the three dimensional modeling as the transitters are literally being invented.
+And then all the - in between steps of being ready with the tools, weâre there, designs are being done and the majority actually is our tools.
+And then of course, the IP position is very important as well because for all the advanced chips, you can't design a chip today unless you use major IP box, and those have to be highly tuned for the advance technologies. And Synopsys is absolutely leader in that area as well.
+So, I would characterize it as moving forward well. I think it will be a number of companies or customers that will hold on at 28 nanometer until they see the other side of the bridge so to speak, that FinFETâs are really stable and then they will move as well but all the advanced guys are already there.
+Krish Sankar
+Thanks. That's very helpful. Thank you, guys.
+Operator
+And the next question is from Sterling Auty with JPMorgan. Please go ahead. Your line is open.
+Sterling Auty
+Thanks. Hi guys. Wanted to start with â how would you characterize employment growth or headcount growth in design engineers and its impact on your growth that you saw in 2014? And what do you think that looks like for 2015?
+
+Aart de Geus
+
+That's very difficult to characterize because thereâs not much in terms of hard numbers there, but I would say, that in general it feels very stable to me with the exception of the Far East where the headcount is still substantially growing. And one can also see that a little bit watching how customers battle for key employees and how some of the salaries are moving up.
+So, fundamentally I think it's a positive message, there is some geographies as you would expect, such as Japan and Europe, that are lagging, I think the U.S. is in very stable, maybe even strong position and the Far East is going.
+Sterling Auty
+And how would you characterize - we did a number of questions about the moves that China is making to become a bigger and bigger player in the semiconductor industry. How that might help your business in the coming year or more?
+Aart de Geus
+Well, for us that is not a surprise at all because we have been very active since literally the middle 90s and strange to say, but that's almost 20 years ago now. And in the process, weâve seen a tremendous evolution in terms of the gradual competence to now superb competence in semiconductor design and system design.
+And in the last few years one can literally see how the adoption of the most advanced silicon technologies has progressed more rapidly in China than other places. It is all not a surprise, this is obviously a country that is rapidly becoming one of these very large economies, and modern economies are big users and developers of advanced technology. Electronics is absolutely at the vortex of all of that.
+Sterling Auty
+And then Brian, just two quick ones for you. Talking about the 80% of this yearâs guidance revenue already on the balance sheet, if I do that calculation and say okay what percentage, what does that mean in terms of percentage of the backlog that it actually would come through the income statement this year? Itâs actually a smaller percentage than what we saw last year. Is there any mechanics to that or is this too nuanced?
+Brian Beattie
+No. I would highlight if we want to compare it to this time a year ago, we indicated we had more than 75% of the year's revenues in hand for 2014. And this year we're back to 80% level of the coverage, and again, we base guidance based on what we have in hand and how we can actually convert that through.
+So, it's a more traditional profile than what we had just in 2014. And again the high levels of confidence obviously in delivering that much. And so you can look at $3.5 billion backlog, you know that relative to our revenue guidance that we just provided, we have 80% of that in hand, that's the amount that comes out of that year-end $3.5 billion backlog.
+Sterling Auty
+And last question on the cash flow so, the [75] [ph] million of one time, you mentioned the higher cash taxes but if we would believe that bookings would hopefully knock on wood grow why wouldn't cash flow at least be flat year-over-year? What's the other elements or moving parts that perhaps could cause us to a down year in cash flow?
+Brian Beattie
+Yeah, again, we look - the number one thing we look at very specific collection profiles by customers just as you mentioned we have 80% of the year, we also have a significant amount of collections scheduled with a very high probabilities of collecting that.
+The additional amount comes from new bookings which again we tie in very closely with our sales team on the projected profile of that, and then of course disbursements are something we control.
+So, every year we look at specific forecast based on that and that produces our approximately $450 million, and in the long run our operating cash flow really tracks extremely close to our EBITDA line.
+And when you look at where we ended up in 2014, was significantly over what we had forecast again our trading line with that EBITDA and the fact we did nicely and overachieved on the timing of those renewals and good cash management and good disbursed management.
+Sterling Auty
+Got it. Thank you.
+Operator
+Thank you. And our next question is from Tom Diffely with D.A. Davidson. Please go ahead. Your line is open.
+
+Tom Diffely
+So Brian, there was just about a time if we â but congratulations on the promotion.
+
+Brian Beattie
+Well, thanks Tom, Iâm really looking forward to it.
+Tom Diffely
+So, maybe I'll take this chance to ask you few question and any impact youâve seen from the Euro, Yen in the current quarter and what you think maybe an impact in that year?
+Brian Beattie
+Yeah, again when we factor all of this into our guidance range, and we did see an impact - slight impact in terms of revenue in 2014, but again based on our really solid hedging program and the fact we do of course have expenses in Japan too, it had really a non-material impact on the total year.
+As I look ahead to 2015, I see about 1% headwind on the Yen, just checking this morning, weâre almost at 1.20 and it continues to weaken of course in Japan with a lot of forecast going forward.
+Weâre very fortunate that weâve hedged about 60% of our revenues at a rate of about 102 for next year, and so we feel again comfortable weâve got it but youâre only able to really hedge about 60% of revenue.
+So, all-in-all it's our typical management program, thatâs how we manage and it give us really, really good predictability. And if you did look at our Japanese performance on the year-over-year basis, all of that dealt is just due to the Yen itself.
+So, I think again the company is performing nicely in Japan but unfortunately we do all we can to offset that impact of the Yen and we're well setup for 2015, on that.
+Tom Diffely
+Okay. And just as a reminder, do you hedge four quarters out in both Euro and Yen?
+Brian Beattie
+Yeah, we do on - remember, just our only currency we hedge for revenues is the Yen, everything else is U.S. dollar based and with our spending profile in Europe with declining Euro, we also hedge basically everything a year in advance, one quarter at a time, itâs a revolving hedging program that we constantly have in place.
+It's not that we can predict better but we can give better visibility and know what the actual result weâre going to get solidly locked in for a year in advance.
+Tom Diffely
+Okay. Great. And then when I look at the GAAP projections â the guidance for that year, the first quarter has impacted while the restructuring but it looks like the lesser year is lower as well, so I'm curious what the difference is there? Is there a tax rate or more expenses you expect?
+Brian Beattie
+Yeah, the GAAP tax - the GAAP earnings per share forecast for 2015 is lower, all really related to taxation, and when we look at how we optimize for our global transfer pricing, we look at a number of acquisitions that we put in place so we make sure that our IP is allocated to those right locations.
+So, GAAP basis, we will see some higher taxes related to those acquisitions. On a non-GAAP basis weâre forecasting a rate of about 22% for the full year which is right back to kind of the normal standards for us.
+Tom Diffely
+Okay. Can you build on the GAAP tax rate at this point â single numbers that too variable for the year?
+Brian Beattie
+Yeah, it's up from our management rates, but I donât have that in front of me.
+Tom Diffely
+Okay. And then Aart, when you look at the emulation business, the Zebu, does the new Zebu came out this, does that reflect kind of the synergies you would expect to get from working with the Synoposis team or is that just kind of the last generation of the prior development team?
+Aart de Geus
+Well, yes and no. It does reflected because obviously this has been an enormous amount of work to get this machine to this state and get it ready for release, and that is under Synopsys, leadership of course.
+The no part is that we have another much larger project which is the integration and the verification continuum. Given that, this is an extremely fast machine but it's compilation times, not as competitive as we want them to be.
+And so part of the integration we are working on improving that substantially. And in FY2015, you will definitely hear about progress.
+Tom Diffely
+Okay. And then finally in your prepared remarks you talked about IP subsystems. Are those shipping to date as more of the future projects we take individual components and bundle them together?
+Aart de Geus
+We're shipping today, and the notion of subsystem is interesting because we have them in audio and in the sensor part. Subsystems are not just couple of building blocks but there also many, many rules that you have to follow in order to connect these building blocks correctly, the embedded software, some of the verification capabilities.
+And so what weâre aiming at here is to really optimize the entire process of integrating these blocks into much larger SOC systems on the chip. And I think the desire from customers is quite high to get help from us in that.
+As much as I am the lover of calling all these building blocks, Lego blocks because it conveys exactly how you can assemble things. The reality is little bit more complex than Lego blocks to connect and so the more we can automate that better.
+Tom Diffely
+Do you think the innovative things type chips going forward are going to be the biggest user of this subsystems?
+
+Aart de Geus
+Not necessarily. I think the very large chips that are being built today are all available on the premise of substantial amount of IP reuse and the IP can come from - can be at many different level, very low levels such as gates and memories but highly sophisticated level such as entire memory subsystems for example.
+And I think in the situation of Internet-of-Things, yes there will be certain subsystems that will be of particularly high interest. This is still a very early field in terms of scoping what will be all the possibilities, what is in no doubt though is that it will be a massive number of things that are interconnected.
+And those things will gradually need more and more smarts and our objective is to be part of providing those embedded mark.
+Tom Diffely
+Okay. Thank you.
+Operator
+And the next question is from Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Thanks. Good afternoon. Brian let me start with you, let me forward you change business cards. Let me ask a couple of financial questions. First in terms of margin expansion outlook for fiscal 2015, could you talk about the contribution of any additional margin scaling in the IP business or from the IP business?
+Secondly in terms of cash flow for the year, you had a more than $100 million negative swing in accounts receivable. On the other hand you had $100 million positive swing for differed revenue. So it looks like the bulk of both of those changes took place in Q4 and therefore commence with it unusual large increase in bookings and backlog last quarter?
+
+Brian Beattie
+Okay, Jay. Let me answer those two questions.
+First on the IP margin impact. So you stated that right. Weâre targeting at about 100 basis point improvement in operating margin in 2015 over 2014. And really, IP is â again still on track for what weâve indicated as those multi-year goals, low double digit growth and those are the type of things weâre building on and that of course will contribute to margin dollars of income and some margin improvements coming from that side as well. So, a lot of success with IP and lot of momentum going into 2015.
+Over on the cash flow number itself, yes it did come in. We hit the record level of operating cash flow for 2014, and a lot of it is timing on a very strong fourth quarter. Right, we had already well over throughout 2014 we got the fourth quarter and did really well with the timing of the renewals coming in, with some good run rates on them and so seeing it up really nicely for cash collections.
+And then when you start looking at details like receivables are up, thatâs about the strong level of business that came in, when you look at payables and other accrued liabilities thatâs taking into account a number of expenses that are already booked and have purchased some of the variable compensation.
+So again, weâve given some good details relative to that cash flow guidance. And things like deferred revenue, as you know for us thatâs just timing and not a great metric for indicating ongoing performance that moves from quarter-to-quarter just based on timing of when we can invoice customers.
+So lot of information there, does that answer your questions?
+Jay Vleeschhouwer
+
+Yeah. Thank you. Actually one more for you. With respect to your largest customer youâve almost always described it as being over 10% of revenue to one degree or another. You didnât say that explicitly this time, so perhaps just to fine tune that you didnât quite get over 10% from your largest customer in the most recent quarter?
+
+Aart de Geus
+
+We did.
+Brian Beattie
+
+Weâre just over the 10% mark.
+Unidentified Analyst
+
+Aart, when you look at the last one to two years in terms of the evolution of your customer base, perhaps you could talk about how the proportion of contribution from the semiconductor companies, the AMDs and TIs of the world may have changed for you and how at the same time the so-called systems customers may have evolved for you proportionately and how are your guidance for the next year or so things about any additional evolution in that sort of customer mix?
+
+Aart de Geus
+
+Well, really to answer this question, well one should go back already multiple years because it is multiple years ago that the system companies or at least some of them decided to invest more in their own semiconductor based design for a couple of reasons. One, because they really wanted to drive performance and power down more than what their suppliers are offering them.
+And two, because they wanted to be much more on top of optimizing the overall system and negotiating directly with the manufacturers given the high quantities they were after.
+And so for us we have now for quite a while over 40% of our business from so called system companies. And just to clarify, there are system companies that do system design, there are system companies that do system design and semiconductor design, and there are some companies that do those two and manufacturing.
+And so sometimes the terminology is little bit confused but at the end of the day the most important customers are the ones that do the most sophisticated and the largest volume business and that has not changed for us in a number of years but it has evolved over the last decade.
+Unidentified Analyst
+And then maybe just to wrap up with you Aart, think about the contribution of IC Compiler 2 for fiscal 2015 with somewhat following up on Richâs earlier question, what has been the reception so far to the note based pricing that youâve introduced with IC Compiler? And to what extent do you expect incremental payment or revenue from the more advanced capabilities as compared with merely propagating it via maintenance but not necessarily for more money?
+
+Aart de Geus
+
+Well, I think you heard Brian say earlier that certainly in Q4 we had a number of renewals with good growth and as a matter of fact the run rate for the company is up. Again, and that is how successful products mostly manifest themselves because for all the large customers they have of course many products and when there is a product thatâs particularly attractive such as IC Compiler 2, they want to quickly have the opportunity to add that to their contract to upgrade and invariably thatâs an opportunity to reup the contract for the next three years and the run rates go up.
+So, so far only positive impact and I expect that to continue because the adoption rate is as said very high and for the people that have now not only taped out but gotten silicon back, they have been remarkably positive on the impact it had on their time to market.
+And so at the limit thatâs converting technology advances into true value for the customer.
+Operator
+
+Thank you. Sir, we are at the five minutes marked. Our next question is from Mahesh Sanganeria. Please go ahead. Your line is open.
+Unidentified Analyst
+
+Hi, this is Shawn [ph] for Mahesh, thanks for taking my questions. Aart, I think in your prepared remark you had said about 80% [indiscernible] verification tools. I am just wondering can you comment on your market position in each component within verification, say, software, hardware, and verification IP?
+
+Aart de Geus
+Iâm sorry, I didnât quite understand the second phrase of your question. In what type of components?
+Unidentified Analyst
+I mean in the software part, hardware part, as well as verification IP.
+Aart de Geus
+In the verification area. Well, the verification area is one under very rapid evolution because the stall word tool, is simulation, has been simulation, and will remain simulation for a long period of time. And the reason for that is because if you donât verify the fundamental larger behavior of chips, all the other sort of Moot point.
+At the same time there's no question that if one can accelerate simulation, the emulation techniques or FPGaxe techniques that is highly desirable, and that is especially desirable as the software content increases because not a surprise more and more companies are discovering that the software is actually less reliable as a design process than the hardware which has been incredibly automated.
+And so from our perspective this is all good news because we have invested in a continuum that moves from the hardware stimulation to the software verification and as you know on top of that we are now also investing in the whole process of how to develop code in the first place that is higher quality and also more imperious to security issues.
+So in many way this is sort of a Morphing of our own value proposition from absolutely a set of state-of-the-art advanced tools to now the next generation platform and I think much of the positive revenues we get from customers is on the basis of that change and its absolutely driven by the people that are at the most advance edges of technology.
+Unidentified Analyst
+Thanks. And as a follow up, I remember last quarter you said that for verification compiling [indiscernible] pipeline is higher than expected. I am just wondering, can you provide an update in that area, how does the pipeline looks like now versus three month ago?
+Aart de Geus
+
+Yes. Let me first remind people what verification compiler is, it is a product that contains many of the what we now call sub-products but it has for example the software simulator and the debugger and the IP and some of the more advanced static checkers.
+And so that product itself has actually seen good momentum and we have seen a number of sales on that basis already. To be honest, I donât know where the pipeline is right now. My focus has been very much on the overall continuum that sees a lot of momentum but verification compiler is very good solution for people that use all of these tools together.
+Unidentified Analyst
+Great. Thanks, Aart.
+Operator
+
+And the next question is from Monika Garg with Pacific Crest Securities. Please go ahead. Your line is open.
+Monika Garg
+Looking at fiscal 2014, total revenue growth organically, my estimation was just about 3.6%, right. But the IP is expected to grow low double digit and your core EDA low to mid single digit. So maybe you could help us understand why the growth was low last year?
+
+Aart de Geus
+
+Well mostly it is due to lower growth rate in IP because a lot of its business was either pushed out or had deliverables that sell into 2015. And you may recall that during the year we commented on that saying that our own assessment was that the IP business was growing at low double digits on a multi year basis and all the evidence based on what we know today about FY15 supports that to far.
+So definitely in 2015 you will see a much higher components due to the IP growth.
+Monika Garg
+The indication in Coverity, your last investor webcast you talked about Coverity growing north of 20%. Is that still the fair assumption for 2015 and 2016 for the growth rate of Coverity?
+
+Aart de Geus
+
+That is the ballpark that we are aiming at. Of course this is all complicated a little bit by this notion of haircuts. But in general that is the objective that weâre shooting for and that is the premise against which we are predicting that that present business would be over $100 million in 2016 and profitable.
+Monika Garg
+
+And was there any revenue kind of recognition impact even in fiscal 2016 for Coverity?
+
+Aart de Geus
+
+You mean is there any hair cut left for 2015, I think minimally so. Thereâs a little bit smaller.
+Monika Garg
+
+Okay. Got it.
+Brian Beattie
+Remember, it's $15 million in 2015. So we have to take that into account. Thatâs built in our guidance, and then by 2016, thereâs just a little bit left.
+Monika Garg
+Thanks. Then the question is if you look at, you have raised strong cash balance more then close to $1 billion, more than 900 million net cash. Why not accelerate share buyback to reduce your outstanding share account?
+Aart de Geus
+Well, that is always a valid question. We prioritize the utilization of our cash in terms of M&A, making sure that when we have debt obligations, we live up to those and then of course, buyback. Just like you are suggesting, one of the things to not forget is that the balance of the cash between domestic and international is fairly massively. So, that tends to bring a bit of a practical limiter unless one uses other mechanisms.
+But you may have heard that, Brian, suggested that this year we want to pay much higher degree of attention on keeping the share count flat. And so we will certainly do a buyback.
+Brian Beattie
+And Monika, just to clarify the numbers, we were significant buyback in 2014, to keep the share count very close to the 2013 levels, and then again committing for 2015 to hold it there. So youâd see through 2013, 2014, and 2015, roughly a fair share count through all three years.
+So, again itâs putting our money to work, doing the appropriate level of buyback while as I mentioned leaving enough for strategic M&A opportunities in front of us.
+Monika Garg
+The last one here from me Aart. We all have seen design complexity growing which is thus really benefiting via companies. Do you think is it possible that we could see higher operating margins right, R&D expenses very high for industry. So do you think [indiscernible]?
+Aart de Geus
+We are at the heart of the heart of high-tech of the world, and so R&D expenses will stay a key component to be successful to bring this about. At the same time, we reiterated that our objective is to continue to move towards a solid mid-20s operating margin. And I think, Brian gave you the initial guidance for where we would land in 2015.
+So that general direction has not changed. Obviously itâs a function of how competitive do you want to be in the different areas. And also what opportunities do we see in some of the new areas, specifically IP which has a relatively fast turn around on investments turning to revenue, and then still very open ended and promising area of software verification. And we certainly have good ambitions.
+Monika Garg
+Thanks a lot. Thatâs all from me.
+Operator
+And there is no one else in queue. Please continue with any closing remarks.
+Aart de Geus
+Okay. Well, almost perfect timing here. Thank you so much for attending this earnings release. Thank you also for all your support during FY14. We donât spend much time looking back or looking forward, and as we look forward we see a company that has three main businesses that we will continue to optimize totally for. And weâre entering 2015 with a good degree of momentum.
+We look forward to speak to you after this call for some of the analysts and otherwise at the next earnings release. Thank you so much.
+Operator
+Ladies and gentlemen, this conference will be available for replay today after 4 p.m. Pacific Time through December 17 at midnight. You may access the AT&T teleconference replay system at any time by dialing 1800-475-6701, and entering the access code 343554. International participant can dial 320-365-3844. Again, those numbers are 1800-475-6701, and 320-365-3844, with the access code of 343554.
+That concludes our conference for today. Thank you for participation and for using the AT&T Executive Teleconference. You may now disconnect.

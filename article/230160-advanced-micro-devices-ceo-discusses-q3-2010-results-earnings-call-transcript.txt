@@ -1,0 +1,326 @@
+Advanced Micro Devices (NASDAQ:AMD) Q3 2010 Earnings Call October 14, 2010 5:00 PM ET
+Executives
+Dirk Meyer - President and Chief Executive Officer
+Thomas Seifert - Senior Vice President and Chief Financial Officer
+Ruth Cotter - Vice President, Investor Relations
+Analysts
+Uchi Orji - UBS
+John Pitzer - Credit Suisse
+Glen Yeung - Citi
+Jim Covello - Goldman Sachs
+Doug Freedman - Gleacher & Company
+Tim Luke - Barclays Capital
+Shawn Webster - Macquarie
+Ross Seymore - Deutsche Bank
+Christopher Danely - JPMorgan
+Ambrish Srivastava - Banker Montreal
+Patrick Wang - Wedbush Securities
+David Wong - Wells Fargo
+Stacy Rasgon - Sanford Bernstein
+Operator
+Good afternoon. At this time I would like to welcome everyone to AMD's third quarter 2010 earnings conference call. [Operator instructions.] I would now like to turn the conference over to Ms. Ruth Cotter, vice president of investor relations for AMD. Please go ahead.
+Ruth Cotter
+Thank you and welcome to AMD's third quarter earnings conference call. Our participants today are Dirk Meyer, our president and CEO, and Thomas Seifert, our chief financial officer. This is a live call and will be replayed via webcast on AMD.com. There will also be a telephone replay. The number is 888-266-2081. Outside of the United States the number is 703-925-2533. The access code for both is 1485779. The telephone replay will be available for the next 10 days, starting later this evening.
+Before we start, I would like to highlight a few dates for you. Firstly, AMD will host its financial analyst day on November 9, in its company's Sunnyvale offices, in California. Also, Thomas Seifert, our CFO, will present at the Credit Suisse Technology Conference on the first of December in Arizona. And lastly, our fourth quarter earnings quiet time will begin at the close of business on Friday, the 10th of December.
+Our class-A preferred share ownership in GLOBALFOUNDRIES decreased from 79% as of the end of the second quarter, to approximately 77% at the end of the third quarter, as a result of additional capital calls that ATEC participated in and AMD did not. As a result, AMD's ownership on a fully diluted basis also decreased to approximately 26%.
+Reconciliation for all non-GAAP financial measures is included in our financial tables that accompany our earnings release, which is also available in the investor relations section of amd.com. 
+Before we begin today's call, I'd like to caution everyone that we will be making forward-looking statements about management's expectations. Investors are cautioned that those statements are based on current beliefs, assumptions, and expectations, speak only as of the current date, and involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+The semiconductor industry is generally volatile, and market conditions are particularly difficult to forecast, especially in light of the current state of the economy. We encourage you to review our filings with the SEC, where we discuss the risk factors that could cause actual results to differ materially from our expectations. You'll find detailed discussions about such risk factors in our most recent SEC filing, AMD's quarterly report, and form 10Q for the quarter ended June 26, 2010.
+Now, with that, I'd like to turn the call over to Dirk.
+Dirk Meyer
+Thanks Ruth, and good afternoon to all of you on the call this afternoon. AMD's third quarter performance was a good demonstration of our capacity to execute profitably in the context of our [fabulous?] business model. Despite an environment of weaker than expected consumer demand, we improved operating income and non-GAAP free cash flow sequentially by continuing to focus on growth in the largest margin pools in our industry.
+In our client business, we set an all-time record for notebook MPU shipments in the quarter. We saw sequential revenue gains in both our desktop and notebook processor product lines and an improved mix in our notebook offerings.
+Our VISION campaign continues to pay dividends across our client business. As you may remember, VISION is designed to both differentiate AMD-based platforms and encourage sell up to more robust systems in mainstream retail. During the back-to-school period, our higher-end VISION Premium and Ultimate platforms accounted for roughly half of VISION-branded sales.
+In our server business, we were pleased to add IBM to the list of customers offering AMD Opteron 6000-based systems in the third quarter. AMD OEM server partners, led by HP and Dell, now offer more than 40 6000-series platforms and over 20 4000-series platforms as of the end of this past quarter.
+In graphics, we are about to complete our first full year of top to bottom DX11-enabled products. We were very pleased that Apple refreshed their Mac and Mac Pro desktop computers with our new Radeon GPU line, making Radeon GPUs the only graphics solution for all configurations of these products. To date, we have shipped over 25 million DX11 GPUs, and we will be launching our second-generation DX11 graphics offerings next week.
+Customer and partner enthusiasm continues to grow for the industry's first accelerated processing units, or what we call the AMD Fusion family of APUs. Our first APU platforms, codenamed Brazos, and based on our Zacate and Ontario processors, are expected to bring many of the vivid digital computing experiences once reserved for high-end PCs to value and mainstream notebooks and desktops early next year.
+Brazos is ahead of schedule, with customer shipments on track for the fourth quarter and customer systems available early next year. The AMD Fusion family is a game-changer that will significantly expand our addressable market and is already changing the way the industry harnesses the power of the GPU.
+Production shipments of Llano, our 32 nanometer APUs, are planned to occur in the first half of next year as well. Meanwhile, industry anticipation of our new Bulldozer core is high and growing. We remain on track to ship Bulldozer-based server and desktop processors next year.
+So to summarize, AMD's third quarter demonstrated a number of important and positive aspects of our plans for future success. Our new business model is solid, as we showed, improving margins and free cash flow in a softer-than-anticipated consumer PC environment.
+Our VISION program is working, as we emphasize graphics and end-user experience to differentiate our offerings and sell up the stack. And, our AMD Fusion strategy is changing the industry, as the revolutionary potential of vivid GPU-accelerated applications is becoming a reality. And the performance, value, and power efficiency of AMD Fusion platforms, starting with Brazos, will be compelling.
+We remain focused on growth inside the largest-margin pools in our industry, and our combination of intellectual property, customer relationships, and design and marketing expertise gives us increasing confidence in our capacity to thrive while developing that opportunity in the years ahead.
+With that, I'll turn it over to Tom.
+Thomas Seifert
+Thank you Derek. Third-quarter revenue was $1.62 billion, down 2% compared to the second quarter of 2010 and up 16% compared to the same period a year ago.
+We reported non-GAAP net income of $108 million in the third quarter of 2010. To calculate the non-GAAP net income, we excluded our shared financial results and other equity accounting adjustments related to GLOBALFOUNDRIES, a non-cash loss of $186 million. As usual, we also excluded the $16 million amortization of acquired intangible assets and a $24 million charge related to our repurchase of $800 million of our 6% notes in August.
+Our non-GAAP diluted EPS of $0.15 in the third quarter is calculated using 731 million shares. Third quarter non-GAAP operating income was $144 million, excluding the amortization charge I mentioned already.
+Gross margin for the quarter was 46%, up 1% compared to last quarter. The increase was mainly due to ongoing improvements in cost management and product mix.
+Operating expenses in the quarter were $595 million. R&D was $359 million, and SG&A was $236 million, which includes the marketing expense accrual impact of approximately $30 million, as guided.
+Spending came in lower than our opex guidance of $630 million, as we managed costs and expenses to align with the lower revenue in the quarter.
+Third-quarter adjusted EBITDA was $245 million, up $1 million from the previous quarter.
+Non-GAAP adjusted free cash flow was $91 million, resulting in $344 million of non-GAAP adjusted free cash flow year to date.
+Now, switching to the business segments. In the computing solutions segment, third-quarter revenue was $1.23 billion. We recorded our second straight record quarter of mobile processor unit shipments. Notebook processor ASP was up sequentially, as AMD-based multicore notebook platforms continued to penetrate higher-priced market segments.
+We saw single-digit sequential gain in desktop processor revenue, primarily driven by channel sales in China, the Americas, and Europe. Opteron 6000 and 4000 series processors continued to gain traction, representing nearly half of server processor revenue in the quarter. Overall, microprocessor ASP declined slightly compared to last quarter, but increased year-over-year.
+Computing solution segment operating income was $164 million, compared with $128 million in the second quarter of 2010.
+In the graphics segment, revenue for the quarter was $390 million, down 11% sequentially. The sequential decrease was driven primarily by lower mobile GPU shipments in the quarter, offset slightly by higher desktop graphics shipments in the AIB channel, and double-digit revenue growth in workstation graphics.
+GPU ASP decreased sequentially due to greater mix of value segment products, but increased year-over-year. We researched next generation GPUs in the quarter while in development, which we expect to sell in the fourth quarter.
+Operating income was $1 million, compared with $33 million in the second quarter.
+Now, turning to the balance sheet. Cash, cash-equivalents, and marketable securities balance at the end of the quarter was $1.73 billion. The decrease from the second quarter was primarily due to the repurchase of $800 million of our 6% convertible senior notes, offset by non-GAAP adjusted free cash flow and proceeds from our issuance of 500 million of 7.75% senior notes, which are due in 2020. Long-term debt, as of the end of the third quarter, was down to $2.2 billion.
+This quarter there's a new line item on the balance sheet related to our investment balance in GLOBALFOUNDRIES, called "accumulated loss in excess of investment in GLOBALFOUNDRIES." As of the third quarter, this balance turned negative and is therefore reflected on the liability side of the balance sheet. Based on the current structure of our wafer supply agreement, and our ownership and governance relationship, we are required to record our share of the equity losses in excess of the carrying amount of our investment balance.
+We will continue to assess the appropriateness of the current accounting treatment and make changes as needed based on circumstances.
+Now let me turn to the outlook. The following statements concerning AMD are forward-looking, and actual results could differ materially from current expectations. For the fourth quarter of 2010, we expect revenue to be approximately flat as compared to the third quarter.
+Operating expenses are expected to be approximately $610 million, which includes the remaining impact of marketing program expenses accrual we introduced in the second quarter. Recall that we now accrue marketing expenses earlier and closer in line with revenue development. The transition to the new marketing program is expected to be completed in the fourth quarter.
+Interest expenses are expected to be lower moving forward, due to the re-profiling of our debt maturities, which reduced our approximate quarterly interest expense to $48 million. This results in a quarterly savings of about $8 million. We expect tax provision in the fourth quarter to be zero.
+In conclusion, we continue to drive profitability and free cash flow generation as we execute our business model, focusing on growth and more profitable market opportunities, which we will look forward to discussing at our financial analyst day on November 9.
+At this point, I would like to turn it back to Ruth for Q&A.
+Question-and-Answer Session
+Ruth Cotter
+Operator, we'd be happy to take some questions, please, from participants. If you could poll the audience, that would be great. Thank you.
+Operator
+Thank you Ms. Cotter. [Operator instructions.] Our first question comes from Uchi Orji.
+Uchi Orji - UBS
+Well, first of all, congratulations on keeping the expenses as tight as you did and on the numbers you put out. Let me just start off by asking you about notebooks. I'm just trying to understand if the U.S. was weak and Western Europe was weak, when you pre-announced, what drove these trends in notebooks? And also if you can talk about how much of the mix is multicore, quad-core notebooks, and what sort of applications are compelling people to buy these kinds of quad-core notebooks?
+Dirk Meyer
+Well sure. First of all, as we said in our pre-announcement, we saw, as compared to our beginning of quarter plans, relative weakness in North America and Western Europe consumer markets for notebooks. That's not to say that the markets were experiencing negative growth on a PC consumption basis. Simply PC consumption was weaker than the plans that we had and that our customers had. That said, emerging markets still represented a pretty good source of growth. In particular, China was still a strongly growing market in Q3, although the growth rate there was again lower than what we saw in the first half.
+Your second question was pertaining to the mix of the AMD notebook platform and the fraction of our shipments that were triple- and quad-core, and we don't go into specifics on that other than to say - as I said in my opening remarks we did see a relatively richer mix of triple- and quad-core Phenom, VISION branded notebooks, which contributed to an increased ASP. And our message there, and motivation to get consumers to buy, is really around the multimedia experience for these machines, particularly around video processing, the codex or threaded applications that run better on a multi-core platform. So that's an example.
+Uchi Orji
+And just let me ask you about servers, Magnecores. Last quarter you mentioned that the optics were a little disappointing and I just want to understand what progress you've made there. And then also, switching to graphics, if you can talk about how you see yourself with Fusion against Sandy Bridge. The key concern we have with the graphics business is that the value added buy products like Sandy Bridge could produce a [touch rate] for graphics. Any comments as to how you see the graphics market evolving through the introduction of those products?
+Dirk Meyer
+Sure, I'll take the second one first, and that was around graphics. From my perspective, to the extent that the industry conversation is increasingly a conversation around graphics, I just think that's awesome news for AMD, since we've got the world's best graphics. And clearly graphics capability is increasingly important to consumers, given what they do with these machines.
+The chatter in the industry is, of course, is that Sandy Bridge has improved graphics capability as compared to Intel's previous integrated graphics platforms, and while we expect that to be true, we also expect that capability is not going to be at the leading edge of capability that consumers demand.
+An example of that is the modern graphics standard these days is the Windows 7 DX11 standard, which it's our understanding that the Sandy Bridge doesn't support. So the information that we get from our OEMs suggests that the OEMs are still interested in having a discrete graphics step up for their SKUs so that they can in the market sell a richer mix of systems. Does that answer your second question?
+Uchi Orji
+It does, but what about our [touch rates] for graphics in general if you bring in this kind of stability for something like Fusion as well as Sandy Bridge? Do you think that we see [touch rates] for -
+Dirk Meyer
+You know, we're not really planning that in the near term, meaning in the next couple of quarters. I think as you look out over time and speculate as to how we and Intel use increasing effective silicon area from technology node to technology note, you might assume that more and more of that die area gets devoted to graphics, which could over time eat into the low end of the discrete GPU market, but I think that's more of an out in time sort of phenomenon. Certainly not a next year situation.
+Uchi Orji
+Okay. And the question on servers?
+Dirk Meyer
+Your next question on servers, I'll first remind you of the picture. So the Magnecor technology was launched, in effect, by us in March. The Opteron 6000 platforms from our OEMs really only came online at the end of Q2 and of course the Opteron 4000 platforms started showing up from our OEM partners really in the end of Q3.
+So in a lot of ways we're a quarter into seeing OEM platforms in the market. As Thomas said, we did see a pretty good ramp of Opteron 6000 platforms within our product line, and that platform represents about half of our unit shipments in the current quarter, so I think Opteron 6000 is ramping pretty well.
+The next opportunity of course is for us to ramp the Opteron 4000 platform, which has really only just become available and represented hardly any of our shipments in the current quarter. So now that we walk into Q4 with what I'll call the full arsenal, I think we'll be in a position to benefit from some share growth.
+That said, I would characterize the ramp so far as good, but not as good as we think we can do given the great value proposition of these platforms.
+Uchi Orji
+So with that, if we're looking today at quarter guidance of flat revenues, would that kind of mix - what kind of impact to margin should we be anticipating for next quarter?
+Dirk Meyer
+I don't want to forecast margins specifically, but we are forecasting flat, and I think we've got an opportunity to better than flat in servers.
+Operator
+Your next question comes from John Pitzer of Credit Suisse.
+John Pitzer - Credit Suisse
+Dirk, maybe as a follow-on to that last comment you just made, I'm just kind of curious, relative to that flat revenue guidance, how you see graphics trending after the pause in the September quarter. And then mobile desktop, and I guess you're flat, is that assuming that you trend in line with market conditions, or that the fourth quarter is still a share gain quarter for you?
+Dirk Meyer
+We don't forecast share gains, but I can give you some color on the thinking that causes us to guide flat. First, I think it's very clear that PC OEMs worldwide were really - and the entire supply chain - leaving Q2 was really thinking and planning for continued I'll call it explosive growth of consumer PCs. And as the consumption at the consumer level started to dampen a little bit into Q3 I think we saw a reaction across the supply chain aimed at bringing down or preventing an inventory build. We don't think that process is complete as of the end of Q3 and in fact will continue going into Q4. And that's why we're guiding flat on a sales-in basis. But we still do see positive sequential growth for PC consumption.
+Now it's kind of hard to pick it apart component by component, GPU, and CPU, and I think we'll refrain from doing that.
+John Pitzer
+Well Dirk, just a little bit of color. The sequential decline in graphics, is that just a case that you were able to gain share in CPU and your graphics share is pretty static, and so you followed the graphics market in the September quarter?
+Dirk Meyer
+I think your question is probably okay, what happened with discrete notebook graphics? Why are we saying we're down? That's the spirit of your question?
+John Pitzer
+Yes.
+Dirk Meyer
+It's a good question, and I think there's probably three factors. And it's really hard to assign a number to the three, but first of all I think with the benefit of hindsight we probably saw in Q2 some customers double ordering from us. There was chatter in the industry that our foundry supplier for GPUs was short, our supplies were short. And therefore we probably saw OEMs trying to ensure they had enough inventory to cover whatever demand scenario unfolded. And therefore as demand weakened a little bit we probably saw OEMs want to start to drain their notebook GPU inventory. So that's factor number one.
+Factor number two, I think there's probably no question that some of our customers, in response to our real or perceived GPU shortages, created NVIDIA capable notebook platforms, just to protect their position and ability to ship. So it's possible we suffered a little bit of share loss in the quarter.
+And finally, we saw, at least anecdotal evidence, of OEMs de-featuring the discrete graphics option in response to the dramatic weakening of the euro that occurred 90 days ago. So the OEMs have price points committed in the market and therefore want to reduce their costs to protect their margins. So I think we saw a little bit of that in Europe for sure.
+Hard to assign percentages to each of those, but those are the three factors I would say.
+John Pitzer
+That's helpful. If I could just make one last one. Just kind of curious around Ontario. Help us understand the ASP and gross margin and is there any update on Llano from a manufacturing standpoint?
+Dirk Meyer
+Second one first. The plan is still to ship Llano in the first half of next year as we cited 90 days ago in this call. And I think I'll refrain from giving you a lot of specifics on Brazos because we're a mere three weeks away from our financial analyst day, where we'll give you lots of detail.
+Operator
+Our next question comes from Glen Yeung, from Citi.
+Glen Yeung - Citi
+Dirk, I know I may be barking up the wrong tree given your last comment, but I'll ask it anyway. When you look out at the netbook opportunity, and I think Brazos is initially going to be oriented there, how do you see that opportunity shaping up for AMD? And maybe as you respond to that, any perspective you may have on the impact of tablets on the growth or potential in that market next year?
+Dirk Meyer
+First, the technology that we put under the broad umbrella of the Brazos platform has two CPU SKUs, one codenamed Ontario, that's targeted at netbooks. The other is Zacate, that's targeted at more full-featured mainstream notebooks, low-cost mainstream notebooks - 14-, 15-inch display. Turns out a lot of our Brazos design wins are really in the low end of the mainstream category. So there, what we see is really a substitution and new technology-informed factors and price points where we participate today, though probably with components that are better suited to those price points. That is, lower cost.
+Netbooks represent the other big chunk of the design wins we see. Clearly that's a category that we've barely participated in. So that's all, I'll say, SAM expansion for us. The last question was what's the tablet factor, and I think clearly the last quarter or two the tablet represented a disruption in the notebook market. If you ask five people in the industry you'll get five different answers as to what degree there's been cannibalization by tablets of either netbooks or notebooks. I personally think the answer is both, given the pretty high price points of the iPad. There's probably some cannibalization even of mainstream notebooks.
+We still believe in the long term that tablet form factor is accretive to the market opportunity for companies like AMD. So hopefully that answers your question.
+Glen Yeung
+No, that's helpful. Can I just ask a follow up on netbook opportunity? Do you think that you can get the same amount of share in netbooks that you enjoy in notebooks overall? Do you think the Ontario offering is that good? The reviews seem quite good.
+Dirk Meyer
+Well, you know, as a reference point our notebook share is sitting pretty low at 13%, 14%, which I don't find very inspiring, and I would certainly hope we could do even better than that, not only in notebooks over time, but also in netbooks. So the answer is yes with all capitals.
+Glen Yeung
+Good to know. One last question here has got to do with discretes. We've now had the first half or first quarter of 2011 notebook designs completed and I wondered if you had any sense within that - I think you may have said this earlier but just double checking - any sense within that as to whether or not attach rates for notebooks look to have been impacted at all by some of these hybrid type microprocessors going in?
+Dirk Meyer
+I think it's too early to call, because what matters of course is sell-out, and we're not going to know that until we're there. As I said in response to a prior question, we continue to see OEMs expressing interest in having a SKU lineup that includes a step up to discrete graphics. And that remains true next year.
+Operator
+Our next question comes from Jim Covello, Goldman Sachs.
+Jim Covello - Goldman Sachs
+If I could just follow up on the tablet or the iPad question, I guess one concern or thought is that the areas of weakness this quarter were the only areas where the tablet was shipping in terms of consumer and the established markets, and now that the tablets are shipping into some of the emerging markets it could have a more significant impact. I guess the question is how much have you worked that into your guidance for the out quarter?
+Dirk Meyer
+We have certainly factored in every environmental factor we know of, including that one, so that would be the short answer. I would say again, going beyond that, there's no question that the tablet phenomenon has been a source of volatility relative to any of our customers' ability to predict the market. But as you'll hear from us when we have our financial analyst day, we're still, tablet aside, looking at a prospect based on everything we can tell, of pretty healthy notebook growth next year, and we'll give you more detail in a couple of weeks.
+Jim Covello
+Okay, and if I could just follow up on that. There's a slight difference, it's not huge, but a slight difference in the sequential guidance for yourselves and your competitor. Do you think maybe you guys are taking a little more of a cautious or conservative approach relative to the tablet cannibalization? Or do you think it has something to do with graphics? Or are there other factors, or maybe just small enough that it just kind of falls into the noise factor?
+Dirk Meyer
+From everything I know the 3% difference roughly is noise and within the air bars of any prediction.
+Jim Covello
+Okay, so nothing specific that you would be making a call on as different from what your competitor is saying?
+Dirk Meyer
+No.
+Operator
+Our next question comes from Doug Freedman of Gleacher.
+Doug Freedman - Gleacher & Company
+Dirk, if you could focus a little bit on the GPU product line, I believe you guys are due to refresh that product line. Can you give us any idea of timing, when we're going to see that and what impact you might expect to see out of that?
+Dirk Meyer
+Sure. As I said in my opening remarks, we'll be introducing our second-generation of DX11 technology into the market with some launch activities actually next week. We'll be shipping all the family members of that product line I'll call it, by the end of this quarter, and total volume think in terms of several hundred thousand, or hundreds of thousands of units.
+Doug Freedman
+Do you think that there was any sort of a pause in front of your products refreshing given the fact that many of them have been in the market for quite a while?
+Dirk Meyer
+No. I don't really think that was the factor. As we said, the one area of sequential weakness we saw was in notebooks, and we attribute that to the three factors I outlined earlier, not a market stall waiting for new technology.
+Doug Freedman
+Okay. And moving on, if we look at the APUs and their introduction to the market, you've already commented a bunch on the impact on GPU attach. How about your ability to garner dollar share in the systems? What are you expecting the APUs to do as far as ASPs and if you could give us some idea if they're having any incremental benefit around the margins that you achieve as well?
+Dirk Meyer
+We'll talk about this in greater length, Doug, at financial analyst day, but in a nutshell we expect the APUs to provide an opportunity for us to get more platform design wins and get a greater percentage of sell-out based on the differentiated value proposition, which comes really in two forms. Number one, superior graphics performance at better price points and better power points than is available from the competition, as well as a little bit of initially increasingly over time the ability of the APU and the GPU within the APU to pick up more of the workload for these media-centric, user interface-centric applications and therefore be able to deliver a more vivid experience to the user. And we'll talk about some of the applications that we have in mind at the financial analyst day. So the results should be the opportunity for not only better share, but a richer mix and more sell-up based on our APU technology.
+Doug Freedman
+Terrific. And my last question really you've already touched on a bit, the tablet market. Can you give us an idea when your products will be able to go after this market and what are the processing demands, whether it be a power envelope that the tablet market is seeking, and how long will it be before you have a product for that market?
+Dirk Meyer
+Good question. And again, I expect we're going to see tablets of various form factors and thicknesses over time. From everything we understand today, which is - this is still a pretty new market - a tablet would optimally have a maximum power dissipation of two to three watts, which is a little more than half of what I'll call a "fan-less" notebook would tolerate, though I would expect that customers will take components that were really designed with the netbook in mind and put them in tablets. And I think you'll see AMD-based solutions in tablets in the next couple of years, for that reason.
+Our overall strategy with respect to tablets is to first observe that that's a form factor that we think is going to grow over time and be important over time as I said, and be accretive, and one which we'll devote specific R&D energy towards when the market is big enough to justify that investment. Frankly, we're still so small in the notebook market that given all the opportunities in front of us it doesn't make sense for us to start turning R&D dollar spending towards the tablet market yet. We'll start doing that when the market is big enough, and then you can anticipate we'll show up with a differentiated offering with great graphics and video technology, and so on. And we'll talk in a little bit more detail at financial analyst day on that one too.
+Operator
+Our next question comes from Tim Luke, Barclays Capital.
+Tim Luke - Barclays Capital
+I see that Uchi set the tone with the question, so I'll try to keep my questions to single digits tonight. [Laughter.] I was curious - it sounds like you're guiding for your server to be up somewhat. With the other segments, are they largely anticipated to be flat? Or are we factoring in that one of the notebook, desktop, graphics is likely to be somewhat lower? And then maybe for Thomas, could you give us some sense of what you think the key variables going forward may be with respect to your gross margin looking forward?
+Dirk Meyer
+It's a good question, and I respect it, but I think maybe you're assigning too much weight to my concluding comment. Overall, our guidance is flat quarter on quarter. If you look at our server business and I think there's reasons to believe we can do better than that, but we're not giving guidance on a per-product line basis - notebook, desktops, server, GPU - so therefore I really don't want you to put too much weight on color commentary that I'm trying to give beneath the overall headline, which is flat guidance quarter on quarter for AMD as a company.
+Thomas Seifert
+So let me comment on the gross margin for the quarter. There's gives and takes this quarter. We will face a little bit of headwind coming out of the exchange rate volatility in the last couple of weeks. The euro has strengthened significantly, so we have to deal with that. And we also will see some headwinds from the product mix in the fourth quarter, which is generally more consumer-driven. On the other side we have been rather successful the last two quarters putting significant effort on increasing productivity and getting manufacturing costs down and we will continue in that direction also this quarter. And then we'll see some positive effects from the first APU shipments that will help our gross margin expansion. So those are the gives and takes for the quarter, and we are quite optimistic that we are in good shape.
+Tim Luke
+Lastly, if I may, you said the Llano product is still on track for the first half of next year. Could you give us any color on what you think is going to be key in terms of getting that product to market in that timeframe, and what you think some of the key variables may be. Thank you.
+Dirk Meyer
+We'll go into more detail in a couple of weeks, Tim, but as a signpost I'll say our volume samples at customers in Q1, followed by a steep production ramp and shipments in the first half.
+Operator
+Our next question comes from Shawn Webster of Macquarie.
+Shawn Webster - Macquarie
+I was wondering if you could give us an update on the utilization rate charges and how those may - what those did in Q3, and how you expect them to change or evolve moving forward the next couple of quarters.
+Thomas Seifert
+Since our volume pretty much was flat Q2 to Q3, utilization rates really have not changed in a meaningful way in the third quarter. And keeping our guidance in mind, for the fourth quarter we don't expect any big changes in the current quarter either.
+Shawn Webster
+So is the expectation still that as we go into Q2 next year the benefit you'll get from taking the underutilization charges out will be 50 to 100 basis points still?
+Thomas Seifert
+The mechanics are not going to change because of the demand questions. I don't want to really comment now on 2011 impact. We'll go into more detail with respect to our guidance for next year at the analyst day. But for the fourth quarter you should not expect any big swings.
+Shawn Webster
+Okay. And then within the segments, did server revenue increase sequentially, and can you give us an update on the chip set part of your business, how the business evolved there for Q3 for you?
+Dirk Meyer
+Server revenues were roughly flat sequentially and chip set revenues were down.
+Shawn Webster
+And then how do you find - you said that you had slight declines in average pricing, but how is the pricing environment now for the last three to four weeks? Some of us have heard that pricing has been more competitive than usual. Would you describe it as the same as always, or more or less competitive?
+Dirk Meyer
+I wouldn't say that there's anything exceptional in the environment.
+Shawn Webster
+Okay. And then maybe the last one for me is when things look really lean out there, as we went through Q1, Q2, but then it looked like there was excess inventory building, where do you see the excess inventory now? Is it in the channel? Is it at OEM customers, distributors? Where do you guys see the excess?
+Dirk Meyer
+In our case - can't speak for the whole market - the component distribution channel seems relatively okay. Where we saw a reaction was more across the notebook supply chain, from ODMs all the way through OEMs into ROEM channels. So across the entirety of that supply.
+Operator
+Our next question comes from Ross Seymoure, Deutsche Bank.
+Ross Seymore - Deutsche Bank
+Kind of following on that last question, you mentioned that you expected the inventory adjustment to continue in the fourth quarter. Do you think it will be finished in the fourth quarter?
+Dirk Meyer
+We do. So we expect to see sequential growth of PC consumption in Q4, and again we're forecasting roughly flat with the anticipation that we'll kind of normalize by the end of the quarter.
+Ross Seymore
+And maybe a little bit more for Thomas, what do you expect your internal inventory to do sequentially?
+Thomas Seifert
+We had a slight buildup, a modest buildup in Q3. We will try to keep it flat in the fourth quarter.
+Ross Seymore
+Great, and then on the GPU side, when you talked about - I guess on the CPU side - that your notebook units were not as good as you'd hoped, but still positive in the quarter. Did some of the bundling that you had expected to do kind of break down as part of the GPU weakness?
+Dirk Meyer
+No, I don't think so. Again, we saw unit growth sequentially in MPUs, and I would just attribute that notebook GPU situation to the three factors I outlined earlier as opposed to, say, there was some sort of bundling breakdown.
+Ross Seymore
+And I guess the last one from me, one of those three factors that you mentioned was the de-featuring, specifically in Europe. What are your thoughts on that either ending or continuing as we go into the fourth quarter?
+Dirk Meyer
+Well, the euro has strengthened again here, and again, what I referenced are anecdotal examples, and therefore it was hard for me to characterize how strong a factor that was. I wouldn't highlight it as a factor for Q4.
+Operator
+Our next question comes from Chris Danely of JP Morgan.
+Christopher Danely - JPMorgan
+Dirk, so you said that pricing is more or less normal. With things slowing down a little bit this quarter and heading into the seasonally weaker time of year in the first half next year, should we, or would you expect pricing to get a little more squishy, or do you think it would hold up?
+Dirk Meyer
+Well, we're of course the small player in the market, so I can only tell you what our strategy is, and that is to protect and grow our margins and not have a bloody fight for share. So our strategy is certainly to get good value from the product, have a good footprint in the marketplace, but protect our margins.
+Christopher Danely
+Sure, and that's fine. And then second question is your competitor threw out a mid-teens PC growth for next year. Is that something you feel comfortable with? Do you think that's reasonable?
+Dirk Meyer
+I think we'll give you a finer point on it at financial analyst day, but certainly double-digit growth seems reasonable for next year.
+Christopher Danely
+Great. And then last question, which is a little more, I guess, futuristic. So if we're sitting here a couple of years from now, how much of your business would ideally be made up APUs? Just say a couple of years out, after it's been out for a while.
+Dirk Meyer
+Oh boy, that's really not even a next year question, but a beyond next year question, which I really want to punt to the financial analyst day in three weeks.
+Christopher Danely
+I'll take next year instead if you've got that. [Laughter.]
+Dirk Meyer
+Well we'll wait for three weeks.
+Operator
+Our next question comes from Ambrish Srivastava of Banker Montreal.
+Ambrish Srivastava - Banker Montreal
+Just a question on the reported quarter and Dirk, if you did mention it I apologize, I probably didn't get it. On the server side, did you give color on the units and ASPs, and then I had a quick follow up.
+Dirk Meyer
+We didn't, but I can tell you that sequentially we were roughly flat in all dimensions, revenue, units, and ASPs.
+Ambrish Srivastava
+Switching to graphics, the profitability is pretty volatile but over the last three quarter it's been sequentially down very consistently. So now we are at roughly no operating income. Does that turn around, or what is the outlook over the next couple of quarters for that?
+Thomas Seifert
+Good question, and Dirk already mentioned it. Profitability is the big focus, and we put that focus also on our graphics business. However, the third quarter was a bit special. We saw a significant sequential decline in revenue and with that a loss in gross margin that we could not compensate for. And then we also mentioned that we had an inventory adjustment in terms of putting up a reserve for the new products that have not been qualified yet, but will be shipping this quarter. So we are just a week or so away from launching our second-generation of DX11 products. Those two effects I think you have to keep in mind when you look at the profitability of the graphics segment. However, moving forward we'll put enough focus into that segment to make sure that we earn the right amount of money.
+Ambrish Srivastava
+My interpretation is that we're not looking at a near-term or protracted price war, now that both of you have kind of competitive products out there.
+Thomas Seifert
+Yes.
+Operator
+Our next question comes from Patrick Wang of Wedbush Securities
+Patrick Wang - Wedbush Securities
+My first question is just on the 32 nanometer Fusion parts that are coming out here. You talked about some challenges when you updated your product launch schedule last quarter. Just curious how pleased you've been with the yields. How has hit ramped just over the last couple of months here?
+Dirk Meyer
+The high order answer is that we can't say we're pleased in the sense that we announced last quarter that the yields were not at the level of maturity that we had planned. And for that reason, as well as for a few others we mentioned, we moved the ramp back into next year. If your question is what kind of progress we're making, I'll say that over the last 90 days the GLOBALFOUNDRIES team has made progress, are building momentum, and we need to see that progress continue into next year, and we expect them to do so.
+Patrick Wang
+Okay, so no real change off of your most recent updates?
+Dirk Meyer
+Correct.
+Patrick Wang
+And then when we think about your upcoming Bulldozer core, are there any particular milestones you start thinking about?
+Dirk Meyer
+You're probably asking milestones that will be externally visible or that we'll talk about?
+Patrick Wang
+Yes.
+Dirk Meyer
+We'll start generating limited samples to customers before the end of this year, volume samples in the first half of next year, and support of production next year.
+Patrick Wang
+And then it seems like your microprocessor mix could have improved a little bit last quarter, yet your ASP has declined. Can you help us characterize where you saw some lower pricing?
+Dirk Meyer
+Well, you know, the decline first of all wasn't very big. As I said, the server ASPs were roughly flat. Notebook, as a result of richer mix of triple- and quad-core came up and desktop came down, largely through mix shifts. And the puts and takes across those three factors is resulting in a modest decrease sequentially and in overall MPU ASPs.
+Patrick Wang
+And then last question, just on graphics. I'm just curious how much of an impact did you see last quarter from a high volume desktop part from your competitor. And then when you look into the next few months leading into the holiday season how do you feel that you're positioned with your 40 nanometer refresh?
+Dirk Meyer
+Clearly NVIDIA came out with some more-competitive DX11 products, finally, and those had some impact in the marketplace, although as I said we've now shipped 25 million DX11 parts and are going to refresh the product line top to bottom this quarter. So we feel very bullish about where we'll leave the year competitively.
+Patrick Wang
+Gotcha. So lock-and-loaded.
+Dirk Meyer
+Yep.
+Ruth Cotter
+Operator, we'll take two more questions please.
+Operator
+Yes ma'am. Our next question comes from David Wong of Wells Fargo.
+David Wong - Wells Fargo 
+With your current schedules will Llano appear in systems and ramp before the Bulldozer desktop and server ships, or after the Bulldozer desktop and server ships?
+Dirk Meyer
+Before.
+David Wong
+Llano will be before? Okay, and just a clarification on something you said earlier. Did you say that desktop processor revenues grew sequentially in the quarter?
+Dirk Meyer
+Yes.
+David Wong
+Great. And my last question, server ASPs flattish, are you seeing a transition to Magnecors in the four-way space? So is there something else offsetting the lower four-way price of Magnecors, or is that transition happening relatively slowly, which is why server ASPs are not going down?
+Dirk Meyer
+Good question. So the 6000 series replaces the 4000 and the 2000, so I would say there's a negative effect on ASPs to the extent the 6000 replaces 8000, but a positive effect as the 6000 replaces the 2000. And at least in the past quarter the two effects cancelled and we remained roughly flat.
+Operator
+Our next question comes from Stacy Rasgon of Sanford Bernstein.
+Stacy Rasgon - Sanford Bernstein
+Just a couple of quick questions. Number one, around the inventory, so it's up 7% this quarter, I'm just curious to the extent that that inventory build might have contributed to higher utilization and a little bit of margin support this quarter. And given that you're guiding to inventory dollars I assume about flat next quarter is there a potential utilization hit given flat revenues as well. What are the implications on margins in Q4 from that?
+Thomas Seifert
+Negligible I would say. So we did not really benefit on the gross margin side this quarter from the inventory effects. I think we did, keeping the revenue development in mind, a pretty good job keeping inventory growth at a modest level. And I don't expect any major impact on the gross margin in the fourth quarter.
+Stacy Rasgon
+Got it. Next quick question, around the servers. So we had server units, ASPs, and revenues all about flat compared with your competitor where server revenues were up a bit and maybe units as well. I know you guys lost a bit of share in calendar Q2, does this sort of imply you were maybe continuing to lose a bit of server share in Q3 as well? And I'm wondering when - it sounds like you're looking for a bit more share gain maybe in Q4. But if you could just give us a little more color on where you think share went in Q3 I think that would be helpful.
+Dirk Meyer
+Well, I think you've summarized the situation as well as I could, and as I said in response to a previous question the opportunity for us is to do an even better job of getting the end-users to understand the great value proposition that we have around the 6000 series as well as the opportunity we have with the 4000 series finally being in market from our OEMs.
+Stacy Rasgon
+Why do you think you haven't been so successful with that yet?
+Dirk Meyer
+Well, I just think that it's a big market and with products only in the market for roughly 90 days there's a seed program, a certification cycle, before enterprise buyers really start to buy, so this is not a consumer marketplace where boom, the product's there and everybody turns on to it immediately.
+Stacy Rasgon
+Got it. And one more quick question. Can you just let me know how big the capital call was, and how it was funded in terms of - was it 80% class A equity, 20% class B?
+Thomas Seifert
+We did not participate. The capital calls in total were about $300 million.
+Stacy Rasgon
+And in terms of how it was funded, just so I can make sure my capital structure model is right?
+Thomas Seifert
+The way you mentioned it -
+Stacy Rasgon
+80% class A, 20% class B. Great.
+Ruth Cotter
+Operator, that concludes our earnings conference call and we'd like to thank everybody for participating and look forward to seeing you at our analyst day on the 9th of November. Thank you.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts, please contact us at: transcripts@seekingalpha.com. Thank you!

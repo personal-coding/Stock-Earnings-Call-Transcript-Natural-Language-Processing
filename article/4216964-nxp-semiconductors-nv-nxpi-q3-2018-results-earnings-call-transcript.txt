@@ -1,0 +1,308 @@
+NXP Semiconductors NV (NASDAQ:NXPI) Q3 2018 Earnings Call November 1, 2018 8:00 AM ET
+Executives
+Jeff Palmer - NXP Semiconductors NV
+Richard Lynn Clemmer - NXP Semiconductors NV
+Peter Kelly - NXP Semiconductors NV
+Analysts
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Vivek Arya - Merrill Lynch, Pierce, Fenner & Smith, Inc.
+William Stein - SunTrust Robinson Humphrey, Inc.
+Matthew D. Ramsay - Cowen & Co. LLC
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Harlan Sur - JPMorgan Securities LLC
+Toshiya Hari - Goldman Sachs & Co. LLC
+C. J. Muse - Evercore Group LLC
+Christopher Brett Danely - Citigroup Global Markets, Inc.
+Tore Egil Svanberg - Stifel, Nicolaus & Co., Inc.
+Operator
+Good day, ladies and gentlemen, and welcome to the Q3 2018 NXP Semiconductors Earnings Conference Call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will follow at that time. As a reminder, this conference is being recorded.
+I would now like to introduce your host for today's conference, Jeff Palmer, VP of Investor Relations. Sir, you may begin.
+Jeff Palmer - NXP Semiconductors NV
+Thanks, Amani, and good morning, everyone. Welcome to the NXP Semiconductors third quarter 2018 earnings call. With me on the call today is Rick Clemmer, our CEO; and Peter Kelly, our CFO.
+If you've not obtained a copy of our third quarter 2018 earnings press release, it can be found at our company website under the Investor Relations section at nxp.com. Additionally, we have posted on our Investor Relations website, a supplemental earnings summary presentation, and a document of our historical financials to assist you in your modeling efforts.
+This call is being recorded and will be available for replay from our corporate website. Our call today will include forward-looking statements that involve risks and uncertainties that could cause NXP's results to differ materially from management's current expectations. These risks and uncertainties include, but are not limited to, statements regarding the macroeconomic impact on the specific end markets in which we operate, the sale of new and existing products, and our expectations for financial results for the fourth quarter of 2018. Please be reminded that NXP undertakes no obligation to revise or update publicly any forward-looking statements. For a full disclosure on our forward-looking statements, please refer to our press release today.
+Additionally, during our call today, we will make reference to certain non-GAAP financial measures which exclude the impact of purchase price accounting, restructuring, stock-based compensation, impairment, merger related costs, and other charges that are primarily driven by discrete events that management does not consider to be directly related to NXP's underlying core operating performance.
+Pursuant to Regulation G, NXP has provided reconciliations of the non-GAAP financial measures to the most directly comparable GAAP measures in our third quarter 2018 press release, which will be furnished to the SEC on Form 6-K and be available on NXP's website in the Investor Relations section. Like to now turn the call over to Rick.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Thanks, Jeff, and welcome everyone to our conference call today. Overall, our revenue growth in the third quarter was good and our results were better than our guidance. We resumed our buyback program and as of yesterday, we have now returned just under $5 billion to our owners, and also initiated a $0.25 per share cash dividend.
+Our outlook for fourth quarter reflects a wider than normal top line revenue range due to the cloudy demand environment. Our top line revenue expectations are driven by content gains which, combined with improved operating expense control and lower share count, should result in earnings above analyst expectations.
+Before we discuss the details of the third quarter, we'd like to make a few comments on the trends we are seeing in our business. We do not have any unique insight into the macroeconomic environment. We can only speak to what our customers and supply chain partners are telling us, and what in turn is reflected in our order books. We realize there's a significant amount of investor angst about the next couple of quarters in the semiconductor market. What we have seen in the automotive market is a modest slowdown primarily due to the WLTP testing bottlenecks in Europe and lower car sales in China.
+As it pertains to the industrial MCU market, we've seen a slight sequential weakening of order rates through distribution in China which we believe reflects the heightened sense of caution by our customers on placing orders given the shifting and the uncertain landscape in global trade and tariffs. To be clear, we have not experienced any weakness in the typical leading indicators including unusual backlog cancellations or any program cancellations. It is also not clear to us that there is any excess NXP inventory in our customer supply chain.
+In summary, while the environment is uncertain, we feel customer demand is okay and we are making the right product development investments which are aligned with the right customer engagements. Taken together, we are confident that we will successfully achieve our strategic and financial goals as presented at our recent Analyst Day.
+Now looking at the specifics of the third quarter, total revenue was $2.45 billion, an increase of 2% year-over-year. Our HPMS segment revenue was $2.35 billion, up 3% year-on-year. On an operating segment perspective, Automotive third quarter revenue was $990 million, up 4% year-on-year, with advanced analog and radar contributing to the year-on-year growth, while reduced pulls of automotive MCUs from Tier 1 customers impacted the overall year-on-year growth we had been experiencing.
+Looking forward, design win momentum continues to be strong in strategic areas like our S32 family of next-generation automotive MCUs, radar transceivers and battery management systems. The design win momentum is just explosive.
+Within Secure Connected Devices, or SCD, third quarter revenue was $717 million, up 1% year-on-year driven by the continued demand for general purpose multi-market MCUs, which were up high-single digits, somewhat offset by a significant decline in demand for mobile transaction solutions due to a strong new customer ramp during the previous year 2017. We continued to see solid design win momentum with our MCU and application processor portfolio.
+We recently announced the new i.MX RT600 crossover processor, and the customer interest is very strong. We continue to innovate in the mobile transaction area with our new integrated single-chip secure element and embedded NFC radio which is ramping into high volume on new phones this year. We also extended our thought leadership in mobile security into the IoT security space. We see strong customer activity with our new A71 security family which is aimed at providing end node security for IoT, cloud connected devices like video cameras, smart home gateways and industrial PLC controllers.
+In Secure Interface & Infrastructure, or SI&I, third quarter revenue was $511 million, up 5% year-on-year due to the early 5G network trial deployments out of North American carriers. Our customers view NXP as having the broadest portfolio of RF technologies for infrastructure applications, spanning LDMOS and GaN high power amplifiers for traditional macro base stations, with massive MIMO and millimeter wave products for the last mile applications. We see 5G as both a content and share gain opportunity.
+Lastly, in Secure Identification Solutions, or SIS, third quarter revenue was $133 million, down 4% year-on-year due to lower demand for bank card products.
+Turning to our distribution channel performance, we continue to manage closely the total months of inventory in the distribution channel at 2.4 months. We consistently target to maintain 2.5 months of supply, plus or minus 0.5 month in the channel. Distribution as a percent of total revenue continues to average about 55%, which is split between our mass market channel customers and our fulfillment channel for strategic customers. Given the uncertain environment, we are paying very close attention to the trends in the channel, staying close to our distribution partners.
+Before I pass the call to Peter, I'd like to announce our decision to shift how we report our revenue. Beginning January 1, 2019, we will report our revenue in terms of four specific end markets: automotive, industrial and IoT, mobile, and communications infrastructure and other. After multiple discussions with investors and sell-side analysts, we believe there are greater insights to be gained by making this shift to end markets. We recommend that all investors review the Analyst Day deck on our website as it provides the market size and growth potential of the addressable end markets, what we see as our unique opportunities to drive revenue in end market. We will post a historical reconciliation of the new end market focus to the existing operating segment structure.
+Now I'd like to pass the call over to Peter for a review of our financial performance.
+Peter Kelly - NXP Semiconductors NV
+Thank you, Rick, and good morning to everyone on today's call. As Rick has already covered the drivers of the revenue during the quarter, I'll move to the financial highlights. In summary, overall revenue performance was better than our midpoint guidance, although we did experience some softness in demand primarily from our partners in Greater China, and to a lesser extent, our Tier 1 automotive customers who didn't pull material at the rate originally anticipated.
+Our non-GAAP operating profit was 30%, and cash flow continues to be strong. Our balance sheet continues to be in excellent condition with a leverage ratio of 1.4 times, which is below our long-term target. Focusing on the details of Q3, total revenue was $2.45 billion, up 2% year-on-year. We generated $1.29 billion in non-GAAP gross profit and reported a non-GAAP gross margin of 53 basis points, down 70 basis points year-on-year due to a slightly weaker product mix.
+Total non-GAAP operating expenses were $563 million, up $14 million year-on-year and slightly above the growth in our revenue. But this was a reduction of $28 million from the second quarter and about two-thirds of this reduction was from lower bonus accruals and a third was from general OpEx management. The lower bonus accrual rate will continue to benefit us in the fourth quarter before returning to a more normal rate in 2019. From a total operating profit perspective, non-GAAP operating profit was $733 million and non-GAAP operating margin was 30%, down 80 basis points year-on-year reflecting the previously mentioned items.
+Interest expense was $34 million, non-controlling interest was $13 million, and cash taxes for ongoing operations were $33 million. Stock-based compensation, which is not included in our non-GAAP earnings, was $83 million.
+Now I'd like to turn to the changes in our cash and debt. Our total debt at the end of Q3 was $6.36 billion, an increase of $1 billion due to the bridge loan facility we entered into during the quarter. Cash was $1.94 billion and net debt was $4.41 billion. We exited the quarter with a trailing 12-month adjusted EBITDA of approximately $3.18 billion.
+Our ratio of net debt to trailing 12-month adjusted EBITDA at the end of Q3 was 1.4 and our non-GAAP interest coverage was nearly 22 times. During the quarter we returned $4.6 billion to our shareholders and bought $49 million shares as part of our share repurchase program. We also announced the cash dividend and the initial cash payment of $0.25 per share was paid on October 5.
+Our balance sheet includes an accrual of $346 million for the payment of a deemed dividend tax on the buybacks we made. As a reminder, this payment does not go through the P&L and is likely to be paid in cash to the Dutch tax authorities in the fourth quarter.
+Turning to our working capital metrics, days of inventory was 100 days, a reduction of 11 days sequentially. Days receivable was 32 days, an increase of one day sequentially. And days payable were 74, a decline of 16 days versus the prior quarter. Taken together our cash conversion cycle was 58 days, an increase of six days versus the prior quarter. Cash flow from operations was $2.62 billion as we received a $2 billion termination fee in the quarter. And net CapEx was $155 million resulting in a free cash flow of $2.46 billion.
+Turning now to our expectations for the fourth quarter, we currently anticipate total revenue will be in a range of about down 5% to up 1% sequentially; at the midpoint of our range, about down 2% or $2.39 billion. We anticipate the following trends in the business. Auto is expected to be down mid-single digits sequentially. Secure Connected Devices is expected to be up low-single digits sequentially. Secure Interface & Infrastructure is expected to be down mid-single sequentially. Secure Identification Solutions is expected to be down low-single digits. And we anticipate revenue from Corporate and Other to be approximately $90 million.
+We expect non-GAAP gross margin to be about 53% plus or minus 70 basis points. Operating expenses are expected to be about $551 million dollars plus or minus about $10 million. And taken together, we see non-GAAP operating margin to be about 30% plus or minus 100 basis points. We anticipate cash tax to be about $30 million dollars plus or minus $1 million, and estimate interest expense to be about $57 million as we are considering refinancing our bridge loan and extending our debt maturities if conditions allow it. Non-controlling interest will be about $13 million plus or minus $1 million.
+I'd like to provide an update on our share repurchase program. As previously mentioned, by the end of Q3, we'd bought back 49 million shares at a cost of $4.6 billion. Since September 30, we've repurchased an additional 5 million shares and have completed the previously announced $5 billion buyback. Additionally, the NXP Board of Directors has approved the company to utilize the remainder of the buyback authorized by shareholders at our General Meeting in June. So we now have the authorization to buy back an additional 15 million shares. As of September 30, our share count was 296 million and we would suggest that for modeling purposes, you use an average share count for the fourth quarter of 295 million shares.
+Finally, I have several housekeeping issues I'd like to address in follow-up to the Analyst Day. Although markets continue to be difficult to predict, and as Rick described, somewhat murky, we firmly believe we can outgrow the market by 1.5 times in the coming three years and remain comfortable with our three-year compound annual growth rate of 5% to 7% revenue growth. Secondly, we'll return all excess cash to shareholders through buybacks and dividends and expect to run our leverage level of 2 times. Disappointingly, it now looks like the Dutch government will not repeal the deemed dividend tax on buybacks, so we will continue to consider alternatives to minimize these payments.
+Thirdly, clearly our gross margins are not where we want them to be, but we plan to be at 55% exiting the fourth quarter of 2019 as I described in the Analyst Day. Fourth, I'd like to update you with an improved view of the cash taxes we gave you at the Analyst Day. We currently believe the effective rate on a cash basis will be 5%, 7% and 11% respectively for 2019, 2020 and 2021. Fifth and finally, as we've mentioned previously, we also have to pay incidental cash taxes related to the sale of standard products and the Qualcomm breakup fee, both of which occurred in prior periods and have been recorded in the provisions for income tax in the period they occurred. At this point in time, our revised estimate for these incidental cash payments will be $80 million in 2019 and $40 million in 2020.
+So with that, I'd like to turn it back to the operator for your questions.
+Question-and-Answer Session
+Operator
+Thank you. Our first question comes from John Pitzer with Credit Suisse. Your line is now open.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Yeah. Good morning, guys. Thanks a lot for letting me asking questions. Congratulations on the solid results given the macro backdrop. Rick, my first question is just on SI&I. It was nice to see the pickup in the quarter and as you mentioned in your prepared comments, you kind of attributed it to a single U.S. carrier early deployment of 5G. I'm wondering if you could just give us a little bit more detail on what you think the 5G opportunity is on SIS â I'm sorry SI&I. You talked about it being both in content and a share story. Can you try to put some numbers around that for us?
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah. It's a little premature to talk about the actual size of it since it's early on in the deployment stage. But I think we talked a little bit at the Analyst Day, John, about the massive MIMO opportunity for kind of the last mile. And clearly, what we saw in Q3 was some of the trial deployments taking place in that area and an opportunity for us really to be able to take what we believe to be a pretty unique technology to that.
+And we think there's clearly some opportunities. As you know, our expectations for SI&I over the next three years are pretty shallow and that because it's a combination of things. Actually, in the current quarter, our DN product area actually showed some upside as well. But clearly with the legacy roll-off of the network processors in the PowerPC side, we don't plan on that on a sustainable basis.
+I think we could see some upside in SI&I through a combination of our interface products that we'll sell for attach along with our MTU portfolio. But on the 5G itself, I think it's an opportunity that we see, but we'll be fairly â we'll not get ahead of ourselves relative to the opportunity associated with that. I think we're trying to be sure that we get the technology engagements and we win the design wins. And then when 5G is actually deployed significantly, we'll be able to take advantage of it.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+That's helpful. Then, for my follow-up guys, you gave us good color by your product segments and expectations in the December quarter. I might have missed this, but did you talk about what your expectation is for your distribution channel in Q4 is? Do you expect sell-in to be below sell-through? How do we see, or how do you guys see inventories progressing through the December quarter?
+Richard Lynn Clemmer - NXP Semiconductors NV
+Well John, we think our distribution inventory's in pretty good shape at 2.4 months. We actively manage that, specifically in this last quarter, as the environment changed as we went through the quarter. We were actively engaged being sure that we had the right level of distribution inventory and we think we'll do the same thing in Q4. I think it's still a very cloudy picture. The economy continues to be good. Production rates continue to be okay in most areas, but the concern over tariffs and the trade war clearly have our customers where they're being cautious in their inventory purchase and their backlog commitments to be sure that they don't get overextended. And I think we're going to go through that for some period of time. And it'll require us to be very well aligned with our distribution partners to be sure we have the right level of inventory in place to take advantage of the market opportunities, but be sure we don't have too much inventory in place.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Helpful. Thank you.
+Operator
+Thank you. And our next question comes from Stacy Rasgon with Bernstein Research. Your line is now open.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Hi, guys. Thanks for taking my questions. Had first a question on gross margin. Came in just maybe a hair light in the quarter; the guide looks a little light. I know you said a weaker product mix, but in the quarter, Secure Interfaces was very strong. I would have thought that would have had higher margins, which might have helped. So if you could give us any maybe further view on other drivers of gross margins beyond product mix; utilization, pricing anything else that may be impacting that.
+And then around the â as you kind of work towards the 55% exiting 2019, what should that trajectory look like given where we're starting from today?
+Peter Kelly - NXP Semiconductors NV
+Hey, Stacy. Good to speak to you. Yeah, we were 30 basis points light, which is $7 million on, I don't know, $1.3 billion...
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Yeah, just a hair. Yeah, yeah.
+Peter Kelly - NXP Semiconductors NV
+Yeah, so, I mean, to be honest, I don't have that much control over it. There's lots of moving things that go on. Certainly your volume, your yields, your pluses or minuses, you have all sorts of crazy mix kind of things going on. But there was no one big specific thing. We just have lots of pluses and minuses there.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+I guess I'm asking you more about Q4, about the guide; guidance for Q4?
+Peter Kelly - NXP Semiconductors NV
+Just again, we said we'd be at 55% ending next year. As we go from Q3 into Q4, yeah, the mix looks like it could be a bit better, but volumes down a bit, and there's all sorts of things that go on, Stacy. So I can't really give you a simple bridge from Q3 to Q4. And in terms of kind of how we progress to 55% next year, it won't be a kind of a linear track. And at this point, we're not guiding 2019 by quarter.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Got it. Thank you. That's helpful. For my follow-up, around OpEx, I know you said you'd reduce bonus payments in Q3.
+Peter Kelly - NXP Semiconductors NV
+Yes.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+And that carries into Q4, and then I guess those come back with the new year. I think you usually typically have raises and everything that happen in there. So how should we think about I guess OpEx seasonality into Q4....
+Peter Kelly - NXP Semiconductors NV
+Yeah.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+... I guess maybe coming off of what would be a suppressed Q4 base?
+Peter Kelly - NXP Semiconductors NV
+The way I think about it at a kind of simple level is we were roughly $30 million lower from Q2 to Q3, and two-thirds of that, $20 million was bonus and the other $10 million was real cuts we made which we'd expect to maintain. So as we go out of Q4, it's going to increase by at least the $20 million for the bonus. Well, assuming we perform next year and we get paid the bonus. And then as our revenue grows, then you would see our OpEx increase in line with revenue. But the big nut, so to speak, is that $20 million.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Got it. But you think you kind of like drift into the model like next year as you grow into it?
+Peter Kelly - NXP Semiconductors NV
+Sorry. Say that again?
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+I'm sorry. You have an OpEx model that you're running heavy on right now. You think you kind of drift into the model next year as you grow?
+Peter Kelly - NXP Semiconductors NV
+Oh yeah, I'll stay in the â what'd we say, 16% on R&D, and ...
+Richard Lynn Clemmer - NXP Semiconductors NV
+8% SG&A.
+Peter Kelly - NXP Semiconductors NV
+... 8% in SG&A, that will be the â ultimately the worst case. Yeah.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, I think that's the right way to think about it, Stacy. As we see the revenue strengthen and get through this cloudy period, we'll get back to the levels that we've talked about associated with OpEx.
+Stacy Aaron Rasgon - Sanford C. Bernstein & Co. LLC
+Got it. Thank you, guys.
+Peter Kelly - NXP Semiconductors NV
+Thanks.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Thanks, Stacy.
+Operator
+Thank you. Our next question comes from Vivek Arya with Bank of America Merrill Lynch. Your line is now open.
+Vivek Arya - Merrill Lynch, Pierce, Fenner & Smith, Inc.
+Thanks for taking my question. I think, Rick, you mentioned that you might have a new reporting structure. I agree, I think that will be a very useful thing to get a sense of the trends. Is it possible to perhaps get a preview and see how your Q3 sales and then importantly Q4 outlook kind of roughly aligns with the new structure?
+Richard Lynn Clemmer - NXP Semiconductors NV
+We'll come back to that at the start of the year and give you the details. We can't change kind of in mid-stream and we want to do it in an orderly fashion and would provide a bridge to bridge back at the time that we do that implementation.
+Vivek Arya - Merrill Lynch, Pierce, Fenner & Smith, Inc.
+I see. Then for my follow-up, when I look, Rick, at the Automotive business, I understand that Q4, you are seeing the deceleration. A lot of your peers are seeing the deceleration, so that's not unexpected. But when I look at Q3, growth rates have come down to kind of the mid-single digit, and I think you mentioned the slower pull of some of your MCU business. This deceleration, is this more units? Is this more content? Because when I look at some of your peers in Q3, they still had pretty decent growth in Automotive. So how are you feeling about the Automotive business overall?
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, I think the Automotive business is performing quite well. Actually, if you look at it, we had strong growth rate in the analog side as well as in radar solutions. What happened was was we had our OEM customers that reduced their pulls based on what they were seeing, again, created by kind of this fear, uncertainty and doubt about the economic environment. We think that that's relatively short-lived. There was no issue on content whatsoever. It was just on actual volume and pulls from our major customers as they reduced their build plans as they went through the â towards the end of the quarter.
+And remember, that inventory is vendor-managed inventory. So we only get it as they actually â goes into production. So getting the confirmation of that kind of came in at the end of the quarter.
+Jeff Palmer - NXP Semiconductors NV
+And Vivek, this is Jeff. I would just add, as we noted at the Analyst Day, content is definitely the tailwind to the Automotive business over the next several years. So we don't see any issues to the content growth story whatsoever. Clearly, we have to ebb and flow with global SAAR, but that was never the key driver to our overall Automotive business.
+Richard Lynn Clemmer - NXP Semiconductors NV
+And when you talked about it versus our peers, our mix is quite unique in Automotive, being the largest semiconductor supplier into the automotive market. The micro space clearly gets a little more linked in the near-term to actual car production. But the ramp-up associated with new applications that we see and the opportunity to really provide safer driving is going to give us a real tailwind to help drive the growth that we see over the next few years.
+Vivek Arya - Merrill Lynch, Pierce, Fenner & Smith, Inc.
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from William Stein with SunTrust. Your line is now open.
+William Stein - SunTrust Robinson Humphrey, Inc.
+Great. Thanks for taking my question. First, a couple more on Automotive. Rick, you talked about explosive growth in design wins in the quarter. I'm wondering if you can comment as to the mix of technologies? I think at the Analyst Day and in the past, you've talked about a new opportunity in BMS. Obviously, radar's been something that you've been talking about for a while. There's also V2X. Any, not necessarily specific design wins, but technologies that you could highlight for us? And then I have a follow-up. Thank you.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, I think you said it well. It's radar, it's battery management systems, and it's also our new S32 platform. Now the S32 platform is one that we're behind on getting out to our customers, so it didn't contribute as many of the design wins in the most recent quarter. But in radar and battery management systems, we continue to see explosive growth with really a unique opportunity to lead where we're designed in at all of the major Tier 1s on radar and being able to drive that at a very rapid growth rate as we see the implementation to actually make driving safer here over the next couple years.
+William Stein - SunTrust Robinson Humphrey, Inc.
+Great. Thank you. And the follow-up relates to margins again. I'm wondering if the company has done any sort of sensitivity analysis as to let's say you don't meet the revenue growth goals in this year, understanding that's a three-year view. But if 2019 winds up being flat or let's say even down 5, would you still be able to get into the range of your targets? And sort of any comment as to what the biggest drivers would be besides just the leverage that you'd see, operating leverage from revenue growth and (32:02)?
+Peter Kelly - NXP Semiconductors NV
+Yeah, good question, Will. About 35% of our COGS is fixed. So you can do the math on volume. I mean, it's not science, but that gives you a good idea. I think if the revenue was flat, yeah, we'd be able to get into our gross margin range. We went through some of the bridges at the Analyst Day and I think directionally they're right. It's not so much about volume as making sure the manufacturing teams are doing all the things they need to do on cost reduction with our suppliers and yield improvement, making sure the marketing teams are doing the right things on pricing. But for us to see a real issue on gross margin, it has to be just an unbelievable downturn next year with absolute significant drops in revenue because at 35% fixed cost, we have a lot more flexibility now than we ever did in the past.
+Richard Lynn Clemmer - NXP Semiconductors NV
+You know, one thing I should just go back and add on Auto, when the question was asked about the MCU volume, part of that was related to the WLTP and the testing that was going on in Europe had slowed the implementation. So that clearly was a factor in our results in Q3 that I should've just been more specific about a few minutes ago.
+William Stein - SunTrust Robinson Humphrey, Inc.
+Helps. Thanks, and congrats again.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Thank you.
+Peter Kelly - NXP Semiconductors NV
+Thanks, Will.
+Operator
+Thank you. Our next question comes from Matt Ramsay with Cowen. Your line is now open.
+Matthew D. Ramsay - Cowen & Co. LLC
+Thank you very much, guys. I just want to step back in a bigger picture and I think Stacy might have asked some questions earlier around OpEx, specifically around getting into the model next year. But one of the questions I get most often from investors on a go-forward basis is â maybe we can talk about the investments you made in the core franchises of the business during that 20-month, 21-month period under the Qualcomm umbrella of the deal. And it occurs to me that your OpEx is actually been managed quite well, but R&D spending is actually up on an absolute basis and as a percentage of revenue. And I guess maybe you guys could talk a little bit about where you focused investments during that period of time, particularly in the Auto business. And I guess the pushback is did you under-invest and is that going to come back on a go-forward basis in revenue? And it occurs to me that I think you didn't, so maybe you could just about that at a high level. Thank you.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah. I think if anything, we didn't take complete control off of the investments we were making in R&D, but I think we were a little more gentle in cutting back to fit within a budget as we went through that 21-month period of time, and now we get the benefit of it. The investment we made to continue to solidify our position in radar, the ability to take what was some early opportunities in battery management and really invest to see that through to an opportunity are key areas that we think are key for us. And in addition, our S32 micro platform sets us up very well in a unique position that no other competitor has the ability to drive. The ability to drive 16 nanometer FinFET solutions while our competitors are now, at the same time, beginning to introduce 28 nanometer, positions us in a very unique position quite well and will help drive our growth.
+In R&D investment specifically in Automotive, we've been increasing that in kind of a 15% compounded growth rate based on where we were. In the industrial and IoT space, investing in the crossover IoT, and the ability to continue to solidify our position in the apps processor and the i.MX family and drive some unique platforms that will be able to actually address machine learning and the implementation of artificial intelligence is key areas that we've invested in as well.
+In addition to that, we implemented the single-chip secure element in NFC radio. So, I think there's no lack of investments that we've done. We have made the right kind of investments. In addition to what I talked about in Automotive, we also have been investing in Ethernet that will position us quite well to continue to strengthen our in-vehicle networking platforms and our leadership position that we've had in the car space and the domain controller opportunity that we see in Auto.
+So, the opportunities have been there. We've been investing. There is no lack of investment that's been done during that 21-month period of time. In fact, if anything we've probably invested more than we would have if we were on a go-alone basis to try to be sure that everything was set up to move forward. So, I don't think you â you can rest assured to tell investors there wasn't a lack of investment that puts anything in question going forward.
+But providing that capability of bringing security to the edge and what we see, the opportunity to really create and support the disruption of the cloud from IoT and in Ultralight band are the areas that really position us uniquely going forward and the reason why we feel very comfortable outgrowing the market by at least 50% and still feel comfortable with the kind of 6% to 8% compounded growth rate going forward.
+Matthew D. Ramsay - Cowen & Co. LLC
+No, Rick thanks for that and that's consistent with my view. I'm just relaying some pushback that I've gotten. Just as a follow-up...
+Richard Lynn Clemmer - NXP Semiconductors NV
+Keep telling them.
+Matthew D. Ramsay - Cowen & Co. LLC
+Fair enough. Just a quick follow-up on SI&I given some fairly good upside in Q3, and you've talked about it into Q4. How should we think about calibrating that expectation into what's probably a seasonally down Q1, just so we have the right sort of trajectory into Q1? If there's anything you could add there, that'd be helpful. Thanks guys.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, we don't give guidance for Q1. But I do think that we may see some things that will be a little bit abnormal associated with 5G implementation, but it's really too early to say. And we'll come back and talk about that more when we give you our Q1 guidance.
+Jeff Palmer - NXP Semiconductors NV
+Operator?
+Operator
+Thank you. Our next question comes from Ross Seymore with the Deutsche Bank. Your line is now open.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Hi, guys. Thanks for letting me ask a question and congrats, especially on the cost and cash return. Wanted to focus on SCD part of the business. Some of the concerns people have in broad-based markets aren't just limited to Auto, but also kind of general purpose controllers, inventory and broad-based analog those sorts of things. So I wondered what you're seeing in that business, especially given that you're guiding it up sequentially in the fourth quarter.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Well, you know the interesting thing about SCD is it's a mix of products. And so, the mobile wallet combined with the implementation of the mass market, general purpose micros as well as our i.MX family. Clearly in China, we're seeing the FUD factor that we talked about where our customers are actually being somewhat slow in placing orders and being very diligent relative to their inventory levels and that has an impact on the mass market micros. And while we see a slowing on a sequential basis in the growth rate, not a decline, but a slowing growth rate, still see the opportunity for growth year-over-year because of the position that we've had and the strong performance we had early on in the year.
+So I think for us the opportunity's still there. We still continue to be working with our distribution partners as the majority of that business, clear majority of that business, probably around three-fourths of it goes through the distribution channel. So it's really important that we work closely with our distribution partners to be sure that we get the technology out to customers where it can be implemented. But as we see the opportunities in IoT and the ability to really drive the utilization that the cloud supports in making IoT real, that business is really critical to be able to fulfill that opportunity. And so, I think that's really one of the tempering factors is, is still those designs and the opportunities that we'll have, even with people being a little more reluctant in placing orders in the near term as they're trying to figure out what's going on with the tariffs and trade war and really creating a significant amount of fear, uncertainty and doubt, or FUD, relative to the overall marketplace.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Great. And for my follow-up, I just wanted to go back to the Auto side of things. Rick, you mentioned a couple things. The FUD side for sure and then the WLTP side. For that latter side of the equation, I realize that the former with the macro impact is difficult for you guys to project. But for the latter side, it seems like it's a transitional issue in Europe. Might be a big one, but a transitional one nonetheless would that change in testing standards. How do you view that kind of lull working its way through the system? And when do you think that headwind might abate for NXP?
+Richard Lynn Clemmer - NXP Semiconductors NV
+Well, I think our customers are working closely to try to address that so that they'll get through that over a relatively short period of time. I don't think that's going to be a prolonged period. I think it'll work through the supply chain here fairly quickly. And I think that it will continue to be a near-term factor as they go through their pools. But we have the impression that it'll get back to kind of a normal ongoing basis here relatively soon. And then it's going to be more dependent on actual car sales.
+The interesting thing is when people talk about the reduced sales of cars in China, the interesting thing is if you go back and look at over the last four or five years, July is always the lowest car sales month in China. And if you actually look at actual sales in August and September, while they were down from the previous year, they were actually increasing sequentially. And so I think part of it's going to depend on what happens with the Chinese government. When this happened a few years ago with the first time where there was a decline in car sales, they actually changed the tax structure. And car sales in China got back on track very quickly and we'll see that take place. But on the WLTP specifically, we think it's only one- or two-quarter issue.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Great. Thank you.
+Operator
+Thank you. Our next question comes from Craig Hettenbach with Morgan Stanley. Your line is now open.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Yes, thank you. Rick, 5G looks like a positive development. You noted some of the North America initial activity. As you look into 2019, can you just discuss kind of the visibility you have into additional 5G ramps and how you're thinking about the business?
+Richard Lynn Clemmer - NXP Semiconductors NV
+Well, I think it's really going to depend on how that gets deployed. I know early on, some of these last mile implementations, they're doing those with FPGAs which are extremely expensive, so I don't see those going to mass market associated with it. So I think they have to be able to get to a commercial solution that they can drive in a cost-effective manner the deployment associated with 5G. And it's not clear to me that that's taking place quite yet. So I think it's an opportunity that clearly was a positive for us in Q3. We're being a little more cautious on the implementation in 2019 because we think they have to get to a cost effective commercial implementation before we'll see the volumes actually begin to ramp on a significant basis.
+Craig M. Hettenbach - Morgan Stanley & Co. LLC
+Got it. And then just as a follow-up regarding the overall environment, a couple companies have talked about kind of a downtick in the month of September. Can you just talk about kind of linearity in the quarter and how things progress, and how kind of orders were up until October?
+Richard Lynn Clemmer - NXP Semiconductors NV
+So, it depends on the business. Each one of the businesses is separate. Clearly, the lion's share of our Automotive business is on vendor managed inventory. So those pulls kind of began to slow. But August was kind of a vacation month as well, so it was down a little bit as well as we went through the vacation months in Europe associated with August. In September, I don't think we saw anything that continued to go down at all. Again, I think it's really important to point out that while we see the growth slowing on a sequential basis, we still see positive growth year-over-year. And we don't see anything continuing to weaken or weaken more significantly from where we were in September. The environment continues to be kind of status quo, although quite cloudy, and still not really able to confirm getting back on the steady growth rate of the first half of the year.
+Operator
+Thank you. Our next question comes from Harlan Sur with JPMorgan. Your line is now open.
+Harlan Sur - JPMorgan Securities LLC
+Morning. Thank you for taking my question, and great job on the quarterly execution. Just back on the multi-market MCU which was up high-single digits, so this was really good performance. I mean, it bucked the trend of the overall general purpose MCU segment which was â I think it was only up about 1% to 2% in Q3, kind of looking at the SIA data. This is even with some of the weaker demand trends in China. So Rick, if you could just help us understand what are the geographies or applications that are helping to drive the above-market demand for your general purpose MCU business. And within the SIA data, it looks like 32-bit also kind of outperformed year-over-year. Obviously, that's a strong leadership position for you guys, but I'd love to get your thoughts.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, so Harlan, I think one of the key things that was a benefit for us in Q3, we brought our lead times back in check on Kinetis. Early in the year we were talking about that we were out at 39-week lead times, which was just unacceptable for our customers, and we're down kind of in the 14-week, 15-week lead time at the current basis. So that transition, obviously as you go through that transition, it creates a little confusion with your distribution customers as well. So we've kind of gone through that in Q3. But clearly, based on the results that you talked about, we would have gained share in Q3 based on the strong portfolio we have.
+As you point out, we're really focused on 32-bit ARM. We're not focused on 8-bit kind of general marketplace, and I think that played out well for us. We continue to have the broadest platform in place with the high-performance Kinetis and the LPC on the low end as well as in the apps processor on the i.MX and the product that we just announced recently on the first implementation of the crossover from i.MX technology but at a micro cost associated with it.
+So I think we continue to feel like we've got the broadest portfolio, the best portfolio for our customers really trying to see how they can use the cloud to implement the disruption opportunity that people talk about as IoT. For the last few years, everybody's been talking about IoT but it was really hard to get your hands around what was real. And I think what we see is the clarity of being able to take advantage of the cloud now through the computing at the edge and bringing that secure, and I emphasize the word secure, computing to the edge to be able to give that.
+But clearly, I think based on the results you talked about, we did gain share in Q3, and hope to be in a position with our portfolio to continue to maintain that going forward and grow it.
+Harlan Sur - JPMorgan Securities LLC
+Yeah, good performance there. Manufacturing utilization trends, 87% in Q3. How is the team positioning utilizations in Q4?
+Richard Lynn Clemmer - NXP Semiconductors NV
+I think the interesting thing about that is you can't take as much out of that as you used to a couple years ago on the utilization. One of the things that we're going through is is our individual factories have some unique requirements to be able to meet the ramp-up associated with our radar requirements internally as well as some of our others, and we have our capacity limited in some of our analog side of our Automotive business. So as we implement the expanded capacity on that, I think that that creates a little bit of a factor that's not as significant on the utilization itself. We continue to grow our external support as well. So I think today we're kind of a little over ...
+Peter Kelly - NXP Semiconductors NV
+Just over 50% that's external.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, a little over 50% that's external. But the utilization, I don't think you can take as much about that on a quarterly basis. And specifically right now as we go through the transition in trying to expand our capacity in radar as well as some of our unique analog capacity, auto analog capacity, we'll go through a little bit of tempering of utilization to be able to bring up that capacity.
+Peter Kelly - NXP Semiconductors NV
+Yeah, overall, it'll be about the same in Q4 as it was in Q3.
+Harlan Sur - JPMorgan Securities LLC
+All right.
+Peter Kelly - NXP Semiconductors NV
+So as Rick said, it's kind of a useless indicator these days. And only, what is it, 12.5% of our COGS goes through the internal numbers if you do some (50:26) and then you have to look at it by factory. And so it's kind of interesting as an indicator, but it's kind of not very useful in terms of helping you understand what's going on in the cost.
+Harlan Sur - JPMorgan Securities LLC
+Yeah. Thanks for the insights.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, thanks, Harlan.
+Operator
+Thank you. Our next question comes from Toshiya Hari with Goldman Sachs. Your line is now open.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Yeah. Thank you so much. I had a question on Automotive going into 2019. Rick, you talked about the design win momentum in MCUs with your S32 family; you talked about radar. You talked about BMS as well. I know it's kind of early, but from a content growth perspective, how do you see momentum going into 2019?
+Richard Lynn Clemmer - NXP Semiconductors NV
+What we talk about is over the three-year period of time, and I think 2019 will be a clear indication in implementation associated with that. As we went through it, Kurt talked about it at the Analyst Day that even with 1% or 2% growth in actual car production, which we think still with the growth of the middle class in the developing world, specifically in China, but Southeast Asia as well, we'll see some production increase in cars. But even without that, we'll see the content driving a significant opportunity for us to continue to grow kind of mid to high-single digit through the implementation of radar and level 2 and level 3 capability of the car, which is â we think we're in a very solid position to be able to continue to maintain our leadership position in the overall radar solution.
+The implementation of Ethernet to be able to process data around the car at a much higher speed that's required for the implementation of ADAS and the changed architecture of the car with the domain controllers and ability for the car companies to really look at a different implementation, which our S32 family of product fits very nicely into. So we feel very comfortable with our position in Automotive and look forward to continuing to expand it and I think that'll take place in 2019 as the first year of the three-year basis that we talked about at the Analyst Day.
+Toshiya Hari - Goldman Sachs & Co. LLC
+So is it fair to assume that you come in within the range of the 7% to 10% growth rate in 2019 as well?
+Jeff Palmer - NXP Semiconductors NV
+No, Toshiya. I don't think we're going to guide 2019. I think we laid out a three-year target for our businesses, 7% to 10% for the Automotive business, all driven by the different irons we have in the fire as Rick laid out, but we're not going to guide 2019 specifically.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Okay. Fair enough. And then as a quick follow-up for Peter, on gross margins, again I just wanted to confirm. In a flattish revenue environment in 2019, are you still confident, if that were to be the case, can you still hit that 55% gross margin target exiting the year and if so, what would be some of the drivers? Thank you.
+Peter Kelly - NXP Semiconductors NV
+Yes. And exactly the same drivers I described in the Analyst Day, because the reality is even if it's flat, you'll see changes in mix and it's all about kind of how we drive our cost reduction and manage our pricing.
+Richard Lynn Clemmer - NXP Semiconductors NV
+But I think that you got to be realistic. With the economic environment we see, we think it would be hard for the year to be flat based on the economic environment unless something were to weaken significantly in the general economic environment. So, while we're going through this cloudy period, I think you got to be careful about not looking too far in the future associated with that, so long as the robust economic environment is still in place. Clearly, the semiconductor industry is going to drive content gain after we get through this quarter or two of uncertainty associated with what's going on the marketplace.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Thank you so much.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Thank you.
+Operator
+Thank you. Our next question comes from C. J. Muse with Evercore. Your line is now open.
+C. J. Muse - Evercore Group LLC
+Yeah. Good morning. Good afternoon. Thank you for taking the question. I guess Peter, first question, trying to better understand kind of debt financing, interest expense going forward and your means for additional buyback. So, could you tell us what kind of cash you need to run the business, what you're planning in terms of the debt refinancing both the bridge and the cash convertible notes, and how we should think about potential incremental debt on top of that in the coming months?
+Peter Kelly - NXP Semiconductors NV
+Okay, so we want to run two times net debt to trailing 12 months EBITDA. So, to the extent that the markets cooperate, we would add additional debt. We've mentioned on my call we're kind of looking at that so this quarter, we definitely look to replace the bridge with a bond. The convert, that comes due the end of next year. Same thing; we'd look to replace that with a convert. And I guess very, very roughly. a two times net debt to trailing 12 months EBITDA. That would say between now and the end of next year you could buy back an additional $3 billion very roughly. And then in subsequent years, $2 million-plus per year.
+Richard Lynn Clemmer - NXP Semiconductors NV
+But as Peter talked about replacing the convert, we probably would not be replacing the convert with a convert at the current equity price.
+Peter Kelly - NXP Semiconductors NV
+Oh, yeah, yeah. I mean, at current equity prices, it'd absolutely be a bond. Yeah. But that's a year away.
+C. J. Muse - Evercore Group LLC
+Got you. Great. And I guess, as a follow-up, from a free cash flow margin perspective, I think you're running around 20% the last two years excluding the Qualcomm payment. So curious, can you kind of walk through how you plan to drive that higher? You've talked about gross margin. I imagine that flows right through. Are there other drivers that you're working on?
+Peter Kelly - NXP Semiconductors NV
+Yeah, yeah. To the extent that EBIT margin increases, cash flow margin would increase. So, at a real simple level, EBIT margin will increase because gross margin will improve and OpEx percent will decline. But our working capital will be kind of about what it is. So, yeah, I mean, it's directly connected with EBIT margins.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, I think the one thing that we talked about at the Analyst Day is, is we might invest or we plan to invest a little more in CapEx in the near term really to take advantage of some of the opportunities that we have with some of our unique processes that will be a little bit of a factor above the 5% for a short period of time. But our cash flow position we think is in a very strong position and the growth of the business that we feel very good about over the next three years will continue to generate a huge amount of cash.
+C. J. Muse - Evercore Group LLC
+Thanks, Rick.
+Operator
+Thank you. Our next question comes from Chris Danely with Citigroup. Your line is now open.
+Christopher Brett Danely - Citigroup Global Markets, Inc.
+Hey. Thanks, guys. Just a quick question on I guess next year. So, Rick you talked about the murky environment right now. If the environment stays "murky," conceptually what should we be thinking about for Q1 revenue on a sequential basis? Like down 5% to 10% would be something reasonable range?
+Peter Kelly - NXP Semiconductors NV
+This is Peter Kelly. We don't guide Q1. I mean, clearly, you can go and look at historic seasonality, but we're not guiding Q1.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah, I think that one thing that you talked about though on the cloudy environment, if the economic environment stays as robust as it is, this cloudy environment cannot continue for a prolonged period of time. So long as production rates continue and the economic growth continues, you have to get back to a steady increase in production. So, we don't anticipate that that's something that's prolonged for an extended period of time unless the economic environment were to worsen because of the FUD factor associated with the tariffs and trade war. So if those don't materialize, we don't think this cloudy environment will continue for a prolonged period of time throughout next year.
+Christopher Brett Danely - Citigroup Global Markets, Inc.
+Okay. Thanks a lot, Rick.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Thanks.
+Jeff Palmer - NXP Semiconductors NV
+Operator, we'll take one more call, and then we probably have to wrap it up here today.
+Operator
+You say you'll take one more question?
+Jeff Palmer - NXP Semiconductors NV
+Yes, ma'am.
+Operator
+All right. Our last question comes from Tore Svanberg with Stifel. Your line is now open.
+Tore Egil Svanberg - Stifel, Nicolaus & Co., Inc.
+Yes. Thank you for sneaking me in. First question, Rick, you talked about lead times for the microcontroller business, but can you talk about trends of your lead times for sort of the overall business the last few quarters?
+Richard Lynn Clemmer - NXP Semiconductors NV
+For the LPC business?
+Tore Egil Svanberg - Stifel, Nicolaus & Co., Inc.
+No. So, lead times in general for your business. You talked specifically about microcontrollers earlier.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Yeah. No. I think in general that's kind of the typical lead time that we have is in that 12- to 16-week period of time across the board. So I don't think there's anything that's different than that. It depends on the actual manufacturing cycle time of some of our unique products, but we're pretty much in that typical lead time and we see it in a very healthy situation right now.
+Jeff Palmer - NXP Semiconductors NV
+And Tore, you have to remember, most of the Auto business, which is almost 50% of the revenue, runs on a vendor managed inventory model, right, which is kind of theoretically zero lead time business since we consign inventory to different build locations.
+Tore Egil Svanberg - Stifel, Nicolaus & Co., Inc.
+That's helpful. And as my follow-up, Peter, do you have a CapEx number for next year, a forecast at this point?
+Peter Kelly - NXP Semiconductors NV
+At the Analyst Day, we said our normal run rate is 5% but over the next three years, we could spend up to 7% per year.
+Tore Egil Svanberg - Stifel, Nicolaus & Co., Inc.
+Great. Thank you.
+Peter Kelly - NXP Semiconductors NV
+You're welcome, Tore.
+Richard Lynn Clemmer - NXP Semiconductors NV
+Thanks a lot. So once again, thanks for joining us today after our second quarter here following our 21-month quiet period with the Qualcomm transaction. Clearly, as we talked about, we think the near-term period and the cloudiness associated with it we'll be able to work our way through. The key factors is with the overall growth in the economy, we think that this will not be a prolonged period of cloudiness, that we'll work our way through to back to see a steady growth rate over the next few quarters. But clearly, the product position that we have, the design wins that we continue to win, and the cash flow capability of our business is what excites us about the opportunity to create real shareholder value, and look forward to your continued support. Thank you very much.
+Jeff Palmer - NXP Semiconductors NV
+Thank you very much, everyone.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program. You may all disconnect. Everyone, have a great day.

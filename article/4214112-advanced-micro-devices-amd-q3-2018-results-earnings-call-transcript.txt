@@ -1,0 +1,271 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q3 2018 Earnings Call October 24, 2018 5:30 PM ET
+Executives
+Laura Graves - Advanced Micro Devices, Inc.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Devinder Kumar - Advanced Micro Devices, Inc.
+Analysts
+Mark Lipacis - Jefferies LLC
+Hans Mosesmann - Rosenblatt Securities, Inc.
+Matthew D. Ramsay - Cowen & Co. LLC
+Mitch Steves - RBC Capital Markets LLC
+Vivek Arya - Bank of America Merrill Lynch
+Stacy Aaron Rasgon - Bernstein Research
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Joseph Moore - Morgan Stanley & Co. LLC
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Aaron Rakers - Wells Fargo Securities LLC
+Harlan Sur - JPMorgan Securities LLC
+Blayne Curtis - Barclays Capital, Inc.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Operator
+Greetings, and welcome to the AMD Third Quarter 2018 Financial Results Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded. It is now my pleasure to turn the call over to Laura Graves. Please go ahead, Laura.
+Laura Graves - Advanced Micro Devices, Inc.
+Thank you. And yes, welcome to AMD's third quarter 2018 conference call. By now, you should have had an opportunity to review a copy of our earnings release and slides. If you have not reviewed these documents, they can be found on the Investor Relations page of AMD's website, www.amd.com.
+Participants on today's conference call are Dr. Lisa Su, our President and Chief Executive Officer; and Devinder Kumar, our Senior Vice President, Chief Financial Officer, and Treasurer. This is a live call, and will be replayed via webcast on our website.
+I would like to highlight some important dates for you. AMD's next Horizon event is scheduled for Tuesday, November 6, 2018, where we will discuss innovation of AMD products and technologies, specifically designed for the datacenter on industry-leading 7-nanometer process technology. Dr. Lisa Su, President and Chief Executive Officer, will present at the Credit Suisse 22nd Annual Technology Media & Telecom Conference on Tuesday, November 27. And our 2018 fourth quarter quiet time will begin at the close of business on Friday, December 14.
+Today's discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions, and expectations; speak only as of the current date; and as such, involve risks and uncertainties that could cause actual results to differ materially from our expectations.
+We will refer primarily to non-GAAP financial measures during this call except for revenue, gross margin, and segment operational results, which are on a GAAP basis. The non-GAAP financial measures referenced today are reconciled to their most directly comparable GAAP financial measure in today's press release posted on our website. Please refer to the cautionary statements in our press release for more information. You will also find detailed discussions about our risk factors in our filings with the SEC and, in particular, AMD's Quarterly Report on Form 10-Q for the quarter ended June 30, 2018.
+Now, with that, I will hand the call over to Lisa. Lisa?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Thank you, Laura, and good afternoon to all those listening in today. We executed well in the third quarter. We continued to build momentum for our new products as strong sales of our Ryzen and EPYC processors offset soft GPU channel sales, and drove our fifth consecutive quarter of year-on-year revenue growth, increased profitability and margin expansion.
+Third quarter revenue was $1.65 billion, an increase of 4% from a year ago. Looking at our Computing and Graphics segment, third quarter CG segment revenue increased 12% year-on-year, driven by significant growth in both client processor and OEM GPU sales that offset a larger-than-expected decline in channel GPU sales.
+Ryzen processor sales increased to more than 70% of our total client revenue in the quarter. We delivered our highest processor unit shipment in nearly four years, and believe we gained desktop and notebook client processor unit share in the quarter, driven by growth with both OEMs and in the channel. In desktop, we had strong demand for our higher end Ryzen 7, Ryzen 5 and Ryzen Threadripper processors, helping to drive a double-digit percentage year-over-year and sequential improvement in client processor ASP.
+We expanded our desktop offerings in the quarter, bringing our Zen processor core and Vega Graphics to the entry level part of the market with the Athlon APU, and launching our flagship 32-core Threadripper 2 processor. With these new introductions, we now have a top to bottom lineup of client processors, based on our high-performance Zen architecture.
+In notebooks, Ryzen mobile processor unit shipments doubled sequentially for the second straight quarter as OEMs ramped production of their latest AMD-based notebooks. 54 of the 60 Ryzen processor-based notebooks planned for 2008 [ph] have launched with the final notebooks expected to go on sale this quarter. Based on the success of first-generation Ryzen mobile notebooks, the expanded breadth of our customer engagements and our design win momentum, we are on track for an even larger assortment of AMD-powered notebooks in 2019.
+In graphics, the year-over-year revenue decrease was primarily driven by significantly lower channel GPU sales, partially offset by improved OEM and datacenter GPU sales. Channel GPU sales came in lower than expected based on excess channel inventory levels, caused by the decline in blockchain-related demand that was so strong earlier in the year. OEM GPU sales in the third quarter increased by a strong double-digit percentage year-over-year as new design wins began to ramp, including first shipments of our mobile Vega GPUs to support new premium notebooks launching this quarter.
+In professional graphics, revenue increased by a double-digit percentage from a year ago driven by datacenter GPU sales, as we continued to gain traction in this important part of the market. We launched the Radeon Pro WX 8200 GPU for workstations in the quarter, delivering the world's best workstation graphics performance under $1,000 on real-time visualization, VR, and photorealistic editing workloads.
+We remain on track to launch the industry's first 7-nanometer datacenter GPU this quarter. Customer interest in the product is strong based on its performance and differentiated feature set, and we have already secured multiple datacenter wins with shipments expected to begin in the fourth quarter. We continue to increase investments in GPU hardware and software to deliver industry-leading products that we believe will drive growth in the gaming, professional, and datacenter markets.
+Turning to our Enterprise, Embedded, and Semi-Custom segment, third quarter revenue decreased 5% year-on-year, primarily based on semi-custom sales declining, as expected, as current generation consoles enter their sixth year. In server, we delivered our third straight quarter of strong double-digit percentage sequential revenue and unit shipment growth. We are seeing the largest demand for our top of the stack 24 and 32-core EPYC processors, which combine industry-leading core counts and I/O to deliver performance advantages across cloud, virtualization, and HPC workloads.
+We continue to accelerate engagements with our cloud service providers, highlighted by yesterday's announcement that Oracle launched new AMD-powered instances that offer significant TCO and performance advantages on general purpose cloud workloads in Oracle applications. We expect additional Tier 1 cloud service providers to announce availability of new EPYC processor deployments this quarter.
+We secured multiple new customer wins on the HPC front, including Microsoft's announcement, they would offer an EPYC processor based supercomputing instance; and that Haas Racing has chosen Cray to build an EPYC-powered supercomputer to improve their computational fluid dynamics modeling for future cars.
+Turning to enterprise adoption, we continue to build a strong pipeline and accelerate the ongoing ramps of EPYC-based offerings from the major OEMs, including Cisco, Dell and HP Enterprise. In the third quarter, we added dozens of new end customers across oil and gas, healthcare, aerospace, banking and other industries, based on the superior performance of EPYC processors in both data analytics and general purpose virtualized workloads.
+We began sampling our next generation Rome server chip broadly across our customer base in the third quarter. And the feedback on this leadership product is very strong. As a result, cloud and OEM customers are engaging earlier, deeper, and more collaboratively with us on both Rome, and our long-term data center roadmap. We remain on track to exit the year with mid-single-digit server unit market share based on cloud customer adoption. And based on our strong competitive position and broad customer engagements, we believe we can achieve double-digit server unit share with Rome.
+In closing, 2018 remains an inflection point for AMD, as we expect to exit the year with well over 50% of our revenue coming from new products, driving significant margin expansion. The foundational changes we have made across the business to strengthen our execution and the investments we have made to deliver a leadership Computing and Graphics roadmap are paying off.
+Our current generations of high performance CPUs and GPUs are doing very well in market, putting us on track to increase profitability, grow revenue and expand margin for the second straight year. We see significant opportunities to build on this momentum as we transition to our next generations of high performance products and launch the industry's first 7-nanometer x86 CPUs and discrete GPUs over the coming quarters.
+Demand for our high performance computing offerings remains strong, and our product portfolio and competitive positioning are getting stronger. We remain focused on executing our strategy and delivering our leadership product roadmap.
+Now, I would like to turn the call over to Devinder to provide some additional color on our third quarter financial performance. Devinder?
+Devinder Kumar - Advanced Micro Devices, Inc.
+Thank you, Lisa. Good afternoon, everyone. Q3 was a good quarter for AMD, as revenue, operating margin and earnings per share grew year-over-year. Gross margin was 40%, highlighted by the continuing ramp of our new Ryzen and EPYC products. We strengthened the balance sheet, reduced long-term debt by $97 million and further improved our gross leverage.
+Quarterly revenue of $1.65 billion was up 4% year-over-year, driven by higher Computing and Graphics segment revenue, with higher client revenue more than offsetting lower graphics revenue. Third quarter revenue, including (sic) [included] (11:26) IP-related revenue, of which $86 million was related to our THATIC joint venture.
+Gross margin was 40%, up 390 basis points year-over-year, primarily driven by the ramp of new products, including Ryzen and EPYC processors. On a sequential basis, gross margin was up 280 basis points, primarily driven by IP-related revenue and the ramp of new products. Excluding IP-related revenue and memory and inventory-related adjustments, third quarter gross margin would have been 2 percentage points lower.
+Operating expenses grew 12% year-over-year to $476 million, driven by R&D investments in our product roadmaps and incremental go-to-market investments. Operating income grew to $186 million from $148 million a year ago. Operating margin was 11%, and both business segments recorded double-digit operating margin percentage. Net income was $150 million compared to $100 million a year ago. Non-GAAP diluted earnings per share, using a diluted share count of 1.177 billion, was $0.13, compared to $0.09 per share a year ago.
+Now, turning to the business segment results. Computing and Graphics segment revenue was $938 million, up 12% year-over-year. Revenue growth was driven primarily by strong Ryzen product sales as we expanded our client compute offerings in the quarter. Ryzen products accounted for more than 70% of client revenue, up from approximately 60% last quarter, as we saw strength in both desktop and notebook offerings across OEM and channel partners. In graphics, channel GPU sales were down year-over-year, partially offset by strong Radeon, datacenter and OEM GPU demand.
+For comparative purposes, third quarter 2017 blockchain-related GPU sales were approximately high-single digit percent of overall AMD revenue, while blockchain revenue in the third quarter of this year was negligible.
+Computing and Graphics segment operating income was $100 million or 11% of segment revenue compared to operating income of $73 million a year ago. The increase was primarily driven by a richer client product mix and IP-related revenue, partially offset by lower graphics revenue.
+Enterprise, Embedded and Semi-Custom revenue was $715 million, down 5% year-over-year. The year-over-year revenue decrease was driven primarily by lower semi-custom product and IP-related revenue, partially offset by higher server sales. For the third quarter in a row, EPYC processor units and revenue grew by strong double digits percentages quarter-over-quarter. EESC operating income was $86 million or 12% of segment revenue. This is up from operating income of $74 million a year ago, primarily due to a richer server and semi-custom product mix.
+Turning to the balance sheet, our cash, cash equivalents and marketable securities totaled $1.06 billion at the end of the quarter, and we generated free cash flow of $62 million. Inventory was down sequentially from $750 million to $738 million. Total principal debt was $1.6 billion as we reduced our long-term debt by $97 million in the quarter. Term debt due in March 2019 is down to $66 million, and beyond that, there are no term debt maturities until 2022.
+Adjusted EBITDA was $227 million compared to $184 million a year ago, and on a trailing 12-month basis, adjusted EBITDA was $709 million, resulting in gross debt leverage of 2.2 times.
+Now, turning to our financial outlook, for the fourth quarter 2018, AMD expects revenue to be approximately $1.45 billion plus or minus $50 million. This would be an increase of approximately 8% year-over-year driven by sales growth of Ryzen, EPYC and datacenter GPU products. For comparative purposes, Q4 2017 revenue was $1.34 billion, adjusted for the ASC 606 revenue accounting standard, and included blockchain-related GPU sales of approximately low-double digit percent of overall AMD revenue. Sequentially, the midpoint of third quarter revenue outlook would be a decrease of approximately 12% driven primarily by lower semi-custom sales.
+In addition, for Q4 2018, we expect non-GAAP gross margin to be approximately 41%, up from 34% in the prior year, driven by the ramp of Ryzen, EPYC and datacenter GPU processors. Non-GAAP operating expenses to be approximately $465 million. Non-GAAP interest expense taxes and other to be approximately $30 million and free cash flow to be positive. For the full year 2018, we continue to expect annual revenue growth of mid-20s percent and to be free cash flow positive, and we now expect non-GAAP gross margin in excess of 38%.
+In closing, the third quarter was a good quarter as we continued to ramp our new products. This momentum is driving improvement in our financial results against a backdrop of expanding customer demand as we prepare to ship and launch our first 7-nanometer GPU products before the end of the year. We are executing on our strategy and investment in financial priorities as we continue making excellent progress towards our long term target financial model.
+With that, I'll turn it back to Laura for the question-and-answer session. Laura?
+Laura Graves - Advanced Micro Devices, Inc.
+Thank you, Devinder. Operator, we're ready for our first question.
+Question-and-Answer Session
+Operator
+Certainly. Our first question today is coming from Mark Lipacis from Jefferies. Your line is now live.
+Mark Lipacis - Jefferies LLC
+Hi. Thanks for taking my question. First question, if I may, Lisa, as you look into the fourth quarter and maybe discuss also the third quarter, can you just review the important puts and takes on the revenues, on the microprocessor and GPU side separately? And I know you don't like to discuss the competition, but I think there's some unique things going on in the competitive environment. I think there's a view that Intel's capacity constrained and with Nvidia's new product launches, how is that impacting how we should be thinking about the revenues? Thank you.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes. Hi, Mark. Thanks for the question. So, let me take those in order here. So, if we just look at the third quarter revenue, I would say that we did see a shift in our revenue mix as we went through the third quarter. Looking at the individual product lines, we had expected that the client business would be strong as we were ramping quite a few new notebook OEM systems as well as we had strong desktop product portfolio. And we saw the client business was strong. It was actually probably a bit stronger than we expected. The server business also performed quite well.
+In the graphics business, we had our OEM and datacenter compute business performing well, but we did see the softness in the channel that was larger than we expected, and that was due to some of the channel inventory comments that I made earlier.
+Now, as you shift into the fourth quarter, I think what we see is that our fourth quarter revenue mix really mixes towards the new products. And so, what you see in the product lines are, you'd see that client business continue to grow. And client is usually seasonally down into the fourth quarter, so we're doing better than seasonality with the client business. We expect the server business to grow as well as we get more traction with our EPYC products, especially in the cloud.
+And then, we would expect, with our graphics business, that that will also grow sequentially, primarily on the strength of new products around our datacenter GPUs. And the semi-custom business actually will decline sequentially. The semi-custom business always declines in the fourth quarter. I would say this fourth quarter is a bit more pronounced; it gets a bit more pronounced as we get later in the cycle, as well as the fact that the ASC 606 accounting regulations tended to pull some of the revenue earlier in the year. But hopefully, that gives you a view of sort of the puts and takes around revenue.
+Mark Lipacis - Jefferies LLC
+That's very helpful. And a follow-up, if I may, I think I heard Devinder say that you're expecting to ship EPYC 2 before the end of this year. And if I think back to a dozen years ago, when you had the second generation of server product, that kind of signaled an opportunity an inflection in the revenues. How should we think about EPYC 2 as we go into early next year? And what does EPYC 2 bring to your customers that EPYC did not? Thank you.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. So, Mark, maybe just a correction. I think Devinder's comment was that our 7-nanometer GPU would ship here in the fourth quarter. We're on track to launch that here shortly. The second generation of EPYC, our 7-nanometer CPU, will ship in 2019. We are broadly sampling it now. I think from what we see, the performance is very competitive. And also many of our customers have had a chance to really spend time with the first generation of EPYC, get to learn our architecture and do much of the platform bring-up.
+So, we're excited about what the second generation of EPYC can do for us. We're going to talk a little bit more about that in a couple weeks at our datacenter event, but we believe that our competitive position gets stronger as we get into 2019.
+Mark Lipacis - Jefferies LLC
+Thanks for the clarification.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Thanks, Mark.
+Operator
+Thank you. Our next question today is coming from Hans Mosesmann from Rosenblatt Securities. Your line is now live.
+Hans Mosesmann - Rosenblatt Securities, Inc.
+Thanks. Hey, Lisa, can you give us the puts and takes â or Devinder or both â on the gross margin dynamic in Q3? And also in Q4, is there an IP component in Q4? And I have a follow-up. Thanks.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Sure. Maybe let me start, and then Devinder can add. So, on the gross margin for the third quarter, I think we were up 4% year-on-year. We did have an IP component in this year as we had an IP component in the third quarter of last year. The majority of the improvement though was due to the positive product mix, sort of the client and server business really growing year-on-year, and with that, improving the product mix.
+As we go into the fourth quarter, there is no IP-related revenue that's planned right now. So, with the guide at 41% margin, we really are at the, let's call it, the low end of our long-term guidance. And, again, that's on the strength of the product mix. It's a very positive product mix for us. The processor business, as we've always said, the new products are accretive to margin. And so, the client business is expected to grow. The server business is expected to grow. The datacenter GPUs are expected to grow. And then, there is a portion of that, that is the semi-custom business declining sequentially. But I would say that's a smaller portion. It's really the positive product mix that's going into the Q4 guide.
+Maybe, Devinder, is there anything you wanted to add?
+Devinder Kumar - Advanced Micro Devices, Inc.
+No. I think you covered it, Lisa. Thank you.
+Hans Mosesmann - Rosenblatt Securities, Inc.
+Great. And then, the follow-up â if you don't mind a follow-up, as we look into early 2019, what can we expect in terms of seasonality for the semi-custom part of the business and on the PC side, just because there's some constraints out there from Intel and so on? Thanks.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, so, look, if you â Hans, our typical seasonality is the second half of the year is stronger than the first half of the year. As we go into 2019, you would expect that the semi-custom business will be down relative to this year. And then, you would expect that we're still going to need a bit of time to work through some of this graphics channel inventory that we have. But on the positive side, we do see strength in our processor business in both the client and the server side.
+As it relates to the current supply environment, we did see some pockets of constraints in the supply chain around PCs. We saw that towards the end of the third quarter. We are increasing our production such that we can satisfy some of that demand. And I think that's a short-term statement. But I think on a mid-term statement, it's an environment where we're partnering very closely with our OEMs to make sure their requirements are met.
+Hans Mosesmann - Rosenblatt Securities, Inc.
+Okay. Thank you.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Thanks, Hans.
+Operator
+Thank you. Our next question is coming from Matt Ramsay from Cowen & Company. Your line is now live.
+Matthew D. Ramsay - Cowen & Co. LLC
+Thank you. Good afternoon. Lisa, I wanted to follow up a little bit on the last, I guess, couple of sentences in your prior answer there. There is a lot of things moving in the model near term, but as we think about how you're positioning the company in the client business over the next, I don't know, 24 months or so, with some supply constraints at Intel and some changes in their marketing support for OEMs for some of those programs and their spending. How do you think about how you're positioned with the key top five or six OEMs in terms of both PC and, I guess, desktop and notebook over the next 24 months? And sort of what are the puts and takes of how much you're really willing to lean into that business in order to gain unit share? Thank you.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes, Matt, thanks for the question. So, on the PC business, particularly around client processors, I am bullish on that business. It's a good business for us. Our products are very well positioned, when you look at both the desktop and notebook segments. It was important for us to get these new platforms out into the market, and so we have 54 new notebook platforms out in the market with a few more to go, as we finish up here the fourth quarter. I think the traction that we see in terms of unit shipments, the metric around Ryzen being 70% of our client business, over 70%, and we expect that to continue to accelerate. So, we're bullish on the client business as a good business for us to grow over the next 12 to 24 months.
+Matthew D. Ramsay - Cowen & Co. LLC
+Got it. That's helpful. And just as a follow-up, I understand in a couple weeks you'll probably be talking a bit more about the datacenter GPU portfolio. But I guess there has been a lot of movement in software ecosystem as you've been working, and the team has to develop the MI-Open product in terms of software. Maybe you could give us a little bit of an update on how you feel that's positioned for Caffe and Tensor, which I guess are the two key development environments for AI, and what do you think the long-term prospects for that business are over the next couple of years. Thank you.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes. So, on the datacenter GPU business, this will continue to be an area of investment for us. I think we've made very nice progress this year. I think as we finish up the year, we expect it to again make good progress. We have invested in both the hardware and the software side, so I think the 7-nanometer GPU starting shipments here in the fourth quarter is important for us. And on the software side, yes, we will also be updating the status of our software environment.
+I think the nice thing is, as we said, the datacenter is just an enormous opportunity whether you're talking about CPUs or GPUs, and we're engaging deeply with cloud customers, who are spending the time and the resources to optimize to our architecture. So, again, I think a datacenter tends to take longer from design win to revenue, but we're starting to see some nice signals there.
+Matthew D. Ramsay - Cowen & Co. LLC
+All right. Thanks very much.
+Operator
+Thank you. Our next question today is coming from Mitch Steves from RBC Capital Markets. Your line is now live.
+Mitch Steves - RBC Capital Markets LLC
+Hey, guys. Thanks for taking my questions. I had two of them really quick. The first is actually on the CPU side, the server side. So, is there any reason why a 10-nanometer chip wouldn't be able to outperform your 7-nanometer product, given that you've already been able to do some of the testing on the server side?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Maybe I would answer the question this way. When we look at our 7-nanometer product and its positioning in 2019 across the server landscape, we feel very good about the positioning. I think it's not just 7-nanometer, 7-nanometer is important, but we've also made some significant changes to the architecture as well as how â sort of the system. So, I think, overall, we feel with the design and process capabilities, that our 7-nanometer products will be quite competitive.
+Mitch Steves - RBC Capital Markets LLC
+Got it. And then, secondly, in terms of production, I know you guys kind of gave out the mid-singles and double-digit market share opportunity in the server side. So, is that due to capacity constraints at TSMC or is that due to your own estimates of what type of share you think you can get?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Well, we have a great relationship with TSMC. I think they're very supportive of our roadmap in 7-nanometer. So, it's not due to any supply constraints. It's just due to the time that we believe it will take for vendors to really qualify new systems.
+Mitch Steves - RBC Capital Markets LLC
+Got it. And just one last really small one for me, the graphics business, the highest blockchain or cryptocurrency quarter was Q1 of 2018, is that correct?
+Lisa T. Su - Advanced Micro Devices, Inc.
+The highest â it was between Q4 and Q1. They were pretty close.
+Mitch Steves - RBC Capital Markets LLC
+Okay. Perfect. Thank you.
+Operator
+Thank you. Our next question is coming from Vivek Arya from Bank of America Merrell Lynch. Please proceed with your question.
+Vivek Arya - Bank of America Merrill Lynch
+Thanks for taking my question. For the first one, Lisa, can you help us kind of quantify how much of a headwind was that excess graphics inventory in Q3 and maybe also in Q4, so we can reconcile some of the differences between what you're reporting and guiding versus some of the consensus expectations out there?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. Sure, Vivek. So, the best thing I can say is when we look at the CG segment as a segment, we're down about $150 million here in the third quarter. We had expected the segment to be down, but we probably expected it to be down about $50 million or so. And if you look at that difference from when we started the quarter, that's entirely the GPU channel. We had some other puts and takes in there, but it's basically the GPU channel.
+As we go into the fourth quarter, we do expect graphics to be up, and that's primarily on the strength of the datacenter GPU business. And we're modeling the channel, let's call it, roughly flattish. It's seasonally about flattish, but given some of the inventory in the channel, that's how we're modeling. Does that help you?
+Vivek Arya - Bank of America Merrill Lynch
+Yes. So, basically, you're saying this problem kind of goes away in Q4 or you're done with it by now? Or can it continue to be a headwind in Q4?
+Lisa T. Su - Advanced Micro Devices, Inc.
+We are expecting that it might take a couple quarters to completely get back to, let's call it, a normal channel. However, it is factored into our Q4 guidance.
+Vivek Arya - Bank of America Merrill Lynch
+All right. And then the second one, Lisa, is on the server business. You outlined the target to get to mid-single digit exiting this year. Is the next 5% share easier or tougher to get? How do you think your competitor will respond? And how important is it to ramp your 7-nanometer product next year to get towards that â to make that jump from the 5% to the next target of 10% share?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, so the way I look at it, Vivek, is it's really a continuum, and the continuum is we have a number of customers that are very actively working with EPYC. I think the first 5% does include some cloud customers ramping, and that's important. And then, as we go beyond that, we would expect that they're more used to our architecture. Our architecture is socket compatible between the first and second generation. We're sampling it now. And so, I think the idea is we would like to see some acceleration in that, as we bring in the 7-nanometer product, but we'll certainly have to go through that process.
+Vivek Arya - Bank of America Merrill Lynch
+Thank you.
+Operator
+Thank you. Our next question is coming from Stacy Rasgon from Bernstein Research. Your line is now live.
+Stacy Aaron Rasgon - Bernstein Research
+Hi, guys. Thanks for taking my questions. First, I wanted to ask about graphics trajectory in the next year. I mean, given my math â I know you talked about maybe $100 million light versus your expectations, but my math suggests it might have fallen as much as $250 million sequentially, if you're going to get it at least to the level that it was last year. And if I look at what that trajectory means going forward, if I asked you whether or not you thought graphics revenues could be down 20% year-over-year in 2019, like how would you feel about that? What's your response to that?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah. Stacy, let me make sure I clarify the first comment, and then I'll certainly answer your comment. My comment was at the segment level. So, at the segment level, I said we were about $100 million light. And I also said that client performed a little bit better than expected. So, I think you can say that it was probably â if you â that should help quantify sort of Q3. When I look at it going forward, I would not expect that type of decline on a year-on-year basis. I think what you'll see is some funky seasonality, right? So, the first half of the year was very strong for graphics. I think the first half of 2019 will not be very strong for graphics.
+But we have a number of product launches coming up, and we're pretty excited about some of those product launches. And so, I would view that â we need to work off some of this channel inventory that's in place, and then go back to sort of a more typical seasonality, which would see the second half stronger than the first. Does that help?
+Stacy Aaron Rasgon - Bernstein Research
+Okay. That does help. Thank you. For my follow-up, I want to ask about the datacenter GPU. So, you've been talking a lot about that. You've actually been calling it out as driving, like, some of the growth in the current quarter and going forward. How big is that today? I mean, you're calling it out, but can you give us an order of magnitude? I mean, is it more than $20 million in the quarter at this point? Where do you see that going into Q4? Like, what are your expectations, as you ramp the 7-nanometer product into next year?
+Lisa T. Su - Advanced Micro Devices, Inc.
+You always have a way of asking the most granular questions. I would say...
+Stacy Aaron Rasgon - Bernstein Research
+I don't think it's that granular.
+Lisa T. Su - Advanced Micro Devices, Inc.
+It is more than $20 million. We do see it as a driver. We do see it as more of a driver as we go into 7-nanometer. And this is one of those cases where typically the datacenter products ramp slowly, but as you know, the deployments can sometimes be lumpy. And there's good traction on some early design wins. And so, we expect it to be a meaningful contribution in Q4.
+Stacy Aaron Rasgon - Bernstein Research
+Got it. And just, one more really quickly, how do you feel about your $0.75 in 2020? Are you still holding to that?
+Lisa T. Su - Advanced Micro Devices, Inc.
+There are no changes to our long-term financial model at this point.
+Laura Graves - Advanced Micro Devices, Inc.
+Yeah, not today.
+Stacy Aaron Rasgon - Bernstein Research
+Not today. Okay. Thank you.
+Operator
+Our next question today is coming from Ross Seymore from Deutsche Bank. Your line is now live.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Hi, guys. Thanks for letting me ask a question. I just want to go back to the IP side of things. You gave some color about the fact that it's not contributing anything in the fourth quarter, and that's helpful on the gross margin side. But one other detail, Devinder or Lisa, is I think the $86 million you talked about, you said that was a portion of the IP, and then you had some other inventory related changes. Can you just give us a little bit more color on the size of those different buckets? How big was IP overall? Anything there would be helpful.
+Devinder Kumar - Advanced Micro Devices, Inc.
+Yeah, on the IP, I think as we talked about, there's $86 million that's associated with our THATIC joint venture. There was some other IP, call it, about approximately about $35 million in the quarter, and that is why we talk about it in two parts.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Great. Thank you. And then as my follow-up, as I'm looking at the GPU side of things, not to kind of beat the dead horse there too much more, but the ASP side of that equation or pricing side, is the channel inventory clearing dynamic something that also manifests itself on pricing pressure? Or is it just a matter of time to absorb that inventory which, Lisa, I think you said was going to be a flat dynamic in the fourth quarter, but it sounded like it was going to be returning to a headwind in the first half of next year?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, no, if that's how it sounded, that's not what I meant. So, I would say that the GPU â let's call it, the weakness in the GPU channel or primarily in the sell-in, is, let's call it, for â we might see that for the next quarter or two. But as you look through the overall business, I think gamers are still buying GPUs, and so this is really a matter of just absorbing some of the first half let's call it oversupply as it relates to GPUs. And that's translating into a bit weaker sell-in. But we are still tracking the sell-out and the sell-through through the â to the end customers.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+And if I could sneak in one quick one, just OpEx intensity. I know you're not going to guide for OpEx for 2019. But the 26% to 29%, how do we think about where you are in the investment stage where whether it's the EPYC or the other new products â EPYC 2, I should say or the other new products, where you kind of get over the hump and you don't need to invest as much? Is that a framework we should think about? Or do you believe the opportunities are big enough and the competitors are spending enough that, that OpEx intensity in that range is likely to persist?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Well, I think, Ross, if you look on an annual basis for 2008 (sic) [2018] (40:48), we'll be approximately 28% of OpEx to revenue. And I think what we said in the past is we will grow OpEx, but we will grow it slower than revenue growth on an annual basis. And that's still our philosophy.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Great. Thank you.
+Operator
+Thank you. Our next question is coming from Joe Moore from Morgan Stanley. Your line is now live.
+Joseph Moore - Morgan Stanley & Co. LLC
+Great. Thank you. If you said this, I may have missed it. But can you talk about how much servers grew sequentially in Q3? I guess you were fairly specific on that point in Q2. I think you said double digits this quarter. Do you expect to be sort of â as you talk about mid-single digit next quarter, are you kind of halfway to that target this quarter? Just help us calibrate where server is.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, I think, Joe, it would be fair to say that with strong double digits this quarter, and we'd just say we're about halfway, I think that's reasonable, plus or minus.
+Joseph Moore - Morgan Stanley & Co. LLC
+Okay. Great. And then with regards to the 7-nanometer, I know you're going to talk more about this as at the product launch. But can you talk about what 7-nanometer itself gives you? Do you expect there to be a higher sort of clock speed on the microprocessors and the GPUs? Is it a better transistor budget? Is it a better cost per transistor? Obviously, there's a lot of writing on you guys being early in both segments on 7-nanometer. Can you just talk about the benefits of that?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes, and we will go through this in a lot more detail on November 6. But at a high level, I think 7-nanometer gives us better density. So, for a given system, we can put more cores on it. It gives us better power, so that gives us total cost of ownership. And it does give us better performance as well.
+Joseph Moore - Morgan Stanley & Co. LLC
+Great. Thank you.
+Operator
+Thank you. Our next question is coming from John Pitzer from Credit Suisse. Your line is now live.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Yeah, good afternoon, guys. Thanks for letting me ask the question. Lisa, congratulations on the strong gross margin results. I just wanted some clarification. The calendar fourth quarter guidance, does that include IP revenue in the gross margin? And clearly, gross margin's being helped in December by the growth in new products, but it's probably also being helped by the sharp falloff in semi-custom. Should we think about kind of the gross margin level in December as being the new floor off of which you can continue to grow sequentially, even as semi-custom comes back seasonally? Or how do I think about that? And I have a follow-up.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes. So, on the gross margin, [Technical Difficulty] (43:25) Q4 guidance, there is no assumed IP-related revenue. So, that's all product. We do have, as I said earlier, a very positive product mix within the processor side of the business, so the client, the server, as well as the data center GPUs. We are helped somewhat by the fact that semi-custom is down. But I would say the much larger piece of that is the product related growth in new products.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Is this the new floor, Lisa, or is it too hard to tell?
+Lisa T. Su - Advanced Micro Devices, Inc.
+I don't know if I would say it's the new floor. I would say that we're very pleased that we're at the lower end of our long-term guidance. And certainly, we'll see what the puts and takes are as we go from a quarterly standpoint into 2019. But on a full year basis, in 2018, I think Devinder mentioned this in his prepared remarks, we're now over 38%. We've really grown margins every quarter over the last number of quarters and we're happy with that. I think that's the strength of the model. We've always said that the strength of the model is improving the product mix and I think that's what we see here today.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+And then, Lisa, I apologize, if I missed it, but just relative to your Q4 guidance, given some of the capacity issues that your competitor's having, is there any share gain â incremental share gain assumptions based upon shortages of CPUs? Is that something that should be a tailwind in Q4? Or does that take longer and might be something we don't see until the calendar first quarter? Any commentary around that would be helpful.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, we do see pockets of shortages. We are ramping up production. I do believe we see some incremental benefit here in the fourth quarter. But I don't want to take away from the fact that we have a strong portfolio, and we have a lot of platforms ramping. So, the client business was always going to be up for us in Q4 and, are we benefiting a bit from let's call it some of the pockets of shortages? Perhaps.
+John William Pitzer - Credit Suisse Securities (USA) LLC
+Thanks.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Thank you.
+Operator
+Thank you. Our next today is coming from Aaron Rakers from Wells Fargo. Your line is now live.
+Aaron Rakers - Wells Fargo Securities LLC
+Yeah. Thank you for taking the questions. I have two, as well, if I can. I wanted to go into the semi-custom segment. And we've talked about kind of an elongated or near the end of the life in some of these gaming platforms. I was just kind of curious as to how you guys think about that piece of the business as we start to look into 2019? And is there a point in time where we can start to think about product cycles as driving reacceleration of growth in that segment?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes. Sure. So again, without commenting on any specific design wins, what I would say is, in 2019, we will be in the seventh year of the game console cycle, and so we do expect it to be down. And if you look at the cycles, you'll see that it's very consistent with previous cycles. When we look forward, when I look at what happens beyond 2019, I like our semi-custom business. I think it's a good business for us. I think it continues to be a place where we differentiate ourselves because of our ability to customize for various customers. And I do see it growing again beyond 2019, and it will continue to be an important part of our business.
+Aaron Rakers - Wells Fargo Securities LLC
+Okay. And then on the channel inventory dynamic, there's a lot of kind of moving parts right now in the market, and we've seen obviously with the U.S.-China tariff situation, there's been some questions around demand pull-forward or any kind of elements around the tariff situation that's impacted demand. I'm just curious, have you seen anything from your customers that has suggested that there's been any kind of demand pull-forward and any effects on your business as it relates to U.S.-China, especially as we start to look into next year and the potential for increased tariffs further?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes, so, we're monitoring the tariff situation very closely. There's a lot of activity around that. I would say from what we see today, we don't see anything material as it relates to the tariffs, whether it's pull-ins or just the overall impact of tariffs. But we are doing quite a bit to adjust our supply chain, as I'm sure many others are. We already had a supply chain that was highly multi-sourced, and so that's very helpful. And we're adjusting our supply chain to ensure that we have further options such that the tariffs are not a significant impact on our business.
+Aaron Rakers - Wells Fargo Securities LLC
+Okay. Thank you.
+Operator
+Thank you. Our next question is coming from Harlan Sur from JPMorgan. Your line is now live.
+Harlan Sur - JPMorgan Securities LLC
+Good afternoon, and thanks for taking my question. On the weakness in the channel-based GPUs, I'm just wondering if some of the weakness is due to the gaming bans in China? It looks like China is hindering the introduction of new games, but not sure if it's impacting actual GPU sales, and sort of the enthusiast gamer's motivation to kind of move up the stack?
+Lisa T. Su - Advanced Micro Devices, Inc.
+I don't think we see that specifically, Harlan. I think what we're seeing is more just we had very strong demand in the first half of this year. And as the supply chain filled up, we're just seeing some excess inventory that needs to be worked through right now. We're not seeing anything specific relative to that China issue you mentioned.
+Harlan Sur - JPMorgan Securities LLC
+Great. Thanks for the insights there. And then, on the wafer supply agreement with GLOBALFOUNDRIES, now that they're not going to be supporting 7-nanometer, you'll be moving I think most of your 7-nanometer client products to TSMC. And as of right now, I think you guys still need to pay them a fee for every 7-nanometer product you produce at TSMC. Can you just give us an update on the new wafer supply agreement that doesn't include 7-nanometers? Obviously, this should be beneficial for your gross margins.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yes. So, look, GLOBALFOUNDRIES is a good partner. They continue to be a very important partner for us. We are in discussions with them about how to update our agreement post their strategy updates, and we're making good progress on that. So, we'll give you more detail as we get closer, but overall, GLOBALFOUNDRIES continues to be an important partner for us.
+Harlan Sur - JPMorgan Securities LLC
+Yeah, absolutely. Thanks, Lisa.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Thanks, Harlan.
+Laura Graves - Advanced Micro Devices, Inc.
+Operator, we have time for two more questions, please.
+Operator
+Certainly. Our next question is coming from Blayne Curtis from Barclays. Your line is now live.
+Blayne Curtis - Barclays Capital, Inc.
+Hey. Good afternoon. Thanks for taking my question. Just a question and a follow-up on THATIC, the $86 million. My understanding is you had an original agreement. You were getting an OpEx offset, and then eventually if there was product revenue, you'd recognize that revenue with your portion of your ownership on those wafers. So, I'm just kind of curious, what's this $86 million? Is it additional IP? And any color as to what it's for, if possible?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, Blayne, it is related to some additional IP with THATIC. And we've completed some technology milestones in this past quarter. And so that's what that was.
+Blayne Curtis - Barclays Capital, Inc.
+Got you. And then I wanted to ask you â it's been well-known that there is graphics inventory. You mentioned that graphics pricing was down. Just kind of curious your expectation for that discounting as we get into the end of the year here. What have you seen? And what are your expecting as you look into December?
+Lisa T. Su - Advanced Micro Devices, Inc.
+Yeah, we're not expecting any significant changes from an ASP standpoint, if that's what you're asking. I think what we see is the inventory just has to be worked through, and it's working through the system.
+Blayne Curtis - Barclays Capital, Inc.
+Okay. Thank you.
+Operator
+Thank you. Our final question is coming from Toshiya Hari from Goldman Sachs. Your line is now live.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Great. Thank you for taking the question. I did join a little bit late, so I do apologize, if you addressed this. Lisa, I just had a question on the client CPU business and how you think about market share versus profitability going forward. Given some of the shortages near term, I'm sure you have the opportunity to pick up share, if you wanted to but perhaps at a lower gross margin. So how do you think about the client business over the next year or two? How do you balance market share versus profitability? Thank you.
+Lisa T. Su - Advanced Micro Devices, Inc.
+Sure. So, the Client business is a good business for us from a margin standpoint. And as we look forward, we look at it as an end-to-end portfolio. So, we really do have an end-to-end portfolio across notebook and desktop, and our goal is to continue to improve the profitability of that business.
+As it relates to unit share, I think unit share is certainly important. We look at revenue growth overall as important for that business, but I believe we'll be able to do that at good margins and to continue on our margin path.
+Toshiya Hari - Goldman Sachs & Co. LLC
+Thank you.
+Operator
+Thank you. We've reached the end of our question-and-answer session. I'd like to turn the floor back over to management for any further or closing comments.
+Laura Graves - Advanced Micro Devices, Inc.
+Thank you very much for joining our conference call today, everyone. This does conclude our call.
+Operator
+Thank you. That does conclude today's teleconference. You may disconnect your line at this time, and have a wonderful day. We thank you for your participation today.

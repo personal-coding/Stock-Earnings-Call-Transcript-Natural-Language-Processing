@@ -1,0 +1,252 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q3 2013 Results Earnings Call October 17, 2013 5:30 PM ET
+Executives
+Ruth Cotter - Vice President, Investor Relations
+Rory Read - President and CEO
+Devinder Kumar - Senior Vice President and CFO
+Lisa Su - Senior Vice President and General Manager, Global Business Units
+Analysts
+David Wong - Wells Fargo
+Hans Mosesmann - Raymond James 
+Vivek Arya - Bank of America Merrill Lynch
+John Pitzer - Credit Suisse
+Ross Seymore - Deutsche Bank
+Romit Shah - Nomura
+Joe Moore - Morgan Stanley
+Christopher Rolland - Friedman, Billings, Ramsey & Co
+Srini Pajjuri - CLSA Securities
+Kevin Cassidy - Stifel
+Ambrish Srivastava - BMO
+Patrick Wang - Evercore
+Operator
+Good afternoon. My name is Huey, and Iâll be your conference operator for today. At this time, Iâd like to welcome everyone to AMDâs Third Quarter 2013 Earnings Conference Call. All lines have been placed on a listen-only mode at this time. After the speakersâ remarks, you will be invited to participate in the question-and-answer session. As a reminder, this conference is being recorded today.
+I would now like to turn the conference over to Ms. Ruth Cotter, Vice President of Investor Relations for AMD. Please go ahead.
+Ruth Cotter
+Thank you. And welcome to AMDâs third quarter earnings conference call. By now, you should have had the opportunity to review a copy of our earnings release and the CFO commentary and slides. If you have not reviewed these documents, they can be found on AMDâs website at quarterlyearnings.amd.com.
+Participants on todayâs conference call are Rory Read, our President and Chief Executive Officer; Devinder Kumar, our Senior Vice President and Chief Financial Officer; and Lisa Su, our Senior Vice President and General Manager, Global Business Unit will be present for the QA portion of the call. This is a live call and will be replayed via webcast on amd.com.
+I would like to highlight few dates for you. Devinder Kumar will attend the Credit Suisse Technology Conference on December 3rd in Arizona. John Byrne, our Senior Vice President and Chief Sales Officer will attend the Raymond James IT Supply Chain Conference on December 10th and the BMO 2013 Tech and Media Conference on December 11th.
+Our fourth quarter quiet time will begin at the close of business on Friday, December 13th. And lastly, we intend to announce our fourth quarter and year end earnings on January 21, 2014, dial-in information for that call will be provided in mid-December.
+Please note that non-GAAP financial measures referenced during this call are reconciled to their most directly comparable GAAP financial measure in the press release and CFO commentary posted on our website at quarterlyearnings.amd.com.
+Before we begin today, let me remind everyone that the discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date, and as such, involve risks and uncertainties that could actually cause results to differ materially from our current expectation.
+Please refer to the cautionary statement in our press release for more information. You may also find detailed discussion about our risk factors in our filings with the SEC and in particular, AMDâs quarterly report on Form 10-Q for the quarter ended June 29, 2013.
+Now with that, I would like to hand the call over to Rory. Rory?
+Rory Read
+Thank you, Ruth. Third quarter revenue of $1.46 billion increased 26% sequentially and 15% year-over-year as we returned to profitability and delivered positive free cash flow. Revenue was higher than guided based on incremental demand for our new semi-custom SOCs. The three step turnaround plan we outlined a year ago to restructure, accelerate and ultimately transform AMD is clearly paying off. We completed the restructuring phase of our plan, maintaining cash at optimal levels and beating our $450 million quarterly operating expense goal in the third quarter. We are now in the second phase of our strategy â accelerating our performance by consistently executing our product roadmap while growing our new businesses to drive a return to profitability and positive free cash flow. 
+We are also laying the foundation for the third phase of our strategy, as we transform AMD to compete across a set of high growth markets. Our progress on this front was evident in the third quarter as we generated more than 30% of our revenue from our semi-custom and embedded businesses. Over the next two years we will continue to transform AMD to expand beyond a slowing, transitioning PC industry, as we create a more diverse company and look to generate approximately 50% of our revenue from these new high growth markets. 
+We have strategically targeted that semi-custom, ultra-low power client, embedded, dense server and the professional graphics market where we can offer differentiated products that leverage our APU and graphics IP. Our strategy allows us to continue to invest in the product that will drive growth, while effectively managing operating expenses. This has been exemplified by the 10% sequential reduction in our expense to revenue ratio, as we drive to best-in-class performance on this key metric.
+Several of our growth businesses passed key milestones in the third quarter. Most significantly, our semi-custom business ramped in the quarter. We successfully shipped millions of units to support Sony and Microsoft, as they prepared to launch their next-generation game consoles. Our game console wins are generating a lot of customer interest, as we demonstrate our ability to design and reliably ramp production on two of the most complex SOCs ever built for high-volume consumer devices. We have several strong semi-custom design opportunities moving through the pipeline as customers look to tap into AMDâs IP, design and integration expertise to create differentiated winning solutions. 
+We made good progress in our embedded business in the third quarter. We expanded our current embedded SOC offering and detailed our plans to be the only company to offer both 64-bit x86 and ARM solutions beginning in 2014. We have developed a strong embedded design pipeline which, we expect, will drive further growth for this business across 2014. 
+We also continue to make steady progress in another of our growth businesses in the third quarter, as we delivered our fifth consecutive quarter of revenue and share growth in the professional graphics area. We believe we can continue to gain share in this lucrative part of the GPU market, based on our product portfolio, design wins [in place] [ph] and enhanced channel programs. 
+In the server market, the industry is at the initial stages of a multiyear transition that will fundamentally change the competitive dynamic. Cloud providers are placing a growing importance on how they get better performance from their datacenters while also reducing the physical footprint and power consumption of their server solution.
+This will become the defining metric of this industry and will be a key growth driver for the market and the new AMD. AMD is leading this emerging trend in the server market and we are committed to defining a leadership position.
+Earlier this quarter, we had a significant public endorsement of our dense server strategy as Verizon announced a high performance public cloud that uses our SeaMicro technology and Opteron processor. We remain on track to introduce new, low-power X86 and 64-bit ARM processors next year and we believe we will offer the industry leading ARM-based servers.
+Now, looking at our traditional businesses. In the third quarter, our graphics business was in transition as our AIB [add-in-board] partners prepare to launch new products based on our new R7 and R9 graphics chips.
+The transition is now complete and weâre seeing strong demand for our new products which we believe will -- can drive consistent growth in the coming quarters. A key innovation in these new chips is Mantle. Mantle was developed in conjunction with game developers to allow them to take better advantage of the capability of AMDâs latest graphics cores resulting in dramatically better performance and power efficiency.
+Mantle also means the investments developers make to create great content for the Sony and Microsoft consoles translates into optimized experience for all AMD APUs and GPUs moving forward.
+Turning to the PC business, the 300 million plus unit market remains an important part of our business but the market is clearly in transition. As evidenced in the third quarter by consumer, notebook softness, which we expect to continue for the next several quarter as tablet adoption increases and our customerâs inventory levels remain lean.
+We expect PC industry unit shipments will decline approximately 10% this year and by a similar amount in 2014. We have the right product in IT and will continue to compete effectively in this market.
+We are well positioned to expand our channel business and strategic OEM partnerships around consumer notebook and commercial product. Kabini continues to ramp and support of a number of high volume OEM platforms and Temash adoption is growing.
+Toshiba and HP announced the first Temash powered convertibles and we expect more designs from other OEMs to launch this quarter. Our work to strengthen our desktop business is gaining momentum.
+We delivered the second straight quarter of channel revenue growth based on strong demand for our high-end A8 and A10 APUs and FX CPUs. We expect this trend to continue.
+We remain on track to begin shipping our next generation Kaveri APU for the channel this quarter. And key motherboard partners are already offering new product in anticipation of this launch.
+So in summary, we are successfully hitting key milestones of our three-step strategy to diversifying and transform our business. We have completed the first step, restructuring AMD and stabilizing our business.
+We effectively managed cash at the optimal level and beat our $450 million quarterly operating expense goal in the third quarter. We are now in the second phase, accelerating our performance by consistently executing our product road map and growing our new businesses.
+Our success here drove 26% sequential revenue growth and returned AMD to profitability and generated free cash flow in the third quarter. Our progress sets us up to ultimately transform AMD in the third and final step, as we leverage our IP and design expertise from our traditional businesses to generate approximately 50% of our future revenues from high-growth markets over the next two years. We are in the middle of a multi-year journey we outlined over a year ago to redefine AMD as a leader across the more diverse set of growth markets. 
+I like to take this opportunity to thank AMD-ers across the world who have poled together to deliver on our commitment and successfully execute our plan. The job is not done but we are making good and real progress. I look forward to the next step of our strategic transformation. 
+Now Iâd like to hand the call over to Devinder. Devinder?
+Devinder Kumar
+Thank you, Lorry. Our third quarter results met or exceeded our guidance for revenue, gross margin, operating expenses and cash, although inventory was higher than guided. We completed the first phase of our three-step plan to transform AMD -- the reset and restructure phase, and we are performing well in the second phase, accelerating our business and executing on our 2013 product roadmap.
+In the third quarter, we made progress towards our goal of diversifying our product portfolio, as we successfully ramped our semi-custom products. Specifically, our semi-custom and embedded revenue accounted for more than 30% of total company revenue, exceeding the target of 20% of revenue by the fourth quarter of 2013. 
+Finally, we returned to profitability, both in operating and income, met our target of reducing operating expenses to $450 million and generated positive free cash flow ahead of plan. Significant change is underway at AMD, as we continue our transformation into 2014 and beyond.
+Now let me turn to the specifics of the quarter. Revenue for the third quarter of 2013 was $1.46 billion, an increase of 26% from the second quarter and an increase of 15% year-over-year. This represents the highest sequential revenue growth in the past five years. The increase was driven by more than doubling of our graphics and visual solutions segment revenue quarter-on-quarter, primarily from the ramp of our semi-custom SOCs. 
+Gross margin was 36%, down 4 percentage points sequentially and in line with our expectations, as we grew our semi-custom business, which has lower than corporate average margins but significant revenue and earnings power as volumes ramp. You will recall that the semicustom NRE operating model drives significantly lower operating expenses for this business, with the majority of its gross margin dollars falling through to operating income. The third quarter result includes a $19 million benefit, or approximately 1 percentage point from the sale of inventory previously reserved in the third quarter of 2012, as compared to an $11 million benefit, or approximately 1 percentage point in the second quarter of 2013. 
+Non-GAAP operating expenses were $443 million, slightly below our targeted level of $450 million, primarily due to the timing of certain marketing-related expenses. Non-GAAP operating income was $78 million and non-GAAP net income was $31 million, both of which exclude a gain of $22 million from the real-estate transactions in the quarter. Non-GAAP earnings-per-share were $0.04, calculated using 764 million diluted shares. Adjusted EBITDA was $153 million, an increase of $99 million from the prior quarter, primarily due to improved operating income. 
+Now turning to the business segments. Computing Solutions segment revenue was $790 million, down 6% sequentially, due to lower notebook and chipset unit shipments, partially offset by higher desktop unit shipments. Computing Solutions operating income was $22 million, up from $2 million in the second quarter despite the sequential 6% decline in revenue, driven by lower operating expenses.
+Graphics and Visual Solutions segment revenue was $671 million, more than double last quarterâs level, driven by shipment of game console, semi-custom SoCs. Graphics and Visual Solutions segment operating income was $79 million, compared to breakeven in the prior quarter, primarily due to the semi-custom business.
+Operating margin for the semi-custom business was in the mid teens, primarily due to higher revenue and a very smooth [trend] [ph] in our first full quarter of production. Moving forward, we expect semi-custom operating margin performance to continue to improve as the business gains traction, volumes increase and cost improve.
+Turning to the balance sheet, our cash, cash equivalents and marketable securities balance including long-term marketable securities was $1.2 billion. Third quarter real estate transactions generated cash proceeds of $56 million. We remain committed to operating and funding the business appropriately and continue to have a number of liquidity bolstering opportunities available.
+Inventory, as I stated earlier, was higher than guided at $922 million, largely driven by next-generation game console product ramps and preparation for fourth quarter shipments of our new Graphics products. That, as of the end of the quarter was $2 billion, flat from the prior quarter.
+Accounts payable at the end of the quarter was $574 million, up $172 million from the second quarter due to the timing of purchases and payments.
+Depreciation and amortization was $52 million, down $2 million sequentially. And lastly, we generated positive free cash flow of $6 million in the quarter.
+Now turning to the outlook. For the fourth quarter of 2013, AMD expects revenue to increase 5% sequentially, plus or minus 3%. Non-GAAP gross margin is expected to be approximately 35%, as our semi-custom business continues to represent a greater portion of our overall revenue. We expect to continue to maintain quarterly non-GAAP operating expenses in the $450 million range and expect to be profitable at the net income level.
+Inventory is expected to be flat from third quarter levels and cash is expected to be approximately $1.2 billion. Capital expenditures for the full year 2013 are expected to be approximately $110 million, down from our prior guidance of $150 million.
+In summary, our execution and product diversification strategy is showing results as evidenced by our return to profitability in the third quarter of 2013. We are pleased to have delivered on our financial commitment so far this year, some ahead of schedule and expect to continue these positive trends in the fourth quarter.
+With that, I'll turn it back to Ruth? Ruth?
+Ruth Cotter
+Thank you, Devinder. And Operator, weâd be happy for you to pull the audience please for some questions.
+Question-and-Answer Session
+Operator
+Sure. Thanks. (Operator Instructions) Our first question in queue will come from the line of David Wong with Wells Fargo. Please go ahead. Your line is open.
+David Wong - Wells Fargo
+Thanks very much. I think in your CFO commentary you pointed out that Graphics would decline because of the transition to the new product. Now that and you also said that the new products have transitions. So do we expect a jump in Graphics revenue in the fourth quarter and also what does your guidance assume in terms of microprocessor revenue sequential growth? Is it up or down in the fourth quarter?
+Lisa Su
+Hi, David. This is Lisa. Let me take the Graphics question. So, first, weâve talked about Graphics as a multi-quarter growth strategy for us in terms of market share and we are certainly seeing that we are executing on that path.
+When we look at the third quarter relative to the fourth quarter and where we are going we have built a very strong product portfolio. We just announced our full lineup for the R7 and R9 Series and those were launched in September and shipping in October. So we did see a little bit of a transition at the end of the third quarter, but we do expect to gain share in the fourth quarter with our graphics business.
+Rory Read
+And from a CPU standpoint, David, I think you will see that the market continues to be in transition. There is no doubt for 2013 we see the market down 10%, we see that continuing into 2014. As we manage our portfolio into fourth quarter, we want to keep a long view to the quarter. We know 1Q and 2Q are going to be seasonality light; thatâs just how it is. And we want to make sure weâre managing inventory and positioning properly. So I would expect we will continue to see the market feel pressure, down year to year and I would expect that we will manage this and not lean into it to make sure we have a more consistent revenue path as we go into 2014.
+David Wong - Wells Fargo
+One final one, I think you noted your semi-custom business operating margin was in the mid-teens, so that was quite a bit better than youâd expected initially. Can you improve it from here, or is this the right operating margin for us to think of for the current consoles semi-custom business?
+Devinder Kumar
+I think David, you are right. I mean the operating margin, when we discussed this last quarter, I had said low double digits, it came in at the mid-teens, and really thatâs credit to the higher revenue that we had in the quarter and the successful execution of a very steep ramp in the product in the fiscal quarter production. And as you know, as we gain traction and get more volume and cost improvement, the operating margin could improve from the mid-teen level. 
+Rory Read
+I think itâs also important to see the kind of execution that we delivered in semi-custom in this ramp. This is one of the most complex ramp that we have seen with these set of SOCs. And whatâs really encouraging is how our customers are looking at this in terms of the innovation that we've created here, as well as our execution. And thatâs driving some serious interest in terms of our pipeline and opportunities in the semicustom space that are moving through at this time.
+Operator
+Our next question in queue will come from the line of Hans Mosesmann with Raymond James.
+Hans Mosesmann - Raymond James 
+Thank you, and congrats on the execution on the semi-custom. Hey guys, can you provide a roadmap for some granularity regarding process node transitions in 2014 and â15 as it relates to FinFETs by graphics and APU?
+Lisa Su
+Hi Hans, thanks for your question. And relative to where we are in terms of process technology node transitions, we are typically at the leading edge across the technology nodes. We are fully top to bottom in 28 nanometer now across all of our products, and we are transitioning to both 20 nanometer and to FinFETs over the next couple of quarters in terms of designs. So we will continue to do that across our foundry partners. 
+Hans Mosesmann - Raymond James 
+Specifically to FinFETs, if you donât mind?
+Lisa Su
+We will do 20 nanometer first, Hans and then we will go to FinFETs. 
+Operator
+And it looks like our next question in queue will come from Vivek Arya with Bank of America Merrill Lynch.
+Vivek Arya - Bank of America Merrill Lynch
+Rory, maybe one more on the PC business, now that Intel is starting to become more aggressive in the lower priced segment of the market, also in the tablet category with Bay Trail. And these are segments where you have traditionally held a larger market share on a relative basis. So if you are expecting the PC market to decline 10% next year and Intel continues to be aggressive in that lower priced segment of the market, how do you think your PC sales will trend next year? Just conceptually, I understand itâs too early to make a specific prediction.
+Rory Read
+From my perspective, Vivek, I think that weâve created a very interesting product set, with the current products and the feedback I'm getting from our customers in terms of the design wins and the ramp. They look solid. Our volume is solid in that space. And the next-generation products, the siliconâs already in shops. So thatâs positioning us well to continue to compete in the segment. But make no mistake about it. The PC industry is clearly in transition and will continue to be in transition, as tablet continues to attack particularly in the consumer segment. We think we can compete well and it will make a significant portion to our business moving forward.
+But think about it. Two years ago we were 90% to 95% of our business centered over PCs and weâve launched the clear strategy to diversify our portfolio taking our IT -- leadership IT and Graphics and CPU and taking it into adjacent segment where there is high growth for three, five, seven years and stickier opportunities.
+We see that as an opportunity to drive 50% or more of our business over that time horizon. And if you look at the results in the third quarter, we are already seeing the benefits of that opportunity with over 30% of our revenue now coming from semi-custom and our embedded businesses.
+We see it is an important business in PC, but its time is changing and the go-go era is over. We need to move and attack the new opportunities where the market is going, and thatâs what we are doing.
+Vivek Arya - Bank of America Merrill Lynch
+Got it. And maybe one for, Devinder, on the cash side, I think, Devinder in the prepared comments you said that you expect to be at $1.2 billion at the end of Q4. So slightly up sequentially and then you do expect to be at the $1.1 billion optimal level by Q1. But given the $200 million payment due in Q1, does it mean you expect to generate cash also in Q1 which is seasonally a weaker quarter? Thank you.
+Devinder Kumar
+Yeah. Vivek, if you look at the last one year, I think that was exactly what we said about a year ago about maintaining cash at $1.1 billion level well above the [back at] [ph] minimum. And as you have seen, despite a very challenging year that we have gone through, we have successfully maintained $1.1 billion of cash, without by the way getting any external financing.
+And with the ramp in the business that we see here at the level that we came in in Q3 and what we are projecting for Q4 and with any levers available to us if wanted, I am very confident we can maintain cash at these levels.
+Vivek Arya - Bank of America Merrill Lynch
+Got it. Thank you.
+Operator
+Thank you. Our next question in queue will come from the line of John Pitzer with Credit Suisse. Please go ahead. Your line is open.
+John Pitzer - Credit Suisse
+Yeah. Good afternoon, guys. Thanks for letting me ask the question. Rory, I guess, what I am trying to understand little bit better is, where do you believe the trajectory of the gaming ramp kind of flattens out, so youâve got some benefit here in September and December quarter with initial deals. As we look into the first half of next year, whatâs the right steady state run rate and I guess, specifically, now that you have kind of broken through the breakeven mark on the P&L, do you think you can stay above breakeven in whatâs usually a seasonally soft quarter in calendar first quarter?
+Rory Read
+Yeah. So we wonât be giving guidance on first quarter at this point. But clearly itâs our objective to get back and black in third quarter and continue to deliver that in fourth quarter and this year is the tale of two halves, the first half and improving second half.
+As we look to â14 we need to look at the full year and drive a business that drives revenues growth and profitability for the full year that needs to be the next step in our transformation.
+Now in terms of the question about gaming, gaming is going to be an important driver of the business and if you think about consoles traditionally, thatâs a five plus year business and it generally peaks in the third year. It will have some seasonality in the first half of the year but we think there are strong demand and opportunity for us to continue to have very good business. And weâll share the specifics of that as we give the guidance for 1Q next quarter.
+But I think it is important to think about it as we continue to go after this pipeline in semi-custom, we will look to close additional deals over the next two years, one year and two-year, that will allow us to continue to fill out that business with this nice sticky flow of revenue both in embedded and semi-custom.
+And while we are in the early phases of this transformation, as you move out and take the long view, you will see the portfolio drive a much more consistent level of revenue moving forward.
+But, again, itâs our objective, as we stated before to get back in black, which we did in third quarter and then to move forward in fourth quarter to continue to accelerate. And then for â14 is to drive a business thatâs profitable for the full year and drives revenue growth for the full year.
+John Pitzer - Credit Suisse
+Thanks Rory. And then my follow-up for Devinder, given inventory target for the December quarter and can you guess bring this up to speed on where we stand with the wafer side of supply agreement with GlobalFoundries for this year relative to your obligation that you had in Q3, Q4?
+Devinder Kumar
+Yeah. As I said in my prepared remarks, I expect inventory levels to remain essentially flat from where we ended Q3. I recall that itâs a steep ramp in the business, we introduced of the semicustom products, the new product that Lisa referenced earlier R7, R9 series. So I expect that in the Q4 timeframe, [indiscernible] Talking about the WSA from Globalfoundries. We are on track to meet the commitment for the 2013 WSA and on the 2014, if thatâs what you are referring, we are in discussions to figure out the pricing and wafer of volumes for 2014 and I expect those to close within the 30 or 60 days.
+Operator
+Our next questioner in queue will come from the line of Ross Seymore with Deutsche Bank. 
+Ross Seymore - Deutsche Bank
+Hi thanks for letting me a question. One clarification from the prior question. Do you expect seasonality in the gaming console business in the first half of â14, or is the early stage of which we are in the ramp and the geographic decision expanding for those launches, something that could offset that seasonality?
+Lisa Su
+Hi Ross, this is Lisa. Let me answer that question. So again, we do â the game console business is consumer business. So we do expect some level of seasonality. You are absolutely right. Itâs the first year of launch and there is a pent-up demand. So we will see some seasonality as we go into the first half of the year but probably a little bit different than normal years.
+Ross Seymore - Deutsche Bank
+And one other clarification for Devinder, on the gross margin guidance of 35%, what does that assume as far as sales of previously reserved inventory, are you going to get that one point again?
+Devinder Kumar
+Actually thatâs not included. I think as we have said earlier we remain opportunistic and if the opportunity comes along, we go ahead and sell the parts [ph]. But there are no plans to go ahead and do that at this point. We have about $40 million left of the previously reserved inventory which we took in Q3 of 2012 to the tune of $100 billion.
+Ross Seymore - Deutsche Bank
+I guess the final question, more of a structural one, as we look forward into next year. You did a great job of getting down even under the $450 million in OpEx that you have talked about. If we think about next year conceptually, how should we expect the companyâs OpEx to change alongside of revenue? Do you think $450 million is something you can hold throughout the year, or what are the puts and takes from a kind of bigger picture perspective?
+Devinder Kumar
+I think the key I would leave you with is, we have been very disciplined from an OpEx management standpoint. We actually beat the target of $450 million that we set, and projecting to be around $450 million for Q4. I think you are going to see about AMD with the mix in the business and the changing model, as we vary focus on operating margin. So obviously if revenue goes up significantly, there is a possibility that OpEx might go up. But I think you are going to see us as being very disciplined from a viewpoint of how OpEx modulates against the revenue increase or decline.
+Rory Read
+And Ross, I want to add a little something here to get a perspective on how we see this business evolving over time. Look at the semi-custom business and how we are reusing IP in a series of high-growth segments. And semicustom is an NRE model where there is an investment around engineering. In the quarter we drove $300 million of additional revenue, up 26% and at the same time we had expense declined almost 10%, following the year weâve driven down 25%. 
+Clearly, that says weâre getting a strong leverage in that model and as we consider that in some of our core businesses, they will continue to see pressure, they are at a different point and their maturity will drive for higher efficiencies in those segments. And at the same time look for opportunities to make investments to capture the new growth segments, like growth businesses, like pro-graphics, embedded and semi-custom. But overall I think itâs fair to say we will look for more efficiencies as we move forward but it will be balanced.
+Operator
+Our next questioner on the phone queue will come from Romit Shah with Nomura.
+Romit Shah - Nomura
+And the competing results are my biggest concern looking at the quarter, and Rory, you talked [ph] to the weakness to just general softness in consumer notebooks. But if I look at your numbers, the computing business was down 6% sequentially, so desktops were up, which means notebooks are probably down more than 10% and I compare that to Intel whose PC business was up, I think mid single digits and are you seeing Gartner were also up. So how do we reconcile the difference between AMDâs consumer business, notebook business and Intel and just the general market?
+Rory Read
+I think you kind of summed it up properly. The consumer market is feeling more pressure, but all parts of the PC markets are down. This market, this industry is down 10% and at rates itâs never experienced before. Itâs going to continue.
+From our perspective, AMD is over index the client notebook. We have always been. We have had, just like we have to diversify our portfolio across high-growth segment, we need to diversify this core business. We need to move stronger into desktop and as we talked about a year ago, we worked on the inventory on the desktop segment and we built and repaired that and we have seen two quarters of consistent revenue growth in that segment and we believe that we have the right product stack to continue to make progress and thatâs part of our business as well.
+But there is no doubt that the PC client segment particularly at the entry level will feel pressure from tablet and itâs a competitive space. We are going to be in there and we are going to compete because we have very good product. But that is a key driver why we are moving in the direction of this transformation, this multi-year strategic transformation. We will invest in those growth markets and we will attack the phase businesses around efficiency and where we can diversify the portfolio and gain revenue.
+Devinder Kumar
+And I would add from a financial standpoint just to levels that with what we saw coming and what reset and restructure and acceleration and transformation is all about. If you look at that particular segment from a revenue standpoint year-over-year, revenue is down about $140 million, proximity is up about $36 million.
+Quarter-on-quarter, revenue is down about $51 million and the proximity went from essentially breakeven to what we ended up in Q3 at $22 million and that is essentially the power of the expense model, how we are deploying the resources from a transformation standpoint into what we call the growth businesses, including the semi-custom and the PC business which obviously is under pressure.
+Romit Shah - Nomura
+All right. Thatâs helpful. And the, sorry, if I missed this, but in Q4 embedded in the 5% sequential growth, are you assuming that computing is stable or growing?
+Rory Read
+I think from a computing standpoint, I think there is no doubt that that market will continue to see pressure. I think at the industry level, as well as in the consumer segment. We are planning not to lean into that but to manage the inventory, yes, we much more like to see a consistent revenue through that weak part of 2014 where seasonality effects it.
+So we donât want to kind of get a bumpy mood there. I think we will see it continue to trend slightly down. But I think as we move into 1Q and 2Q we can continue to build off that base as we add the new revenues as part of our strategy.
+Romit Shah - Nomura
+All right. Thanks Rory.
+Rory Read
+You are welcome.
+Operator
+Thank you, sir. And now our next question in queue will come from the line of Joe Moore with Morgan Stanley. Your line is open.
+Joe Moore - Morgan Stanley
+Great. Thank you. I want to go back to the wafer supply agreement question with GlobalFoundries. It looks like you were -- you used up 46% of that as of the 2Q -- 10-Q. The Computing Solutions business looks like will be down in the second half, next year move some of that business to SMC. So, I guess, there is some further clarity on why you are confident that you will use the entire amount of that?
+Devinder Kumar
+The total amount that we committed to purchase in Q -- in 2013 is $1.15 billion and looking at the numbers that I am looking at we are on track to satisfy the obligation for the WSA for 2013.
+Joe Moore - Morgan Stanley
+Okay. Great. Thanks. And then the inventory building, why do you need to maintain inventory at this level if your revenues are going only about looks like about $75 million in the fourth quarter?
+Devinder Kumar
+Well, it is the timing right. So you go ahead and have the build in an inventory from a viewpoint of the steep ramp in revenue and you can have the timings from a viewpoint of when the wafers come in and then we have the pods. And what we are doing from the management standpoint is over Q3 and Q4, keeping the inventory flat while the revenue has gone up 26% from Q2 to Q3 and projected to go up again in Q4.
+So I think you need to take the longer view in terms of the six-month period, how much of revenue has gone up from the first half to the second half and inventory essentially has gone from $600 million to $900 million. And by the way the revenue is up significantly in both quarters compared to the prior quarters.
+Joe Moore - Morgan Stanley
+Okay. Thank you very much.
+Operator
+Thank you, sir. Our next question in queue comes from the line of Chris Rolland with FBR. 
+Christopher Rolland - Friedman, Billings, Ramsey & Co
+Back to the op margin, the incremental op margin in graphics, probably implying mid-teens, maybe a little bit better on the gaming console business. As we think about that going forward, once this product is really on cruise control, even if you had seen couple years from now, what sort of incremental improvements are we talking about when there is really not that much SG&A to support this -- R&D to support this. I mean, are we talking maybe another 500 or even 1000 basis points in op margin improvements at its peak?
+Devinder Kumar
+Without giving the guidance, let me comment. Overall as you can see when you have a ramp in revenue for a new business like semicustom, that sort of amount of money you spend from an OpEx standpoint. The semicustom business, in particular the game console business is built on an NRE model. The R&D cost had been incurred upfront. The gross margins as we have been very transparent, lower than the corporate average but the majority of that was the operating margin line. In Q3 alone thinking that we were the low double digits when we talked about last quarter, we came in at the mid-teens. 
+As we gain traction, as we extract more efficiencies, as we go ahead and increase the volume and get cost improvements, the operating margin could go up from the mid-teens higher than where we came in, in Q3. Iâll let Lisa comment from a business standpoint too.
+Lisa Su 
+Yes, Chris, just to give you a little bit more color on that. So the operating margin did come in a little bit better than we originally planned and that was primarily because the ramp was actually quite smooth and it went very well. As we look forward, again, this is a very nice product. It's one of those -- each of these products are high-volume, they give us a lot of opportunity to optimize, yield and cost and other things. So we are going to be working hard to improve that operating margin over the next number of quarters and itâs something that we believe there is leverage in.
+Rory Read
+And Chris, one of the things youâve really got to think about in this business, these are just the first two wins in the semicustom space. We have a pipeline of additional products and itâs our intention to win and mix in a whole set semicustom offerings as we build out this exciting and important new business. And also as you think about that in a remodel, look at the expense to revenue ratio. When we historically ran this business at different margin, it was much higher, the high 30s, even into the 40s. In this quarter we saw a 10% reduction in in the unit R, with that significant revenue gains. And we are going to drive that efficiencies moving forward. Think about building that business, and how the power of this model continues to grow over time.
+Operator
+Our next phone next question will come from the line of Srini Pajjuri with CLSA Securities. 
+Srini Pajjuri - CLSA Securities
+Maybe for Lisa. Lisa, I mean given that the productâs life in game console is quite long. I am trying to understand your our own product refreshes work. For example, you're starting at 28 and will this product stay at 28 forever, or are you going to switch to 28 at some point and when that happens -- what happens, obviously the costs are going to increase, and I am just wondering what happens to the margin side of the equation?
+Lisa Su 
+Srini, good questions. So it is a long life cycle product over five to seven years. Certainly when we look at cost reduction opportunities, one of the important ones is to move technology nodes. So we will in this timeframe certainly move from 28 nanometer to 20 nanometer and now the reason to do that is both for pure die cost savings as well as all the power savings that our customer benefits from. So I think we will see leverage in the model as we continue to improve the cost and as cost improves the volume loss will also go up.
+Srini Pajjuri - CLSA Securities
+So you actually expect the cost to go down as we move to 20, but not to go up?
+Lisa Su 
+Absolutely, on a unit basis, yes.
+Srini Pajjuri - CLSA Securities
+And then just a couple of clarifications. I think there was a mention about SeaMicro winning some designs. Just wondering if you could give us an update on that, itâs been a while since you acquired that and how thatâs tracking and if you could quantify that, I think that will be great.
+Lisa Su 
+Yes, absolutely. So the SeaMicro business, we are very pleased with the pipeline that we have there. Verizon was the first major datacenter win that we can talk about publicly. We have been working that relationship for the last two years. So itâs actually nice to be able to talk about it. We do see it as a major opportunity that will give us revenue potential in 2014. And we continue to see a strong pipeline of opportunities with SeaMicro as more of the datacenter guys are looking at how to incorporate these dense servers into their new cloud infrastructures.
+Srini Pajjuri - CLSA Securities
+Thank you.
+Operator
+Thank you. Our next question in the queue will come from the line of Kevin Cassidy with Stifel. Please go ahead. Your line is open.
+Kevin Cassidy - Stifel
+Yeah. Thanks for taking my question. Just for a little more granularity on the Verizon. Are you only shipping SeaMicro product with AMD Opteron or does it also have Sea on [an add-on]?
+Lisa Su
+Yes. So, the clarification around SeaMicro servers. As I said the Sea -- the Verizon engagement has lasted over the past two years. So some of the initial deployments were with the Intel processors but we do have significant deployments with AMD Opteron as well.
+Kevin Cassidy - Stifel
+Going forward, weâll switch more to Opteron?
+Lisa Su
+We do see the percentage of Opteron processors increasing because thatâs what weâd like to do.
+Kevin Cassidy - Stifel
+Great. Okay. Thank you.
+Ruth Cotter
+Operator, weâll take two more questions, please.
+Operator
+Understood. Our next question in the queue will come from Ambrish Srivastava with BMO. Please go ahead. Your line is open.
+Ambrish Srivastava - BMO
+Thank you, Lisa. Since you are on a roll, Iâll just follow-up on the server roadmap. Whatâs the timing for 64-bit and then with ARM. And then specifically give us some insights into -- to the extents you can on how you aim to combine SeaMicro X86 and ARM? Thank you.
+Lisa Su
+Thanks Ambrish for the question. So again weâre very excited about the server space. Itâs a very good market. Itâs a market where there is a lot of innovation and change. In terms of 64-bit ARM, you will see us sampling that product in the first quarter of 2014 that development is on schedule and weâre excited about that. All of the customer discussions have been very positive and then we will combine both the 64-bit ARM chip with our SeaMicro servers that will have full solution as well.
+So I think we view this combination of IP as really beneficial to accelerating the dense server market both on the chip side and then also on the solution side with the customer set.
+Ambrish Srivastava - BMO
+What would be the timing for that, Lisa, for SeaMicro plus ARM?
+Lisa Su
+So you will see that in 2014.
+Ambrish Srivastava - BMO
+Okay. Thank you.
+Operator
+Thank you. (Operator Instructions) and it will come from the line of Patrick Wang with Evercore. Please go ahead. Your line is open.
+Patrick Wang - Evercore
+Thanks for squeezing me in. Iâve just got two questions. First, I guess, Iâm little bit confused about the way to think about the consoles make custom contribution in the fourth quarter. It sounds like you guys have made that graphics with the R7, R9 launches probably can be up.
+CPU is down modestly with the markets and then, of course, earlier at this point, we heard [Jason C.] also talk about next vacation that console will be down a little bit in the fourth quarter in terms of wafer start. So can you just kind of help us -- maybe give a little bit more color in terms of the type of growth that we should be factoring into the fourth quarter?
+Lisa Su
+Yes Patrick. So let me kind of help with that. So if you look at the combined quarterly shipments for Q3 and Q4, they are very much in track -- on track with what we would have expected. If you look at the supply chain cycle, we buy wafers earlier to ship and the peak months are going to be October and November. So I think all of the data is consistent.
+We did ship a few more units in Q3 than we originally planned just because of the strength of the production ramp. But we will see game console revenue go up in Q4 versus Q3, just as the both Microsoft and Sony are preparing for their holiday launches.
+Patrick Wang - Evercore
+Okay. So it sounds like itâs more of a timing thing. And just my second question for Devinder -- I know, I think I looked at your guidance before commentary, you talked about positive free cash flow in the fourth quarter. Can you help provide us the timing of your payments due Globalfoundries. I see liability on your balance sheet. I know youâve got another $200 million coming in the first quarter. But how does that play out, how that work with your positive free cash flow?
+Devinder Kumar
+I think there are two parts to it. Right, so we have waived the purchase from Globalfoundries that we have purchased through this year. Earlier, this year, we did have some special payment that we made related to the limited exclusivity waiver that we got way back in 2012. And then we did it as a termination payment, we made about $120 million payment of that. There is another $200 million of that left to be paid in Q1 2014. So if you relate that from a cash standpoint, we have â as I have projected $1.2 billion of cash, revenues can be up in Q4, and then at the Q1 we collect the cash for the revenue that we are going to have in Q4, pay the $200 million and thatâs why I am projecting â maintaining at the optimal range of the $1.1 billion from the cash standpoint.
+Lisa Su 
+Thank you, operator. That concludes todayâs call and we would like to thank [indiscernible]. 
+Operator
+Thank you presenters and thank you ladies and gentlemen. Again this does conclude todayâs call. Thank you for your participation and have a wonderful day. You may all disconnect. 

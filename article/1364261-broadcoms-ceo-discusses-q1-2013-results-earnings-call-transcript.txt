@@ -1,0 +1,277 @@
+Broadcom Corporation (BRCM) Q1 2013 Results Earnings Call April 23, 2013 4:45 PM ET
+Executives
+Chris Zegarelli - Senior Director, Investor Relations
+Scott McGregor - President and CEO
+Eric Brandt - Executive Vice President and CFO
+Analysts
+Harlan Sur - JPMorgan
+Ross Seymore - Deutsche Bank
+Vivek Arya - Bank of America Merrill Lynch
+James Schneider - Goldman Sachs
+Romit Shah - Nomura Security
+Ambrish Srivastava - BMO Capital Markets
+Chris Caso - Susquehanna Financial
+John Pitzer - Credit Suisse
+Patrick Wang - Evercore Partners
+Timothy Arcuri - Cowen and Company
+Tristan Gerra - Baird
+Ruben Roy - Mizuho Securities
+Stacy Rasgon - Sanford Bernstein
+Doug Freedman - RBC Capital Markets
+Srini Pajjuri - CLSA
+Anil Doradla - William Blair
+Steve Smigie - Raymond James
+Craig Ellis - B. Riley
+Kevin Cassidy - Stifel Nicolaus
+Sumit Dhanda - ISI Group
+David Wong - Wells Fargo
+Quinn Bolton - Needham & Company
+Steven Chin - UBS
+Operator
+Hello and welcome to the Broadcom Q1 2013 Earnings Conference Call. My name is [Melissa] and I will be your operator for today's call. (Operator instructions) Please note this conference is being recorded. I will now turn the call over to Chris Zegarelli, you may begin.
+Chris Zegarelli
+Thank you, [Melissa], good afternoon, everyone. Today's call will include prepared remarks by Scott McGregor, our President and Chief Executive Officer; and Eric Brandt, our Executive Vice President and Chief Financial Officer.
+This call will include forward-looking statements which involve risks and uncertainties that could cause Broadcom's results to differ materially from management's current expectations. We encourage you to review the cautionary statements and risk factors contained in the earnings release, which was furnished to the SEC today and is available on our website, and in our 2012 10-K.
+We undertake no obligation to revise or update publicly any forward-looking statement to reflect future events or circumstances. Additionally, throughout this call, we will be discussing certain non-GAAP financial measures. Today's earnings release and the related current report on Form 8-K describe the differences between our non-GAAP and GAAP reporting and present a reconciliation between the two for the periods reported in the release.
+Please also see the Investors section of our website at www.broadcom.com/investors for a slide deck that includes additional information disclosed in accordance with SEC Regulation G.
+Now it is my pleasure to introduce Broadcom's President and Chief Executive Officer, Scott McGregor.
+Scott McGregor
+Good afternoon, and thanks for joining us today. Broadcom delivered strong results in the March quarter with revenue up roughly 10% year over year to $2.01 billion. This is above the high end of the guided range we provided in January driven by much stronger than expected sales in both cellular basebands and wireless connectivity.
+Gross margin came in as expected, while operating expenses came in below the low end of the guided range. This combination of underlying business strength and solid financial discipline enabled us to deliver non-GAAP EPS of $0.65 which was $0.09 ahead of the first call at consensus. We have many exciting business updates to talk about today; we announced the industryâs smallest LTE advanced thin modem during the quarter with support for must-have features for high end devices including carrier aggregation and envelope tracking and Voice-over-LTE. We also announced our complete platform for small cell, leveraging our baseband technology, embedded processing, switch backhaul and connectivity.
+In broadband, we pushed the leading edge of integration by driving digital tuners in to our set top box SOCs. These advances keep us ahead of our peers in driving down component costs, improving power efficiency making communications technology that much easier for our customers to integrate and deploy.
+I'd like to now turn over the call to Eric for details on the first quarter results and second quarter guidance.
+Eric Brandt
+Thanks, Scott. As Chris mentioned, please refer to the data breakout in the investors section of our website for additional information that will supplement my financial commentary.
+Moving to the financial overview, to summarize, total revenue of $2.01 billion included product revenue of $1.95 billion. Q1 total net revenue was down 3.6% sequentially and up 9.7% year over year.
+Q1 non-GAAP product gross margin was down 20 basis points from Q4 to 52%. Q1 GAAP product gross margin was 49.4%. The non-GAAP and GAAP R&D plus SG&A expenses were up $21 million and $32 million respectively from Q4 level. Q1 non-GAAP EPS was $0.65 per share, or $0.09 above first call consensus on $0.56 per share. Q1 GAAP EPS was $0.33 per share, including $0.12 of acquisition-related and nonrecurring adjustments outlined in our earnings release.
+Cash flow from operations for Q1 was $388 million. Our cash and marketable securities balance at the end of the quarter was $3.93 billion.
+Moving to revenue and gross margin, in January, we said, we expected Q1 total net revenue to be roughly $1.9 billion plus or minus 4%. We delivered revenue above the high end of the range at $2.01 billion.
+Our Broadband Communications segment decreased 4.4% from Q4 principally due to lower modem shipments in China. Revenue from our Infrastructure and Networking segment decreased 7.1% sequentially primarily driven by softness in the service provider and enterprise markets.
+Our mobile and wireless segment decreased 1.6% from Q4 to $1 billion, meaningfully ahead of our prior expectations driven by strength in cellular baseband and wireless connectivity [chips] [ph]. 
+Our Q1 non-GAAP product gross margin was down 20 basis points from Q4 to 52%, negatively impacted by increased mobile and wireless mix offset by one-time benefit to non-standard costs.
+Our Q1 GAAP product gross margin was down 10 basis points from Q4 to 49.4%.
+Moving to operating expenses, total non-GAAP R&D and SG&A expenses for Q1 were up $21 million from Q4 levels, which is below the low end of our guided range provided in January of up $25 million to $40 million. Favorability was driven by lower employee costs and favorable prototyping costs relative to our original expectation. On a GAAP basis, R&D and SG&A expenses for Q1 were up $32 million from Q4 levels, which is also below the low end of our guided range of up approximately $35 million to $50 million.
+Moving to the balance sheet, cash and marketable securities ended Q1 at $3.93 billion. This reflects cash flow from operations of $388 million, our dividend payment of $63 million and stock repurchases of $107 million in the quarter.
+Our accounts receivable days sales outstanding were 34 days in Q1. In addition, net inventory turns were 7.6 in Q1.
+Moving to expectations, we currently expect net revenue in Q2 to be roughly $2.1 billion plus or minus 4%. Sequential revenue is expected to be up from Q1 across all segments.
+As previously disclosed and discussed, please note that Q2 will be the final quarter for the income from the Qualcomm agreement of $43 million. We expect Q2 GAAP and non-GAAP product gross margin to be down roughly 0.5 point, driven principally by mix and the non-recurrence of the non-standard costs benefit in Q1. In addition, we expect both GAAP and non-GAAP R&D and SG&A expenses in Q2 to be flat to up $20 million.
+And now I'd like to turn the call back over to Scott to talk more about the state of the business.
+Scott McGregor
+Thanks, Eric. Starting with the home platform, our Broadband Communications revenue came in at $537 million, down about 4% sequentially, but up around 9% year over year. Softness in the quarter was driven primarily by reduced modem shipments in China. We continue to fuel growth by expanding our global footprint in the set top box market.
+This quarter we introduced the latest generation of set top box SOCs for entry level systems that includes integrated digital tuners, IP server technology, a high performance CPU, advanced conditional access and DRM security.
+This cost effective platform enable service providers to provide advanced video experiences to subscribers. One of the largest cable operators in India selected these SOCs for set top boxes to provide subscribers with 100s of channels of digital content and new capabilities in Indiaâs emerging cable market. 
+We are also expanding our access business in the small cell market. We introduced a scalable platform for small cell base stations that includes our small cell modem, Ethernet switches, Wi-Fi, embedded processors, PHYs and backhaul. The platform enables simultaneous 3G, 4G and wi-fi as well as multiple options for backhaul and advanced software capabilities.
+We also announced the industryâs first integrated digital base band processor and RF transceiver for 3G small cells. This innovation position us well to participate in the small cell market as service providers expand network coverage and capacity to keep up with growing cellular usage. Looking into Q2, we expect broad based growth in our broadband business with strength across all major end markets.
+Moving to infrastructure, our infrastructure networking business came in at $429 million down roughly 7% sequentially but up about 6% year over year. Softness in the quarter was driven by the service provider and enterprise end markets.
+We continue to see strength in our data center business, which came in flat sequentially in Q1, ahead of expectations entering the quarter. We're seeing ongoing momentum in large scale cloud data center build outs that leverage our high density Ethernet switch platform solutions. For example, we see robust design activity around TRIDENT II our best in class merchant solution for the data center.
+Looking forward we see a solid multiyear product cycle continuing for data centers, with increasing deployment of 10G server interconnects and 40G and 100G in the aggregation layer. We also significantly expand our portfolio for the optical transport networking market. We announced multiple OTN framer/PHYs as well as 100 gig transmitter PHY for long-haul regional and metropolitan data transport.
+We also announced a joint collaboration with the NTT Electronics to develop low power 100 gig coherent DSP solutions for the next generation optical systems. These innovations leverage our technology leadership in the physical layer solution position us for continued growth in the optical market. As we look into Q2 we expect broad based growth in our infrastructure business with strength across all major end markets.
+Moving to our hand platform, our mobile and wireless revenue came in well ahead our expectations declining approximately 2% sequentially to $996 million. This better than expected results was driven by strength in both wireless baseband and connectivity chips. Our cellular SOC business continues to perform well and reached a record level in Q1.
+Samsung prominently displayed two Broadcom based flagship 3G handsets at Mobile World Congress in February, the Galaxy Grand Duos and the Galaxy Fame. This momentum in high profile devices continues to fuel growth for us with Samsung in 2013.
+In the emerging markets our turnkey platforms have won several designs in the India low cost Smartphone markets with Micromax, Idea Cellular and Karbonn. In February we announced the industry's smallest LTE advanced thin modem which is sampling now; itâs expected to generate revenue in 2014. We continue to see strength in connectivity; weâve surpassed the $100 million in revenue in 5G Wi-Fi products in Q1, and saw the introduction of the industry's first 5G Wi-Fi smartphones and hotspot router.
+Our NFC controller has been designed into a range of devices including smartphones, tablets, gaming consoles, printers and wi-fi routers. Based on this momentum we expect to win meaningful double digit market share in NFC by year end.
+Looking in to Q2, we see mobile and wireless revenues up sequentially driven by continued strength in 3G baseband and seasonal strength in connectivity.
+In summary, we delivered better than expected results in Q1 with 10% year over year top line growth. Our new products are targeting the [live growth] [ph] areas in semiconductors and are meaningfully differentiated from our competition. Looking forward we see broad based sequential growth with strength across all three of our business segments.
+Our R&D investments and strong execution enable us to deliver exciting products that will power the next generation of efficient communication devices across the home, hand and network infrastructure.
+This concludes our prepared comments and we are now ready for your questions. 
+[Melisa] may we have the first question please.
+Question-and-Answer Session
+Operator
+Thank you we will now begin the question and answer session. (Operator instructions) Our First question is from Harlan Sur with JPMorgan. Please go ahead.
+Harlan Sur - JPMorgan
+Hi, Good afternoon and good job on the quarterly execution, nice to see the broad based growth youâre guiding to in Q2, can you guys just help us rank order the segments in terms of growth. In other words which segments are going to be driving most of the incremental growth in Q2? I'm assuming mobile and wireless is probably the strongest given the connectivity and base band ramps into a number of different smartphone customers and models but just wanted to get your views and then I have a follow up question.
+Scott McGregor 
+Hey Harlan, we didn't differentiate between the segments and so you can see that on average we're up across all of them, but we didn't separate the different segments.
+Harlan Sur - JPMorgan
+Okay. And then your 3G base band platform grew in Q1, obviously I think you said it's going to grow again in Q2; you have had some great initial traction with your dual core 3G base band platform obviously initially with Samsung, S2 Plus, the Galaxy Grand, I think there are another three or four new smartphones including some of the models like the Ace 3 and the Galaxy Pocket follow ons that are targeted to ramp here in Q2 and so I guess the question is how is your pipeline in the second half shaping up for your dual core and single core platforms in terms of new smartphone apps and again in other words, do you expect your 3G platforms to continue to drive growth through the second half of this year?
+Scott McGregor
+Thanks Harlan. The - one of the drivers certainly for the first quarter was the dual core baseband and as you point out there is a pipeline of new designs, some already announced and some not yet announced that we think will continue the momentum through the course of this year and we do expect our base band business to grow because of that. Another driver also was the 5G Wi-Fi for us in Q1. And so I think in a certainly in Q1 5G Wi-Fi and dual core base bands were stars for us and I expect those would continue going forward.
+Operator
+Our next Question is from Ross Seymore with Deutsche Bank. Please go ahead.
+Ross Seymore - Deutsche Bank
+
+Hi guys congrats on the strong quarter and guide. Eric you mentioned that the gross margin was going to be down a little bit because of mix, was one of the two reasons you gave, can you go on a little bit color about what specifically is going on with mix there, please?
+Eric Brandt
+Sure, Ross so the way to think about it is a lot of it relates to the strength that we saw in Q1 related to mobile and wireless, so the onetime benefit was probably on the non [centre] [ph] cost probably around 30 basis points, so absent that you would have been seen about another 30 basis point drop in the quarter maybe about 10 basis points for 15 just on absorption just based on the higher mix. So if you were to roll that forward into Q2; weâd be roughly flat to down slightly. And so what it really is that's the strength of mobile and wireless sort of being massed a little bit this onetime benefit that you just see continuing into Q2.
+
+Ross Seymore - Deutsche Bank
+Got you, and then I guess another on the wireless side quickly - the quad combo that you talked about, were you going to include the NFC into the combo chip, how should we think about the timing of that launching and what are the sort of the products that you think that will go into first tablets, phones, et cetera.
+Scott McGregor
+So that product is just now available to customers and I expect over the course of this year that should be a strong grower for us. I would say probably the largest market for that is going to be the cell phone market just simply because of the size of that market although we do have a lot of interest for all kinds of other products it's a very, very convenient combo because it includes NFC and all the other major wireless technologies all put in together.
+Operator
+Our next question is from Vivek Arya with Bank of America Merrill Lynch. Please go ahead.
+Vivek Arya - Bank of America Merrill Lynch
+Thanks for taking my question. Scott, you're giving a good guidance but your typical seasonality is up mid to high single digits from what I recall. You are guiding slightly shy of that. Is that conservatism or is there some other factors macro or otherwise that we should be aware of?
+Eric Brandt
+Yeah, you're right it's up to mid to high single digit, I think the couple things one is we were better than seasonal in Q1. So if you had sort of adjusted for that you probably would come with a number that's closer to what would be seasonal going into Q2, and I think secondarily we're just trying to make sure that we appropriately account for the variability in timing and launch of key products as they roll in to Q2. We benefited certainly from that in Q1 and we think that this is a reasonable way to think about it. And again the last point Iâd make is just sort of what I said repeatedly is that normal seasonality is built off of the back of an industry that is growing kind of 10% or 11%. If you think the industry is going to grow 10% or 11% we probably be normally seasonal, if you think the industry is going to be little bit off of that we will be little bit softer or more muted to it. Having said that I think to the extent that product launch aggressively and then the timing anticipated, we could do that.
+Vivek Arya - Bank of America Merrill Lynch
+Got it. Thanks Eric, and as a follow-up question on profitability in your mobile segment, sales are up strongly over the past year but operating margins are down to 12% at least the way you report them. How much of that is just the LTE investments, how much is the pricing pressure in the market and what is the right target metric we should think of when we look at the profitability in that segment? Thank you.
+Eric Brandt
+I think you are right on your very first point which is a lot of that is the investment that we are putting into that business on the R&D front. Certainly there is some pricing pressure in China in particular but it mostly the investment â weâve said that we believe that this business is probably a mid teens kind of a OI business and we think that once we get through the ramp of LTE and the business continues to shake or the industry continues to shake out a little bit, we should be able to see ourselves in those kind of ranges but between here and there we are actually and clearly in an investment mode and itâs one of the three strategic priorities for the year.
+Operator
+Next question is from James Schneider with Goldman Sachs. Please go ahead.
+James Schneider - Goldman Sachs
+Good afternoon and thanks for taking my question. Last quarter I think you discussed your expectation for Q1 with base band being up sequentially and combo being down sequentially. Is that what in fact played out and can you give us some color about which one might go stronger for Q2, please?
+Scott McGregor
+So Jim that's what did happen indeed and we did see growth of base band and some seasonal decline in the combo which was as we expected although both did better than we expected in terms of overall numbers. In terms of Q2 we didn't really break that out but I did say that we expect base band to grow over the course of the year and I will give you a piece of that, we do expect base band to grow in the second quarter.
+James Schneider - Goldman Sachs
+Thanks and then as a follow-up, can you may be comment on the service provider CapEx trends you are seeing right now, obviously been muted for very long time now. Are you seeing any kind of recovery there on a service provider side or is the benefits in Q2 all being driven by the enterprise and any geographic color will be appreciated, thanks?
+Scott McGregor
+We've been waiting for the recovery of the service provider sector and the increased CapEx spending for a while now, and we haven't seen it. So there is nothing that leads us to believe that that's going to suddenly come to be the driver of growth there. We've seen a little bit anecdotally in China but it's been relatively muted in United States and it's been very soft in Europe, so you are correct that more of our growth is driven from the enterprise side as we have seen some pick up there especially and things like cloud.
+Operator
+And next question is from Romit Shah with Nomura Security. Please go ahead.
+Romit Shah - Nomura Security
+Hi guys, great quarter I saw in back to the Q1 results $100 million upside look at most of that came from connectivity, I was just looking for a little bit more color because that's a big number for that segment what is there one or two things that surprise you, relative to the guidance how you are thinking about the business 90 days ago?
+Scott McGregor
+There were two things that surprises, I think the strength of our dual core base band and the launch velocity of those with a number of models that certainly one area the other is 5G wi-fi we saw very strong bookings of 5G wi-fi that the two of those account for almost all of the $100 million revenue number that came in about midpoint of our guidance. It happen relatively late in the quarter, so it was not something that was easy for us to foresee at the time we did give guidance but we're certainly a pleasant driver in the quarter and I think represents a very strong capabilities we have in those products and the strong interest in the market.
+Romit Shah - Nomura Security
+Okay. And then Scott just a follow-up on mobile and wireless. My question is, how do we think about the trajectory this year if I look back at 2011 and 2012, you've had one really good quarter, Mobile and Wireless, and then the other three have been sort of flattish or downish, as you look at new product ramps this year. How should we be thinking about the similar trajectory or profile for Mobile and Wireless?
+Scott McGregor
+It's a little hard to tell for us, we are designing through a number of new products and one of the earlier question mentioned a number of products we design into. And it'll depend a little bit on how well those sale. At the same time, we're also looking to diversify our customer base and we've made some good progress in terms of getting some additional customers in basebands. Nothing I can share with you in detail here but we've feeling good that over the course of the year we should see additional customers in our basebands business.
+So I think the success of the models we have, the new models that have yet to be announced and the customer diversification, those are all factors that and I think will drive the growth for us in the market. And a little hard for us to predict in Q1 but it's something we can give a little more color and as we go each quarter.
+Operator
+Next question is Ambrish Srivastava with BMO. Please go ahead.
+Ambrish Srivastava - BMO Capital Markets
+Thank you, Scott, on the broadband business you alluded to the business being lower because of China modem. Could you just help us understand as this business has obviously changed a lot from the past. And emerging markets become a bigger component what is the mix change emerged and the emerging and how should we think about the growth drivers for this business?
+Scott McGregor
+I think the growth drivers for this business, by the way, I believe the reason the business was down we would ascribe to lumpiness, we don't believe we've lost any share in fact over the course of this year, I expect we'll gain share in a variety of things such as (Inaudible) and other areas.
+We are seeing some transition in the business, we're seeing a transition from the more traditional DSL business more towards (Inaudible), I think that's something that we'll play favorably for us as we launch a number of new products there. I think we're seeing increased silicone content in a of the set top boxes as they move to new technologies HEVC which we should start to see, you know as we role into next.
+And higher levels of integration, I think technology is like we'll being captured our driving y like driving a lot of interest in the MSOs in terms of their ability to support their cable infrastructure and other things, so I think we've got a lot of technological growth driver there, even though underlying subscriber growth is not particularly stronger in the developed world.
+In the emerging countries, we're seeing very very strong opportunities, both because of high growth rates in those countries but also because of historical Broadcom has relatively likely penetrated in areas like Brazil, Eastern Europe and other things, India. And so as we penetrate into those countries we have both a share gain opportunity as well as participating in the underlying growth of those geographies. So those are things driving our growth in our broadband business and we do see that as a growth opportunity this year.
+Ambrish Srivastava - BMO Capital Markets
+Okay. And my quick follow up on connectivity has gotten to task, and different point along you have articulated what you think your market share is going to be because there's such a big bear case on you going to loose connectivity so what is the thinking for this year in connectivity in handsets.
+Scott McGregor
+I think is been a bear case in our connectivity business for the last 5 years than it has been materialized and I believe we're going to continue to hold, share this year we have excellent technology, we've got great products I think our competitors struggle to really create that combination of best in class technologies and so I think we're going to continue to see good connectivity share this year.
+Operator
+Next question is from John Pitzer with Credit Suisse. Please go ahead.
+John Pitzer - Credit Suisse
+Yeah, good afternoon guys congratulations on good results. Eric, just relative to the guidance on infrastructure growing in the June quarter, I think that's going to be the first quarter in three where we get sequential growth, I would have thought that might had helped the gross margin profile a little bit more than the guide so I'm just curious, and maybe thought not kind of differencing between the three buckets of sequential growth but what are the puts and takes there -- or might just over estimating the profitability of the infrastructure business.
+Eric Brandt
+I don't think you're overestimating profitability infrastructure business, there's always sort of mix within the businesses that have an impact as well. And the infrastructure business can have a -- would have mild tailwind on the numbers, but whenever you, so see the sort of the impact of mobile and wireless sort of representing upside to the tune of 5% of total revenues, it does create some bit of a headwind to the number, so to the extent that infrastructure does do better we may see a better gross margin, I think we're still -- everything hanging in the same range which is the guidance we provided you would see almost steady state gross margin plus or minus mix within the businesses.
+John Pitzer - Credit Suisse
+And then as my follow on, Scott clearly as we do kind of our checks, it looks like you guys are the only ones in the market with a viable kind of 5G 802.11ac solution, I am kind of curious how prevalent from a connectivity this perspective do you think ac is going to be this year and given your positioning how should we think about your ability to kind of increase your content or margin profile in ac phones?
+Scott McGregor
+You know,5G wifi has been a good success story for us, and I think competitors have tried to do that as well, but where they fall down that they might and do you have a 5G wifi product they haven't been able to get the kind of performance we can deliver in terms of throughput, that's been real differentiator for us. In terms of penetration in the devices I think over the course of this year you will see meaningful double digit penetration into the smartphones especially the high end smartphones, I believe the majority of the sort of premier high end smartphones are going to move 5G wifi just because it really offers a lot, it offer not only better performance in terms of throughput it offers lower power and offers longer range so those are all very important things for cell phones. I think in router space we're seeing 5G wifi pretty much clean sweep higher end router space because it was the low cost routers and it will stay out of that market for while, in terms of our availability to drive additional business leverage from that, it certainly helping the offset to normally ASP decline we see in the connectivity market and so if the connectivity market is normally X, maybe where it X over two or something like that in terms of ASP decline and that's helpful to us in terms of driving that business.
+Operator
+Next question is Chris Caso with Susquehanna Financial. Please go ahead.
+Chris Caso - Susquehanna Financial
+Yes, hi, thank you. I just wonder, if you could comment a bit about where you see the profitability for the investment in baseband right now, now that you're starting to get a little more volume in that business, what sort of update you can provide us about the return on the investment with the net segment?
+Scott McGregor
+As Eric said earlier, we're making a very significant investment in LTE right now and our goal is to create highly capable LTE chips, we are not looking for entry level LTE devices we're really trying to cover the water front in terms of highest gain technology through mid range and low end. And I think as long as we are in that investment phase and before we've got volume on LTE we will be negative in terms of return on that but once I think we start seeing those ship of volume expectations are pretty high for LTE overall and we should be able to get a meaningful share of that market, which I think lower than turn tables and let us see profitability on that business. But I think until you see a shipping LTE modems in volume, I don't think you're going to see the profitability that we're seeking on that business.
+Chris Caso - Susquehanna Financial
+Okay, as a follow up to that, typically, I guess we characterize Broadcom has not using a tremendous amount of capacity at the leading production nodes, because of the profile your business and I would assume as you start to do more LTE, you will start to migrate more towards leading age, what kind of implications does that have your business in terms of the costs structure, with somewhere hearing was I guess the cost per transistor potentially rises, as we go to the some of these leading age nodes.
+Scott McGregor
+It's a good question at our Analyst Day last year, we talked about three areas where we were investing and being fairly disciplined in the other areas and one of those certainly accelerating our adoption of advanced processes, so you will see it's over the course of time here move from where we might have been a full generation from some of the other leaders to much closer to the forefront of adopting new processes.
+So today, we've offered products in 28 nanometer, I think you will see us aggressively move towards other nodes in that end, you have to wait till we actually announce the products but our goal is to be very competitive. And the advanced processes help you in areas where there is a lot of digital logic or very large chips, where performance is premium over perhaps costs. And those are some of the markets we participate and so we have certainly jump in with those chips. But the most advanced nodes aren't for every market and every chip. So you will see us not move the whole portfolio forward into those advanced nodes but selectively moving to those with the chips that gets the most benefit from it.
+Operator
+Next question is Patrick Wang with Evercore Partners. Please go ahead.
+Patrick Wang - Evercore Partners
+Yeah, hey guys. First question is, I was wondering if you could comment on what you see in terms of inventories with your wireless customers and perhaps your combo chips in the channel today?
+
+Scott McGregor 
+We don't see anything unusual in terms of inventories in the channel right now seems to be relatively normal.
+
+Operator
+Next question is from Timothy Arcuri with Cowen and Company. please go ahead.
+Timothy Arcuri - Cowen and Company
+Hi thanks I know that you don't want to comment too much by segment but of the $189 range from low end to high end for the guidance. Can you comment a little bit on sort of what the biggest swing factor with the sort of take you through the from the low end up to the high end of the range. And then I also had a follow on.
+
+Scott McGregor 
+Yes, let's typically the biggest swing factor in any of these is the ramp of new products and expected ramp of new products of our customers. The second biggest thing is typically what filter and distributer and on BMI, other than that we said before we are pretty well 80% to 90% above and in fact the through the matters of - probably closer to 100% but 80 to 90% of what is in the book actually is what we ultimately sell and there are even variation let's take out the mobile and wireless effect of Q1, there even variation between broadband and infrastructure in terms of what we actually thought at the beginning of the quarter, and we were actually sold by the time we've got to the end of the quarter and some of that relates the customer fall through et cetera but fundamentally we haven't changed our view in terms of the percentage of book and what we expect to sell thorough 
+Operator
+At this time we will only be taking one question there would be no follow ups. Our next question is Tristan Gerra with Baird. Please go ahead with your questions.
+Tristan Gerra - Baird
+Hi Good afternoon which point do you expect your 3G base band business to kind of Plateau, how many years is it take after the initial launch and when you're going to need to ramp 80 to basically continued [worrying] in this second until is this something that potentially happens next year, or are you confident on the basis of your design win that this is a further out timeline.
+
+Scott McGregor
+We're certainly continuing to get new designs with existing customers in 3G, we're getting new customers in 3G and we have new products in the pipe for 3G, I do expect that we will sell 3G and 4G simultaneously. So as we launch LTE products next year and start to get revenue for most I expect we'll still be selling 3G.
+Operator
+Next question is from Ruben Roy with Mizuho Securities. Please go ahead.
+Ruben Roy - Mizuho Securities
+Yes, thank you, nice job guys. Scott can you give us an ideas how big the service provider portion of the infrastructure network businesses and wondering if you expect that business to grow year-over-year if you could tell us what your thoughts are for the segment year-over-year - on a year-over-year basis. Do you think you're going to see some growth as that segment as the whole, thanks.
+
+Scott McGregor
+So service provider business for us is just slightly under half of the business and in terms of your question of where we see year-over-year growth I think certainly from a product point of view, we are set up to see some benefits there and that should help us it's a little harder to forecast that industry segment overall though. So I'll be reluctant to play the economist there and what you do that but certainly we're well set up in terms of product innovation. I believe is a good opportunity to continue to take from share there but can't comment on the macro side.
+Operator
+Next question is Stacy Rasgon with Sanford Bernstein. Please go ahead.
+Stacy Rasgon - Sanford Bernstein
+Hi guys, thanks for taking my questions, on around the operating margins good revenue upside with that margins of that came down in kind of across to board do you kind of running I guess a bit below your model, what is that implied for your OpEx plans going forward, you just going to grow into that? Also around the connectivity upside in the quarter I know it was lot of 4G, can you give us feeling for how much have that upset was unit versus ASP'S?
+
+Scott McGregor
+Stacy, on the operating marging as you know Q1 is typically are low water mark on Huawei principally because intensity a down revenue quarter was significant uptake in operating expenses due to the French and Merion cost. Typically what you see over the cost of the year is that we are strongest in terms of or largest increase in operating expenses and it moderate over the quarterly year I don't think that this year will be any difference in that.
+Stacy Rasgon - Sanford Bernstein
+And in terms of the connectivity certainly as we said before we saw unit seasonally down in Q1 but the search of 5G wi-fi 
+certainly helped us from and ASP and supposedly gave us a richer mix into that quarter.
+Operator
+Our next question is Doug Friedman with RBC capital markets please go ahead.
+Doug Freedman - RBC Capital Markets
+Great. Thanks for taking my question, guys. If you could you talked about in the data center the deployment of 10G and 40 gig and 100 gig networks can you tell us where you think we are with each of those meaning where do we stand in 10 gig Ethernet deployment to the percentage and then maybe a timing as far as when the 40 and 100 becoming material. Thank you.
+Scott McGregor
+No, I would say in terms of 10 gig we're probably you know in the middle of the game there, in terms of 40 gig we're probably in the second inning and in terms of 100 gig we're -- we're waiting for the opening pitch.
+Operator
+Next question is Srini Pajjuri with CSL Securities. Please go ahead.
+Srini Pajjuri - CLSA
+Thank you, Scott, you obviously have lot of tailwinds in the wireless business this year, given the share gains and the richer mix on -- I'm just wondering is there any reason why your wireless business shouldn't grow in line or better than these smartphone units, are there any offsetting headings this year?
+Scott McGregor
+Well, if we had complete coverage of all customers your statement would probably be true, but in the basebands space we don't yet have the diversity of customers, we're looking for. So our basebands growth is going to be determined a little bit by how well the customers we have good penetration in due with the models that we're in. So that's a little harder to forecast.
+In terms of the connectivity side I think that's a little broader diversity of customers, much broader diversity of customers and so I would expect that you know, we will be able to grow that with the overall market. And again there's a bit of a headwind from Asp declines but then there's also a pickup and richer mix from technologies like 5g, wifi and the introduction of NSC as a new technology.
+Operator
+Next question is Anil Doradla with William Blair. Please go ahead.
+Anil Doradla - William Blair
+Hey, Scott, can you give us a sense of the mix between single core and dual core and as you go out in 2013, and you also talk about double digit growth in NFC for this year, can you give us some color how big you look at the market in 2013? Thanks a lot.
+Scott McGregor
+So in terms of the basebands, we're definitely seeing a surge of the dual basebands and they were almost nothing last year to significant volume this year to significant volume this year, single core still continuing to be important in the lower cost market especially if you look for some of the markets in India and China and others, as benefit for very low cost devices there. So I would say that over the course of this year we'll see the dual core move up to meaningful double digit percentage of our overall business.
+In terms of NFC, I think I saw market estimates that there were about 300 million units shipped last year, and you know going forward we see that growing sharply. My expectation is that NFC, there's no reason it wouldn't have a penetration as higher - higher than Bluetooth going forward. So we do see that as a big opportunity, it's an exciting market and a lot of innovation and the technology at the same time.
+Operator
+Next question is Steve Smigie with Raymond James. Please go ahead.
+Steve Smigie - Raymond James
+Great, thanks a lot. I was hoping you could give an update on penetration into China local market and specifically on hindsight -- to something to really -- talk it I've thought it from the perspective of connectivity and from the extent. So in terms of China, in our connectivity market. We have a reasonable share there, we're across a wide range of both indigenous Chinese customers as well as customers from Korea and other countries just fell into China. And so we are able to participate in the market in that way.
+We also have some collaborations with some of the Chinese companies that are there, Spectrum, for example works with us to incorporate Broadcom combo products as part of its portfolio, when it sales technology. In terms of basebands we have a much smaller penetration in the China, we've done a number of things to improve that recently including creating a turnkey design team in China which is now doing some very interesting designs. Especially using our newer single core and our dual core basebands and so we have picked up some new customers in China, many of them small but some of them we think will all together account for some interesting share over the course of the next year.
+Operator
+Our next question is Craig Ellis with B. Riley. Please go ahead.
+Craig Ellis - B. Riley
+A nice job and thanks for taking the questions guys. Scott, you mentioned that services providers still remain pretty quite out there, are you seeing any signs for this going to pick-up in the back half and it is so where are you seeing those either by the region or by customer?
+Scott McGregor
+I am sure wish the service provider market will pickup, we've got some really great products, we love to sell lots more of I think, we've all been waiting to see the pick up there at some point the combination of increase capacity needs and up the [license] some of the existing infrastructure will drive that but frankly we haven't seen the headlines that really give us confidence that that's going to happen yet. So we are on wait mode on that. We did guide our infrastructure business up sequentially but again that not primarily driven by service provider business and there is again anecdotal information that China is increasing its service providers spend and that could be a significant amount but again so we actually see and we're reluctant to forecast it.
+Operator
+Next question is Kevin Cassidy with Stifel Nicolaus. Please go ahead.
+Kevin Cassidy - Stifel Nicolaus
+Thanks for taking my question. One of you just give us a update on the small cell market you announced some products and just where do you see that market going?
+Scott McGregor
+The small cell market is very interesting, it is for Broadcom a really good market because it combines all of our strength in broadband in our last mile technologies, where we have a number one position in all the major last mile technologies. With our ability to put together radios and wi-fi and base band and cellular technology, so it's a great business for us that combines a lot of our strength.
+It's a market though where a lot of the service providers and carriers are still in a test mode and there are some two drivers that cause people to you small cell, they look at it for coverage in rural areas where they wanted just reach out and cover more locations everything from somebody's home in femtocell kind of thing to a small town, or village or rural area where they just want to get some coverage in the local city and they don't want to put the cost of macro cell in there. And then in urban areas it has a much more urgent issue in terms of capacity, I think we're all use to seeing that might indeed get five bars on your cell phone in an urban area, which you're lucky to get 2G connectivity rate. And that has to do with backhaul capacity in just a number of cell that are out there. So small cells can meaningfully address that equation as well. So we do believe that markets going to grow and I think there is a lot of sort of wait and see as people look for the femtocell business model to develop and is the carrier strength through their deployment of capital strategies, but we do believe that market will pickup over the course of next two years and don't see any reason why Broadcom couldn't have a very strong its not number one market share position in there.
+Operator
+Next question is Sumit Dhanda with ISI Group. Please go ahead.
+Sumit Dhanda - ISI Group
+Yes, hi Eric just a quick follow-up on the operating expense outlook for the back half of year, just a two part of the prototyping goodness that you show, do you think that persist and then as you get into your targeted range of operating margin is it fair to assume that if revenue growth persist given the OpEx trajectory you've talked about it like feed that targeted range of operating margins into the back of the year?
+Eric Brandt
+Okay, so on the prototyping side or the design and development I actually think well we show goodness going into Q1 and you will see that in the queue which will be on file shortly but going into Q2 I expect that actually going to go up a little bit. If you look at the quarter we are taping out probably 15% of our tape out in Q1 at 28 below and I expect other course of the year that are begin to drip up which will have some impact on the state our cost. In terms of operating margin and expansion of operating margin in Q1 we were part operating margin of 18.3, we will see how the revenue growth persist over the course of the year certainly our objective is to run our business within our operating margin I would like to sort of see the back half of the year pick up and get solidly back in the range, but a lot of that I think prior to whether the industry is really going to pickup its growth rate that something we've seen in the past or it's going to hang where it's been hang in the last sort pf two and half years have relatively flat. So to the extent it fix up we should see some benefit, we should see a little bit of leverage coming through the P&L.
+Operator
+Next question is from Quinn Bolton with Needham & Company. Please go ahead.
+Quinn Bolton - Needham & Company
+It's throughout the trend towards higher ACE products, dual core base band and the 5G wi-fi does that allow you to increase the gross margin on Mobile and Wireless business over time or do you see price pressure in more legacy products that this will tend to keep that margin in a pretty tight range.
+Scott McGregor
+It certainly helps offset some of the ASP decline we would see, and I would say in a normal market it would help us increase some margin as well although there's a very high level of price competitiveness right now in the cellular marketplaces especially in China and Asia, overall. And so I think that's offsetting what would have been a normal reasonable application that you have that also helped with margin but I'd say not right now but it certainly helped offset decline what competitors you see. 
+Operator
+Next question is David Wong with Wells Fargo. Please go ahead.
+David Wong - Wells Fargo
+Thank you very much. One TI has completed its Exit from the wireless handset connectivity business, what do you recon that your market share in connectivity different smartphones and handset might be?
+Scott McGregor
+We don't generally comment on market share in terms of those parameters but certainly as TI exits, it probably some percentage of that will come to us. 
+Operator
+Next question is Steven Chin with UBS. Please go ahead.
+Steven Chin - UBS
+Hi Scott, Hi, Eric, thank you for my questions. My question is on technologies, in particular of 40 nanometers. I was wondering what the sales mix that was for 40 nanometer based products and that mix -- should we expect any gross margin benefits in second half.
+Scott McGregor
+Stephen, I didn't hear the back half of your question, you said as that mix goes up, what was the second half of the question. I'll go in and then operator you can reopen the line, if need be. So for the quarter 50% of the revenue was 25% to 30% roughly was in 40 that will continue to shipped across the year consistent with what he saw -- him the last quarter so, he will move and as my guess is towards the end of the year there'll probably be equal close to 40 and 40 between the two of them at 80 points roughly in that - next. The rest of the stuff tends to be high powered stuff, that's a little bit of 28 in there.
+In terms of the gross margin impact again one of the reasons we're able to hold our growth margin in the face of such a significant uptick in mobile and wireless last couple of years improving margin and product competitiveness that we've got as we move down to the 40 nanometer nodes. I think that helps us, it really then sort of winds up, how much of that is an offset to the mix shift to Mobile and Wireless and I think historically, it's been a pretty close mix shift, between 65 and now 40.
+Steven Chin - UBS
+
+All right, thanks.
+Operator
+We have no further questions at this time. I'd like to turn it back to Scott McGregor for closing remarks.
+Scott McGregor
+I'd like to thank everyone for joining us today and I believe Broadcom had a great start to the year. Looking forward we are diligently focus on delivering our LTE advance modem in smarthones and tablets, driving the next generation set top box technology by cable satellite and IP networks empowering the core of the networks, with next generation Ethernet switches and best in class multi-core embedded processors.
+Thanks again for joining us and have a good day.
+Operator
+Thank you, ladies and gentlemen this conclude today's conference. Thank you all for participating you may now disconnect.

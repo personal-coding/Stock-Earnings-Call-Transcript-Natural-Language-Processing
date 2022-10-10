@@ -1,0 +1,333 @@
+Juniper Networks, Inc. (NYSE:JNPR) Q1 2010 Earnings Call Transcript April 20, 2010 4:45 PM ET
+Executives
+Kathleen Bela â VP, IR
+Kevin Johnson â CEO
+Robyn Denholm â EVP and CFO
+Analysts
+Simona Jankowski â Goldman Sachs
+Tal Liani â Banc of America
+Ehud Gelblum â Morgan Stanley
+Jess Lubert â Wells Fargo Securities
+Nikos Theodosopoulos â UBS
+Mark Sue â RBC Capital Markets
+Ittai Kidron â Oppenheimer
+Jeff Kvaal â Barclays Capital
+Jeff Evenson â Sanford Bernstein
+Samuel Wilson â JMP Securities
+Jason Ader â William Blair
+Paul Silverstein â Credit Suisse
+John Marchetti â Cowen and Company
+Brian White â Ticonderoga
+Operator
+Greetings and welcome to the Juniper Networks first quarter 2010 earnings results conference call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. (Operator instructions) As a reminder, this conference is being recorded.
+It is now my pleasure to introduce your host Ms. Kathleen Bela, Vice President of Investor Relations for Juniper Networks. Thank you. Ms. Bela, you may begin.
+Kathleen Bela
+Thank you, Manny. Good afternoon and thank you for joining us today. Here today are Kevin Johnson, Chief Executive Officer and Robyn Denholm, Chief Financial Officer. A couple of housekeeping items before we begin.
+First, as a reminder there is a slide deck that accompanies todayâs conference call. To access the slides please go to the IR section of our website at juniper.net. Also, we have included a full look in to our geographic revenue distribution in our slide deck. This call will be available to download as a podcast. For details, visit our website.
+I'm also pleased to announce that starting today, you can follow Juniper IR on Twitter at BelaJNPR. Over the next few weeks, the IR group will be posting items to our corporate blogs and network ahead and we would of course love to hear your input on how best to use social media to communicate with you.
+With that, I would like to remind everyone that statements made during this call concerning Juniperâs business outlook, economic and market outlook, future financial operating results, and overall future prospects are forward-looking statements that involve a number of risks and uncertainties.
+Actual results could differ materially from those anticipated in these forward-looking statements as a result of certain factors including economic conditions generally or in the networking industry, changes in overall technology spending, the network capacity requirements of service providers, the timing of orders and shipments, manufacturing and supply chain constraints, variation in the mix of products sold, customer perception and acceptance of our products, litigation, and other factors listed in our most recent report on Form 10-K, which was filed with the SEC.
+All statements made during this call are made only as of today. Juniper undertakes no obligation to update the information in this conference call in the event facts or circumstances subsequently change after the date of this call.
+In discussing the financial results today, Robyn will first present results on a GAAP basis. And for purposes of todayâs discussion, we will also review non-GAAP results. For important commentary on why the management team considers non-GAAP information a useful view of the companyâs financial results, please consult our 8-K filed with the SEC.
+For the detailed reconciliation between GAAP and non-GAAP results, please see todayâs press release. In general, non-GAAP results exclude certain non-recurring charges, amortization of purchased intangibles, other acquisition related charges, and expenses related to stock-based compensation.
+In todayâs call, Robyn will also be providing forward-looking guidance. As a reminder, guidance is provided on a non-GAAP basis. All guidance is forward-looking and actual results may vary for the reasons I noted earlier. GAAP guidance measures are not available on a forward-looking basis due to the high variability and low visibility with respect to the charges which are generally excluded from the non-GAAP guidance estimates.
+Please note that todayâs call is scheduled to last for one hour and please limit your questions to one per firm.
+With that, I will turn the call over to Kevin.
+Kevin Johnson
+Thanks, Kathleen and thanks, everyone for joining us today. Our first quarter results reflect continued good execution throughout the company as we establish a solid foundation for growth. On our January call and at the February Financial Analyst Meeting, we laid out a set of operating principles for the year. Primary among them is that we see 2010 as a year of growth. The performance we are reporting today reinforces our posture for growth and increases our conviction of that view as we look ahead.
+The economic environment continues to evolve constructively for us overall and as we commented in the past, the pace and trajectory of the recovery will vary by geography. We continue to see the U.S. economic situation improving with Western Europe economic indicators somewhat less favorable than those of the U.S. Macroeconomic indicators in Asia remain strong with the exception of Japan. And at a global level, demand for high performance networking continues to grow and we are seeing good momentum in critical areas of the business. Particularly, with the traction we are gaining in new products and our efforts to expand routes to market.
+In addition to driving growth, we are also evolving our internal processes, systems, and execution capability. We are aggressively pursuing the opportunities presented by the transformation of the network and at the same time, we are strengthening our organization to best support our growth objectives, both near and long term. Our entire company has done a great job embracing this transformation, staying focused, and delivering financially for our shareholders.
+I'll give more details on the actions we are taking internally, but first, let's take a look at the business environment, starting with the service provider market. After a very strong finish to Q4 of 2009, our outlook for the first quarter implied a slight quarter-on-quarter contraction of carrier spending. Our Q1 results was in line with that expectation. As we enter Q2, we are already seeing positive signs in the pipeline of U.S. carrier for the upcoming quarter and for the year.
+We were also pleased to see the resumption in investments during the quarter by our content service provider customers. In short, we expect it to be a good year for service provider spending overall and our outlook supports that.
+Now, this quarter, we continue to make progress in core routing as we secured five new customer wins for the TX Matrix Plus; we reaffirmed our leadership in 100-Gig Ethernet networking during a trial that covered a 1,000 mile, optically amplified section of the Verizon network; we announced advances in silicon that will enable customers to upgrade their existing T Series Core Routers to a system capacity of 4 terabits per second without service interruption.
+We believe the combination of increased demand for core routing, share gains we observed in Q4 of 2009, innovation in 100-Gig Ethernet trial, advances in silicon, and new customer adoption of our TX Matrix Plus is positive signs for our business in core routing.
+In the area of edge routing, we were pleased with the customer response to the MX 3D and we are seeing some strong early bookings of the dense 10-Gig Ethernet line card, as well as several beta trials of the low-end MX80.
+We have expanded our solutions footprint into the areas of mobility and video. Mobility and video represent significant drivers of network expansion and they are areas that complement the MX 3D Edge Router and our Programmable Junos platform. For example, our Traffic Direct solution is running in production of early adopters and will be generally available to all customers this quarter. This solution is the first deliverable from Project Falcon and enables wireless operators to offload bulk data traffic directly to the Internet and migrate seamlessly to next-gen network architectures, including 4G.
+We launched the Junos Space platform late last year to enable partners and customers to drive automation, reduce operating expenses, and better support high performance network. At the end of Q1, we had over 60 service providers executing trials of Junos Space.
+We introduced our Mobile Secure solution that is tailored for the new world of anywhere, anytime, any device connectivity and we are pleased to note that Verizon, Sprint, and AT&T, have all expanded their infrastructure routing base to include the high-end SRX solution to secure mobile traffic.
+At the Mobile World Congress, we also announced Junos Pulse, which is software to secure SSL VPN and user access control experience, running onboard a range of mobile devices, including notebooks, netbooks, smartphones, and feature phones. We expanded Junos Pulse to now run on Android, Symbian, Windows Phone, and earlier this month, Apple announced the Secure Mobile capability as part of their iPhone OS 4 announcement.
+In addition to our progress in mobility, we recently announced an agreement to acquire Ankeena Networks, which closed yesterday. This combination aligned with our strategy. First, their technology enables rich media content caching and distribution within the network, as well as smooth streaming of video to end-user devices. It also directly integrates with our MX 3D Edge Router solution. As a partner and Ankeena developed their technology in alignment with the Junos platform, we believe this strengthens our value proposition not only for edge routing, but it expands our addressable market now to include the iCDN solutions.
+Second, we have a roadmap of additional media and content capabilities that leverage Junos, Junos Space, and potentially Junos Pulse that further transform the economics and user experience of video distribution and consumption.
+Finally, as part of the Media Flow solution, our sales force has been working with Ankeena to develop an opportunity pipeline across a number of service providers. We believe this tuck-in acquisition reinforces our vision of the new network ecosystem, expands our portfolio of edge routing solution, and delivers unique value to our customers. It also opens up a new addressable iCDN market for Juniper, which in turn creates additional shareholder value.
+Let me now shift to the enterprise market. We grew our enterprise business in 2009 and this quarter represented a great start to 2010. We are gaining traction in the enterprise because of our ability to deliver a portfolio of routing, switching, and security solutions. Our EX Switch portfolio continues to grow on a sequential and year-over-year basis.
+We expanded the EX portfolio with EX2200, we achieved engineering milestones on the Stratus Project which advances our vision for how datacenters will be architected in the future, and our product portfolio continues to expand. This is fueling several landmark customer wins. One example in public sector is the U.S. Joint Forces Command where we are enabling a comprehensive, core-to-edge network for real-time training of Army, Navy, and Air Force personnel.
+We continue to expand in the financial services sector as well. We recently announced our work with the Tokyo Stock Exchange to provide a low-latency, ultra-reliable, high-capacity network that supports its next-generation securities trading system. At the Agricultural Bank of China, we announced Juniper as the provider for their new nationwide backbone network. These are just a few examples of the opportunities we are winning in the enterprise.
+We are seeing more opportunity for growth in the enterprise and we intend to ramp up in our engagement with the channel and our field and sales and marketing with a goal of further accelerating our market penetration of the EX and the enterprise solution portfolio.
+From an operational perspective, we implemented several improvements in Q1 that strength our operational capability and support the growth agenda for the company. Specifically, we implemented a new field operating model with specific operating areas aligned by our service provider and enterprise sectors. This provides more line-of-sight visibility on execution and accountability at the field level.
+We implemented a new customer relationship management system that supports our sales, marketing, and services execution engine, and we also created the Junos Ready Software business group to amplify our focus on software that leverages Junos, Junos Space, and Junos Pulse.
+In summary, we have a clear strategy and it's working. We are building a foundation to drive disciplined execution and long-term growth at Juniper. We have a big opportunity and we are going after it.
+Now, I'll turn it over to Robyn to tell you a little bit more about the numbers. Robyn?
+Robyn Denholm
+Thank you, Kevin and good afternoon, everyone. We established a good foundation this quarter for growth throughout 2010. As a result of continued market position wins and solid execution, our revenue and gross margin came within our expected range, whilst operating margin and earnings per share came in above our forecasted ranges.
+We continue to deliver strong performance in both the service provider and enterprise markets. As expected, service provider declined modestly, following an exceptional fourth quarter and showed good year-over-year growth. Our momentum in the enterprise continued to build with another record revenue quarter. Overall, our underlying demand indicators this quarter were healthy with another record deferred revenue quarter and a book-to-bill of approximately.
+Now, onto a review of the numbers. As you read in the press release, we early adopted the new revenue accounting rules. For the purposes of today's discussion, all Q1 2010 results reflect these new rules. On a GAAP basis, total revenue for the first quarter was $913 million. This is a 19% increase from the prior-year first quarter and a 3% decline from Q4 2009. The $913 million includes $25 million of recognized under the new revenue accounting. All of the $25 million related to orders that were booked and shipped during the quarter.
+GAAP diluted earnings per share were $0.30 for the first quarter compared to $0.04 per share in the fourth quarter of 2009 and a $0.01 loss per share in the prior-year first quarter. GAAP net income includes the impact of the new revenue recognition rules of approximately $0.02 per share and a non-recurring income tax benefit of $54 million or $0.10 per share.
+This relates to a change in the tax treatment of stock-based compensation in R&D cost sharing arrangements due to a federal appellate court ruling in the Xilinx case earlier this quarter â earlier in Q2 â during the quarter in Q1. We also recognized the final portion of the 2009 restructuring costs in the amount of $8.1 million or approximately $0.01 per share.
+Non-GAAP earnings per diluted share were $0.27, an increase of $0.10 compared to the prior-year first quarter and down $0.05 sequentially. Looking more closely at revenue, I'll give you color on the regions, business segments, and markets and for additional detailed commentary, please refer to the slide deck.
+Looking at our revenue by region, for the quarter, the Americas was approximately 53% of total revenue. EMEA was 29% and APAC was 18%. The Americas revenue increased 36% year-over-year and decreased 5% sequentially. As anticipated, the sequential decline primarily reflects lower spending by certain U.S. carriers compared to an exceptionally strong Q4 2009. EMEA revenue was up 18% year-over-year and 4% sequentially due to strength in the U.K. and Germany.
+APAC revenue declined 12% on a year-over-year basis and 7% sequentially due to declines in Japan service provider. The rest of APAC grew 8% year-over-year with significant service provider design wins. Total APAC enterprise grew 14% year-over-year and 1% sequentially.
+As we move throughout the year, we expect the geographical mix of revenues to fluctuate quarter to quarter in keeping our view that the pace of the economic recovery will vary by geography. Overall, we are planning for 2010 to be a growth year for Juniper.
+On a segment basis, total IPG revenue of $679 million was up about 20% year-over-year, driven by both net new customer wins and expansion in our current installed base, and down 2% sequentially. IPG saw growth on a sequential and year-over-year basis in MX products.
+We are pleased with the strong customer acceptance of our recently launched MX 3D line cards, which continues to fuel the growth of our overall MX product platform. We also crossed a significant milestone achieving over $1 billion of revenue for the MX product line since it first shipped in Q1 of 2007, making it one of our fastest ramping product families to date.
+We saw a continuing resumption of customer investment in the core and we are pleased with the performance of our TX Matrix Plus Series core routers. This performance reflects both existing projects and new design wins.
+TX revenue grew to $77 million, more than double the revenue level of the prior-year quarter and a 4% sequential increase. The momentum we are seeing from our EX Switch business continues to drive good results as we expand our market penetration and build our installed base.
+SLT delivered revenue of $234 million, which represents a 19% increase on a year-over-year basis and a 5% decrease sequentially. The increase was driven by growth in SRX, which contributed $60 million in product revenue. The SRX product line continues to gain traction and is now at an annual run rate of about $240 million.
+Looking more closely at the markets we address, service provider revenue was 67% and enterprise revenue was 33% of total revenue. Service provider revenue was up 17% on a year-over-year basis and down 5% sequentially. We saw a resumption in spending content service providers globally, as well as regional North American carriers. This was the result of new design wins with new customers and expansion of projects with existing customers. We also saw reasonable growth in the European carrier.
+Verizon was greater than 10% of our revenue for the quarter. This was driven by the expansion of multiple ongoing projects, as well as new design wins. We are very pleased with our strong relationship with Verizon.
+Enterprise revenue was up 25% year-over-year and up 1% sequentially. IPG was up 36% year-over-year and 20% sequentially. EX was up more than double year-over-year and up 11% sequentially. SLT was up 1% year-over-year and reported a seasonal decline of 10% sequentially. These results are a reflection of our ongoing go-to-market strategy and increased focus on our sales of routing, switching, and security into the enterprise. We saw good traction in the financial services, government, and health care markets.
+On a non-GAAP basis, total gross margins for the quarter were 67.6% of revenue, which is within our long-term model of 66% to 68%. Product gross margins were 69.3% of revenue, up from 67.6% in the first quarter of last year and up from 68.5% in the fourth quarter of 2009. This improvement is the result of cost reduction and mix.
+Service gross margins were 61% of revenues compared to 62.4% in the first quarter of last year and compared to 64.1% in the fourth quarter of 2009. This decline is the result of higher services cost, driven by increased headcount and higher space purchases to support the continued growth in the business.
+Moving onto our operating expenses, for Q1, non-GAAP operating expenses totaled $405 million or 44.4% of revenue. Relative to the fourth quarter and slightly better than expected, operating expenses declined marginally. Year-over-year, operating expenses increased $23 million or 6%. Factors affecting Q1 expenses include new hires as we continue to invest in R&D, sales and services and seasonal factors including bonus accruals and the reset of the FICA taxes.
+R&D expenses were $189 million or 20.7% of revenue, up $17 million compared to the fourth quarter. Sales and marketing expenses totaled $180 million or 19.7% of revenue, a $20 million decreased sequentially due to lower marketing expenses and a reduction in sales commissions. D&A expenses totaled $36 million or 4% of revenue, up slightly sequentially.
+I'm pleased with our non-GAAP operating margin for the quarter, which was better than expected at 23.2%. This represents a 1.2-point sequential decline, which is primarily a function of revenue. These results, overall, reflect continued good execution against our operating principles and support our long-term operating margin goal of 25% or higher. I'd like to thank our employees for their continued dedication to innovation, customer focus, and operational excellence.
+Looking at the operating margins by segment, IPG operating margin was 26% compared to 19.7% in the first quarter of last year and 26.3% in the prior quarter. As a reminder, our investments in both TX and projects Stratus and Falcon are included within the IPG segment. SLT operating margin was 15% compared to 6.6% in the first quarter of last year and 19.3% in the prior quarter. This sequential decrease was primarily due to seasonally lower revenue and higher costs including costs related to the FICA.
+Turning to the bottom line, Juniper posted non-GAAP net income of $146 million for the quarter, up 60% year-over-year and down 16% sequentially. As we noted earlier, we recorded a non-recurring income tax benefit of $54 million, which resulted in a GAAP tax rate for the quarter being a benefit of 1.8%. As expected, the non-GAAP income tax rate for the quarter was approximately 30.6%, which was higher than last quarter due primarily to the expiration of the R&D tax credit.
+Looking at the balance sheet, we ended the first quarter with nearly $2.8 billion in total cash and investments. This balance was approximately up $108 million from the prior quarter. We are pleased with our continued strength in cash generation. For the first quarter of 2010, Juniper generated cash from operations of $258 million before the litigation settlement payment of $169 million.
+In late February, we announced that our Board of Directors approved a new stock repurchase program for up to $1 billion of common stock. During the quarter, we repurchased 2.8 million shares at an average price of $27.04 per share or approximately $74 million. Our weighted average shares outstanding for the first quarter were approximately 537 million shares on a diluted non-GAAP basis, roughly flat with the prior quarter.
+CapEx for the quarter totaled $38 million and depreciation and amortization was $35 million, consistent with prior quarters. DSO was 40 days compared to 44 days reported in the fourth quarter. Total deferred revenue was a record $790 million. Product deferred revenue was up 71% or $104 million year-over-year and up 4% or approximately $9 million sequentially. Services deferred revenue increased 16% year-over-year or $74 million and 5% or approximately $27 million sequentially.
+Even with the adoption of the new revenue recognition rules, we continue to defer product revenue for arrangements entered into prior to the beginning of the year and we will recognize those revenues under the old rules. We ended the quarter with headcount of 7,453. The increases were in R&D, customer service, sales and marketing and are all aimed at supporting growth in the business.
+Since the end of the first quarter, we announced and have now closed the acquisition of Ankeena Networks, the cash plus the assumption of outstanding equity awards. The Ankeena acquisition reinforces our vision of the new network ecosystem and expands our portfolio of edge routing solutions and delivers unique value to our customers. It will also open up a new addressable iCDN market for Juniper. Total cash consideration at closing was less than $100 million.
+Now, let's turn to our guidance. As a reminder, guidance is provided on a non-GAAP basis, except for revenue and share count. We believe that the economic environment continues to improve. We also anticipate the continued resumption of spending by service providers in both the core and the edge and that we will continue the momentum we've established in the enterprise sector. These factors are increasing our conviction that 2010 will be a year of growth for the company.
+As a result, we are expecting revenue for the June quarter of $950 million plus or minus $20 million. Gross margins for the â for Q2 are expected to remain flat with the first quarter at approximately 67%. Operating expenses will increase modestly as we invest in sales and marketing and R&D to support growth in the business.
+Operating margin for the second quarter will be approximately 23% plus or minus 50 basis points. We remain committed to achieving our long-term targets on a sustainable basis. This would result in Q2 non-GAAP EPS of between $0.27 to $0.29. This assumes a flat share count and a tax rate of 31%. And guidance is prior to any acquisition related costs, which we expect to round up to $0.01 for Q2.
+For the year, let me remind you of our operating principles. First, we assume the macroeconomic environment will continue to improve. We intend to accelerate out of the downturn and outpace the market recovery. We will continue to invest in innovations that deliver long-term value to our customers and we will drive year-over-year margin expansion by growing revenue faster than OpEx. And we will maintain a healthy balance sheet and generate strong cash flow.
+And with that, I'll hand it over to the operator for questions.
+Question-and-Answer Session
+Operator
+Thank you. (Operator instructions) Our first question is from the line of Simona Jankowski. Please go ahead.
+Simona Jankowski â Goldman Sachs
+Hi, thank you so much. Just a clarification first and then a question. In terms of the clarification, Robyn, the $25 million benefit to sales from the accounting change, was that an apples-to-apples comparison versus your guidance or should we exclude that if we wanted to kind of compare the results versus guidance?
+Robyn Denholm
+Thanks, Simona. So in terms of the rules around the revenue recognition, they came into place in October of 2009 and as you could see from our K, we were continuing to evaluate that. What I will say is that in terms of the factors that we look for guidance, the deal that we recorded and it was a single customer that generated the $25 million. It was in the pipeline at the time that we were pulling together our guidance and it was actually booked and shipped in the quarter. So it isnât revenue that came off the balance sheet, it was actually booked and shipped in the quarter.
+Simona Jankowski â Goldman Sachs
+Okay. So in terms of kind of when you gave guidance, that was something that you had assumed would be recognized in this quarter or not?
+Robyn Denholm
+It was definitely in the pipeline in terms of one of the factors that we looked at to guidance for the quarter.
+Simona Jankowski â Goldman Sachs
+Okay. And then a question for Kevin in terms of the environment on the service provider spending side. It sounds like the U.S. is the strongest region and even Europe is showing some signs of improvement. But can you give us a little color on the APAC region? It sounds like that's still not picking up and in particular, if you can also help us think through the implication from the reduction in CapEx by the major Chinese carriers?
+Kevin Johnson
+Yes, I think, as you pointed out from the comments, Simona, that the U.S., we've got good visibility and feel comfortable with what we see in the pipeline and the growth opportunities there. I think a little color on that in the first quarter, some of the larger Tier 1 service providers' growth was â or spending was a bit lower, consistent with their Q1 spending of a year ago. But a lot of the Tier 2 service providers kicked in and we've got good visibility on our lager Tier 1s.
+Europe was stronger and we delivered year-on-year and quarter-on-quarter growth in Europe. And as you point out to Asia-Pacific, the comparable on Asia-Pacific, a year ago, we had some significant revenue in Japan. And so, we still had a significant amount of revenue, but less than we had a year ago in Japan and then when you look, a lot of Asia-Pacific is in some of the emerging markets or is certainly strong GDP growth markets, China and India in particular. And I think we are making some progress in some of those areas and we've got work to do in other areas. And so, Asia-Pacific, I think, remains a big opportunity for us.
+Simona Jankowski â Goldman Sachs
+Thank you.
+Operator
+Thank you. Our next question is from the line of Tal Liani with Banc of America. Please go ahead.
+Tal Liani â Banc of America
+Hi, thank you. The question I had, first of all, is about the $25 million. How do we classify it in the quarter of product, services, enterprise, and carriers? You said it came from a single customer. So I'm wondering if you can give us a little bit more color there and then the question I have is about deferred revenues. Can you give us a little bit more color on deferred revenues? It's the second quarter where deferred revenues grow pretty substantially. What areas and is it geographical areas or customer segments or again, a little bit more color there. Thanks.
+Robyn Denholm
+Yes, Tal. In terms of the $25 million, nearly all of it was product, very small amount was services. And it was related to a single customer and actually new business in the quarter. So under the recognition rules, it was â anything that was booked or any POs that we received up until the end of the fourth quarter of last year actually remains under the old rule. It's only new business with new â with customers that were transacted from the 1st of January onwards that the new rules apply.
+And what that means in the future feature commitment area is that you still defer an amount of revenue, but the amount is commensurate with the value of those features as opposed to deferring the whole of the revenue amount.
+And in terms of the second question around deferred revenue balance, yes, we are pleased with the continued growth there in terms of the deferred revenue. As I just mentioned, anything that was under a deal that was â we had a purchase order or a contract that the business was transacted prior to the end of last fiscal year is under the old rule. So even if we booked and shipped that in the quarter in Q1, it would still be deferred.
+In terms of the growth, I mentioned last quarter that it wasn't any one single customer that's driving that growth. Itâs a nice, healthy, diversified balance across a few customers.
+Tal Liani â Banc of America
+Thank you.
+Robyn Denholm
+Okay.
+Operator
+Thank you. Our next question is from the line of Ehud Gelblum with Morgan Stanley. Please go ahead.
+Ehud Gelblum â Morgan Stanley
+Hi, thank you very much. To keep going on the line of accounting types of things, but it's interesting. So the $25 million that was in pipeline, Robyn, I'm sorry to keep harping on this one thing. Did that â was that in SLT or IPG and was that â how did that impact your margin because I'd imagine there was no associated OpEx for that.
+So it just kind of came through fully, the full gross margin of that flow through to your operating margin and I'm wondering if that is one of the reasons that you came through at a 23% operating margin versus you thought previously 21% and if that's why, going forward, you were sort of at a 23%, if you can kind of help us with that.
+And then, what is this non-controlling interest that cost you $1.5 million? Was that an investment in some of your â some of the $50 million fund that you started investing and how should we look at that? Is that a number that's going to grow as you make more investments because that was the difference between $0.27 and you would have in fact seem to have done $0.28 â the business seems to have done $0.28 except for that $1.5 million in non-controlling interest. That seems to have nothing to do with Juniper, but just kind of flowed through the first time.
+Robyn Denholm
+Yes, Ehud. So let me answer the last question first. So in terms of the $1.5 million, that's to do with equity investment in the joint venture with NSN on solutions that we are delivering on the service provider side. And that's an ongoing investment. We obviously will view revenue as products come to market through that joint venture.
+In terms of the â in terms of margin impact of the $25 million, we â you do record the costs associated with that and you also record the expenses associated with that. So it's not a windfall in terms of the operating margin. In terms of the â I'll give you a little bit more color in terms of the customer profile and where that was. It was a non-U.S. service provider customer and it was a new deal, new piece of business with that customer. And it was the service provider customer and it booked and shipped in the quarter.
+Ehud Gelblum â Morgan Stanley
+Okay, great. So we should assume that it carried an operating margin very similar, 20% to 25% operating margin, similar to the â to your regular business and had no operating margin impact at all?
+Robyn Denholm
+Yes, that would be right because you would record the expenses the same way. Yes.
+Ehud Gelblum â Morgan Stanley
+Okay, terrific. Thank you.
+Operator
+Thank you. Our next question is from the line of Jess Lubert with Wells Fargo Securities. Please go ahead.
+Jess Lubert â Wells Fargo Securities
+Good afternoon. Thank you for taking my question. Just a follow-up on the operating margins. They came in â it looks like they came in much better than the guidance. Can you maybe just discuss where you are able to drive the leverage versus your expectations and given your expectations for revenue to improve roughly 4% sequentially at the midpoint of the guidance, why wouldn't operating margins also improve sequentially? Thanks.
+Robyn Denholm
+Yes. So in terms of the current â the Q1 numbers, the operating margin was slightly higher than we guided to and it was around the operating expenses. So the team performed very well and in despite the headwinds that we have in Q1 with the FICA reset and the expenses to do with that and obviously the resetting of bonus and commission plans in â as a result of the new fiscal year. So the team executed very well.
+As I mentioned in our guidance commentary, we are obviously very prudent with our expense management across the board. We've done a very good job on our cost structure over the last couple of years and we will continue to do that as we move forward through the growth that we are seeing. But we do need to invest modestly in incremental sales and marketing areas to make sure that we are capturing the demand opportunity that's out there. And we will do that prudently and as I said, we do expect an operating margin for Q2 in that 23%, plus or minus a half.
+Jess Lubert â Wells Fargo Securities
+Thanks.
+Operator
+Thank you. Our next question is from the line of Nikos Theodosopoulos with UBS. Please go ahead.
+Nikos Theodosopoulos â UBS
+Yes, thank you. I had a couple of quick ones. You mentioned that book-to-bill was about 1. Can you comment on sequentially what the trend was, up or down or flat, on the six months rolling product backlog?
+And then, I guess a question for Kevin on M&A. This is the first â I mean it's a small deal the company has done in quite a while and I know the company has looked at several over the last few years. What's your perspective on M&A going into a growth year and what does this deal indicate for the types of deals the company may or may not do in the future?
+Kevin Johnson
+Yes, I'll go ahead and take your second question, Nikos and then hand over to Robyn for your first question. First of all, I think the strategy that we are on in many ways is driven primarily by the organic R&D that we are doing around the platform of Junos, Junos Space, and Junos Pulse. That said, we will complement that organic R&D strategy with strategic acquisitions where they make sense.
+And in this particular case, the fact that Ankeena had developed intellectual property in an area, video, that is a significant growth and it complements edge routing, it made a lot of sense for us to go ahead and move forward with this acquisition. Kind of think of it as a tuck-in acquisition that aligns with our strategy.
+We will clearly look at other and we continue to look at other M&A opportunities that align strategically with the agenda that we've outlined at the Analyst Meeting and we continue reinforce and I think this is just representative of one of those that fit that model. Robyn, you want to take the first question?
+Robyn Denholm
+Yes. So in terms of the book-to-bill, Nikos, as I said, it was approximately 1. It was just slightly under 1 under the new revenue rules. So â but we are very pleased with our underlying demand metrics overall. We saw good activity, and as Kevin mentioned, that activity has continued into the early part of Q2.
+Nikos Theodosopoulos â UBS
+So did the product backlog go up or down sequentially? It's hard for me to reconcile that with the deferred revenue changes and everything else. I'm just trying to get a sense of how it trended.
+Robyn Denholm
+Yes, the backlog â product backlog itself was very, very marginally down, very slightly. But the deferred revenue is up. So from my perspective, that â if you net the two things together, they are actually very healthy indicators that things are positive from a demand perspective.
+Nikos Theodosopoulos â UBS
+Thank you.
+Operator
+Thank you. Our next question is from the line of Mark Sue with RBC Capital Markets. Please go ahead.
+Mark Sue â RBC Capital Markets
+Thank you. I thought we'd bring on the cow since we beat the horse dead, but just on the revenue for next quarter, should we kind of think it as a relative comparison really $925 million plus or minus $20 million? And what makes it $20 million plus or minus? That seems to be a weird way to explain it. Is it concentrated on one particular customer and revenue rack? And then Kevin, just kind of how you feel about exceeding 20% top line growth this year?
+Kevin Johnson
+Okay. I'll take the second question, Mark, and I'll give the first question to Robyn. Thanks for the questions. First of all, we see this a 20-plus-percent growth year. Well, we've delivered Q1 and we've guided for Q2. Our growth in Q1 is 19% year-over-year and our guide at $950 million plus or minus $20 million at the midpoint is 21% growth year-over-year.
+And so if you look at that trend, I think that supports the view that we are growing in that 20% range and as we complete Q2, we will offer guidance for Q3. But I think it's very consistent with what we outlined at the Analyst Meeting in February.
+Robyn Denholm
+Yes, I think in terms of the $950 million plus or minus $20 million, what we are seeing obviously is good demand on the service provider side and the enterprise side. We expect that to continue. We expect a sequential increase in service provider spending and the differential between the midpoint of the range and the high end of the range is whether or not that spending comes in early enough to be recognized in the quarter. In terms of the enterprise, we are seeing good year-over-year and quarter â and sequential growth, even in Q1 and we expect that to continue in Q2.
+Mark Sue â RBC Capital Markets
+Thank you.
+Operator
+Thank you. Our next question is from the line of Ittai Kidron with Oppenheimer. Please go ahead.
+Ittai Kidron â Oppenheimer
+Thanks, Robyn. Again, going back to that $25 million, I'm sorry about that. With regards to the costs associated with this, I can understand how the cost of goods sold get â gets deferred as well when you defer such revenue, but it doesn't seem like there is OpEx related to that. Is it fair to say that the operating margin of that $25 million was higher than your corporate average of low-20s? Just a simple yes or no, I would appreciate it.
+Robyn Denholm
+So I think the answer is no. The operating margin, you do take the selling expenses into account in terms of the revenue that you recognize. So commissions, sales costs, all of that sort of thing taken to â into account when we booked that. And so it was no different to other deals of commensurate products that were booked in the quarter.
+Ittai Kidron â Oppenheimer
+And with regards to the penny dilution you expect from the acquisition, should we expect that to be a recurring event now for some time? When does the acquisition become undiluted to your earnings?
+Robyn Denholm
+Yes. So I â for the Q2, what I said was it would round up to $0.01. It's actually sort of in that $5 million to $6 million range, which rounds up to a penny. So it would be up to a penny. On an ongoing basis, I'll tell you next quarter â the first quarter, you normally have the integration costs, as well as the ongoing R&D that you are assuming with the company. But I'll give you an update on that as we are integrating the company next quarter.
+Ittai Kidron â Oppenheimer
+Thank you.
+Operator
+Thank you. Our next question is from the line of Jeff Kvaal with Barclays Capital. Please go ahead.
+Jeff Kvaal â Barclays Capital
+Yes, thank you very much. Kevin, Robyn, I'm going to assume that AT&T is not a 10% customer this quarter, Verizon is. I'm wondering if you could tell us a little bit about some of the dynamics involved there, particularly I know there is a lot of controversy about AT&T and the domain project and what that implies for you folks. Thanks.
+Kevin Johnson
+Yes, thanks for your question, Jeff. Look, we've got a lot of very important customers. Certainly, AT&T is and remains a very important customer of ours and I think when we look at our opportunities going forward, we anticipate they are going to continue to be a significant customer for us and any questions regarding the domain decisions and what they are working on, I'd have to refer you to AT&T. But clearly, our focus is continuing to deliver value and grow our relationship with them.
+Jeff Kvaal â Barclays Capital
+Should we expect AT&T to be back in the 10% customer roster on â maybe even on an uneven basis across the year?
+Kevin Johnson
+Well, it's â in terms of our growth, it's going to be a function of how all of our revenue is growing in enterprise and service providers, and the flow of their spending on a quarterly basis. But clearly, AT&T is and continues to be an important customer for us.
+Jeff Kvaal â Barclays Capital
+Okay. So it's right there whether it's above or below any quarter is hard to predict.
+Kevin Johnson
+They are a significant customer and we are very focused on them.
+Jeff Kvaal â Barclays Capital
+Okay, got you. Thanks, Kevin.
+Kevin Johnson
+Thanks, Jeff.
+Operator
+Thank you. Our next question is from the line of Jeff Evenson with Sanford Bernstein. Please go ahead.
+Jeff Evenson â Sanford Bernstein
+In October, you talked at the New York Stock Exchange about your open ecosystem. I'm wondering if you could give us an update on some of the progress in that area and also suggest some maybe external factors that we can look at to judge its success going forward.
+Kevin Johnson
+Yes. Thanks for the question, Jeff. I think one of the things that we look at certainly is the number of third parties that have signed software developer kit license agreements with us and are actively building solutions based on Junos, Junos Pulse or Junos Space. And since we've announced that capability, I think now we've â we are now at or slightly above 60 licensees of that software developer kit who are building and a high percentage of those are actively building solutions on top of Junos.
+So I think the two things, maybe a couple of metrics to look at. Number one would be, as we report the number of third parties that have licensed the SDK and are building solutions on Junos and the second would be as those partners announce products and solutions that run on Junos, Junos Space or Junos Pulse, that would be indicators of the third-party ecosystem rallying around Junos as a platform.
+Jeff Evenson â Sanford Bernstein
+Roughly how many of this 60 are service providers and what are the types of initiatives that they are taking with the SDK?
+Kevin Johnson
+Well, a small percentage of the 60 would be service providers. It's â and when I say small, I don't have the specific numbers, but there is a handful of service providers that are doing custom R&D on Junos in support of their strategy in the network services that they deliver to customers. Certainly, there are large technology partners, IBM being one that has announced the work that they are doing is part of the service provider delivery extensions and some work that we are doing there together with IBM who is innovating on it.
+And then there is a number of them that are also innovators that from different size companies that basically are in the business of innovating and creating technology solutions to address the needs of networks. So there is quite a wide range of innovators that are coming to participate in this Junos as a platform approach.
+Jeff Evenson â Sanford Bernstein
+Thanks.
+Operator
+Thank you. Our next question is from the line of Samuel Wilson with JMP Securities. Please go ahead.
+Samuel Wilson â JMP Securities
+Good afternoon. Just a question on competitive landscape with HP 3Com closing and Cisco seeming to be more aggressive, just want to get some sense [ph] on the enterprise side of the business how you see the competitive landscape.
+Kevin Johnson
+Yes. Clearly, HP was with their ProCurve offering and then recently closing 3Com, obviously they are very focused on the enterprise switching opportunity. The focus that we have really is on the value proposition we have, beginning in the datacenter with what I would characterize as an architectural transition or an architectural disruption that is unfolding in datacenters in the way they are architected where these mega datacenters just have massive numbers of servers and storage devices that need to be connected together.
+And strategically, we have a view that traditional three-tiered architecture is collapsing to two-tiers, which we deliver today with our EX product family and with the Stratus Project, it will collapse further to a single tier. And in many ways, that architectural disruption is driving a significant amount of dialog and the design wins that we are getting with many of these large enterprise customers and I think thatâs something independent of what else is going on in the competitive landscape. That's a unique aspect that we bring to the table and that is generating a lot of the dialog and demand that we are engaging on today.
+The second area that we are seeing a significant amount of discussion with customers and landmark wins is in the area of branch and access where customers are looking to consolidate what typically would be multiple network appliances. And so with our low-end SRX in the branch, the fact that we could do routing, switching, security in a single system, single solution and with Junos as a platform, we continue to expand the range of solutions that are available that run on that system. And so that too is driving demand.
+So from a competitive approach, we are very focused on what we refer to as the new network, which is what we believe is a unique approach that dramatically changes the way that customers deploy capital and enable solutions in a way that leads to better economics and better experiences for their users.
+Samuel Wilson â JMP Securities
+Thank you.
+Operator
+Thank you. Our next question is from Jason Ader with William Blair. Please go ahead.
+Jason Ader â William Blair
+Yes, thanks. I just want to continue on the enterprise side. The â if I'm correct, the revenues in Q4 are up 1% from Q3 and then Q1 is up 1% from Q4, which is not bad, but I would say maybe a little bit below where I would have expected them to be and just given your increased presence in portfolio on the enterprise. So I guess the question is, are you seeing any more pressure out there and how do you accelerate your growth and share gains in the enterprise market?
+Kevin Johnson
+Yes, I think we continue to see strong demand and dialog for the value proposition as we enter the enterprise. I think certainly we've done work to increase the, I'll call it the unaided awareness of Juniper's offerings in the enterprise, recognizing certainly that there are some very significant competitors with big technology names that are also competing in that space. But I think within our enterprise growth, sequentially this quarter we saw 11% growth in our EX Switch product line, selling to the enterprise.
+You mentioned in Q4 we had a 1% growth in the enterprise. But we saw a 50% growth overall in our EX Switch revenue from Q3 to Q4. And much of that was driven by service providers that were investing in that switch solution for managed services for enterprise. So at the end of the day, sometimes the revenue whether it's delivered to a managed services solution or delivered to an on-premise enterprise customer can get landed in either enterprise or service provider.
+But overall, I think that the proposition we have for enterprise datacenter computing and this new architectural paradigm is unique and it resonates with customers. I think the proposition that we have around Junos and automation through Junos Space allows customers to dramatically reduce the operating expenses associated with networking. And I think when it comes to unique solutions such as branch, we've got an integrated routing, switching, security platform at the SRX that does well.
+And going forward, you say, what can we do â
+Jason Ader â William Blair
+Yes, tactically, I want to know.
+Kevin Johnson
+Yes, tactically what do we do to accelerate? Well, I think right now as we are focused on these set of industry verticals to get landmark wins which we are feeding into our marketing campaign and you see now that some of the ads that we are running, we are highlighting customers who are now running their enterprise networks on Juniper.
+I think this is an opportunity. As we go into Q2, we will increase some of our focus on deeper engagement with the channel and we are going to put some more resources behind enterprise sales and marketing, really looking at capturing a larger share of this growing opportunity that we see unfolding in the second half of this year.
+Jason Ader â William Blair
+Okay. Thank you.
+Operator
+Thank you. Our next question is from the line of Paul Silverstein with Credit Suisse. Please go ahead.
+Paul Silverstein â Credit Suisse
+Hi, clarification on two questions. Can you tell us what the combined contribution of MX, EX, and SRX were similar to what you did last quarter and the quarter before?
+Kevin Johnson
+Robyn is â
+Robyn Denholm
+Just calculating.
+Kevin Johnson
+â tallying some things, Paul. Just a second here.
+Paul Silverstein â Credit Suisse
+Robyn, if it's easier, just tell us the MX number, because that's what I'm getting at.
+Robyn Denholm
+It was up sequentially. I don't have the number in front of me actually. Yes, so â
+Paul Silverstein â Credit Suisse
+I'm sorry.
+Robyn Denholm
+It was â the three of them together?
+Kevin Johnson
+No, MX.
+Robyn Denholm
+MX was up about 15% sequentially.
+Paul Silverstein â Credit Suisse
+MX was up about 15% sequentially?
+Robyn Denholm
+Yes, I don't have the number in front of me.
+Paul Silverstein â Credit Suisse
+Okay. You had given us that number the last three quarters. Thatâs why I asked.
+Robyn Denholm
+Yes.
+Paul Silverstein â Credit Suisse
+The questions are â I guess I'm trying to understand the operating margin. It looks to me like all the upside was a function of gross margin as opposed to the strong OpEx control that you referenced in your comments. I recognize it wasn't much out of line with what you guided â what you had projected for us, but that wasn't the source. The upside was the gross margin.
+So the question is, as we look forward, how much of the operating margin upside you are expecting is from OpEx as opposed to the gross margin rebounding back to that 67% plus level where it had been a year plus ago with better revenues?
+Robyn Denholm
+So gross margins were at about 67.6% for the quarter. They were roughly flat with last quarter, which is what we were expecting. The balance between products and services slightly favored the product side this quarter versus Q4. So it really was â I â we were expecting expenses to increase sequentially slightly, given the FICA reset and the bonuses and actually we were able to manage it to a slight decline. So that was principally the difference between the guidance and the results as they yielded.
+We are very pleased with our ongoing performance on the gross margin side and as I outlined in the Financial Analyst Meeting, we are still working and continue to work on things in the supply chain and our ongoing activities in â on the cost side of our gross margin and we continue to drive for value with our customer set as well.
+Paul Silverstein â Credit Suisse
+Robyn, one other question, if I might. In your guidance, can you give us any insight â if you already addressed this, my apologies, but can you give us any insight into how much of the growth is a function of your traditional carrier routing business as opposed to the newer EX and SRX products in the enterprise side?
+Kevin Johnson
+Yes, go ahead, Robyn.
+Robyn Denholm
+Yes. So I â Paul, in terms of the $950 million of guidance, plus or minus $20 million, what we said was that we are expecting the strong increase in sequential enterprise, our momentum that we've had in that area to continue and we expect an increase in the sequential revenues to do with service provider.
+So â and most specifically, between the top end and the midpoints or between the $20 million, between the $950 million and $970 million. That's primarily the difference in one level of revenue from service provider and another, depending on when â the timing of when they would bring in those orders, that type of things.
+Kevin Johnson
+Yes, let me just add to that. I mean, if you look at the $950 million midpoint on guidance and you sort of model a 2% to 3% upside growth quarter-on-quarter for SP and 8% to 9% on enterprise, you very quickly get to about the $950 million. And across the product sets, certainly we sell EX products, SRX products, and MX routers to service providers and we sell those products to enterprise customers. I would expect all of those product areas to grow sequentially in that guidance.
+Now, certainly there is â the range of plus or minus $20 million means there is certainly some upside and some downside depending on timing. Most of that is timing of service provider orders. And so there could be some upside on the $950 million depending on the timing of those orders. Likewise, there could be some downside. But if you just model at the midpoint of $950 million, you'll get about a 2% to 3% on service provider, 8% to 9% on enterprise and that gets you close to the $950 million.
+Robyn Denholm
+Yes. And just to follow up on your first question, products for EX, MX, and SRX in the quarter combined was $270 million.
+Paul Silverstein â Credit Suisse
+Thank you.
+Operator
+Thank you. Our next question is from the line of John Marchetti with Cowen and Company. Please go ahead.
+John Marchetti â Cowen and Company
+Thanks very much. At a high level, when you look what you are starting to come to market with Stratus, as that initiative starts to mature, should that drive acceleration in your EX Switch sales? Does that sort of pull through as you go through the whole effort of sort of flattening the network?
+And then looking at that on the opposite side, as you talk about all of this effort to sort of collapse networks and we look at the carrier market at the high level, do you start to look for ways to do the same on the carrier side and does that mean you need to get into the access market to be able to do the same on the carrier side going core all the way to edge? Thanks.
+Kevin Johnson
+Yes, thanks for your questions, John. First of all, I think that anytime we've got a strong value proposition and certainly the architectural disruption in the datacenter and really transforming the architecture of datacenters of the future, I think that creates product pull across the product line, not just for the EX, but for our entire portfolio in the enterprise. And I think we are seeing that a bit today as we've seen growth in our MX, SRX, and EX product lines and a complete solution focused on enterprise customers. And I think the Stratus Project is just going to reinforce that and strengthen that.
+So the answer to the â to your first question is yes. I think that creates â if we execute well on that, we've got a strong value proposition, which I believe we do. I think that creates more pull for the overall portfolio of offerings and solutions we have in the enterprise.
+Your second question then is, do you â do we see this type of consolidation in mega datacenters and things affecting or impacting service providers and certainly if you look at the architecture of next-generation central offices and pops, certainly we think the architectural focus we have to help reduce the cost footprint and help those service providers consolidate some of those assets on a high performance network, that creates opportunity for us. And that opportunity does not require us to get into the access business. That's an opportunity that I think is very complementary to the access solutions that they have in place today.
+John Marchetti â Cowen and Company
+Thank you.
+Operator
+Thank you. We have time for one last question. Our last question comes from the line of Brian White with Ticonderoga. Please go ahead.
+Brian White â Ticonderoga
+Yes. Kevin, I'm wondering if you could talk a little bit about the OEM agreement with IBM that started in the December quarter, how that's progressing, and also if the Dell OEM agreement is on target for the June quarter. Thank you.
+Kevin Johnson
+Yes, thanks for your question, Brian. First of all, keep in mind, our relationship with IBM, they resell Juniper Networks systems and they have an OEM version of the systems that they can sell as well. And so the way I look at is really how are we doing in the combination of what they resell plus the OEM systems that they are selling. And on that total number, we are pleased with this quarter and continued progress with IBM. There is obviously more work that we are working hard together on, but they continue to demonstrate progress in helping enable this route to market.
+That said, the mix between OEM and resell is not really the relevant issue. It's how we are working closely with the IBM field team and their services organization to deliver the right solution to their customers and we continue to make progress there.
+Certainly, we announced I think last October the relationship with Dell and the OEM relationship. I think we are â we are working on that and I think we've got a lot â made a lot of progress with Dell. I would expect that will be released probably â it might be the first couple of weeks in July, later June-ish, but it's kind of near the end of this quarter, early next quarter that we are on track to enable that offering with Dell.
+Brian White â Ticonderoga
+Okay, thank you.
+Kevin Johnson
+Thank you.
+Operator
+Thank you.
+Kathleen Bela
+Okay. Go ahead, Manny.
+Operator
+In closing, so let's turn the floor back over to management for any closing comments.
+Kathleen Bela
+Thank you so much. We'd like to thank you again for joining us today. We look forward to meeting with you at IR events throughout the next couple of quarters. I want to call out the fact that we are hosting our Annual Shareholder Meeting here in Sunnyvale on May 12.
+Thanks again and we look forward to speaking with you soon.
+Operator
+And ladies and gentlemen, this does conclude today's teleconference. You may disconnect your lines at this time. Thank you for your participation.
+

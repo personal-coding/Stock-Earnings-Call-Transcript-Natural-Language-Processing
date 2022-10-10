@@ -1,0 +1,237 @@
+NVIDIA (NASDAQ:NVDA) Q1 2011 Earnings Call May 13, 2010 5:00 PM ET
+Executives
+Michael Hara - Senior Vice President of Investor Relations & Communications
+David White - Chief Financial Officer, Principal Accounting Officer and Executive Vice President
+Jen-Hsun Huang - Co-Founder, Chief Executive Officer, President and Director
+Analysts
+Michael McConnell - Pacific Crest
+Glen Yeung - Citigroup Inc
+Shawn Webster - Macquarie Research
+Doug Freedman - Broadpoint AmTech, Inc.
+James Schneider - Goldman Sachs Group Inc.
+Alex Gauna - JMP Securities LLC
+Kevin Cassidy - Thomas Weisel Partners Equity Research
+Raj Seth - Cowen and Company, LLC
+Patrick Wang - Wedbush Securities Inc.
+Craig Berger - FBR Capital Markets & Co.
+Arnab Chanda - Roth Capital Partners, LLC
+Ambrish Srivastava - BMO Capital Markets U.S.
+Timothy Luke - Barclays Capital
+Operator
+Good afternoon. Thank you for holding. I would now like to turn the conference over to Michael Hara, Senior Vice President, Investor Relations. Thank you. Sir, you may begin.
+Michael Hara
+Thank you, operator. Good afternoon, and welcome to NVIDIA's Conference Call for the first quarter of fiscal 2011. With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer; and David White, Chief Financial Officer. After our prepared remarks, we will open up the call for a question-and-answer session. Please limit yourself to one initial question with one follow up. 
+Before we begin, I would like to remind you that today's call is being webcast live on NVIDIA's Investor Relations website and is also being recorded. A replay of the conference call will be available via telephone until May 20, 2010, and the webcast will be available for replay until our conference call to discuss our financial results for the second quarter of fiscal 2011. The content of today's conference call is NVIDIA's property. It cannot be reproduced or transcribed without our prior written consent.
+During the course of this call, we may make forward-looking statements based on current expectations. These forward-looking statements are subject to a number of significant risks and uncertainties, and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our Form 10-K for the fiscal period ended January 31, 2010, and the reports we may file from time to time on Form 8-K filed with the SEC.
+All of our statements are made as of today, May 13, 2010, based on information available as of today and except as required by law, we assume no obligation to update any such statements. Unless otherwise noted, all references to market research and market-shared numbers throughout the call come from Mercury Research or Jon Peddie Research.
+One final note, our annual shareholders meeting is next week on May 19. For the first time, shareholders will be able to vote and ask questions online during the meeting, and please see our website for more information. With that, let's begin.
+We are back in the high end of the Enthusiast segment. In April, we shipped our GeForce GTX 480 and 470 GPUs, the first products based on our next-generation QGPU [ph] architecture code name Fermi. The GeForce GTX 40 and 470 GPUs were designed from the ground up to excel at tessellation, the defining the feature of DirectX 11.
+Geometric fidelity is one of the most important new looks for the next-generation graphics. So instead of just being compatible with DX11, we created a DX 11 tessellation monster. GTX 480 is 8x faster than the competition. Reception for the new GeForce 400 series amongst gamers and press has been phenomenal. Just last week, the GTX 480 was validated as the fastest GPU on the world when KIngpIn and Shamino, two world-class overclockers, used the 480 to break world records on the Futuremark 3DMark Vantage Hall of Fame. 
+GTX 480 is DX11 done right. Bjorn3D stated, "The GTX 400 lineup eats tessellation and ray tracing for breakfast, and has the advantage in every benchmark in game using those technologies so far as it's not a hard call." Futurelooks.com wrote, "There is no question that the NVIDIA GTX 480 is the king of tessellation. The GTX 400 series GPUs also provide a significant higher computational capability, which will allow game developers to increase the level of physx realism via our PhysX API. With our leadership position in DX11, combined with the incredible experience in the PhysX and 3D Vision provide, we expect to take back share in the Enthusiast segment. 
+In the first quarter, we shipped a few hundred thousand units as yields have exceeded our expectations. The 480 and 470 are widely available worldwide and continue to sell out on a weekly basis. More importantly, being back in the Enthusiast segment is a positive driver of revenue and profitability growth. 
+We began shipments of the new GeForce 320M integrated chips at the Apple for the latest 13-inch MacBook Pro. The 320M delivers up to an 80% performance increase over the previous GeForce 9600M integrated chipset. In addition, the new 15-inch and 17-inch MacBook Pro both come standing with the new GeForce GT 330M, the fastest graphics ever in a Mac notebook. In addition, the 15- and 17-inch notebooks come with switchable graphics. It's another powerful example of how switchable graphics is quickly becoming a standard requirement in notebooks.
+We now have approximately 70 Optimus design wins, in which 11 are in production today and 50 are expected to be available in the market and ready for this year's back-to-school cycle. We continue to believe that Optimus has the potential to expand the market for discrete GPUs by increasing the GPU attach rate in notebooks.
+Our Quadro business continues to recover and in fact, is ahead of where we anticipate it would be at this time. The recession delayed the upgrade in 2009, and with the significant enhancement made in both hardware and software within that timeframe, we believe it will drive a more aggressive upgrade cycle. 
+For example, Adobe CS4 penetration was well behind CS3 due to the recession, creating meaningful pent-up demand for CS5. We are anticipating that the combination of a healthy upgrade cycle and the addition of new markets will take our Quadro business to a higher level of growth.
+During the first quarter, we announced that the range of NVIDIA Quadro Professional Graphics Solutions are certified for Adobe, for Adobe Creative Suite 5 software, which provides realtime video entertainment effects processing with Adobe Premier Pro CS5. This version of Adobe Premiere Pro leverages the parallel processing architecture of NVIDIA GPUs via the new Adobe Mercury Playback Engine to allow users to create compelling, multi-layer projects and preview them in realtime.
+Tesla achieve record revenue, and Q1 should be the first of many record quarters to come. Fermi has unlocked new demand for Tesla. We are experiencing heightened activity in a number of areas such as supercomputing, energy and finance. The most significant leading indicator of Tesla's long-term success is the adoption of Tesla as a standard OEM SKU. A number of OEMs including Supermicro, Apro, Tyan, Cray and Bull have already announced the OEM servers with more Tier 1s to follow.
+Finally, we achieved a major milestone this quarter. We completed and qualified our first commercially available smartphone. Today, Microsoft is shipping the industry's first phone based on Tegra. We are now the first PC technology company in history to cross the chasm from computing to mobile computing.
+We continue to watch this space. We have multiple next-gen Tegra designs within smartphones and tablets coming which will be announced later this year. Our core profit drivers high-end GPUs and professional solutions are performing well. And with evidence from a number of key early indicators for our growth businesses discussed today, we continue to be optimistic of our prospects in 2010 and beyond. 
+With that, let me turn the call over to David.
+David White
+Thanks, Mike. Q1 was another good quarter, driven by the ongoing recovery of enterprise spending, the shipment of Fermi-based products for desktop GPU and high-performance computing, new product ramps at Apple and a very strong notebook market.
+Revenue was $1.0 billion, up 2% sequentially. Our GAAP gross margin was 45.6%. GAAP operating expenses were $309 million and GAAP net income was $137.6 million or $0.23 per diluted share.
+The core GPU business was flat quarter-over-quarter. Supply constraints are finally easing. In particular, yields of our high-end, Fermi-based GPUs were much higher than expected, leading to good availability of our new GeForce GTX 480 and 470 GPUs and Tesla high-performance computing products.
+Quadro grew strongly once again and is now approaching pre-recession levels. Tesla had a record quarter, which together with our Quadro business, contributed to higher overall gross margin in the quarter.
+Cash, cash equivalents and marketable securities at the end of the quarter were $1.76 billion, up $36.7 million from the fourth quarter.
+Our outlook for the second quarter of fiscal 2011: Revenue is expected to be down seasonally, 3% to 5%; GAAP gross margin is expected to increase to 46% to 47%; GAAP operating expenses are expected to be flat; our tax rate of 12% to 14%, assuming a renewal of the U.S. R&D tax credit and otherwise a tax rate of 14% to 16%. 
+That concludes our prepared remarks, and we will now take questions. Operator?
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question comes the line of Tim Luke of Barclays Capital.
+Timothy Luke - Barclays Capital
+If I may, could you guys elaborate on your comments associated with the increased availability of capacity, particularly on the high-end nodes? And also, your comment with respect to yields, on how you believe that may begin to impact your margin profile going forward?
+David White
+Yes, Tim. You'll recall that back in the fourth quarter and earlier times of last fiscal year, when we were ramping other products and the 40 nanometer node, we had many challenges with yields and our ability to supply the market with adequate product. And we really hit kind of a turning point, somewhere at around the December, January timeframe where we began seeing predictable improvements, and those improvements continued throughout the first quarter. And this being the first quarter that we launched Fermi, those wafer starts were done some time ago is a time when margins weren't as good as what they actually wound up being. And so our margin progression wound up exceeding our expectations. A result of exceeding expectations, we wound up having more die available to sell. Now given that Fermi only launched in the last three, four weeks of the quarter, there's only so much capacity you've got in the line when you exceed expectations like that. And we ship everything we can get to the back end, and that contributed to certainly, the quarter on margins. And going forward, we expect Fermi to continue to be an important element of our product mix. And as a result of that, you see our guidance of gross margin going up quarter-over-quarter as a result.
+Timothy Luke - Barclays Capital
+Your gross margin obviously going up with the revenue slightly down. The key catalyst for that is the Fermi ramp, is it? Or are there other elements that you might be able to elaborate on just on the strength of the gross margin in the coming quarter?
+David White
+Well, Fermi's a substantial piece of that. I mean our Tesla business is still continuing to grow, and so it'll become a bigger piece of the mix as well. But largely, it's Fermi and Fermi and Tesla, as well as Fermi and graphics.
+Operator
+Our next question comes from the line of Patrick Wang of Wedbush Morgan.
+Patrick Wang - Wedbush Securities Inc.
+I was just hoping I could comment. When we look at your revenue guidance, you're down 3% to 5%. I know that you think that, that's actually in line with the seasonality here, but what are some of the moving parts behind that because, I mean, clearly, we're starting to see -- Tegra is starting to ramp a bit here. I just want to get some of your thoughts just in terms of the Workstation, GeForce and maybe even some color on Chipsets?
+David White
+Well, our Chipset business is doing well. As Mike mentioned in his comments, we launched the 320M this last quarter. That product, we expect to be shipping for quite a period of time. So that business is actually doing very well right now. As it relates to the other elements and the seasonality you referred to, we experienced seasonality just like our competitors do in the industry, and we think our 3% or 5% down is consistent with what we typically experience. Now notwithstanding that, we're expecting Fermi to be very strong this quarter as we continue to ramp that product and actually have an opportunity to ship Fermi throughout the quarter, which we didn't obviously have the opportunities the last quarter. So that mitigates it to some extent, but overall, we feel our guidance is relatively consistent and the mix change will be a favorable to our earnings profile.
+Patrick Wang - Wedbush Securities Inc.
+I just wanted to get your thoughts in terms of how you think market share is going to trend, given the supply dynamics you just given update on, what's your sense of the demand out there and of course, your competitive positioning?
+David White
+Well, we haven't been in the high-end segment because of Fermi being delayed for over two quarters now, and so my expectation is that we're going to gain share. We gained share last quarter because of our increasing share in notebooks. Some of that could have been attributed to Optimus, and looking forward, we expect Optimus continue to gain adoption. So we're optimistic about Optimus. So between the desktop returning into the high end and continuing to do well in the Notebook segments, my sense is that our share should be rather healthy.
+Patrick Wang - Wedbush Securities Inc.
+And I guess just the part of the demand, you're still seeing kind of seasonal demand here? Anything out of the ordinary?
+David White
+For the core parts of the market, we're expecting seasonality. However, we're growing into with Fermi into the high-end segments that we've not have been in for a couple of quarters. So there's quite a bit of pent-up demand that we're seeing out there. So we're ramping as hard as we can and as fast as we can, and trying to keep up with the demands for our customers. So we're looking forward to getting back into the high end. But the rest of the business, we characterize this as mainstream business, should experience seasonality.
+Operator
+Our next question comes from the line of Michael McConnell of Pacific Crest Securities.
+Michael McConnell - Pacific Crest
+Jen-Hsun, last conference call, you talked about Fermi and it would be hitting full stride in Q2 and that would offset seasonality, you guys have guided now seasonal. Has there been any change, regionally speaking, with demand? Any impact maybe Europe? Or any impact with memory pricing that has led you guys to back off a little bit and guide seasonal for Q2?
+Jen-Hsun Huang
+Well, we don't know anymore or any less about what's happening out in the larger market than anybody else. And there's, obviously, in the overall larger market, there are some concern about seasonality. But we are ramping Fermi as we had talked about before, and the success of Fermi is certainly as we expected. So when you see how it plays out here, I mean these are a couple of the -- with respect to Q2, those are the two dynamics that you're looking at. Seasonality on the one hand, on the other hand, we're ramping new products into a new segment that we've been out of for a couple of quarters, and so we'll see how it turns out.
+Michael McConnell - Pacific Crest
+And then just looking at the Mercury data for the last couple of quarters, I think your units, last two quarters combined, they're up about 77% in the notebook discrete space. Should we be kind of anticipating a pause here as we move into the summer? And could you talk about what's been driving that very strong growth that you've been seeing in the notebook discrete market?
+Jen-Hsun Huang
+The biggest factor in the growth of discrete graphics is China. The China market is the fastest growing notebook PC market. It also happens to be the market where we have the highest adoption of discrete GPUs. We believe the reason for that is because the Chinese market is much more sensitive to reviews of products and they're much more -- the consumers scrutinize their purchasing decisions much more than elsewhere around the world, and they tend to be much more value conscious. I mean they will go out and buy what is the best performance per dollar versus what brand OEMs that it comes from. And so the GeForce adoption and the inclusion of GeForce is a huge factor for the Chinese market, and so we're seeing very good adoption in China. The GeForce brand is also really popular in China, and the reason for that is because the Chinese consumers spend a lot of time online, and video games is a big part of how they enjoy their computers. Video games and enjoying movies and multimedia is a big part of how people use PCs. And so that's probably the biggest factor for the growth of discrete GPUs. Now looking into the summer, we're expecting Optimus to be very successful. We've shipped, at this point, only a handful of Optimus notebooks and I think there are 70 or so projects in the pipeline, and we're expecting the vast majority of them to go into production for back to school. And so Optimus has turned out to have been a very big success for us, because the value proposition is just so clear. You get the benefits of the longest possible battery life when you're using light computing and whenever you use it, whenever you would like performance from your PC, Optimus instantaneously turns on the GPU and gives you amazing performance. And so having that uncompromising benefit in the PC and the notebook for the very first time has really resonated with the marketplace. So I'm hoping that our Notebook business continues to do well, and we'll see how it turns out.
+Operator
+Our next question comes the line of Raj Seth of Cowen and Company.
+Raj Seth - Cowen and Company, LLC
+Jen-Hsun, can you talk a little bit about the handset opportunity for Tegra? David mentioned the Microsoft milestone, I guess I'm curious within your design win base, how many designs are in the pipeline when you're winning sockets? Why you're winning when you're losing? Maybe as importantly, why you're losing? Is it mostly Snapdragon you're seeing out there?
+Jen-Hsun Huang
+Well, we're pretty excited about Tegra as you could imagine. Our first-generation strategy, we wanted to focus on one operating system. It was our new player in this marketplace, and we focused all of our energy around the Microsoft Zune and Microsoft Win Mobile, and I'm delighted with what we were able to build. It demonstrates that NVIDIA has created an architecture that's extremely low power while being very high performance, and that we know how to build phone processors. It's a big deal. It took us a long time to figure it out, and it's been a long-term investment, and so the Microsoft 10 and the Zune HD are the results of that first generation. On the second generation, we were able to expand to focus a lot of our energy around Android. And although it made sense for the first-generation androids to use available phone processors, the follow-on generations of Android are really going to go after performance. And iPhones are out there, the iPhone 4G is coming, the iPad is obviously a revolutionary product. The bar is pretty high for all of the mobile players, and so they need a processor that can keep up with the A4. If not, be much better than what the A4 can do because they have to take on the leader in the space. And so I think the second-generation Tegra has been doing incredibly well because Android is doing incredibly well. So we're going to come to market with the second-generation Tegra with the third-generation Android. And so that's our focus now, which is the -- and I think it comes together at the end of the year, and we've talked about smartphones, we've talked about tablets. We have a very large number of designs in pipe and flight, and so we're looking forward to starting in third quarter and fourth quarter, many design wins to show up in production.
+Raj Seth - Cowen and Company, LLC
+So just to be clear in the third, fourth quarter back into this year, we'd begin to see NVIDIA-powered Android handsets on the market? Or that's when there'll be a slew of design sockets available for you?
+Jen-Hsun Huang
+No, we've been already working on those design sockets.
+Raj Seth - Cowen and Company, LLC
+And is it mostly Qualcomm that you're competing against?
+Jen-Hsun Huang
+Prior to Tegra, there are only two application processor companies out in the mobile space, right? Basically, it's Qualcomm and TI, and they both make wonderful application processors. Our differentiation and our contribution to the space is where multimedia, high resolution, snappy graphics is really necessary. And the first-generation smartphones had pretty low resolution displays. And so snappy graphics and high-performance multimedia and high resolution just wasn't as much of an issue. But as you know, with iPad and next-generation smartphones, resolution's a huge issue, and you need to have very snappy graphics with a 10x7 display, if not even bigger by that, even higher resolution than that. You're just not going to do that with a application processor that's not designed for that. And so that's our contribution and that's our differentiation and that's what people are seeking out in the market.
+Operator
+Our next question comes from the line of Ambrish Srivastava of BMO Capital Markets.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Jen-Hsun, just to make sure that I understand your guidance. In the context of capacity and yield, should we assume that there are no constraints anymore and all the issues have been resolved?
+Jen-Hsun Huang
+I think the comment that David was making is that the yield has improved a lot. And TSMC has done a fabulous job, improving the yields of 40 nanometer since August of last year when we first ramped it to now. The yield and the number of wafers that they're able to produce, compound it, has really helped a lot. And so I think that with respect to manufacturability of 40 nanometers, I think we're surely out of the woods. I think we can now officially say that. We are clearly out of the woods, and I think that's all David was trying to say. The 40 nanometers at TSMC is now a world-class node and the manufacturability of it is very, very good. And so we're delighted with the execution from TSMC and they've just done a fabulous job. With respect to overall capacity, with respect to supply, the challenge is that the more and more customers are getting into 40 nanometers as well. And so we certainly aren't swimming in 40 nanometers supply. I mean we are constrained here and there. I wish we had more Fermis. I wish we had more GPUs of all kinds. And so there is still not enough 40 nanometers supply for the entire world, and so I expect that the 40 nanometer supply will remain constrained for sometime.
+Ambrish Srivastava - BMO Capital Markets U.S.
+So the guidance implies that there is some supply constraints that has not allowed you to meet demand? Or is it there's a balance between supply and demand and what you're seeing is just normal seasonality and that's why the guidance?
+Jen-Hsun Huang
+We're seeing seasonality. Yes, we were pretty clear that Q2's guidance is seasonality. It's seasonality offset by the ramp of Fermi, and so we're not going to know how it all balances out until the end of the next quarter or end of this quarter. But those are the two factors, if you will, seasonality in the mainstream market and the ramp of Fermi into GeForce, into Tesla and into Quadro.
+Ambrish Srivastava - BMO Capital Markets U.S.
+Last earnings call, you had alluded to the channel inventory and how it had come back up by a week to about five weeks. Where are we now on the channel inventory?
+Jen-Hsun Huang
+The channel inventory at the moment looks healthy, but you have to look at across all the geographies and you have to look at it across the segments. The biggest lever for Q2 for us is growing into the Performance segment that we've not been in for over two quarters. And so ramping into the Performance segment is just the number one most important thing that we need to do right now. And obviously, since we've not been in it for a couple of quarters, the channel inventory for Performance segment GPUs is very lean. And so we're going to be ramping into pent-up demand here for quite sometime.
+Ambrish Srivastava - BMO Capital Markets U.S.
+But there's no blended number that you would like to share with us?
+Jen-Hsun Huang
+I don't have anything to share with you right now.
+Operator
+Our next question comes from the line of Kevin Cassidy of Thomas Weisel.
+Kevin Cassidy - Thomas Weisel Partners Equity Research
+I wonder if you could give a little more detail on the inventory, the new product that didn't get packaged? Or if you could just give a little more details on that?
+David White
+Yes. Kevin, I think in the prior comments, and in the CFO commentary, we'd explained it really is associated primarily with GTX 470 and GTX 480. We ramped that product. We were favorably surprised with nicer yields than what we anticipated. And given the fact that our ramp was all occurring at the end of the quarter, there was just a limited amount of capacity we had at the back end to get everything out that we would've liked to have got now. And so when the quarter ended, we had some inventory of Fermi die that we need to package.
+Kevin Cassidy - Thomas Weisel Partners Equity Research
+And are you comfortable with this level? Or do you expect it'll come down next quarter? Or for a new product ramp, do you typically increase those inventory?
+David White
+Well, as Jen-Hsun is saying, right now, channel inventory is very dry per product from us, particularly in the high end of the segment. Our inventory generally would normally be the same way on a new product ramp. But I think it'll stabilize pretty much over the quarter for us. And again, we'll see what the inventory is at the end of the second quarter.
+Operator
+Our next question comes from the line of Shawn Webster of Macquarie.
+Shawn Webster - Macquarie Research
+Just to close on the inventory, should we assume that channel inventory did increase globally? And Dave, in terms of the outlook for inventory, did you just say that you expect it to be flat? Or up? Or slightly down, or...
+David White
+No, I don't think I gave an indication other than the fact that we thought that inventory issues with Fermi at the end of the quarter would naturally work their way out as we fulfill demand in the channel and -- or other customers.
+Jen-Hsun Huang
+Shawn, the easiest way to think about the inventory situation is that we're ramping into Fermi, and we have a whole lot of ramping to do yet. The back-end cycle time, the amount of testing that we have to do for Fermi GPUs are longer than mainstream products because they're just much, much larger GPUs. The Fermi GPU, as you know, is some 3 billion transistors, and so there's a lot of testing to do in it. It takes longer to sort it. It takes longer to assemble it. It takes longer to test it. And then we do final system-level testing on the GPUs before we ship them. And so that entire back-end cycle time is many weeks. And so all of the dies that came out as we're ramping and you could imagine the curve on the ramp that we're ramping up right now, a lot of the die that came out of the fab we couldn't get through the back end before the end of the quarter, and so that's all part of inventory. Now of course we're ramping into a fresh new market and a fresh new product and there's a lot of pent-up demand, and so we just needed to keep the pressure on it and just keep cracking through it.
+Shawn Webster - Macquarie Research
+And how much as a percentage of your GPU revenues was 40 nanometer this last quarter?
+Jen-Hsun Huang
+Quite big, probably. Quite big.
+David White
+It grew quite nicely. And when you look at Fermi coming into the mix, along with our other 40-nanometer products, it grew pretty sizably this quarter.
+Shawn Webster - Macquarie Research
+And when you saw the yield upside, was that for across your whole range of 40 nanometer? Or was it pretty Fermi driven?
+David White
+It was across the whole 40-nanometer range.
+Shawn Webster - Macquarie Research
+Can you share with us trends in pricing for your core GPU business, either units or pricing sequentially?
+Jen-Hsun Huang
+Well, our ASP trends should be going up because we're returning back to the high end part of the market for the first time in six months plus. And so I would expect our ASP to be trending up at the moment.
+Operator
+Our next question comes from the line of James Schneider of Goldman, Sachs & Co. (sic) [Goldman Sachs Group].
+James Schneider - Goldman Sachs Group Inc.
+I was wondering if we could start off on the OpEx side for a second. David, I think OpEx picked up just a little bit in the quarter. Are there any events like legal spending or any litigation that would've cause OpEx to be up materially in the next couple of quarters? Or you're going to keep that as flat as possible?
+David White
+Well, our objective is to be flat. That's what we consistently stated and so forth. When you look at our expenses, there are some expenses we can control and there are some expenses we can't control. And as you look at our opportunity expenses in the second quarter and the fact they are, like you said, modestly up. It really was a result of two things that were really not largely in our control. One of which has to do with employee exercises of stock options, where we have to pay payroll taxes on those as they exercise them. The second had to do with legal expenses, which you just mentioned. As you know, we have a case going on between ourselves and Intel right now. That's certainly in full swing of depositions and so forth, which is driving -- and discovery, which is driving a significant amount of legal expenses. But also, you have to add on top of that the fact that the FTC has an investigation going on as well. And that investigation is entirely outside of our control, but yet we have to support with depositions and discovery and so forth. And so those are the two things that are really driving our expenses. And considering that we're roughly at the peak of this, we don't see it tailing off this next quarter, which is why we guided flat.
+James Schneider - Goldman Sachs Group Inc.
+Could you address why accounts receivable jumped so meaningfully in the quarter?
+David White
+Well, we launched two products at the very end of the quarter, Fermi being one of them, right? And you launch those products at the end of the quarter, you end up with receivables that you collect on the next quarter. So its primarily all related to launch activities.
+James Schneider - Goldman Sachs Group Inc.
+So it's all the fact that the new products were still back-end loaded in the quarter?
+David White
+We launched them at the end of the quarter, and hence, they are back-end loaded again at the quarter, yes.
+Operator
+Our next question comes from the line of Doug Freedman of Broadpoint AmTech.
+Doug Freedman - Broadpoint AmTech, Inc.
+David, can you talk a little bit about where we are in the MCP ramp down? And how you guys are going to manage that ramp down? Is there any cost savings that will occur as those revenues go away?
+David White
+Well, certainly, there's cost savings. What we've tended to do is we tended to redeploy resources in other areas of our business where we have other needs, in such areas as Computing and Mobile and so fourth. As it relates to the vector of MCP in terms of how it's doing and so forth, we've combined that business with GPU organizationally and also financially. And we've indicated that over time, we expect the MCP business to go down, and we expect the Discrete business to go up, and that is progressing according to plan. But as I said earlier, MCP is not ramping down. We launched our 320M product, and it's doing quite well. We expect it to continue to do well.
+Doug Freedman - Broadpoint AmTech, Inc.
+If I was to move on and look at another segment of your business, the 3D Vision products seemed to be broadly accepted in the market. Can you give us an update on how that's going? What impact that could have to revenues and margins?
+Jen-Hsun Huang
+Margins are about corporate average right now. 3D Vision just had a record quarter. 3D Vision will likely have another record quarter, and followed by another record quarter is my guess. At this point, it's pretty clear to everybody just as the future of TV as 3D. The future of PCs is 3D. And so if you would like to have a gaming PC or a multimedia PC and it has 3D Blu-ray, certainly, it should come with 3D Vision or some 3D glasses that you can enjoy with. And so I think that this is going to become part of a standard offering of consumer PCs in the future. And so this is a great growth opportunity for us and one that we're really proud of.
+David White
+Yes, Doug, I would just make one comment to add to Jen-Hsun's and that is you've got to sell a lot of glasses to change the needle here at NVIDIA. I think the more important thing is the impact that 3D has on our Graphics business and the fact there's the pull that it creates for our Graphics products. I think it'll have more impact there than it will necessarily in the glasses per se.
+Operator
+Our next question comes from the line of Arnab Chanda of Roth capital.
+Arnab Chanda - Roth Capital Partners, LLC
+First of all, if you could talk a little bit about gross margins. It seems like as your mix improves, your gross margins continue to go high, in fact, it might be closer at an all-time high. Is that continue to occur as the mix improves? Or are we getting close kind of sort of peak here? And then I have one follow-up question.
+Jen-Hsun Huang
+Well, we haven't guided to where we think ultimately we think our gross margins ought to be. But ultimately, NVIDIA's gross margins ought to be in the mid-50s to high 50s. That's really where we have to go, and the reason for that is because an increasing amount of our business is highly differentiated business where software, middleware and other peripherals are such a large part of it. And as we continue to grow our Quadro business, as we continue to grow our Tesla business, as we continue to grow our Tegra business, where software is just such a large part of it, my expectation is that, that the gross margins will continue to reflect that. For each one of the businesses that I just described, the gross margins are better than what we are as a corporate standard. 2/3 of our company's revenues come from businesses that I've just described, or profits come from businesses that I've just described even though it doesn't represent nearly that much of the total revenues. And so my sense is that over time, as those businesses grow, our margins ought to drift towards it. And mixed with mainstream GeForce business, which will continue to be competitive, I think that in overall average, north of 50% is logical for our company. And so we just have to get there. You know that, Arnab, we've been transforming our company step by step over the last three, four, five years. And moving away from just offering a vast chip to offering solutions and software that differentiates us and add a lot more value to our customers. Our 3D Vision, for example, that was just discussed, is a great example of that. It only works with GeForce, and so it brings a lot more value to GeForce. CUDA is another area of innovation, and it only works with GeForce. And so over time, between those kind of things and many, many examples that's related to Quadro and Tesla and Tegra, those value-added ideas that we bring to the marketplace will be valued, we'd hope.
+Arnab Chanda - Roth Capital Partners, LLC
+So I'm sorry, I'm not sure if I heard you correctly, did you say mid- to high-50s, not 40s? I'm kind of having a little bit of a shock here, so I just want to make sure. I can hear your story...
+Jen-Hsun Huang
+That's where we should be. And maybe another way of saying that is where we are right now should not be our peak, and we don't expect it to be our peak. And if the mix of our business continues to grow as you were referring to earlier, then they should naturally take us to above 50%, right? Tesla is above 50%. Quadro is above 50%. And so if those continue to grow, we should certainly expect our gross margins to grow.
+Arnab Chanda - Roth Capital Partners, LLC
+It seems like given you have all these new products ramping, shouldn't that offset seasonality? I mean, you're still guiding seasonally, when -- or is there something going on in the end market that makes you a little cautious? If you could give us a little qualitative view on that, that'd be great.
+Jen-Hsun Huang
+Q2 is Q2. And everybody has the same feelings about the overall market at the moment as we do, I guess. There's some amount of cautiousness, and there's some amount of enthusiasm. And so I think that for the mainstream part of our business to be seasonal and for us to drive growth through new products, I think that's sensible, and we're comfortable with the guidance. And if it turns out different at the end of the quarter, then we can all rejoice.
+Operator
+Our next question comes from the line of Glen Yeung of Citigroup.
+Glen Yeung - Citigroup Inc
+A couple of quarters ago or even last quarter, you talked about the idea that you were under-shipping demand, and now you're guiding for normal seasonal in the July quarter. So that business that you were under-shipping, is that something that was sort of temporal, right? It was sort of associated with the timeframe that we're at. Or is that lost business to competition? Or how should we think about that?
+Jen-Hsun Huang
+The market overall was pretty supply constrained on 40 nanometer, so I don't know that we lost anything to the competition. But I think some demand is perishable. I mean if you went to a PC store and you couldn't buy a PC, you buy probably something else or maybe you waited. But 40 nanometers was surely supply constrained, and we're still supply constrained in certain segments of that, of the 40-nanometer product line. But at the moment, we see the marketplace as being relatively balanced. And looking into Q2, parts of the market is going to be seasonal and parts of our business is going to be high growth. And so we're just going to have to see how it turns out at the end of the quarter.
+Glen Yeung - Citigroup Inc
+As we think about the evolution of Fermi across the larger price stacking at NVIDIA over the course of the next few quarters, how should we think about that? What's the pattern we should expect to see? When does Fermi sort of permeate the entire price stack?
+Jen-Hsun Huang
+We are sampling Fermis from entry-level notebook all the way to supercomputer Fermis. So there are many versions that we're already sampling. So we're going to production with it as soon as our customers go into production.
+Glen Yeung - Citigroup Inc
+And will gross margins be affected as that spread -- hows the pattern of that coincide with the pattern of the sampling devices?
+Jen-Hsun Huang
+We're guiding gross margins up next quarter.
+Operator
+Our next question comes from the line of Craig Berger of Friedman, Billings and Ramsey & Co. (sic) [FBR Capital Markets].
+Craig Berger - FBR Capital Markets & Co.
+I guess one question I have is as we look into the back half of the year, should we still be looking for normal seasonality despite the, I guess, the better than Q1? Meaning, said differently, is Q2 the kind of aligned with consumption, shipments here?
+Jen-Hsun Huang
+The back half of the year -- as I look at the back half of the year, I see that we will have more Fermis in production. I see that Tesla, our GPU for servers, is going to ramp up substantially because of OEMs going into production. This is the first Tesla that has been designed standard into OEM servers -- into many, many OEM servers. I see that the second half, our expectation is that enterprise consumption is going to continue to grow, so Quadro will continue to grow. And I see that second half, our Tegra smartphone and tablets will go into production. So my sense is that the second half, couple that with seasonality, ought to be pretty good. And so we need to make sure that we're very thoughtful about continuously to improve our yields and ramping our production.
+Craig Berger - FBR Capital Markets & Co.
+Next question on Tegra. It obviously was down seasonally quite a bit in the first quarter. When do some of those design wins kick in? Who are you really focusing on to drive second-half growth?
+David White
+Craig, can I just correct you. Q1 for Tegra was not down. The segment that it was in was down, primarily related to other non-mobile businesses that we're looking into that consumer space, but Tegra was actually up quarter-over-quarter.
+Craig Berger - FBR Capital Markets & Co.
+Can you tell us how much?
+David White
+We really not. I think we've indicated in the past that when Tegra becomes meaningful, it works significant, we'll break it up. But at this point, it's still pretty small.
+Craig Berger - FBR Capital Markets & Co.
+And then just the magnitude and timing of growth and maybe which customers you're really focusing on for the second half?
+Jen-Hsun Huang
+We don't announce our customers' products. So we'll talk about that when we go into production in the second half. The thing that we would love to talk about is the products that have already gone into production and I'm delighted to see Microsoft's Kin get into production and all the innovative new products, the new features that they've brought to the marketplace and to new perspective in the mobile phone market. And so we're excited about that.
+Craig Berger - FBR Capital Markets & Co.
+Last question on the Chipset side, I know you just launched some new product. Even though you're not splitting it out, do you still expect that segment to be flattish this year? Kind of when do you see the inflection point in revenues maybe beginning to fall off in that segment?
+Jen-Hsun Huang
+We expect the Chipset business to do very nicely in the next 12 months at least.
+Operator
+Our next question comes from the line of Alex Gauna of JMP Securities.
+Alex Gauna - JMP Securities LLC
+I know you mentioned the 330 [330M graphics] and the MacBook Pros and the benefits they bring. I'm also noticing in the Windows environment a pretty nice footprint for your Quadro product. Has Quadro in the mobile space been a meaningful driver to date? Is that improving? And is either 40 nanometer or Fermi coming in that line, improving the outlook for that?
+Jen-Hsun Huang
+Quadro has a very, very large share of the overall Workstation market, both desktop and notebook. And the notebook is a new growth area for Quadro because just as we do love to bring our work home with us, so do people who design things. And so whether it's video editing, which a lot of people, a lot of video artists love to do it on their laptops, or designing tennis shoes to cars, the ability to bring their work wherever they go is a very important capability for them. And so we see more and more people both having a Workstation on their desks at work as well as being able to take it with them in their notebook. And in the future, we're expecting the server to be a big part of our Workstation business as well, Quadro into servers, either in the form of with the display or Tesla into servers as they're remote rendering capability is the new growth opportunity for us. More and more people would like to put their work in the cloud, and to be able to share that work and collaborate with people all over the world. And so we see those two drivers to continue to grow the Quadro market. But the notebook is a very important segment for us, and we have a very large footprint there and it's a market that I expect to continue to grow.
+Alex Gauna - JMP Securities LLC
+You mentioned -- you say you don't pre-announce your customers' products, but you also highlighted a good road map for Fermi with its sampling. Could we see products or Fermi broaden its architecture as early as E3? Or is it more of a Computex, back-to-school type of timeframe?
+Jen-Hsun Huang
+Fermi for E3 -- well, Fermi is the name of the architecture, and it goes into three different product lines. The first one is GeForce, and that one is in large volume production now. We're ramping that very hard, and we've got a lot of ramping to do. Because we were late with Fermi, we were out of this marketplace for some six months to maybe eight months. And so there's a very large pent-up demand for high-end products out there. And so we need to grow that segment, go back into that segment as hard as we can. The second is Tesla, Fermi is used for GPUs as a server, and they're used for computational processors for supercomputers, oil and gas seismic analysis to financial risk calculations. And so that is also just had a record quarter, and our expectation is we'll have yet another record quarter. And then the third segment of Fermi is Quadro. Quadro is our workstation, our graphics solution, and it's used by people who create movies, make movies as well as design cars. And so those three products will launch in the appropriate customers and in the appropriate time.
+Operator
+There are no further questions at this time. I will now turn the call over to Michael Hara. Please go ahead.
+Michael Hara
+Thanks, everyone for joining us. We look forward to talk to you about next quarter's results.

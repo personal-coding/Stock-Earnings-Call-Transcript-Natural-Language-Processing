@@ -1,0 +1,224 @@
+Cadence Design Systems (NASDAQ:CDNS) Q4 2012 Earnings Call January 30, 2013 5:00 PM ET
+Executives
+Alan Lindstrom
+Lip-Bu Tan - Chief Executive Officer, President and Director
+Geoffrey G. Ribar - Chief Financial Officer, Principal Accounting Officer and Senior Vice President
+Analysts
+Richard Valera - Needham & Company, LLC, Research Division
+Mahesh Sanganeria - RBC Capital Markets, LLC, Research Division
+Jay Vleeschhouwer - Griffin Securities, Inc., Research Division
+Auguste P. Richard - Piper Jaffray Companies, Research Division
+Krish Sankar - BofA Merrill Lynch, Research Division
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+Thomas Diffely - D.A. Davidson & Co., Research Division
+Brian Murphy - Sidoti & Company, LLC
+Operator
+Good afternoon. My name is Allie, and I will be your conference operator today. At this time, I would like to welcome everyone to the Cadence Design Systems Fourth Quarter And Fiscal Year 2012 Earnings Conference Call. [Operator Instructions] I will now turn the call over to Alan Lindstrom, Group Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you, Allie, and welcome to our earnings conference call for the fourth quarter and fiscal 2012. The webcast of this call can be accessed through our website, cadence.com, and will be archived for 2 weeks. With us today are Lip-Bu Tan, President and CEO; and Geoff Ribar, Senior Vice President and CFO.
+Please note that today's discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings and the cautionary comments regarding forward-looking statements in the earnings press release issued today.
+In addition to financial results prepared in accordance with generally accepted accounting principles, or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to measure results using certain non-GAAP financial measures. Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results, which can be found in the Quarterly Earnings section of the Investor Relations portion of our website.
+A copy of today's press release dated January 30, 2013, for the quarter ended December 29, 2012, and related financial tables can also be found in the Investor Relations portion of our website.
+Now I'll turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone, and thank you for joining us today. Cadence delivered strong results for Q4. Revenue was $346 million. Non-GAAP operating margin was 23%, and operating cash flow was $96 million. For 2012, revenue grew 15% to $1.326 billion. Non-GAAP operating margin increased 5% points to 23%, and operating cash flow grew 31% to $316 million.
+As we look at 2013, much like this time last year, semiconductor and global economic conditions are soft and uncertain. But for the most part, customers are continuing to invest in new designs. We also benefit from the increasing complexity of these designs. This ongoing design activity and our strong pipeline and backlog provide us with confidence in our Q1 and 2013 guidance. Geoff will discuss this later in the call.
+First, let us start with highlights for Silicon Realization. In Q4, we extended our leadership in advanced node design. Cadence is working with leading ecosystem partners to implement test chips in preparation for customers designing for 14-nanometer and 16-nanometer FinFET processors. We've recently announced the success of 2 these projects. First, ARM, IBM and Cadence implemented 14-nanometer test chip featuring an ARM Cortex-M0 processor implemented using IBM 14-nanometer SOI FinFET processor. Second, ARM, Samsung and Cadence tape out the first ARM Cortex-A7 processor targeted at Samsung 14-nanometer FinFET process.
+Cadence received a TSMC Partner of the Year Award for the 20-nanometer reference flow for digital, custom/analog and mixed-signal design. [indiscernible] improved performance by 57% on the 20-nanometer networking chip by using the Encounter flow. Virtuoso continues to be the gold standard for analog custom design and layout. The vast majority of users have successfully transitioned to the Virtuoso 6.1 product line, which is native on open access by industry standard database. This enables them to take advantage of improved automation and innovative capabilities, such as indesign signoff, which conducts checks on-the-fly to reduce layout iteration.
+On Monday, Cadence introduced Virtuoso Advanced Node with breakthrough capabilities for design at 20-nanometer and below, including the support for layout-dependent effects, double patterning and FinFET readiness. Together, this improved productivity and shortened time-to-market for complex analog custom design.
+With increasing integration of functionality and design, our customer expect continuous innovation in the capability and performance of Incisive, our verification platform. In Q4, Cadence released version 12.2 of Incisive. This release provides a 2x improvement in performance, significantly enhanced the buffer capabilities, improved low-power modeling support and new methodologies for mixed-signal verification. Overall, Incisive 12.2 doubles productivity of SoC verification over the previous release.
+2012 was also a strong year for our SoC Realization solutions, with revenue growth exceeding 30% for design and verification IP. We continue to gain momentum in design IP. In Q4, we completed an IP contract with Tilera, a fabless semiconductor company that develops the TILE-Gx multi-core processor for networking, video and cloud applications. This included DDR controllers, DDR 5, 10-gig and 40-gig Ethernet and other high-speed interface IPs. Verification IP had another strong quarter to complete a stellar year, which we closed multimillion contracts with semiconductor and system companies.
+We are continuing to aggressively expand our design IP and VIP catalogs for the most advanced applications and protocols. In Q4, we introduced the industry-first design and verification solution for the latest automotive Ethernet controller standard. Cadence received a Customer Choice Award from TSMC recent Open Innovation Platform Ecosystem Forum for our work supporting DRAM development, including design IP and verification IP.
+Let us talk about System Realization. Our hardware business, led by Palladium XP, achieved record sales in 2012. Primarily due to current economic uncertainty, we expect Palladium sales to remain strong in 2013 but below the 2012 level. As an indicator for the secular increase in the size of our emulation business, total expected hardware sales for the 2011 to 2013 period are 90% higher than the 2008 to 2010 period.
+Our PCB and IC packaging product lines continue to see good growth, with revenue up 11% for 2012. We upgraded our product with the release of new versions of Allegro package designer and our system-in-package layout solution that support design of low-profile IC packages for smartphones, tablets and ultrathin notebooks. Integration of Sigrity is on track, with strong demand for its products, driven by increased need for accurate analysis for advanced consumer and data center products.
+In summary, Cadence continues to gain momentum in 2012. Before Geoff goes through the numbers, let me leave with you what to look for from us in 2013: continued progress in design solution for advanced process nodes and featuring multi-core embedded processors; growth in mixed-signal and low-power design, driven by mobility, automotive, industrial and emerging [indiscernible] trends; and continued strong demand for verification and hardware solutions, driven by growing design complexity.
+With that, I will now turn it over to Geoff who will review the financial results and provide our outlook.
+Geoffrey G. Ribar
+Thanks, Lip-Bu, and good afternoon, everyone. I will review the results for the fourth quarter and 2012 and then present our outlook for Q1 and 2013. Cadence produced strong operating results for Q4 and 2012. Bookings for 2012 totaled $1.336 billion compared to $1.158 billion for 2011, an increase of 15%. Booking quality was high again in 2012, with weighted average contract life within the expected range of 2.5 to 2.6 years. Book to bill was above 1, and the year-ended backlog was $1.7 billion.
+Total revenue for Q4 was $346 million compared to $339 million for Q3 and $308 million for the year-ago quarter. Year-over-year, revenue growth was 12% for Q4. Revenue for 2012 was $1.326 billion compared to $1.15 billion for 2011, an increase of 15%.
+For Q4, product and maintenance revenue was $319 million, and services revenue was $27 million. The revenue mix for geographies in Q4 was 45% for the Americas, 21% for EMEA, 20% for Asia and 14% for Japan.
+Total cost and expenses on a non-GAAP basis for Q4 were $265 million compared to $257 million for Q3 and $244 million for the year-ago quarter. Higher sales compensation, driven by better-than-expected results, contributed to the sequential increase.
+Q4 headcount was 5,189 people compared to 5,119 people for Q4. Most of the increase was due to hiring in R&D and technical field positions.
+Non-GAAP operating margin for Q4 was 23% compared to 24% for Q3 and 21% for the year-ago quarter. For the year 2012, non-GAAP operating margin was 23% compared to 18% for 2011.
+For Q4, we recorded GAAP net income per share of $1.10 compared to $0.04 per share for Q4 2011. For the year 2012, GAAP net income per share was $1.57 compared to $0.27 for 2011. Included in Q4 and the fiscal 2012 GAAP net income per share were $0.90 and $0.91, respectively, in tax benefits for the reversal of valuation allowance recorded against a portion of our deferred tax assets in Q4 2008 and the settlement of our 2001 to 2003 California income tax audit. The difference between the Q4 and full year impact on EPS is due to share count.
+For Q4, non-GAAP net income per share was $0.20 compared to $0.21 for Q3 and $0.17 for the year-ago quarter. For 2012, GAAP net income per share was $0.77 compared to $0.51 for 2011.
+Operating cash flow for Q4 was $96 million compared to $92 million for Q3 and $62 million for the year-ago quarter. For 2012, operating cash flow was $316 million compared to $240 million for 2011, an increase of 31%.
+DSOs for Q4 were 27 days compared to 34 days for Q3 and 43 days for the year-ago quarter. Our DSO target remains approximately 35 days.
+Capital expenditures were $10 million for the fourth quarter and $36 million for the year. Cash and short-term investments were $827 million at year end, an increase of $222 million over 2011 and about half the cash was in the U.S.
+For Q4 and for the year, over 90% of all orders booked were ratable. Weighted average contract life for Q4 was approximately 2.5 years. For the year, weighted average contract life was just under 2.6 years. On a weighted average basis, run rates in Q4 contract renewals increased.
+Now let's address our outlook for the first quarter of 2013 and fiscal 2013. For Q1 2013, we expect revenue to be in the range of $342 million to $352 million, with approximately 90% of the first quarter revenue expected to come from beginning backlog.
+Q1 non-GAAP operating margin is expected to be in the range of 22% to 23%. Non-GAAP total cost and expenses should be up sequentially from Q4, primarily due to seasonal factors such as payroll taxes.
+GAAP EPS for the first quarter is expected to be in the range of $0.23 to $0.24. Non-GAAP EPS for Q1 is expected to be in the range of $0.19 to $0.20. GAAP EPS is higher than non-GAAP EPS for Q1 due to the expected release of tax reserves associated with the prior acquisition.
+Now for our fiscal 2013 outlook. Bookings are projected to be the range of $1.425 billion to $1.475 billion. We expect weighted average contract life to be in the range of 2.4 to 2.6 years for 2013, and we expect at least 90% of the orders for the year to be booked under ratable arrangements.
+Revenue is expected to be in the range of $1.405 billion to $1.445 billion, with approximately 70% of this total coming from beginning backlog. This translates to 6% to 9% revenue growth over 2012. Growth for 2013 is composed of approximately 12% to 14% growth for software, offset by a decline in revenue for hardware and for services.
+Lip-Bu had already mentioned that we expect hardware revenue to be down for 2013. Services revenue is expected to decline approximately 20% from 2012 due to our decision to increase investment in IP by reassigning engineers from services to R&D to develop commercial IP.
+Non-GAAP operating margin is expected to be approximately 25% for the annual basis for 2013. At the midpoint of the guidance range, this represents approximately a 50% drop through to incremental revenue to the non-GAAP operating income for the year. Non-GAAP other income and expense for 2013 is expected to be in the range of negative $15 million to negative $9 million. We are assuming a non-GAAP tax rate of 26%, weighted average shares outstanding of 288 million to 296 million shares for the year.
+GAAP EPS is -- for 2013 is expected to be in the range of $0.58 to $0.68. Non-GAAP EPS is expected to be in the range of $0.82 to $0.92. We expect operating cash flow in the range of $350 million to $380 million. Our DSO forecast is approximately 35 days, and capital expenditures for 2013 are expected to be in the range of $35 million to $40 million.
+I want to conclude today with the following comments. First, as you can see, we expect to achieve our goal of mid-20s non-GAAP operating margin for 2013. I also continue to believe that for the near term, we will be able to drop approximately 50% of incremental revenue through to operating income, providing us the revenue growth at a reasonable level. I also continue to believe that we're able to grow our core business at a faster rate than the overall EDA industry.
+Operator, we'll now take questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Your first question is from Rich Valera of Needham & Company.
+Richard Valera - Needham & Company, LLC, Research Division
+First question on the service -- changing your service model where you're focusing, I guess, more of those resources internally. Wondering how we should think about how that plays out through the year. You said it sounds like service revenue down 20%. Do we think it sort of starts down sort of 20% in the first quarter and it stays that way? Or does that sort of phase in? Do you gradually shift those resources and it kind of accelerates as the year goes on? Any color there would be helpful.
+Geoffrey G. Ribar
+So Rich, this is Geoff. So yes, it will obviously start at a higher number and go -- the drop will go down throughout the year as the revenue rolls off, right, as we're stopping and taking the business. So the impact in the later half the year will be a little bit stronger than the first half.
+Richard Valera - Needham & Company, LLC, Research Division
+Great. And in terms of the products you're going to be developing there, how should we think about them in terms of revenue impact? Do you think they'll start generating meaningful revenue in the second half of the year? Or is that more of '14 in terms of revenue impact?
+Lip-Bu Tan
+Sure, I think -- Rich, this is Lip-Bu. We mentioned about the service moving to the IP. Clearly, we put together a very good team under Martin Lund. And besides the VIP, we're doing very well. Right now, we are very focused on the design IP and that includes memory storage, high-speed interface and other standard -- industry standard, and we like our strategy. The road map, we execute very well in there.
+Richard Valera - Needham & Company, LLC, Research Division
+Okay, that's helpful. With respect to emulation, wondering if you'd be willing to say where emulation finished up in 2012 relative to 2011? I know you started you're saying you thought it would be down, and I think you changed that to sort of flattish to maybe up. Just wondering if you can give any color there.
+Lip-Bu Tan
+Sure. Let me start and, first of all, on the hardware emulation, I had been -- turnouts have been strong in 2012. It's a record year for us. And then, as I mentioned, 2013 will remain strong but would be lower than '12, primarily because of economic uncertainty. And we all know, they're very soft and uncertain. But we are the gold standard, and we clearly -- any complex design below 14-nanometer, this is a must-have. And so clearly, we are excited about it, and we continue to drive success as a gold standard.
+Geoffrey G. Ribar
+I think, one more comment again. When we started last year or 2012, we guided flat to down, and we ended up at an all-time record year. It's inherently difficult for us to forecast this business, particularly with the semiconductor and economic conditions out there.
+Richard Valera - Needham & Company, LLC, Research Division
+And this is probably cutting it finer than you guys would want to give clarity on. But can you say it's starting this year? Do have the same level of decline baked into your guidance as you did last year? Or is it greater, lesser than the decline you were looking at last year?
+Geoffrey G. Ribar
+Yes. I think we'll stick with our earlier comments.
+Richard Valera - Needham & Company, LLC, Research Division
+Okay. fair enough. And then, Lip-Bu, your comments sounded pretty similar this quarter to last quarter in terms of kind of macro uncertainty in some of your semi customers. But you said sort of most of them are still spending. Have you seen any change third quarter to fourth quarter in terms of increased hesitation of customers or any change in customer spending that you could speak about?
+Lip-Bu Tan
+Sure. So I think it continues to remain very strong in terms of design activity, especially the winning company and the system company. And clearly, our business will be related to the engineering headcount. We don't see any major cutback in terms of engineering. As you know, they will cut other places. Engineering is the last thing you want to cut. And then meanwhile, the system companies are really going vertical integration. And also, the other thing we see is the chip have become very complex, especially in the SoC mixed-signal and also some of the complex advanced nodes. We don't see any slowdown. We see the innovation. The customer really drives innovation. I think most of you have been through the CES. I was there for 2 days. A lot of new products coming out. It just excites me that we're the enabler for them to develop all these new fancy products, and we are excited about it.
+Operator
+Our next question is from the line of Mahesh Sanganeria of RBC Capital Markets.
+Mahesh Sanganeria - RBC Capital Markets, LLC, Research Division
+Lip-Bu, the question on the core business. That's a pretty strong guidance of 12% to 14% for the core business, and I would say that you probably had in the similar range for last couple of years. Can you give us some more color into what is driving in terms of components of those percent increase in terms of how much is the price increase and how much is actually the usage increase? If you can give us -- and also maybe you can point to some segments, what segment is driving the higher growth. That would be helpful.
+Lip-Bu Tan
+Yes, wonderful. Thank you so much for the question. So clearly, we see a very strong core business, 12% to 14% double-digit growth. This is very exciting for me. And a couple of things: one, clearly, we provide better value to our customers. And so in terms of pricing, usage, definitely both are increasing. And then secondly, I think it's very important to highlight, as I mentioned earlier, in terms of the design complexity and also faster time-to-market in terms of product cycle and, clearly, more detail in terms of digital. We make a lot of investment in the digital ICD side area. We recruit some of the top talent in this area. And then we really drive a lot of success, leadership in the 20-nanometer and below by the 14 and 16 I mentioned. And then we have significant design wins in the top 10 semiconductor company. And I usually take a little bit longer time to see the value, but I think we are clearly winning on that. And then the other thing I mentioned early about the mixed-signal, the mixed-signal in terms of analog, our Virtuoso clearly is our standard and now starting to have a lot of customers, I think, to turn to us in terms of our digital flow win. We're excited about that. And then clearly, the verification, we continue to be very strong. And then now, I think we'd add on this IP area in the VIP design IP. So all in all, we are just excited about the portfolio that we have in terms of the customer relationship that we are improving substantially, starting to see that payoff time now.
+Mahesh Sanganeria - RBC Capital Markets, LLC, Research Division
+And so another question on your strategy about taking the services down. I don't exactly know, but I would have thought that your application engineers who are there in the field, they would act as the sales person while doing the helping out customers with designing. And won't it be a concern that if you take the services down, that maybe you'll pull-through of core product might come down? Is that not a concern?
+Lip-Bu Tan
+Yes. So I think -- first of all, I think it's a good question. And we kind of -- as a company, from the corporate point of view, we decided to shift the service into an IP because it's more scalable. And then secondly, it's very important for us to have a very strong balance in terms of design, verification IP and then only really doing very high complex service, and so that we can really drive the operating margin going forward.
+Geoffrey G. Ribar
+Yes. And Mahesh, so there's a difference between AEs and the service organization. So we're not getting rid of AEs. Right? We're not taking AEs and putting them in IP. We're taking our service organization which is a group of very skilled engineers that we have that work on developing products for our customers and making them develop IP going forward. And by the way, we continue to hire more AEs and add more AEs across the board. They are very critical, as you just pointed out, to our sales effort.
+Mahesh Sanganeria - RBC Capital Markets, LLC, Research Division
+Okay. One last question for me, on your strategy on expanding the IP. I would assume that you're going to use your balance sheet to acquire, I would say, at least 3, 4 companies, smaller companies in the IP side. Is that a good assumption? And can you give us an idea of what range of companies are you looking at and what segment of IP you are going after?
+Lip-Bu Tan
+Yes, thank you for the question. First of all, clearly, we are not going to comment on any acquisition target or any trend, so I think we're not going to answer that. But what we can say is we like our IP road map. We like our leadership. Martin Lund, we recruit on board, and then he has a very strong team below him. And we are very focused on the product road map. And then the portfolio, they'll be updating now. And so I think, all in all, I think -- stay tuned, and we should have more solid portfolio to serve our customers.
+Operator
+Your next question is from the line of Jay Vleeschhouwer of Griffin Securities.
+Jay Vleeschhouwer - Griffin Securities, Inc., Research Division
+I'd like to ask first about the hardware business. You mentioned that from 2011 through 2013, the hardware business would be 90% above the cumulative revenues over the preceding 3-year period. Would it be fair to deduce from that, that for 2013, the range of decline built into your guidance is about 5% or 10%, given the 3-year composite revenue number that you talked about?
+Geoffrey G. Ribar
+Yes, Jay. I understand the question. Unfortunately, we don't give that level of detail in these calls.
+Jay Vleeschhouwer - Griffin Securities, Inc., Research Division
+With respect to the services transition, the services revenue did decline sequentially and year-over-year reasonably materially. So I assume that's connected with the change that you're talking about. On the other hand, there was a reasonably material increase from third quarter in cost of services. Was there something of a nonrecurring nature in that? Or are we now at a peak in terms of your services expense and we'll start to see that come off?
+Geoffrey G. Ribar
+Yes. So from Q3 to Q4, we clearly have started to move engineers away. But the revenue also, as you can see, right, decreased from Q3 to Q4, and that was the major driver of that change in the margin.
+Jay Vleeschhouwer - Griffin Securities, Inc., Research Division
+Okay. For Lip-Bu, when we look at the growth categories in EDA, there's typically at any given time just a handful of categories that are doing particularly well for the industry as a whole. And I'd like to ask about a few and how well you're positioned in those. So first of all, among the categories that is doing especially well is analysis and simulation. My question there is, outside of emulation, how well do you think you're doing in that category? Another category that's been doing particularly well is physical verification, if you could talk about that. And then lastly, system-level design outside of the PCB, so just hardware, software codesign part of the market. How do you think you're doing there?
+Lip-Bu Tan
+Jay, thank you for the question. So a couple of category. I think, overall, all I can say is across the board, very strong 12% to 14% in our core EDA. And in terms of more specific, in terms of beside the hardware emulation, other verification, VIP and also in the synthesis, digital side, across the board, pretty strong, and there is no particular area that is overly strong. But again, we just continue to provide the whole flow to our customer to serve them well in terms of their complex design, all the way from physical and verification. And then in terms of the system side, clearly, our Palladium is doing well. Our -- in our system, hardware software or codesign, co-verification, we announced our development verification suite. We'll continue to progress very nicely, heavily engaging with the winning customer. We have our success on that.
+Jay Vleeschhouwer - Griffin Securities, Inc., Research Division
+Okay. Just 2 last ones, and actually another emulation question. You ascribed the likely decline in the business this year to economic uncertainty, which sort of we've seen in the past affect this particular business. On the other hand, there's been a several year trend of improvement in emulation there for longer-term secular reasons. Could you talk, perhaps, about other competitive pressures that you might be seeing outside of economic pressures in emulation and, perhaps, talk about the age of your product line and the context of 1 or 2 of your other competitors having newer products?
+Lip-Bu Tan
+Yes, I think good questions. And as I mentioned, the hardware continue to be strong. It's a record year for us in '12, and '13 remains to be strong. But clearly, we all know the economic situation, and this is the hardware. And we want to be -- meanwhile, the product is a gold standard. It's a leader. Any complex design, this is a must-have. We've heavily, heavily continued to drive success with our customer. And in term of our competitor, I think it's good that our competitor is doing well because this overall verification and [indiscernible] earlier is good for the industry. And our objective is to serve the customer well, help them to design time-to-market. And I think we like our chance. And now we have a solid gold standard, and we continue to drive improvement on that.
+Geoffrey G. Ribar
+And I think, Jay, the gold standard is much more important than the age of the product. We're still the gold standard.
+Operator
+Your next question is from the line of Gus Richard of Piper Jaffray.
+Auguste P. Richard - Piper Jaffray Companies, Research Division
+Geoff, can you talk a little bit about pricing and sort of your expectations for price negotiation this year?
+Lip-Bu Tan
+Yes, I think -- Gus, I think the pricing continue to be competitive and then, clearly, we are very focused on our customer relationship and they have been very well. We're starting to see the benefit of our relationship with customers and continue to drive the value to them and software design challenges. And then the other thing is, 4 years ago, I start a quality improvement, deal quality improvements. And so clearly, it helped us in terms of our relationship with our customers, and also we can really provide the best value to our customers.
+Auguste P. Richard - Piper Jaffray Companies, Research Division
+And in terms of the IP strategy, you're clearly putting more resources into that developing IP. A couple of questions: One, how long after you make this investment do you expect it to translate into revenue growth for your IP business?
+Lip-Bu Tan
+Yes, good question. Clearly, the IP business is very important to us. And clearly, we are very focused on the design IP side, primarily focused on memory through the Denali acquisition and also the storage controller. And then also, right now, we're focused very much in the high-speed interface related industry-standard, with Martin Lund's background. And this is an area that he is very comfortable with it. He is familiar with SoC and we have recruiting some of top-notch talents onboard. Stay tuned, we are excited about our product offering.
+Auguste P. Richard - Piper Jaffray Companies, Research Division
+Okay. Are you targeting any specific process as you design IP? Particularly as you go to the more advanced nodes, it becomes very much process specific and it doesn't necessarily translates from one foundry to the next. Are you spreading it across different foundries? Or are you focusing on different foundries as you move forward?
+Lip-Bu Tan
+Yes, it's very good question. And we very much focus on the advanced node processors. And clearly, we -- 28-nanometer is going to be a big node, and we are very focused on that. And then meanwhile, we also engaging with -- across all the leading fabs, and so that we can work with them. Ecosystem partner is very important for us. As I mentioned, we announced in our ARM, TSMC, Samsung and the list goes on. So we work with other key foundries, and so that is very important.
+Operator
+[Operator Instructions] Your next question is from the line of Krish Sankar, Bank of America.
+Krish Sankar - BofA Merrill Lynch, Research Division
+Just on your guidance, if I take the low end of your revenue and EPS, it looks like it's about a 6% revenue growth year-over-year and 6% EPS. I'm just trying to get a sense if that's really right. In other words, not a whole lot of operating leverage in the lower end of the guidance but quite phenomenal levels in the upper end of the range.
+Geoffrey G. Ribar
+Yes, Krish, we obviously look at the complete guidance range and look at both the high end and the low end of the range and the midpoint of the range. And I think we're quite happy with the range as is. We won't comment on specific ends of the range.
+Krish Sankar - BofA Merrill Lynch, Research Division
+Got you. All right. Okay. All right. And then in terms of the emulation business, I'm just trying to get a sense of how big you think the emulation market was in calendar 12 and were you guys the #1 or #2 market share in that?
+Lip-Bu Tan
+Yes, as I mentioned earlier, clearly, we are the gold standard and the leader. And that market, as far as I know, is a $350 billion -- $350 million market. We clearly are the gold standard and leader. It's a must-have for the leading company that's doing 14-nanometer and below complex chip, and we have a lot of success on that.
+Krish Sankar - BofA Merrill Lynch, Research Division
+All right. And then a couple of other quick questions. In terms of the guidance, is it fair to assume that all the tailwind of the model transition is behind us and none of it is there actually in the calendar '13 EPS?
+Geoffrey G. Ribar
+Yes, yes. We concluded that's in Q4 of 2012. So it's all behind us.
+Krish Sankar - BofA Merrill Lynch, Research Division
+Got you. And then in your fiscal '13 guidance, is there any way to figure out how much of your revenue is coming from 20-nanometer design activity?
+Geoffrey G. Ribar
+We don't look at it that way because a lot of our contracts are structured. We tend to look at it by customer and by product more than then specific nodes.
+Krish Sankar - BofA Merrill Lynch, Research Division
+Final question from my side. When I look at your business, you guys have done a bunch of acquisitions in the past. Last year, you guys did Sigrity, maybe then a few more out there. But just trying to get a sense of what is your capital allocation priority. Is it still mostly focused on bolt-on acquisition? And then you guys still has some outstanding buybacks of there. You have some debt. And is there in any dividend in the cards? I'm just trying to get a sense of what kind of capital allocation -- how you look at it.
+Lip-Bu Tan
+Yes, we just don't talk about -- First of all, we don't speculate about acquisition. We're very much focused on our strategy. We like our strategy, and it's doing well. And we only make acquisition if it fits into our synergy. And I will let Geoff to comment on the others.
+Geoffrey G. Ribar
+Yes. So obviously, we need a certain amount of cash to operate. We have the converts that we're going to be paying off, both in the end of 2013 and the end of 2015 out of U.S. cash. We're going to make organic investments. And in some cases, we'll make inorganic investments in our key growth areas.
+Operator
+Your next question is from the line of Sterling Auty of JPMorgan.
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+I apologize in advance. I'm jumping between calls, so I'm sure some of this is going to be a repeat. But did you give 2013 bookings guidance on the call?
+Geoffrey G. Ribar
+Yes, we did. Hang on a second. Yes, the guidance for bookings for 2013 is $1.425 billion to $1.475 billion.
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+Okay. And the commentary about the emulation business for 2013, did you actually see that in the fourth quarter? Taking a look at the inventories on the balance sheet, was there -- did you see some of that trend already?
+Geoffrey G. Ribar
+No, we didn't. Revenue was actually up in emulation business from Q3 to Q4.
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+Okay. But the commentary around the economy, is that just coming from the comments that you're seeing from semi companies at the moment. Is that something that over the next quarter or so, as it starts to get more clarity, you could see yourself getting more constructive on that business? Or do you think that fade in the emulation is going to happen regardless.
+Lip-Bu Tan
+Yes, let me start first. Now first of all, I think I just can tell, we have a record year 2012 and going to remain strong in 2013, primarily because of the economic uncertainty. And -- but meanwhile, seeing that, we're the gold standard. We're the leader. We continue to drive success, and a lot of customer is engaging with us. And that's kind of -- we still have a very solid lead like that business.
+Geoffrey G. Ribar
+And Sterling, it's just really difficult -- inherently difficult for us to forecast this business in this condition, with what the semiconductor companies are doing in the economic environment overall.
+Sterling P. Auty - JP Morgan Chase & Co, Research Division
+Okay. And then last question, it was touched upon in the last question, which is the operating leverage. And again, I'm on the road so I haven't crunched the numbers here. But just eyeballing it, it would seem like you're not putting in as much of the operating leverage or it's either you're still expecting 25% for the full year. Is there something in other income or the tax rate that's going to weigh on EPS in 2013?
+Geoffrey G. Ribar
+Well, yes. So clearly, I think, we have an impact in the other income and expense. It's a little bit different from where The Street was guiding 2013. I think that's one impact. I think the other impact is the share count we guided to a little bit higher than, I think, you guys had. But the operating leverage, I think, is 50% at the midpoint of guidance.
+Operator
+Your next question is from the line of Tom Diffely of D. A. Davidson.
+Thomas Diffely - D.A. Davidson & Co., Research Division
+I guess another emulation question. It's just so popular today. So you guys dominated the high end. It seems like Mentor has done a pretty good job at the midrange and EVE has made some inroads at the low end. When you talk about the competition, do you actually see competitive takeaways? Or is everybody just kind of growing up with their own customer base, refreshing their own customer base as time goes on?
+Lip-Bu Tan
+Yes. Let me talk first. This is Lip-Bu. Clearly, we're the leader. We are the gold standard. Any complex design is a must-have, and we continue to drive success on that. In terms of our competitors, overall, I think it's a good market. Clearly, the hardware emulation is going to continue to grow. We have a lot of respect for our competitors and Mentor continues to do well and then EVE on the low end and the prototype thing area. And so I think we're all going to see growth. But clearly, any complex design, our hardware emulation is a must-have and is the gold standard.
+Geoffrey G. Ribar
+And again, Tom, this is Geoff. It remains a secular trend. We believe that emulation is a business that's going to continue to grow for everybody.
+Thomas Diffely - D.A. Davidson & Co., Research Division
+Okay. Is your belief that the high end of that is the fastest growing, the strongest part of that market?
+Geoffrey G. Ribar
+Yes, I guess we can't really comment on which end is growing faster or not. But again, we think it's a secular trend.
+Thomas Diffely - D.A. Davidson & Co., Research Division
+Yes, okay. And then when you look at your IP business, from a competitive point of view, is your main competitor at this point still the in-house design teams? Or Synopsys or some smaller players is the competition.
+Lip-Bu Tan
+Yes. So let me comment first. I mean, clearly, in-house, internal development IP is still the one. And then -- but clearly, more and more customers are more comfortable to outsource if it's a standard and if it is of good quality. And that's why we emphasize the quality. We focus on the area that we really have value to offer, in the memory, storage, the high-speed connectivity. Interface area is our primary focus right now. And other industry standard, over time, we will add on to it. But the key thing is to provide a high-quality IP that customers can comfortably trust and use.
+Thomas Diffely - D.A. Davidson & Co., Research Division
+Okay. So for some of these markets that you're keen on right now, those markets then that don't have a merchant supplier today or you feel like a top-notch merchant supplier and you're trying to fill a void?
+Lip-Bu Tan
+Yes. I think, clearly, first of all, in the memory side, we are the gold standard. And we continue to drive success on that. And then the controller side, the storage controller side, we are continuing to make very good quality to our customers. And then now, we are very focused on the high-speed interface and will lead to high quality. And so the company customer can depend on us and on the quality IP that we can provide them, helping them in the design time-to-market.
+Thomas Diffely - D.A. Davidson & Co., Research Division
+Okay. I guess switching gears here. When you look at the capacity of the [indiscernible] that the foundries are writing today, have you started to see a pickup in the leading-edge demand from your second and third tier fabless customers?
+Lip-Bu Tan
+Can you repeat the question again?
+Thomas Diffely - D.A. Davidson & Co., Research Division
+Wondering with a lot of the foundry capacity going up right now, the leading-edge, if the second and third tier fabless guys now believe they're going to get access to that sooner than they previously thought and maybe are more actively working on more advanced designs, where in cycles past, they may have waited a year or 2 to start those design activities?
+Lip-Bu Tan
+Sure. So I think, clearly, we see the customer moving more to towards the advanced node. Clearly, the 40 is till the big volume. And then the 20 because they are long nodes. And so in some of the Tier 2, Tier 3 are moving to the 20-nanometer and include some of the China companies already moving in. So I think we are heavily engaged and helping them to migrate from -- to moving towards the advanced nodes, and we see tremendous activity, yes.
+Thomas Diffely - D.A. Davidson & Co., Research Division
+Okay. And then I guess when you just look at the full year revenue guidance, is there any unusual linearity or seasonality this year that makes that linearity of that business different than it has been in the past?
+Geoffrey G. Ribar
+No, sorry.
+Thomas Diffely - D.A. Davidson & Co., Research Division
+No, that's good. I just wanted to make sure.
+Operator
+Our final question comes from the line of Brian Murphy of Sidoti & Company.
+Brian Murphy - Sidoti & Company, LLC
+Geoff, did you touch on how we should think about the service gross margin in 2013?
+Geoffrey G. Ribar
+No, we didn't. But I suspect you could expect it to maintain approximately where it is.
+Operator
+I would now like to turn the call over to Cadence's President and CEO, Lip-Bu Tan, for his closing remarks.
+Lip-Bu Tan
+Thank you. In closing, I'm extremely pleased with the progress that we have made at Cadence in the 4 years since I joined Cadence as CEO. We have strengthened and expanded our technology portfolio, transformed the company culture and deepened customer relationships across the board. This has contributed to our strong financial performance. Cadence has regained its edge as an innovator, and we are recruiting the best talent in the industry. We have significantly improved our balance sheet and operating profitability. This enabled us to continue investing in innovation organically and through targeted acquisition. We are well positioned to deliver value to our customers and shareholders.
+Thank you, everyone, for joining us this afternoon.
+Operator
+Thank you for participating in today's Cadence Design Systems Fourth Quarter and Fiscal Year 2012 Earnings Conference Call. You may now disconnect.

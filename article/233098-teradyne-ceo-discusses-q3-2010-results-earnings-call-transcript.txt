@@ -1,0 +1,354 @@
+Teradyne, Inc. (NASDAQ:TER) Q3 2010 Earnings Conference Call October 28, 2010 10:00 AM ET
+Executives
+
+Andrew Blanchard â VP, Corporate Relations
+Mike Bradley â President and CEO
+Gregory Beecher â VP, Treasurer and CFO
+Analysts
+
+Timothy Arcuri â Citigroup
+Krish Sankar â Bank of America Merrill Lynch
+Mehdi Hosseini â Susquehanna International
+Gary Hsueh â Oppenheimer & Co. Inc.
+Christopher Muse â Barclays Capital
+James Covello â Goldman Sachs
+David Duly [ph] â Steel Head
+Patrick Ho â Stifel Nicolaus & Co.
+Atif Malik â Morgan Stanley
+Presentation
+
+Operator
+Good morning. My name is Pia, and I will be the conference operator today. At this time, I would like to welcome everyone to the Q3 2010 earnings release conference call. (Operator Instructions)
+I would now like to turn the call over to Mr. Andrew Blanchard, sir you may begin. Andrew Blanchard
+Thank you, Pia. Good morning, everyone and welcome to our discussion of Teradyneâs most recent financial results. I am joined this morning by our Chief Executive Officer, Mike Bradley; and, our Chief Financial Officer, Greg Beecher. Following our opening remarks, we will provide details of our performance for the third quarter of 2010 as well as our outlook for the fourth quarter. First, Iâd like to address several administrative issues. The press release containing our most recent financial results was sent out via business wire last evening. Copies are available on our website or by calling Teradyneâs corporate relations office at 978-370-2221. This call is being simultaneously webcast at www.teradyne.com. Note that during this call, we are providing slides on the website that may be helpful to you in following the discussion. To view them simply access the investor page of the site and click on live webcast icon. In addition, replays of this call will be available via the investorâs page of teradyne.com about 24 hours after the call ends. The replays will be available along with the slides through the 14th of November. The matters that we discuss today will include forward-looking statements that involve risk factors that could cause Teradyneâs results to differ materially from managementâs current expectations. We encourage you to review the Safe Harbor statement contained in the earnings release as well as our most recent SEC filings for a complete description. Additionally, those forward-looking statements are made as of today and we take no obligation to update them as a result of developments occurring after this call. During todayâs call, we will make reference to non-GAAP financial measures. We have posted additional information concerning these non-GAAP financial measures including reconciliation to the most directly comparable GAAP financial measure where available on our website. To view them, go to the investor page and click on GAAP to non-GAAP reconciliation link. Also, you may want to note that between now and our next conference call, Teradyne will be participating in the Piper Jaffray TMT Conference on November 10th, Sidoti & Companyâs Emerging Growth Farm in New York on November the 16th; Credit Suisse Annual Technology Conference in Phoenix on December 1st and 2nd; and Barclays Technology Conference on December 9th in San Francisco and finally, Eric May Luncheon in Chicago in November and New York and Boston in December.
+Now, letâs get on with the rest of the agenda. First our CEO, Mike Bradley, will review the state of the company and the industry in the third quarter and will review our outlook for the fourth quarter. Then our CFO, Greg Beecher, will provide more details on our quarterly financial performance along with our guidance for the fourth quarter. We will then answer your questions. For scheduling purposes, you should note that we intend to end this call after one hour. Mike? Mike Bradley
+Good morning, everyone. Thanks for being with us you for joining us today. Our results in the third speak for themselves, so I wonât go into detail there other than to say that we posted record numbers and are quite pleased with how the financial results reflect the overall strength of the company.
+Weâre significantly different operations from a few years back with a richer product portfolio, stronger market share position, a very efficient cost structure and a solid balance sheet. Add to that the upside of our growth initiatives and we believe the picture going forward is quite promising. So, Iâll let Greg go through how our business model is performing as well as our cash strategy and the cash calendar.
+But Iâd like to focus my reminders first on whatâs happening in the test market in the short run; second, how we expect our full year results to play out and third, what we expect over a longer horizon. The most obvious show term issue is the sharp correction and demand weâve seen in this past quarter in the SOC space. Although memory orders were up slightly, our SOC test orders declined 47% led by an OSAT pull back of $120 million.
+As Iâve mentioned in the past, our industryâs annual run rate was over $3 billion, which is above the trend line, so this correction isnât unexpected. For 2010, the SOC market will now likely come in at $2.6 to 2.7 billion or double the market size in 2009, but will likely exit year at an annualize ship rate of about $2 billion. So, itâs been a sharp correction down to a level below the average market size of the past few cycles.
+I would note that weâll be operating in Q4 at about model profitability in this correction, roughly 10 points higher than in prior cycles. So, our structure work for the last couple of years should stand up well, equally important is our continued progress on market share. While the overall the SOC market will double in 2010, weâll grow by nearly 2.5 times. This will lift our share position to somewhere between 45 and 50% for the year. This is obviously a bigger gain than on the last few years, so it deserves some comment.
+There are three things happening here. First, weâve been focused on high growth end markets like smartphones, automotive electronics and consumer white goods. These markets are growing faster than other end market segments like personal computers, netbooks or low end cellphones.
+Second, the test content in these products has a tight fit to our instrument portfolio and system architectures. Most notably, our power management and wireless instrumentation, plus our microcontroller test capability. As an example of how that plays out, we capture about 50% of the test seconds in a typical tablet versus only 15% of the test seconds in a netbook.
+And third, design for test methods are implemented more heavily in digitally dominant chips like PC processors with a result of reducing the test bitrate in these segments versus the mixed signal technologies in the consumer, automotive and industrial spaces where the test market continues to grow.
+The bottom line is that our FLEX and Eagle products have tapped in to the growing demand for mobile, energy efficient ICs. Theyâre at the heart of this new wave of consumer products. So, the share gains weâve seen from us in the last few years are real. Theyâre hard one, of course, socket by socket and of course, we donât win every battle, but our cumulative performances have been undeniable.
+Shifting now to memory, youâll see in a table on our website that memory test demand is inching up, but remains well below prior cycle peaks. In that environment, weâve had a small increase in our bookings in Q3 up to $27 million and will continue to ship at about $30 million in the fourth quarter. More significant is our continued progress in strategic design ends [ph].
+This past quarter, we won new business in DDR3 wafer short testing with our Magnum II Test System from Nextest. This is a new beach head for the Magnum and represents another revenue â Iâm sorry, another avenue for growth in high volume, high parallel wafer probe applications. Having said that, the memory revenue growth story continues to be tied to fab expansion plans for next year, while weâre increasingly well-positioned with the UltraFLEX and Magnum products in that space.
+Turning now to systems test, we nearly doubled our bookings with $91 million in orders for the quarter. This was led by our defense business and our hard disk drive products. If you recall that these sectors were lagging earlier this year, so the resurgent in those groups plus some continued strength in commercial board test has improved the overall systems test outlook.
+So, the overall picture is a correction in the SOC test market back below the trend line as companyâs digest the new capacity put in place earlier this year. But continued growth going forward in semiconductor industry units and revenue productions driven principally by next generation smartphones, automotive electronics and mobile connectivity products. All of these bode well for the long-term semi test outlook.
+In summary, weâll have one of the highest revenue years in our history in 2010, weâll have our highest proper rate ever this year due to steady cost controls and market share leverage and our performance will compare well to the lead companies in the overall industry and will stand out in the test sector.
+So, independent of how this correction plays out, weâre positioned well for future over the cycle performance both in our core and in new markets.
+Now, Iâll turn this over to Greg for an in-depth review of the financials.
+Gregory Beecher
+Thanks, Mike, and good morning, everyone. Iâd like to touch upon some of the key highlights before I get into the details of our third quarter results and fourth quarter guidance. Iâll also update you on our model and our cash plans.
+Starting with the third quarter recap, we posted sales of $502 million, with a non-GAAP operating profit rate of 32.8%, and EPS of $0.82. This was our highest non-GAAP operating profit rate in history eclipsing the 32% rate set just last quarter.
+For the fourth quarter, weâre expecting sales to be between $300 to 325 million with non-GAAP EPS of $0.21 to 0.28. This would put us on course for a full year sales of $1.6 billion with non-GAAP EPS of $2.05 to 2.12, which would top our annual EPS record. It would also put us on course to achieve our highest full year operating profit rate in history at approximately 27% and will likely be our first year of operating above our model 15% profit target for each quarter.
+One short hand way to show how weâve modeled the company for improve over the cycle performance is to combine 2009 and 2010 and compare this two-year period with similar two-year periods. Weâve done that on our supporting slides on our website and you can see that weâre on course to generate just over 16% non-GAAP operating profit over the 2009-10 periods. This is at least 10 points better than the 2007-2008 combined periods or the 2005-2006 combined periods.
+Youâd also have to go back very far in the archives to find a year where the SOC test market was as low as $1.3 billion as it was in 2009 or averaging about $2 billion over this two-year period. So, this is by no means an easy comparison. Perhaps though, more important than our strong over the cycle earnings performance is our free cash flow generation per share.
+Our 2010 free cash flow is expected to be approximately $430 million plus or minus $15 million. Using our non-GAAP diluted shares, this amounts to about $2.20 per diluted share. This would significantly exceed our past record of $1.21 per diluted share in 1999. This would also be a new record for free cash flow yield at about 20%.
+This past upturn was extraordinary. Our revenue grew from $121 million in the first quarter of 2009 to just over $500 million this past quarter. And the third quarter just ended, Eagle and Nextest were the standouts, each topping their past high watermarks in revenue.
+We grew faster than our peers as our SOC test market share expanded from about 41 percent in 2009 to an estimated 50% through the first nine months of 2010. The reason for the significant share gain is twofold. We have high market share and faster growing markets and weâve also gain considerable share across all products on a socket by socket basis.
+Moving now to the demand side, semi test demand fell sharply in the quarter. OSAT bookings were only 47 million, the lowest level since the first quarter of 2009. Customers are clearly in a digestion phase, which overall is healthy.
+On the other side of the bookings ledger, systems test group had record bookings. This was primarily due to strong bookings for hard disk drives and defense test systems. While weâre expecting a significant drop in sequential sales for the total company of about $190 million in the fourth quarter, we expect to be operating at model profitability. Weâve pulled the only lever we need to in a slowdown, which is to adjust our inventory pipeline.
+As sales decline, we expect our cost to come down similar to how they rose as the vast majority of our quarterly cost growth was in variable compensation. I should add that this variable cost are spread over their respective performance periods, which range from a year to six months and this can cost some bumpiness in quarterly cost. Weâll also have some puffiness in engineer as we incur NREs or from time to time invest slightly more to capture additional growth.
+Stepping back for a moment, the macroeconomic environment and our customer sentiment is nothing like what we saw at the end of 2008. It feels much more like what we saw in late 2004. What we call what is around the corner, whatever unfolds, weâre clearly in a much stronger position than at any time in our past with our much improved model and strong product lineup.
+Moving next to cash, in our last conference call, I said that we intended to go a full cycle and then update you on our plans. But given the strength of the operating model, we now plan to move this update into our next conference call as we are currently reviewing our cash requirements and alternative uses of cash. What I can say now is that we intend to maintain sufficient cash resources for our worldwide operations under both very harsh operating environments and periods of fast growth.
+Weâll also maintain sufficient cash for attractive M&A that is close to our core capabilities and exceeds our cost of capital. As you know, over the last five years, weâve returned just over $500 million through stock buybacks when we have excess capital and invested about $530 million in aggregate in Ecotest and Nextest when we determine that we can earn more than our cost of capital with those acquisitions. We believe there will other attractive acquisitions close to our core of smaller size to these two acquisitions.
+Before I move onto the details of the quarter, I want to clarify our non-GAAP EPS calculations as there has been some confusion. You may recall that when we issued the convert, we entered into a call overlay to reduce dilution. We bought a call on 34.7 million of our shares matching the number of shares embedded in the convert at the convert exercise price of $5.48. We also sold a warrant at $7.67 for the same number of shares 34.7 million, which help offset the cost of the call. These two instruments essentially moved the dilution from our convert from$5.48 a share to $7.67 per share.
+In our non-GAAP EPS calculation, we include our call option at $5.48. GAAP harbored [ph] does not include our call option in the EPS calculation rather it recognizes only the dilutive components, which is the embedded option in the convert at $5.48 and the warrant we sold at $7.67. Sorry for the long winded explanation, but I thought it was important to explain while we make this adjustment.
+On the balance sheet, we ended third quarter with gross and marketable securities of $899 million. Our net cash after deducting the $190 million face amount of convertible debt due in 2014 and a $9 million loan in Japan is $700 million. We expect to add approximately $100 million in the fourth quarter to our cash balances. I should add that we also contributed $45 million to our frozen U.S. pension plan to fully fund it in 2010 and we donât expect the need to make any significant future contributions.
+As to the end of the third quarter, our U.S. carry forth net operating losses total about $240 million and we have federal tax credits of about $55 million. The third quarter top line of $502 million was up $47 million from the second quarter. Semi test was 448, up $35 million and systems test group was $54 million, up $12 million.
+Semi Test product shipments increased 10% from a quarter ago and tenfold from a drop in 2009. Then the $205 million, service revenue was $66 million, up $2 million from a quarter ago. Semi test service revenue was $48 million. Total company product turns business was 18% versus 29% a quarter ago. Semi test turns business was 18% versus 29% a quarter ago. Memory revenue was $29 million in the quarter, up from $21 million sequentially.
+Moving on to P&L, gross margins decreased from 55.9% in the second quarter to 54.9% in the third quarter due to lower sales of written down inventory, higher [inaudible] charges and less favorable product mix.
+R&D expenses were $50.1 million or 10% of sales compared to $50.4 million or 11.1% of sales in the second quarter. SG&A expenses were $61.1 million or 12.2% of sales compared to $58.3 million or 12.8 of sales in the second quarter. Operating expenses of $111.2 million were up $2.5 million from the second quarter due to variable compensation, offset somewhat by savings elsewhere. On a year-over-year basis, operating expenses were up $27 million, of which $22 million is variable compensation and $5 million is from the restoration of temporary pay cuts. Weâve obviously kept it very firm hand on fixed cost.
+Our net non-GAAP interest and other expense was $1.4 million. Taxes were $6.7 million in the quarter and benefitted from the full year rate adjustment to 6%.
+In the third quarter, semiconductor test sales were 89% of the total. System test group was 11%. Our book-to-bill ratio for the second quarter was 0.7 for the overall company, 2.58 for semiconductor tests, and 1.7 for the systems test group.
+At the end of the quarter, our back log stood at $482 million, of which 79% is scheduled to ship and be recognize as revenue within the next six months. Cash flow from operations totaled approximately $237 million after capital additions. Depreciation and amortization for the third was $32 million including $8 million of stock-based compensation, $7 million for acquired intangible asset amortization, and $2.7 million for amortization of the GAAP imputed debt discount. As noted in the press release, sales for the fourth quarter are expected to be between $300 million and $325 million, and the non-GAAP EPS range is $0.21 to $0.28 on 198 million diluted shares. I should add that this guidance excludes the amortization of acquired intangibles and the non-cash imputed interest on the convertible debt. Our GAAP EPS range is $0.14 to $0.20. The operating profit rate at the midpoint of our fourth quarter guidance is about 16%.
+Now, moving to the P&L percentages in the fourth quarter, we expect gross margins to be 49 to 50%, R&D should be 16 to 15% and SG&A should be about 18% to 17%. I should quickly add that [inaudible] model in the fourth quarter when you adjust for mixed. Non-GAAP net interest expense is expected to be about $1.7 million. The tax provision should be about $3 million. In summary, our over the cycle model is clearly delivering. Weâre well-positioned in good markets and our products are winning.
+Now, I will turn the call back over to Andy. Andrew Blanchard
+Thanks, Greg. Pia, weâd now like to take some questions.
+Question-And-Answer Session
+
+Operator
+(Operator Instructions) Your first question comes from the line of Timothy Arcuri with Citigroup.
+Timothy Arcuri â Citigroup
+Hi, guys. A couple of things. If you look at whatâs going on with backend tester orders and you look at how strong front end orders are still are. Thereâs obviously a pretty big digestion happening at the OSAT levels, but foundries continue to really order a lot of equipment. I get that there is this copper gold issue in the bonding world, but why â is there something different going on in the tester world this time why the OSATs would be digesting so much tester capacity and yet front end orders havenât come down very much.
+Iâm just sort of wondering like in your business if thereâs something different this time thatâs causing them to digest orders more than they would in the front end.
+Mike Bradley
+Tim, I know youâve covered the correlations between front and back end, weâre a little bit more focus on backend and on units because thatâs what drives our business. And of course, thereâs a lead time difference between different types of equipment. But I donât think thereâs â you know if you look at the pattern here even though itâs a big drop, you know itâs not that different from some of the past cycles if you look back at â06 or â07 parts where the OSATs lead to move down and aside from the real meltdown of â09 or early in the late â08, they drop down into the â I donât know $40ish million of demand.
+So, for us, it isnât a â you know itâs dramatic, but it isnât a different pattern. I donât know how to speculate on the front end. Iâll let the front end companies do that, but from our perspective, it isnât â no, itâs quite a drop. But itâs not an unusual one in a business like ours that have such short lead times now.
+Timothy Arcuri â Citigroup
+Yes, got it. No, it just seems very odd. So, okay. And then I guess last thing for me is that youâre going to have roughly $800 million, it sounds like at the end of the year, cash. And Iâm wondering, two questions embedded in this. First of all, whatâs the minimum cash you think you need to basically run the business? So, whatâs the excess cash balance in there and two, am I correct in sort of interpreting your comments that it sounds like whatever extra cash that is and your more looking at maybe some strategic M&A with that cash. Thanks.
+Gregory Beecher
+Weâre looking at this topic very carefully now Tim. Thereâs a range that weâre looking at now. It will be higher than where were last time how we thought about cash, but will likely be short of a $1 billion. But at some certain numbers, weâre going to land on before long and then make sure we get that reviewed and we stress test it a bit. So, weâre in that process and we think by the next conference call, we can be much more crisp in terms of how we think about the use of cash.
+We do also believe that there are some attractive, very close to our core opportunities, not in test but some other very close adjacencies that could be a good fit, if the valuation stars align and at a point like this where we think our valuation is low, weâd be more inclined to use cash. So, we are going to keep a reasonable amount of cash for some attractive acquisitions as well.
+But again â¦
+Timothy Arcuri â Citigroup
+Thanks.
+Gregory Beecher
+Next call, we can be much more specific as to how we thought about it.
+Timothy Arcuri â Citigroup
+Got it, guys. Thanks a lot. I appreciate it.
+Operator
+The next question will come from Krish Sankar with Bank of America Merrill Lynch.
+Krish Sankar â Bank of America Merrill Lynch
+Yes, thanks for taking my question. I have a couple of them. Number one, Mike, if you look at your slowdown in Q4, clearly I mean thereâs a huge digestion going on. But in a normal cycle, the OSATs do not tend to have a huge appetite in calendar Q1. Is there any reason to think thatâs going to be different this time around?
+In other words, would this weakness continue into Q1?
+Mike Bradley
+Krish, I think youâre â I donât think itâs just OSATs. The seasonal pattern now is the big quarters are Q2 and Q3, if you were in a normal period where you werenât correcting from a prior downturn. So, I think the point Iâd make is this move down, kinds of move the market into about a $500 million quarter arena, which is runs at $2 billion and then you have to add to that is are seasonality that tends to be a little bit softer in Q4 and Q1.
+So, I do think the betting man wouldnât say that this has a sharp move up in the winter months. Having said that, I think weâre at a level where the market is below this trend line that itâs been at in terms of annual demand. How it distributes over the quarter, so I think that Iâd say that your picture is probably a fair one.
+Krish Sankar â Bank of America Merrill Lynch
+Got it. Looking into Q4, I know you guys donât break it up. But if you had to tell directionally which side your different business are going SOC, Nan, Eagle, HDD and your other assembly disk, can you just help us out with that?
+Mike Bradley
+The mix of shipments in Q4?
+Krish Sankar â Bank of America Merrill Lynch
+Yes, are they all done or is like one up or versus what?
+Gregory Beecher
+This is Greg. System test group will be up quite significantly in the fourth quarter and that in part affects the gross margin, guide and suite [ph] weâve provided. So, systems test group, growing. The Nextest business about flat and then our SOC test businesses including Eagle would be down.
+Krish Sankar â Bank of America Merrill Lynch
+All right. And then final question, what is the mix of IDM and OSAT in the quarter? Thank you.
+Mike Bradley
+Yes, this quarter in demand thatâs 80 to 20 in Q3. Last quarter, 60 â I think 2/3, 1/3, maybe a little bit less than that, 64 to 36, I think what was we had last time. Is that right, Andy?
+Andrew Blanchard
+Yes.
+Krish Sankar â Bank of America Merrill Lynch
+Thanks, everyone.
+Mike Bradley
+Yes.
+Operator
+The next question will come from Mehdi Hosseini with Susquehanna International.
+Mehdi Hosseini â Susquehanna International
+Thank you. I got a couple of questions. Going back to your prepared remark, should I assume that by the next quarterly conference call we would finally here but a strategic acquisition that you have your eyes on?
+Gregory Beecher
+Mehdi, this is Greg. No, I would not assume that. What I mean to say is over numerous periods. It may be a three or four-year period. There could be opportunistic attractive M&A situations. I didnât want to imply it all, but thereâs something right in front of us.
+Mike Bradley
+Just in our cash planning, we have to have operating cash. We have to have M&A cash. We have to have downturn cash, and thatâs the breakout that we just want to be sure that we delineate next quarter at this time, how we think about all those pieces.
+Mehdi Hosseini â Susquehanna International
+Sure. And to follow-up, first, on the memory side, Iâm assuming that most uptick in booking is in flash, correct?
+Mike Bradley
+We donât break it out Mehdi and having in the last quarter, just because I think it will go up and down.
+Mehdi Hosseini â Susquehanna International
+Okay.
+Mike Bradley
+But the â weâve had a small amount of growth this quarter, bookings at $27 million and the mix between fab and flash.
+Mehdi Hosseini â Susquehanna International
+Okay.
+Mike Bradley
+I think thereâs some speculation going forward as fab shift, possibly shift more to flash than we would shift with FAS, but we donât break it out.
+Mehdi Hosseini â Susquehanna International
+I was just trying to figure out, nine months ago we were expecting DDR3 test booking would pick up by now. It seems like it is not in â has continued to push out. So, what is your latest view on that? And final question, it had to do with the hard disk drive. Most of your customers that have reported quarterly results have talked about continued weakness, so would you attribute these uptick in booking to share gain or is that just your customers buying in anticipation of a pickup next year?
+Mike Bradley
+Okay. The picture on DDR3, I think Iâd agree with you that the amount of buying on the DDR3 final test done has been less. That chart on our website that youâll see today reflects the overall demand in memory and its inch its way up over the course of the last four quarters, so that the run rate and memory is annualized about $700 million a year. So, a piece of that shortfall between that and the past is that the backend and the DDR3 buying have not been very, very strong.
+I think I mentioned â I want to just comment that thatâs why opening up the probe side, the wafer test side of the DDR3 space important to us. Itâs not a lot of volume at this point, but it does open up really the last segment if you think about it in the memory space for us.
+On the HDD side, as we mentioned in prior calls, the capacity adds this year, weâre pushed from the first half of the year into the second half. Weâre seeing that now and weâve built some backlog up in that business that will ship into 2011. So, there has been a shift in capacity adds in that space and we felt that shift.
+Now, our position in hard disk drive is pretty much consistent with what we said last quarter and that is that we expanded our product coverage from mobile drives, 2.5 inch drives to enterprise drives and at the same time, weâre getting a beach ahead of the second customer. So, as we look into next year, our objective is to be able to put all that together and the objective is to double our business from the $40 to 60 million annual run rates to twice that. So, that would be shared gains.
+Mehdi Hosseini â Susquehanna International
+Thanks so much.
+Operator
+The next question will come from Gary Hsueh with Oppenheimer & Company.
+Gary Hsueh â Oppenheimer & Co. Inc.
+Yes. Great, thanks. Just a quick question here from a macro perspective. You brought up a sort of analogy with 2004. But if you look at 2004, there was a similar sharp correction, but it came from (A) much higher tester bitrate levels and (B), much higher database inventory levels for shipped units and yet in this correction, weâre coming off of a much lower tester bitrate and lower inventory levels.
+I was wondering if you can kind of share, first of all, what you think the tester bitrate is on SOC testers in Q3 and just what the reset level is in terms of stabilization in Q4 and Q1. Itâs consistently been around 1%, Iâm just wondering if you see any obvious reasons why it should be any lower than 1% in this mid-cycle correction.
+Mike Bradley
+Look, Gary, weâre a little more sensitive to the annual run rate because we build this company around this mid-cycle performance. I donât even know if Iâd got the quarterly bitrates on it. But the annual rate through this year, weâre eyeing that to be in the 1.4% level, which was about what it was in â08, â07 was 1.5, so that number I think is probably going to be pretty good for 2010 incorporating this correction, you know Q3 correction which we think others will feel as well.
+So, is your question whatâs that going to look like going forward?
+Gary Hsueh â Oppenheimer & Co. Inc.
+Yes. I mean going forward in a typical correction, you sort of bounce around and stabilize at 1%. Is there any sort of near-term cyclical reason why itâs going to go below 1%, anything from a technology or product perspective that would lead you to believe that you know they can drive more efficiency out of testers this time and drive that sort of balance below 1%.
+Mike Bradley
+I donât think so, but I wouldnât be disturbed if it goes below 1% for a short period of time. I think that our picture is that this recovers and gets back â prognosticators are projecting here as a $200 billion SOC IC market. So, taking different bitrates against that, even 1% would give you a $2 billion market. So, I think the range of sort of steady state market, it probably falls in the 2.2 to 2.6 range.
+Gary Hsueh â Oppenheimer & Co. Inc.
+Okay. And just kind of more of a near-term question and clarification, you said that there was $120 million pullback in orders from OSAT. Is that pullback a push out or is that pullback a cancellation and was that cancellation both against gross orders that you reported in Q3?
+Mike Bradley
+No, it was a drop in bookings. The cancellations in the quarter were still very, very low. We havenât had for some time now, including the Q3 bookings picture a â right off, take off the books orders. I think weâve operated it around 1% or let below 1% on an ongoing basis and this quarter wasnât very different from that. I think weâre about 1% in the cancellations.
+So, even though our lead times have gone out, the backlog has not been populated with double ordering as far as we can see and I think you know as you go into fourth quarter, we would have seen that by now. So, anything that occurred here has been in the nature of a push out and we did have some of that, but it isnât an overwhelming number. But if youâd look at our backlog that thereâs some amount of shipments that are into the first quarter â we might want to explain that a little bit more if thereâs a question on that front, but anyway thatâs a picture.
+Gary Hsueh â Oppenheimer & Co. Inc.
+Okay. Well, let me just ask the question then. What percentage of that $482 million backlog is shippable over the next six months?
+Mike Bradley
+Hey, thatâs a good question. Gregâs got â¦
+Gregory Beecher
+That was in my prepared remarks. I think it was 79% â¦
+Gary Hsueh â Oppenheimer & Co. Inc.
+Okay.
+Gregory Beecher
+I think the â¦
+Mike Bradley
+You want to â¦
+Gregory Beecher
+Let me comment on backlog. In our backlog, in our systems test group business, itâs about $100 million of backlog that will ship post the fourth quarter and why that this is in our mill arrow business; we do book demand if itâs a funded program up to a year. Our other product businesses will only book orders that are scheduled to ship within six months. So, thatâs the mill arrow business that extends over a year. It was also some hard disk drive business that got book that has longer lead time. Some of that will ship into Q1.
+So, when you add whatâs going on system test group, you end up with about $100 million thatâs going to ship outside of the fourth quarter. The other thing is, Iâm sure you understand that service, service â we got contracts and itâs recognize quite often over a number of quarters, you know four quarters and thatâs about $40 to 50 million. Those are the two big pieces in our backlog that arenât due to be recognize in the fourth quarter.
+Gary Hsueh â Oppenheimer & Co. Inc.
+Okay. And just to wrap up my line of questioning real quickly here on the HDD Neptune orders in Q3. Youâre seeing into M&A [ph] that theyâre related to a new application on the Enterprise HDD side. What sort of the expectation for revenue recognition across those orders?
+Gregory Beecher
+We said earlier that we thought this year would be 40 to 60 per HDD with our principle focus on one customer and having broken into a second. We will be in that range very heavily, skewed towards the fourth quarter, some of the third. So, that goal will be met and we think next year as Mike said, we should be able to double that revenue.
+When that revenue hit, thatâs hard to say. It tends to be second quarter, could be some in the first quarter, but Iâd assume some first, some second, maybe a little in third.
+Mike Bradley
+But the initial installations have been accepted, which I think is the other part of your questions.
+Gary Hsueh â Oppenheimer & Co. Inc.
+Okay, great. Thank you.
+Operator
+The next question will come from C.J. Muse with Barclays.
+Christopher Muse â Barclays Capital
+Yes, good morning. Thank you for taking my question. I guess first question in terms of lead times for your SOC business. Is it correct that weâre now back to normalize six to eight weeks and not 10 to 12 weeks and that played a role here in kind of the downtick on your order book?
+Mike Bradley
+Yes.
+Christopher Muse â Barclays Capital
+Okay. So, from here, we should track to that type of level?
+Mike Bradley
+I think thatâs right. I believe youâll have a little variation on products when there are intra product line spikes, but thatâs a good rule of thumb now.
+Christopher Muse â Barclays Capital
+Okay. And I know you guys are hesitant to guide on orders, so I guess say what you can say. But I guess the question is is this considering your memory outlook, considering some of the mix shift, presumably helping you with HDD doubling in â11 considering the seasonal patterns for test service orders and how thatâs usually good for Q1. Do you sit here and think that Q4 is the order trough or do you think that Q1 is a trough?
+Mike Bradley
+C.J., Iâd reiterate what I was saying before; I think itâs going to be hard to call exactly which quarter. But at the rate at which orders are in and whether revenue on the industry is staunch shifted pretty dramatically. I think weâre pretty close to a sustainable level.
+But as I think Krish said earlier as how would you populate the quarters? A betting man would populate the shipment quarters in â strongest in the post-Q1 period. So, thatâs the profile I would describe.
+I think the other thing I want to keep reminding here is that you know with the model delivering anywhere up to 10 points of bottom line improvement. It really reinforces that as we have these kinds of adjustments weâre not scrambling to disassemble the company. Weâre as steady as she goes on the engineering and customer support side.
+Christopher Muse â Barclays Capital
+Sure.
+Mike Bradley
+Weâve got a decent performance even at this level.
+Christopher Muse â Barclays Capital
+Okay. And then I guess on your OpEx model, you talked about I guess some R&D projects that are continuing. Iâm curious now how we should think about kind of that incremental move in revenues and implications and incremental moves for OpEx that $2.5 million to 25 million relationship. Has that shifted a bit here as weâre kind of entering a seasonal weak period?
+Gregory Beecher
+Right now, with R&D, itâs a couple of million higher than where you might expect it to be otherwise thereâs some NREs and some instruments that we are working on to be bring to the market. So, thereâs a little bit of a bubble here. Weâre looking at whatâs over the horizon.
+Now, on the other side, weâve done a little a bit better on SG&A. So, the SG&A savings have tended to offset the engineering investments. So, weâre still overall within our model with a slightly higher engineering spending. But weâre going to keep an eye on that and see when is the right time to moderate that a bit.
+Christopher Muse â Barclays Capital
+Is it something we should think about in terms of bonus accruals in Q4 versus Q1 timing wise?
+Gregory Beecher
+Well, thatâs more of a cash issue. Weâre accruing the bonuses through each quarter and it can be a little bumpy as I said in my prepared remarks because some programs are annual and your accruing based upon a high annual profit rate, but maybe the profit rate in the fourth quarter is much lower than the rate youâre accruing at. So, in the fourth quarter youâll have variable comp than you would. Otherwise, kind of an odd way â some of the comp gets spread based upon how gap accounting works.
+Christopher Muse â Barclays Capital
+Okay.
+Gregory Beecher
+You see our guidance. So, a bit a little bumpy. So, we knew what the quarter to quarter, you just need to be mindful that how cost get allocated on variable, itâs not tied to that quarterâs profitability. Itâs tied to the period of the program.
+Christopher Muse â Barclays Capital
+Got you. And one last question for me, on the memory front, what were the memory revenues in September?
+Gregory Beecher
+In September, they were $29 million.
+Christopher Muse â Barclays Capital
+Perfect. Thank you.
+Operator
+The next question will come from Jim Covello with Goldman Sachs.
+James Covello â Goldman Sachs
+Hey, guys. Thanks so much for taking the question, I appreciate it. First question, the $100 million thatâs going to â is going to ship outside of Q4, how much again of that did you say would be Q1 and then whatâs the margin on that business compared to the corporate average margin?
+Gregory Beecher
+There is miller arrow [ph] business which is consistent with the corporate average and then there is hard disk, which is I think weâve talked before that itâs probably 20 points below. I donât want to â Jim, breakdown hard disk drive because we have a thin customer base.
+James Covello â Goldman Sachs
+Yes.
+Gregory Beecher
+So, I want to stay away from that. But when this ships, you know our cost structure should not change any significant way. So, if the relationships are off, we will be very clear to describe, you know is it margin, where we off and why. And obviously, if a chunk of that lower margin business ships and sails or lower in Q1, we donât know that, but if they are then obviously that has a bigger impact on the margin percent. But weâre fortunate to have that extra business nonetheless.
+James Covello â Goldman Sachs
+Right. And again, how much of that $100 million, do you think would be Q1 â¦
+Gregory Beecher
+Okay.
+James Covello â Goldman Sachs
+Even if we canât get the exact breakdown.
+Gregory Beecher
+I would presume about $30 million.
+James Covello â Goldman Sachs
+In terms of â I heard what you said about you think that the Nan test business is going to be driven by Nan capacity expansion, which makes sense. Weâve talked before on this call about the DDR3 test. Is that going to be more driven by speed increases or capacity increases or some combination of both, where do you think you stand on that?
+Mike Bradley
+Well, itâs a shading. I remember your question from this quarter, so not to disappoint you with saying the same thing. It feels to us like itâs a bit more connected to capacity than it is to speed. But since there hasnât been that much additional buying in the space, thatâs indicative that as the speed grades, as the production of higher speeds goes up, the stretching of the existing install base continues.
+So, I think the bigger bump as a betting man would come from the capacity as is in the future. But it will still be from both sides, but slight ring in the direction of the capacity.
+James Covello â Goldman Sachs
+Okay. And then final question for me on the cash, when you think about the business that you need the cash you need to run the business, are you thinking more of gross cash or net cash there? In other words are you comfortable carrying some debt sort of sustainably or when you really think about the excess cash in your business is that really just a net cash?
+Gregory Beecher
+We look at it both ways, Jim. We look at it because to convert matures in 2014 and last time we got a convert, the market was shot down six months before. So, we look at it both ways.
+Mike Bradley
+Thanks, Jim.
+James Covello â Goldman Sachs
+Okay. Thanks very much.
+Operator
+The next question will come from David Duly [ph] with Steel Head.
+David Duly â Steel Head
+Yes. Could you talk a little bit? I noticed you have long-term deferred revenue in customer advance line item thatâs fairly substantial now at $82 million and I also noticed that cash flow entry of $138 million. Could you just talk about what thatâs about?
+Gregory Beecher
+Okay. We have more than one customer who has some plan buying out in the future and as part of a larger contract negotiation, we received cash up front. Weâve done this in the past by the way, if you look back to our balance sheet at the beginning of the year, youâll see some large balances there, theyâre good than prior balance sheets.
+So, you know, customers are earning so little on their cash. Theyâre more willing to part with their cash earlier and obviously, it gives a little more flexibility. So, itâs all part of a multi-period strategic deal. So, this will happen now and then and this is â the cash really is one small element to a bigger deal.
+David Duly â Steel Head
+I donât recall you having a longer-term one which would imply that the customers have given you money beyond a year period of time. So â¦
+Gregory Beecher
+Itâs when does the customer expect to take shipments. So, for some of these cash payments, we havenât put all the orders in backlog because we estimate what will the take in the next see months. So, our backlog is filled with what weâll ship in six months.
+The cash can be greater than that and then if based upon their plans, we estimate what will be within a year and post year. I think weâve had long-term in the past. Iâll go back and check, but I think weâve had similar circumstance.
+David Duly â Steel Head
+I just donât recall an $80 million balance there. So, what that means is customers have you given you advance payment for equipment and theyâre going to take some of the equipment in the near-term and thatâs classified as a short term liability and the stuff thatâs beyond six months classified as a long-term liability.
+Gregory Beecher
+Yes, yes, it really secures there position in our slot plan.
+David Duly â Steel Head
+And how did you book the orders?
+Gregory Beecher
+For bookings purposes, we only put in to our backlog, orders that we expected to ship within the next six months, which is much smaller than the total amount of advance payments we received.
+David Duly â Steel Head
+Well, yes, that would â so the $81 million long-term, obviously, hasnât been book as in order to that would [inaudible] â¦
+Gregory Beecher
+Correct. You are correct.
+David Duly â Steel Head
+I wanted to understand that. And one other thing, is historically for Teradyne, isnât it pretty typical for the OSAT business to turn off pretty dramatically if theyâre facing more than one quarter of sequential decline in revenue or flat revenue?
+Mike Bradley
+Yes, they have a faster trigger finger and as a result, they move down very rapidly. So, I didnât go all the way back to â04, but youâd see that in â06 and youâd see that in â07. So, itâs typically and Iâm taking typically to mean other than end of 2008, itâs typically done in one or two quarters where that moves takes place.
+David Duly â Steel Head
+Right.
+Mike Bradley
+And the baseline number back in â06 got into the $40 million range, a little bit higher than that in â07 and this time, itâs moved down into the $40 million range. So, while the drop was bigger this time â¦
+David Duly â Steel Head
+You gave us the same.
+Mike Bradley
+Yes, nothing to hope that thatâs the floor. But having said that itâs the kind of variation you get in one quarter could be different from that, but I think thatâs a reasonable pattern.
+David Duly â Steel Head
+Okay. One final thing for me, inside your SOC business as far as the incoming order rates and the future revenue projections, were all the segments weak as the forecast projects or weâre letâs say my controller strong or itâs high performance analog. Any signs of â any sectors that did hold off in the down draft?
+Mike Bradley
+The simplest way to think of it is everything moved down a step, so that the strength that weâve had in the past in the power management, in the RF mobile application hyper controller [inaudible] ups and downs in other places, but I think the pattern of that kind of movement would be the way to think about it. Obviously, memory was counted to that as memory has moved up ever so slightly, but it did it again, you know the headwinds of SOC. So, itâs been somewhat positive, but itâs the weight class is not high enough at this point.
+David Duly â Steel Head
+Okay, thanks.
+Gregory Beecher
+Yes.
+Operator
+The next question will come from Patrick Ho with Stifel Nicolaus.
+Patrick Ho â Stifel Nicolaus & Co.
+Thanks a lot. Can you just â I lost a little bit of your commentary right there about the 3Q â10 market trends and I think from what I heard it sounded like everything moved down. Was there anything incremental, I guess of a surprise then more than any other?
+Mike Bradley
+No, it was pretty proportional. Iâm looking at it â the one that was really very, very strong in the first half of the year of those three, you know power management, wireless and microcontroller. Microcontroller, even though it wasnât the largest had the biggest step up and that what drove some of the J750 products into the market, over 500 of those over the last few quarters.
+So, it came down, probably came down a bit more than the others. But they still, those three segments lead the way. If you put those altogether each one of those segments for us is a $200 million plus piece of business. Thatâs why I was saying at the beginning that in terms of the market segment weâre writing we feel very good about the market segment movement and the growth in those segments and our relative position in them, but they all did move down.
+Patrick Ho â Stifel Nicolaus & Co.
+Okay, great. And just a little bit of color on those trends, did a lot of this downticks happened late in the quarter or was there just a steady progression as the September quarter progressed?
+Mike Bradley
+Actually, the first signs of the downtick were August based, kind of mid-August. Because as we were in this call one quarter ago, I commented that the vast majority of the customer interactions are still pulling in. And as we got in the August timeframe, where in some regions in the world do go quiet, but the other ones did start to signal this move and they did it through both starting to relax on the slot management holding what they were doing and that translated into bookings going down and to some amounts of push outs. The push outs wasnât nearly as big as the bookings decline. But it was a mid-August phenomenon.
+Patrick Ho â Stifel Nicolaus & Co.
+Okay, great. Just go to the business model, I think there is a lot of resiliency in it now. How flexible and how fast can you ramp up and down your supply chain to keep the margin profile at this kind of relative healthy levels? What are the key levers involve there?
+Gregory Beecher
+Well, you can look in the rear view mirror and you can see what weâve been able to do. Weâve been able to go from â last quarter was 502, before that â two quarters before that was 330 and the gross margins were very healthy as high as theyâve ever been. So, we feel really good about the model and our outsourcing manufacturing with our extended partners that are out there working very closely with us.
+The issue you have in all these rims, which we battle through, was material part [inaudible]. Itâs never our ability to configure the system and get it to the customer, there are parts shortages and that was in part because 2008 and â09 was such a nuclear winter. A lot of companies really shutdown their operations or moved operations and things had to be re-qualified.
+Mike Bradley
+To give you some magnitude on it, we all remember the Q1 of â09 that was double digits, 40ish kind of systems ship. But in the middle of this ramp, from Q1 to Q3, we went from over $350 system units in semiconductor test ship to over $650 ship. So, even with all these parts and supply line issues weâve had, with the foot on the gas pedal was able to really deliver quite a steep ramp. So, we think weâre capable of doing that. We welcome the opportunity to do it again obviously. But weâre able to do it pretty sharp.
+Patrick Ho â Stifel Nicolaus & Co.
+Right. Final question on my end on the HDD test, the bookings that you got this quarter, can you just give a little color if that was a single customer or multiple customers?
+Mike Bradley
+I canât do it with a breakdown. The thing I would say and I think I said this at the last call, I canât recall. As we move into â11, it will tend to be a multiple customer environment. While it is already multiple customers, itâs not â its unbalance at this point. But in 2011, it will multiple applications and multiple customers.
+Patrick Ho â Stifel Nicolaus & Co.
+Great, thanks a lot.
+Andrew Blanchard
+And Pia, we have time for just one more call, please.
+Operator
+Yes, sir. The final question will come from Atif Malik with Morgan Stanley.
+Atif Malik â Morgan Stanley
+Hi, thanks for squeezing me in as always. Question on, you know if I look at the semiconductor commentary this quarter, smartphones, tablets, really strong. Texas Instruments really [ph] talked about analog and microcontroller weakness. So, where there any hear [ph] lost issues or are your exposure to smartphones is weaker thatâs making the revenue decline or the bookings decline a lot sharper than most expected?
+Mike Bradley
+Atif, Iâll say something thatâs probably politically incorrect and that is there are always wins and losses and thatâs why we look at the net gain position. But in all the skirmishes, thereâs always some that weâre able to prevail on and thereâs always some that leak away from us.
+The monitor on this thing is the market share shift. Now, I think this year, whatâs important about this year because itâs a dramatically different share growth picture. There are two or three components, thereâs the design in net win situation. If you said we went from the low 40s to the high 40s, about a third of that is just straight net gains from that wins and loss side of it.
+The second thesis, sometimes customers buy more than other customers do, so thereâs maybe a temporary phenomenon. And then, the third one is that if youâre riding the hot segments then those segments grow more and that becomes real share gain overtime. That is why even though the number suggest weâre 50%, we take that second piece the one of asynchronous buying and put that aside and say that might not go on forever.
+But from a real socket win standpoint and from a real sub-share in the mobile communications and microcontrollers and power management, automotive, in those areas, those share ships by our customers, I think are real and weâre on the strong horses there. So, net [ph] we are gaining, we have been over the last few years. The numbers are clear on that front and we think this is a unique year because some of the phenomena in markets that weâve been riding are amplifying the socket winds that weâve had.
+Atif Malik â Morgan Stanley
+Thanks. And another one, do you see the analog and microcontroller market as $200 million plus next year? Do you think this year was a kind of a catch-up year?
+Mike Bradley
+Well, it really â this year as it comes to $2.6 to 2.7 billion, I think if the market goes back down to 2.2 or 2.4, then thereâll be an adjustment down in many segments. Our view of the long-term growth, if you thought about it in terms of how much testers, what share of testers would these market segments command, we think that the gaining segments mobile in RF, we think goes from where itâs in the âteens now, high âteens to the low twentyâs. We think microcontroller and automotive go from single high digits, maybe 9% up almost to the mid âteens, 14%.
+So, those two together, we think take about 8 points of the markets that they didnât have before. At the same time, microprocessors and graphics and chipsets, we think those because of the high digital content are more susceptible to the structural test DFT techniques and so that compression, we think that pushes that segment from whatâs already today is high âteens, 18ish% down into the low âteens.
+So, I donât know what to say exactly next year, but I think the way our strategy is lined up is to play the trends that I just described.
+Atif Malik â Morgan Stanley
+Right, thanks.
+Andrew Blanchard
+Okay, folks. Weâre out of time. Thank you so much for joining. We look forward to talking with you in the coming weeks and weâll see you next time on this call.
+Gregory Beecher
+Thank you.
+Mike Bradley
+Bye-bye.
+Operator
+Ladies and gentlemen, thank you for participating in todayâs conference call. You may now disconnect.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANYâS CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANYâS AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANYâS SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts, please contact us at: transcripts@seekingalpha.com. Thank you!

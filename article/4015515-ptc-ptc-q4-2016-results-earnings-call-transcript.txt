@@ -1,0 +1,304 @@
+PTC, Inc. (NASDAQ:PTC) Q4 2016 Earnings Call October 26, 2016 5:00 PM ET
+Executives
+Tim Fox - PTC, Inc.
+James E. Heppelmann - PTC, Inc.
+Andrew D. Miller - PTC, Inc.
+Analysts
+Steve R. Koenig - Wedbush Securities, Inc.
+Kenneth Wong - Citigroup Global Markets, Inc. (Broker)
+Sterling Auty - JPMorgan Securities LLC
+Matthew George Hedberg - RBC Capital Markets LLC
+Saket Kalia - Barclays Capital, Inc.
+Operator
+Good afternoon, ladies and gentlemen. Thank you for standing by and welcome to the PTC 2016 Fourth Quarter Conference Call. During today's presentation, all parties will be in a listen-only mode. Following the presentation, the conference will be open for question.
+I would like to turn the call over to Tim Fox, PTC's Vice President of Investor Relations. Please go ahead.
+Tim Fox - PTC, Inc.
+Thank you. Good afternoon and welcome to PTC's 2016 fourth quarter conference call. On the call today are Jim Heppelmann, Chief Executive Officer; Andrew Miller, Chief Financial Officer; and Barry Cohen, Chief Strategy Officer. Today's conference call is being broadcast live through an audio webcast and a replay of the call will be available later today on our Investor Relations website.
+During this call, PTC will make forward-looking statements including guidance as to future operating results. Because such statements deal with future events, actual results may differ materially from those projected in the forward-looking statements. Information concerning factors that could cause actual results to differ materially from those in the forward-looking statements can be found in PTC's Annual Report on Form 10-K, Form 10-Q, and other filings with the U.S. Securities and Exchange Commission, as well as in today's press release. The forward-looking statements, including guidance provided during this call, are valid only as of today's date, October 26, 2016, and PTC assumes no obligation to update these forward-looking statements.
+During the call, PTC will discuss non-GAAP financial measures. These non-GAAP measures are not prepared in accordance with generally accepted accounting principles. A reconciliation of the non-GAAP financial measures to the most directly comparable GAAP measures can be found in today's press release, made available on our Investor website.
+With that, I'd like to turn the call over to PTC's CEO, Jim Heppelmann.
+James E. Heppelmann - PTC, Inc.
+Thanks, Tim. Good afternoon, everyone, and thank you for joining us. Let me begin with a review of the fourth quarter and then provide some perspectives on the significant milestones that we achieved in fiscal 2016.
+Those investors, analysts and journalists who take the time to look beyond the headlines and understand our business model transition will see that by nearly any measure, Q4 was a very good quarter, which capped off a very strong year for PTC.
+In Q4 we continued our momentum by executing well across all of our key objectives, both strategic and operational. Bookings of $142 million were $21 million or 17% above the high end of the Q4 guidance we provided in July.
+Late in the quarter we recorded an SLM subscription booking of $20 million that was not in our guidance due to deal timing uncertainty, but please take note that even without this transaction, we still would have exceeded the high end of our bookings guidance.
+We delivered a subscription mix of 70% for the quarter, which would be 65% excluding this $20 million deal, but either way far ahead of our Q4 guidance target of 46%. We'll provide additional details on the subscription transition throughout the call, but suffice it to say our program gained further traction in Q4 and we're now more than a full year ahead of our transition plan.
+Given the substantial upside we delivered this quarter on subscription mix, naturally, our reported revenue and EPS were below our guidance range because, again, we deferred significantly more license revenue into future quarters than we had projected we would. However, the long-term value that the subscription model yields for our business and for our shareholders far outweighs the short-term upticks in our reported results. I know you all understand and appreciate that.
+To summarize our progress this past quarter and year, I will frame my discussion around the three key initiatives that we're focused on to maximize long-term shareholder value. As a quick reminder, they are: first, to increase our top-line growth; second, to continue our margin expansion; and third, to convert to a subscription business model. That has been a very good program for our shareholders and we remain fully committed to it in 2017 and going forward.
+Let me start then with growth. Remember that our goal is to get to sustainable double-digit growth by having our core business return to mid-single-digit growth consistent with the more mature CAD, PLM market while having our new technology platform business grow in the 30% to 40% range consistent with the fast-growing IoT market. The combination, of course, would create low double-digit overall growth for PTC.
+So on that note, Q4 was an outstanding bookings quarter with year-over-year total growth of 35%. Our performance certainly benefited from the $20 million mega deal booking in the quarter, but excluding this mega deal, Q4 bookings would still have grown 15% year-over-year, exceeding the high end of our original targets and reflecting strong execution across the breadth of our business.
+Our IoT business delivered solid results with Q4 bookings up 70% year-over-year, due in part to the contribution of Kepware, but also to a growing number of expansion deals with existing customers from both our direct sales channel and from our partner ecosystem. We landed 81 new ThingWorx logos in the quarter, bringing our full year total to 275.
+As we've discussed in the last few quarters, we've provided this new logo metric â over the past two years actually â as a way to help gauge market traction with new customers. While I'm pleased with our new logo success rate, our pivot towards a freemium program as a more efficient way to engage new accounts makes this new logo metric a bit less meaningful. So we'll also begin to share a few other key metrics around our freemium program moving forward.
+As important as the land part of our land and expand strategy is for our IoT business, we're also making meaningful progress on the expand part. In fact, for the full year, the number of six-figure deals for IoT grew by about 75% as compared to fiscal 2015 with customer expansions driving about half of our fiscal 2016 IoT bookings. I think that this clearly demonstrates the value customers are deriving from their IoT initiatives, even though customers are generally still in the early days of their IoT journeys.
+I'm delighted to see that our thought leadership and momentum in this exciting growth market is being recognized across the industry. PTC was recently named the IoT application enablement platform market share leader by BCC Research, who cited our 27% market share, which was double the share of the next largest provider.
+Likewise, in another industry analyst report from IoT Analytics, PTC was recognized as the market share leader in the IoT platform market, crediting our end-to-end capabilities from connectivity to application enablement, analytics, augmented reality and industrial automation, as well as the strength of our partner ecosystem.
+And PTC recently received the 2016 Compass Intelligence Award for IoT Enablement Company of the Year for the enterprise market, selected by more than 40 industry leading press, journalists, thought leaders and analysts who cover technology. This is the second year in a row that PTC was recognized by Compass for IoT leadership.
+Compass also recognized PTC as the top vendor in application development for our Vuforia Augmented Reality platform, which is the most widely used AR platform in the market. Vuforia now has over 275,000 developers and there have been 315 million installs of apps using our Vuforia technology. In fact, a third-party market study that analyzed the various augmented reality platforms underpinning applications available on the iOS and Android app stores determined that Vuforia has 81% market share today.
+Last quarter, I discussed the introduction Vuforia Studio, a great new product that combines ThingWorx, Vuforia and Creo technologies to bring AR and VR into the world of industrial IoT. Studio, which is sold as part of our ThingWorx suite, is a powerful new tool for authoring and publishing augmented reality experiences, which overlay important digital information from IoT onto the view of the physical things you're working with, information such as a dashboard of sensors and analytics data, or a 3D step-by-step operating or repair instructions.
+Studio is an amazing blend of PTC's AR, IoT and CAD visualization and illustration technologies. As part of this introduction, we launched the Studio Pilot Program. And in just the first few months of the launch, we've had over 500 industrial companies participating, which I think speaks volumes about the growing interest in AR in industrial enterprises. We're excited to have such a strong position in this exploding market.
+To sum up on IoT, we believe 2016 will prove to be a tipping point for PTC as our emergence as the clear leader in industrial IoT is being validated by our business performance, our growing market share, our expanding partner ecosystem and industry recognition of our technology leadership.
+While the growth opportunity and results in the new business are exciting, of equal importance of course, is our focus on improving execution in our traditional solutions business. Our Q4 performance capped off solid results for fiscal 2016 with bookings growth in the quarter of 30% year-over-year and high single-digit growth excluding the SLM mega deal.
+For the full year 2016, CAD and PLM bookings outpaced their respective market growth rates, and we were well ahead of our outlook at the start of the year. SLM growth far outpaced the market. The renewed focus on go-to-market activities in our core business coupled with increased rigor in sales and marketing management that were put in place during fiscal 2016 is already beginning to pay dividends.
+Performance in the year also benefited from our support conversion program, which is driving incremental customer adoption of our core solutions, from our pricing and discounting initiatives and of course, from our cloud offerings that represent an additional revenue stream accessible to us.
+Along with these important growth initiatives, we continue to see rapid market adoption of Navigate, our new ThingWorx-based PLM offering that was launched in early fiscal 2016. Navigate provides a broad range of enterprise users with expanded access to the digital design content that's traditionally been held captive within the customers' engineering departments.
+For example, in Q4 our Navigate allowed us to expand the number of roles served and therefore seats purchased at ZF, which led to a PLM mega deal that we closed early in the quarter. In just the first three quarters since launching Navigate, PTC has generated over 10 million in license bookings, making it one of our most successful new product launches in the company's history.
+Speaking of mega deals, I'd like to circle back and provide some additional color on the strategic SLM engagement that we won in Q4, which capped off a strong year for our SLM business. Following a comprehensive commercial and technical evaluation, a U.S. government customer in the aerospace and defense sector selected a PTC-based solution to help transform its legacy part forecasting system to our cloud-based Service Parts Management solution.
+This customer has one of the most complex supply chains in the world with over 5,000 large assets and support systems in 1,500 locations around the globe consuming upwards of 1 billion spare parts. This validates our solution as being the best in breed and clearly illustrates that we're able to solve large complex service logistics issues for the most demanding supply chains and reinforces PTC's leading position in the Federal Aerospace and Defense segment.
+Overall, I am very pleased with the progress that Craig Hayman and his team are making in solidifying our core solutions business, and I believe our FY 2016 results are a promising indicator that these growth initiatives are really beginning to show results.
+Let me then summarize our overall progress on the growth front. Because we have a strong technology advantage in a booming growth market, our high-growth plans are on track in our new technology platform business. And because of dramatic improvements in execution as well as leverage of new technologies, we're doing well in our core solutions business again and significantly ahead of the long-range bookings growth plan we laid out for our core business.
+Let me then turn to our second top level initiative to drive shareholder value, which is to further increase our margins. In Q4, our operating expenses were above the high end of our guidance range. This was due primarily to higher sales incentive compensation driven by continued over-performance on our key strategic objective of becoming a subscription company, as well as volume effects due to overall bookings outperformance.
+With the progress we're making on subscription, we made a deliberate decision during the year not to modify our sales commission plans, as we didn't want to risk impacting our momentum. Nobody likes it when you change the rules in the middle of the game. But as we discussed last quarter, our sales incentive compensation plans and targets are reset at the start of each fiscal year. So we've said, and you can see in our FY 2017 guidance that this OpEx variance will not be an ongoing aspect of our overall cost structure.
+In fact, we're right on plan in terms of our margin expansion program. On an apples-to-apples basis, even with the higher sales commission, if we were to simply adjust for subscription mix, our overall margin would have been approximately 27% in fiscal 2016, well on our way toward our goal of the low 30s. And as Andy will discuss in more detail later in the call, due to the acceleration of our subscription transition along with our commitment to OpEx discipline, our reported operating margins are expected to recover sooner than we had previously anticipated.
+You'll be pleased to hear that we now believe our operating margin trough from the subscription transition has already occurred in fiscal 2016 in the rearview mirror as opposed to the FY 2018 trough we had outlined at our Investor Day last year.
+In fiscal 2017, we expect that our reported operating margin will increase between 200 basis points and 300 basis points as the recovery from the trough starts. You can count on the fact that we remain committed to margin expansion and continue to see a path to non-GAAP operating margins in the low 30s once the business model fully normalizes from the transition.
+As it relates to our third key top-level initiative, which is our transition to a subscription model, the Q4 2016 mix of subscription bookings was, again, well ahead of our guidance. Looking back on the year, I have to say that our performance against our subscription transition plan was nothing short of amazing. I'll leave it to Andy to elaborate further on how our subscription program is evolving to the next level later in the call.
+To wrap it up on my part, we at PTC continue to focus on three levers that can drive significant shareholder value, top-line growth, profit expansion and the subscription transition. On the growth front, our momentum and market position in IoT highlight the tremendous opportunity in front of us, and we're encouraged by another quarter of improved execution in our core solutions business. On the margin expansion front, financial discipline remains one of our cornerstones as we drive toward non-GAAP margins in the low 30s post transition.
+And on the subscription front, fiscal 2016 was an exceptional start in our journey to transform our business model, ending far ahead of our original targets with plans to push more aggressively this coming year. While the global macroeconomic environment still remains challenging, particularly in the industrial segment, we remain focused on executing on these three levers that will drive substantial value for our shareholders.
+And with that, I'll turn the call over to Andy.
+Andrew D. Miller - PTC, Inc.
+Thanks, Jim, and good afternoon, everyone. Please note that I'll be discussing non-GAAP results unless otherwise specified. Bookings of $142 million were $21 million above the high end of guidance provided in July. On a year-over-year basis, bookings increased 34% in constant currency and 29% excluding Kepware. Excluding the SLM mega deal, which was not factored into our initial Q4 guidance, bookings still grew 15% constant currency.
+Subscription comprised 70% of total bookings versus our initial guidance of 46% and versus 20% in Q4 2015. Excluding the SLM mega deal, subscription mix of 65% was 19 percentage points above guidance. Subscription ACV in the quarter was $50 million, well ahead of our guidance of $25 million to $28 million, even after accounting for the SLM mega deal ACV of approximately $10 million.
+I would like to highlight that the strong subscription results in the quarter and for the full year contributed to a significant increase in our total deferred revenue, billed plus unbilled, which increased year-over-year by $185 million or 31% to $783 million as of the end of fiscal 2016. Subscription adoption trends were consistent with Q3, where we saw strong performance in every segment, every geography, and in both our direct and indirect channels.
+In our solutions business, SLM was 90% subscription; PLM, which in the low 70% range and CAD ticked up sequentially to the mid-50% range due to part to continued progress in our channel. In our direct business, subscription mix was 80% and excluding the SLM mega deal was 75%. And in the channel, subscription mix increased 600 basis points sequentially to 41%.
+Regionally, the Americas, Europe and Japan far outpaced the Pac Rim, where adoption trends continue to lag the other geos. Q4 subscription mix benefited from our support conversion program launched in Q1 and the incremental ACV from conversions drove a portion of our bookings over performance.
+In the fourth quarter, 33 customers, including some very large customers, converted their support contracts to subscription at an ACV uplift that averaged 42% above the prior annual support amount. As expected, the volume of conversions increased from Q3, driven by the timing of large customer support renewals and customer budget cycles. And you should expect quarterly variability as this program continues to ramp and mature.
+I'll remind you that we only include the incremental ACV in our bookings results, not the full contract value of the new subscription contract. Also, recall that our current long-term business model does not include any assumption that our large support revenue base transitions to subscription. So this represents upside to that model.
+Turning to the income statements, total fourth quarter revenue of $289 million was down $24 million year-over-year as reported. We estimate that the subscription mix negatively impacted total revenue by about $63 million compared to last year, and currency was a $2 million benefit.
+Adjusting for these two items, revenue would have grown by about $37 million or 5%. Compared to our guidance, we estimate that adjusting for the higher mix of subscription, our total revenue would have been approximately $324 million, which would have been well above the high end of our guidance of $310 million.
+On a reported basis, software revenue was down 10% year-over-year at constant currency, due to the higher mix of subscriptions. Excluding mix, software revenue would have increased 10% constant currency. Approximately 83% of Q4's software revenue was recurring, up from 69% a year ago. Operating expense in the third quarter of $183 million was above the high end of our guidance range due to higher sales commissions driven by over-performance on subscription and bookings.
+Q4 operating margin of 11% was below our guidance range of 19% to 20% and down from 28% last year due to the higher subscription mix. We estimate that adjusting for the higher mix compared to our guidance, operating margin would have been 20% at the high end of our range. And adjusting for year-over-year change in mix, operating margin would have been about 28% flat with last year despite the higher sales compensation expense.
+EPS of $0.20 was below guidance also due primarily to a higher subscription mix, which we estimate negatively impacted EPS by about $0.29, but also due to higher sales compensation expense. We would have beaten our high-end guidance by $0.08 at our guidance mix, with lower income taxes contributing $0.02, partially offsetting the higher sales commission expense.
+Moving to the balance sheet, cash and investments were down $12 million from Q3 2016 as we repaid $20 million of debt. We had operating cash flow in the quarter of $14 million and adjusted free cash flow of $9 million. FY 2016 adjusted free cash flow was $240 million above the high end of our full-year guidance.
+Now turning to guidance for fiscal 2017. Let me remind you of some of the general considerations that we've factored in. First, while we are pleased with our bookings performance this year, we attribute our performance to improved execution, our growth initiatives and our support conversion program, and remain cautious of the global macroeconomic environment.
+Second, while subscription results were very strong in 2016, it remains challenging to forecast the pace of our transition and the resulting impact to near-term reported financial results, especially in areas of our business where subscription adoption lagged in fiscal 2016, such as the channel and the Pac Rim.
+Third, our FX assumptions in our guidance assumed dollar to euro at $1.10, and yen to dollar at Â¥104. With this in mind, for the full-year fiscal 2017, we expect bookings in the range of $400 million to $420 million, which represents 5% to 10% growth, excluding the SLM mega deal from 2016 results. It's important to note that while this $20 million SLM booking creates a tough comparison in FY 2017, unlike in a perpetual model, since this is a cloud subscription deal, it is a gift that should keep on giving and it does not create a tough revenue comparison. With an ACV of about $10 million, we expect this booking to produce $10 million of revenue annually for many years to come.
+Let me put FY 2017 bookings guidance in perspective. When compared to the long-term financial targets we laid out at last November's Investor Day, fiscal 2016 bookings were $66 million above the guidance in that model. And even excluding both Kepware and the SLM mega deal, 2016 bookings were more than $30 million or 9% ahead of that model. The bookings growth rate of 5% to 10% in our new 2017 guidance, excluding the SLM mega deal from 2016, is consistent with the growth rate we outlined last November for fiscal 2017. As a result, our new 2017 bookings guidance approximates the 2018 target in the long-term business model from last November. So not only are we more than a year ahead of our subscription target, we are also about a year ahead of our bookings target as well.
+From a subscription mix perspective, we are expecting fiscal 2017 mix to be approximately 65% for the full year, approaching the 70% mix we originally targeted to achieve in 2018. Note that this 65% mix assumption for 2017 compares to a full year mix of 54% in 2016, excluding the SLM mega deal.
+We continue to assess our subscription program and are now analyzing and exploring the phasing out of perpetual licenses within certain geographies and product segments where penetration is running in the 80% to 90% plus range, which we believe would drive the overall long-term subscription mix above our original steady state target of 70%. We will be sharing more details on our long-term target model in early November. But in the meantime for modeling purposes, we recommend using 85% for the average FY 2018 subscription mix, which is our new steady state target at this time.
+For fiscal 2017, we expect total revenue in the range of $1.19 billion to $1.21 billion, which represents 5% reported growth year-over-year at the midpoint. This includes subscription revenue growth of greater than 110% and recurring total software revenue growth of 12% year-over-year at the midpoint. We expect to increase our services margin by about 100 basis points and remain committed to a 20% services margin by fiscal 2018.
+Fiscal 2017 operating expenses are expected to be $680 million to $690 million, an increase of just 1% at the midpoint, reflecting our commitment to expense discipline and long-term margin expansion. Fiscal 2017 operating margin is expected to be between 17% and 18%, representing a 200 to 300 basis point improvement over fiscal 2016, and a reflection that the margin trough originally expected in fiscal 2018 has effectively been pulled forward by two years into 2016. On a mix-adjusted basis, we are targeting an operating margin improvement of about 100 basis points to about 28%.
+We are assuming a tax rate of 10% to 12% for the full year, resulting in non-GAAP EPS of $1.20 to $1.35 per share, based upon about 116 million shares outstanding. We expect adjusted free cash flow between $170 million and $180 million, which includes: one, higher bonus payments in the first quarter of 2017 as compared to Q1 2016 when our FY 2015 bonus was not fully earned; two, increased debt interest payments of about $20 million; and three, a lower benefit from the collection of extended payment terms as the company eliminated extended payment terms at the start of last year with the introduction of subscription.
+In total, as compared to fiscal 2016, these items negatively impact 2017 free cash flow by about $70 million. Adjusted free cash flow excludes about $36 million of fiscal 2016 restructuring, expected to be paid out in early fiscal 2017, and about $3 million of litigation payments accrued in fiscal 2016. For the first quarter, we expect bookings in the range of $70 million to $80 million, which at the midpoint of guidance is 9% growth year-over-year. On the subscription front, we expect 55% of bookings will be subscription, with subscription ACV of $19 million to $22 million, an increase of 90% year-over-year at the midpoint of guidance.
+We expect total revenue in the range of $285 million to $290 million for Q1, including $54 million of subscription revenue, an increase of 143% year-over-year. We expect OpEx in the range of $169 million to $171 million and an operating margin of approximately 15% to 16%. We are assuming a tax rate of 10% to 12%, resulting in non-GAAP EPS of $0.23 to $0.28 per share based upon approximately 117 million shares outstanding.
+One final note on our guidance, as you model bookings across fiscal 2017, you should expect growth in Q1 through Q3, but Q4 is likely to have lower bookings than Q4 2016 given the tough compare due to the SLM mega deal.
+Before we move to Q&A, I want to update you on our stock repurchase plans. Given the significant over-performance of our subscription transition in fiscal 2016, our operating profit and EBITDA were lower than in the past and lower than we had planned as we started the year. This resulted in a deferral of stock repurchases in fiscal 2016. Returning capital shareholders is a fundamental element of our capital strategy. And based on our current forecast, we intend to resume repurchases in the second half of fiscal 2017 when cash and our borrowing capacity return to more normal levels after exiting the subscription trough.
+With that, I'll turn the call over to the operator to begin the Q&A.
+Question-and-Answer Session
+Operator
+Thank you. We will now open up the question-and-answer session. And our first question is from the line of Steve Koenig of Wedbush. Your line is open now.
+James E. Heppelmann - PTC, Inc.
+Hi, Steve.
+Steve R. Koenig - Wedbush Securities, Inc.
+Hi. Hi, everyone. Thanks for taking my question and congratulations on the quarter.
+James E. Heppelmann - PTC, Inc.
+Thank you.
+Steve R. Koenig - Wedbush Securities, Inc.
+Great. Maybe one question and one follow-up, if that's okay. Last time when I asked it, I think you all â it sounds like you'll have more detail on the long-term for us at your Analyst Day. Maybe the one thing I might ask you right now is can you give us any color on the contribution from maintenance conversions, either in the quarter or how to think about that on a full-year or long-term basis? What's a good way to think about that?
+Andrew D. Miller - PTC, Inc.
+So at this point, we've done 89 conversions this year, 33 in the fourth quarter. And we think that the first phase of this will play out over multiple years, and it's probably amongst the top 400 to 500 customers where we expect to continue to be able to get from 25% to more than 50% as we convert them from maintenance to subscription off of, frankly, a lower than market maintenance rate today.
+We're also analyzing the kind of the next group of customers that we could have an attractive subscription offer for so we can continue to run this play for many years to come. One thing that's interesting is more than 25% of the conversions are customers that frankly you wouldn't expect would have converted. They converted simply for the flexibility that they got by moving to subscription. They didn't have a huge â we didn't have a huge stick, for example, to help incent them to go ahead and convert. So that's interesting.
+But we're currently doing the analysis to look at â obviously, we have many years left to go to run the 400 to 500 customers, and we think there's an opportunity, frankly, at different levels of incremental ACV for much of our current 27,000 customers. And we're doing the work to analyze what that opportunity might be and what the offer might be that we could make even small customers potentially buying through the channel. So we're doing a lot of work on that.
+We clearly know how much we've booked from a subscription program. It's hard to say how much was incremental because if the reps weren't selling conversions, they hopefully would be selling something else. But it is a great incremental value. It is a great long-term model for the company, and it certainly is something that is starting to get traction primarily at this point in the Americas and Europe. We still have the rest of the world that a sales enablement enablement perspective.
+James E. Heppelmann - PTC, Inc.
+Steve, if I could, just to give a completely different perspective on it, because I ask the same questions. I think our bookings growth was strong and we say, well, what are the primary factors and what are the secondary factors? I think the primary factor, of course, is what's going on in the macroeconomic world. And then secondarily, our own execution against that opportunity. So if you want to say what's the number one thing PTC did to drive pretty good year of bookings growth, we executed better.
+Now you drop down to the secondary factors and that's where you get pricing and discounting. We discounted less across the board on average. We did have this conversion factor, and we have this new cloud factor, which is a stream of bookings and revenue we used to not get when we were just selling perpetual on-premise licenses.
+So, again, I think the primary factors are what's the macroeconomic and our execution against it. And these secondary factors, there's a collection of them, one of which is the fact you're asking. But as Andy said, it's very hard to assign a quantitative number to that one factor, but it's definitely a tailwind that's good to have. And we'll be here for a while, by the way.
+Steve R. Koenig - Wedbush Securities, Inc.
+Got it. Okay, great. That's helpful. Maybe the one follow-up on that is any sense of the size of the maintenance, the average maintenance contract for those top 400 to 500 customers?
+And then, if I may, the follow-up I did want to ask as well was the guide for fiscal 2017, we had expected that because of the heavy commissions for subscriptions this year, there might be some pull-forward into Q4, say, from a Q1. And also any potential sales reorg in Q1 could be impactful. But your Q1 guide looks pretty good. How did you think about that when modeling it?
+Andrew D. Miller - PTC, Inc.
+So, two things. First off, we've said in the past that we think these largest customers probably represent about 40% of our maintenance base, but as I mentioned, we see opportunities much more broadly in our maintenance base.
+And on the second question, when we do our guidance, we do quite a bit of analytical work around historical close rates. Every way you cut it, the maturity of the deals in the pipeline, all that stuff, and we use that to come up with what our internal forecast is, which is our basis for the guidance. So, our guidance to you on bookings is always very quantitatively based looking at our sales funnel, frankly.
+James E. Heppelmann - PTC, Inc.
+Right. We take the forecast. We do a lot of analytics against the pipeline to make sure that forecast is supported by the pipeline. We compare it to last year to a typical Q1 to â we triangulate â I'm not sure triangulate is the right word because there's more than three different angles on it, but we try to make sure it's a reasonable, safe number to put out there and the fact that it looks good, that's your determination. I think it's simply because that's what the data shows us.
+Steve R. Koenig - Wedbush Securities, Inc.
+Very good. Well, I appreciate the answers and congratulations again.
+James E. Heppelmann - PTC, Inc.
+Yeah. Thank you, Steve.
+Operator
+Thank you. And our next question is from the line of Ken Wong of Citi. Your line is open.
+James E. Heppelmann - PTC, Inc.
+Hi, Ken.
+Kenneth Wong - Citigroup Global Markets, Inc. (Broker)
+Hi. Hey, how's it going, guys?
+James E. Heppelmann - PTC, Inc.
+Good.
+Kenneth Wong - Citigroup Global Markets, Inc. (Broker)
+So, first question, maybe as we think about the fiscal 2017 subscription mix of 65%, I mean, clearly last year you guys outperformed your initial target by 30 points there. How should we think about the level of conservatism you guys might have baked into that number? And I'm sure the range isn't going to be that wide, but what was the thinking here?
+Andrew D. Miller - PTC, Inc.
+So as always, we base our subscription mix assumption on what we see in the pipeline. We don't think there's â yeah, it's prudent to get out over the front of our skis. So we base it on what we see in our pipeline. Our comp plans are right now being â at this point being given to all of the sales reps. We continue to have differential compensation for subscription versus perpetual. In fact, frankly, the difference is a little bit bigger in FY 2017 than it was in FY 2016, so it favors subscription a bit more. In addition, the channel incentives favor subscription more than they did last year, so we're focused on both of those, and that we're basically going to give guidance based upon the data that we have.
+James E. Heppelmann - PTC, Inc.
+Yeah. Again, to give you a slightly different perspective on that. We can't likely outperform by 30%, again because that would mean we get all the way to 95%, which is virtually impossible. So we don't have as much runway to outperform as we did the past year. And then the other thing is, if you go back to the beginning of fiscal 2016, almost 100% of the pipe was perpetual. So there was a big skew to over-perform as these deals flipped to subscription; but if you look at the pipeline right now, there's a fair amount of subscription in it.
+So there's a factor here that we're starting from a baseline that's probably more accurate than we were working with last year, and with every passing quarter that should be increasingly true to the point where at some point, it'd be very difficult to outperform at all because we would be very far down the runway. But to Andy's point, we're using the same formula we used last year. That formula served us well. It is a conservative approach, but it worked well last year so we're sticking with it.
+Kenneth Wong - Citigroup Global Markets, Inc. (Broker)
+Got it. That's perfectly fair. And then on OpEx, you guys are growing, I think you said, 1%. How should we think about the appropriate spend CAGR going forward? And did you get some benefit from the restructuring in 2017 and this ticks up higher in 2018? Or is 1% about the right run rate?
+Andrew D. Miller - PTC, Inc.
+Well, what we're focused on is continually increasing that operating margin when you look at a mix adjusted operating margin by 100 basis points to 150 basis points on the way to a low-30s operating margin as we exit the transition. We definitely plan to go into this in more detail on November 8, where we'll kind of lay it out for you, how the subscription transition impacts this and what you can expect from both a reported and kind of a mix adjusted basis.
+In general what we said is that in the core business, last November we said the core business OpEx should grow in the low-single-digits and in the high growth technology platform group, our IoT business, it should grow at about half the rate of the bookings growth. And that will give us a very strong operating margin, double-digit revenue growth, and operating margins in the low-30s as we exit the subscription transition. Okay? So stay tuned for November 8, and we'll give you more specific guidance around that.
+James E. Heppelmann - PTC, Inc.
+And just to be clear, the 1% was in part because we're backing out this commission overspend, and we won't have that luxury every year. So, Andy's suggestion could be higher.
+Andrew D. Miller - PTC, Inc.
+So if we back out of last year's the commission overspend, then our growth rate would be around 3% in OpEx, which on a midpoint of our software revenue growth of 7%, mix adjusted. Our whole thing is that OpEx should grow much slower than the top line.
+Kenneth Wong - Citigroup Global Markets, Inc. (Broker)
+That's always a good thing, and I'll let you guys save your thunder for November 8.
+James E. Heppelmann - PTC, Inc.
+Okay. Thank you.
+Kenneth Wong - Citigroup Global Markets, Inc. (Broker)
+Thanks a lot, guys.
+Operator
+Thank you. And our next question is from the line of Sterling Auty of JPMorgan. Your line is open.
+Andrew D. Miller - PTC, Inc.
+Hi. Hi, Sterling.
+Sterling Auty - JPMorgan Securities LLC
+Hey, you guys. So it seems like the stock saw some undue pressure due to the article that was in the Wall Street Journal. My takeaway from reading it was an implication that just the subscription transition is just a way of hiding a bad business or a business that's getting worse, anything that you can specifically point out relative to how the article was written versus the reality of what you're seeing in the metrics?
+James E. Heppelmann - PTC, Inc.
+Yeah. I thought somebody might ask about that article, so I have a copy of it sitting in front of me here. You know the premise of the article is that we are obscuring weakness. In fact, the first sentence of the second paragraph says we're putting a shine on a gloomy situation. And I just told you guys we had a fantastic quarter to wrap up a fantastic year. And between Andy and I, we told you we're ahead of our long-term plan on growth. We're right on plan, maybe even ahead on operating margin because we're going to fix this commission program that cost us a couple points last year. And we're well ahead on our subscription conversions.
+So if you believe that this business model creates long-term value for shareholders, and I think you do, then there's nothing gloomy about it. So I think it's just a case where, unfortunately, the reporter probably doesn't accurately understand what's going on here. She did not talk to us. I think she talked to a few of you, but maybe didn't agree with what you told her, I don't know. But she took a position that because revenue and therefore earnings are going down and EPS is going down, it's a bad situation. I think on the other hand we were clear from day one that that would happen.
+She says it's hard to compare the new model to the old model, and I think that many of you have told me how much you appreciate all the transparency, the bridges we give you, the fact that we report it out in our â in great detail in our prepared remarks, take you across the bridge. What if the mix was as guided? What if the mix was like last year? Of course, we do that with currency as well. So I don't know, I think it's an unfortunate article written by somebody who didn't spend enough time really understanding the fundamentals of what we're all talking about here. And I know, Andy, you've got sort of a long list. Hopefully, you can just give a few highlights.
+Andrew D. Miller - PTC, Inc.
+Yeah.
+James E. Heppelmann - PTC, Inc.
+And some of the points.
+Andrew D. Miller - PTC, Inc.
+Yeah. So you just heard us talk about our bookings performance, full year bookings grew 18% in constant currency, 14% organically. Clearly, in a software business your license bookings growth is the most important driver there. While reported revenue is down, our mix-adjusted software revenue for the year grew 13%, so it's double-digit constant currency.
+The operating margins and EPS reported were down, but mix adjusted we're at a 27% operating margin for the year, well on our way to the low-30s. Our OpEx is tightly controlled. You can tell that by looking at the guidance for next year, 1% growth at the midpoint. 1% growth at the high end of our OpEx guidance actually, still only 1% growth.
+And a couple other things that you guys know that one of the hypotheses in the article was frankly that a subscription model is riskier because we're selling one to three-year terms and breakeven with the perpetual is at four years, completely ignoring our 30-year history with customers of sticky software, our very high maintenance renewal rate, and frankly ignoring just the standard subscription license renewal rate in the industry that's higher than maintenance renewal rates even.
+And I think probably the only other thing is the author did have a question on, are we really creating value because our deferred revenue on the balance sheet wasn't increasing the way she had expected, ignoring the fact that there's something called unbilled deferred revenue, which we shared with you today and that has grown 31%, $185 million from last year to almost $800 million, $783 million of total deferred revenue, up from under $600 million. So she didn't know that fact but if she'd waited until we reported it, she would have found that out.
+And the other thing is I want to make sure you guys are clear, that high deferred revenue balance, billed and unbilled, is not due to duration of contracts. It's not like we're selling five-year contracts and putting five years into the unbilled deferred revenue. RPB, which we outlined this on our prepared remarks today, RPB of two actually is equivalent to our weighted average contract length for subscription contracts during fiscal 2016. It ended up being two years on average. So you only have basically one year of subscription in the unbilled deferred.
+So anyway, none of the facts necessarily support her hypothesis, and I think it's hard to understand a subscription transition. All of you put a lot of time into it and you can't really get there unless you do put the time into it.
+Sterling Auty - JPMorgan Securities LLC
+Great. No, I really appreciate that. And then just last follow-up question, I didn't quite catch if you said, looking at the Pac Rim, how much of what you're seeing in Pac Rim is just a multiplied perpetual versus what's happening on the macro side?
+Andrew D. Miller - PTC, Inc.
+You mean?
+James E. Heppelmann - PTC, Inc.
+Mix.
+Andrew D. Miller - PTC, Inc.
+The mix? I think it's sales enablement. I think that's the primary thing, so the Pac Rim did improve. It still lags significantly.
+James E. Heppelmann - PTC, Inc.
+Yeah, the bookings number in the Pac Rim was not...
+Andrew D. Miller - PTC, Inc.
+Was fine.
+James E. Heppelmann - PTC, Inc.
+Was a fine number.
+Andrew D. Miller - PTC, Inc.
+Yeah. We had fine bookings. I'm talking the subscription mix.
+James E. Heppelmann - PTC, Inc.
+Yeah.
+Andrew D. Miller - PTC, Inc.
+The subscription mix is at about 30% right now in the Pac Rim. So it did improve by about 600 basis points, but it's moving slowly there and I think it's fundamentally a sales enablement.
+James E. Heppelmann - PTC, Inc.
+Yeah. Let's not call it a problem though because we're actually ahead of plan.
+Andrew D. Miller - PTC, Inc.
+Absolutely.
+James E. Heppelmann - PTC, Inc.
+So the Pac Rim is behind other regions but completed the year ahead of plan, so that's just not a problem. It's just we didn't get as dramatic of over-performance there as we did elsewhere, but that's okay. We didn't expect we would.
+Andrew D. Miller - PTC, Inc.
+Yeah. And by the way, there are a couple of things. I'll give you a couple of other subscription metrics that are interesting. Our large deals in the fourth quarter, so the deals that are over $1 million, over 90% subscription mix in the large deals. While the total channel's at 41%, in the Americas they're at 59% in the channel in the fourth quarter. So the channel's definitely making progress, especially in the Americas.
+James E. Heppelmann - PTC, Inc.
+Yeah, actually, if I could add a little bit of color on that, a couple weeks ago we had our sales kickoff as we frequently do in the first month of the new fiscal year. And this time we invited quite a number of channel partners, so just doing social times and whatnot and I had a chance to talk to many of them one on one. And I always asked them, what do you think about this subscription model. And everyone I talked to said, at the beginning of the year we were pretty skeptical, but wrapping up the year, we love it, because it's allowed us to go after transactions that were just undoable in the perpetual model.
+A customer has a project; the project is going to run for a year and a half, but they know that they got to use the software for four years to justify a perpetual purchase. But in the subscription, I could subscribe to it for a while and if I don't need it anymore, I'll just terminate the subscription. So that's an example of a transaction we simply would not have gotten. Another example was a small company might have tried to use fewer seats in multiple shifts during a high peak workload. And now they say, no, no, no, let's just subscribe to a few more, and we'll get the project done during the day, which you all prefer as employees and everybody would be happy.
+So I was actually very surprised, and these were global channel partners, but I was very surprised with the bullishness. They were surprised, actually, by how well this worked for them. So I certainly feel pretty good right now about our ability to drive the channel to high levels of subscription. It's just we didn't focus first on them, we focused first on the direct guys that we have more direct control over.
+Sterling Auty - JPMorgan Securities LLC
+Thanks, guys.
+James E. Heppelmann - PTC, Inc.
+Yeah. Thank you, Sterling.
+Operator
+Okay, thank you. And our next question is from the line of Matt Hedberg of RBC Capital Markets. Your line is open.
+James E. Heppelmann - PTC, Inc.
+Hi, Matt.
+Matthew George Hedberg - RBC Capital Markets LLC
+Hey, guys. How are you?
+Andrew D. Miller - PTC, Inc.
+Great. Good.
+James E. Heppelmann - PTC, Inc.
+Good.
+Matthew George Hedberg - RBC Capital Markets LLC
+So follow up to an earlier question as it pertains to maintenance or legacy license and maintenance contracts switching over to subscription. When you look at fiscal 2017, is there a way to think of the relative size of some of these VPAs or larger deals up for renewal in 2017 versus 2016? I mean, maybe even just generically, are there more, is it less, the same?
+Andrew D. Miller - PTC, Inc.
+Well, we have roughly the same amount of VPAs. It's actually just a little bit more in 2017 than we did in 2016 that are up for it. We did see though, in this year, that some of our customers couldn't make the decision to convert fast enough, so they took a year at a much higher maintenance rate. And so we will go back to them again next year. So we actually have a number of customers from this year that we can go back to and try to convert them again next year. So if you look at that, there was probably a larger pool.
+Matthew George Hedberg - RBC Capital Markets LLC
+That's great. That's helpful.
+Andrew D. Miller - PTC, Inc.
+By the way, I want to remind you that in our long-term business model, these conversions are not in there.
+Matthew George Hedberg - RBC Capital Markets LLC
+Correct. No, yeah, no, that's helpful, too. And then in your prepared remarks, you talked about potentially phasing out some license options for, I think, you said, particular products in geos. I'm wondering if you could: A, give us a little bit more color or your thoughts around that. And have you seen enough? Are we closer to a reality where a license option could be eliminated for all products and all geos at some point in the future?
+Andrew D. Miller - PTC, Inc.
+So we're in the midst of the analysis. I think we'll probably internally have a review and a recommendation to look out within the next four to six weeks. We're doing a lot of work on this. It's not a trivial decision. So I think within the next four to six weeks internally, we'll be able to make a decision around it. And frankly, then of course, you have to give appropriate customer notification, which is a lengthy period of time.
+So I say the underlying premise that we have is that there's an 80/20 rule for everything. And so, that last 20%, if it's a lot of transactions, it's probably costing you a lot to have it. So it makes sense to kind of get over the hump with that. Of course, we'll have to look at all of our products in all of our markets and do something that is proven it makes sense, but we are seeing that it's getting to the point where we'll be making a decision sometime in the coming months, and then we'll let you know about it.
+James E. Heppelmann - PTC, Inc.
+Yeah. And in the meantime, we've been experimenting with a couple of ideas. For example, this Navigate product is only sold on subscription. There's no price book to buy at perpetual and it's selling like hot cakes. So that gets every customers' interest in that product into a frame of mind that, okay, now I'm buying subscription, why not just switch? So, there's some experimentation happening that we're pleased with.
+Matthew George Hedberg - RBC Capital Markets LLC
+Great. Congrats on the quarter again, guys. Thanks.
+James E. Heppelmann - PTC, Inc.
+Thanks, Matt.
+Tim Fox - PTC, Inc.
+Thanks, Matt.
+Operator
+Thank you. And our next question is from the line of Saket Kalia of Barclays. Your line is open.
+James E. Heppelmann - PTC, Inc.
+Hi, Saket.
+Saket Kalia - Barclays Capital, Inc.
+Hey, guys. Thanks for taking my questions here. How are you?
+James E. Heppelmann - PTC, Inc.
+Good.
+Andrew D. Miller - PTC, Inc.
+Good.
+Saket Kalia - Barclays Capital, Inc.
+Hey. So, one question and one follow-up, just maybe first for Andy. So first off, thanks for that normalized kind of 2017 bookings guide. Can you just talk about whether the tech platform business, so IoT, can reaccelerate once we lap some of those tough perpetual comps? And then if we think about sort of the longer-term model, if that business can drive acceleration in total bookings in 2018, which is I think what your original model anticipated.
+Andrew D. Miller - PTC, Inc.
+So we did see a reacceleration in the fourth quarter where there was only one large deal, which actually was the ColdLight deal to one of their customers in a market that we don't play in from pre-acquisition that we closed. But even without that we had high-20s bookings growth in TPG and that was against a deal, that deal was almost $3 million, so just reaccelerations.
+James E. Heppelmann - PTC, Inc.
+And just if I could add, that's now, we're largely round tripped on that because we really did not sell ThingWorx in a perpetual mode. Maybe a few small exceptions in 2017. So you won't find big perpetual deals to comp against when you're looking at â I'm sorry, 2017 versus 2016 because we did not do them in 2016, whereas we did do them in 2015.
+Andrew D. Miller - PTC, Inc.
+Yeah.
+James E. Heppelmann - PTC, Inc.
+And then the second part?
+Saket Kalia - Barclays Capital, Inc.
+And the second part is the premise I think back in November of last year was that that tech platform business, because it's growing so much faster, can drive an acceleration in total bookings in 2018. So, of course, things have changed around a little bit, but is that sort of how you're still thinking conceptually?
+Andrew D. Miller - PTC, Inc.
+Yeah. So the 2018 model that we laid out for you had the solutions business growing at market rates, 6% basically. And the TPG growing in the 30s. So I think it had 34% CAGR from 2015 through 2021, with it coming down a little bit each year. So we'll update that in November 8, but yeah, we definitely see the high growth as it scales at high growth rates along with the solutions business growing at the market rate, which it grew faster than the market rate in FY 2016. We see that together definitely driving double-digit revenue growth as we exit the subscription transition. So there's no change there. We tried to put through a plan that was pretty balanced, and didn't take us to having to jump over a 20-foot wall to get to it. And...
+James E. Heppelmann - PTC, Inc.
+Well, I mean, in fact...
+Andrew D. Miller - PTC, Inc.
+But we did.
+James E. Heppelmann - PTC, Inc.
+We did that this year.
+Andrew D. Miller - PTC, Inc.
+Yeah.
+James E. Heppelmann - PTC, Inc.
+We actually did that this year.
+Andrew D. Miller - PTC, Inc.
+Yeah.
+James E. Heppelmann - PTC, Inc.
+So you know, we're feeling pretty good about the fact that we should be able to do it a couple years from now because we actually did it this year well ahead of schedule, more or less on that recipe.
+Andrew D. Miller - PTC, Inc.
+Yeah.
+Saket Kalia - Barclays Capital, Inc.
+Yeah.
+Andrew D. Miller - PTC, Inc.
+And you could look at our bookings guidance for next year. At the high end, it's a 10% bookings guidance growth rate. And we're still being cautious around the solutions business while all the improved execution that we've seen, we believe that flywheel is starting to turn and we're starting to see the outcomes, but we aren't declaring victory yet.
+James E. Heppelmann - PTC, Inc.
+Yeah. Hey, Andy, if I could just elaborate a little bit on that $20 million booking that we had in Q4, that's a deal we had worked on for some time and just didn't know exactly when it was going to close. I actually wished it would have closed in October because if you think about it that one deal represented 5% annualized bookings growth in one deal. And had the deal not happened, we would still have a good Q4. We would still have a pretty good FY 2016, and we'd be looking at 5% to 10% bookings.
+As it was, it happened in Q4, which takes us down from 5% to 10% down to 0% to 5%. Had it rolled forward three business days, we'd be talking about 10% to 15% bookings. So I mean, we're really â we're in a good place and let's not let one big deal kind of â depending upon where it lands, then sour our perspective of something going forward because we gave you it many times in our discussion. You back that deal out and everything still looks pretty darn good. So that's the perspective we've taken.
+Saket Kalia - Barclays Capital, Inc.
+Yeah, absolutely. No, totally agreed and I think that's the right way to look at it.
+Maybe for just a quick follow-up just kind off of Matt's question earlier, so we talked about the possibility of phasing out perpetual, of course, probably with a long tail. But, Jim, the question for you is, can you just talk about how that potential change would affect you competitively with the Dassaults and the Siemens out there still selling perpetual. How do you think going to a subscription only or some form of subscription only in some markets would affect you competitively? Thanks.
+James E. Heppelmann - PTC, Inc.
+Yeah. Thanks, Saket. I mean, I really don't think it would affect us because on one hand our customers in our upfront analysis, majority of them told us they'd rather buy that way. We then have really positive reinforcement because they are buying that way. We have Autodesk out there a couple steps ahead of us already eliminating perpetual. So I think that this is a model where our customers no matter where they turn in terms of their software providers, everybody wants to talk subscription. And I think there's â they can't actually hold out in the area of CAD and PLM because they're knuckling under as it relates to ERP and CRM and marketing automation and this, that and the other thing.
+So I think they're just sort of agreeing we'll go that way. And I think that's one of the factors we may be underestimated when we thought about what would happen last year. I think we were surprised a little bit by how easy it was to sell subscription because we actually expected more resistance than we ran into. So I don't really think it's going to be a factor and SolidWorks announced they're doing the same thing and so forth. So it's just the way the industry is going now.
+Andrew D. Miller - PTC, Inc.
+And I think at this point we have a lot of data points to show that we're winning with our subscription offer. I mean, we're competing competitively â we're competitive in many of the deals, especially the large deals, and 90% of them were subscription.
+Saket Kalia - Barclays Capital, Inc.
+Thanks guys.
+James E. Heppelmann - PTC, Inc.
+Okay, great. Thanks, Saket.
+Operator
+Thank you. At this point we're wrapping up the question-and-answer session. I'll be turning the call over back to Tim Fox. Please go ahead. Thank you.
+Tim Fox - PTC, Inc.
+Great. Thanks, Kate, and I'd like to thank everybody for joining us on the call. As Andy stole my thunder a little bit earlier, the one programming note is that we're going to be hosting that webcast on November 11. It will be at 11:00 Eastern Time. November 8, sorry, at 11:00. And look for details over the coming days on the details. We look forward to join us on that call. If not, we'll update you on our Q1 call in January. And with that, I'd like to toss it back to Jim.
+James E. Heppelmann - PTC, Inc.
+Yeah. I just wanted to say thank you to all of you for your support. I mean, we really feel good about the business. I'm looking at Barry here and the way we've changed the strategy and the strategic positioning of the company and the way we've pivoted into IoT and analytics in a way that's very supportive of the core business, it's really just phenomenal. I think about how we're changing the business model and I'm looking at Andy here and the progress we're making on discounting and business model and cost containment, margin expansion, it's really phenomenal.
+The one problem I had a year ago was execution in the core business and Craig isn't in the room with us here, but, my God, that man has made such a difference in terms of improving our execution. He's like General Patton walking all us here and things get done and they get done well and we've seen the results.
+So, I'm very pleased with the progress the company's made in the last year. It's really been a phenomenal year. I'm sorry the Wall Street Journal didn't see it that way, but I'm pretty confident that all of you here in the call do, and I certainly appreciate your support. Thank you and have a good evening. Bye-bye.
+Operator
+This does conclude today's conference. Thank you all for participating. You may all disconnect.

@@ -1,0 +1,251 @@
+Cadence Design Systems (NASDAQ:CDNS) Q2 2014 Results Earnings Conference Call July 21, 2014 5:00 PM ET
+Executives
+Alan Lindstrom - Investor Relations
+Lip-Bu Tan - President and CEO
+Geoff Ribar - SVP and CFO
+
+Analysts
+Jay Vleeschhouwer - Griffin Securities
+Tom Diffely - D.A. Davidson
+Sterling Auty - JPMorgan Chase
+Monica Garg - Pacific Crest Securities 
+Mahesh Sanganeria - RBC Capital Markets
+Krish Sankar - Bank of America Merrill Lynch
+Rich Valera - Needham & Company
+Ruben Roy - Piper Jaffray
+Operator
+At this time, I would like to welcome everyone to the Cadence Design Systems' second quarter 2014 earnings conference call. I will now hand the call over to Alan Lindstrom, Group Director of Investor Relations for Cadence Design Systems. Please go ahead.
+Alan Lindstrom
+Thank you, operator, and welcome to our earnings conference call for the second quarter of fiscal 2014. The webcast of this call can be accessed through our website, cadence.com, and will be archived through September 12, 2014. A copy of today's prepared remarks will also be available on our website at the conclusion of today's call. With us today are Lip-Bu Tan, President and CEO; and Geoff Ribar, Senior Vice President and CFO.
+Please note that today's discussion will contain forward-looking statements and that our actual results may differ materially from those expectations. For information on the factors that could cause a difference in our results, please refer to our filings with the Securities and Exchange Commission. 
+These include Cadence's most recent reports on Form 10-K and Form 10-Q, including the company's future filings and the cautionary statements regarding forward-looking statements in the earnings release issued today. Note that we also filed a second quarter 10-Q this afternoon. 
+In addition to the financial results prepared in accordance with Generally Accepted Accounting Principles or GAAP, we will also present certain non-GAAP financial measures today. Cadence management believes that in addition to using GAAP results in evaluating our business, it can also be useful to measure results using certain non-GAAP financial measures. 
+Investors and potential investors are encouraged to review the reconciliation of non-GAAP financial measures with their most direct comparable GAAP financial results, which can be found in the quarterly earnings section of the Investor Relations portion of our website.
+A copy of today's press release, dated July 21, 2014, for the quarter ended June 28, 2014 and related financial tables can also be found in the Investor Relations portion of our website.
+Now, I'll turn the call over to Lip-Bu.
+Lip-Bu Tan
+Good afternoon, everyone, and thank you for joining us. I am pleased with the strong financial results that Cadence delivered in Q2. To summarize, total revenue was $379 million. Non-GAAP operating margin was 23%, and operating cash flow was $69 million.
+Today, we are also making some adjustments to our outlook for the fiscal year, which Geoff will discuss in a few minutes. Before talking about our Q2 highlights, I want to say a few words about the environment and review the key points of our strategy.
+Iâm happy to report that the environment has generally improved since the beginning of the year. Overall, the semiconductor industry is healthier and the growth of system companies is expanding our opportunities.
+As most of you know, system design enablement is our strategy to deliver the technology necessary for the integrated system and SOC design, with the end product in mind. Core EDA is at the heart of this strategy, and is a great business for us.
+We are winning with the winning customers, because of our increased focus in areas including digital and advanced [modification.] We are also excited about the high-quality differentiated IP business we are building, and the growth opportunities it offers. 
+We continue to expand beyond the SOC to provide innovative solutions for system interconnect and analysis; hardware, software codesign; and system-level IP. We aim to expand our leadership in system design enablement by focusing on leading semiconductor and system customers and ecosystem partners, developing or acquiring flagship products in key areas to drive growth and leading at advanced nodes.
+The success of our strategy is enabled by hiring and nurturing top talent, providing the industryâs best products, and laser focus on customer success. Our strategy is working, and you can see it in our results. 
+Based on these results, the underlying strength of our business and a review of our capital needs, cash flow, and capital structure, the Cadence board of directors has approved an increase in our stock repurchase plan. Geoff will give details in a few minutes.
+Now let us review our Q2 highlights. Overall, we continued to grow in Q2, with new business wins in digital and signoff at the most advanced nodes, continued momentum in system design and verification solutions, and progress in our IP business.
+We also continued to increase our position with current customers and expand into system markets. Key growth drivers include the increase in FinFET and 64 bit mobile design activity. In the digital and signoff space, Cadence continues to make strong advancements with FinFET design. We are well-established with leading customers and foundries at 16, 14 nanometers for production design. 
+In Q2, we had multiple digital wins. One of our customers, using Cadence IP and implementation tools, [came out with] one of the industryâs first production foundry FinFET designs. In further support of advanced node design, Intel and Cadence announced in June that we are collaborating to support Intel 14 nanometer tri gate process technology to enable customers of Intel custom foundry. 
+This collaboration includes the delivery of Cadenceâs low-power, high-performance LPDDR4 [unintelligible] memory IP on Intelâs 14 nanometer tri gate process. Our leading edge customers are already looking beyond the 16, 14 nanometer node.
+Development of these nodes requires even tighter collaboration between process and tools. We are deeply engaged with multiple foundry partners at an earlier stage than ever before in the development of 10 nanometer solutions with multiple test chips underway.
+In the crucial and strategic signoff space, our new products, Tempus and Voltus, are steadily gaining customers in timing and [subpower] signoff. In Q2, we added five new Tempus customers, including Broadcom, which has deployed Tempus in their sub-20 nanometer flow.
+We now have over 30 Tempus customers, and over 25 Voltus customers, and just last week, we introduced another new signoff product for parasitic abstraction, Quantus QRC, which leverages a new massive parallel architecture for fast and accurate performance on large digital designs. Quantus QRC is already foundry certified at advanced nodes.
+Now let us turn to system design and verification, where our solution helps customers with one of their top concerns, reducing time to market while ensuring correct functionality. In Q2, Cadence continued to innovate and invest heavily in this critical space. 
+We completed the acquisition of Jasper Design Automation. Jasper offers the leading solution for high-level formal analysis. Formal analysis is a mathematical approach to verification that complements our simulation and emulation solutions. High-level formal analysis has become a must-have solution for the development of complex SOC and application processes.
+Jasper expands the Cadence system development suite, which is the most comprehensive suite of verification solutions available. Our customers love the acquisition and we have hit the ground running.
+In Q2, we became the first EDA partner to get access to the ARMv8 64-bit architecture. We also introduced the Protium FPGA-based rapid prototyping platform for embedded software development. 
+For our hardware business, customer demand for Palladium remains strong, especially in the mobile sector, driven by the move to FinFET and 64 bit design. Shipments were up in the first half of the year as we continued to add new customers and expand Palladium installations with our largest customers.
+However, as we pointed out on prior calls, competitive pressure has increased in the emulation market, and is impacting our gross margin. Geoff will discuss the impact of this on our outlook in a few minutes.
+Palladium is the cornerstone of our system development suite, which is the industry-leading solution for addressing the challenges of both verification and hardware-software convergence. Palladium remains the most advanced and proven product on the market. We are building on this flagship product to development a new, innovative use model that brings tremendous value to our customers, such as Palladium hybrids, which dramatically reduce time to market.
+We are not only proliferating strongly within the top customers, but we are expanding our customer base as well into new verticals. Another critical component of our system design enablement strategy is our IP, which is a key growth driver for Cadence going forward.
+The integration of our 2013 acquisitions is progressing well, and our expanded IP portfolio is opening doors to more business with leading systems and semiconductor companies. In Q2, we continued to introduce new IP and VIP products, including memory modules for the 3D hybrid memory cube, the industryâs first VIP for PCI Express Gen Four and silicon proven DDR4 IP for both the 28 nanometer FDSOI process and for the TSMC 16 nanometer FinFET process.
+So now, in summary, Cadence continued to drive growth and innovation in Q2. Our system design enablement strategy is working and is producing strong results. We continue to win new business in digital and signoff at the most advanced nodes. We completed the Jasper acquisition and itâs being very well received by customers.
+We continue to innovate new products. This quarter, we released new products in signoff, system design and verification, [mixed] signal simulation, and IP. Our products and services have strong momentum in both system and semiconductor customers.
+I am pleased with our current results and excited about the opportunities in front of us. Now, I will turn the call over to Geoff to review the financial results and provide our outlook. 
+Geoff Ribar
+Thanks, Lip-Bu, and good afternoon everyone. Now, I will review the results for the second quarter, present our outlook for Q3, and update our outlook for 2014. 
+Cadence produced strong operating results in Q2. Total revenue was $379 million, up slightly from the prior quarter, compared to $362 million for the year ago quarter. Revenue mix for the geographies was 44% for the Americas, 23% for Asia, 22% for EMEA, and 11% for Japan.
+Revenue mix by the product group was 21% for functional verification, 30% for digital IC design and signoff, 28% for custom IC design, 11% for system interconnect and analysis, and 10% for IP.
+Total costs and expenses on a non-GAAP basis were $290 million, compared to $295 million for Q1 and $277 million for the year ago quarter. In Q2, we incurred a $10 million gap charge for our voluntary retirement program that will provide cost savings going forward.
+Headcount was 6,044, up 209 from Q1, attributable to hiring in R&D and technical field positions and the acquisition of Jasper Design Automation. Non-GAAP operating margin was 23% , compared to 22% for Q1 and 24% for the year ago quarter.
+GAAP net income per share was $0.08, non-GAAP net income per share was $0.21 compared to $0.20 for Q1 and $0.21 for the year ago quarter. Operating cash flow was $69 million, compared to $28 million for Q1 and $75 million for the year ago quarter.
+Total DSOs was 26 days, compared to 27 for Q1 and 24 for the year ago quarter. 
+Capital expenditures were $11 million. Cash and short-term investments were $655 million at quarter end, compared to $630 million for the prior quarter. 
+During the quarter, we used $136 million of cash for acquisitions. We repurchased 768,000 shares for $12.5 million. We borrowed $100 million on our revolving credit facility to help fund the Jasper acquisition. Approximately 16%, or $107 million, of our cash and short-term investments were in the U.S. at quarter end.
+Weighted average contract life was 2.2 years. This was lower than our expected range of 2.4 to 2.6 for the year, due to customer mix. We expect weighted average contract life to be in the 2.4 to 2.6 year range for the year.
+In June, we completed the Jasper acquisition. The final purchase price was approximately $168 million, after adjustments for transaction cost and working capital. The total net cash outlay will be approximately $140 million. We expect Jasper to have an immaterial impact on non-GAAP EPS in 2014, due to merger accounting, and to be accretive in 2015.
+Now letâs address outlook for the third quarter of 2014, which includes Jasper Design Automation. Overall for the year, we now expect stronger software revenue and weaker hardware revenue compared with our initial guidance for 2014. As we pointed out on prior earnings calls, and again today, hardware margins are under competitive pressure, and this is impacting our outlook.
+For Q3, we expect revenue to be in the range of $390 million to $400 million. Non-GAAP operating margin is expected to be approximately 26%. GAAP EPS is expected to be in the range of $0.13 to $0.15, and non-GAAP EPS is expected to be in the range of $0.23 to $0.25.
+Now for our fiscal 2014 outlook. Bookings are projected to be in the range of $1.75 billion to $1.8 billion, compared to our prior outlook of $1.725 to $1.775 billion. This increase is largely due to the addition of Jasper and secondarily due to stronger software bookings.
+We expect weighted average contract life in the range of 2.4 years to 2.6 years, and we expect at least 90% of the revenue for the year to be recurring in nature.
+Revenue is expected to be in the range of $1.57 billion to $1.59 billion compared to the prior outlook of $1.55 billion to $1.59 billion. This increase is also primarily due to the addition of Jasper.
+Non-GAAP operating margin is expected to be 25% to 26% on an annual basis. This is down from our previous expectation of approximately 26%, primarily due to lower hardware gross margins.
+Non-GAAP and other income and expense is expected to be in the range of negative $15 million to negative $9 million. We are assuming a non-GAAP tax rate of 26% and weighted average shares outstanding of 304 million to 310 million shares for the year.
+GAAP EPS is expected to be in the range of $0.48 to $0.56. Non-GAAP EPS is expected to be in the range of $0.90 to $0.98. This is down from our previous range of $0.92 to $1.02 due to lower hardware gross margins and higher expected diluted share count, resulting from the impact of the higher share price on the dilution from our 2015 convertible notes.
+We expect OCF to be in the range of $305 million to $335 million. This is down from our previous range of $335 million to $365 million, primarily due to the impact of the voluntary retirement program, the deferred revenue impact from Jasper, and lower hardware gross margins. 
+Our DSO forecast is approximately 30 days.
+Capital expenditures are expected to be approximately $40 million. As you saw in our earnings press release today, our board of directors made an important decision which reinforces our commitment to delivering value to our shareholders. Our board of directors has improved an increase in the rate of repurchase under our stock repurchase plan. 
+The new plan, which replaces the old plan, authorized the repurchase of $300 million over two years. Cadence expects to repurchase approximately $37.5 million of common stock per quarter under the new plan, beginning with the third quarter of 2014.
+The board made its decision based on the underlying strength of the business, a review of the companyâs capital needs, cash flow, and the capital structure.
+So with that, operator, weâll now take any questions.
+Question-and-Answer Session
+Operator
+[Operator instructions.] Our first question comes from the line of Jay Vleeschhouwer with Griffin Securities. 
+Jay Vleeschhouwer - Griffin Securities
+Question first about the Jasper acquisition. When you bought Tensilica a year ago, you were providing then for 2013 the incremental revenues and bookings you were expecting from Tensilica. Weâre hoping now that perhaps for Jasper youâll do something similar for 2014 in terms of the incremental bookings and revenue contribution.
+Also, with respect to the duration of only 2.2 years, thatâs unusually low. Could you elaborate at all on the customer mix in terms of any geographic or product component that weighed on the duration?
+Geoff Ribar 
+On Jasper, I think as we said, the majority of the bookings increase and revenue increase was related to Jasper. Iâm pretty sure you can do the math on that. Happy to help, but I think youâve got the basic components.
+The 2.1 to 2.2 is really just a mix in the current quarter. We donât expect any change for the year, and nothing unusual happened, from our perspective.
+Jay Vleeschhouwer - Griffin Securities 
+Over the last couple of years, the company has had some good momentum in a number of areas, including system interconnect or PCB, custom IC, and hardware, including the last quarter, albeit at the expense of margin. When you look out over the next couple of years, or beyond, what do you think might be, from a product perspective, the next big thing or things, as incremental growth drivers. 
+For instance, last month at [DEC], we heard, in various Cadence presentations, frequent references to free silicon and front end as technical areas of interest for you. Youâve mentioned signoff a number of times today. What do you think, aside from the areas we already talked about, might be the next particularly incremental areas for you for revenue? 
+Lip-Bu Tan 
+A couple of points to just highlight. First of all, as you mentioned, we are moving toward a system design enablement approach, and basically itâs really driving the system design approach based on the view on EDA, on the system level view, providing the true IP software packaging board assembly and the system-level IP. So, really looking at the entire system and product in mind.
+With that, EDA is really the heart of it, and we are doubled down and laser focused on that. We have a whole series of good products coming out in the signoff area, like Tempus/Voltus, and now we announced the Quantus. And clearly we continue to drive significant improvement in the digital front. 
+And then likewise, we have also doubled and tripled down on the verification side, because that is where the time to market challenges are, and thatâs also the complexity of the design. And then we have that whole development verification suite that includes all the way from hardware, and the formal analysis, like the Jasper, that is very relevant to us. A lot of complex SOC and processor related design is a must-have, and we really strengthened that.
+And we also have also very significantly improved the [incisive] part. In fact, this Q2 is one of the best quarters for us. And all in all, it ties in to the design and verification approach.
+And then with that, clearly we have a really strong foundation, especially in the digital front. We have a lot of design wins, along that direction, and meanwhile, mixed signal is the digital and analog combined, and then optimized for that. Weâre making great progress with the EDA. A lot of momentum, customer signup for it, and that continues to drive differentiation in the mixed signal.
+As you know, most of the SOCs are mixed signal related, and that really plays into our strength. I think IP also is a driving engine for us. So all in all, I think clearly we are excited about EDA industry, growing faster than the overall semiconductor industry. We believe we can outgrow the industry based on our leadership position in various EDA products and also extend into the system level applications.
+So overall, we are optimistic in our product offering.
+Jay Vleeschhouwer - Griffin Securities 
+As Iâm sure you know, Synopsis with IC Compiler 2 is introducing the idea of node-based pricing. A range of functionality and capacity according to the node usage by their customers. Is that sort of node-based pricing perhaps only in digital IC, if not elsewhere, something that might be of interest for you as well?
+Lip-Bu Tan 
+I think first of all, we pay a lot of attention on the ICC2 and their announcement. And they are very strong competitors. We always respect them. And meanwhile, we continue to focus on our offering, especially in the digital front. 
+Clearly, weâre making great progress in the digital front. Our commitment into the FinFET design, and clearly we have multiple wins in the digital front. And then we mentioned about one customers using the Cadence IP and implementation tool to drive the industryâs first production foundry FinFET design.
+And currently, we have over 25 new FinFET design projects underway in Q2, and then we are already starting with multiple foundry partners on 10 nanometer. And clearly the signoff, as I mentioned in my script, Tempus at more than 30 customers signed up for it and Voltus, 25. And then the Broadcom and a few others. And then with the Quantus coming up.
+So all in all, we are kind of focused on innovation, focused on customer wins, and then focused on the advanced node. And we will continue to just focus on execution and then make our customers successful.
+Operator
+Our next question comes from the line of Tom Diffely with D.A. Davidson.
+Tom Diffely - D.A. Davidson 
+First, I guess Geoff, you talked about the midpoint of the EPS guidance for the full year going down. Say itâs going down from 97 to 94. So you talked about the hardware margins being a little impactful there, the share count. But I didnât necessarily hear you say what part Jasper plays in that.
+Geoff Ribar 
+Yeah, Jasperâs immaterial on the results for 2014, and itâs immaterial because of the merger accounting and the deferred revenue impact on the merger accounting. So the two issues are mostly the gross margin on hardware, and secondly, the increased share count related to the calculated dilution on the convertible notes.
+Tom Diffely - D.A. Davidson 
+How long do you think it typically takes from a quarter basis to get to kind of the full operating model from Jasper? Is that a 3-4 quarter trend?
+Geoff Ribar 
+Yeah, it depends on the particular acquisition and the particular makeup of their deferred revenue. So it will take some time. We said 2015 will be accretive for Jasper. I think thatâs probably the most important factor.
+Tom Diffely - D.A. Davidson 
+And then maybe just a quick thought process on why you increased the share repurchase versus maybe the initiation of a dividend. What were the pros and cons?
+Geoff Ribar 
+You know, our board and our management team goes through a process of looking at our capital needs, our cash flow, and basically we decided that we were going to do the stock repurchase. We donât want to discuss obviously the details of that calculation, but again, weâre quite comfortable with our cash flow, quite comfortable with our business, and so comfortable with proceeding with what we did.
+Lip-Bu Tan 
+Clearly as you heard from us, system design enablement, the strategy we have and we are executing toward that. We have a lot of momentum. And like Geoff mentioned earlier, we looked at the capital requirements, looked at the cash flow. We have a very strong cash flow going forward, and we discussed with our board. We felt that this is the right thing to do in terms of buying back more shares, and that serves the shareholders well. And thatâs kind of our decision.
+Tom Diffely - D.A. Davidson 
+Also, when you gave the $37.5 million per quarter number, does that mean youâre going to try to be fairly linear with the spend, or are you still going to be opportunistic?
+Geoff Ribar 
+Yes, we are.
+Tom Diffely - D.A. Davidson 
+But you talked about how the environment has improved since the beginning of the year, with a couple of different customer sets. It looks like that hasnât really translated into the guidance for the full year at all. Maybe you could talk about that, how these trends play out over time, and when you would think youâd see some kind of an increase to your bottom line?
+Lip-Bu Tan 
+I think a couple of things. I mentioned earlier in the environment, overall itâs good, because of mobile, video, wearables, internet of things, and cloud. And also the design complexity. And then the other part, because of our much improved product portfolio, and we are excited, looking forward. And also, we have a lot of momentum and wins in the digital verification. And also, Jasper is a wonderful acquisition. Great talent has come onboard. Itâs a must-have. 
+And so overall, I think we positive on the overall view, and then meanwhile, as you know, this is a [ratable] business, and sometimes hardware and IP are a little bit lumpy. But overall, I think we continue to execute, to plan. We like what we see, and we just have to be very focused on execution and win the customer and support them in their success.
+Geoff Ribar 
+And Tom, just to be clear, our software is ahead of our plan, from the end of the year to now.
+Tom Diffely - D.A. Davidson 
+And then maybe finally, just an update on Japan? Itâs been a bit of a headwind over the last many quarters. It sounds like itâs stabilized a bit, but maybe a little more color?
+Geoff Ribar 
+Yeah, I mean, Japan is going to fluctuate, as I think we said a couple of quarters in a row. Itâs kind of bumping along on the bottom, and weâve seen it stabilize. But thereâs going to be some fluctuations from quarter to quarter with us for Japan.
+Operator
+Our next question comes from the line of Sterling Auty from JPMorgan.
+Sterling Auty - JPMorgan Chase 
+A couple of questions. One, just start off administrative-wise. Geoff, can you repeat the cash flow guidance that you gave, and the rationale behind it?
+Geoff Ribar 
+Yeah, the cash flow guidance is down about $30 million at midpoint. The three major items that are playing into that are Jasper is certainly playing in. Again, we have deferred revenue. We collected that cash up front, but we have expenses. Secondly, the voluntary retirement program. And the third is the gross margin impact on the hardware business.
+Sterling Auty - JPMorgan Chase & Company 
+What was the voluntary part of that again?
+Geoff Ribar 
+We did a voluntary retirement program here in the U.S. to allow people to take a voluntary retirement. It will benefit our expenses on a go forward basis.
+Sterling Auty - JPMorgan Chase & Company 
+The gross margin on the hardware side, how much of this is just where you are in the product cycle, and is there anything to read into here that youâre talking about lower gross margins for the back half? Does that suggest that either the timing of the next upgrade has shifted or that you would expect hardware gross margins to continue to be under pressure at whatever time the new version does come out?
+Geoff Ribar 
+Iâll start, and then Lip-Bu will take the rest of the question. Our hardware business has actually continued to be pretty strong. Weâve taken some deals that we think make a lot of sense to us, from top customers, and foreign customers. And you know, weâve actually shipped more volume than weâve done previously in the first half of the year. We expect to ship more in the second half of the year.
+But the business is competitive, and weâve seen some pricing pressure, and that is impacting overall revenue for hardware, which will be down slightly this year, and margins. 
+Lip-Bu Tan 
+I think just a few things to add. First of all, the Palladium XP2, released less than one year ago, shipping in high volumes. And then the XP2, we have significantly better performance and productivity advantage. And then we continue to drive success in our top customer and also system and also some of the new verticals. 
+And so I think we continue to do well. In fact, the first half is up. And then we put together really top talent and driving this whole complex supercomputer platform. And then our new platform is on our way, and we are excited about it, but meanwhile, we are focused on selling our Palladium XP2 and when the time comes, we will announce our new products. 
+But so far, weâve been laser focused on selling and supporting our customers. Clearly, the top tier customer, we continue to increase and we add on, and so overall, itâs a very important platform and it ties in very well into our system development suite. And that has continued to clearly proliferate towards the system and also some of the new verticals. 
+Sterling Auty - JPMorgan Chase & Company 
+Lip-Bu, you mentioned a number of times some initial design wins as well as both powerâ¦ So both Tempus and Voltus. And just wondering if you could describe what you think the market share dynamics in those segments are looking at? In other words, are you picking up incremental new customers? Or are these expansions within existing customers?
+Lip-Bu Tan 
+I think digital is a very important focus for us, and clearly some of the new products we announced in the signoff, Tempus is very well received, Voltus is very well received. And we just announced the Quantus in the QRC side. And clearly, we have a lot of adoptions. Tempus, over 30. And then the Voltus is over 25. 
+And then clearly, we mentioned last quarter we have won big wins, and in terms of the design flow in the digital, we continue to have that, and we have multiple new design wins, because clearly, our product is coming up really, really strong. And then also, tying in with our advanced nodes, in the 16, 14, now moving into 10 nanometer. So clearly, itâs an area that we are really focused on, and then also tie into the custom analog, mixed signal. And thatâs why I think too it will play into our strength, and most of the SOC are mixed signal.
+And the other part of the equation that helps us a lot is in the ARM, relationship. Clearly, the 64-bit deployment and a lot of customers are engaging, and that gives us a lot of window into our performance, and then leading to some of the digital [displacements]. 
+Operator
+Our next question comes from the line of Monica Garg with Pacific Crest Securities.
+Monica Garg - Pacific Crest Securities 
+My first question is, you heard about Broadcomâs decision to sell the baseband unit. Could you maybe talk about if that has any impact on your business?
+Lip-Bu Tan 
+I think clearly we are not going to comment on any of our specific customer business or strategy. And so I think weâll stop right there.
+Monica Garg - Pacific Crest Securities 
+Then Lip-Bu, you talked about [FDSOI] model and design in your comment. Could you maybe talk about the design activity you are seeing in the FDSOI area? And then does it impact in any positive way your business?
+Lip-Bu Tan 
+Clearly, we are engaging with our foundries and then based on the customer requirements. So we work very intensively with our customer. If the customer decided to go advanced node in FinFET we support them to [unintelligible] that with the foundry partners. If they decided to move on to the FDSOI, we clearly support that. In my remarks, I mentioned about the DDR4, because of customer requirements, moving to the FDSOI process, and we definitely support and enable that.
+Monica Garg - Pacific Crest Securities 
+If I heard it correctly, you talked about a Palladium hybrid product in your comments.
+Lip-Bu Tan 
+Thatâs correct.
+Monica Garg - Pacific Crest Securities 
+Could you maybe kind of talk about what is that product?
+Lip-Bu Tan 
+Sure, happy to share with you. This is the newest user model, to help the customer more. It basically provided our Palladium engine and platform, extended into the hybrid. That basically enabled a better processor software development. So in a way, while your silicon is still in development, you can start using our Palladium model to apply into the OS, the firmware, the software stack, and so in a way, you save a couple of months. 
+You know, one of the customer highlighted that it saved them six months in terms of the codesign hardware and software together. And that is a huge, huge time to market advantage for the customer. And we introduced that, and a couple of key customers love it. We embrace and are helping support them. Anything to save them on time to market is huge for them. 
+Operator
+Our next question comes from the line of Mahesh Sanganeria with RBC Capital Markets. 
+Mahesh Sanganeria - RBC Capital Markets
+I just had a follow up on your Tempus and Voltus wins. Can you give us more color as to the accounts where youâre getting the wins? Whatâs the driver? Is it new evaluation, or youâre just displacing a competitor?
+Lip-Bu Tan 
+I think a couple of things. One, these are very new products we announced, in the later part of last year. This is massive parallelism, and then scale all the way to 100 CPU. We introduced them in the later part of last year. The response has been overwhelmingly positive, and on the Tempus side, we have over 30 customers, paying customers, and they are engaging heavily on their signoff.
+Same thing with Voltus. If I recall correctly, we introduced that in Q4 of last year, and we already have more than 25 customers using it. This is very significant. And then thirdly, we just announced our QRC. This is the abstraction offering on the signoff, and itâs also massive parallel architecture. This is very important. Customers right now are evaluating it. 
+And so I think we are really focused on the digital platform, initially focused on signoff, and then now we are working on the next generation in the digital implementation, place [unintelligible] and synthesis. Stay tuned, and weâre going to have a lot more exciting coming up. And we doubled, tripled down on the digital implementation side. And customers love it, and we highlighted one of the Tempus users is Broadcom, in their sub-20 nanometer floor, and this is very significant.
+So I think we are making great inroads into the digital front.
+Mahesh Sanganeria - RBC Capital Markets 
+If I can just follow up on that one. I mean, if I look at the timing signoff, I mean, [unintelligible], and I donât know what the market size is, can you give us a sense of are you talking about the power signoff and timing signoff, what the market sizes are, and what part of market can you have in, letâs say, a couple of years. Iâm sure that for the timing signoff, youâre starting from a very low basis. And some sense of the dollar number will be very, very helpful.
+Lip-Bu Tan 
+I think clearly itâs a big [term], and digital and mix signal also impact into the whole mixed signal design. And so all in all, we only provide right now the 2014 guidance. But clearly, itâs a big opportunity, and thatâs why we could recruit all the best talent we can find in the marketplace. And this is very critical in terms of the digital design implement. And itâs a big [time] market, as I can say.
+Operator
+Our next question comes from the line of Krish Sankar of Bank of America Merrill Lynch.
+Krish Sankar - Bank of America Merrill Lynch 
+Number one, Geoff, you mentioned that the gross margins were down due to hardware. Is it over a couple of customers? Is it more than one or two customers thatâs bringing down the hardware gross margins?
+Geoff Ribar 
+Yeah, we just said generally that the business is competitive on the gross margin perspective. Again, weâre quite happy with the deals weâre taking. We think the deals make sense and are with great customers. But you know, the marketâs competitive. We havenât given specifics on which customers, etc.
+Krish Sankar - Bank of America Merrill Lynch 
+So I mean, itâs not a complete surprise that hardware is dilutive to gross margin. But if I take a longer term view, if youâre going to get more footprint and systems, how will your gross margin and operating margins trend over the next few years as you get more systems footprint?
+Geoff Ribar 
+Yeah, weâre only guiding 2014 right now. Weâll give you more view when we guide 2015 in the January timeframe.
+Krish Sankar - Bank of America Merrill Lynch 
+I think you guys kind of highlighted how emulation is being used by the software guys. It looks like itâs being used to that software. Is the primary requirement for emulator to be used to bring software up, is it primarily just throughput, or is there something else too?
+Lip-Bu Tan 
+A couple of points. Clearly, the hardware emulation is very good for verification, finding bugs in the design, in a very effective way. And then meanwhile, we mentioned this Palladium hybrid. Actually, itâs helping us on the software side, so we can develop faster on that. And then weâve also just announced Protium. This is the FPGA offering. 
+And so I think this is something that will tie in very well with our entire system development suite. And this is critical in terms of time to market for our customers. Itâs a fast-growing area. You know, Jasper is a great acquisition for us, because of all the complex SOC, that are processor related. And itâs a must have. Customers request us to buy that. And so I think we tied it all together on the whole verification suite of offerings.
+ 
+Krish Sankar - Bank of America Merrill Lynch 
+Early in the year, it seemed like there was quite a bit of challenges with FinFET. And if you talk to different folks, it seems like, depending on whom you speak to, itâs either improving or itâs still status quo in terms of the performance. Can you help characterize, over the last six months, how do you describe the progress in FinFET and the program in FDSOI. Iâm just trying to get a sense of are they mutually exclusive, or as FinFET gets delayed more, is it going to be more focused on FDSOI? 
+Lip-Bu Tan 
+Itâs a very good question, and in fact you will get different answers from different customers. But I think weâre very much focused on working with our leading customers, the winning customers. And clearly, FinFET is the way to go in the advanced nodes, and in the 14, 16, and 10 nanometer. 
+And so a couple of our key customers requested us to support them. And thatâs why we have more than 25 new FinFET design projects with our leading customer. And in Q2, we see the development activity increased a lot on that. 
+And then saying that, you know, we also had a couple of customers decide to use the FDSOI for the 28 and 20 and then some go beyond that. So I think we are open minded, and we donât have any buyers, one way or the other. 
+Our optimal objective is to serve our customer in terms of the most complex design, and then make it optimized for the foundry that they select, and then we work with the foundry partners to make sure that we provide the most high-yield performance based on our design tool in IP. Thatâs the most important.
+
+Operator
+Our next question comes from the line of Rich Valera with Needham & Company. 
+Rich Valera - Needham & Company
+Geoff, just wanted to clarify that you said that the mix had actually shifted toward software and away from revenue, broadly speaking, in your business. Is that correct?
+Geoff Ribar 
+It shifted to software revenue from hardware revenue. Hardware revenue would be a little bit down this year.
+Rich Valera - Needham & Company 
+Right. So all things equal, that should have a positive impact on margins, but obviously youâre guiding the other way. So I guess the pricing pressure in hardware is actually more than offsetting that mix shift. Is that a fair statement?
+Geoff Ribar 
+Thatâs correct.
+Rich Valera - Needham & Company 
+And then a lot of questions around the hardware margin. And I think as I understand it in emulation, itâs sort of pretty straightforward that the cost per gate in emulation is directly tied, generally speaking, to the silicon in the box. So if you come out with a next-generation box, generally you have much higher density silicon. And I donât want to put words in your mouth, but itâs something just substantially higher density. That brings down your cost per gate quite a bit, and so sort of mathematically... Get your thoughts on that. \
+Geoff Ribar 
+Weâre obviously not guiding 2015 at this stage, but yes, thatâs the general Mooreâs Law benefit of semiconductors. 
+Rich Valera - Needham & Company 
+Is there any reason to think that youâre going to have a next-generation box. Youâve acknowledged that. Youâre going to have next-gen chips in that. The margins on that shouldnât be materially better than the margins youâre getting today on hardware. I know you donât want to get specific, but itâs just axiomatic that it should be.
+Geoff Ribar 
+Rich, weâll talk about that in the future.
+Operator
+Our next question comes from the line of Ruben Roy with Piper Jaffray. 
+Ruben Roy - Piper Jaffray
+I wanted to follow up on the FinFET FDSOI discussion. It sounds like your design projects accelerated in Q2. I think you said 25 new since that project. And I was wondering, in listening to some of the equipment companies recently, it sounds like foundry ramps of 16, 14 nanometer nodes are a little bit slower than previously anticipated. But you havenât seen that yet in actual design activity. Do you think at this point this something that could cause some short term impact, or is this just been a longer term trend that plays itself out and the longer term trend is up and to the right. Would love to hear your thoughts on that.
+Lip-Bu Tan 
+We watch that very closely. Clearly, we heard some of the foundriesâ announcements in terms of delay. And meanwhile, on the design front, itâs always ahead enough that manufacturing, we see the increase in the design activities, especially in the 64 bit related area, and also the FinFET customer engagement has increased. I think over time, clearly, the volume production will be sometime next year. 
+And clearly, the leading foundries are very focused on getting that done. And a lot of customers depend on that. So I think Iâm optimistic that things will work out. And clearly, the foundry partners are very, very focused on that, and make sure that yield and performance. The test shipment of the [involvement] in the design, in activity, increased, at least from our visibility. 
+Ruben Roy - Piper Jaffray 
+On the FDSOI side, you talked about 28 nanometer obviously, and some of the IP that youâre bringing to market. You talked about 20 nanometer. Iâm wondering, recently with some of the activity that youâre seeing out there, has there been discussions or requests to you to start thinking about and creating libraries for 14 nanometer FDSOI?
+Lip-Bu Tan 
+The answer to you is yes. We have customers request that. We are working with them. And so clearly, supporting the customer success is the most important for us. Make sure that our [unintelligible] and IP optimized for that process and that approach. And clearly, the customer has demand us for doing it. Clearly we are supporting that, and so to answer your question, yes, there is an increase in the activity of FDSOI.
+Operator
+And that was our final question. I will now turn the call over to Cadenceâs president and CEO, Lip-Bu Tan, for closing remarks. 
+Lip-Bu Tan 
+In closing, I would like to recognize our hardworking employees for the results we have achieved. And thanks all of our shareholders, customers, and partners for everyoneâs continued support. Thank you all for joining us this afternoon. 

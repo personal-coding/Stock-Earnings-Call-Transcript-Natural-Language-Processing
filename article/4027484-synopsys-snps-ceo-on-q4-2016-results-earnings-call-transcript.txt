@@ -1,0 +1,259 @@
+Synopsys, Inc. (NASDAQ:SNPS) Q4 2016 Earnings Conference Call November 30, 2016 5:00 PM ET
+Executives
+Lisa Ewbank - Vice President, Investor Relations
+Aart De Geus - Chairman and Co-Chief Executive Officer
+Trac Pham - Chief Financial Officer
+Analysts
+Krish Sankar - BofA Merrill Lynch 
+Rich Valera - Needham & Company 
+Jay Vleeschhouwer - Griffin Securities
+Sterling Auty - JPMorgan 
+Farhan Ahmad - Credit Suisse
+Tom Diffely - D.A. Davidson
+Monika Garg - Pacific Crest Securities 
+Gary Mobely - Benchmark
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to the Synopsys Earnings Conference Call for the Fourth Quarter of Fiscal Year 2016. [Operator Instructions] Todayâs call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, todayâs call is being recorded. At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+Lisa Ewbank
+Thank you, David. Good afternoon, everyone. With us today are Aart De Geus, Chairman and Co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+Before we begin, Iâd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets, and other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results and performance are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect. 
+In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and todayâs earnings press release. We will also refer to non-GAAP financial measures. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the 8-K, earnings press release and financial supplement that we released earlier today. 
+All of these items, plus the most recent investor presentation, are available on our website at synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call. Finally, please note that we issued a second press release this afternoon announcing the close of the acquisitions of Cigital and Codiscope.
+With that, Iâll turn the call over to Aart De Geus.
+Aart De Geus
+Good afternoon and thank you for joining us. Weâre happy to report a strong fourth quarter finish to an outstanding fiscal year for Synopsys, as we enter 2017 with a very solid foundation. We again delivered excellent financial results, while successfully balancing investments for the short and long term. We made very good progress in digital design and verification. 
+Our IP business delivered strong results, and we further scaled our Software Integrity solutions, including the acquisitions we announced earlier this month. Summarizing our financial results for the year: We delivered revenue of $2.42 billion, an 8% increase, reflecting strength across all product groups. We reported non-GAAP earnings per share of $3.02 or 9% growth.
+Our three-year backlog remained very strong at $3.54 billion. We generated $587 million in operating cash flow. We bought back $400 million of our stock and reduced share count. Building on our strong year-end position, and including the impact of the just-closed acquisitions, weâre setting a 2017 revenue target of $2.57 billion to $2.6 billion, a non-GAAP EPS objective of $3.16 to $3.23, reflecting high-single-digit organic growth with modest near-term dilution from the acquisitions, and an operating cash flow goal of approximately $500 million. 
+Trac will discuss the financials in more detail. As we head into 2017, we see varying technical and business dynamics for the three customer segments we serve, Semiconductors, Systems, and Software Developers across multiple industries. Semiconductor companies sell chips that they may or may not manufacture, and where design, verification, and in some cases, embedded software drive differentiation. 
+From a technology perspective, many push state-of-the-art silicon design non-stop. This means optimizing for performance, power, area, and yield using advanced manufacturing processes and pushing our tools to the limit. While the cost of Mooreâs law is tightening the race, the quest for still more complex chips delivering still more performance continues. 
+At the same time, whether to drive efficiency through size or to scale up into vertical segments, some companies are divesting parts of their businesses or combining with others to better position themselves for the next wave of growth. While these consolidations initially are a headwind for the EDA industry, Synopsys has thus far successfully navigated some large M&A combinations in a number of cases even expanding our customer relationships. 
+Our multi-year business model, combined with our technology, platforms, and market leadership provides an excellent backdrop to help our customers through these transitions. System houses, which contribute about 40% of our revenue, develop products that incorporate multiple chips, their own or someone elseâs, as well as their own or third party software. Their differentiation manifests itself in terms of product capabilities and time to market. This opportunity space is great, with exciting new applications such as digital intelligence, machine learning, smart IoT, 5G mobile networks, virtual and assisted reality, and massive cloud-based computing to name just a few. 
+Many of these are already visible in newly energized verticals such as automotive, industrial, and health. The challenges at the complex intersection of hardware and software are substantial, yet this is exactly where Synopsys excels. Finally, software developers in many industries grapple with acutely growing security vulnerabilities. 
+These exposures can have a dramatic impact on security, safety, and even health, with potentially staggering financial implications. Weâre enthusiastic about the step-by-step scaling of our software integrity solutions, which is happening at just the right time to help these organizations take their security strategies to the next level. For Synopsys, our unique position reaching literally from Silicon to Software enables us to help all of these customers, and positions us well for high impact and growth in the years to come.
+In that context, let me provide you some highlights starting with the roots of Silicon. The push towards bringing smaller, faster, lower-power chips to market sooner is unrelenting, and FinFET technology continues to advance. Our FinFET-proven flow begins with the earliest TCAD and lithography simulation models, key enablers of Mooreâs law. During FY 2016, we announced a new solution that brings TCAD into the up-stream research phase to help manufacturers reduce process development time. 
+Weâre already involved in 3 nanometer and even initial 2 nanometer research. Our unique position in TCAD is a differentiator that grants us early understanding and access to key models, giving us a head start in terms of product readiness. As the clear leader in advanced FinFET design, we continue to see rapid adoption of 16, 14, 10 nanometer and test chips at 7 nanometer nodes. 
+The statistics are compelling. The cumulative number of completed FinFET designs is approaching 300, with Synopsys relied on for more than 95% of those chips. Meanwhile, 48 out of 49 leading-edge tape-outs at 10 nanometer and below are using our design tools. 
+During the year, we announced broad foundry certification, including from TSMC and Samsung for our digital and custom/analog tools at the most advanced processes. In digital design, IC Compiler II continues to proliferate and progress technically to help customers with their most advanced designs. 
+Leading adopters including Intel, Samsung, TSMC, Broadcom, NVIDIA, Qualcomm, Toshiba, Socionext, Infineon, and Huawei shared some of their most intriguing challenges and IC Compiler II successes during the year. Itâs the fastest-ramping product in our history, including a record second half and has been used in approximately 250 production designs on over 25 different foundry processes. 
+In custom/analog design, this year we introduced a brand new product, Custom Compiler. The result of several years of development, it features an innovative approach that accelerates key part of design from weeks to days, targeted specifically at FinFET. While still in the early stages, it has generated considerable interest now converting into adoption by customers including ST, GSI Technologies, and AK Microdevices, with support from leading FinFET foundries. 
+Now to verification, an immense challenge that is only getting more difficult, with highly complex systems featuring sophisticated silicon and increasing amounts of embedded software. Our Verification Continuum platform, born out of an early vision and collaboration with our customers, is making a big impact. Built around the fastest simulation, emulation, and prototyping engines, it delivered an outstanding year of growth.
+We made great progress on all elements of the platforms and integration, yielding significant competitive displacements in leading customers. One example was a major enterprise-level partnership and expanded commitment to Synopsys by one of the worldâs top mobile semiconductor companies. This year we also unveiled a breakthrough innovation, enabling massive parallelism to speed up our franchise VCS simulation product. 
+In addition, the SpyGlass technology from Atrenta has exceeded our expectations. Our hardware verification product had a very strong year, with record orders for our ZeBu emulation and HAPS prototyping solutions. Weâre the fastest-growing emulation vendor in the industry. An excellent example of our momentum is NXP, which selected Synopsys as its primary SoC verification and emulation solution for its next-generation automotive, secure connectivity, and smart connected products. 
+In IP, we saw growing business momentum through the year and significantly expanded our portfolio and vertical market reach. Weâre seeing very good demand for our comprehensive interface IP portfolio. Continuously at the forefront of new standard development, we offer customers high-quality titles, as soon as a new standard is released. TSMC recognized us as Interface IP Partner of the Year for the sixth year in a row, and we were named SMICâs Interface Vendor of the Year for the third year straight. 
+We were first to market with the new USB Type C, and are the only IP company with USB 3.1 certification. We delivered the latest PCI Express 4.0 IP, targeting advanced data-intensive cloud computing applications. We continue to drive the state-of-the-art in the most advanced nodes, winning several important 10 and 7 nanometer projects. Lastly, our embedded vision solution provides a leading-edge, and easy-to-use, processor/neural network combo that leverages machine learning, one of the hottest applications out there.
+Another key focus for us not only in IP, but across our entire Silicon to Software product spectrum, is automotive. Weâve expanded our automotive portfolio, and in FY 2016 made accelerated progress. We delivered several advancements for next-generation automated driving and infotainment, including our newest embedded vision processor. We drove key design wins at major automotive semiconductor companies, thanks to having grown the broadest portfolio of automotive-certified IP in the industry. 
+Enabling software development 15 months prior to silicon, we delivered our virtual prototyping solution to a leading supplier of driver assistance systems. We also signed a large agreement with a leading U.S. automotive OEM. Our digital and custom design tools added new design and analysis capabilities focused on ensuring the extreme reliability required for automotive applications. 
+Key tools throughout our EDA, IP, and Software Integrity portfolio are certified for the most stringent level of automotive safety measures defined by the ISO 26262 safety standard. Our focus on automotive software security is becoming increasingly well-known. In fact, weâve teamed up with leading OEMs, Tier 1s and semiconductor companies to drive software cybersecurity standards for automotive through SAE, the Society of Automotive Engineers. 
+Our reach continues to expand to include new entrants, as well as traditional leaders such as Bosch, Delphi, and Continental. Stay tuned for continued product advances and new technology milestones this year. 
+Next, to our Software Integrity group, which provides products and services to build quality and security into the software development lifecycle and across the cyber supply chain. Building on the acquisition of Coverity a couple of years ago, weâve added key technologies both organically and via acquisition, while simultaneously unifying the sales organization. 
+Our go-forward strategy is three-fold. First, continue to broaden and deploy our Software Sign-off Platform as the foundation of our offering. Second, accelerate our penetration of key verticals in both the embedded and enterprise spaces. And third, drive demand creation, with ecosystem partners, certification projects, and services. 
+To that end, we just today completed the acquisitions of Cigital, which specializes in security consulting services, and Codiscope, a spinoff of Cigital with related developer tools. Weâre very excited about this combination, as it will accelerate our ability to reach customers and expand our market in new segments. The companies are strategically aligned with a shared vision, and bring complementary elements to the table. 
+Synopsys leads with best-in-class products. Cigital attacks security problems from a service angle. Synopsys has a very strong presence in the embedded space, including automotive, medical devices and IoT. Cigital is a leader in serving enterprise customers, with particular strength in financial services. And finally, Cigital brings a demand creation element, with customer touch points earlier in the security strategy development process of our customers. 
+Cigital and Synopsys are both named in Gartnerâs Magic Quadrant for application security testing. In this highly fragmented, emerging market, the combination will enable us to provide the most comprehensive portfolio available in the market today. From an overall company financial perspective, our primary long-term objective remains to drive high-single-digit non-GAAP earnings-per-share growth on a multi-year basis, through a mix of the following:
+One, grow traditional EDA revenue generally in the low-to-mid single digit range; Two, grow revenue in IP/Systems and Software Integrity generally in the low double-digits; Three, actively explore TAMexpanding R&D and M&A opportunities; Four, focus on global operational efficiency to deliver solid non-GAAP operating margin in the mid-20s range; And five, optimize the use of our strong cash flow, through a balance of stock buybacks, M&A, and debt repayment. While the results in any given period may vary, based on acquisitions or other near-term priorities, our long-term driving principles remain consistent.
+To summarize, Synopsys delivered another excellent year, even in the context of a challenging semiconductor landscape. In terms of both total and EDA-related revenue growth, we outpaced the competition in 2016. We continue to invest in the short-and long-term, organically and via acquisitions, operationally and with share buybacks, all to drive long-term shareholder value. Lastly, weâre making good progress in building our software security platform and market segment position. 
+Let me now turn the call over to Trac.
+Trac Pham 
+Thanks, Aart. Good afternoon everyone. As I reflect on the past year, Iâm pleased with our results. We again delivered on our near-term financial goals, while investing for sustainable long-term growth. This strategy is paying off. Our EDA and IP solutions are doing well, offering a combination of healthy growth and profitability. 
+Weâre also building out a new, higher-growth software security platform, which is gaining critical mass. This diverse product and customer portfolio positions us very well, and supports our near-and-long term objective of driving high-single-digit non-GAAP EPS growth. 
+In 2016, we achieved substantially better financial results than we originally anticipated. The entire Synopsys team executed very well, and Q4 was a strong finish to an outstanding year. We delivered high-single-digit revenue and non-GAAP earnings growth, and generated significant operating cash flow. We bought back $400 million of stock to reduce the share count. And earlier this month we announced two acquisitions to further scale our software security platform. We enter 2017 with a solid foundation and are confident in our ability to achieve our financial objectives.
+Now to the numbers. As I talk through the results and targets, all comparisons will be year-over-year unless I specify otherwise. We delivered total revenue of $634 million in Q4 and $2.42 billion for the year, an annual growth rate of 8%. There was strength across all product groups, including record hardware sales. Over 90% of Q4 revenue came from beginning-of-quarter backlog, and one customer accounted for more than 10% of Q4 and 2016 revenue. 
+The weighted average license duration was approximately 2.7 years for the quarter and 3 years for 2016. We expect the 2017 average to be about 3 years. Our three-year backlog remains strong at $3.54 billion, and reflects good business growth and the timing of large contract renewals. 
+Importantly, approximately 80% of our 2017 revenue target is already in hand, which provides stability and predictability. Total GAAP costs and expenses were $551 million for the quarter and $2.1 billion for the year. Total non-GAAP costs and expenses were $488 million for the quarter and $1.85 billion for the year. 
+2016 expenses increased due largely to higher costs associated with employee compensation, acquisitions, and cost of goods sold for hardware sales. We delivered solid non-GAAP operating margins, 22.9% for the quarter and 23.5% for the year. GAAP earnings per share were $0.47 in Q4 and $1.73 for the year. 
+Non-GAAP earnings were $0.77 in Q4 and $3.02 for the year, an annual growth rate of 9%. We generated $148 million of operating cash flow for the quarter and $587 million for the year. We exceeded our original 2016 target due to strong collections and business levels throughout the year. 
+We ended the quarter with cash, cash equivalents, and short-term investments of $1.1 billion with 15% onshore and total debt of $205 million. Earlier this week, we renewed and expanded our credit facility to $650 million and took out a $150 million term loan, providing excellent flexibility to support our strategic goals. 
+In 2016, we used about 80% of our free cash flow for buybacks. As a result, we reduced share count by 3.3 million shares, and intend to slightly reduce it again in 2017. We have $435 million remaining on our current authorization.
+Operating cash flow is expected to be strong in 2017, with a target of approximately $500 million, even with an outflow associated with the recent acquisitions. We expect the quarterly profile to be similar to prior years, with a net outflow during Q1, driven largely by 2016 annual incentive compensation payments. 
+Before moving onto 2017 guidance, let me briefly comment on some of the details of the Cigital and Codiscope acquisitions, which were funded using a combination of U.S. cash and debt. They are expected to be modestly dilutive to 2017 non-GAAP EPS, and reach breakeven on a non-GAAP basis by the second half of 2018. 
+Now to first quarter and fiscal 2017 guidance which includes the impact of Cigital and Codiscope. For Q1, the targets are: revenue between $630 and $645 million; total GAAP costs and expenses between $540 and $558 million; total non-GAAP costs and expenses between $485 and $495 million; other income between $0 and $2 million; a non-GAAP normalized tax rate of 19%; outstanding shares between 152 million and 155 million; GAAP earnings of $0.43 to $0.50 per share; and non-GAAP earnings of $0.77 to $0.80 per share. 
+For 2017, revenue of $2.57 billion to $2.6 billion, a growth rate of 6% to 7%. Keep in mind as you model 2017, that hardware sales add variability to revenue, driven by the timing of customer requirements and shipments. Other income between $0 and $4 million; A non-GAAP normalized tax rate of 19%; outstanding shares between 152 million and 155 million; GAAP earnings of $1.92 to $2.06 per share; non-GAAP earnings of $3.16 to $3.23 per share, high-single-digit growth when the modest dilution from Cigital and Codiscope is excluded; capital expenditures of about $100 million; and cash flow from operations of approximately $500 million. 
+To help in your modeling, we expect second half revenue to be slightly higher than the first half, with Q4 the largest revenue quarter; total non-GAAP expenses to skew slightly toward the second half of the year; and second half non-GAAP EPS to be slightly higher than the first half, with Q2 the lowest EPS quarter.
+In summary, we continue to evolve our company to maximize long-term shareholder value. Our active diversification and investment strategies are working. We delivered very solid growth in revenue and profitability, and significant cash flow in 2016. We returned $400 million to shareholders in the form of buybacks. And we made the appropriate investments to drive sustainable, high-single-digit, non-GAAP EPS growth. 
+With that, Iâll turn it over to the operator for questions.
+Operator
+Alright, are we ready for questions?
+Trac Pham
+We are.
+Question-and-Answer Session
+Operator
+Alright. [Operator Instructions] Our first question comes from the line of Krish Sankar. Please go ahead sir.
+Krish Sankar
+Hi, thanks for taking my question, I had a few of them. Aart, number one, if I look at the annual backlog, it was down almost 2% year-over-year, even though the duration went up, can you just help us reconcile that? And then I have a few other questions.
+Aart De Geus
+Sure. Backlog is completely dependent on the timing of the very large deals, and given that we have a number of large customers that do multi-year deals, typically backlog will tend to go down until it goes back up. And so, from our perspective actually this turned out to be a very strong backlog year, and so we are very well on track with this.
+Krish Sankar
+Alright. And then the next one is, in terms of your Cigital and Codiscope acquisition, should we assume the revenue generated from that is roughly like $100 million for FY 2017? And along the same path, is this going to be similar to the Coverity from a few years ago where itâs probably $0.10 dilutive the first year and then turns accretive like a year and a half down the road?
+Trac Pham
+Hi Krish, this is Trac. Yes, Coverity did do about a $100 million for this year as we had expected. As far as Cigital and Codiscope I would model that roughly at half that business, and although itâs modestly dilutive to 2017, we do expect it to be accretive by second half of 2018.
+Krish Sankar
+Alright. And then, final question of my end is can you give us an update on how your digital landscape is shaping up, because one of your biggest competitors seems to have some pretty good wins or penetrations on the digital side, which has kind of been your strongest forte for several years. So, I want to find out what you guys are doing on that segment in trying to protect your market share. Thank you.
+Aart De Geus
+Well, in general the digit space is strong for us because the complexity that comes with chips with many more transistors and simultaneously fairly difficult to achieve performance and power objectives, demands the utilization of sophisticated tools, and this ranges by the way from the synthesis to the place & routes to older tools that are around that including of course all the verification tools as well.
+So, in that space, we have seen very good results, it is very competitive at any point in time, but we are also seeing that our technology this year has really strengthened substantially. So, this has been a very strong year, especially second half and as we enter into 2017 we feel that we are in a good position.
+Operator
+Our next question comes from the line of Rich Valera with Needham & Company. Please go ahead.
+Rich Valera
+Thank you. I just want to follow up on the backlog question. Aart, you said it was actually quite a strong year from a backlog perspective or presumably a bookings perspective, were you referring to sort of bookings run rate? Just wondered what you meant by that statement.
+Aart De Geus
+Well, our run rate is up periods, but when we look at bookings there is some years that have more, some years that have fewer large transactions and most of those are somewhat predictable in terms of their timing because of course they have on average about a three-year cycle, and so if in any given year, letâs say for argument sake you have one or two larger transactions that were to happen at the same time that in that year you would see the backlog spike up substantially and then consequently in the next two years after that by a natural utilization of the backlog. If I can call it that, you would see a decline. And so, against that complete understanding of where these things are, our statement is we had a very good year and we are in a very solid position in terms of the backlog that we have enhanced for predictability for 2017 for example.
+Rich Valera
+Got it. So for the deals you did book this year that were scheduled to book, you were pleased with the run rates of those deals, but there's some large multi-year deals out there that obviously didn't happen in this year. Got it.
+Aart De Geus
+Yes. And were not intended to happen in 2016, right.
+Rich Valera
+Right. That makes sense. And then, with respect to hardware, you had a pretty high level of upfront revenue again this quarter relative to historical presumably driven by hardware. Still thinking about the model in the same way, that was sort of 10% or less is still the target model going forward?
+Aart De Geus
+Yes this is roughly the target model we are moving forward with. And 2016 was very strong in terms of hardware, and so you never quite know exactly when the hardware comes in because it tends to be lumpy, but thereâs no question that from a technology point of view we have any solid situation and thereâs also no question that fundamentally all kinds of acceleration techniques in hardware are necessary for many of the very complex hardware software products that are coming to market. So, I think itâs going to continue to be a good area for all of the EDA vendors and specifically for us also.
+Trac Pham
+Hi Rich this is Trac, for modeling purposes you should feel comfortable that we will maintain the 90/10 model.
+Rich Valera
+Got it that makes sense. And then, for emulation, I think a quarter ago you mentioned - with hardware in general, a quarter ago you had mentioned not to get maybe too excited about extrapolating the growth you were seeing in hardware this year into next year. I'm wondering what in the end you decided to bake into the fiscal 2017 guidance with respect to hardware. Can you give us any sense of how you're thinking about that business on a year-over-year basis as we move into 2017?
+Aart De Geus
+Yes, I think that we are not too excited at the beginning of the year apply to Synopsys pretty much every year. We are by nature cautious as we look forward, but at the same time we do not see any decreasing demand for the technology, and so it may be spiky from one year to another. But fundamentally, it's a good business that we expect to continue to see good results in.
+Rich Valera
+Got it. Thanks very much, gentlemen.
+Aart De Geus
+Youâre welcome.
+Operator
+Our next question comes from the line of Jay Vleeschhouwer with Griffin Securities. Please go ahead.
+Jay Vleeschhouwer
+Thank you, good evening. Aart, let me start with you with regard to the semiconductor consolidation effect and how that all played out over the last year or so. So, thinking back to a year, year and a half ago, you and your peers were quite apprehensive when that first wave of mergers were announced and you were quite concerned about what the adverse effects might be on EDA, and now as it turns out, it perhaps wasn't so adverse after all, at least not as much as you might have thought sometime back. So what didn't happen is the question, in terms of what you had originally been apprehensive about that turned out not to be the case. And to the extent there is further semi-consolidations that we're not quite done with that. Do you think that in the future, such consolidation might be the same, not so terrible after all kind of outcome?
+Aart De Geus
+Well you know, I would almost like to start with what did happen and I think this is a statement thatâs probably true for the entire EDA industry, we worked really hard in light of seeing this happen. On the side of what did not happen is there was certainly no slowdown from a technology point of view. And so as much as these consolidations to some degree are set-up to try to reduce the overall cost equation for these companies, more often than not rather than getting the cost reductions what they do is spend the money immediately on just doing more demanding products and taking advanced technologies because they still want to differentiate themselves. 
+And so weâre fortunate enough at Synopsys to be positioned very close to the leading edge. Those are people that with or without consolidation they want to be differentiated and thatâs how we balance things. In my preamble and Iâm sure I must have used the same words a number of times in earnings releases in the past, I would say well you know, a consolidation is momentarily a headwind, but in the long term these companies are morphing or merging because they want to attack a new market and thereâs no question that if you look at the overall high-tech horizon that electronics plus software combined in the next decade will have profound impact, how it manifests itself for these companies while that is precisely what theyâre raising towards. And so I think we are part of this race one way or another even if during a merger the mandates from the top 10 to be safe money. The mandates then pretty quickly shift to become more differentiated and thatâs where we are playing. 
+Jay Vleeschhouwer
+Would you be willing to speculate on what the possible competitive effects might be seeing potential - pending, rather, acquisition of Mentor. Is it simply a matter of a new, much larger owner pouring money into R&D and/or sales that might incrementally make a competitive difference or how do you think about what the effects might ultimately be?
+Aart De Geus
+Yes, the word speculation is not really part of our vocabulary, I think in this context. I think the only positive is that this acquisition shows the value of EDA and I think hopefully it reflects well on all of us.
+Jay Vleeschhouwer 
+All right. Wrapping up for me on the technology side, it became increasingly apparent earlier this year that Synopsys was incrementally investing in design compiler. Well of course youâve always invested in it, but it looks like you were doing it incrementally. And to the extent that the synthesis market has been by and large sideways for the last number of years, what is it that you are aiming for with respect to the incremental investments in D.C? Do you think that there could be some new wave of growth at least for you in that part of the market?
+Aart De Geus
+I think if I look back at our - the entire history of Synopsys, which by the way in three weeks will be 30 years believe it or not, if thereâs one thing that we take some pride in is that for the vast majority 80%, 90% of our products we have in all these years always been at the state-of-the-art. 
+Now to stay at the state-of-the-art when you have that rate of change underneath implies a continual rotation of investments from one product to the other and from time-to-time there are bigger steps in many situations itâs just constant delivery of new capabilities and so this is true for our entire portfolio and that certainly includes the synthesis, it includes the timing, it includes the power optimizations, the place & route, etcetera, and so it should not be a surprise that we invest in these tools that are absolutely central to a modern digital design. 
+I mean these are the type of tools that has made the Mooreâs Law possible from a design perspective. And with our third decade finishing or not, the fourth decade is absolutely aimed at technology leadership and driving the state-of-the-art and making it possible again. So, we will continue to invest at a strong clip in R&D because that is how we have been successful as a company.
+Jay Vleeschhouwer
+Thanks Aart.
+Aart De Geus
+Youâre welcome.
+Operator
+Our next question comes from the line the Sterling Auty with JPMorgan. Please go ahead.
+Sterling Auty
+Thanks, hi guys. Let me approach the question this way. With the upfront becoming bigger each quarter through the year, positive comments around what hardware did for you this year, positive comments about IC Compiler II, it would seem like it leaves the rest of the core EDA software portfolio as the area that softened in terms of growth year-over-year. Is that the case, and what areas do you think you have the potential to turn in fiscal 2017?
+Aart De Geus
+Well you know, for a start 2016 of course was very strong from an hardware point of view so that may balance how one looks at different products a little bit differently. And then individual products themselves go through waves of being more central to the renewal of agreements or not. In general though I would say that we have a really well balanced product portfolio because with a very strong position in the core EDA that is central really the continuation of advanced chip design and system design, around that the verification is reaching into the software, the design tools are reaching deep down into the physics of silicon and the software itself is now an area that is seeing good investments.
+And so we very much look at the core EDA as one of the key things that is enabling yet another business, which is the IP business. And so when you look at it more as a portfolio at any point in time the balance shifts a little bit because one technology sort of enables the other. 
+Finally, you are looking back at 2016. This was a year where we can literally say and this is as much an aim that the internal team see as any area is that every one of our businesses did very well. And any given year some do better than others. This year we had across the board very good success.
+Sterling Auty
+Okay. And then on the acquisitions, if I heard the answers from the first questions correctly, it sounds like we should assume roughly $50 million in contributions for fiscal 2017 versus the $100 million that they did finishing up the year. Can you walk us through the accounting impacts in terms of the write offs, should that bounce back immediately to the $100 million level when we get to fiscal 2018?
+Trac Pham
+I don't think we were operating at that level to begin with, but yes, first of all you are right, it should be in that range after the Coverity business, the impact of that is a combination of the deferred haircut and the integration of the business over the next 10 months.
+Sterling Auty
+And how should that - is that something that we should see a gradual ramp through the year or up front loaded or hockey stick, as weâre layering this in the context of the guidance.
+Trac Pham
+I would model it more of a gradual rent throughout the year.
+Sterling Auty
+Okay, thank you.
+Trac Pham
+You're welcome.
+Operator
+Our next question comes from the line of Farhan Ahmad with Credit Suisse. Please go ahead sir.
+Farhan Ahmad
+Thanks for taking the questions. My first question is on the operating margin, in the past you've talked about operating margin improvement to 25% range over time. And just along the same line, if I think about your operating margin and include stock-based comp in there, you're operating at about a 20% operating margin. If I look at semiconductor industry and new customers in general, they're about 25% to 45% operating margin. I guess like EDA is a pretty consolidated space, so why aren't the operating margins higher and why aren't you aspiring for higher operating margins in general?
+Trac Pham
+No, we are aspiring for higher operating margins and we remain committed to driving margins through the mid-20s. As you are looking at this 2017 guidance and you separate out this Cigital and Codiscope impact, we would have grown margins very healthy from 2016 to 2017. Now the factoring in the dilution impact of that weâre going to see it roughly flat year-over-year, but the underlying health of the business is good and we are growing margins there.
+Farhan Ahmad
+Got it, thank you. And did you get a crate like how much is the total net impact to the EPS from the Cigital and Codiscope acquisitions?
+Trac Pham 
+A modest impact to EPS.
+Farhan Ahmad
+Is it like $0.10, $0.05, any color on the level of impact?
+Trac Pham 
+Modest impact to EPS.
+Farhan Ahmad
+Okay.
+Trac Pham 
+I would say that due to something to keep in mind is that net of that impact we would have been growing EPS in the high single digits.
+Farhan Ahmad
+Got it. Than I had question on custom compiler, you talked about some of the strong momentum in that area. How do you see that product growing and is that a growth driver for you over time and how it can become.
+Aart De Geus
+Yes it is a growth driver over time, but it starts from a very small base and the company right now round numbers is sort of at that 2.5 billion and so an individual small product does not have the impact to change with the overall revenue line really is markedly impacted. Nonetheless, it is an area that weâre gaining strength in that before we didn't have. And this is especially true in the conjunction with an outstanding analog mixed signal and custom verification set of tools and specifically in the area of FinFET and so we have good hopes actually for some really good results in 2017.
+Farhan Ahmad
+Thank you, that's all I had.
+Aart De Geus
+You're welcome. Thank you.
+Operator
+Our next question comes from the line of Tom Diffely with D.A. Davidson. Please go ahead.
+Tom Diffely
+Yes, good afternoon. Quick question on the software security side of the business, so following the two acquisitions, do you feel as though you're at critical mass today or are there pieces or scale that you still need? 
+Aart De Geus
+It does feel like we are heading towards some degree of critical mass and we are driving the business now towards profitability after the delusion issues that we will be passing and the reason I think we are starting to have critical mass is because we are seeing the deals that we are making grow in magnitude and the number of large deals is growing from quarter-to-quarter, but just as important from an operational point of view is, I think our sales team is now delivering significantly on their own projections, and that sounds like a trivial thing, but itâs actually not. 
+It is that we are increasingly on top of the market segment where we know what we are doing and where there is demand that is growing. Now having said that and you all know this, the word security occurs in so many different dimensions, and of course this is a world market with a much larger number of potential users than what we would have seen in EDA, initially of course at much smaller transactions sizes, but in a set of verticals that we have never touched in the past. 
+And so just to highlight one aspect of Cigital is they are particularly strong in the financial market, and that is a market thatâs while we had a number of successors in the past they were sort of, I don't want to say accidental, but they were not systematic to say the least. This changes that immediately and moreover because of the service nature and because of their ability to help do diagnosis at a higher level in a company of the general readiness for security, I think it gives us an entry point with the CIOs and CTOs of companies that we didn't have before. And so all of these pieces combined as we integrate them, I think we will start to feel like increasingly a critical mass and itâs a word that I like myself quite well.
+Tom Diffely
+Okay. And when you look into going into verticals like the automotive world, what is the long term business model look like there? Is it consulting, is it licenses is it royalty-based?
+Aart De Geus 
+Are you talking for security or in general?
+Tom Diffely
+For security.
+Aart De Geus 
+Well I think it is will be in many cases the entry point tends to be a bit random because companies are random in terms of how they certainly are dealing with security although if you look at automotive, ever since about 15, 18 months ago you may recall the jeep was hacked. That sent a shiver for the automotive industry that had for literally decades done an extremely good job at driving the engineering to be on top of safety. Well, overnight the software part became the Achilles' heel of safety and therefore very much top-down from those companies all the way from their boards got the mandate off we have to deal with this. 
+And this is precisely why the service business is helpful because if you get a mandate top-down in the company letâs say from the board of directors go deal with it first thing you need to do is to have sort of an assessment so where are you, and this is where Cigital has another key asset, which is over many years they developed a mechanism to assess in a number of dimensions the degree of security preparedness of companies. 
+And so that is a perfect entry point and that so-called v-sim maturity model can be used to then drive the dialogue to what should be the action taken and hopefully in those action rightfully so there would be a number of interactions with us on our products or additional services. So that is why I think all these pieces gradually fall into place, but itâs in new market and so there is a lot of learning and where there is lot of enthusiasm about what we close today.
+Tom Diffely
+Okay great. And then quickly on the consolidation of the customer base, so if you look back to 2016 as a whole, do you think there was an impact at all from consolidation on your results?
+Aart De Geus 
+Well itâs hard to say it didn't have impacts and itâs hard to point exactly at what the impact is because as I said earlier whenever two companies consolidate within three minutes later it is, while we have to save money to pay for the premium that we just gave out. And you know consolidation is fundamentally either a move towards efficiency, strict economic efficiency, or it is a move towards and thatâs why I like these words critical mass horizontally be bigger in a market and therefore another way to be efficient or it is move towards vertical critical mass meaning heading towards verticals that before company couldn't reach or with the value proposition is moving up to stack.
+And so as companies navigate through just the hard practical integration and money saving phase, very quickly they end at what is it that they want to accomplish and not that means immediately money spending, but it certainly means immediately helping with differentiation. And thatâs why as much as these transitions initially are a headwind we've navigated recently well through them, I would say.
+Operator
+Our next question comes from the line of Monika Garg with Pacific Crest Securities. Please go ahead.
+Monika Garg 
+Thanks for taking my question. Trac listed on the CFO last year cash from operations was $587 million, you are guiding $500 million this year, shouldn't cash from operations grow in line with operating income?
+Trac Pham
+Yes over time you should model you should assume that cash from operations should track EBITDA less cash taxes, but as we said in the past it will vary from year-to-year. 500 million we think is still a very healthy level of cash flow for the year. Keep in mind when we entered 2016 we guided to about 500 million and we over achieved that by over $80 million. So the comparison is a little bit tough year-over-year. The second thing to keep in mind is that we think there is roughly $30 million headwind on cash flows this year as a result of the dilutions and cash outflows related to the acquisitions, and then timing of some early payments that shifted from one quarter to next, or year to next.
+Monika Garg 
+Okay. Excluding these two acquisitions you just announced, how big is software security segment for you and excluding these two, is it possible now?
+Trac Pham 
+Coverity did end up close to where we expected to end up at 100 million, it was modestly dilutive as a result of some of the acquisitions that we made earlier this year, but itâs trending very well in terms of growth and profitability. The Cigital, I think you asked for the side, Cigital and Codiscope is about half of that business.
+Monika Garg 
+Got it. Then if I look at IP and systems segment, grew 17% year-over-year, could you maybe split the growth between IP and systems in it?
+Trac Pham 
+No we won't split that out, but roughly the growth in those businesses are in line with the models that we previously communicated. And in general, I would add that both areas are doing very well and the IP business in particular saw a very, very good growth this year largely because complexity demands alternatives to design in one of the key alternatives is to buy those blocks that you can get on the market and that are cost efficient and while at the same time being super high performance and low power. And that is exactly the collection of IP that we have.
+Monika Garg 
+Got it. Last one on the emulation you said, it was the fastest growth in the industry cadence, also had a very strong year. Could you maybe talk about what was the growth for your business and emulation, how big is that now?
+Aart De Geus
+We are well aware of that the overall industry I think is doing very well in emulation, and the reason for that are in some way straightforward, which is the complexity of the chips for those people that provide emulation more on the silicon verification side or the sheer amount in complexity of the software for those people that are maybe more focused on the software side or those that are working in between the hardware and software in all three cases is up substantially. And I don't have to tell you that the value of over the cost of not getting to market on time because the hardware and the software done don't quite work together, it is extremely detrimental. Therefore, I expect that the investments in this area will continue and itâs a very competitive market, but speaking up for Synopsys, I think we are well positioned.
+Operator
+[Operator Instructions] Iâd now like to turn the next question over to Gary Mobely with Benchmark. Please go ahead.
+Gary Mobely
+Hi everyone thanks for taking my question. Most of the questions have been asked and answered, but I did have a question about the value of M&A during 2016. I know in the past you disclosed that. I'm not sure if it was in the 10-K filing, or if it is in your supplemental materials published today, but could you share with us what the total dollar amount paid for M&A was in 2016?
+Aart De Geus 
+Well normally we don't disclose it unless it is material to the overall results. Relatively speaking it was not a super high year of M&A and maybe the best is if we get back to you later because we don't have the numbers in front of us actually.
+Gary Mobely
+Fair enough. I don't know if this is the right venue to delve into the topic deeply, but could you maybe give a quick overview on your opinion and your assessment of the likelihood of some of the proposed accounting changes in the revenue recognition issues as it impacts Synopsys?
+Trac Pham
+Hi Gary. So weâve been actively working on that over the last few years and right now we are fairly confident that we should be able to maintain the rate of a model for our business. There is obviously some details remaining to work that out and actually the implementation of that is going to be fairly complex, but for the most part we are confident that we should sustain the model.
+Gary Mobely
+Okay. Last question for me, the upfront licensing cost - I'm sorry, upfront licensing revenue that showed up as well in the IP systems and software integrity group and as well showed up in your accounts receivable with the spike there. And so, I was wondering if there were any other factors that drove up the spike in upfront besides emulation? Did you see maybe perhaps spike in IP licensing or maybe a large software integrity license deal?
+Trac Pham
+Yes the upfront, the strong upfront in Q4 were functioning both hardware and IP that was recognized on a perpetual basis or up fronts.
+Gary Mobely
+Alright. That is it from me. I appreciate you taking the questions, thanks everyone.
+Trac Pham
+Gary just a follow-up to your earlier question, the cash outflow for M&A was about 60 million for 2016.
+Gary Mobely
+Alright. Thank you.
+Aart De Geus
+I guess we are arrivingâ¦sorry.
+Operator
+Our next question comes from the line of Mitch Steves.
+Unidentified Analyst 
+Sorry, quick one and thanks for letting me get on here. So for the revenue guidance you guys are talking about 2,585 [ph] kind of is the midpoint, that implies 4.5% growth if I take out the $50 million. So can you mirror that with your comment about mid single digit growth in Cordier, and then double digits in the IP and systems piece, because I think that would be north of around that 4.5% mark organically.
+Aart De Geus 
+Obviously there is always variability from year-to-year, remember that in 2016 we had a very strong hardware year and that is quite lumpy, so for your earlier question we want to be a bit conservative given that these things are very hard to predict. But fundamentally, I think we feel ourselves that we are coming into 2017 in a stronger position than we enter 2016. And so now of course the proof is in the putting and there is a lot of work to be done, but that sort of is the way it feels to us right now.
+Unidentified Analyst 
+Okay, got it thank you.
+Aart De Geus 
+You're welcome. Well I think we have reached the turn of the hour. So I would like to thank all of you for not only attending this earnings release, but for closing yet another year. We are thankful that we had a strong year, we are thankful to our employees, our customers, our partners, but also to you for following us and reporting on our endeavors. We are heading into 2016, 2017 with a good confidence and a lot of exciting things to do. And so we hope to have you on the next earnings call, sometime next year. Thank you very much.
+Operator
+Ladies and gentlemen that does conclude our conference for today. Thank you again for using the AT&T executive teleconference service. You may now disconnect.

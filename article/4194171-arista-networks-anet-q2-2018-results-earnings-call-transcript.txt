@@ -1,0 +1,424 @@
+Arista Networks, Inc. (NYSE:ANET) Q2 2018 Earnings Call August 2, 2018 4:30 PM ET
+Executives
+Chuck Elliott - Arista Networks, Inc.
+Jayshree Ullal - Arista Networks, Inc.
+Kenneth Duda - Arista Networks, Inc.
+Ita M. Brennan - Arista Networks, Inc.
+Analysts
+James E. Fish - Piper Jaffray & Co.
+James E. Faucette - Morgan Stanley & Co. LLC
+Samik X. Chatterjee - JPMorgan Securities LLC
+Sami Badri - Credit Suisse Securities (USA) LLC
+Simon M. Leopold - Raymond James & Associates, Inc.
+Alex Henderson - Needham & Co. LLC
+Jason N. Ader - William Blair & Co. LLC
+Aaron Rakers - Wells Fargo Securities LLC
+Jim Suva - Citigroup Global Markets, Inc.
+Steven Enders - KeyBanc Capital Markets, Inc.
+Paul Silverstein - Cowen & Co. LLC
+Mitch Steves - RBC Capital Markets LLC
+Rod Hall - Goldman Sachs & Co. LLC
+Jeffrey Thomas Kvaal - Nomura Instinet
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Erik L. Suppiger - JMP Securities LLC
+George C. Notter - Jefferies LLC
+Hendi Susanto - Gabelli & Company, Inc.
+Operator
+Welcome to the Second Quarter 2018 Arista Networks Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website following this call.
+I will now turn the call over to Mr. Chuck Elliott, Director of Business and Investor Development. Sir, you may begin.
+Chuck Elliott - Arista Networks, Inc.
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks' President and Chief Executive Officer; and Ita Brennan, Arista's Chief Financial Officer.
+This afternoon, Arista Networks issued a press release announcing the results for its fiscal second quarter 2018. If you would like a copy of the release, you can access it online at the company's website.
+During the course of this conference call, Arista Networks' management will make forward-looking statements, including those relating to our financial outlook for the third quarter of the 2018 fiscal year, industry innovation, our market opportunity, the benefits of recent acquisitions and the impact of litigation, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements. These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call.
+Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+With that, I will turn the call over to Jayshree.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Chuck. Thank you, everyone, for joining us this afternoon for our second quarter of 2018 earnings call. I'm pleased to report that we had a record Q2, surpassing the $500 million mark. We exceeded our guidance comfortably with a non-GAAP revenue of $519.8 million as we grew more than 28% year-over-year despite tough comparisons from 2017. Our non-GAAP earnings per share was $1.93, with services contribution at 14.4% of overall sales.
+From a geographic perspective, our customers in the Americas contributed 73% of our total revenue, while the rest of the international theaters performed reasonably well. We delivered non-GAAP gross margins of 64.5% in a dynamic industry, exceeding our forecast due to customer mix.
+In terms of vertical trends, our top 10 customers included all five verticals. Cloud Titans contributed strongly in Q2 and ranked as our number one vertical, followed by enterprises and cloud specialized providers at number two, and financials and Tier 1, Tier 2 service providers tied for third place.
+Our new customer acquisition continues to be brisk and our million-dollar customers continue to be healthy as well. And we're especially pleased with the software and services acceptance with CloudVision customers.
+In terms of new introductions in Q2, we had an Analyst Day on May 7, 2018. Arista introduced our formal entry into the campus market with our Spline products and the Cognitive Management Plane architecture.
+And so, you might be thinking why did we enter this market. And the simple fact is our customers have been asking us to do so for some time. They have been deploying Arista products in campus use cases already to take advantage of Arista EOS quality and our state-driven software architecture.
+Overcoming the legacy three-tiered model from the market incumbents, the Arista X3 Spline is another example of disrupting the status quo. We're collapsing the aggregation and co-layers into a single tier.
+Chassis and fixed form factors are now available in Q3 2018 with wire speed Layer 2, Layer 3 switching rates and a cognitive suite of campus control, such as high resilience, secure segmentation and scale options for different range of protocols for L2, L3 and L2 over L3.
+The Arista Cognitive Campus also works with a diverse suite of edge devices including third-party. Today, Arista is also announcing its first acquisition, Mojo Networks, to expand into the Cognitive WiFi edge. We believe, the cloud-managed Cognitive WiFi is a very natural complement to our next-generation campus and cloud networking portfolio.
+I want to take this opportunity to warmly welcome Rick Wilmer, the CEO of Mojo Networks; and Pravin Bhagwat, Founder and CTO of Mojo; as well as the entire Mojo team to the Arista family. This transaction will close in Q3 2018, and I expect this to be accretive in 2019.
+At the core of our campus strategy is our powerful Cognitive Management architecture, whereby by the network auto discovers connected devices, applications and streaming data. CMP, based on CloudVision, assesses profile-based parameters such as configlets, bandwidth, packet size, inter-packet gap, open ports, white lists, et cetera.
+I could go on and on, but I would like to invite our chief guest, the Chief Technology Officer of Arista, Ken Duda, and our Senior VP of Software Engineering to say a few words. Ken?
+Kenneth Duda - Arista Networks, Inc.
+Thanks, Jayshree. With the CloudVision Cognitive Management Plane, Arista is fundamentally advancing the way networks are operated and managed. CloudVision gathers all network state to a single place, keeping historical information as long as the customer wants it and analyzing and learning from all of that state.
+Operators enforce network-wide policy centrally, and CloudVision autonomously ensures that policy is implemented correctly across the entire network, plugging any compliance issues and creating workflows applied on approval to bring devices back into full compliance.
+What sets CloudVision apart is the confidence that it brings; confidence that things are working and working the way you expect. So you can now imagine how delighted we were to integrate Mojo Networks technology. Mojo pioneered Cognitive WiFi, in which WiFi state streams from access points to a centralized open source data store for analysis.
+By itself, it's a big help for network operators, helping with capacity planning, upgrades, troubleshooting performance issues. But in combination with CloudVision, it's even better. We can now extend CloudVision's reach enterprise-wide from the WiFi client across the campus to the enterprise data center and all the way to the cloud.
+This gives CloudVision customers a single pane of glass through which they can see everything going on, end-to-end, through their network. They can use one system that both ensure security compliance for physical switching and also generates alerts about WiFi connection issues. They can apply the same security policies to network edge, whether that edge is wired, wireless or virtual. They can monitor for unauthorized or misbehaving IoT devices, again, wherever and however connected.
+But at a higher level, our campus strategy is very simple. We're bringing the benefits of Arista's data center switches to the enterprise campus. These benefits are high-quality, trouble-free devices, a single software image across all switches for consistency and simplicity of operations and cognitive management, lowering operational costs through automation and providing advanced compliance visibility and telemetry features.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Ken. Your passion and enthusiasm on technology is always infectious. So I want to get that CMP right now and install it at home. We are witnessing an architectural shift in the campus that's really similar to the data center migration. When you look at what we're doing, it's an important step to what's taking these silo places-in-the-network, or PINs, of yester years to the cloud-first strategy with PICs, or places-in-the-cloud, as an important evolution to our customers.
+During this time, we remain committed to our HPE/Aruba partnership for mutual customers and to also promote open and multi-vendor interoperability. In Q2, we also introduced an exciting programmable product, the Arista 7170. The new 7170 Series is bringing a new generation of programmable packet processors with 64 ports of 100 Gigabit Ethernet, all in a single, fixed leaf form factor using a new merchant silicon vendor, Barefoot Networks, to make this possible.
+Traditionally, building such a chip that was both programmable and extremely fast wasn't so doable without trade-off. But with the Arista 7170, this defies tradition. It's integrating a suite of capabilities that previously ran on a host or VM or NIC into single, one rack unit switch.
+Examples of this programmability include advanced Layer 4 to Layer 7 features, tunnel termination, traffic filtering, network address translation and deeper packet inspection. The 7170 embodies Arista's EOS cognitive features at scale with modern P4 language. Use cases include tunnel scaling and multi-tenant data center, applying network security segmentation, real-time network telemetry, time-stamping, visibility and packet capture.
+As I look at our progress in Q2 2018 and in fact step back and reflect on the first half of 2018, I'm pleased by our progress on many fronts as we have moved from point products to software-driven cloud platforms with best-of-breed capabilities.
+We're gratified by the continued recognition from Gartner as the leader in their Magic Quadrant for Data Center Networking for the fourth consecutive year, as well as Forrester's (10:15) Wave Leader in the Hardware Category with the top score. Arista was also recognized by Forbes as a Global 2000 Company for the first time in June 2018.
+Clearly, we're one of the fastest growing networking companies in recent history achieving $2 billion in annual revenue run rate with profitability metrics. I'm definitely excited by our future ahead.
+With that, I'd like to turn it over to Ita, our Chief Financial Officer, for more financial specifics. Ita?
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Jayshree, and good afternoon. This analysis of our Q2 results and our guidance for Q3 2018 is based on non-GAAP and excludes all non-cash stock-based compensation impacts and impairment of our private company equity investments and legal costs associated with the ongoing lawsuits. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+Total revenues in Q2 were $519.8 million, up 28% year-over-year and above our guidance of $500 million to $514 million. We were pleased with overall demand in the quarter, with ongoing strength from our cloud titan vertical. Service revenues for the quarter were approximately 14.4% of revenue, up from prior periods and reflecting higher renewal activity.
+International revenues for the quarter came in at $142 million or 27% of total revenue, down from 33% in the prior period. The lower international mix on a quarter-over-quarter basis primarily reflected the timing of some cloud deployments and the inclusion of some larger in-region EMEA deals last quarter. Our international base is still relatively small and will experience some volatility on a quarterly basis as the business develops.
+Overall gross margins in Q2 were 64.5%, up from 64.4% last quarter and above the midpoint of our guidance of 62% to 64%. This outperformance versus guidance primarily reflected increased leverage on our fixed cost base in the quarter.
+Operating expenses for the quarter were $143.9 million, up from $137.4 million last quarter. R&D spending came in at $92.3 million or 17.8% of revenue, up from $91.4 million in the prior period with increased head count and related expenses.
+Sales and marketing expense were $39.9 million or 7.7% of revenue, up from $36.2 million last quarter, reflecting increased marketing and demo-related expenses. Our G&A costs included some legal and accounting fees associated with the Mojo acquisition announced today.
+Our operating income for the quarter was $191.2 million or 36.8% of revenue. Other income and expense for the quarter was a favorable $6.9 million, and our effective tax rate was 21.4%. This resulted in net income for the quarter of $155.7 million or 30% of revenue.
+Our diluted share number for the quarter was 80.8 million shares, resulting in a diluted earnings per share number of $1.93, up 44% from the prior year. Legal expenses associated with the ongoing lawsuits came in at $3.6 million for the quarter.
+In addition, we recorded a $9.1 million impairment of our private company equity investments reflecting a valuation adjustment based on our recent funding round. Both of these amounts are excluded from the non-GAAP results discussed above.
+Now, turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at approximately $1.9 billion. We generated $130.6 million of cash from operations in the June quarter. This reflects strong net income performance, offset by changes in working capital requirements.
+DSOs came in at 46 days, up from 39 days in Q1, reflecting the timing of billings and collections in the quarter. Inventory turns were 2.7 times, up from 2.2 times in Q1. And inventory decreased to $245.4 million in the quarter, down from $268.1 million in the prior period. This reflects reductions, primarily in finished goods, as we continue to optimize our supply chain. In addition, we maintained a further $25.3 million of inventory deposits recorded in other assets, compared to $24 million last quarter.
+Our total deferred revenue balance was $448.6 million, down from $456.1 million in Q1. Product deferred revenue declined by $15 million in the quarter, with customers completing final 945 related qualifications.
+At this point, we believe we've reached a somewhat normalized level of product deferred revenue. And while the underlying transactions will cycle on a quarter-by-quarter basis, the magnitude of the balance should stabilize. Accounts payable days were 26 days, down from 38 days in Q1, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $6.7 million.
+Now, turning to guidance. As we look forward to the remainder of 2018, we believe that we are well-positioned to benefit from the continuing growth in cloud networking across our customer base.
+Our revenue guidance for the third quarter is consistent with our previous outlook which caused a mid-20% revenue growth for the second half of the year. The operations team is currently working to understand and attempt to mitigate any potential gross margin headwinds related to the trade tariff announcements. We would ultimately love to pass on any unremediated cost to customers.
+We announced earlier today that we're acquiring Mojo Networks. This represents a small, but strategic transaction which we expect to play an important role in our overall expansion into campus. We're just beginning the business and accounting integration and the acquisition will be recorded in our financials for the third quarter.
+With this as a backdrop, our guidance for the third quarter, which is based on non-GAAP and excludes any non-cash stock-based compensation impacts and any legal costs associated with the ongoing lawsuits, is as follows: revenues of approximately $540 million to $552 million; gross margin of approximately 63% to 65%; operating margin of approximately 32% to 34%.
+Our effective tax rate is expected to be approximately 21.5%, with diluted shares of approximately 81.1 million. Please note that based on our current outlook, we expect costs associated with the ongoing lawsuits to be approximately $6 million for the quarter.
+I will now turn the call back to Chuck. Chuck?
+Chuck Elliott - Arista Networks, Inc.
+Thank you, Ita. We are now going to move to the Q&A portion of the Arista earnings call. Due to time constraints, I'd like to request that everyone please limit themselves to a single question.
+Question-and-Answer Session
+Operator
+We will now begin the Q&A portion of the Arista earnings call. Your first question comes from James Fish with Piper Jaffray. Your line is open.
+James E. Fish - Piper Jaffray & Co.
+Hey. Congrats on the quarter here and congrats on the deal as well with Mojo Networks. I'll just keep it to one question, as requested. I guess maybe just to start off, can we talk about what you're seeing in terms of traction in the campus and where we are with the enterprise investments and sales buildup for the campus? Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, James. As you know, if you were here in May, we announced a vision and we said products would really be in second half. And as you rightly point out, a lot of the interest in the campus is directly tied to enterprise customers. Many enterprise customers have already been using us in the data center with our EOS and want to have a common Spline architecture for both their campus edge and their data center edge. So those products are rolling out in Q3. So we're in very early sampling with customers. And I don't expect material engagement with them in the second half, but I expect a lot of customer interest. And really the material impact of that will be next year.
+So far, it's a very promising. There is a lot of interest. There is a lot of also commonality in protocols because the work we're doing with VxLAN, EVPN, BGP protocols, plain old fashioned VLAN with MLAGs, looking back and what we did in the early years, are all applicable in the campus. And we're also working closely with HPE and their POE switches and Aruba wireless as well to make sure they work with our Spline.
+James E. Fish - Piper Jaffray & Co.
+Okay. And on the investment side of that?
+Jayshree Ullal - Arista Networks, Inc.
+What was the question?
+James E. Fish - Piper Jaffray & Co.
+How far along are we in terms of...
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. No, we're just starting. Manny Rivelo is driving a lot of this investment. It's part of our sales and marketing investment, in general, in expanding both to channels and putting more presence in the enterprise. I would say, every region is making a strong investment there. And we've already started that activity since May.
+James E. Fish - Piper Jaffray & Co.
+Got it. Thank you.
+Operator
+Your next question comes from James Faucette from Morgan Stanley. Your line is open.
+James E. Faucette - Morgan Stanley & Co. LLC
+Thanks. I will also keep my question to one, mainly because Chuck said please. Jayshree, I'm wondering if you can comment just on the general macro environment. We have a lot of conversations with investors about kind of what the demand picture, particularly from hyperscale, looks like? And what the competitive environment is, if there is changes there from existing competition or from white box? So just like to hear kind of how you're viewing both the demand and competitive side of the market, particularly for hyperscale customers?
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, James. Is James the popular name today for questions? So macro environment for cloud titan, so cloud hyperscale in general, is good and healthy. They continue to be our number one vertical both in Q1, Q2, and I anticipate that's going to be the same in second half. With the certifications, the worst of it behind us and much of the cloud spend available, it's always competitive, it's always dynamic.
+But I think Arista is strongly considered and continues to be considered an important partner and vendor for the cloud titan. So I have not seen any appreciable change in the competitive landscape. I think we have strong spending that we can expect from them throughout this year.
+And the white box is a white box. Meaning, some of them have captive implementations in their own sites and have had it even before Arista was founded. And we continue to work with them in several tiers, but nothing new there as well.
+James E. Faucette - Morgan Stanley & Co. LLC
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, James.
+Operator
+Your next question comes from Samik Chatterjee with JPMorgan. Your line is open.
+Samik X. Chatterjee - JPMorgan Securities LLC
+Hi. Thanks for taking my question. I just wanted to ask on the acquisition. Can you share some details on Mojo Networks and the pipeline of customers that they're already working with? And what is kind of your expectation in terms of revenue synergies from this transaction?
+Jayshree Ullal - Arista Networks, Inc.
+I'll give it my best shot. It's very early days. What's fascinated us about Mojo is, as you know, we believe the cognitive edge for the campus is changing significantly. And in the past, WiFi was always a second class citizen to wired. You never talked about performance of WiFi in gigabits. It was always megabits or very small speed. And what we're seeing now with 802.1AX and performances in general is WiFi is approaching multi-gigabit speed just like wired is.
+So the synergy for us is to really focus on making Mojo a software-based acquisition, where we care less about the access point and we care more about the cognitive control, the integration into CloudVision, and Ken's CMP architecture. And the importance of bringing all of this cognitive control is not just to the Spline, but to the WiFi edge.
+The company has been around a long time. They have a deep expertise in not only WiFi, but also on security with their Wireless Intrusion Protection services. And, Ken, you're with us in the room and you spent a fair amount of time on the due diligence. Maybe you want to add a few words to that? What do you think the promise of Mojo is?
+Kenneth Duda - Arista Networks, Inc.
+We just felt very good alignment with the Mojo team from a technical architecture point of view. That the state management approach that we have pioneered in EOS, they've done something similar on the WiFi management side. And so, we just felt like it's going to be really exciting to make our products work together as a seamless group.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Samik X. Chatterjee - JPMorgan Securities LLC
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Samik.
+Operator
+Your next question comes from Sami Badri with Credit Suisse. Your line is open.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Thank you. My question has more to do with operating margins. And I know given the campus switching opportunity, you will be scaling the channel â or given an opportunity â should we expect operating margin in the corporate level to converge down to where you guided to it at your Analyst Day, more on the 32% to 34% range? Just want to get some perspective on that and the plan as far as sales and marketing spend, given you just came in above 36%?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean, I think we'd still revert back to â over the long-term we see the model is being the 32% to 34%. And within that, we've talked about the different level of investment with sales and marketing being in the 10% range. That doesn't happen overnight, right? I mean we have to grow into it. So it is going to take time. And, obviously, it depends on what the top line is doing at the same time.
+But I think that's still kind of the longer-term model is that it would be 10%, plus or minus sales and marketing investment. And we think, with that, just given the different parts of the business, that can support an adequate investment from a sales and marketing perspective in the enterprise/campus part of the business.
+Jayshree Ullal - Arista Networks, Inc.
+And you may recall, Ita shared this at Analyst day, that in the sales and marketing, we expect the enterprise in international to be higher than the averages. We expect the cloud to be lower than the averages because it's a very technology-driven support and sales model. So, obviously, they'll be moving parts on different verticals there.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Got it. And then, just one follow-up related to one of your peers noting that cloud deals got pushed out. Is Arista Networks seeing a very similar dynamic with key customers?
+Jayshree Ullal - Arista Networks, Inc.
+No.
+Sami Badri - Credit Suisse Securities (USA) LLC
+Got it. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Operator
+Your next question comes from Simon Leopold with Raymond James. Your line is open.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Thank you for taking my question. On the last call and at the Analyst Meeting, Andy had made some comments about, I guess, an inflection point in 100-gig. I'm wondering if we could get a little bit more color on your trends in terms of 100-gig ports, whether you're seeing some kind of inflection point? And whether this helps your overall ASPs grow? And whether this is an element helping your overall cloud business?
+Jayshree Ullal - Arista Networks, Inc.
+Okay. Thanks, Simon. Well, I think it's safe to say Arista has really emerged in the last year as a market leader in 100-gig. When you look at all the ports we're driving and the associated ASPs, most market analysts would have us â Mark Foss was showing me some data â anywhere from 35% to 45-plus-percent in market share. So we are the number one in 100-gig and have been for the entire 2017. We haven't seen that change in 2018.
+I think the reasons for that are many, and Andy is absolutely correct. 100-gig ends up being that common denominator of spine aggregation of (26:31) aggregation that's just perfect for many use cases. It can be a value server aggregation, it can be storage, it can be campus, it can be security.
+So I guess when you say inflection point, we see a continued inflection point for the next several years, is probably the way I would see it, that is just infecting for quite a while here. And that as 400-gig comes in, in 2019 and 2020, 100-gig continues to be vibrant. So we see the two working in tandem in the later years, but currently 100-gig is very, very strong. And...
+Simon M. Leopold - Raymond James & Associates, Inc.
+Are there metrics you can share in terms of percent of sales or percent of ports, something to help us understand that?
+Jayshree Ullal - Arista Networks, Inc.
+So depends on the vertical. But to give you a general sense, in the cloud vertical, 100-gig is extremely important. I can't think of a single cloud use case where we don't discuss, implement or deploy 100-gig in the leaf or spine. In the enterprise, it can vary. 10-gig can be very important then and they may sometimes look at 40-gig. But we're quickly starting to see the early adopters of enterprise also embrace 100-gig. But that's where it can vary a little bit.
+The other big thing we're seeing is, you can see quite an excitement in the cloud environment on modular 100-gig which is stronger, with particularly the large scale cloud operators base lining on a large amount of ports. So the scale of 100-gig is far greater.
+But at the same time, when you go into some of the Tier 1, Tier 2 service providers, we're seeing a lot of 100-gig in the data center or in the residential homes as well. So I guess the net of this is, we see that high-performance 10-gig, 25-gig, 40-gig, 100-gig is very much Arista's strong suite with a much stronger position in 100-gig itself.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Simon.
+Operator
+Your next question comes from Alex Henderson from Needham. Your line is open.
+Alex Henderson - Needham & Co. LLC
+Great. Thanks. I'm hoping you will give us a little bit more granularity on the acquisition's contribution, given the fact that it's going to close, according to the press release, in the third quarter. What is included or not included in the guidance for it? And the other data point I was looking for was the aggregate enterprise business. If you aggregate all of the various enterprise verticals, what was the growth rate in enterprise year-over-year in the quarter just reported? Thanks.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I don't know that we're going to give the exact growth rate quarter-over-quarter, but it was healthy, right? I mean enterprise was â are in the â kind of tied for the number two slot in our verticals and it continued to grow healthily, right?
+When you think about the acquisition and incorporating it into the numbers, this is a software model; it's a ratable model. So particularly as you work through some of the purchase accounting, et cetera, it's going to have not a very significant impact in the numbers in Q3.
+So I think, for now, you can take the guidance as is and expect it not to change just because of the acquisition. I mean, going forward, obviously, it will be a contributor to our software ratable revenue stream in the future. But I think for Q3 and the guidance, you should just take the guidance as is.
+Alex Henderson - Needham & Co. LLC
+What about on the cost side of the equation for that? I assume that costs are already there?
+Ita M. Brennan - Arista Networks, Inc.
+I'd be inclined to say it's something similar, right? We will have the cost there for â it's effectively less in the quarter, right, because we â it won't be there for the whole quarter. So it will be easily absorbed into the guidance that we gave you already.
+Alex Henderson - Needham & Co. LLC
+Okay. Thank you.
+Operator
+Your next question comes from Jason Ader with William Blair. Your line is open.
+Jason N. Ader - William Blair & Co. LLC
+Yeah, thanks. Hi, guys. For your campus strategy, how should we think about the wiring closet? The Mojo acquisition obviously shows that you felt that you needed wireless to bolster your campus offering. Should we expect to see wiring closets switches from Arista, ultimately?
+Jayshree Ullal - Arista Networks, Inc.
+I think we're approaching the campus, Jason, in a very steady, systematic manner similar to the way we did the data center. So we're not married to the entire campus portfolio coming from Arista. HPE is a good partner for us. So our first approach will be the Cognitive Management Plane and Spline. Our Phase 2 approach will be in wireless end points or edges that require that. And depending on how we do, we don't rule out the possibility of entering deeper in the market. But we're not making any road map suggestions or announcements here.
+Jason N. Ader - William Blair & Co. LLC
+Okay. Sorry, just quick one. How did Aruba respond to this?
+Jayshree Ullal - Arista Networks, Inc.
+We've had a three, four-year partnership. This is a very professional partnership, and there is also a deep friendship. This partnership is well beyond the Mojo acquisition. We're working very closely in the data center and we will continue to work together in the campus as well. So they understand our strategy and we understand theirs, and we work together. And 90% of it is complementary.
+Jason N. Ader - William Blair & Co. LLC
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Operator
+Your next question comes from Aaron Rakers with Wells Fargo. Your line is open.
+Aaron Rakers - Wells Fargo Securities LLC
+Yeah. Thank you for taking the question. One of the things I didn't hear a lot of on this call at this point has been your router business. I'm just curious if you have any update as it relates to the traction in the router market? And then, in particular, how should we think about the next phase, if you will, of expansion of opportunities in that router market? Is that tied to things like Jericho 2 silicon or is there other things that we could look at over the next 12 months or so to say that, hey, Arista is expanding further?
+Jayshree Ullal - Arista Networks, Inc.
+No. Thanks, Aaron. I should have said a little bit more. We are very proud of our focus on routing. As you know, we don't need to wait for Jericho 2. Arista is already making great inroads with the FlexRoute licenses we have, and it has grown steadily quarter-over-quarter.
+You might know that we ended the last year reporting that we were over 200 FlexRoute licenses. And rather than reporting it quarter-over-quarter, since it's no more new, I told you guys I'll come back to you at end of the year. I fully expect we will double that. And I fully expect we will continue to see new customers like we do every quarter.
+The customers come in a variety of categories. They come in terms of new use cases in the cloud, to new enterprises, to, of course, Tier 1 and Tier 2 service provider. If there is an area I would challenge myself and the team to do better, it's probably service providers. They take a little longer and it certainly tested Arista's patience. I think technologically we're doing very, very well with them, but operationally it takes longer to test and deploy.
+Aaron Rakers - Wells Fargo Securities LLC
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Aaron.
+Operator
+Your next question comes from Jim Suva with Citi. Your line is open.
+Jim Suva - Citigroup Global Markets, Inc.
+Thank you so much for the details thus far. Just one question from me. And if I heard the prepared comments correctly, it was kind of no change to 2018 outlook. But I'm just trying to bridge the different pieces here, you just beat (34:20) in a very impressive way. Organically, you added on an acquisition that's going to close in Q3, but you mentioned no change really to Q3 or 2018. So are you seeing some softness in your order book going forward? I mean your deferred revenues came down some and you are saying no change, yet you have an acquisition (34:42), so I am just trying to put those all pieces together. Thank you so much.
+Ita M. Brennan - Arista Networks, Inc.
+Yes. If you look at what we did, we grew 28% in Q2. We guided 26% of the upper end of the range. And then, we'll see what we do from there. The acquisition, like I said, it is a software model. So it will be a ratable rev rec model. So we need to work through some of that. But it's not likely to be a big driver of top line just because we'll have to do some of the purchase accounting on their deferred and then it will be ratable model from there on, right?
+But I think we're looking at â we think we're still consistent to our mid-20% for the back half of the year. The upper end of the guidance â the upper end of the range is a 26% growth rate, and then we'll see what we do from there. But I don't think we've seen any particular softness in the business.
+You would have heard my comments on deferred revenue. I think the deferred revenue is stabilized now. So the Q3 guide should not benefit from deferred â or from a decline in product deferred. It should stand on its own. So I think we're pretty happy with that as a guidance case, and then we'll go up from there.
+Jim Suva - Citigroup Global Markets, Inc.
+Great. Thank you so much for your details. Much appreciated.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, James.
+Operator
+Your next question comes from Alex Kurtz with KeyBanc. Your line is open.
+Steven Enders - KeyBanc Capital Markets, Inc.
+Hi. This is Steve Enders on for Alex. Thanks for taking my question. I was wondering if you could categorize the transitioning in cloud titan spend at this point? Is it more coming from new data center build-outs? Or is it more about expansion of existing footprint?
+Jayshree Ullal - Arista Networks, Inc.
+Steve, it's always a combination of both. As you know, majority of our cloud titan customers are not incrementally growing. They're always constructing new data centers, but they also have to go back in their existing data centers and incrementally add. So we're seeing a nice combination of both. So I wouldn't put weightage on one versus the other. Both sides are doing well.
+Steven Enders - KeyBanc Capital Markets, Inc.
+Has there been any change in the mix there over the past year or?
+Jayshree Ullal - Arista Networks, Inc.
+Well, I think because of the 100-gig onset, the biggest change to the mix is more 100-gig in both examples. Beyond that, no big change.
+Steven Enders - KeyBanc Capital Markets, Inc.
+Okay, great. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Steve.
+Operator
+Your next question comes from Paul Silverstein with Cowen. Your line is open.
+Paul Silverstein - Cowen & Co. LLC
+I'm sure you're going to love me after these questions. First off...
+Jayshree Ullal - Arista Networks, Inc.
+Just one question, Paul, right?
+Paul Silverstein - Cowen & Co. LLC
+Well, I'm a little slow in the uptake. So I'm hoping you'll just clarify some things for me.
+Jayshree Ullal - Arista Networks, Inc.
+Okay.
+Paul Silverstein - Cowen & Co. LLC
+On Simon's question about merger revenue in the third quarter guidance, you're saying that guidance does include or does not include any revenue from Mojo?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. I mean, it's going to get incorporated sometime mid-Q3 and it's a ratable software model. So it's not going to move the needle is what we're really saying.
+Paul Silverstein - Cowen & Co. LLC
+All right, all right.
+Jayshree Ullal - Arista Networks, Inc.
+We're saying it's a small net acquisition and the revenue is small, so whether it does or doesn't is well within the area of our guidance.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, it's not going to move.
+Paul Silverstein - Cowen & Co. LLC
+Got it, got it. All right. On the calendar 2018 revenue guidance, you're saying you're expecting mid-20s for the back half of the year as opposed to mid-20s for the whole year?
+Ita M. Brennan - Arista Networks, Inc.
+Correct.
+Paul Silverstein - Cowen & Co. LLC
+All right. And now, for the real questions. Pricing, any change one way or the other?
+Jayshree Ullal - Arista Networks, Inc.
+Paul, I've said this before. No dramatic change, same aggressive competitive situation we've always seen. So no different than last quarter.
+Paul Silverstein - Cowen & Co. LLC
+All right. Now, that I've got these clarifications out of the way, appreciate that...
+Jayshree Ullal - Arista Networks, Inc.
+All right. Next question?
+Paul Silverstein - Cowen & Co. LLC
+...to my final question. With respect to...
+Chuck Elliott - Arista Networks, Inc.
+Paul, let's hold it for the callback please.
+Paul Silverstein - Cowen & Co. LLC
+No worries.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Paul.
+Operator
+Your next question comes from Mitch Steves with RBC Capital Markets. Your line is open.
+Mitch Steves - RBC Capital Markets LLC
+Hey, guys. Thanks for taking my question. I just had one actually. So (38:55) to Google the CEO's name. So it says that Mojo Network is supposed to get to about $100 million of run rate in about two years and this article is dated like January of 2018. So my question is, is there any reason why you wouldn't be able to exceed that expectation due to being integrated with Arista? I.e., is there any sales synergies with Mojo Networks and Arista working together?
+Jayshree Ullal - Arista Networks, Inc.
+Oh boy, that sounds like an ambitious goal from their current revenue. So I'll have to speak to Rick about my forecasting talents versus his. But how about we come back to you on that one after we know better on integration? That sounds like a very high number.
+Mitch Steves - RBC Capital Markets LLC
+Okay, got it.
+Jayshree Ullal - Arista Networks, Inc.
+Thanks, Mitch. I owe you an answer.
+Operator
+Your next question comes from Rod Hall from Goldman Sachs. Your line is open.
+Rod Hall - Goldman Sachs & Co. LLC
+Yeah. Hi. Thanks for the question. I just wanted to come back to -we've had a lot of incoming questions from investors about inventories at your large cloud titan customers. And maybe there is a theory I guess floating around that maybe they have some inventories as a result of the patent cases that they are unwinding and that's having an effect on sales maybe in the short-term.
+So I wonder if you could comment on that and also the fact that even at the 25% growth rate in the second half, your seasonality has shifted pretty significantly toward the first half of the year more so than normal. Normally, we see bit more revenue in the back end of the year. So I'm just curious if you could maybe weave those two things together for me?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah, I mean I think just the revenue trends, let's just take that first. I mean obviously Q1 we grew 40-plus-percent year-over-year because that was a much easier comp off of the first quarter last year, right? So I don't think anything necessarily different in seasonality that we're calling out at least at this point. So again, we're saying mid-20s for the back half of the year. Like I said, it's 26% at the upper end of the range for Q3 and we'll see where we go from there.
+Jayshree Ullal - Arista Networks, Inc.
+So just to reiterate what Ita said, Rod, we're feeling very good about cloud spending. We have in Q1. We definitely do in the Q2 results and the second half is looking strong. And so when you say they have some inventory I mean there is always this issue of did they order the right mix? But we don't see that as a category.....
+Rod Hall - Goldman Sachs & Co. LLC
+I'm not saying they have inventory. I'm just really asking you if you think they have inventory.
+Jayshree Ullal - Arista Networks, Inc.
+Yes, okay. All right. So I would say, Rod, that speculation is probably not what we're seeing. We're seeing healthy demand. And if they had inventory, they probably wouldn't be buying more. And so, from our perspective the cloud which was kind of in a hiccup for us when you are going through certifications last Q3, Q4 is back and it's that strongly.
+Rod Hall - Goldman Sachs & Co. LLC
+Great. Helpful. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you.
+Operator
+Your next question comes from Jeff Kvaal with Nomura Instinet. Your line is open.
+Jeffrey Thomas Kvaal - Nomura Instinet
+Thank you all very much. Last year, the 100-gig transition obviously was very, very favorable for you all. We've got another one, another tech transition happening in about a year with 400-gig certainly in 2019. Can you talk about your positioning for 400-gig? And maybe perhaps your relative positioning versus the competition? With the 100-gig you were so far out in the front that you gained a lot of share. Should we think that your competitive lead there has stayed the same and so there is more share to take? Or is this more of a sedate share gain situation? Thanks.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Jeff. If you would ask me to predict whether we have a sedate share again in 100-gig, I would have thought perhaps that would be the case. So we were pleasantly surprised to see the dramatic market share gains in 100-gig. And I would attribute that to two reasons: one, Ken and the team building excellent products; and the other our competition did not respond to 100-gig as well as we did.
+So now let's switch gears to your 400-gig question. My view as I said quite often is the 100-gig inflection is a multiyear infection. We're going to continue to see strength, and this is going to be in the form of higher density, in the form of additional options and form factors in the form of 200-gig option. So I don't think the onset of 400-gig in anyway changes the momentum on 100-gig. This is really important to remember and know, because this is going to be the largest market.
+Now, as the market leader in 100-gig, naturally Arista works with its customers. And instead of hyping and making any pre-announcements, we are making sure architecture is 400-gig capable. And we absolutely will support that and you will expect to see trials and product capabilities from us. We're usually first to market. I don't see why wouldn't be this time.
+Jeffrey Thomas Kvaal - Nomura Instinet
+Okay. And when might first to market be, is that a first half 2019 or a little earlier perhaps?
+Jayshree Ullal - Arista Networks, Inc.
+When I introduce it, you'll hear about it.
+Jeffrey Thomas Kvaal - Nomura Instinet
+All right, all right, Jayshree. Thanks.
+Jayshree Ullal - Arista Networks, Inc.
+And you know why I say that. A lot of this is dependent on the chip vendors and making sure we get a real production-worthy product, and we're not just putting out samples that we can ramp nicely because it's not how we put unit one that matters. It's how we put unit 1,000 that also matters with the right quality, as Ken will (44:36).
+Jeffrey Thomas Kvaal - Nomura Instinet
+Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Jeff.
+Operator
+Your next question comes from Srini Pajjuri with Macquarie Securities. Your line is open.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Thank you. I have a question on margins, Ita. So I thought the cloud titan strength is somewhat negative to gross margin. So I was somewhat surprised by the gross margin strength. And along the same lines, I'm trying to understand what's driving the operating margin guidance almost a 400 basis points of decline? Is it simply higher spending or anything else going on there? Thank you.
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. So you're correct that in a quarter where we have a heavier cloud mix, you should expect that to pressure gross margin, right? Still within our 63% to 65% range, and we had guided for that, right? We did task the team to focus on gross margin and focus on cost control, et cetera, this quarter to help offset that and they did a pretty nice job of that.
+And, obviously, the higher service content contributed a little bit to that too, right? But as a general statement, I would stand by the 63% to 65% with cloud pressuring to lower end depending on where we're in the quarter. I think that's the way to think about it.
+The operating margin guide for the quarter is really the long-term model, right, which is the 32% to 34%. And we'll grow into that over time, right? It's not going to happen straightaway. But when you look at the investment thesis we laid out, that's where we think we will be in the longer-term.
+Jayshree Ullal - Arista Networks, Inc.
+And we're going to absorb a fair amount of employees with the acquisition, right?
+Ita M. Brennan - Arista Networks, Inc.
+Right.
+Jayshree Ullal - Arista Networks, Inc.
+So we will have more expense.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Okay. So you're including the OpEx from the acquisition in the outlook, but not the revenue?
+Ita M. Brennan - Arista Networks, Inc.
+Yeah. We're definitely including some expense there. But again, I would think about the 32% to 34% as a longer-term model that we're growing into. So it won't happen overnight.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Okay, got it. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+The expense is guaranteed, the revenue is not.
+Srini Pajjuri - Macquarie Capital (USA), Inc.
+Okay. Makes sense. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+All right, Srini.
+Operator
+Your next question comes from Vijay Bhagavath with Deutsche Bank. Your line is open.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Hi. Thanks. Hi, Jayshree; hi, Ita.
+Jayshree Ullal - Arista Networks, Inc.
+Hi. Hi, Vijay.
+Ita M. Brennan - Arista Networks, Inc.
+Hi, Vijay.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Yeah. I'm not James fortunately. So, Jayshree, a bigger picture question. And campus honestly has been a channel sale, so like to get your viewpoint, Jayshree, on how do you plan to kind of build and scale a channel? And also your direct sales footprint, now that you have wireless asset to sell, you have campus core switching? Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Vijay. Yeah, that is a good question and one we won't get to overnight. As you were at the Analyst Day, you probably observed, our first natural synergy in the campus will be our own customers who already know us and love us for EOS.
+Our second will be, as we build out our enterprise sales force, we fully expect that that will be direct customer driven and channel driven. And the third order would probably be especially a focus internationally where we already have channel presence. So this is something Manny Rivelo and Anshul are working very closely on. But it's work in progress and will take time.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Okay. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Vijay.
+Operator
+Your next question comes from Erik Suppiger with JMP Securities. Your line is open.
+Ita M. Brennan - Arista Networks, Inc.
+Erik, are you there?
+Jayshree Ullal - Arista Networks, Inc.
+I think we lost Erik.
+Ita M. Brennan - Arista Networks, Inc.
+Sorry, we missed the first part.
+Erik L. Suppiger - JMP Securities LLC
+Can you hear me all right?
+Jayshree Ullal - Arista Networks, Inc.
+We can now.
+Erik L. Suppiger - JMP Securities LLC
+You can hear me okay?
+Ita M. Brennan - Arista Networks, Inc.
+Yes, we can hear you now, but you need to restart.
+Erik L. Suppiger - JMP Securities LLC
+All right, sorry about that. All right. I just wanted to understand you had noted that the long-term guidance is 32% to 34%, but you're guiding for Q3 to be 32% to 34%. Is that to suggest that there is upside to that in the near-term? Is that how we should be thinking about your Q3 guidance?
+Ita M. Brennan - Arista Networks, Inc.
+I mean, I think that's the guide. And, obviously, we will have to absorb some costs from the acquisition, et cetera, on top of that. So we're reserving the right to spend what we need to spend to do that. So I think that's the guide, but I think we've talked about this in the past, but we will grow into those investments.
+Jayshree Ullal - Arista Networks, Inc.
+Exactly. We're going to continue to aggressively invest in R&D. And as you all keep asking me, we also need to invest in the sales and marketing and enterprise channel. So on one hand, you expect us to do that; on the other hand, you say, gee, why isn't it higher. So if we don't execute, we'd be higher, but we want to execute.
+Erik L. Suppiger - JMP Securities LLC
+Can you tell us how many people is Mojo Networks?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. It's over 250 employees.
+Erik L. Suppiger - JMP Securities LLC
+Okay. Then real quick, the Mojo solution is software, that's the only product in your portfolio that's just a software-based solution. Might we assume that your campus â this might lead you to make more campus products that will be white box and your portion will be just the software aspect of it reflective of a longer-term strategy?
+Jayshree Ullal - Arista Networks, Inc.
+We'll take this question off-line, but I'll give you a short answer to it. First of all, the Mojo product is not our first software product. We have four or five already in flight, CloudVision, our macro-segmentation security, our FlexRoute licenses, our TAP aggregation DANZ product. So we have a number of software-only options, and CloudVision is probably the best example of that.
+And I think the way to look at this is software has to run on something, it does run on hardware. And at any given time you look for disruptive technology, no matter which way it's packaged, software-only, software plus hardware, or in the case of a lot of optics and cables, it's hardware-only. So we haven't really formed a strategy of software-only, but we do the right thing which makes sense. And in this case, it was such a natural synergy with the cognitive campus vision we have and the cloud-managed products we have with CloudVision that this is a very nice software-based acquisition.
+Erik L. Suppiger - JMP Securities LLC
+Very good. Thank you.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Erik.
+Operator
+Your next question comes from George Notter with Jefferies. Your line is open.
+George C. Notter - Jefferies LLC
+Hi, guys. Thanks very much. So I'm looking at the Mojo website right now, it says here they make access points and wiring closet switches. And so, I guess I understand or I am trying to understand the Cognitive WiFi pioneer, but are you saying then you're going to discontinue those kinds of hardware-based products? Or I assume more likely you will continue to sell those in the marketplace?
+And then, more broadly, I guess I'm just trying to understand kind of what the bigger picture is here for Arista. I mean when you guys talked about pushing into campus, you really focused on the notion that you were going to be focused on the core where you had some natural synergies with your data center switch business. And now, it seems like you're going more broadly into the campus. And I guess I just want to understand kind of where you guys see the lines in terms of how you're going to compete in campus longer-term? Thanks.
+Jayshree Ullal - Arista Networks, Inc.
+Sure. Thanks, George. That's a loaded long question and I'll try to be concise. So there is no question that our primary strategy, as Ken alluded to, is the combination of our Cognitive Management Plane and our Spline. We're leading with that. That's our strength. It's a natural extension from the data center. That's where we expect to succeed first.
+And then, there is a diverse suite of edges. Majority of the edges will probably come from third-party, partners or even competitors. So we're not making any declaration or statement on Mojo's PoE switches or on our PoE switches. There is no stated intent at this time here.
+What we bought Mojo for was their WiFi, their Cognitive WiFi and the software capabilities associated with the access points. So give us a chance to integrate the acquisition and decide what we do and don't do and how we do it. But understand that the epicenter of Mojo is not the switches; it's really the WiFi.
+Operator
+Your last question comes from Hendi Susanto with Gabelli & Company. Your line is open.
+Hendi Susanto - Gabelli & Company, Inc.
+Good evening, and thank you for my questions. Jayshree, in the last Q1 call, there is a concern that demand for 100 gigs may normalize in 2018 after strong sales upside in 2017. I believe that was the main rationale of growth expectation in the mid-20%. Today, you sounded very optimistic about 100 gigs and its long-tailed inflection point. My question is should we still be watchful that at some point we may see 100 gigs to normalize?
+Jayshree Ullal - Arista Networks, Inc.
+Yeah. Let me take this question in two halves, Hendi. Is 100-gig normalizing? No. We're still seeing a lot of demand, and it's continuing to grow. Both from a total available market, I don't see much normalization. It's got multi-year growth and Arista's position, right? Now, obviously, 2017 was a real escalation year because we were literally going from nothing to everything. So the next few years, the rate of growth maybe slower, but the dollars will be very large and very healthy and very rich for Arista. So that's one.
+Then the second thing is, come back to the rate of growth again. The rate of growth has to do with the fact that we had two extremely exceptional quarters last year. And that is more normalized to the mid-20s, if you look more broadly, off some very large base of numbers. So we're now talking about north of $500 million a quarter. So that shouldn't be confused with the fact that we can do well and we'll continue to do well in 100-gig.
+Hendi Susanto - Gabelli & Company, Inc.
+Got it. That's very helpful. Thank you, Jayshree.
+Jayshree Ullal - Arista Networks, Inc.
+Thank you, Hendi.
+Ita M. Brennan - Arista Networks, Inc.
+Thanks, Hendi.
+Chuck Elliott - Arista Networks, Inc.
+This concludes the Arista Q2 2018 earnings call. Thank you for all the good questions and for the opportunity to highlight our financial results and corporate achievements for you. I also want to mention that we've posted a presentation which provides additional information on our fiscal results, which you can access on the Investor section of our website. We look forward to continuing conversation with you during the quarter.
+Operator
+Thank you for joining. Ladies and gentlemen, this concludes today's call. You may now disconnect.

@@ -1,0 +1,355 @@
+Juniper Networks, Inc. (NYSE:JNPR) Q3 2017 Earnings Call October 24, 2017 5:00 PM ET
+Executives
+Kathleen Nemeth - Juniper Networks, Inc.
+Rami Rahim - Juniper Networks, Inc.
+Ken Miller - Juniper Networks, Inc.
+Analysts
+Brian J. White - Drexel Hamilton LLC
+Simon M. Leopold - Raymond James & Associates, Inc.
+Timothy Patrick Long - BMO Capital Markets (United States)
+Pierre C. Ferragu - Sanford C. Bernstein & Co. LLC
+Jim Suva - Citigroup Global Markets, Inc.
+Tal Liani - Bank of America Merrill Lynch
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Mitch Steves - RBC Capital Markets LLC
+Jeffrey Thomas Kvaal - Instinet LLC
+Steven Milunovich - UBS Securities LLC
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Alex Kurtz - KeyBanc Capital Markets, Inc.
+Dmitry G. Netis - William Blair & Co. LLC
+Jayson A. Noland - Robert W. Baird & Co., Inc.
+Michael E. Genovese - MKM Partners LLC
+Paul J. Silverstein - Cowen & Co. LLC
+Aaron Christopher Rakers - Wells Fargo Securities
+Operator
+Greetings and welcome to the Juniper Networks' Third Quarter Fiscal Year 2017 Earnings Results Conference Call. At this time, all participants are in a listen-only mode. An interactive question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded.
+I'd now like to turn the conference over to your host, Ms. Kathleen Nemeth. Thank you. You may begin.
+Kathleen Nemeth - Juniper Networks, Inc.
+Thank you, Operator. Good afternoon and welcome to our third quarter 2017 conference call. Joining me today are Rami Rahim, Chief Executive Officer; and Ken Miller, Chief Financial Officer.
+Today's call contains certain forward-looking statements, including statements concerning Juniper's business, economic and market outlook, strategy, future financial results, capital return program and overall future prospects. Actual results might differ materially from those projected in the forward-looking statements. Additional information that could cause the actual results to materially differ are listed in our most recent 10-Q, the press release and CFO Commentary furnished with our 8-K filed today, and in other documents that we file with the SEC from time to time.
+All statements made during this call are made only as of today. Juniper undertakes no obligation to update information presented on this call if facts or circumstances change after the date of the call.
+Our discussion today will include non-GAAP financial results. Reconciliation information can be found on the Investor Relations section of our website under Financial Reports. Commentary on why we consider non-GAAP information a useful view of the company's financial results is included in the press release furnished with our 8-K filed with the SEC today.
+Please keep your questions to one per firm.
+With that, I will now hand the call over to Rami.
+Rami Rahim - Juniper Networks, Inc.
+Thank you, Kathleen. Good afternoon, everyone.
+The results we announced today were not the results we set out to achieve for the second half of this year, so let me address that first and foremost. Juniper has always excelled at building the largest, most demanding network in the world. This is both the result of our deliberate strategy and a reflection of where our strength lies.
+Over the last several years, some of the most mission-critical networks in the world have been built by Cloud providers. I'm very proud of how we have successfully pivoted our strategy to capture that tremendous opportunity and execute it against our innovation road map to grow our relevance and our business in the Cloud vertical. At the same time, having such large and agile customers can lead to significant lumpiness in our business, which we saw in Q3 and expect to continue into Q4.
+Let me provide some insight on our current work with these large Cloud providers. First, as you know, we have built substantial footprint with these companies over the past few years. This has been the result of our innovative products and also our close surround and support of these customers as they've grown. As their growth continues, it is clear that their architectures need to evolve, and we are leading the charge to more modern, cost-efficient, scalable networks.
+In Q3 and Q4, we are seeing a spending delay as our largest customers prepare to go through this architectural shift. This is not uncommon in our industry, and Juniper has benefited before in leading architectural shift such as with the Converged Supercore and data center fabrics.
+What's most important is that we are maintaining our strong footprint as these shifts unfold. We continue to challenge the status quo, and that approach is only making us more relevant with our most important customers, even if it sometimes has a short-term disruptive impact.
+While we're disappointed with our revenue and earnings performance in Q3, we're confident that we've made significant progress in establishing a strong footprint developing the right products and executing on an innovative product pipeline.
+Now I'd like to summarize the performance across Switching, Routing and Security. In Switching, we're disappointed with our overall revenue decline in Q3. Normalized for lumpiness from our large hyper-scale customers due to the spending delay I mentioned, our QFX product line continued to grow at double-digit rates, both sequentially and year-over-year. It continues to grow across public and private Cloud segments driven by 100-gig adoption, our innovation and automation in telemetry, our leadership in network protocols like EVPN, as well as our Fusion fabric solution that simplifies data center operation. We remain confident in the competitiveness of our QFX product line across all verticals, including Cloud and hyper-scalers.
+In Routing, our business grew sequentially and declined year-over-year in a dynamic environment. Our PTX product line continued to gain traction, and in fact, achieved a record revenue quarter in Q3 as our customers have embraced its unique attributes for core build-out. The success of the PTX product line is evident in the most recent IHS Markit share report that for the first time ever showed Juniper in first place position in North America core Routing market share over the last 12 months. Additionally, we saw Routing growth in APAC, both sequentially and year over year.
+In Security, our business grew sequentially driven by momentum in the data center, service provider and next-gen firewall sales. We believe more customers are recognizing the value of leveraging the entire network for detection and enforcement against cyber threats. Our Software-Defined Secure Network solution is gaining traction, and we've added many new customers in Q3 that are leveraging its benefits.
+During the quarter, we also closed the acquisition of Cyphort, a leader in automated malware analysis and detection. In the quarter, we continued to see momentum with Contrail and had several new customer wins, including Strategic Enterprise customers in APAC and a Canadian service provider, as well as recurring revenues from renewal of existing annual subscription.
+We also unveiled Contrail Security, an important addition to Juniper's Security portfolio. We believe we are executing on an extremely compelling product road map for Contrail that should result in an expansion of its used cases across a broader set of customers.
+Additionally, AppFormix's customer base has steadily expanded across SaaS, enterprises, and telecom operators. AppFormix and Contrail have been integrated for seamless operations management and advanced analytics of Juniper's hardware and software products in several customer use cases.
+In Services, we saw strong renewal and attach rates of support contracts and an increase in demand for professional services resulting in year-over-year growth.
+We remain committed to all of our strategic verticals, especially the Cloud and believe that we are more relevant than ever to our customers and the industry. We are innovating in ways that truly matter to all network builders and operators that are embracing Cloud architectures to drive greater levels of operating efficiency and service agility.
+I'm also delighted to have on board our new CTO, Bikash Koley, who has firsthand knowledge and experience in building and operating large-scale Cloud networks and is now helping us further refine our strategy and sharpen our execution across our entire innovation pipeline. I'm very excited about the opportunity we have in front of us.
+In summary, while we're not satisfied with our second half expected performance, we are confident that we have the right strategy and the right products and solutions portfolio. I'd like to extend my thanks to our customers, partners and shareholders for their continued support and confidence in Juniper. I especially want to thank our employees for their hard work and dedication, which is essential to creating value for all of our stakeholders.
+I will now turn over the call to Ken, who will discuss quarterly financial results in more detail.
+Ken Miller - Juniper Networks, Inc.
+Thank you, Rami, and good afternoon, everyone.
+The financial results for the September quarter were disappointing, with revenue and non-GAAP EPS falling below our expectations. The lower than expected revenue result was primarily due to the timing of certain large switching deployments within the Cloud vertical related to architectural shifts.
+Total revenue for the third quarter was $1.258 billion, down 4% sequentially and 2% year-over-year. Our technologies posted mixed results for the quarter. Routing grew sequentially, but declined year-over-year due to Telecom and Cable deployments.
+Switching declined both year-over-year and sequentially, primarily due to the delay of certain large Cloud customer deployments. And Security grew sequentially for the second consecutive quarter.
+Service revenue continued to be solid, growing 9% year-over-year. In reviewing our top 10 customers for the quarter, five were Cloud, four were Telecom or Cable, and one was a Strategic Enterprise. Of these customers, one was located outside of the United States.
+Product deferred revenue was $324 million, up $26 million or 9% year-over-year and sequentially. Non-GAAP gross margin was 62% for the quarter, in line with our expectations. Non-GAAP operating expenses declined 2% year-over-year and sequentially and were 38.5% of revenue. This reflects our continued focus on managing expenses through increased efficiencies and a focus on operational excellence.
+Non-GAAP earnings per share was $0.55, down $0.02 quarter-over-quarter, primarily due to the lower revenue, partially offset by lower operating and other expenses. Cash flow from operations were $202 million for the quarter, bringing our year-to-date total to slightly more than $1 billion.
+We continued to return capital to shareholders. And during the third quarter, we repurchased $140 million of shares and paid $38 million in dividends.
+Before we move on to Q&A, I would like to provide some color on our guidance, which you can find detailed in the CFO Commentary available on our website. As we have discussed in the past, elements of our addressable market are dynamic; and particularly within the Cloud vertical, change can occur rapidly.
+Our Q4 revenue outlook reflects continued large deployment delays. As we expect, our largest Cloud customers will continue their architectural transition. Despite this outlook, we remain confident in our competitive position and strong relationships with these strategic customers.
+Gross margins are expected to remain at current levels.
+We expect to continue managing operating expenses prudently and to drive increased operational efficiencies.
+Today, we initiated a realignment of our workforce as we continue to prioritize our investments in the most critical areas of our business. We are committed to returning approximately 50% of our free cash flow and expect to be opportunistic with our share repurchases.
+Despite the disappointing full year outlook, we are confident in our strategy and remain committed to our long-term financial principles of driving revenue growth, earnings expansion, and an optimized capital structure.
+In closing, I would like to thank our team for their continued dedication and commitment to Juniper.
+Now I'd like to open the call for questions.
+Question-and-Answer Session
+Operator
+Thank you. And our first question is from Brian White from Drexel. Please go ahead.
+Brian J. White - Drexel Hamilton LLC
+Yeah, Rami, how do we know this is an architectural shift here at customers rather than increased competition, number one? And if this is some type of delay, do you expect to get this revenue back in 2018? Thank you.
+Rami Rahim - Juniper Networks, Inc.
+Thanks, Brian. Well, how you know, I mean, what I'm seeing through the discussions, the engagements that I'm having through our customers, I'll tell you that â especially our Cloud customers is all around a transition that's happening in switching from 10 and 40-gig to 100-gig. And in wide area networking from what has traditionally been scale-up architectures to scale-out architectures or something that we have called lean core architectures. We're very close to our customer base, especially our Cloud customer base.
+We've developed many of the products that are in the market today, in particular, the PTX product line with a keen understanding of what â how these architectural evolutions are going to happen. And honestly, I think the competitiveness of that product is very strong, as you've seen from the results in Q3 with a record revenue quarter for the PTX.
+I also mentioned in my prepared remarks the fact that we've gained now number one market share in core Routing in North America, and that's primarily because it's been helped by the Cloud provider customers.
+So I firmly believe that this is a transition where we will emerge on the other side of it. We, in fact, have been leading the charge with the transition. And I think from a competitive standpoint, there's no doubt this is a competitive industry. But because of the products we have and the tight relationships we have with this customer base, I'm very confident.
+As far as timing, I think that the Switching transition, especially with hyper-scalers, is one that will play out through the rest of this year. And the first part of next year, we should start to see a resumption of more normal spending patterns, especially for the new 100-gig base switching architectures.
+In Routing, I think it's going to be a bit of a multi-quarter type of transition that's going to happen towards the PTX, towards scale-out architectures. And I think that's all up for next year, Routing is probably going to be a flattish type of business for us. I think that, considering the dynamics that are happening in the market would be a pretty decent result.
+Brian J. White - Drexel Hamilton LLC
+Great. Thank you.
+Operator
+Our next question is from Simon Leopold from Raymond James. Please go ahead.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Great. Thank you for taking my question. I want to see if, first of all, you could clarify whether or not the customer that slowed down is the same customer that was a 10% customer in the June quarter, and if this could simply be an issue where there was too much inventory built up in June and it takes some time to absorb it. Is that a possible scenario for what's played out here?
+Ken Miller - Juniper Networks, Inc.
+Yeah. So we believe that it's a positive for the transition as Rami mentioned. From a customer perspective, I mean, we are pretty heavily engaged with the Telco vertical as well as the Cloud vertical. And there is a pretty high level of concentration in both of those verticals. For us to have these types of results, I think it's pretty evident that it's going to be one of our larger customers and a pretty large deployment that was impacted, and I'll leave it at that.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Okay. And then just in terms of the trending, your Cloud, if I did the math correctly, was still 27% of overall sales, so it's still significant. If we want to look past the lumpiness and just think about how you see your business evolving, let's say, over roughly a two-year window, where do you see these vertical mixes coming in terms of maybe â roughly a two-year outlook? Would you expect that that Cloud vertical turns into a third of revenue, 35% to 40%? What's realistic for how you expect your mix evolve? Thank you.
+Ken Miller - Juniper Networks, Inc.
+Yeah. So the Cloud vertical has been clearly our growth vertical for the last couple of years, and it's very evident that we believe we're on the right side of change as it relates to that vertical, and we've seen the strong results because of that. Through this transition period, I think we're going to see a little bit of lumpiness as we transition.
+But as we come out the other side, as Rami mentioned, it's important to note that we believe we are on both sides of this transition. So the pause in the middle is really the most troubling part from a financial perspective. As they start to ramp up with the new architectures, we believe we will be able to grow in the Cloud vertical going forward.
+Rami Rahim - Juniper Networks, Inc.
+Let me just double-click a little bit on that, and I'll do it from the standpoint of Routing and Switching. In Routing, we've always enjoyed pretty substantial market share in the Cloud vertical. And I fully expect based on the competitiveness of our products, based on the full understanding that the transitions that are happening right now are going towards architectures that we are enabling ourselves. So to the extent that our â the Cloud customers themselves are successful and continues to see traffic growth in their wide area network, I think we'll benefit from that.
+On the Switching side, where we have seen really good traction in Switching has been in Tier 2, Tier 3 Cloud providers. This has been a deliberate part of our strategy. We knew that this would be sort of the lower hanging fruit for us as we introduce the full extent of our Switching portfolio into the marketplace.
+And then Tier 1 Cloud providers, we do have some meaningful deployments there, but it largely remains an opportunity for us. This is where I believe the opportunity for us over the next couple of years is really going to be strong.
+Simon M. Leopold - Raymond James & Associates, Inc.
+Thank you very much.
+Operator
+Our next question is from Tim Long from BMO Capital Markets. Please go ahead.
+Timothy Patrick Long - BMO Capital Markets (United States)
+Thank you. Just two if I could. First, just, Ken, if you could talk a little bit about the gross margins in the quarter. I think you said it was as expected, but my sense is that might have been before the shortfall. We had Switching weakness and Cloud weakness. So why was it only flat?
+And then secondly, a lot of talk about the Cloud vertical weakness, it looks like the Strategic Enterprise was down pretty meaningful as well. Is that the Cloud portion of the Strategic Enterprise, or maybe if you could just talk to us a little bit about what's going on in the Enterprise business, which also seemed pretty weak?
+Ken Miller - Juniper Networks, Inc.
+Yeah. So from a gross margin perspective, I did mention that we came in in line with our expectations at 62%. And you're right, from a mix perspective that provided us a bit of an advantage because we did see some softness in Switching, which is our lower margin product, but that was offset by the volume. The revenue being down traditionally has an impact to gross margin in a negative way, so we effectively offset the lower revenue volume with a better product mix.
+From a customer perspective, as we've mentioned in the past, we don't see a significant impact to margin based on vertical. But the more important impact is customer mix within vertical or customer mix overall. So again, to summarize, this quarter was in line. However, we got there a little differently. It was lower revenue, which hurts margin, but higher product mix, because Switching was the revenue miss.
+Rami Rahim - Juniper Networks, Inc.
+And on the Enterprise side, so we saw some sequential declines but year-over-year slight increase. I think if you break it apart in the broad enterprise market was where the weakness was from a sequential standpoint, but for Strategic Enterprises, for example, banking would be in that sector or government, we actually saw a bit of a recovery.
+I think the catalyst for Enterprise going forward is going to be around our ability to leverage new architectural approaches, take for example, SD-WAN deployment. The strength that we have and the relationships we have with our Telco customers to reach our broader Enterprise, we have a few wins now that we have established this year that I'm hopeful will start to contribute to Enterprise revenue throughout next year.
+Timothy Patrick Long - BMO Capital Markets (United States)
+Okay, thank you.
+Operator
+Our next question is from Mark Moskowitz from Barclays. Please go ahead. I'm sorry, Mark, your line is live. Might be on mute by accident.
+Kathleen Nemeth - Juniper Networks, Inc.
+Let's go to the next question, and then we'll come back to Mark.
+Operator
+Okay. We'll go to next question. It's from Pierre Ferragu from AllianceBernstein. Please go ahead.
+Pierre C. Ferragu - Sanford C. Bernstein & Co. LLC
+Thank you for taking my question. Rami, thanks a lot for your clarification around this architectural shift at your large Cloud clients. I had a further question with â on that â between Switching and Routing, do you see some kind of changes in architecture as well where in places at the higher level of aggregation, for instance, where we had a lot of Routing or in data center interconnect, do you see a shift of that market toward Switching as well? And is that part of the architectural discussions and debate and changes that are happening at your clients?
+Rami Rahim - Juniper Networks, Inc.
+Yes, Pierre. So it's a great question, in fact. And yes, there is a shift that is happening. It's one that we have predicted and developed products and solutions around.
+And really, I have been talking about this blurring of the lines that is happening between Routing and Switching. If you look at what's happening to data centers, Cloud data centers in particular, they're getting more distributed. And the interconnect between them is essentially becoming an extension of the fabric that's in the data center. So, we actually saw this happening and understood that there is an opportunity for us to go and capture with a product like the PTX. The PTX, as you think about it is sort of this perfect cocktail of Routing capability from a control plane standpoint, but Switching capability from a data plane and cost efficiency of IP transport. And that has now been adopted by the Cloud providers, and I think will continue to be adopted by the Cloud providers at a pace that quite honestly exceeded our expectation.
+And this at least partly explains what we're seeing in terms of the Q4 guidance that we're providing. It's that transition from what I described as scale-up to more of a scale-out approach, which speaks to this blurring of switching and routing across Cloud architectures.
+Pierre C. Ferragu - Sanford C. Bernstein & Co. LLC
+Great. And then maybe a very quick follow-up. So what we definitely learned these days is that your Cloud segment is made of very large clients, and it's a lumpy business like your Telecom service provider business.
+Now if I take a step back, your Telecom and Cable business is down 4% this quarter. Does that mean that growth â we should expect growth to come mostly from your Cloud division, and we need to see growth coming back from there, or do you still see growth trend and like the business coming back at some point, so many, many quarter of weak business in the Telecom segment as well?
+Rami Rahim - Juniper Networks, Inc.
+Well, I do think that there is a good opportunity to see growth in Cloud all up as we emerged to the other end of this transitions that we are talking about. Telco remains a challenged market environment, right, where we're seeing more of the same in terms of them running their networks hotter, Cloud transformations that are happening in their own networks, consolidation, M&A are all headwinds that we're facing in the Telco space.
+The catalyst, I believe, for Telco spending will be around preparation for 5G, Metro build-outs that I think are going to start to happen over the next couple of years, new approaches to delivering value to the Enterprise that are more virtualized and software nature like SD-WAN. And we've really architected our SD-WAN strategy around enabling the telcos to go after that opportunity.
+So for the foreseeable future, we're not counting on any sort of meaningful rebound in Telco, but I think a little bit more longer term, there are going to be some catalysts that I think will help us.
+Pierre C. Ferragu - Sanford C. Bernstein & Co. LLC
+Thanks a lot.
+Operator
+Our next question is from Jim Suva from Citi. Please go ahead.
+Jim Suva - Citigroup Global Markets, Inc.
+Thank you. It's Jim Suva from Citi. You both mentioned Security grew quarter-over-quarter for the second quarter in a row, which is good. But looking back, it looks like that's the normal trend. So my question to you is, are you trying to signal or let us know that you expect this trend to continue quarter-over-quarter, because year-over-year, the results look quite challenged?
+Rami Rahim - Juniper Networks, Inc.
+Yes. Thanks, Jim. So yes, I do expect that the sequential momentum is going to increase. And there are a few things around the Security business that give me some confidence right now. And we're not out of the woods. We're still working very hard to turn this part of our business around, but there is a sequential performance that we've seen through this year. There is the feedback and the wins that we have from our customers. And we're starting to see some pretty meaningful wins that are building some bookings performance that are encouraging.
+There is a diversity of use cases that we're now satisfying. So we've traditionally been strong in the service provider space. The portfolio for the service provider space has quite frankly suffered over the last year or so. It's now coming back to a much more competitive state, but we also are starting to see traction with next-gen firewall and data center.
+And then last but not least, I think there is the software attach, the license attached to Security is actually starting to pick up, and that is a pretty good sign. So we remain optimistic around the fact that we can make this sort of the worst year, and we can recover from here going forward.
+Ken Miller - Juniper Networks, Inc.
+Yeah, just to clarify that, I mean, our definition of success is sustained year-on-year growth. We have not yet achieved that. We're not yet trying to signal that we're happy with sequential growth, and that's all you could expect. We are absolutely turning this business around and expect to get to year-on-year Security growth here in the near future.
+Rami Rahim - Juniper Networks, Inc.
+Yeah.
+Jim Suva - Citigroup Global Markets, Inc.
+Sounds great. Thank you so much.
+Operator
+Our next question is from Tal Liani from Bank of America. Please go ahead.
+Tal Liani - Bank of America Merrill Lynch
+Hey, guys. I have two questions. The first one is on Switching. I'm trying to understand how much of this is also â maybe there's an aspect of competitiveness. Did you notice, with the same customer, maybe another vendor gaining share at the same time? Is the challenges you're talking about architecture? Does it cause â does it drive someone else to gain share in the interim? Or were things put on hold?
+Also, does it have anything to do with your product readiness for what the customer is trying to do? Is there anything on your side you need to do to make things work? Or is it simply just the customer?
+And the second question I have is, in general, why don't you grow your margins more than where you are? The industry is challenging. Routing is under pressure for many years. Security, you do have some issues, but you're working on it. In times like that of challenges, why don't you work on reducing your expenses to deliver higher margins to investors and maybe compensate for the lower growth rate? Thanks.
+Rami Rahim - Juniper Networks, Inc.
+Okay, so let me start with the question on Switching. There is no doubt that the Switching environment is a very competitive environment. Having said that, where we have footprint, I believe, we're well entrenched. We're very close to our customers. We understand their requirements very well, and there are barriers to entry. And this is in no means trying to project overconfidence because I sort of subscribe to the notion that only the paranoid survive. But I will say that I'm very confident that we're going to maintain our Switching footprint in our large franchises, and we will be on the other side of this transition as they move towards (30:18) architectures.
+From a product standpoint, we know what's required. We know what performance levels are needed, the telemetry capabilities that are required, the features that are needed. And I'm bullish about our Switching business all up in the future.
+On operating margins, I will let Ken jump in here, but I will say the following. I mean, we have streamlined our organization. We're running far more efficiently than we have in the past. We're enabling a greater level of leveraging of products across different product lines: Routing, and Switching, Routing and Security as an example of that. We're taking out unnecessary costs when we see that there is an opportunity to do so.
+So in fact, this is part of the reason why we missed in Q3, but still managed to achieve the low end of our earnings range. And we'll continue to operate in that way. I think this is an important part of delivering shareholder value. Ken?
+Ken Miller - Juniper Networks, Inc.
+Yeah. So we actually are quite pleased with our Q3 OpEx results that came in at the low end of our range, actually below our range. We continue to be laser focused. I think you've seen that in the last few quarters, laser-focused on cost discipline and making sure we look to optimize our structure in our operations.
+Today, we initiated a realignment of our workforce, and we're making sure that we're doing that prudently; make sure that we still focus in the right investment areas to drive longer term growth. And you can count on us continuing to focus on earnings, right? We have a stated commitment that we're going to drive earnings faster than revenue.
+We're going to grow OpEx lower than revenue. I believe we're going to accomplish the OpEx goal of slower than revenue this year despite the fact that the revenue headwinds hit us harder than we expected, we're still being very prudent with OpEx. And for the full year, we will actually be down in OpEx at the midpoint of our guidance. So I do think we are managing the bottom line quite effectively, and we'll continue to do so going forward.
+Tal Liani - Bank of America Merrill Lynch
+Thank you.
+Operator
+Our next question is from James Faucette from Morgan Stanley. Please go ahead.
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Hi. This is Meta standing in for James. A couple of questions; first, you mentioned a kind of Switching disruption for the next couple of quarters. Would you expect kind of a Routing disruption on the back of that with certain Cloud customers as they change architecture? Or should we not kind of expect any tail to that beyond Switching?
+And then the second question is just if you could give a sense of â in your Cloud vertical, what is kind of the general split between Tier 1 and maybe the rest of Tier 2, Tier 3? Thanks.
+Rami Rahim - Juniper Networks, Inc.
+Okay. So first, the Routing and Switching transitions that are happening are somewhat related. And it speaks to the color I just provided, I think, to Pierre's question that he asked earlier around sort of the blurring of lines in these architectures. And in Q4, in fact, our guidance that we provided really has sort of a balance of both transitions that are happening, Switching moving to 100-gig, Routing moving to lean core scale-out type architectures, they in some sense do go hand in hand. As far as providing any additional color on Tier 1s and Tier 2 Cloud providers...
+Ken Miller - Juniper Networks, Inc.
+Sure. Yeah. So, we don't break out customer detail other than a couple of facts that you do have out there. One is five of our top 10 customers are Cloud. So that's an important number. And in addition to that, if you were just to look at the Cloud customers' size and breadth in the world, you will see it's very concentrated on the top 5, 7, 10, whatever you want to categorize it.
+Our revenues are going to be largely in line with what you would expect, given kind of CapEx spends around the globe. But I don't want to over-rotate on just the hyper-scalers. I mean, obviously, that's where the majority of the spend is, and that's where you could anticipate much of our customer concentration. There is a longer tail in the industry. It's not just about the infrastructure service providers, there's also the SaaS community that we're also very focused on and a broader set of customers around the globe.
+Meta A. Marshall - Morgan Stanley & Co. LLC
+Great. Thank you.
+Rami Rahim - Juniper Networks, Inc.
+Yeah.
+Operator
+Our next question is from Mitch Steves from RBC Capital Markets. Please go ahead.
+Mitch Steves - RBC Capital Markets LLC
+Hey, guys. Thanks for taking my question. So I'm actually going to focus a bit on the Security side, because you guys mentioned you're investing or buying some kind of security malware functionalities as well. So if I think about your balance sheet now, is that kind of the direction you guys are going to go in, if you go down the M&A front to kind of get differentiated growth outside kind of QFX?
+Rami Rahim - Juniper Networks, Inc.
+Thanks for the question. So I do think that we've got a healthy balance sheet. And I do view that leveraging that balance sheet in order to buy technology businesses that are very complementary to our strategy very much around Cloud, Cloud Security is an option for us and something that I continue to seriously consider.
+Mitch Steves - RBC Capital Markets LLC
+Got it. And then just one small one. When should the 100-gig number start to show up? Is that a 2018 story, or is that going to show up at the back half of Q4?
+Rami Rahim - Juniper Networks, Inc.
+No, I â so a lot of the work to get ready for the transition, the certifications, the architectural work, the qualification work with our customers is happening right now. So I do believe in the first part of next year, we'll start to get to more normal Switching spending patterns with our largest Cloud providers.
+Mitch Steves - RBC Capital Markets LLC
+Got it. Thank you very much.
+Rami Rahim - Juniper Networks, Inc.
+You're welcome.
+Operator
+Our next question is from Jeff Kvaal from Instinet. Please go ahead.
+Jeffrey Thomas Kvaal - Instinet LLC
+Yes. I would like to delve into the margin structure a bit, if we could. Could you update us on a couple of the other variables on gross margin that we might see some improvement over the next few quarters? And particularly, Ken, you've talked about memory pricing. And then, of course, you've talked a lot about some APAC wins as well.
+Ken Miller - Juniper Networks, Inc.
+Yeah. So the dynamics overall in margin haven't really changed much. I mean, we still see the primary drivers to be kind of customer mix. We've talked about insertion opportunities. In Q3, we had some follow-up from the activity that we talked about in the first half, but we didn't have any new large insertion deals that were actually margin negative in Q3. It was just really completing some of the deals that we entered into in the first half. So there wasn't a big factor in Q3.
+The memory pricing is still a headwind. It's an industry phenomenon. It's impacting us, and that's something that's in line with our expectations. As far as when does it come back, I don't see it coming back in Q4. We're not providing guidance on FY 2018, but I would think it's reasonable to assume sometime in 2018, we'll start to see a little bit of relief on the memory price.
+And then the product mix is also the dynamic that we experienced a lot. And as Switching continues to be a growth driver for us that will result in a natural kind of headwind to margin.
+That being said, we're very focused internally on some value engineering efforts. But we think we have a lot of opportunity within our cost and supply chain to really design our products in a way that really provides the most customer value at the right price point and at the right cost structure.
+So I believe we have some of that within our control, and we'll continue to manage margins, despite some natural headwinds with product mix.
+Jeffrey Thomas Kvaal - Instinet LLC
+You talked a little bit about insertion point, and I'm just â and we hear from others that 100G is indeed an insertion point for their products in existing â or in new accounts. It seems though you are talking about 100-gig as a pause rather than a potential insertion point. And so I'm a little surprised by the disparity there. I would have thought that that was an opportunity for a customer to start with a new set of vendors.
+Rami Rahim - Juniper Networks, Inc.
+So, this is Jeff, I believe, right?
+Jeffrey Thomas Kvaal - Instinet LLC
+Yes.
+Rami Rahim - Juniper Networks, Inc.
+So let me say this. There are certainly accounts â large Cloud accounts that we're in that where the game we're playing or the approach we're taking is one of making sure that we stay ahead of their requirements with a goal of keeping the competition out. And I think we're doing a really good job at that. We also believe that especially for the Cloud Switching space, we can play and are playing a more offensive strategy to try to insert ourselves.
+Now we're not going to always be successful, but thus far, if you look at the performance of our Switching business, and you modulate out the lumpiness due to the large hyper-scaler deployments, we're still seeing double-digit growth in overall Switching. Some of that comes because of our strength in high-performance in 100-gig, in telemetry, in automation, et cetera. So there is a bit of a defensive game you have to play when you're an incumbent. But I also want you to understand, we're playing a very offensive game, especially in Switching, where I think there's still a huge amount of room for us to expand.
+Jeffrey Thomas Kvaal - Instinet LLC
+Thank you.
+Operator
+Our next question is from Steve Milunovich from UBS. Please go ahead.
+Steven Milunovich - UBS Securities LLC
+Yes, thank you. I just want to be absolutely clear regarding your comments about footprint. In none of these large situations where you're seeing a lumpy business, a deferral in business, are you being displaced by competitors or by white box? I just want to confirm that.
+And then given this shortfall on product revenue, should we expect to see a deceleration in services growth somewhere down the line or not?
+Rami Rahim - Juniper Networks, Inc.
+So let me start. The answer to your first question is yes. It's not a displacement by competition. It is â if anything, we're displacing ourselves with new architectural approaches, and we're doing this ahead of our customer's requirements to avoid being disrupted or displaced by the competition. And I think in the long term, this approach, playing a challenger type of approach where you â in some cases need to challenge yourself even if it results in short-term business disruption pays off because it makes us more relevant. And I believe it ultimately helps us to grow our footprint.
+Ken Miller - Juniper Networks, Inc.
+Yeah, from a services perspective, I mean, we expect it to continue to remain very healthy. We've had a very good run in services the last couple of years. We've done a good job with attach and renewals. And we're also starting to do more in the way of professional services and really the solution sale.
+That said, I do think it's reasonable to assume the growth rates that we've been having, which have been largely double digits, 9%, 10% just start to come down a bit. I still think that growth rates will be ahead of the product growth rates, so high single digits, if you will. But it's something that we continue to be strong for us going forward.
+Operator
+Our next question is from Vijay Bhagavath from Deutsche Bank. Please go ahead.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Yeah. Thanks. Yeah, good afternoon. Yeah. I'd like to get your thoughts, Rami, on the pricing dynamics you're seeing out there. And how I mean by this is management teams often do not talk about port pricing ASPs on earnings calls. It would be helpful for us, you do have a legacy routing portfolio. You have the new stuff with 100-gig, a very similar setup in Switching. So help us understand how is pricing trending both on the lower speed legacy side and also on 100-gig both in Routing and in Switching? Thanks.
+Rami Rahim - Juniper Networks, Inc.
+Yeah. Yeah. So it's a great question. And obviously, it's a tremendous area of focus for us. For any given platform, take an MX, a PTX, a QFX or just broader routing, switching, et cetera, you're going to see continuous price erosion for a given port speed. This is nothing new. This is something that we're very used to and has been a fact of life that we've had to deal within this industry since the very first product that we introduced into the market.
+Now as architecture has evolved and our customers have the ability to move to different architectures that can leverage a different platform, so if you have â it traditionally builds a scale-up architecture with an MX, and now you're going to go to a scale-out that uses a PTX as an example, there is a price differential between those two platforms that one has to factor. And we are seeing some of that right now for some of the few deployments with our largest Cloud provider to have the ability to transition their architectures in that way.
+Ultimately, I do believe that it pays off, because you have to assume that these large Cloud providers are going to continue to see growth in their business, are going to continue to see a lot of demand on their services. And therefore, they're going to need to buy way more ports. That's what we're counting on. That's what I believe is going to happen.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Yeah, perfect. A quick follow-on would be, any thoughts on exiting slower or underperforming product areas, such as campus switching, for example? Thanks.
+Rami Rahim - Juniper Networks, Inc.
+Sure. Well, I mean, as far as thoughts of exiting, we are applying a lot of very ruthless analyses to all new products, businesses, technologies where we're going to be investing in, with the goal of making sure that these investments actually do pay off. Campus, I have said this now over the last year or so, even longer than that, I believe, we're going to be focusing on our campus efforts in the large enterprises where we believe that we have some level of differentiation. And also, there is a high degree of leveraging of our development with data center switching, right?
+We understand, we don't have a WiFi portfolio. So there's no point in us in going after opportunities where WiFi is tightly integrated with campus. So, yes, we are in campus, but we are really laser-focused on campus opportunities, where we believe that we really have some differentiation. And actually the way I describe this to our teams and our customers is for those enterprises that view their campus as on-ramps to the Cloud where they need high-performance network in order to access Cloud workloads and data sets.
+Vijay Bhagavath - Deutsche Bank Securities, Inc.
+Perfect. Thanks, Rami.
+Rami Rahim - Juniper Networks, Inc.
+You bet.
+Operator
+Our next question is from Alex Kurtz from KeyBanc Capital Markets. Please go ahead.
+Alex Kurtz - KeyBanc Capital Markets, Inc.
+Yeah. Thanks for taking my question. Just some clarification on these Cloud customers over the last couple of quarters which â Rami, was this a communication issue, or was there sort of a last-minute change and how they viewed architecture over the next big 6- to 12-month deployments internally there? I'm just trying to figure out if we go back to spring timeframe when you were executing this vertical to now, just sort of how that played out with these accounts, as much as you can describe?
+Rami Rahim - Juniper Networks, Inc.
+Look, it's a great question. And we're obviously disappointed in the fact that we weren't able to predict this. We're very close to our Cloud customers. We engage and talk to them on a very regular basis. We're obviously a very part of their network. What has happened here is an acceleration of plans ahead of what we had expected. So as much as we try very, very hard to predict some of these inflection points, sometimes our own customers' plans can change, which makes it obviously difficult, if not impossible for us to predict these sorts of changes. That's really what it is. I don't think it was a communication problem.
+Alex Kurtz - KeyBanc Capital Markets, Inc.
+Okay. Thanks.
+Operator
+Our next question is from Dmitry Netis from William Blair. Please go ahead.
+Dmitry G. Netis - William Blair & Co. LLC
+All right. Thank you. A couple of questions for me. On the Cloud vertical, what is the rough split between Switching and Routing? And I know you guys have said Routing probably vast majority, but can you give us a split there?
+Ken Miller - Juniper Networks, Inc.
+Yeah. So what we've said is Routing is still the majority, but it's not the vast majority within the Cloud vertical. In fact, in the first half of this year, you saw Switching get really close to Routing. Routing was still the majority, call that greater than 50%, but it wasn't the vast majority like you would see in Telco, for example. Clearly, these Q3 results, the miss being predominantly Cloud Switching, that mix has gone back to more Routing heavy. But we are expecting over time, the Switching component in Cloud to actually outpace Routing. And eventually, we think that will be the dominant technology within that vertical.
+Dmitry G. Netis - William Blair & Co. LLC
+Okay, great. Thanks. The next question is on the â just the impact this quarter. Did this come from just the single customer, or you really saw â I know â I get the architectural changes that are happening and how it may impact more than just one customer. But specific to Q3, was this coming from just one large customer, or were there several ones involved here on the Switching side?
+Rami Rahim - Juniper Networks, Inc.
+I mean, all we can say is there is a fairly high degree of concentration with hyper-scalers, especially as it pertains to switching in Juniper's business.
+Ken Miller - Juniper Networks, Inc.
+Yeah, and I would say, I mean, it's not one customer, but it's also not several. I mean, you asked if it's one of those two, it's neither of those.
+Dmitry G. Netis - William Blair & Co. LLC
+Okay, all right. And then lastly, my follow-up. If you guys are guiding Routing to be flat next year, given the transition you're seeing, given also the Switching that you said may get to the normal pattern, but there's still kind of a poor visibility on that I suppose at this stage. And then Security is sort of going through the ebbs and flows, it doesn't seem like you will hit your 3% to 6% CAGR target as you've outlined in the past. So shouldn't you be maybe thinking around the flat growth next year? I know you're not providing guidance, but should investor be thinking this is how 2018 is going to shake out, right, given whatever you just said?
+Ken Miller - Juniper Networks, Inc.
+Yeah. No, so good question. So, let me just talk about Switching for a second. We do expect Switching to grow next year. I think that's important. We've talked about the Tier 2, Tier 3 traction we're getting, which is double-digit growth. QFX all up grew year-on-year even this quarter, with these results with this large spending delay. So we expect Switching to be a growth driver for us.
+As it relates to kind of FY 2018 as you mentioned, I'm not giving specific guidance. But I will say this, we are going to be very focused on growing. We think there's an opportunity to grow. That said, we're equally, if not more so, focused on earnings expansion. And that's something that we've â I believe, we've shown some steps in the last several quarters. And I think we'll continue to show steps in that regard, making sure we focused on operating excellence and taking costs out where we can, but making sure we focus the costs, the investments that we are making in the right areas to enable long-term growth.
+We also have a very strong cash flow. As you know, our balance sheet is strong. We have a very sustained capital return program. So I do think we are very focused on bottom line, and we'll continue to be next year.
+Dmitry G. Netis - William Blair & Co. LLC
+All right. Thanks, guys.
+Rami Rahim - Juniper Networks, Inc.
+Thank you.
+Operator
+Our next question is from Jayson Noland from Robert W. Baird. Please go ahead.
+Jayson A. Noland - Robert W. Baird & Co., Inc.
+Okay, great. Thank you. Rami, you've mentioned SD-WAN a couple of times, I believe. It's a hot category. And Juniper's name doesn't come up that often, crowded market to be fair, I guess. Do you have what you need from a portfolio perspective here? And then how would SD-WAN impact your traditional router market, assuming some success?
+Rami Rahim - Juniper Networks, Inc.
+Yeah. Thanks for the question, Jayson. So I'm actually not surprised by your comment that our name doesn't come up all that often, and that's pretty much because we've taken a very deliberate strategy where at least initially, we're focusing our SD-WAN solution on scalable, multitenant, very versatile like extensible architectures with security built in, that are very appealing to our service provider customers.
+Service providers all want an SD-WAN strategy and recognize that they need some help with it, and this is essentially what we're doing. We've developed a solution ideally suited for their plans. And we're seeing traction there.
+As far as impact to the rest of the Routing business, I know there were all sorts of predictions that this is going to have a deflationary effect on MPLS and so forth. But I have to say that thus far based on conversations with many of our Telco customers where, of course, we enjoy very strong relationships, it hasn't had that effect. I just don't expect it to have any sort of meaningful effect on the need for IP routing or MPLS capabilities in the wide area and in the foreseeable future.
+Jayson A. Noland - Robert W. Baird & Co., Inc.
+Okay, thank you.
+Operator
+Our next question is from Paul Silverstein from Cowen and Company. Please go ahead. I'm sorry, Paul, your line is live.
+Kathleen Nemeth - Juniper Networks, Inc.
+Paul, are you there?
+Operator
+Well, I think he just disconnected. We'll move on to the next question.
+Kathleen Nemeth - Juniper Networks, Inc.
+Okay. We'll go on to the next.
+Operator
+Yeah, from Michael Genovese from MKM Partners. Please go ahead.
+Michael E. Genovese - MKM Partners LLC
+Great. Thanks a lot. Just in terms of the guidance for the fourth quarter, doesn't seem to envision any type of normal seasonality in the traditional service provider market, certainly no budget flush or normal increase of given seasonality. So can you just talk about that a little bit more, and why you don't expect to see fourth quarter increase in the telco market?
+Rami Rahim - Juniper Networks, Inc.
+Yeah. So I think, I mean, we're actually almost at a new normal with Telco. I mean, the last few years, we've seen kind of a challenged market there. And we haven't had big Telco flushes of recent times. We used to have those back in the growth days in the Telco space. But at this point, we expect Telco to remain challenged. I mean that's â as we all know, a particularly lumpy business. So it's hard to predict with certainty. But I don't expect flushes at this point. In our outlook, we have not assumed an increase in Telco spend in the Q4 because that's just not what we see given the environment that they're in.
+Michael E. Genovese - MKM Partners LLC
+Okay. Thanks for the question.
+Rami Rahim - Juniper Networks, Inc.
+Sure.
+Kathleen Nemeth - Juniper Networks, Inc.
+Thanks, Mike.
+Operator
+And our next question is from Paul Silverstein from Cowen and Company. Please go ahead.
+Paul J. Silverstein - Cowen & Co. LLC
+Rami, can you hear me?
+Rami Rahim - Juniper Networks, Inc.
+Yes.
+Kathleen Nemeth - Juniper Networks, Inc.
+Yes. We can hear you, Paul. Go ahead.
+Paul J. Silverstein - Cowen & Co. LLC
+Appreciate it.
+Rami Rahim - Juniper Networks, Inc.
+Go ahead, Paul.
+(53:15)
+Paul J. Silverstein - Cowen & Co. LLC
+I apologize returning to the question yet again. But I just want to make sure I understand, and perhaps I'm misinterpreting some stuff you said previously. But when you say that you're disrupting yourself and that drove the issue, and then this is across a number of different, at least more than one player, more than one of the Cloud customers, I'm confused why you didn't â if you drove yourself, why wouldn't you see the issue, as opposed to the Cloud operators changing their architecture, then advising you to change and it catches you unaware. What's the reconciliation?
+And then for Ken...
+Rami Rahim - Juniper Networks, Inc.
+Yeah, Paul...
+(53:57)
+Paul J. Silverstein - Cowen & Co. LLC
+On the gross margin, can you remind us â I think you said in the past that your Cloud customers have the same gross margin (54:07) or corporate average, can you just remind us of that? Thanks, guys.
+Rami Rahim - Juniper Networks, Inc.
+Paul, to your question about why we could not have predicted this, yes, we did, in fact, develop these products and the solution with an eye that the architectures are going to evolve. What we did not predict and could not have predicted because the plans change for our customers themselves is timing and the pace at which they have moved.
+And honestly, I mean, it's impressive despite their size and just how nimble they can be in embracing and deploying new architectural approaches. And again, keep in mind that in the Cloud vertical and where we're seeing the bulk of the sort of the transition that's happening, it's the large Cloud vertical â the large customers is why it doesn't take all that many to make a meaningful change to our overall business.
+Ken Miller - Juniper Networks, Inc.
+Yeah, and I just want to clarify, what we're seeing is the pause in between â in this transition, right? So we're seeing the previous architectures, if you will, the spend slowed down there dramatically as they get ready for the new architecture ramps into the future.
+On a gross margin perspective, what we've said and continue to say is the Cloud vertical by itself doesn't have a margin difference. What does drive margin more than customer vertical is technology. So because the Cloud vertical historically has had a higher switching mix than the Telco vertical as an example has a larger â has a lower margin profile, but it's really due to product not customer at this point.
+Paul J. Silverstein - Cowen & Co. LLC
+I appreciate it. Thank you.
+Ken Miller - Juniper Networks, Inc.
+Sure.
+Operator
+Our next question is from Aaron Rakers from Wells Fargo. Please go ahead.
+Aaron Christopher Rakers - Wells Fargo Securities
+Yeah. Thanks for taking the question. Kind of on the competitive landscape, again, I'm just curious as we look at some of the competitors launching and pushing their Jericho II or Jericho Plus based platforms into the market, how we should think about your guys as competitive positioning as it relates to kind of product cycle cadence, particularly on the router side of the business?
+Rami Rahim - Juniper Networks, Inc.
+Certainly. So we are keenly aware of the competitive dynamics that are happening all around us, especially in the Cloud space where â and Routing, which is I think where you really wanted to focus, in the Cloud space where we enjoyed some good footprint.
+We developed the PTX from a silicon and software standpoint, as what I believe again to be this perfect blend of Routing and Switching capabilities that can evolve with our customer's architectures.
+The roadmap for the PTX, I mean, we get encouraged now by the momentum of the product, and we make sure that we're going to be continuing to invest in ways that keep us ahead of our customer's requirements, and also the competition. And what I believe to be the case here is that the PTX will remain very competitive with the Cloud customer's, in particular, and we'll actually start to gain more traction in other verticals like large enterprise space and telcos over time.
+Aaron Christopher Rakers - Wells Fargo Securities
+Okay. And as a real quick follow-up. I'm curious on the realignment efforts, do you have any targeted kind of operating expense reductions? Is this truly just a reinvestment or realignment of investments, or are you expecting to take costs out of the company?
+Ken Miller - Juniper Networks, Inc.
+Yeah, so we have been taking head count and costs out as we continue to optimize kind of our operations. I would say that it's largely in line with our revenue expectations. We're going to manage OpEx largely in line with revenue. And as we see challenges to the revenue top side and gross margins for that matter, we are going to look to take costs out and protect the bottom line.
+Going forward at the same â the challenge and what we're really focused on is doing that in a way that doesn't hurt the long-term growth of the business, making sure we are investing in the right area, so that's where it goes down to operational excellence ideas. We've done a lot in the past on consolidating and collapsing management, et cetera, and really focused on areas that do save money, but also don't come at the expense of output. So that's really what we're focused on going forward.
+Aaron Christopher Rakers - Wells Fargo Securities
+Thank you.
+Ken Miller - Juniper Networks, Inc.
+Sure.
+Operator
+Thank you. This concludes the question-and-answer session. I'd like to turn the floor back over to management for any closing comments.
+Kathleen Nemeth - Juniper Networks, Inc.
+Okay. Thank you, Operator. And thank you, everyone, for joining us and your great questions. As always, we'll speak with you next quarter. Thank you.
+Operator
+This concludes today's teleconference. Thank you for your participation. You may disconnect your lines at this time.

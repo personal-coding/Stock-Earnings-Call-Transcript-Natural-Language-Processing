@@ -1,0 +1,268 @@
+Advanced Micro Devices, Inc. (NASDAQ:AMD) Q2 2015 Earnings Call July 16, 2015 5:30 PM ET
+Executives
+Ruth Cotter - Senior Manager-Investor Relations
+Lisa T. Su - President, Chief Executive Officer & Director
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Analysts
+David M. Wong - Wells Fargo Securities LLC
+Ian L. Ing - MKM Partners LLC
+Vivek Arya - Bank of America Merrill Lynch
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Sanjay Chaurasia - Nomura Securities International, Inc.
+Mark Lipacis - Jefferies LLC
+Christopher A.J. Rolland - FBR Capital Markets & Co.
+Stacy A. Rasgon - Sanford C. Bernstein & Co. LLC
+John W. Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+Harlan L. Sur - JPMorgan Securities LLC
+Kevin E. Cassidy - Stifel, Nicolaus & Co., Inc.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Operator
+Good day, ladies and gentlemen, and thank you for your patience. You have joined the AMD Second Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. As a reminder this conference is being recorded. I would now like to turn the conference over to Ruth Cotter, Corporate Vice President of Corporate Communications and Investor Relations. You may begin.
+Ruth Cotter - Senior Manager-Investor Relations
+Thank you, and welcome to AMD's second quarter conference call. By now you should have had the opportunity to review a copy of our earnings release and the CFO Commentary and slides. If you have not reviewed these documents, they can be found on AMD's website at ir.amd.com. Participants on today's conference call are Lisa Su, our President and Chief Executive Officer; and Devinder Kumar, our Senior Vice President, Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on amd.com.
+I would like to highlight a few dates for you. AMD will be presenting at the Pacific Crest Technology Leadership Forum on August 10 in Colorado and at the Jefferies Semiconductor, Hardware & Communications Infrastructure Summit on August 25 in Chicago, and additionally, our third quarter quiet time will begin at the close of business on Friday, September, the 11th.
+Before we begin, let me remind everyone that today's discussion contains forward-looking statements based on the environment as we currently see it. Those statements are based on current beliefs, assumptions and expectations, speak only as of the current date and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+Please note that non-GAAP financial measures referenced during this call are reconciled to their most comparable GAAP financial measure in the press release and CFO Commentary posted on our website at quarterlyearnings.amd.com. Please refer to the cautionary statements in today's earnings press release and CFO Commentary for more information. You will also find detailed discussions about our risk factors in our filings with the SEC and in particular AMD's Quarterly Report on Form 10-Q for the quarter ended March 28, 2015.
+Now, with that, I would like to hand the call off to Lisa. Lisa?
+Lisa T. Su - President, Chief Executive Officer & Director
+Thank you, Ruth, and good afternoon to all those listening in today. As we announced last week, second quarter revenue and gross margin decreased more than we initially guided as the consumer PC market became decidedly weaker following our Financial Analyst Day. The softer than expected consumer PC demand in advance of the Windows 10 launch caused our OEM notebook sales to slow late in the quarter, as our OEM customers and retailers actively work through their inventory of Windows 8-based systems.
+This significantly impacted our second quarter PC notebook sales and reduced our gross margin as we ended the quarter with a larger mix of lower gross margin EESC revenue. Despite our Computing and Graphics revenue shortfall, our other businesses performed largely as expected. We also made some good progress during the quarter as we introduced several key new products, secured multiple embedded design wins across our target markets and continued to see strength in our Semi-Custom business.
+Computing and Graphics segment revenue decreased 29% sequentially, based on soft consumer demand. This also impacted sales of our 6th Generation A-Series APU, code name Carrizo, as some OEMs chose to align Carrizo launches with the Windows 10 launch. We expect our mobile unit shipments will rebound and ramp in the second half of the year as more than 35 Carrizo platforms come to market globally.
+In the channel, we saw a sequential increase in desktop processor revenue due to solid demand for our FX processors and our A-Series APUs. We also reduced downstream inventory levels in the quarter largely completing our multi-quarter channel rebalancing effort.
+GPU revenue decreased sequentially in line with seasonality. We did see good initial demand for our new 300 Series GPUs and latest flagship Radeon R9 Fury X, which launched late in the quarter and contributed to a sequential improvement in GPU channel revenue and ASP. Fury X is powered by our Fiji GPU, the industry's first graphics chip to feature die-stacked high-bandwidth memory, which can deliver unprecedented performance in an extremely quiet and compact graphics card. We are pleased with the initial ramp-up of our Fiji GPUs and will expand our industry-leading HBM GPU offerings in the coming quarters as we introduce the Fury, Nano and a high-end duel Fiji GPU card.
+We also strengthened our management team, as Jim Anderson joined us to lead our Computing and Graphics business group. Jim began his career as a processor architect and has held several leadership, business management and engineering roles across multiple technology companies. He is the ideal leader to return CG to a positive trajectory as we focus on stabilizing the business and then regaining profitable share.
+Looking at our Enterprise, Embedded and Semi-Custom segment; revenue increased 13% sequentially driven by strong Semi-Custom sales. We remain on track to set a record for annual Semi-Custom unit shipments this year. As in 2014, we anticipate the third quarter will be our annual peak for Semi-Custom shipments and revenue, based on Sony and Microsoft building inventory in advance of the holiday period. We also began development of a new Semi-Custom design in the quarter. Like our other Semi-Custom designs, the details are customer confidential, but we are pleased with our progress continuing to expand our customer base in this important part of our business.
+Looking forward, we believe the second quarter will be our revenue trough for the year, based on stronger second half demand for game consoles, combined with the ramp of our newest APU and GPU products, and OEM demand improving as the market transitions to Windows 10. That said, the PC market remains volatile. We must further align our cost structure with our revenue profile, as we focus on our strongest market opportunities and continue investing in the high-performance Computing and Graphics technologies that can enable us to create great products and reestablish AMD as a leader across our target markets.
+As we discussed at our Financial Analyst Day in May, our focus is to expand margins and improve our cash flow generation by gaining profitable share across the gaming, immersive devices and data center markets over the next three years to five years. We are fully committed to pursuing this strategy as we create a more diversified AMD capable of generating consistent, profitable returns independent of the ebbs and flows of a single market.
+AMD is at its best when we deliver leading edge technology, based on taking bold calculated risks that leverage our differentiated IP and design capabilities to create unique products that make our customers incredibly successful. This is where we are focused. Despite the near-term pressures, we have the right strategy to improve AMD's financial results.
+Now, I would like to turn the call over to Devinder to provide some additional color on our second quarter financial performance. Devinder?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Thank you, Lisa, and good afternoon, everyone. In my remarks today, I will be referencing non-GAAP figures, except for revenue which is on a GAAP basis. As Lisa discussed, second quarter results reflect the weaker than expected consumer PC market, which impacted demand from our OEM customers. Our EESC segment revenue was up, our channel inventory corrective actions are largely completed, and although our channel sales came in as expected, up from the prior quarter, it was not enough to offset the impact on our PC OEM processor business.
+Second quarter revenue was $942 million, down 8% sequentially, primarily driven by lower sales to our PC OEM customers. The year-over-year decline of 35% was largely driven by decreased sales across our Computing and Graphics products. Gross margin was 28%, down four percentage points from the prior quarter, primarily due to a higher mix of Enterprise, Embedded, Semi-Custom segment revenue and lower than anticipated Computing and Graphics segment, notebook APU unit volumes. Additionally, our GAAP gross margin was affected by a $33 million technology node transition charge.
+Operating expenses in the second quarter were $353 million, down $4 million from the prior quarter. Operating loss was $87 million and net loss was $131 million, or $0.17 per share, calculated using 778 million shares. Net interest expense, other expense and taxes were $44 million in the quarter, up from $43 million in the prior quarter. Adjusted EBITDA was negative $42 million, down from a positive $13 million in the prior quarter, and on a trailing four quarter adjusted base â adjusted EBITDA was $200 million.
+Now, turning to the business segments; Computing and Graphics revenue was $379 million, down 29% sequentially, primarily due to decreased sales of our client notebook processors due to a weak consumer PC market, impacting our sales to OEMs. Channel PC processor and graphics sales were in line with the company's expectations. Computing and Graphics operating loss was $147 million, compared to a $75 million loss in the prior quarter, primarily due to lower notebook processor sales. Enterprise, Embedded and Semi-Custom revenue was $563 million, up 13% from the prior quarter, driven by higher sales of our Semi-Custom SoCs. Operating income of this segment was $27 million, down from $45 million in the prior quarter, due to the $33 million technology node transition charge.
+Turning to the balance sheet; our cash, cash equivalents, and marketable securities balance totaled $829 million at the end of the quarter, down $77 million from the prior quarter, primarily due to lower sales in the quarter. Inventory was $799 million, up from $688 million in the prior quarter, in line with expectations in support of Semi-Custom holiday season sales in the second half of 2015, and due to lower sales of our client products driven by a weak consumer PC market. Debt as of the end of the quarter was $2.27 billion, flat from the prior quarter. This includes an additional $42 million draw on our ABL facility which was utilized to extinguish our 6% convertible senior notes that came due in May 2015. With the final payoff of our 2015 debt tower (11:50), there are no term debt maturities due until 2019. Free cash flow in the quarter was negative $75 million, an improvement of $120 million from the prior quarter.
+Now turning to the outlook; at our Financial Analyst Day in May, we provided a view of our business in the second half of the year and an overview of the drivers that we believe would return AMD to profitability in the back half of the year. However, late in the second quarter, our OEM client PC demand was lower, triggered by the impact of the Windows 10 launch and inventory re-profiling by our OEM customers. Due to the shift in the PC market, we are now seeing a more challenging environment than we did in May with OEMs remaining very cautious about the second half, particularly the back-to-school cycle.
+It is against this backdrop that we provide the following outlook. For the third quarter of 2015, AMD expects revenue to increase 6% sequentially, plus 3% or minus 3%. Non-GAAP gross margin is expected to be approximately 29%. Non-GAAP operating expenses are expected to be approximately $340 million; interest expense, taxes and other to be approximately $45 million. Inventory is expected to be approximately $850 million, in support of the second half product ramps and Semi-Custom sales to support the holiday season, and cash is expected to be approximately $700 million. This cash balance includes third quarter interest expense payments on our debt of approximately $70 million. Due to the recent change in the PC market outlook, our goal of second half profitability has been pushed out. However, we will continue to work towards improving our second half financial performance. We are assessing actions to be taken to reduce our current cost structure with a view to lower operating expenses to better align with our near-term revenue profile. We anticipate restructuring charges associated with those actions.
+In conclusion, we look forward to seeing improvements in the back half of the year as we ramp Semi-Custom wins and our newest APU and GPU products. We remain focused on executing our longer-term product roadmap strategy as laid out at our Financial Analyst Day.
+With that, I'll turn the call back over to Ruth. Ruth?
+Ruth Cotter - Senior Manager-Investor Relations
+Thank you, Devinder. Operator, if you could poll the audience for questions, please.
+Question-and-Answer Session
+Operator
+Certainly. Our first question comes from the line of David Wong with Wells Fargo. Your line is open.
+David M. Wong - Wells Fargo Securities LLC
+Thanks very much. Devinder, can you remind us as to what your minimum cash balance goal is? And also do you have â should you need to raise additional cash? Do you have an order of preference of the types of cash raised that you would work through?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Yes, thank you, David. From a cash standpoint, as you probably heard us say previously, we have a minimum target of about $600 million to the range of $1 billion. We can manage it lower than that from a viewpoint of available revenue in our profile of the business model is right now. And in Q2, as you saw, we ended at about $830 million of cash. As far as the financing is concerned, our capital markets, on an ongoing basis, I monitor the capital markets pretty closely and if the need arises, obviously, we'll access the capital market. I think from an overall standpoint, if you think about it, with the cash that we have, we also have ABL availability that we put in place in the late part of 2013. And that's not all fully tapped out. So that's how I'd leave it from a cash standpoint, David.
+David M. Wong - Wells Fargo Securities LLC
+Okay, great. And, Lisa, can you give us some idea in terms of Semi-Custom activities, how many projects you have in the pipeline? You mentioned that you had one that you've begun working on. Are there others that we might hear about over the next few quarters?
+Lisa T. Su - President, Chief Executive Officer & Director
+Sure, David. Thanks for the question. So on the Semi-Custom business, we've certainly been active in our work with various customers across target markets. So last year, we had announced two new Semi-Custom designs that were roughly $1 billion in lifetime revenue that would start ramp in the second half of 2016. We've started a new design this quarter that we believe expands our base for the Semi-Custom business, and we're very pleased with that. And then we still have a fairly active pipeline in Semi-Custom as well. So we view it as very much an area where there's a strategic interest in integrating our Graphics and CPU IP going forward.
+David M. Wong - Wells Fargo Securities LLC
+Great. Thanks.
+Lisa T. Su - President, Chief Executive Officer & Director
+Thanks, David.
+Operator
+Thank you. Our next question comes from the line of Ian Ing with MKM Partners. Your line is open.
+Ian L. Ing - MKM Partners LLC
+Hi, yes, my first question is in GPU refresh. I mean, it's only been days and weeks, but it looks like on the retail sides, the Fury X and Fury is out of stock. So being out of stock is just a demand issue or more of a supply constraint issue?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, Ian, thanks for the question. So we did just launch our Graphics products towards the end of the second quarter, so in the late June timeframe. I think our initial ramp-up has been as expected. We're pleased with the Fury X ramp-up, certainly the fact that it's out of stock is not a bad thing, because it gives us good confidence that the customers are appreciating the product. Fury just launched actually this week and we will be launching Nano in the August timeframe. So I think, overall, the high-bandwidth memory ramp-up is going as expected, and we have a number of products coming out.
+Ian L. Ing - MKM Partners LLC
+Okay. And you talked about the channel business now behaving largely as expected. I mean, is that fairly stable at this point going forward? I know there's some China macro issues that are still coming up on earnings calls, like Fairchild this morning.
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, so overall in our desktop and AIB channel business, we actually grew quarter-on-quarter, while reducing downstream inventory. So, we've been talking for the last couple of quarters of draining downstream inventory, and we now believe that we're close to largely completed with that. Yes, relative to China, I think there are some macro issues and we're watching carefully the China market overall, but relative to our channel business, I think the inventory corrections that we're working on have progressed as planned.
+Ian L. Ing - MKM Partners LLC
+Great. And then my last question, I think you covered a lot of the second half catalysts and product cycles, but one thing I didn't hear about was the Seattle launch, the ARM-based Seattle launch, I think that's second half this year. Is that still on track or is there any other catalysts or product cycles we're missing?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, Ian, so for the key products for the second half, certainly Carrizo on the APU side, the Fiji family of products on the GPU side, and then Seattle will continue to launch in the second half of this year.
+Ian L. Ing - MKM Partners LLC
+Okay. Thank you.
+Lisa T. Su - President, Chief Executive Officer & Director
+Thanks, Ian.
+Operator
+Thank you. Our next question comes from the line of Vivek Arya with Bank of America Merrill Lynch. Your line is open.
+Vivek Arya - Bank of America Merrill Lynch
+Thanks for taking my question. On the Wafer Supply Agreement with GLOBALFOUNDRIES, I believe it was for $1 billion-plus or so this year. And so far you were done with $367 million. I'm just curious, Devinder, do you think you will be able to fulfill this obligation this year? And if not, are there any financial implications we should be taking into account?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Yes, Vivek, I think on the Wafer Supply Agreement, we have taken about $400 million-plus for the year against the commitment we made earlier this year. But we are working actively to re-profile our wafer purchase commitment with GLOBALFOUNDRIES, in particular, given the business outlook.
+Vivek Arya - Bank of America Merrill Lynch
+So do you anticipate any financial implications that we should be taking into account when we look at your cash flow model?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+I think other than re-profiling the wafer purchase commitments, when you re-profile obviously there is a linkage to the cash from an outflow standpoint because the purchases happen and then the cash is paid out. But other than that, that would be â I don't anticipate any financial implications.
+Vivek Arya - Bank of America Merrill Lynch
+Got it. And maybe one for you, Lisa; if we look at the â you are actively trying to bring OpEx in line with the revenue profile. And if I look at all the Semi-Custom wins that you've had so far, they have been at lower gross margins. Is that how we should see some of the newer wins? Will they also be at lower gross margins than corporate average? And if it is a lower gross margins, do you think you can cut OpEx fast enough to be sustainably free cash flow positive sometime in the near future?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, so let me take that question in a couple of parts. So when we think about OpEx, look, we want to make very strategic decisions around OpEx. And we have a long-term roadmap. We have several segments that we're investing in for long-term growth and the Computing and the Graphics IP are critical to make that happen. That said, we do have to align our OpEx with our current revenue projections, and I think we have an opportunity to do that going forward.
+Relative to Semi-Custom and what that means in terms of gross margin profile, I think the Semi-Custom business is across a set of target markets. So game consoles is one of those markets, but there are other markets that we have had success in, and when you look across those markets, I think there will be a range of gross margins as well, depending on the IP and the overall product specifications.
+So, the goal is to return profitability. I think there's no question about that. And we will take active actions, on both the top line and the bottom line to do that, but I wouldn't make any assumptions about sort of the relationship between Semi-Custom and OpEx.
+Vivek Arya - Bank of America Merrill Lynch
+Okay. Thank you.
+Operator
+Thank you. Our next question comes from the line of Matt Ramsay with Canaccord Genuity Inc. Your line is open.
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+Thank you very much for taking my questions. A little bit of a, I guess, longer-term strategic question for you, Lisa. Last night Intel announced the addition of a new chip on their 14-nanometer roadmap and pushed back 10-nanometer. It strikes two things; one, love to get your commentary relative to your foundry partners as to how the Moore's Law progression is going particularly with Zen coming on 14-nanometer next year, and second, it looks like now you will be in a position to potentially overlap your Zen products with a generation of Intel products that is still on 14-nanometer. Just your reaction to that in general and the competitive landscape on the foundry side. Thanks.
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, Matt, so I do think the process technology landscape right now is quite interesting. So on your â the first part of your question, how do we view FinFET technologies? Actually, I think the maturity of FinFET technologies is coming along very nicely, and so we see it as an important part of our roadmap in 2016, across all of our markets. We have actually just taped out our first couple of FinFET designs. Relative to what that means for the competitive landscape going forward, I have been asked that question a couple of times over the last â last year, and my comments have been our focus is on design architecture, and it includes â and ensuring that we use all of our design architecture expertise.
+So, Zen is a clean sheet design, and from an architectural standpoint I think it's going to be very competitive. The fact that the gap between foundry technologies and other technologies is shrinking, I think does change the competitive landscape and will be a good opportunity as we go forward competitively. So we are aggressively going after FinFET, and I think that's going to be an incredibly important node for us.
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+That's helpful. And just as a follow-up for Devinder; you had mentioned in your commentary, rightsizing the operating costs for the new state of the business and you guys had given some targets for the full back half of the year at the Analyst Day, and you've pulled back on that profitability target now. Maybe you could just give a little more granular comments on what you think a proper OpEx structure is for the business as you see it right now relative to some of the larger-term targets you gave at the Analyst Day. Thank you.
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Yes, good question, and I think from a timeframe of profitability, we had said at the Financial Analyst Day that we expect to be profitable in the second half. Obviously that's been pushed out. We are taking actions to reduce the cost structure in line with the near-term revenue outlook, and if you look at the guidance we gave just for Q3, the OpEx is down from the $353 million down to $340 million and it will go down from there as we assess the actions and take actions to reduce the cost structure. Those actions are being assessed right now are not yet finalized, and once those are finalized obviously we will share the details with you.
+Matthew D. Ramsay - Canaccord Genuity, Inc.
+All right, thanks very much.
+Operator
+Thank you. Our next question comes from the line of Ross Seymore with Deutsche Bank. Your line is open.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Hi. Thanks for letting me ask a question. I guess the first one, on the guidance, any sort of color you can give between the two segments, even directionally as you saw in the second quarter they performed significantly differently and that has big margin implications. So any color you can give there would be helpful.
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, Ross, let me start and maybe Devinder will have some comments. So, in terms of the third quarter guidance, we do expect both segments to be up. We've said previously that the Semi-Custom business usually has its strongest quarter in the third quarter. We think that's going to continue to be the case. The Computing and Graphics business is coming off of a low quarter. So we would expect improvement in both units as well as overall revenue as well. So I think you'll see both segments improve in the third quarter.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Great. And I guess as the follow-up, looking a little further out on the Semi-Custom side of things, just wanted to follow up to earlier question on the gross margin side but take a little bit more of a revenue look at it first. If the new businesses are coming on throughout the 2016 period, but the traditional full penetration of the gaming business kind of folds over simultaneously, how do you view the tradeoff between those as it results in your ability to grow that segment of your business, and what does that mean to gross margin if some of those smaller aggregate dollar opportunities may have better gross margins than the game console Semi-Custom business that you have today?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, so let me try to put it this way. So the â let's call it the base Semi-Custom business that's around the game consoles, I think if you look at units and the units that ship year-on-year, I think we will still see 2016 to be a fairly solid year for the traditional, let's call it game console business overall. And then as we layer on top of it some of the new wins, I think that does give us potential to grow in the second half of the year. Obviously, there's a lot to happen between now and then. But I do see Semi-Custom as a growth driver for us going forward.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+And the gross margin implication?
+Lisa T. Su - President, Chief Executive Officer & Director
+With Semi-Custom, I think I would rather talk about operating margin because I think that's the better view of it, and I think the operating margins should also improve going forward.
+Ross C. Seymore - Deutsche Bank Securities, Inc.
+Okay, great. Thank you.
+Operator
+Thank you. Our next question comes from the line of Sanjay Chaurasia with Nomura. Your line is open.
+Sanjay Chaurasia - Nomura Securities International, Inc.
+Oh, hi, Lisa. I have a two-part question on HBM and a follow-up. First question on HBM is, is it margin accretive or dilutive within your GPU business? And second question is, as you integrated HBM, could you talk about the challenges you faced and would you say that you have any technological lead here in integrating HBM in GPUs? Is it basically the six month to eight month lead that you have been able to gain, or there's more to it than you could see, you could maintain a longer lead here?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, so maybe the second question first. Relative to HBM, I think we do have a lead. We're the first in the industry to integrate HBM in GPUs. We've targeted at the enthusiast segment because that's the right segment to, I would say, to learn the manufacturing technology. I would say that the manufacturing has come up as expected and we expect that the overall family of Fiji GPUs, the way we are rolling it out will be a strong set of products in the second half of the year.
+Relative to the margins, I won't comment specifically about it. But I will say overall a key goal for us is to grow Graphics market share, and growing Graphics market share, having a leadership, strong product portfolio at the enthusiast segment helps across the entire portfolio.
+Sanjay Chaurasia - Nomura Securities International, Inc.
+Okay, and as a follow-up, you talked about 20-nanometer designs migrating to FinFET. Could you talk about which specific product was impacted and any associated impact on your revenue growth in the second half?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yeah, on the 20-nanometer case, we did speak a little bit about that at our Financial Analyst Day in May. We started several designs in 20-nanometer and after looking at the overall design tradeoffs, we felt that FinFET was much more competitive, and so we decided to move a number of designs into FinFET technology. Relative to the second half of the year, I don't think there's anything substantive to talk about. I think the important thing is ensuring that we get our product portfolio into FinFET technology next year, which will improve our overall competitiveness.
+Sanjay Chaurasia - Nomura Securities International, Inc.
+Great. Thanks so much.
+Operator
+Thank you. Our next question comes from the line of Mark Lipacis with Jefferies. Your line is open.
+Mark Lipacis - Jefferies LLC
+Thanks for taking my questions. First one, on the new Semi-Custom design that you just started to work on, could you go through the life cycle of one of these; like, when do you see the NRE, when do you see the chip revenues from this come in?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yeah, so we start initial NRE payments as we start the design, and that goes through the design life cycle, and then over â depending on the design it will take anywhere from 24 months to 36 months to see significant revenue. On this particular design, we haven't been specific on the overall timing, but I will say that the lifetime revenue is in the range that we had previously stated for Semi-Custom, so in the $200 million to $500 million range.
+Mark Lipacis - Jefferies LLC
+Okay, great. That's helpful. And then, Lisa, Mark Papermaster has mentioned Virtual Reality as being one of the next big things in the industry. How does that market play out for you guys? When do you start participating in that?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, so we are extremely excited about the Virtual Reality market. I mean, if you look at the progression of that market and how quickly it has evolved, even over the last 12 months, I think it's an area that really uses both CPU and GPU technology. If you look at the headset manufacturers, or the ones that will have product out, most of those are stating product shipments sometime in the 2016 timeframe, starting early 2016.
+So today, it's mostly developer systems, but working closely with the developers with our GPU technology, migrating to more commercial systems in 2016. There's a significant need for high-performance graphics and so we view it as a growth driver for our Graphics business.
+Mark Lipacis - Jefferies LLC
+And on that, are you of the view that this is business applications or consumer gaming applications? Where do you think it will show up first?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, I think it will start with consumer gaming applications. That's where a lot of the activity is, but I think it will migrate to some education and other entertainment applications as well.
+Mark Lipacis - Jefferies LLC
+Okay, thank you. And last question for Devinder, if I may. Devinder, in the event that revenues continue to kind of trickle down, is there a â I understand that a lot of the R&D is shared. Is there an R&D level below which you really â the company does not want to go below?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+I think it goes back to some of the things we talk about at the Financial Analyst Day. Fundamentally, we have a roadmap. We have specific products that are coming out over the next, call it 18-month timeframe and we are going to do everything possible to protect that roadmap, and R&D is obviously going to be the higher priority from that standpoint. And even as we talk and contemplate about the actions we are going to take, we are going to do everything to protect that roadmap for the longer-term; strategic roadmap, as well as the financial model.
+Mark Lipacis - Jefferies LLC
+Fair enough. Thank you very much.
+Operator
+Thank you. Our next question comes from the line of Christopher Rolland with FBR. Your line is open.
+Christopher A.J. Rolland - FBR Capital Markets & Co.
+Hey, guys, thanks for the question. So, first, just a quick clarification and then the question. I was a little confused on the Semi-Custom. Lisa, did you say that you had two new Semi-Custom wins and you just added one for a total of three or is it still just two?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, Chris, we had two that we announced last year, and then we just added a third.
+Christopher A.J. Rolland - FBR Capital Markets & Co.
+Okay. And the one that you just added, is that the new one or are you building one that will launch in 2016? That's the new one?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, that's the new one.
+Christopher A.J. Rolland - FBR Capital Markets & Co.
+Okay, excellent. And secondly, on inventories, so, $850 million seemed a little bit high there. How much of that is that new Semi-Custom win that you're ramping there? And how much of it is console? And where might inventories space out in 2016?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Yes, first of all to clarify the new Semi-Custom win that Lisa just referenced and you just discussed with her is out in time. It's not a second half 2015 inventory item. And then going back to your specific observation on the inventory being up from a Q2 to Q3 standpoint, it is a support the second half product ramp and Semi-Custom sales in particular, and really the second half being stronger than the first half from a revenue standpoint leads to that inventory going up from Q2 to Q3. And we continue to manage it and I fully expect that inventory comes down after we get past the Q3 timeframe.
+Christopher A.J. Rolland - FBR Capital Markets & Co.
+Okay. And, Devinder, while I have you, just on the back of some of the gross margin questions, there's so many moving parts. I think we're all having problems kind of modeling over the next year. So how can we think about it, just high level and directionally, with all of these moving parts, as game consoles roll off, as new Semi-Custom wins might roll on, and as we transition to 14-nanometer; just sort of directional insights here, just so that we don't get blindsided?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+I think if you look at it from a viewpoint of Q3, the drivers are obviously the mix of the products within the segments, but also Q3 in particular, the higher mix of the Semi-Custom as Lisa referenced is a peak quarter from a Semi-Custom revenue standpoint. After that, obviously the continuing trajectory that we have from the client PC group, as well as the Graphics piece getting into the Q4 timeframe. And so that's something that I look at from a second half standpoint. Out in 2016, you're right, there are a lot of factors that will come into play, Semi-Custom, as well as the PC products that we have. But I don't want to venture right now where that will be at this moment.
+Christopher A.J. Rolland - FBR Capital Markets & Co.
+Okay. Thanks so much, guys.
+Operator
+Thank you. Our next question comes from the line of Stacy Rasgon with Bernstein Research. Your line is open.
+Stacy A. Rasgon - Sanford C. Bernstein & Co. LLC
+Hi, guys, thanks for taking my questions. First, I just want to dig into this a bit. You said Q3 obviously is a peak for Semi-Custom. You said Q2 was the trough for the company for the year, which it implies in Q4, Semi-Custom should be down, which means a pretty big ramp of the Computing Graphics business into Q4. I mean, high double digits, at least, if not more. I guess, what gives you confidence that that's going to happen and what are the consequences if that ramp doesn't come to play, given than you're building a ton of inventory that's supposed to sell out in Q4?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+I'll start and then Lisa can add. I think if you look at what happened with the actions that we took going back several quarters, one thing we have done and we feel good about that is in the PC space and the channel inventory in particular, all of the actions that'll be started in the Q4 timeframe and Q1, Q2 largely completed. And as we said, the channel sales quarter-on-quarter were up and we feel good about that. Those are very directed actions taken in an aggressive manner by us. And in Q2, we did have the impact on the OEM APU sales in particular with our transition of Indostan (39:07).
+And as we get to the second half, especially with the new products, we think we can ramp those products and the Q3 guidance as Lisa said earlier, takes into account an improvement both on the EESC segment, as well as the CG segment. Q4, we're not providing guidance, but as you get to the Q4 timeframe, we think the PC market continues to stabilize and that helps us from that standpoint. And that's the way we have it baked in.
+On the inventory question that you have, as I explained earlier to another question, it is up from Q2 to Q3, but we are actively working with our partner, GLOBALFOUNDRIES, to go ahead and re-profile those commitments that we made earlier this year. And I think that should help from an inventory standpoint to go ahead and manage it, to where we think it's more comfortable and in line with the revenue outlook.
+Stacy A. Rasgon - Sanford C. Bernstein & Co. LLC
+Right. I guess â I mean, you're telling me you feel good about Q4, but I mean, let's be honest, you haven't been able to forecast a month and a half out, let alone two quarters. It just seems to me like there's a setup here for more bad things to happen if that market doesn't stabilize. And even if it does stabilize, I mean, your business has been â let's be honest, it hasn't been stable, versus where the market's been either. I'm just wondering what the risk is, given the way you're setting up inventories and setting up expectations for that Q4 ramp.
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, Stacy, so look, that's a fair comment. I'll take that. Now if I tell you what I see going forward, we'll give you the best information we have at this point in time. So the Semi-Custom business, Q3 will be the peak. We need a few more data points to really call Q4 correct. But so far, what we see is a solid market on the Semi-Custom side. On the Computing and Graphics side, there are â basically think about it as four pieces to the business. So we have OEM processors, we have channel processors, we have graphics, consumer graphics and then we have professional graphics.
+So amongst those four segments from what we see, we are being a bit cautious on Q3, just given we need to see exactly how the OEMs ramp; the Windows 10 launch, we think Windows 10 is a good product, but we need to see how that launches. As we go into holiday, we believe we'll make progress in graphics. We believe we'll make progress in professional graphics. I've said that the channel looks like it's healthier for us and we need to see how the OEM demand looks. But those are the ways I think about Computing and Graphics. So clearly we're not happy with the performance in Q2 but as we look forward, we need to manage the business the way we see it and this is how we see it today.
+Stacy A. Rasgon - Sanford C. Bernstein & Co. LLC
+Got it. Thank you. That's helpful. For my follow-up, I just wanted to see what other options you have besides OpEx cuts to arrest cash burn if that growth doesn't come back. We've already gone through, I guess, selling assets. You've stretched out your cash conversion cycle significantly this quarter. You've maxed out half of your revolver. What are your other options above and beyond that if the OpEx cuts themselves aren't enough, if the environment doesn't recover?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+I think there are always options. I think everything you just said in terms of managing the working capital and managing the cash, managing the inventory, making sure that's in line with the revenue profile from an outlook standpoint allows us to do that. And from a standpoint of cash, we've done a good job managing the cash over the last several quarters and several years. And I have confidence of doing that on a go-forward standpoint. And we'll monitor and see what is needed. And as I said earlier if the need arises, we will access the capital market. I still have the ABL availability as you just observed, and we'll do what's needed to continue to fund the business.
+Stacy A. Rasgon - Sanford C. Bernstein & Co. LLC
+Capital markets means raise equity if you needed to, or debt?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+I'm not going to get into the details on this call, Stacy, but I'm sure we can access capital markets if the need arises.
+Stacy A. Rasgon - Sanford C. Bernstein & Co. LLC
+Got it. Thank you very much, guys.
+Operator
+Thank you. Our next question comes from the line of John Pitzer with Credit Suisse. Your line is open.
+John W. Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+Yeah, good afternoon, guys. Devinder, just a quick follow-up or clarification on my part on the cash comments; you guided to cash levels in the September quarter around $700 million. I think to an earlier question you said that you'd still feel comfortable operating below $600 million. I guess what I'm trying to figure out, is $700 million kind of what you envision to be the trough? Because with inventory coming down in Q4 and maybe the presumption of some sequential revenue growth, shouldn't cash grow from September to December? If you can just help me understand those dynamics, it'd be helpful.
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Yeah, so the fact is, I think, if you look at it from a cash standpoint for the rest of the year, in Q3 with the cash guidance of $700 million, the way our debt maturity profile is, the cash interest payments happen in two quarters, in Q1 and Q3 to the tune of about $70 million. So there is a disproportionate impact of cash in Q1 and Q3 of our fiscal year, just the way the cash payments go out, even though the accounting is done on a pro rata even basis for the year.
+And then you're right, we're managing the inventory and re-profiling some of the commitments that we have should help from a cash standpoint and we're very focused to go ahead and do that. Like I said, after we get through the Q3 timeframe, in Q4 we don't have the cash interest payments, and with the revenue being up in the second half, is what we are expecting starting with Q3, we think that it'll benefit the cash situation as we get to the end of the year.
+John W. Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+That's helpful. And then, guys, maybe a little bit more clarification on the profile of inventory you are holding right now. I understand the need to grow inventory, Q2 to Q3 for new product launches, but the inventory growth in Q2, to what extent was that new product driven versus just demand on older products kind of not being there? And do we carry an obsolescence risk on any of the inventory going into the back half of the year?
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Two parts to it, for the Q3 growth, new products as well as the Semi-Custom business has been higher in the second half compared to the first half. And that's specifically what is taking the inventory from about $800 million to the $850 million levels, that we are guiding to.
+John W. Pitzer - Credit Suisse Securities (USA) LLC (Broker)
+Thank you.
+Operator
+Thank you. Our next question comes from the line of Harlan Sur with JPMorgan. Your line is open.
+Harlan L. Sur - JPMorgan Securities LLC
+Hi. Good afternoon. Thanks for taking my question. On the current Semi-Custom business or game console business, I know the team is focused on operating profitability but one way to drive that is through better gross margins. I think you obviously have a targeted cost curve that you are trying to drive. Hopefully that's faster than your negotiated ASP declines. If you can just give us an update on what the team is doing to drive the cost profile. And then I guess at some point, given the relatively long product life cycle for these products, any opportunities for die shrinks to drive a step function shift lower in cost per chip?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yeah, Harlan, so certainly we would like to drive both gross margins as well as operating margins. So the ASP declines are fairly well understood. Those are pre-negotiated. Relative to what we're doing to drive overall cost or COGS down, it's the usual things. It's yields, it's test times, it's procurement savings and those kind of things. I would say it's been largely as expected. These products are now several years into their life cycle.
+To your follow-up question about die shrinks, I think if you look at the history of game consoles, you will normally see a die shrink, but that will happen out in time, and we'll discuss it at that point.
+Harlan L. Sur - JPMorgan Securities LLC
+Great. Thanks for that. And then on the server and data center side, there's been a lot of focus on the Intel-Altera deal and the potential to marry a CPU with a programmable parallel processing architecture to help with computational acceleration. Given that the GPU is a parallel processing engine, is it fair to assume that you guys already have the capabilities to offer either in a standalone form or in integrated form alongside your x86 or ARM-based server processors a similar type of solution and is that something that you have on your roadmap?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yeah, so the idea of marrying a processor with some type of accelerator, whether it's a GPU or an FPGA I think is definitely important in the data center. We view that we do have the ability to do both integrated with our APUs, as well as in different packages, offering both CPU and GPU together. So I think the idea of using accelerators is definitely important in data centers. We agree with that. Different people will do it different ways, and certainly our approach will be to get very high-performance CPUs and GPUs that can interoperate.
+Harlan L. Sur - JPMorgan Securities LLC
+Thank you.
+Ruth Cotter - Senior Manager-Investor Relations
+Operator, we'll take two more questions, please.
+Operator
+Thank you. Our next question comes from the line of Kevin Cassidy with Stifel. Your line is open.
+Kevin E. Cassidy - Stifel, Nicolaus & Co., Inc.
+Thanks for taking my question. My question is related to Seattle. Have you announced design wins or can you give us an idea of what that product ramp looks like?
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes, so I think Seattle is a good offering for 64-bit ARM servers, and if you look at what we've said up until now, we have a number of companies both in the ecosystem, as well as users developing software on Seattle and looking at how it operates in the environment. I would say that the overall revenue of Seattle will be modest, as ARM ramps will take a bit of time, but the importance of building the ecosystem is there. So that's our focus with Seattle and working with key customers.
+Kevin E. Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay. Thanks. As just as a follow-up, what percentage of the market do you think that can address, Seattle?
+Lisa T. Su - President, Chief Executive Officer & Director
+I think we've said before and my view on this is that the overall ARM server market or let's call it ARM in data center markets will take some time to develop. So let's call it the three-year to five-year timeframe. So in terms of today's market, we actually believe that the x86 will be the majority of the market.
+Kevin E. Cassidy - Stifel, Nicolaus & Co., Inc.
+Okay. Thank you.
+Operator
+Thank you. Our last question comes from the line of Vijay Rakesh with Mizuho. Your line is open.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Yes, hi, guys. Just on your 14-nanometer FinFET transition. How do you see the ramp? I mean, when do you see the crossover on that as you go through 2016?
+Lisa T. Su - President, Chief Executive Officer & Director
+When you say crossover, Vijay, you mean volume crossover or...
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Yes, volume crossover or shipment crossover.
+Lisa T. Su - President, Chief Executive Officer & Director
+Yes. We will be bringing different parts of the product line into FinFET at different points in time, so I don't think I have an exact answer for that. I think what we've said is graphics will certainly utilize FinFETs as well as our new Zen processors and so they will roll out over the quarters in 2016.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Got it. And on the Semi-Custom side, obviously, June quarter grew sequentially, but the operating margins declined significantly. What are you guys doing there to improve those operating margins there? I know you've been asked a couple of questions already, but, again, give some thoughts there.
+Devinder Kumar - Chief Financial Officer & Senior Vice President
+Yes, I can comment. If you are looking specifically at Q1 to Q2, the operating margin decline has the $33 million charge. There was a charge associated with the technology node transition from 20-nanometer FinFET, that's in the segment operating margin results. So if you neutralize for that, I think you'll see a different operating margin profile from a quarter-to-quarter standpoint.
+Vijay R. Rakesh - Mizuho Securities USA, Inc.
+Oh, okay. Got it. Thanks.
+Ruth Cotter - Senior Manager-Investor Relations
+Operator, thank you, and that concludes our conference call this afternoon.
+Operator
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program. You may all disconnect. Everyone, have a great day.

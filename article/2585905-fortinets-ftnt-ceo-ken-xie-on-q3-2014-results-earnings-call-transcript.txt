@@ -1,0 +1,421 @@
+Fortinet, Inc. (NASDAQ:FTNT) Q3 2014 Earnings Conference Call October 22, 2014 4:30 PM ET
+Executives
+Michelle Spolver - VP, Corporate Communications and IR
+Ken Xie - Founder, Chairman and CEO
+Drew Del Matto - CFO
+Analysts
+Gray Powell - Wells Fargo Securities
+Matthew Niknam - Goldman Sachs
+Brent Thill - UBS
+Melissa Gorham - Morgan Stanley
+James Wesman - Raymond James
+Sterling Auty - JPMorgan
+Paul Leone - Bank of America Merrill Lynch
+Jayson Noland - Robert Baird
+Erik Suppiger - JMP Securities
+Daniel Ives - FBR
+Jeff Kvaal - Northland
+Shaul Eyal - Oppenheimer
+Jonathan Ho - William Blair
+Scott Zeller - Needham
+
+Operator
+Good day, ladies and gentlemen, and welcome to the Fortinet Q3 â14 Earnings Announcement. At this time, all participants will be in a listen-only mode, but later there will be a chance to ask questions and instructions will be given at that time. (Operator Instructions) And as a reminder, today's conference is being recorded.
+And now, I would like introduce your host for today, Michelle Spolver.
+Michelle Spolver
+Thank you, John. Good afternoon everyone and thank you for joining us on this conference call to discuss Fortinet's financial and operating results for the third quarter of 2014. With me today are Ken Xie, Fortinet's Founder, Chairman and CEO and Drew Del Matto, CFO.
+In terms of the structure of the call, Drew will begin with a review of our operating results before turning the call over to Ken to provide additional perspective on our business and product advantages. Drew will then conclude with some thoughts on our outlook for the fourth quarter and full year 2014 before we open up the call for questions.
+As a reminder, today we are holding two calls. For those who have additional and more detailed questions, we'll hold a second conference call at 3:30 PM Pacific Time. Both calls will be webcast from our Investor Relations Web site and will be accessible as detailed in our earnings release.
+Before we begin, first let me read the disclaimer. And please note some of the comments we make today are forward-looking statements. These forward-looking statements are subject to risks and uncertainties that could cause actual results to differ materially from those projected in these statements. Please refer to our SEC filings; in particular, the risk factors described in our Forms 10-K and 10-Q for more information. All forward-looking statements reflect our opinions only as of the date of this presentation and we undertake no obligation and specifically disclaim any obligation to update forward-looking statements.
+Also please note that weâll be discussing certain non-GAAP financial during this call. Our GAAP results and GAAP to non-GAAP reconciliations can be found in our earnings press release and on Slides 15 and 16 of the presentation that accompanies today's remarks.
+Please refer to the Investor Relations section of our Web site at investor.fortinet.com for important information, including our earnings press release issued a few minutes ago and the slides that accompany today's remarks. A replay of this call will also be available on our Web site. Note that, we routinely post information on our Web site and we encourage you to make use of that resource.
+With that, let me now turn the call over to Drew.
+Drew Del Matto
+Thank you, Michelle and thank you to everyone for joining us today. Fortinet again reported a very strong quarter. We continue to execute well and benefit from strong adoption of our new FortiGate products powered by our FortiASIC NP6 processor, returns on our sales and marketing investments and a healthy network security environment.
+Globally, all three regions performed well and we were particularly pleased with our continued impressive growth in the U.S. enterprise, which grew 30% year-over-year during the third quarter. In addition, the number of large deals, greater than $500,000, grew 84% year-over-year. We are winning new customers and expanding our footprint within our base of 200,000 existing customers, which already includes the majority of the Fortune Global 100. This impressive growth is a trend weâve seen for the past several quarters and further evidence that our strategy to continue to penetrate the enterprise market is working.
+Something to highlight is that enterprise customers are very valuable to us. They are sticky. Meaning they tend to bring a high renewal rate and the opportunity for account expansion through additional and broader purchases overtime. This trend shows not only a high level of satisfaction with Fortinet and our products but also, that enterprises are high value targets and our investments today will bring more benefit overtime. This also provides an opportunity for positive margin leverage in the future.
+Now, turning to our Q3 results, I am pleased to say we once again outperformed across our key operating metrics exceeding our quarterly guidance and again demonstrating that our strategy is working. Our billings increased 29% year-over-year to $213 million, significantly exceeding our guided range. Total revenue of $193 million was up 25%, also above the high-end of our guided range.
+From a profitability perspective, non-GAAP operating margins were 16%, above our guidance and non-GAAP EPS was $0.12 also above our guidance and demonstrates the positive leverage of top-line growth on the bottom-line. Finally, our cash generation remains very strong as evidenced by the $51 million of free cash flow generated during the quarter and representing 128% increase year-over-year.
+Before diving into details, let me talk at a high level about the business drivers during the quarter. We continue to see very strong demand for our new products and a healthy security environment. The acceleration of the size and frequency of data breaches globally has resulted in significant cost, both financial and brand-related, for enterprises. As a result, in many cases, cyber security has become the top business and spending priority for enterprises. As reported earlier this month, a recent global IT security census commissioned by Fortinet and administered by the independent market research firm Lightspeed GMI found that 90% of CIOs and CTOs believe the job of keeping their enterprise protected is becoming more challenging and that boardroom pressure to keep the enterprise secure has jumped almost one-third in the last year. This survey concluded that security is the primary consideration, both in and over, other business initiatives. The global IT security census is available on fortinet.com and provides a variety of interesting end-user insights.
+For better security and operational efficiencies companies are increasingly realizing the necessity of integrating security functionality in the firewalls. A concept Fortinet helped pioneer nearly 15 years ago. These integrated next-generation firewalls are driving firewall upgrades and new opportunities for Fortinet. With Gartner estimating that approximately 70% of new enterprise Edge Firewalls purchased will be integrated next-generation security platforms. As Ken will discuss in a few minutes, Fortinetâs extremely strong in differentiated next-generation firewall product offering is technically superior to the competitions.
+This is supported by the recent NSS Labsâ independent third-party test of next-generation firewalls in which Fortinet products were recommended and positioned in the upper right quadrant. We are only about halfway through a refresh cycle of new high performance FortiGate appliances leveraging our latest FortiASIC NP6 processor. Customer adoption for the products, and else thus far, has been very high and is driving numerous enterprise wins with both new and existing customers.
+Last week, we announced our new FortiGate 3810D, which integrates the NP6 processor to deliver the worldâs fastest network security firewall performance in the security appliance. Fortinet has a clear competitive advantage and we believe we are well positioned to benefit from enterprise network firewall upgrades where higher performance, integrated features and verified excellent security are required. Advanced persistent threats continue, during the quarter we saw better than anticipated traction with our recently announced FortiSandbox APT appliances and cloud-based FortiGuard APT subscription services. While still new to the market weâre pleased with the high level of demand from our customers. Impressively, we already account more than 3,000 customers using our APT subscription services.
+Additionally, weâre also seeing traction with our partnership with Amazon Web Services whereby certain of our virtualized software security products are offered in conjunction with Amazonâs cloud-based Web services offering both on traditional and the utility pay-as-you-go pricing model. Although this partnership is in its early stages there are already more than 100 customers using our virtualized products in AWS environments. One of Fortinetâs differentiators is our BAB portfolio of network, content application and endpoint security products that enable us to fulfill customerâs comprehensive security requirements. We believe that our growth is predicated on both winning new customers and expanding our footprint within our base of 200,000 existing customers which includes the majority of the global Fortune 100.
+During the third quarter we did both well. As I mentioned, new enterprise customers bring significant lifetime value which we believe will help our long-term growth and profitability. A few new customer wins during the third quarter included a multi-phased 7 figure deal with one of North Americaâs largest utilities that was establishing a new standard within its datacenters. We beat incumbent Cisco and contenders Juniper and Palo Alto Networks for this deal and the customers selected our FortiGate 1500D next-generation firewall and FortiAnalyzer reporting and analysis appliances.
+We also won a 6 figure deal with the leading Fortune 500 cloud company an innovator that selected our FortiGate 3700D and 1500D high performance appliances at the standard firewall to secure its global datacenters. We won this deal over Palo Alto Networks, Check Point and Cisco based on superior security performance. In Europe we won a 7 figure new deal with one of the regionâs largest telecommunications carrier. This customer is upgrading security and consolidating many datacenters into a few. They selected our FortiGate 3700D next-generation firewall appliances and FortiAnalyzer and FortiManager systems over Cisco and McAfee due to our superior performance and network integration capabilities.
+And we won another enterprise datacenter next-generation firewall deal with an extremely sophisticated foreign government agency that was also upgrading all of its datacenter infrastructure and required the highest level of performance, as well as multi-capped firewalling, expansive virtual domains and other advanced networking features. Our high-end FortiGate 5000 chassis-based systems as well as several FortiGate enterprise appliances were selected over products from incumbent Check Point and Cisco.
+We also successfully expanded our footprint into existing customers in most case displacing incumbent competitors. Some of these wins included a large 7 figure deal with a Fortune 25 technology company for which we will be supporting the global expansion of one of the largest and most trusted cloud infrastructure networks in the world. This was an enterprise datacenter firewall deal with an extremely technology-forward company that included our FortiGate 3700D high performance security appliances. This deal never went out to competitors to bid based on the customerâs high level of satisfaction with the Fortinet and their prior deployment.
+We grew our business within a large U.S. financial services customer that is currently using Fortinet as their core firewall and was bidding an advanced persistent threat project. After thorough testing they chose our FortiSandbox APT appliance over FireEye due to our strong proven detection and prevention capabilities. Also, our ability to integrate with the existing Fortinet next-generation firewall solution for improved security was a critical differentiator. In addition, we won a 6 figure multi-product expansion deal with a Fortune 500 service provider that was an existing firewall customer. This customer is expanding its managed security services platform to include Web application security as well as advanced persistent direct detection services and selected our FortiWeb and FortiSandbox appliances over products from Check Point, Imperva and FireEye.
+Another 6 figure expansion deal was with a Fortune 100 telecommunications operator that was upgrading its antispam and remote access managed services. This customer selected our FortiMail email security appliances as well as additional FortiGate enterprise next-generation firewall appliances over products from Cisco and Palo Alto Networks. Our increased enterprise sales and marketing presence, improved execution and an impressive and differentiating arsenal of products are enabling us to acquire new customers, expand deeper and more strategically into existing customers and gain market share.
+Now, let me dive deeper into our Q3 results which can be seen on Slide 3. As I mentioned previously, billings were $213 million during the third quarter, an increase of $48 million or 29% year-over-year and significantly above our guidance range of $195 million to $200 million. From a geographic perspective, year-over-year billings growth was strong across all regions, particularly in the EMEA where billings grew 42% year-over-year, the strongest in 15 quarters. Americasâ billings grew nicely at 25% and APAC also performed well, growing billings 20% year-over-year.
+In EMEA, our strong growth was primarily due to ongoing demand from our FortiGate enterprise products. We, once again saw strength in most of Europe and the Middle East. We were especially pleased with our performance in the UK, where we more than doubled the rate of growth year-over-year due to the leverage we are seeing from the investments made in upgrading and expanding our salesforce and the channel. We also saw good uptick in sales of non-FortiGate appliance products, including our FortiSandbox, FortiWeb and FortiDDOS appliances and FortiAP secure access points.
+With regard to the Americas, we had another quarter of solid growth and success in penetrating large enterprise datacenters as our investments in sales and recent investments in marketing are paying off. Specifically, weâve added strong enterprise sales people and are also continuing to expanding and deepen partnerships with large national resellers that focus on midsized enterprises. As I mentioned earlier, we were very pleased with growing the U.S. enterprise business over 30% year-over-year. Lastly, APAC also performed well driven by strength in Japan as well as in Southeast Asia, Hong Kong, China and India. Growth in large deals are a good way to measure Fortinetâs traction in the enterprise and high-end.
+During the third quarter deals over $100,000 grew 48% to 276 from 187 in the same period last year. Deals over $250,000 also grew 48% to 90 compared to 61 last year, and deals over $500,000 grew 84% to 35 compared to 19 last year. We also, once again, had a growing number of deals over $1 million. Our breakdown of billings across our top-five verticals remained relatively consistent with service provider at 22%, government at 13%, financial services at 10%, education at 8% and retail at 6%.
+Now turning to billings by product segment on Slide 4, we continue to see diversity of product billings across all segments. Our high-end FortiGate products accounted for 35% of billings, down from 40%, in Q3 of last year. Although, sales of our FortiGate 1500D and 3700D enterprise-class next-generation firewall appliances continued on a similar place as last quarter. We saw an acceleration in sales of our mid-range enterprise products, which accounted for 29% of the total product billings, an increased compared to 26% last year and driven by sales of our new FortiGate 300D and 500D next-generation firewall appliances for the mid-enterprise. Our entry level products, which typically are deployed in enterprise branch offices and SMBs, accounted for 36% compared to 34% last year. As a reminder, our product billings mix varies quarter-to-quarter based on the model of products to make up all sized deals.
+Moving now to revenue, during the third quarter, total revenue was $193.3 million, up 25% year-over-year, and above our guidance range of $182 million to $185 million. Similar to Q2 2014, the overall performance was primarily driven by the strong execution in return on our sales and marketing investments and a healthy network security market. New product sales were also robust and contributed to product revenue increasing 26% year-over-year. We also saw a healthy attach rate of recurring services to these new product sales as evidenced by the net addition of $20 million to our deferred revenue balance, which now totals $500 million, and up 25% over last year.
+On a geographic basis, you could see on Slides 5 and 6, the revenues continued to be diversified globally, which remains a key strength of our business. In the Americas, revenues grew 26% to $82.2 million from $65.4 million last year and now comprise 43% of total revenues. EMEA revenues were $66.2 million, up 29% compared to $51.4 million last year, and APAC revenues increased 19% year-over-year to $45 million from $37.9 million last year.
+Now, let me review the revenue breakdown by products and services, which can be seen on Slide 7. Product revenues increased 26% year-over-year to $87.7 million, driven by continued adoption of our new FortiGate 3700D and 1500D enterprise security appliances. Services and other revenue grew to $105.6 million, or 24% year-over-year. The increase was primarily due to consistent growth in our FortiGuard subscription offerings and FortiCare Support, both which generated strong recurring revenue streams.
+Also annualized renewal rates continue to be in the mid 70 percentage range. As a reminder our renewal rates are tied to hardware so when a customer upgrades equipment it counts as a new deal and not a renewal.
+With respect to headcount shown on Slide 8, we ended the third quarter with 2,721 employees, a 22% increase over last year. The majority of the adds were in sales and marketing. This is in line with our investment strategy to hire for growth and focus on expanding sales capacity especially in the enterprise segment.
+Turning to non-GAAP expenses and profitability, during the third quarter consolidated non-GAAP gross profit margins were 72%, which is above our guided range. Non-GAAP product gross margins were 60% consistent with last quarter as we remained focused on acquiring new customers for long-term value. Non-GAAP service gross margins were 81% also consistent with last quarter. Total non-GAAP operating expenses were $107.9 million during the third quarter resulting in non-GAAP operating income of $30.4 million or 16% of total revenue above our guidance range of approximately 14% to 15%.
+Non-GAAP net income for the third quarter was $20 million or $0.12 per share based on 170 million diluted shares outstanding and above our guidance of approximately $0.11 per share. The non-GAAP tax rate for the third quarter was approximately 35%. And GAAP net income for the third quarter totaled $4.1 million or $0.02 per share compared to $11 million or $0.07 per share in the prior year period. A reconciliation of non-GAAP and GAAP financials can be seen on Slides 15 and 16.
+Now, turning to the balance sheet on Slide 10, we ended Q3 with a strong balance sheet including $964 million in cash and investments up from $911 million at the end of Q2. Looking at Slide 11, the increase was primarily driven by the $57 million in cash generated from operations. This was our 35th consecutive quarter of generating cash from operations exclusive of one-time items. We also remained debt free. Free cash flow was $51 million in the third quarter 128% increment year-over-year. Our excellent cash flow generation was primarily due to strong billings linearity. We also had a higher investment in inventory in the third quarter of 2013 as we were then building inventory levels.
+Annualized inventory turns for Q3 were 2.3 above our goal to a better. Our deferred revenue balance increased to $500 million or up $100 million year-over-year and $20 million sequentially. The sequential increase was primarily due to consistent renewals in services attached to new product sales. We continue to build an impressive deferred revenue balance reflecting customer adoption of our suite of FortiGuard security services and FortiCare support which generate recurring subscription revenue and provide stickiness with our customers.
+Finally, during the third quarter we repurchased approximately 428,000 common shares for approximately $11 million. As of the end of September, we repurchased approximately 3.6 million shares for a total of approximately $72 million at an average price of $20.24 under the $200 million stock repurchase program that we announced last December. Our Board of Directors recently extended the repurchase authorization of the remaining $128 million in the program through December 31, 2015. It was set to expire on December 31, 2014. Iâll discuss guidance in a bit but first let me turn the call over to Ken, who will provide more color on the overall market, new product introductions and our competitive advantage.
+Ken Xie
+
+Thank you. Good afternoon. Q3 was a strong quarter for Fortinet across the board. We over achieved on several key finance metrics and again clearly show that our growth strategy and the investment are paying off. Increased high profile, high damage security breaches, coupled with a competitively superior product, solid sales execution and improved marketing awareness were key drivers for our exceptional results during the quarter. Our FortiASIC processor has been a game changer in the industry. And everybody knows they match enable security performance and the functionality for our FortiGate platform.
+We have seen a more high level of customer demand for our new FortiGate product integrating the FortiASIC NP6 which had lead to a number of sizable and impressive enterprise and service provider deals as Drew just discussed and weâre only halfway through our refresh cycle of FortiGate system utilized the NP6 processor. So there is definitely more innovation and product to come, among them is our FortiGate 3810D the first and only security appliance with 100 gigabit port to make a stringent performance and a connected demand of the next-generation high-speed datacenters. Announced last week the FortiGate 3810D integrate our FortiASIC NP6 processor and extend performance past replace last year with the FortiGate 37D by succeeding it as the worldâs fastest security appliance and almost 300 gigabit per second through core. This tripled panicle speed of most other high-end appliance. The FortiGate 3810D redefined a limit of the datacenter cost security performance from large enterprise panicle call provider by being the only appliance to achieve mutlti-100 gigabit per second throughput and high-speed 100 gigabit port connectivity in low power compact footprint with other cost and complexity of a chassis-based solution.
+The FortiGate 3810D, along with the FortiGate 5000D, 3700D, 1500D, 500D and 300D appliance, position Fortinet very well in the firewall refresh opportunity as enterprise upgrade their datacenter and encompass network to a higher speed to support the initiative such as public and private cloud infrastructure, Internet 2.0, software-defined network, virtualization and mobile platforms. So in todayâs enterprise, the popularity of a mobile device and cloud-based application add extra security challenges, which makes the traditional way of security network border no longer sufficient. As a result, enterprises are evaluating their security infrastructure compared to protect against challenging cyber threats.
+In addition to integrating functionalities, we are increasingly deploy security beyond the parameter and deeper into the core by internal segmentation of the department application and the users for example deployment of firewall in transparent mode inside the company network to segregate finance, engineering, sales, our external partners, to protect critical information, while not disrupting the current IT compositions. This approach add additional layer of protection if attack make its way into one section of the internal network, it can be contend and wonât comprise the entire network. It is important for internal firewalls as well as at same speed as the internal network and also that they can be deployed in non-disruptive transparent mode. With the FortiGate 3000 and 1000 series of high performance appliance, Fortinet can uniquely address the enterprise requirement for internal transparent firewall with a world best performance for each functions and a lower total cost of ownership.
+We have a strong advantage here and view this as a incremental opportunity for us in the enterprise market. But Fortinet is a technology-focused company. Our products sell, because of the technical superiority, not because the marketing hype that some of the competitor focus heavily at total loss about the importance of third-party testing and certification and whole value that is by customers. The security market is flattered with marketing noise, which can be confusing and make it harder to decide for the best product from the best marketed one. As we have seen from the numerous recent high profile attacks, security is a critical technology and if it fails to perform as advertised, the outcome could be serious.
+To help customer making clear judgment and purchase decisions a long belief that there should be a regulated system and testing process to certify that security product can actually do what vendors claim they can do, similar to the what FDA does in the medical industry. And by third-party test at the cost in we have to this as we along the public to see the skews and short comments of competing product test against each other under the real worldâs stringent conditions.
+As you can see on Slide 12, NSS Labs one of the industry most well respect independent third-party testing organization recently conducted a comparative test of enterprise next-generation of firewall, which got a lot of attention in the industry. I am pleased to say that both our recently announced FortiGate 1500D and our FortiGate 3600C enterprise datacenter next-generation firewall appliance, exceeded our benchmarks and earned recommended rating based on a superior security, stability, reliability, performance and a total cost of ownership. Additionally, as seen on the Slide 13 our surf rate NSS comparative test of enterprise-wide application firewall. Our FortiWeb 1000D appliances achieved one of the highest positions and also earned a recommended rating by affectively launching 99.85% of WAF attack and easily succeeding in all other benchmark tests. Testing truly does matters and itâs helpful for customers, thatâs why we win in the majority of enterprise and service provider deals.
+Security trend changes and the company comes and goes they are share gaining and also who are growing today and also share donor who are decelerating Fortinet is clearly a gainer and we have every intention of continuing to grow in size and market share by placing high quality, solving customer problem with the best technology and innovation. We have an exciting product roadmap ahead and a clear course of action that I am confident about.
+With that let me now turn the call back to Drew to discuss our outlook of Q4 and the full year 2014.
+Drew Del Matto
+
+Thank you, Ken. And I want to finish with some commentary on our general outlook going forward, as well as provide some guidance for the fourth quarter and the full year 2014. Fortinet has a strong market opportunity and our strategy has been to invest, to capture market share and accelerate growth. Throughout 2014, our financial results and key sales metrics have shown that our strategy is working. Our growth has accelerated substantially specifically during the first nine months of 2014. Billings have increased 29% year-over-year compared to 11% during the same period in 2013. In addition, we are being invited into more RFPs winning significantly more high value large enterprise deals and have further differentiated ourselves from competitors on the product front.
+We believe in our strategy and as a result we plan to continue our strategy as we see similar growth opportunities due to our belief that it will yield additional returns over the long-term. That being said, we are not blinded by macro-headwinds that may occur and also realize balancing our ability to drive growth while showing operating leverage is important. We have the flexibility to adjust investments if and when it makes sense.
+With that as background, let me now provide specific guidance metrics for the remainder of 2014 starting with the fourth quarter which can be seen on Slide 14. As a reminder, all of the guidance constitutes forward-looking statements subject to Michelle's cautions at the start of this call. We expect billings to be in the range of $245 million to $250 million up approximately 18% year-over-year at the midpoint and representing growth of approximately 2 times market analyst forecasts from IDC and Gartner. It is important to note that our Q4 billings growth rate is not indicative of a deceleration of our business but due to a more difficult comparison to the fourth quarter of last year.
+Total revenue is expected to be in the range of $206 million to $211 million also up 18% year-over-year at the midpoint. Please recall that in addition to the more difficult comparison, last yearâs Q4 included a $2.2 million benefit related to the sale of a patent. Non-GAAP gross margin is expected to be approximately 70% to 71%. Non-GAAP operating margin is expected to be approximately 16% reflecting continued investments to drive growth. And finally, we expect non-GAAP earnings per share to be in the range of $0.13 to $0.14 per share based on an expected diluted share account in the range of $170 million to $172 million fully diluted shares.
+In terms of 2014 we are raising our full year estimates for billings and revenue. This updated forecast takes into account the over performance in Q3 as well as our increased expectations for Q4 driven by the ongoing benefits and increased sales capacity and improved marketing as well as the momentum of our differentiated solutions. As a result, we currently expect billings to be in the range of $859 million to $864 million up approximately 26% year-over-year at the midpoint. Total revenue is expected to be in the range of $752 million to $757 million up 23% year-over-year at the midpoint. Non-GAAP gross margin is expected to be approximately 71% which is at the top-end of our prior guidance range. Non-GAAP operating margin is expected to be approximately 16% again reflecting our continued growth investments but still within our prior guidance range.
+And finally, we expect non-GAAP earnings per share to be in the range of approximately $0.47 per share to $0.48 per share based on an expected diluted share account in the range of $169 million to $170 million fully diluted shares. We are in the early stages of our 2015 planning process and remain focused on growth with responsible investments. We plan to provide further details on our longer term outlook during our fourth quarter earnings call in January. 
+In closing, I'd like to thank Fortinet employees, partners, customers and shareholders for their continued confidence and support.
+With that Ken, Michelle and I will now take your questions. Operator, you may start the Q&A.
+Question-and-Answer Session
+
+Operator
+Okay. (Operator Instructions) We will take our first question from Gray Powell from Wells Fargo. So Gray, please go ahead.
+Gray Powell - Wells Fargo Securities
+
+Great, thanks for taking the questions. I just had a couple of quick ones. So as obviously you had a very successful refresh on the high-end late last year with the 3700D and 1500D line. In early July you launched the 300 and 500 mid-range appliances or I guess yes, so how is market acceptance of that product has been and whatâs your expectation there for the next 6 to 12 months?
+Ken Xie
+
+The 300D-500D we see a lot of response from market is much better performance compared to the old 300C-500C. So especially we see enterprise starting to deploy like I said inside their internal network to do the segmentation. So thatâs where 300-500 and also the Web sales are working firewall within enterprise to separate department, the server, the user it is a larger platform we see very growth there.
+Drew Del Matto
+
+Yes, we saw nice growth Gray we are not really because itâs hard to give guidance at this point we think we will talk more about guidance next year but I think we were pretty happy with the products they really release kind of mid quarter in the U.S. I think in September end and Europe but we definitely saw some traction it is reflected in the product mix.
+Ken Xie
+
+Also, in end of July we also announced the FortiGate 5000 it is terabit firewall platform itâs a lower hanging product itâs probably the only one in the space can achieve healthier performance but not high-end units have a much longer sales cycle compared to the 300D-500D, so thatâs we see a lot of testing but it is still early in the process.
+Gray Powell - Wells Fargo Securities
+Got it, thatâs very helpful and then can you just talk about the traction youâre seeing in the non-traditional or non-FortiGate appliance lines such as the FortiSandbox solution, I know you gave some statistics at the beginning but any color would be helpful?
+Drew Del Matto
+
+Sure Gray, I mean we were very pleased with our advanced persistent threat solution. Again we feel that it compares favorably certainly to our competitors as it integrates with the firewall and weâre able to do deep flow antimalware and antispam at the same time so, we feel like we have a competitive advantage and certainly I think the fact that we perform extremely well in the NSS Labs results has become a big selling feature for us and you could see that kind of reflected in the 3,000 customers that are now using the product.
+Ken Xie
+
+Another key factor while integrated is a FortiGate system. So a lot of existing customers, they lack the solution they kind of walk for guarded not only can detect other intrusion but also can prevent attack. So that solution combined with FortiGate sensing for the FortiAP and the FortiWeb also looking well together.
+Gray Powell - Wells Fargo Securities
+Excellent, thank you very much.
+Ken Xie
+
+Thank you.
+Operator
+
+Okay, thank you. So our next question comes from Matthew Niknam from Goldman Sachs. So Matthew, please go ahead.
+Matthew Niknam - Goldman Sachs
+
+Hey guys, thanks for taking the question and congrats on the quarter. So, two from me; one, on margins, the guidance implies operating margins are flat sequentially next quarter despite seasonally being up about 200 basis points in recent years. So can you maybe talk about where you are may be expecting elevated expense pressure that are maybe kicking your margin expectations flat? And then secondly just on the competitive landscape in light of some of the success you have had with share gains I am wondering if you have seen any more aggressive activities from competitors in the wake of your success? Thanks.
+Drew Del Matto
+
+Thanks Matthew, Iâll start with the expense side. We are seeing success with our strategy right now. Our strategy is to gain share and monetize our customers over the long-term really to get the scope and scale benefits of margin over the long-term by acquiring customers today. So, weâre going to continue that strategy and I think that explains why the margins are directed the way they are for next quarter. And your second question was again onâ¦
+Ken Xie
+Competitor.
+Drew Del Matto
+Are we seeing competitive pressures?
+Ken Xie
+
+Yes, I can comment now is I have to deeper relation, deeper in vertical space it is maybe different. So in the high-end service provider on the datacenter side we see way ahead of competitor both on a product like we announced the 3810D 100 gig port and also the 5000 terabit firewall weâre ahead of competitor already like we are shipping chassis platform 5000 for 10 years compares them above competitors just announced already this year. So we donât see they come close to what we have but also in this space a lot of provider evaluate wants the new solution for the mobile security especially the other the LTEs smarter need additional protocol they need also much bigger concurrent connection and also a supporting multiple like iTV for these things a lot of differences. So weâre ahead of competitor, we participate a while itâs a lot of testing going on right now.
+In enterprise we see, we starting gaining a lot of market share right now. Itâs also come from our performance and also improved in marketing sales execution there. One thing we found out, we have a huge advantage compared to competitors really secure inside enterprise which they call while do we call the segregation gateway of internal firewall of different name. Basically, traditionally, using the network switch to connect all the internal company and they have a board to use firewall to secure to outside. But now because the mobile device the auto call approach, they need to secure inside enterprise right now so thatâs where the FortiGate with the FortiASIC starting to replacing some of the traditional switch inside enterprise. So we see there is a huge opportunity because the performance, the cost, the functions really more important compared to the board of firewall security. So thatâs why we started to gain a lot of share.
+The newly launched middle range with NP6 has seen advantage there. I certainly have to say the competitors starting to falling apart and also with our system chip solutions, we are starting to see much more advantage, both on the cost and the performance and we have not seen much competition in the SMB space.
+Matthew Niknam - Goldman Sachs
+Okay, thank you.
+Operator
+Thank you. And our next question comes from Brent Thill from UBS. So, Brent, please go ahead with your question.
+Brent Thill - UBS
+Thanks. Andrew I had to go back in the model on the deferred revenue there to look way back on to see when you got the 25% growth in the DR. Itâs been a while. And I am just curious, is there any changing as when you look at that $0.5 billion that is sitting in DR in terms of the composition and the duration of that amount?
+Drew Del Matto
+Youâre talking about I think you are asking if there is more multi-years in there. I donât think we havenât seen any real change in that profile Brent. And third question, I do think part of what creates some of that growth is really just the fact that weâre focused on pricing on the support side of the equation. Thatâs very important for us to hold that part of the equation. I mean obviously you want to hold it all around. But thatâs the gift that keeps on getting overtime and so weâre very focused on that, is a good way to expand margin if you think about the calculus of land expand and then a lot of focus on the renew at a high price.
+Brent Thill - UBS
+Okay. And just going to the DSO, I think you improved it by nine days year-over-year which would imply it wasnât a very backend loaded quarter and I think alluded to the linearity looked pretty strong in terms of linear. I am curious if you could just add a little more color in terms of what you saw throughout the quarter?
+Drew Del Matto
+Yes Q3 is an interesting quarter because you have a big vacation month in the middle. I think a lot of -- I think we were very focused on getting as much done as we can before people left for the beach so to speak. And we were successful in doing that. I also I think linearity come up on certainly the last call if not before. But itâs been an improving trend overall. So I would say that continued. That being said, I think itâs also a larger, if you look at it and compare it to Q2, there is a larger balance of I think support billings that actually happened during the quarter. And so those tend to be more linear in nature anyway.
+Brent Thill - UBS
+Great, thank you.
+Operator
+Thank you. And our next question comes from Melissa Gorham from Morgan Stanley. So Melissa, please go ahead.
+Melissa Gorham - Morgan Stanley
+Thanks for taking my question. I am calling in for Keith Weiss. So just a question on the service provider vertical either for Ken or for Drew, in previous quarters youâve talked about a return to normal spending patterns. Is that the case in 3Q does that kind of sustain? And I donât know if I missed it. But did you give the percent of billings from that vertical this quarter?
+Ken Xie
+I think we do gave 22% come from service provider. I think like I said first we are more diversified in the service provider globally and we also see like lot of service provider in the early stage try to evaluate how to do the mobile security LTE protection there. And so thatâs where with the new product we launched whether the new 5000D and also the 1700D, but we see a lot of our testing evaluation because kind of a new solution, new architecture. So thatâs a lot of thing going on. But we donât see some other companies these sort of segmenting in some area. We see kind of a quite exciting space as a lot of potential.
+Drew Del Matto
+Yes, I think Melissa just to add on. Well again there is two dimensions to that vertical; one is the managed service provider piece. And that looks fine. I think as far as the internal networking part, thatâs where if there is any where itâs a bit flattish so to speak, we probably be that side of the business. About two-thirds of our business with the carriers tends to be on the mSFP front.
+Melissa Gorham - Morgan Stanley
+Great, okay thatâs helpful. And then the strength in EMEA that was a little bit kind of intuitive given the macro data points that has been in that region. So I was wondering if you could just maybe provide some color on what you think is like the most important factor contributing to that, is it just improved product positioning is it just stronger secular demand in that region, better execution, just whatâs driving strength in EMEA?
+Drew Del Matto
+I think weâre doing a better job, I think our products are really hitting the mark on the enterprise space. Our investments in sales and marketing there have been very focused on enterprise. The people weâre attracting have been people with deep enterprise experience. For example I think I mentioned this in the script for our billings more than doubled over last year in the UK and we brought in a new team over the last six months to nine months and they just executed extremely well, the products are good. And I think they are really finding a way to go-to-market and grow the business over there, and I do think we see that broadly across Europe as well. So amazingly enough given some of the economic headwinds in Eastern Europe itâs almost counterintuitive but they have done a very nice job. And I think and a lot of it just goes really to having the right products, making the right investments and the right people and they are executing extremely well.
+Melissa Gorham - Morgan Stanley
+
+Thatâs helpful. Thanks guys.
+Operator
+
+Thank you. And our next question comes from Michael Turitz from Raymond James. So Michael, please go ahead.
+James Wesman - Raymond James
+
+Hey guys good afternoon itâs James Wesman sitting in for Michael. Question for Ken and Drew. Obviously currency movements have been occurring a lot over the last couple of months. If I remember correctly you guys bill in dollars. But did you notice any effect on demand and I realized looking at the Q3 results. But were there any effects on demand in the quarter due to the U.S. dollar translation?
+Drew Del Matto
+
+No there wasnât. As you said we bill in dollars which I think is a big piece of it. The partners tend to kind of we have a tight calendar could be favorable one and less favorable or going the other way another. They seem to be either be offsetting of the partners or just doing it pretty well. And again most of the headwind on the euro happened later in the quarter, quite frankly.
+James Wesman - Raymond James
+And then Drew just a housekeeping question on next quarter. Any thoughts on CapEx I think you rattled of a $12 million number last quarter?
+Drew Del Matto
+
+For the rest of the year I said 12.
+James Wesman - Raymond James
+I think for fourth quarter you said 12. Should we think about thatâs the next quarter?
+Drew Del Matto
+
+7 million.
+James Wesman - Raymond James
+For the next question, okay.
+Drew Del Matto
+
+Yes for Q4, 7 million for Q4, yes.
+James Wesman - Raymond James
+Great, thank you guys.
+Operator
+
+Thank you. And our next question comes from Sterling Auty from JPMorgan. Sir please go ahead.
+Sterling Auty - JPMorgan
+
+Yes, thanks. Hi guys. Looking at the success that you have had over the last couple of quarters and in relation to the timing of the upgrade on the product line to the new chip, would you accredit any of the growth you have seen over the last couple of quarters to maybe pent up demand where looking back you say you know what customers were waiting for the upgrade?
+Michelle Spolver
+
+No, Sterling itâs Michelle. No, because I think going back even if you went through a year prior to now we still had very-very fast competitive solution that would meet their performance requirements. It really-really is about new customers' better sales execution and having a very strong competitive respect. I think itâs probably a little bit less about that the new products than the sales execution.
+Sterling Auty - JPMorgan
+Okay. And then the follow-up to that, you mentioned both the refresh cycle which we would tend to think about existing customers but also customer expansion. How would you characterize the growth in billings coming from existing customers versus new customers?
+Michelle Spolver
+
+Yes unfortunately. We donât have a staff there itâs something we would like to have. But I mean we are seeing both. We gave some highlights of very large deals in six-seven figure deals that were brand new customers. So we are seeing both. Unfortunately I donât have the breakdown percentagewise newer versus existing. We are seeing more business with new customers than we have in the past.
+Drew Del Matto
+
+Sterling, I would just add, I mean, again qualitatively more than getting into kind of exact detail on the quantitative side. We are clearly gaining share. So if the market is growing 7% to 9% or 7% to 8% and we are growing several multiples of that then clearly we are getting new customer wins which I think really kind of answers the question. There is obviously a basic customer, our 200,000 customers where we are being successful. But you know what new people coming on-board they bring new relationships. Our investments are very focused on acquiring new customers building scale in the company and that seems to be exactly where we are executing very well.
+Sterling Auty - JPMorgan
+Got it, thank you.
+Operator
+
+Thank you. And our next question comes from Paul Leone from Bank of America. Please go ahead.
+Paul Leone - Bank of America Merrill Lynch
+
+Excellent, thank you, I have a few questions. First one is about leverage. I went back to 2009 and every year with no exception your second half margin is better than the first half margin by a big margin or a big gap or a big jump in the second half margin. This year itâs flat to actually down if I take your guidance as is. What is driving this year, lack of leverage? Because you are executing so well on revenues so what is driving this yearâs lack of leverage versus previous yearâs? And then without the specifics of the numbers but how should we forecast it going forward. Is this the new norm that the margins are kind of flattish throughout the year or is it going to go back to the normal seasonality if I can call it the better second half? Letâs start to that and then I have questions about the business.
+Drew Del Matto
+
+Look our focus is on gaining market share, which we are doing. And that really explains why we are different than and in 2010-2009. We have a different -- weâve change the ramp of the business or accelerated the growth in the business over the last year and that takes a bit of forward investment. Over time, as you build scale in terms of the number of customers that you acquire, you can broaden the scope of what you sold them with the scope of our product set or broad product set and that ultimately is how you expand margin in these customers. It costs more to acquire customers is what Iâm trying to say versus expand in a customer. We know the dials. We feel like [indiscernible]. We see the growth slowing down. So we have the opportunity to expand margin when needed but for now our profile is really to kind of continue to invest again and beyond that not giving -- weâre going and giving get guidance out through Q4. So it would be difficult to get beyond that.
+Paul Leone - Bank of America Merrill Lynch
+
+And whatâs the profile of the spend on your customers meaning, can you discuss what youâre doing in terms of new relationships with distributors, resellers. How do you spend this extra money? Thatâs what Iâm trying to get, U.S. versus rest of the world as well as within existing regions, how is money spent differently?
+Ken Xie
+
+I think you can see Q3 we add 186 people and the majority in the sales and also marketing. So thatâs definitely added a lot of sales capacity but also they take some time to ramp up. So it would have taken a couple of quarters to sometimes even to a year that depend on a vertical space. And also we starting to invest more in the marketing -- more in U.S. marketing. We have a new marketing VP, Ian Ewan [ph]. She is also starting to ramp up the lot of a leading branding and also a lot of a marketing activity there. So that also would benefit us in the long term, I think all this international theories can give us market better position going forward, almost $1 billion cash on hand and receive a lot of cash flow I think - - last quarter it was about 51 million free cash in. So we feel keeping investing a growth will position the company better going forward.
+Drew Del Matto
+
+So and just to add a little bit there, again itâs really people in marketing and so Ken talked about the people. We increased our sales capacity. Weâve building actually or built an inside sales team and we also have some marketing people and then also in marketing we're really kind of doing messaging, events and lead generation if you will. And so thatâs really kind of where the spend is and then if you look at -- I think you asked a question about is it different as you across the globe and it is a bit different. If you think of the U.S. you can kind of go into five verticals and know where the bulk of the spending in the U.S. is -- financial services, healthcare, federal, et cetera. Then in going abroad, it gets a little bit different, where it become more challenge driven but I think developed world, it tends to be more vertical focused, for instance the UK is probably similar to U.S. in the sense there are clearly verticals there. I think the same and some of the big three countries in Europe. But then as you get into the more developing economies it just tends to be more channel driven as the verticals probably arenât as well defined and the market themselves are emerging.
+Paul Leone - Bank of America Merrill Lynch
+
+Got it, quick last question. This was asked many times on this call and maybe I can ask it again and get some clarification. We're trying to understand how much of this growth is cyclical versus how much of it is secular and how much of it is temporary and how much of it is sustainable? So thatâs why we all ask the same questions, as kind of around to understand how much of the growth, and Iâm not looking for a number, Iâm looking more for explanation. How much of the growth that you seen now is a result of new product cycle and if thatâs the case, then why would it sustain into the next few quarters and years? And then how much of the growth is the investment in the new sales that set efforts in marketing that you mentioned and how much of it is sustainable? So just even looking historically, how much of it is sales execution versus how much of it is product execution, if you can discuss it?
+Drew Del Matto
+
+Yes, I think itâs a blend of those things, which probably doesnât help you break it down exactly like that but clearly, if we didnât have the people and the marketing investments on board, we wouldnât be experiencing this growth and I think that goes back to the earlier question of why margin -- our margin profile has changed from the past? But beginning of the year we clearly saw an opportunity to grow either not only with the new products but the security space, I know anybody on this call probably doesnât need to hear from me but itâs obviously a hot space right now. So all those things I believe go together and we happen to have the right products at the right time but if we didnât have the messaging out there, if we didnât have the people, if we didnât have the channel reach, we wouldnât be as successful. And I think the best illustration of that quantitatively is just growing faster than the market as a whole and weâre clearly growing at a multiple faster than the 7% to 9% in the Gartner and IDT.
+Ken Xie
+
+Although this - on the product cycle side I think itâs -- we continue keeping investing in the innovation -- come up with new product and also new technology. So we are pretty much the only network security company. We invest both in the hardware ASIC level, the system level and sulfur level compared to most of competitor only have a sulfur engineer capability. So thatâs where we can see the benefit we got from the ASIC chip, whether the MP6 or within a [indiscernible] chip in the FortiASIC is network processor chip within MP6, which is half the high and middle range [indiscernible] by the chip.
+And we also have the ISO system on a chip which will address the SMB low end market and plus we have a quantum processor, pretty much all of FortiGate also leverage that. I think always chip probably, each generation take about two to three years to come up with chips. So we have all three chips. So we keeping going on -- keeping produce a better technology. At the same time we also leverage technology from the general purpose CPU, that other network processor, also the network chip like the 100 gig quad and also the other CPU, the technology that we have. So thatâs where we keeping refresh broad product line to address the total solution in the network security space.
+So I donât view particular chip or product to have a big impact but continue on the innovation and then on the new technology what drive us better and better, compared with the competitors. So thatâs where the few high end products lost. Weâre way ahead of competitors and starting refreshing more and also opened up the opportunities, whether in the service provider address mobile security or inside enterprise to secure the internal segregation solution.
+I think we see more opportunity because the technology we have and also the new product we have. But that thing will not stop. So every quarter you may see like a few new product come out, addressing different areas, more dependent on, is a continued innovation both on a chip level and the system level and also in the sulfur level.
+Drew Del Matto
+Yes, and I would say that a couple other things just to point out. Itâs early in the product cycle of a variety of things. And just to show you kind of the mix of marketing, sales and product, think of APT, severe persistent threat. I think we mentioned we have 3,000 customers. Itâs hard to ignore the NSS test results from I think back in April or March where we performed very well and one of our competitors didnât perform as well. And getting that marketing message out there was very important to us, arming our sales people with that message. But ultimately I needed to have the sales capacity to kind of help them spread that word.
+And then I would also just add that look weâre only -- weâre nine months in really into kind of this investment cycle, maybe a year. And there still is I believe performance gains to come out of the people that have been onboard in the last six to nine months so to speak. And so I donât think it ends imminently. And we still continue to see opportunity. And if you look at the emerging products APT, one we pointed out, AWS was another, some of these projects; theyâre really just getting started. It is our hope anyway.
+Operator
+Thank you. And our next question comes from Jayson Noland from Robert Baird. Please go ahead.
+Jayson Noland - Robert Baird
+Drew, are there any guidelines you would offer us for Cal 15 when it comes to growth rate or leverage? And it does seem like the 2x market growth rate is more realistic in Cal 15, given the compares get tougher?
+Drew Del Matto
+Yes. I would just say this. Weâll be glad to share discrete guidance in January for longer term guidance spend. But we continue to see investment opportunity for now. That being said, weâre going to be very responsible, very focused on where we see maturing markets. And as you said, if the comps come into play but for right now, certainly the near term outlook is we feel good.
+Jayson Noland - Robert Baird
+Okay. Question on gross margin, product gross margin ticked up again sequentially fourth quarter in a row; and I assume a fair bit of that is mix with some of these newer higher end deals and products. But could you talk about that mix versus pricing on the gross margin side? And what we should expect going forward?
+Drew Del Matto
+I do believe it was last Q4 where we had the big -- it was the last -- Michelle, you may have to help me out of here. When was it?
+Michelle Spolver
+When had the bigâ¦?
+Drew Del Matto
+We had a big retail deal.
+Michelle Spolver
+We did, yes. So it was Q4 and also in Q1, we had two big retail deals which took product gross margins down a bit. They were large deals but they had a high concentration of low end devices. So a lot of times the mix of deals during the quarter will affect the gross margins. We saw bit of an uptick this quarter with 1% -- we had a 1% gain.
+Drew Del Matto
+Yes. And I think when we look at these deals, Jayson, and maybe this is the way to answer the question. They do -- those deals do come up from time to time. And when you look out, what weâre thinking about is the longer term opportunity that I referred to, making sure that weâre building quite a long term profitability trying to fill that into a kind of a renewal if you will, as much as possible and broader expansion opportunity. So if you look at it from a strategic perspective, thatâs really how we try to evaluate the deals. Are we gaining share? Are we providing ourselves with the opportunity to expand margin over the long term and provide scale benefits to the Company? 
+Jayson Noland - Robert Baird
+Thank you.
+Operator
+Thank you. Our next question comes from Erik Suppiger from JMP Securities.
+Erik Suppiger - JMP Securities
+Congratulation. You said that the refresh cycle is about halfway done. Are you referring to the number of models that you've integrated the NP6 into? And if thatâs the case, can you give us a sense for what portion of your shipments and what portion of your revenues at this point would be associated with the NP6?
+Michelle Spolver
+
+So Erik, we're talking about it. Not every model will have it. Basically it's halfway through the FortiGate models that will have the NP6 processor in it. We're not giving out a number in terms of how much, because one is it does take some time to have those products ramp with our customer base and we are definitely seeing more of a contribution from the 3700D and the 1500D than we are, because those were announced a few quarters in advance of -- say it was announced in July. So it does take some time. What we did say I think last quarter with that and this quarter that the ramp up for those two products have been exceptionally high. So higher contribution than we would normally see from new products in that duration of time since introduced but we're not giving the actual percentage out. 
+Erik Suppiger - JMP Securities
+
+Do you typically see the old solution, the replacement predecessor product phase out and the transition to the new chip happen very rapidly or do you continue selling the older products for long as well?
+Michelle Spolver
+
+Itâs not all that rapid. I mean Ken, I donât know if you want to into this. Itâs not like we are cutting customers off and for a while we'll have those products so that there is a smoother transition.
+Ken Xie
+
+Yes, it take a couple of years to free sale our product. The way we naming a product, we try to keeping the same number and just different in the last letter. So is D replaced to C. So the customer can easily see how they can upgrade to the new product. A lot of customers, [indiscernible] these kind of products, the life cycle will only take about four years or five years. So if we are to have some old products, some consumer may keeping the employee the same product within their enterprise. So thatâs how far we keep supporting that. But also new product, just reported the most loss every 18 months 24 months, the speed doubled and also has more computing power there and also some more function and more strong how we interface.
+So thatâs one of the things we keep in doing in the last 14 years. I think -- let me say, this is already fifth generation. So this generation we tend to have a better chip and also leverage the better CPU technology, the networking technology. So it's the how we're keeping that better and better and the same time, the [indiscernible] also, when you have to take about three years four years to upgrade to a new version so thatâs where. And I will tell you if you see the halfway more to how we upgrade of FortiGate leveraged the new processor on FortiaSICs. From time to time we also upgrade the internal CPUs, the networking chip and some other things.
+Erik Suppiger - JMP Securities
+
+Okay, are you seeing more of a shift to the non-FortiGate products that you talked about in the FortiSandbox and AWS. Do you think that the non-FortiGate products will exceed 10% at some time in the coming quarters?
+Drew Del Matto
+
+Look I think this is very early. It's interesting that because to actually figure that out, you're also kind of thinking about how the other products are going to grow, right? Because itâs all relative right at the mix. But I think what we're seeing right now, we fell very good about versus what our original expectations. And so they seem to be growing very nicely. 
+Erik Suppiger - JMP Securities
+
+Has there been a shift in the contribution from the non-FortiGate products?
+Michelle Spolver
+
+Not materially. There is still a material to the overall portion of our revenue. So still less than 10%. Good traction on certain points which we highlighted, you may see in terms of if and when not becomes larger than 10%. But I think we did call out some of the products that we saw greater growth. 
+Erik Suppiger - JMP Securities
+
+Is Paul Walter the competitor that you see most for the internal Firewall? Is that the primary competition there?
+Ken Xie
+
+U.S. enterprise, we see Palo Alto also participating a bit. But under the region [indiscernible] and also other vertical space we not see them as a very strong competitor. 
+Michelle Spolver
+
+Yes, the competitors we see across our business are still the same. So itâs Junifer. We feel lot of Junifer, Check Point, Cisco and Palo Alto, especially in the enterprise in the U.S. 
+Drew Del Matto
+
+Yes, I think if you look at our -- [indiscernible] read the script but I think thatâs pretty consistent with what we mentioned in the script. Those the name [indiscernible]. 
+Erik Suppiger - JMP Securities
+
+Okay, then finally just on the service provider side. Is it still predominantly Junifer that you are competing against in that for that market?
+Michelle Spolver
+
+Junifer and Cisco.
+Operator
+
+Thank you. Our next question is from Daniel Ives from FBR. Please go ahead. 
+Daniel Ives - FBR
+
+Just one question. Are you seeing lot of these larger deals -- obviously a lot of success again this quarter starting to get fast tracked relative to where you thought it was 3 to 6 months ago, just given some of cyber securities issues happened across enterprise?
+Drew Del Matto
+
+I donât think so. I think, and I'm going to point you back to the census on our website. Because I think the way I read that and I think we even said this in the past, that you have kind of two things happening. One I think its, security becomes a priority. But I think the way most companies are going to look at it is itâs such a critical priority in terms of brand that it probably gets a little bit of -- probably gets more scrutiny than it used to be. It gets pushed into the boardroom. You can pretty much be sure that in any Company doing much business online, that there is going to be board level scrutiny in review with those types of projects and so I think in one sense, clearly all the headline events drive demand and I think it puts a lot of focus on it and probably prioritizes these types of projects over other things. But then on the kind of headwind side, almost is the fact that it probably goes through more levels of review than normal. And so that being said, it's is to growing market and itâs really kind of hard to predict how that goes, probably at the mid-level maybe a little faster. I think as you go up in terms of how technology focused or how much online they are, it'd probably go the other way.
+Operator
+
+Thank you and our next question comes from Jeff Kvaal from Northland. Sir, please go ahead. 
+Jeff Kvaal - Northland 
+
+Would you mind giving us a little bit of a sense of the mix of subscription versus support revenues inside the services bucket? Some of your peers talk about a bit of an upward bias on the groupâs margin line over time as the subscription portion of revenues gets larger and Iâm wondering to what extent we should be thinking about that as a driver for you?
+Drew Del Matto
+
+Yes, subscription is the greater percent of that number on our forward going side.
+Jeff Kvaal - Northland 
+Is it growing as a percentage of sales and if so, should we be thinking about that low 70âs gross margin ticking up over time, Drew?
+Drew Del Matto
+
+The subscription fees growing as a percent of sales? Yes, it is. If you look at the differed balance I think thatâs a good indicator kind of the growth of differed because thatâs where most of it goes since it's recognized ratably.
+Jeff Kvaal - Northland 
+Yes.
+Drew Del Matto
+If you look at that trend I think that would be helpful to think through that and again yes, I think as we build subscription -- as we build customers, weâre very focused on subscription side as I mentioned earlier, not only in terms of attach rates but ensuring we get solid pricing there to monetize the customer over the long term.
+Jeff Kvaal - Northland 
+Okay, so we should be thinking theoretically although not specifically about â15 that over a multiyear time frame that there should be an upward bias to the gross margin level then or there maybe some other offsetting factors but Iâm not thinking about it.
+Drew Del Matto
+There could be other factors. So I would just kind of stick to what weâve given for the rest of Q4 and we can talk about â15 in January.
+Jeff Kvaal - Northland 
+Okay and those other factors are essentially product mix or is there other pricing pressure that we havenât talked about?
+Michelle Spolver
+
+Yes, if you look at overall gross margins product mix is a big contributor to that. We gave a couple of examples of prior quarters where it effected overall gross margins because product gross margins are lower. So weâre not forecasting -- weâre not guiding to 2015. Product mix comes into play. So that would be one of the bigger factor.
+Operator
+
+Thank you and our next question comes from Shaul Eyal from Oppenheimer. Please go ahead.
+Shaul Eyal - Oppenheimer
+
+Drew, you mentioned that the Company is halfway through its refresh cycle. From a timing perspective, when do you think Fortinet will be competing the current cycle, give or take?
+Ken Xie
+
+We mentioned we're halfway through refreshing some of the middle and high end FortiGate using NP6. So we feel it will probably take a few more quarters to finish the refresh but then we have other new chip will come out. So thatâs probably - will start again. So now thatâs where -- since the innovation the new technology coming to the product will continue driving the refresh of the product. So like every quarter, we have a few new product announced. So that's is the process we're keeping going forward. So I donât feel thatâs have a much impact of the number as - give us better competitive advantage but itâs also the process continue going on.
+Shaul Eyal - Oppenheimer
+Got it, thank you for that Ken. One more question. In your overall Americas revenue, whatâs the portion allocated to Latin America and how is performance in that region this quarter?
+Michelle Spolver
+
+We donât break out and report of revenue for sub-region. Obviously the biggest issue there for overall America's revenue is U.S. We talked about we had good performance across our business and across regions and that would include Latin America.
+Operator
+
+Okay, thank you and our next question comes from Jonathan Ho from William Blair. Please go ahead.
+Jonathan Ho - William Blair
+
+Just one quick question from me. You talked about the nearly $1 billion of cash on the balance sheet. Any sort of new thoughts or anything you can share relative to your expectations around buyback or acquisition?
+Drew Del Matto
+Jonathan, fair question, we really havenât changed our strategy there. Obviously weâre always thinking about activities that make -- strategic opportunities that may make sense for us. I canât point out to anything really eminent on that front. And as I mentioned, I think we have $128 million left under the buyback. The board gave us another year on that. So we have $128 million left under that and really no change in approach there as well.
+Operator
+Thank you. And our next question comes from Scott Zeller from Needham. So please go ahead Scott.
+Scott Zeller - Needham
+I want to go back to an earlier comment in the call regarding service provider. And it sounded as if the management team was saying that the MSSP type business of service provider was doing well or fine and that the use by service provider for their internal use of these products was maybe not where you wanted it to be. Could you offer some more color on that? And what sort of competitive dynamic you have for the internal use case rather than MSSP?
+Michelle Spolver
+Let me clarify in what Ken had said is that we are talking about the fact that other vendors have pointed to some softness in service provider. Those vendors donât have as much diversity in their service provider business as we do. And weâre calling out that two thirds of our business -- approximately two thirds of the business that we do is service provider -- is for them to use our gear to deploy revenue generating managed security services. The other third is using our systems internal to the network. The competitive advantage that we have there, which is the last part of your question is the significant performance advantage that we have. Itâs obviously performance is very critical when youâre running in very, very fast type carrier networks. Thatâs our advantage there.
+We didnât necessarily say that wasnât performing as we liked. I think what we did is acknowledge that really when the service provider that have taken sort of and had it not been across our business, taking sort of a pause in purchasing would be because theyâre really looking at designing next generation future networks. Itâs a small portion of our overall service provider account base. So itâs the first point that weâre making. And that we do not see that across our service provider business. And we generally feel pretty much okay with that effect of the business.
+Ken Xie
+On the technology side, I think the lot of technology, the service provider thinking weâre not up still in the early stage, whether how to secure the LTE and also how the 100 gig and 40 gig of the high speed network interface deploying the service provider datacenters still in the early stage. The good news really we see a lot of tech is going on -- a lot of in the interstates and also we donât see our competitor even have the product come close. And we are only one who has a Terabyte firewall. Weâre only one who has the 100 gig -- 40 interface. And also [indiscernible]. So we see a lot of opportunities because some of the initial changes in the service provider before is really more secure out of fixed but obviously lot of the moment you like I mentioned, they need a much bigger number of session they need to support a lot of new protocol and also much higher speed and that all need some time for the service provider to test into redesign the architecture. So I think that itâs a quite exciting space but into the early stage.
+Operator
+Thank you. And our next question comes from Nandan Amladi from Deutsche Bank. Please go ahead with your question.
+Unidentified Analyst
+
+Itâs actually Tas [ph] on behalf of Nandan. I have two questions. One is you mentioned that you had a strong product refresh cycle this year. My question is when you have a product refresh, when you have a product for the new chip you also have a pricing uplift as part of the new product?
+Ken Xie
+No, we tend to keep the same and thatâs where you can see the way we name the product and so itâs the same name number, we tend to keep the same price.
+Unidentified Analyst
+So why would a customer buy the older product then if you have the newer product with the faster chip at the same price?
+Ken Xie
+See, the more slow every like a two years a speed battle. So thatâs where the profits power also double. So I think some customer I think if they already have some solution deployed using some of the product they brought few years ago and to sometime -- they just want to keep imply the same product, probably easier to manage and support the audiences [ph]. But technology keep advance. So thatâs where we also will not stop and wherever we see some new technology opportunities because we are only network secure company invest heavily, both in the chip level, in the system level, in the sulfur level. So thatâs where any technology advance in all this work [indiscernible] space. We just want to make sure we can integrate, we can also have the customer benefit from the technology. So thatâs where weâll continue to come up new products, which probably have better performance in the old product. But on the price side as on the margin side we want to keep pretty consistent.
+Unidentified Analyst
+Is there a big change that the customer is required to make when he goes from say 3700C to 3700D or itâs basically a plug and play when you upgrade your old appliance to the newer appliance? I am trying to understand why would a customer not buy a newer product with a newer chip at the same price if he's out in the market to buy a new Firewall. Why would you keep selling or why would customers keep buying your older kind of products. 
+Michelle Spolver
+What Ken was saying is that a brand new customer would probably buy the brand new product. What ends up happening when you have large multiphase enterprise deployments, it could be, itâs not a big change or big disruption but they would have already tested the older version of the product? Its part of a multiphase rollout and itâs already sort of been determined and that they would like to continue to go with the products that they purchased originally.
+So if itâs an upgrade to a Firewall and they say okay we reached our -- the old product has reached an end of life. Of course they are going to buy a new product or if itâs a brand new customer, many times they would buy a new product. But there any large any company doing business with large enterprises is that many times itâs a multi-year rollout or multi-phase rollout where they want consistency in terms of using the same products that they originally purchased. 
+Ken Xie
+Sometimes also they try to match their infrastructure. So if they have a gigabit or 10 gig, they donât have to buy the 40 gig or 100 gig. And some time, a lot enterprise already put a 40 gig but 100 gig interface and thatâs where they probably more interested in a new product. I think like I said, after the new product announced it would take about couple of years to see the older ones phased out. So that was the process been going on for the last like 12 - 14 years. 
+Unidentified Analyst 
+And then second question is you mentioned a lot of wins against FireEye on the call earlier. Can you talk a bit about how your product differentiates versus FireEye in terms of functionality? And then also can you talk a bit about your pricing of your APT product versus FireEye because FireEye is one of the premium priced products in that space. I think itâs almost like a quarter million for a box. Can you talk about how your pricing for your APT product compares to the FireEye?
+Drew Del Matto
+I think the easy way to think about it is first of all we have a firewall right. So we offer a broader, more integrated and higher performance APT protection because we can actually integrate with firewall. I think is the first point. A competitive advantage in integrating sandboxing with the firewall, flow based antimalware and anti-spam technologies to provide a unified comprehensive defense for advance persistent threats. I think the way customers think about it or what it really does is optimizes both the security effectiveness and network performance at the same time. And that was illustrated -- we keep pointing back to the NSS lab results back in March or April. But I think thatâs the highlight of that upper right quadrant if you will, if youâre familiar with what I'm -- if you remember that, Tas. Yes, so I think thatâs the way to think about, kind of integrate it -- the sandboxing with the firewall, flow based antimalware and anti-spam technologies which provide unified comprehensive defense for APTs.
+Unidentified Analyst
+So a customer has to be a FortiGate customer to buy -- itâs not an independent product? Itâs a bundled add-on?
+Michelle Spolver
+No, itâs an independent -- we offer it in two different ways. So the FortiSandbox appliance, you do not need to be a Fortinet customer and the advantage of that, of being a Fortinet customer, because when youâre integrating the firewall together with an APT device but if you donât you donât need to be. Itâs a standalone appliance. We also offer cloud based APT services that work with our FortiGate devices. So obviously need to be a Fortinet customer or buy the FortiGate device using the cloud based APT service.
+Operator
+Okay, thank you. So weâll take our next question from [indiscernible] from Stifel. So please go ahead.
+Unidentified Analyst
+Just one question here. Can you talk about the importance of the NSS lab results in terms of wining new business on the NGFW side of things? Thank you.
+Michelle Spolver
+Well, the report only came out a couple of weeks ago. I think we feel good about it. We take obviously -- as Ken said we take testing very serious. NSS lab is a very respectable lab out there in terms of independent third party testing. Weâre excited about it. Obviously it helps us from a sales and marketing perspective but I think the test came out couple of weeks ago.
+Drew Del Matto
+Yes I think took in the last monthâ¦
+Michelle Spolver
+Yes, wouldnât have been a contribution to -- much of a contribution in Q3.
+Drew Del Matto
+Yes, I think its helpful going forward. I would expect that to the extent there were deals in the pipeline I'm sure it didnât hurt. But probably really the -- it doesnât really I think sink into the calculus until the fourth quarter or so.
+Unidentified Analyst
+Got it. Thank you.
+Drew Del Matto
+Too early, yes.
+Operator
+Okay, thank you. So that does conclude our Q&A for today. Iâd like to turn the call back to Michelle for any closing remarks.
+Michelle Spolver
+Thank you everybody. I know we went a little over here. So thanks for staying on the line. We have a follow up call. If there are any other follow up questions feel free to dial in at 3.30 and the calling information is within our press release issued today. And Ken, Drew and I will be here to take questions.
+Operator
+Ladies and gentlemen, this does conclude your conference. You may now disconnect and have a great day.

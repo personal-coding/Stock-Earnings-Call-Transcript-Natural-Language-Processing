@@ -1,0 +1,271 @@
+Advanced Micro Devices (NASDAQ:AMD) Q4 2010 Earnings Call January 20, 2011 5:00 PM ET
+Executives
+Ruth Cotter - Director, Investor Relations
+Richard Bergman - Senior Vice President and General Manager of Products Group
+Robert Rivet - Chief Operations & Administrative Officer and Executive Vice President
+Thomas Seifert - Interim Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer and Senior Vice President
+Analysts
+David Wong - Wells Fargo Securities, LLC
+Shawn Webster - Macquarie Research
+James Covello - Goldman Sachs Group Inc.
+Romit Shah - Lehman Brothers
+Uche Orji - UBS Investment Bank
+Glen Yeung - Citigroup Inc
+Stacy Rasgon - Bernstein Research
+Christopher Danely - JP Morgan Chase & Co
+Patrick Wang - Wedbush Securities Inc.
+Srini Pajjuri - Credit Agricole Securities (USA) Inc.
+John Pitzer - CrÃ©dit Suisse AG
+Ambrish Srivastava - BMO Capital Markets U.S.
+Timothy Luke - Barclays Capital
+Doug Freedman - Gleacher & Company, Inc.
+Operator
+Good afternoon. My name is Huey and I'll be your conference operator for today. At this time, I would like to welcome everyone to AMD's Fourth Quarter 2010 Earnings Conference Call. [Operator Instructions] I would now like to turn the conference over to Ms. Ruth Cotter, Vice President of Investor Relations for AMD. Please go ahead.
+Ruth Cotter
+Thank you and welcome to AMD's fourth quarter and year-end earnings conference call. Starting this quarter, we are providing written CFO commentary, which will contain additional information regarding AMD's results and outlook and can be found on the IR section of AMD's website at quarterlyearnings.amd.com. Participants on today's conference call are Thomas Seifert, our Chief Financial Officer and interim CEO; and Rick Bergman, Senior Vice President and General Manager, AMD's Product Group. This is a live call and will be replayed via webcast on amd.com. There will also be a telephone replay. The number for the replay is (888)266-2081. Outside of the United States, the number is (703)925-2533. The access code for both is 1502479. The telephone replay will be available for the next 10 days starting later this evening. I would like to highlight a few dates for you this afternoon. Thomas will present at the Goldman Sachs Technology and Internet Conference on the 16th of February in San Francisco and our first quarter quiet time will begin at the close of business on Friday, March 18.
+On December 27, AMD announced that starting with the first fiscal quarter of 2011, the company will begin accounting for its investment in GLOBALFOUNDRIES under the cost method of accounting and will no longer recognize any share of GLOBALFOUNDRIES' net income or loss and its statements of operation. The transition to cost-based accounting was triggered by the contribution of Chartered Semiconductor to GLOBALFOUNDRIES and amendments to certain agreements.
+As a result of the contribution, AMD's ownership of the newly combined entity on a fully diluted basis is approximately 14%. Reconciliation for all non-GAAP financial measures discussed on today's call is included in our financial tables that accompany our earnings release available in the Investor Relations section of amd.com.
+Before we begin today's call, I'd like to caution everyone that we will be making forward-looking statements about management's expectations. Investors are cautioned that those statements are based on current beliefs, assumptions and expectations, speak only as of the current date and involve risks and uncertainties that could cause actual results to differ materially from our current expectations.
+The semiconductor industry is generally volatile and market conditions are particularly difficult to forecast especially in light of the current state of the economy. We encourage you to review our filings with the SEC, where we discuss the risk factors that could cause actual results to differ materially from our expectations. You'll find detailed discussions about such risk factors in our most recent SEC filings, AMD's quarterly report on Form 10-Q for the quarter ended September 25, 2010. Now with that, I'd like to hand the call over to Thomas.
+Thomas Seifert
+Thank you, Ruth. Before we begin, I would like to take a moment to thank Dirk Meyer for his leadership as AMD's CEO over the past two and a half years. Indeed, he leaves behind a much stronger company than the one he inherited heard, a much nimbler AMD with the people, the IP and the spirit to fully realize the breadth of opportunities in front of us.
+As you know, AMD announced last week that our Board has formed a CEO search committee led by Bruce Claflin, Executive Chairman of AMD's Board of Directors. The Board has retained an executive search firm to assist with this process. The search is obviously a priority and the committee is moving the process forward to ensure that we select a person with the right vision, experience and track record to lead AMD into the future and to create increased shareholder value over time.
+While we don't plan on communicating further until the search process has concluded, we will update you should events warrant. That being said, we are here to focus on our fourth quarter and full year earnings results. 2010 was an important year for AMD. It was a year in which we achieved many of our major milestones, resulting in a company with solid momentum and well positioned for the opportunities immediately ahead.
+First, we demonstrated that our fab-less business model works, restructuring our balance sheet and reducing our overall debt by $400 million excluding GLOBALFOUNDRIES, improving our 2010 non-GAAP gross margin by nine percentage points over the prior year, and generating $553 million in non-GAAP operating income and $355 million in adjusted free cash flow in 2010.
+Second, we showed that our execution engine is on track, delivering Bulldozer, our impressive new x86 core designed to bring a new level of performance and performance-per-watt capability across the full spectrum of clients and servers, taking a clear leadership position in discrete graphics, having shipped over 35 million DX11-enabled GPUs to date.
+And introducing the first of our AMD Fusion family, which for the first time combines our expertise in x86 computing and graphics into a single new architecture, arguably the most significant advancement in processor architecture in decades. And third, we proved that we have indeed changed the game. We made graphics matter, irreversibly shifting the focus of the industry to a more balanced combination of CPUs and increasingly robust graphics capability.
+And we introduced a new category, the accelerated processing unit or APU, changing the trajectory of processor design and development from here forward. Focusing more specifically on the fourth quarter, industry momentum for Fusion is strong and growing. OEM adoption of Brazos is excellent. We shipped more than 1 million Brazos platforms in its debut quarter to world class OEMs including Acer, Asus, Dell, HP, Lenovo, MSI, Samsung, Sony and Toshiba.
+Brazos' technical performance is superb, offering a unique combination of [indiscernible] ADP HD video and all-day battery life. At CES, Brazos-based notebooks received several significant innovation awards, including Laptop Magazine's Editor's Choice Award. Our AMD Fusion software ecosystem is maturing rapidly with key partners such as Adobe, Arcsoft, Corel, CyberLink, DivX and Microsoft, announcing applications optimized for AMD Fusion APUs.
+And finally, customers are discovering that Brazos is ideal for more than notebook platforms, earning design wins in everything from tablets to Internet ready set top boxes, thin clients and point-of-sale kiosks. On the technology side, we have entered a new phase with our 32-nanometer RAM and are now sampling thousands of nano products to a wide variety of OEMs and ODMs as they prepare for production in Q2.
+We have begun sampling our 32-nanometer Bulldozer-based Orochi parts in volume with customers worldwide. We expect Orochi for desktops to ship in production in early summer and the Orochi for servers in late summer. Turning to the fourth quarter financial summary. Fourth quarter revenue was $1.565 (sic) [1.65] billion, up 2% compared to the third quarter of 2010. We reported non-GAAP net income of $106 million and a non-GAAP diluted EPS of $0.14.
+Fourth quarter non-GAAP operating income was $141 million. Fourth quarter gross margin was 45%, down one percentage point from the prior quarter, at the high-end, however, of our target model for the year of 40% to 45%. Operating expenses continue to hit within our target model. R&D was $352 million and SG&A was $250 million for the quarter.
+Total operating expenses came in at $602 million, slightly less than the guided $610 million. Fourth quarter adjusted EBITDA was $241 million, down $4 million sequentially, and non-GAAP adjusted free cash flow was $11 million, down $80 million from the prior quarter.
+Now switching to the business segments. In our Computing Solutions segment, fourth quarter revenue was $1.22 billion, flat sequentially and operating income was $91 million. In the Graphic segment, revenue for the quarter was $424 million. The sequential growth of 9% was mainly due to first double-digit growth unit sales through the AIB channel due to the success of our second generation DX11 enabled GPUs, the AMD Radeon HD 6800 and 6900 series, as well as seasonally higher game console revenue.
+Operating income for the Graphic segment was $68 million. Turning our attention to the outlook. The following statements concerning AMD are forward-looking and actual results could differ materially from current expectations. For the first quarter of 2011, AMD expects revenue to be flat to slightly down sequentially. We expect operating expenses to be approximately $650 million due to an extra week in the first quarter and a separation payment of about $12 million to Dirk Meyer.
+Tax is expected to be approximately $4 million. In my first days in my new role, I've never been more confident in this company and our capacity to succeed. We have world-class people with a propensity for solving the world's most difficult technical challenges and the passion to see the next cycle of innovation come to fruition. I really want to thank them for their commitment and achievement over the past year.
+We have unparalleled assets starting with the strongest combination of x86 and graphics technology in the world, a business model now much more attuned to embrace industry shifts and a loyal and expanding group of customers and partners all looking for AMD to succeed. And we have solid gross margin expansion opportunities. We're just beginning to launch some of the most exciting products into the sweet spots of our portfolio.
+Our products are aimed to some of the largest most established margin pools in the industry and we have lots of headroom in which to grow. My priorities and those of the company are clear. We must stay the course of execution in delivering what we promised. We will, however, increase the pace of converting our significant potential into shareholder value and we will embrace the changes in the market where our prospects for success look good.
+In summary, we will continue to both execute our leadership strategy and generate increasing momentum for our customers, our shareholders and ourselves. And at this point, I would like to turn it back to Ruth.
+Ruth Cotter
+Huey, we're very happy to poll the participants for the question-and-answer session now, please.
+Question-and-Answer Session
+Operator
+[Operator Instructions] Our first question here in queue is from Romit Shah with Nomura Securities.
+Romit Shah - Lehman Brothers
+I wanted to follow up on the guidance. Your guiding revenue's flat to down for Q1 but you've got an extra week. How much do you think that benefits you this quarter?
+Thomas Seifert
+We guided flat to slightly down so it's certainly better than seasonal. And if I had to paint the box around it that's probably around 0% to minus 4%. So it's certainly a sub-seasonal quarter that we expect in terms of demand.
+Romit Shah - Lehman Brothers
+I'm sorry, I'm not following. You're guiding flat to down 4%. Are you -- does that -- are you getting any sort of benefits from the extra week in revenue?
+Thomas Seifert
+Well, it's a mixture, of course, of an extra week of revenue but we are also seeing better than seasonal demand.
+Romit Shah - Lehman Brothers
+And then could you just give us an update on the timing of Llano? I didn't see that mentioned in your CFO commentary.
+Thomas Seifert
+The shipment date for Llano have not changed. We are sampling, as I said, in high volume now and getting our customers ready to ship products in the second quarter.
+Operator
+Our next questioner in queue is Tim Luke with Barclays Capital.
+Timothy Luke - Barclays Capital
+As you look forward given the change in the leadership, what do you think some of the new points of emphasis are likely to be as you move forward to the extent that you may be able to just recap what you think some of the differences in terms of emphasis may be going forward?
+Thomas Seifert
+Well, for the near-term, I think you shouldn't expect too much of a difference. I think we entered this year with tremendous momentum coming out of CES and seeing the excitement for their first Fusion products, bringing really computing graphics performance to a form factor that had not seen that before and our customers excited by that and they are excited by the battery life that goes along with it. We have a terrific roadmap this year ahead of us, I mentioned it. We're looking forward to ship Llano products and Orochi products in the site. And this really focuses the organization pretty much. There will be opportunities that are incremental to that, that we will have to look at but for the near-term, it's really making sure that the focus stays on execution, that we accelerate the pace with which we look at some of the opportunities, especially when it comes to margin expansion. And then also consider that there are the changes that we have been talking about over the last year that we have enabled in this new AMD business model really work to our strengths. We are now an IP generating company. We're focused there the company where the strength always was designing and innovating great products and bringing them to the market in an efficient manner, that will be the near-term priority. And then we will be able to, based on that, think incrementally on where other opportunities are that make us successful.
+Timothy Luke - Barclays Capital
+In guiding to the $650 million of OpEx, even with the payment to Dirk and the extra week, it looks like a fairly significant increase. Can you frame for us how we should think about the OpEx going forward for the year in terms of the shape of the OpEx? Is it going to be -- how it turns sequentially is what I'm trying to get a feel for. And separately, given that you are guiding for a fairly flattish revenue outlook, should we assume a fairly flattish gross margin or are there other puts and takes for the beginning of the first quarter?
+Thomas Seifert
+So you really should look at operating expense guidance for the first quarter really in a flattish way. If you take out the additional week and correct for the separate payment, and keep in mind that our guidance for the fourth quarter last year was around $610 million, OpEx development in the first quarter is rather flattish. I think we have shown in the past that we managed the company in a very disciplined way when it comes to operating expenses and we have no intent to change that. The gross margin question is a good question. We see in the current quarter some ups and downs, of course, we will see gross margin opportunities just because of product mix and Fusion launches. However, we also will see some headwinds because of the significant ramp of 32-nanometer capacity. The ups and downs probably equal each other out so I would assume around a flattish gross margin development in the first quarter.
+Operator
+Our next questioner in queue is Ambrish Srivastava with Bank of Montreal (sic) [BMO Capital Markets].
+Ambrish Srivastava - BMO Capital Markets U.S.
+What is the assumption for PC growth for 2011? Your small rival from across town is expecting low- to mid-teens if I remember correctly. And the second question is on the GPU side, last quarter you guys had talked about meaningful share losses to NVIDIA. This time around, is it just market drilled or it shouldn't appear that? Share losses should abate in one quarter, so just some more perspective on that please.
+Thomas Seifert
+So I think with respect to PC growth and expectation that the market is growing, between 10% and 11%, that's probably the right range. We were excited by the response of our new product launch in the Graphic segment. We launched two high-end products that certainly caused excitement and revenue flow. And that were driving the performance of the company. If I -- Rick, you could go into more detail.
+Richard Bergman
+I don't recall us talking about share losses in the GPU market. We're the leaders in the DX11 category and we just launched an entirely new second generation both on the desktop and notebook side. We have obviously or had 62% share in the third quarter. That gets tough in that particular market just to maintain that level. But certainly, we had robust design wins on all the new platforms in 2011. So we expect our GPUs to continue to be successful going forward.
+Operator
+Our next questioner in queue is Jim Covello with Goldman Sachs.
+James Covello - Goldman Sachs Group Inc.
+First, recognizing that AMD doesn't have its own manufacturing facilities anymore, what do you think the real impact of Intel's very significant CapEx budget is going to be on the industry in a competitive dynamic?
+Thomas Seifert
+So I think they announced slightly above $8 billion for this year. If you look at the ecosystem that supports us, GLOBALFOUNDRIES just announced a investment of more than $5 billion this year. They're our second largest provider of manufacturing capacity. TSMC gave guidance of around $6 billion. So in terms of manufacturing infrastructure and scale, we are supported by a really substantial ecosystem also and that makes us pretty confident moving forward. And then I think we discussed those issues at length. We are moving into an environment where people do not buy processor frequency anymore. But look at what capability the products deliver. And I think we have demonstrated now, with our launch of the Brazos platform and at CES, what kind of a experience we can deliver in this form factor. And we are really looking forward to the Llano launch in summer to put things into perspective.
+James Covello - Goldman Sachs Group Inc.
+Maybe relative to your guidance for the first quarter or just more generally, what kind of tablet cannibalization assumptions, if any, are you incorporating into that guidance? As we have a little more visibility on that number of tablets that are shipping in any given quarter, do you think that's meaningfully impacting the PC space at this point? Or is most of that tablet growth incremental in your view?
+Richard Bergman
+Obviously, there's a lot of opinions around that topic, especially in light of some of the announcements made this week. As we talked with our OEM partners, we don't see a deterioration in the market in a major way in the notebook area. And any cannibalization is built into our estimates that Thomas just provided.
+Operator
+Our next questioner in queue is Chris Danely with JP Morgan.
+Christopher Danely - JP Morgan Chase & Co
+So we're seeing a lot of the APU-enabled notebooks coming up. Can you just maybe give us a sense of the price point? Is this more of a netbook type of product? A mainstream notebook? A high-end notebook? Just a little more color there.
+Richard Bergman
+Absolutely. So, yes, if you looked at the various announcements, it's all of the above and then some. Also desktop and all-in-one form factors, as well as -- today, we had an embedded Brazos announcement as well. So everybody gets the value of what Fusion brings to virtually every single computing platform out there in the industry. And certainly, as we bring Llano into play later this year, you'll see us move into even richer and higher-price performance notebook and desktop platforms as well.
+Christopher Danely - JP Morgan Chase & Co
+You guys sound pretty fired up, it sounds like business is pretty good, turning a tidy high profit. I guess, so why is Dirk not there? Is it you guys thought he should capitalize on tablets more? Do you feel like your gross margin should be at 50% and growing a lot faster? Can you just maybe shed a little light on why he's no longer there? What he was missing?
+Thomas Seifert
+I'm not going to go into detail, too much detail here. We discussed this last week. But this was not a looking backward based decision. I think the shape we are in today, the momentum we have generated, we feel good about, it was pretty much a forward-looking statement from the Board. And I'm not going to provide any more color on that than what we said last week.
+Operator
+Our next questioner in queue is Shawn Webster with Macquarie.
+Shawn Webster - Macquarie Research
+So you mentioned a couple of different things in your commentary as well as your press release. I was wondering if you can share what your processor units did sequentially as well as your graphics chip units?
+Thomas Seifert
+On the Graphics side, they were up sequentially. On the GPU side, they were flattish.
+Shawn Webster - Macquarie Research
+And for the pricing environment, do you have expectations as we go into the next quarter or two based on assumptions on mix or what's happening within the Notebook and Desktop and Server segments?
+Thomas Seifert
+Yes. So we always said that we expect the pricing environment to be rather flattish. We will see some opportunities based on product mix and demand. Yes.
+Shawn Webster - Macquarie Research
+And then are you experiencing, given the success and some of the design wins recently, how is the supply situation? Are you experiencing any tightness? How are lead times right now?
+Thomas Seifert
+From a supply-side we are really in good shape, so all the shortages we had during the first half of 2010 have disappeared. We don't see any shortages at this point in time.
+Shawn Webster - Macquarie Research
+So with GLOBALFOUNDRIES coming off, the whole equity impact line item goes away and then something arises on the balance sheet. Is that how the mechanics will work as we go into Q1?
+Thomas Seifert
+Yes. So it's part of the accounting change. We are just in the process of a valuation analysis that will be completed during the course of this quarter. This will have an impact on our equity stake, the value of our equity stake in global foundry. And this will be it -- of course, you will look at this equity from a fair value perspective on a yearly basis and do testing. But beyond that, you will not see any further impact from future global foundry losses or profits either on our balance sheet or on our P&L.
+Shawn Webster - Macquarie Research
+And how does the change in share ownership affect your diluted share count?
+Thomas Seifert
+It's at 14%. The value of the 14% might change but the 14% for the quarter are the 14%.
+Shawn Webster - Macquarie Research
+And then what was the legal settlement good news you saw?
+Thomas Seifert
+We settled with Samsung.
+Richard Bergman
+I would like to interject a slight correction on a statement offered earlier. Our GPU shipments went down slightly in Q4.
+Operator
+Next questioner in queue is Glen Yeung with Citi.
+Glen Yeung - Citigroup Inc
+I look at that Laptop Magazine review that you referenced earlier, Thomas, sounds pretty good. I guess the question is, are the initial million shipments of Fusion predominantly aimed at netbook, one? And then two, it seems you had no market share there before, do you feel like you're already gaining share with Fusion at this point?
+Thomas Seifert
+So the shipments were not only in the Netbook segment but also beyond in notebook all-in-one form factors. And of course, we are excited by bringing such a kind of performance into a segment of the market where we had no revenue before. So any shipment in there is going to be market share accretive. With the response we have seen, we are quite bullish with our expectations for this year in the traction we have seen so far.
+Richard Bergman
+Just also in clarification, the netbook and small notebook category continue to get more and more blurred. And really, that's what we were targeting, the ultra-thin and light-type of form factors with our Ontario solution and in fact, the HPD and one you referenced, technically, is a small form factor notebook. It is about 6 inches.
+Glen Yeung - Citigroup Inc
+And then maybe thinking about the same question in a different way, as you sort of think about the shape of the year, is there a time when the share gains become more evident? Because -- not necessarily so in Q1, right. Your guidance and Intel's are largely the same. So as we think about beyond that, is there a quarter in which you think or a timeframe which you think the share gains really start to show up in the numbers?
+Thomas Seifert
+We will have just based on the shipments and the launch date, obviously, a bias towards the second half of the year.
+Glen Yeung - Citigroup Inc
+You're going to change at the end of this quarter your wafer pricing agreement with GLOBALFOUNDRIES. Can you talk about how we should think about the impact of that on gross margins as an independent event when that happens after this quarter?
+Thomas Seifert
+So we always said that moving forward, our relationship becomes more foundry-like. The impact that this will have are, of course, were part of the guidance we gave at our Analyst Day in November of last year. So we, moving forward, we will have some positive support on margin development out of a mix of leverages, including higher productivity of course, of the 32-nanometer node, and a lesser degree of idle capacity in global foundry interest and so on.
+Glen Yeung - Citigroup Inc
+Thomas, just remind us what that guidance was that you gave last November? Gross margin guidance?
+Thomas Seifert
+We guided a range of 44% to 48% for the year, up from 40% to 45% for 2010.
+Operator
+Our next questioner in queue is John Pitzer with Credit Suisse.
+John Pitzer - CrÃ©dit Suisse AG
+I guess, Thomas, my first question on flat computing revenue, operating income in that division was down about $73 million sequentially. Hoping you can help me understand why the big drop in operating income. Is this a one quarter phenomenon? Is it more the desktop notebook market or is this a server phenomenon? Just help me get a sense of what's going on there.
+Thomas Seifert
+So it was a mix of things. We saw some price deterioration in the quarter because it was a very consumer-driven quarter in terms of demand. We also managed, I hope you saw that, our inventory in a very good way. But that also meant that we had some -- -- a higher degree of underutilization in the factory in placement [ph]. We are still in obligation to pick that up. So those two effects pretty much explain the impact on operating income.
+John Pitzer - CrÃ©dit Suisse AG
+Conversely, when you look at the Graphics business, it was a really nice jump in operating profit. If I'm correct, fourth quarter is usually seasonally strong on the gaming side. How do we think about operating profits in that business as you move into the first half of 2011?
+Thomas Seifert
+Well, we have ambitious targets when it comes to profitability and they are also true for the Graphic segment. We have put some heightened emphasis on profitability so we are hopeful to keep the performance at that level.
+John Pitzer - CrÃ©dit Suisse AG
+Did you give gross margin guidance for the first quarter? And if not, is there a range that we should be thinking about?
+Thomas Seifert
+Yes, I said on one question earlier. I talked about a flattish gross margin development for the company in Q1.
+Operator
+Our next questioner in queue is Uche Orji with UBS.
+Uche Orji - UBS Investment Bank
+Thomas, let me just start of asking about servers. I mean one of the areas where we've seen AMD especially when the results just reported you had weak server ASPs, and what I found that if you look at Intel's numbers, servers was probably one of the strongest that they had. So question here is what are you doing to kind of start to regain traction specially, as you now about to launch new processor architectures? Is there anything you'd change from an execution standpoint to make sure that you will be able to get more traction within this market? That's the first question. And also if you can talk about what you see as underlying growth expectations for servers through 2011, that will be helpful.
+Thomas Seifert
+I'm not going to make a secret out of it, that we were disappointed with our performance in the segment in the fourth quarter. This is one of the areas where we see significant room for improvement and that is one of the areas I would like to being referred to when we talk about picking up the pace. We think we have a good product portfolio in place but we have to work on our go-to-market strategies and this will be one of the emphasis moving forward.
+Uche Orji - UBS Investment Bank
+On the GPU side, I mean the strength was in the GPU. I apologize if you answered this earlier, but on the strength of selling GPU, what is your sense about attach rates in this kind of big platform? Because one of the big question's obviously how attach rates for graphics will fare as we see more AP-type products through 2011. So we've seen some strong numbers this quarter, which probably suggests that you took fairly nice market share [ph], good attach rates. Any commentary as to how you see the rest the year playing out would be helpful.
+Richard Bergman
+We're thrilled about the increased attention towards the GPU and video capabilities of PCs. But at the end of the day, AMD wins whether it's a Fusion processor or a discrete GPU. Now saying that, what we've seen on attach rates is they're basically the same as they've been in 2010. So no fundamental difference on the new processor platforms that have been announced or will be announced in 2011.
+Uche Orji - UBS Investment Bank
+Lastly, for you Thomas, following on from Glen's questions on the changing with the pricing model. As you ramp this new -- as you start to ramp the 32 nanometers, what is the focus? Is it market share gain or gross margin optimization? Can you do both? And does this new pricing model allow you to do both?
+Thomas Seifert
+Profitability first, I made no secret about this over the last five to six quarters, gross margin expansion potential is the big lever for us. However, in that case, in that instance, both things come together because a strong expansion of our Llano ramp will allow us to grow into market segment and product SKUs that allow us to command a higher price performance. So I think this is one of the two levers where both things come together where we can combine market share gain and gross margin expansion at the same time.
+Operator
+Our next questioner in queue is Srini Pajjuri with CLSA Securities.
+Srini Pajjuri - Credit Agricole Securities (USA) Inc.
+Just want to get some clarity on the ASP declines last quarter in processors. I'm just wondering what caused the decline and I'm wondering if there was -- if you thought there was some excess capacity in the channel?
+Thomas Seifert
+No, that's not how I would portray it. It was really more a product mix topic than a demand pressure or oversupply or under-demand picture.
+Srini Pajjuri - Credit Agricole Securities (USA) Inc.
+And going forward, I mean you said you expect the PC market to grow 10% plus or minus. I'm wondering what your expectation for pricing for 2011 is?
+Thomas Seifert
+No doubt it's going to be a competitive environment but we always said that we think that we can compensate price erosion with an improvement in price performance on our side by just growing and diversifying into products SKUs that we have not touched on or have not served yet.
+Srini Pajjuri - Credit Agricole Securities (USA) Inc.
+There were some media speculation about why Dirk left. Some newspapers were talking about the tablet strategy as the main issue. I'm just wondering hypothetically, if you were to enter the tablet market, do you think you can sustain the long-term model that you gave us or do you think these investments will have to go up?
+Thomas Seifert
+Well, I'm not going to comment on any speculations that are out there. I think what we can say, however, is just looking at the product roadmap and what we have been delivering with Brazos shows us that if we continue to develop products with ever lower power consumption while at the same time delivering really superior graphics and processing performance, that we can address applications that are outside of market segments that we currently serve and we will entertain that.
+Richard Bergman
+So to me, tablets present a wonderful opportunity for AMD. I've been in the PC industry 20-plus years, we really struggled to get into the living room and it's clear that tablets are finding their way into the living room, a real consumer experience. And as these consumers start to utilize these tablets, they start to demand a better end-user experience, which invariably mean processing power, incredible graphics, incredible video, and a move up inside, higher resolutions and so on. Already, we're seeing a number of design wins, opportunities for us with Brazos today. And certainly, as we develop new products in that category, we will account for those new trends and the new market opportunities.
+Operator
+Our next questioner in queue is Doug Freedman, Gleacher.
+Doug Freedman - Gleacher & Company, Inc.
+Thomas, if I could start off, the marketing accounting, I believe, about two quarters ago, you changed the way in which you're accounting for the marketing spend. Can you highlight us on how we should think about that impacting the forward accounting on the SG&A line?
+Thomas Seifert
+So we said we had a hike, it's not going -- the reduction is not going to be a black and white event. So we will see some reduction in the first quarter and then we have to -- and then more relief moving forward.
+Doug Freedman - Gleacher & Company, Inc.
+So on a like-for-like basis we should think that we could get back to a September '10 number or is it that we can...
+Thomas Seifert
+In terms of expense to revenue, that is certainly the target.
+Doug Freedman - Gleacher & Company, Inc.
+Rick, for you, if we can look at the GPU market a little bit closer detail, where do you think we are? You definitely saw a nice uptick in ASPs with the new launch of the high-end products. How far along in that? Where do you think ASPs go over the next couple of quarters? And then could you offer some commentary on what you're seeing for ASP trends in the notebook side of the business?
+Richard Bergman
+To address kind of both of those questions, we obviously introduced our high-end products towards the end of 2010, specifically the 6900 series. And we have a couple more introductions planned shortly in that category. And to push our ASPs northward, our new notebook products are introduced. And their shipments grow obviously, that's the other direction, but no different trends between 2011 and 2010 on a annual basis there. And the second half of the question was, remind me again.
+Doug Freedman - Gleacher & Company, Inc.
+Notebook GPU trends, if you're seeing any sort of price pressure in that market as your other competitor out there has been trying to take back some share and have been pretty vocal about their design win success.
+Richard Bergman
+I've' been in the GPU business for a long time and there is always a tough competitive market and we'll make sure that we're successful there as Thomas pointed out. And we'll continue to profitably grow that business. I don't think anybody's better positioned than we are in the GPU market. We obviously have our Fusion processors and the discrete GPUs actually complement our Fusion processors nicely, whether it's on our own platform or these customers that buy the other guys' platforms for whatever reason, who want that same graphics performance, they invariably will look towards AMD GPU solutions.
+Doug Freedman - Gleacher & Company, Inc.
+If I look at the list of customers that you commented or have adopted and launched Brazos platform products, is there a possibility that customer list continues to expand? What are your thoughts on customer acquisition plans?
+Thomas Seifert
+Very aggressive, and of course, the momentum that we have generated with the launch is something that we continue to move forward. It's exciting performance with outstanding battery life, that form factor. And then we will use this momentum to grow customer base and market share.
+Operator
+Our next questioner in queue is Patrick Wang with Wedbush Securities.
+Patrick Wang - Wedbush Securities Inc.
+Can you guys maybe characterize how you see your Fusion ramp? I guess if I look at this, you guys shipped 1.3 million platforms since just the last two months of last quarter. How should we think about that ramp through the next couple months? And then, I guess, separately, maybe for Rick, can you talk about your expectations of how Llano's going to competitively stack up against Intel's mainstream standard bridge product lineup? I guess maybe what drives those anticipated share gains?
+Thomas Seifert
+Let me take the first part and then let Rick answer the second part. We're not going to provide any market share projections at this point in time. However, I think you can read and hear the excitement we feel for that product and the momentum we have generated. So we feel confident to gain significant market share in this segment with this platform. And this ultimately will be reflected in the shipment numbers and then the ramp numbers.
+Richard Bergman
+With regards to the competitive platform, we are pleasantly surprised at CES. Prior to CES, there were claims of discrete level graphics performance and that type of capability. Obviously, as the details were unrolled and real benchmarks were run on real applications that fell well short of what we would offer in discrete graphics capabilities. As we look forward with Llano, we're really excited because our value proposition will really shine through. We'll show the world what GPU performance and capabilities mean with Llano and it'll be a much higher performance than what you're seeing out there from our competition in that area.
+Patrick Wang - Wedbush Securities Inc.
+So it's still more of highlighting your graphics advantage there in terms of performance?
+Robert Rivet
+Well, absolutely, we've said all along and Thomas, as you heard earlier in the conference call, the market is telling us and even our competitor was stating how important graphics and video is now for consumers because that's really where -- all these consumers care about is the video or graphics display. So we're not wavering from that message that, that is when you buy a new notebook or desktop, that should be top priority on your list, your experience.
+Patrick Wang - Wedbush Securities Inc.
+Just a longer-term strategic question. I'm curious if there's been a change to the company's stance on ARM. There's been a lot of momentum out there for some of your competitors out there and I know you guys have had an ARM business in the past and sold it. Just curious how you guys are thinking about that today?
+Thomas Seifert
+First of all, we have just to realize that the expertise and the IP that we have in the company on x86 and GPU processers is broad. There are only few companies out there in the world that have processor design capabilities at our level. And those capabilities can also work on other platforms. However, I think it's important to keep in mind where our core opportunities are for the moment. We will embrace any changes that are happening in our ecosystem. And I think with the changes the company has gone through, transforming us and the business model we have now, I think we're really set up to cope and embrace the opportunities and possibilities that this could mean.
+Operator
+Our next questioner in queue is David Wong with Wells Fargo.
+David Wong - Wells Fargo Securities, LLC
+Could you give us some idea of your sequential growth in server related revenues?
+Thomas Seifert
+For the current year, you mean?
+David Wong - Wells Fargo Securities, LLC
+For the December quarter and what you expect in the March quarter.
+Thomas Seifert
+So for the December quarter, we will be slightly down. And for this quarter, we have higher ambitions.
+David Wong - Wells Fargo Securities, LLC
+And when you ramp your 32-nanometer product in the second half of this year, will they have -- are you recting [ph] they'll have a higher gross margin, a comparable gross margin or lower gross margin than the 45-nanometer products they'll supersede?
+Thomas Seifert
+That depends upon which -- when you look at it. In the early beginning of the ramp, you have ramp costs that will impact your profitability. But we've never made a secret out of our goal and the opportunity this technology offers. At the end, this will be highly gross margin accretive.
+Richard Bergman
+To be clear the question was stated that ramping in the second half of the year. We have begun that production ramp now. And obviously, it picks up through the course of the year but we're starting now
+David Wong - Wells Fargo Securities, LLC
+But your gross margin guidance for the year assumes that as you ship 32-nanometer product in the second half of the year that could have a somewhat lower gross margin at least initially, is that correct?
+Thomas Seifert
+Well, we gave guidance for this year in the range of 44% to 48%. And this guidance includes that with the ramp up in newer technology, you have certain ramp up costs. But the guidance we gave is inclusive of those costs.
+Operator
+Our final question in queue for today comes from Stacy Rasgon with Sanford Bernstein.
+Stacy Rasgon - Bernstein Research
+Now that you're shipping Brazos in a little more volume, can you give us a little more color on the ASP margin profile of those products?
+Thomas Seifert
+You know that we never provide gross margin profiles on the products...
+Stacy Rasgon - Bernstein Research
+Can you give us some feeling just sort of relative to corporate average? Is it above? Is it below? Is it in-line?
+Thomas Seifert
+So we always said that the launch of the Fusion product, both on the Brazos as well as on the Llano level are going to be margin accretive, that was the overall model. So I think it's fair to assume that the product is going to be above the corporate average.
+Stacy Rasgon - Bernstein Research
+I know you don't want to give any more color behind Dirk's dismissal, but in terms of the reasoning behind it which has been reported to be around the long-term strategic vision around tablets and the mobile connected devices, why is the developing a focus on that space today as important for you as -- when arguably, I could make the argument that you can continue to seek out the incremental growth opportunities in your core market. Your products from a power standpoint right now probably aren't ready for the tablets-based. There a lot of other competitors there. The margins might not be as attractive, and overall the opportunity's probably smaller. And frankly, I'm glad to hear that the Llano looks like it's on the way but you're not done executing on what's in front of you right now. Why is right now the time to shift the focus to more of these long-term strategies rather than really trying to redouble the focus on the x86 opportunity which is in front of you today?
+Thomas Seifert
+Let me start with the second part first and only slightly comment on your first part. There is no deviation from the near-term priorities within the company. Focus on execution and delivering the promises and the guidance we gave is the top priority for the company and that's my top priority. So let there be no doubt. The question on the future outlook, it shortened in what was reported. I think the discussion was more than just a tablet strategy. The mobility discussion, as well as clients, as well as an infrastructure question. And it was also a topic that you've heard from the press that we talked about picking up the pace for the company and addressing some of the near-term opportunities that we have to improve our profitability in a more aggressive manner. So to reduce it to a just tablet statement would be wrong and was certainly not the case and it's certainly not an indication that we are going to let the focus shift away from what the priorities are in terms of delivering what we promised.
+Ruth Cotter
+We'd like to thank everybody for participating in today's call and we look forward to seeing you at the Goldman Sachs Conference in February. Thank you.
+Operator
+Thank you. Ladies and gentlemen, this does conclude today's conference. Thank you for your participation and have a wonderful day. Attendees, you may now disconnect.

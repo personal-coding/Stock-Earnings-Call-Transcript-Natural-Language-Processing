@@ -1,0 +1,273 @@
+Nvidia Corporation (NASDAQ:NVDA) F2Q 2014 Earnings Conference Call August 8, 2013 5:00 PM ET
+Executives
+Jen-Hsun Huang - Co-Founder, President and CEO
+Karen Burns - Vice President and Interim CFO
+Chris Evenden - Senior Director, IR
+Analysts
+Chris Rolland - Friedman, Billings, Ramsay, & Co., Inc.
+Gabriel Ho - BMO Capital Markets
+Blayne Curtis - Barclays Capital
+Chris Caso - Susquehanna Financial Group
+Betsy Van Hees - Wedbush Securities Inc.
+Jim Schneider - Goldman Sachs
+Craig Ellis - B. Riley
+David Wong - Wells Fargo
+Operator
+Good evening. My name is Lisa and Iâll be your conference operator today. At this time, Iâd like to welcome everyone to the NVIDIA First Quarter Earnings Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks there will be a question-and-answer session. (Operator Instructions)
+Thank you. And at this time, Iâd like to turn the conference over to Mr. Chris Evenden, Senior Director of Investor Relations. You may begin sir.
+Chris Evenden
+Thanks, Lisa. Good afternoon, everyone, and welcome to NVIDIA's conference call for the second quarter of fiscal 2014. With me on the call today from NVIDIA are Jen-Hsun Huang, President and Chief Executive Officer, and Karen Burns, Interim Chief Financial Officer. After our prepared remarks, we will open up the call to a question-and-answer session. Please limit yourself to one initial question with one follow-up.
+Before we begin, Iâd like to remind you that todayâs call is being webcast live on NVIDIA's Investor Relations website and is also being recorded. A replay of the conference call will be available via telephone until August 15, 2013, and the webcast will be available for replay until our conference call to discuss our financial results for our third quarter of fiscal 2014. The content of today's call is NVIDIA's property and cannot be reproduced or transcribed without our prior written consent.
+During the course of this call, we may make forward-looking statements based on the current expectations. These forward-looking statements are subject to a number of significant risks and uncertainties and our actual results may differ materially. For a discussion of factors that could affect our future financial results and businesses, please refer to the disclosure in today's earnings release, our Form 10-Q for the fiscal period ended April 28, 2013, and the reports we may file from time to time on Form 8-K filed with the Securities and Exchange Commission.
+All our statements are made as of today, August 8, 2013, based on information available to us as of today and except as required by law, we assume no obligation to update any such statements. Unless otherwise noted, all references to market research and market share numbers throughout the call come from Mercury Research or Jon Peddie Research.
+During this call, we will discuss non-GAAP financial measures. You can find a reconciliation of these non-GAAP financial measures to GAAP in our financial release, which is posted on our website.
+With that, let's begin. Our focus on visual computing enabled us to write out a rough PC market this quarter and is setting us up for growth in new markets. Revenue came in at the middle of our outlook, driven by strengthened GPU offset by Tegra. PC gaming performed particularly well in reaching our product mix, growing our share of GPU revenue at driving margins to another record high.
+The PC market is evolving. As entry level laptops face pressure from tablets. Yet sales of specialty PCs like gaming systems and work stations continue to grow. The disparity reflects how consumers use these different classes of PCs. Many consumers look for PC as a general purpose device they can use for browsing, email, social media video. But much of this can be better served by a tablet. In contrast, gamers are preparing their systems for a strong roster of games coming this fall, including blockbuster franchises, such as Call of Duty: Ghosts, Grand Theft Auto V and Assassin's Creed IV.
+In a similar time, for digital artist and designers, the work station is the tool of their trade. They depend on increasing processing power to deliver results for their clients. And the use of specialty PCs could become even more widespread with a growth of new applications like 3D printing.
+Open platform such as PC and Android are outgrowing the world gardens of the traditional console market. They benefit from more innovation. Nearly half of the developers surveyed at GDC recently who are working on PC games compared only 11% on Next Gen consoles. PC game revenues are expected to reach around $20 billion annually by 2015, whereas the total for both PlayStations will be less than $10 billion and Xbox is only around half of that.
+In mobile, games generate 80% of revenues on Googleâs marketplace and 2/3s of the time spend on a tablet is spent playing games. Itâs this innovation and energy that weâre leveraging with SHIELD. It started shipping July 31st and the critical reception has been excellent. [Xen] should be described as a game geeks stream device, a writer at Forbes got him excited about gaming again and CNET called it a high quality device with stellar performance. Because SHIELD is an open platform, it can access anything available to an android tablet. That means there were literally 100s of 1000s of games available for SHIELD today at launch. Itâs a web browser and a way to update Facebook. It excels as a metrics movie player and as an internet radio or Pandora music platform.
+Thanks to the effort we put into the loud speaker and acoustic design. SHIELD is the best way to play games, android games. And a key element of our strategy to generate a virtual circle in open gaming is linked to GeForce on PCs. So gamers can play PC games from their couch. One day it will be an excellent plat for GRID gaming. We padded with TegraZone, a curated collection of games all tested on Tegra and many of them optimized to Tegra. TegraZone has been installed by the 7.5 million times already and that number increases around 10% a quarter.
+The model weâre building for games is familiar for music and movies. You can buy a song from Amazon and download it to your device or stream it directly from a service like Spot 5 or even buy it and hosted in the cloud or Google. Similarly, a game you can download games to SHIELD play, play game online and soon stream it from GRID.
+Our Content GRID helps to develop and differentiate the games in our platforms and this creates synergy across devices. Games optimized for SHIELD will also look like on Tegra 4 devices like the HP SlateBook x2, or the Toshiba Excite Pro, both of which shipped this quarter. Games optimized with GeForce will be excellent context for GRID gaming. In this way SHIELD, GeForce and GRID each benefit the other and gamers benefit from a dynamic ecosystem.
+Q2 is a trough quarter for Tegra and you will see more Tegra 4 devices, but you will see more Tegra 4 devices launched through the balance of this year. Meanwhile, qualification of our modems both the standalone base band i500 and the integrated application process of Tegra 4i is proceeding as expected. And weâre making steady progress to what certification at a number of carriers.
+We previewed our next generation mobile processor, Project Logan last month. Logan includes our first mobile Kepler GPU delivering what the technical [press] described as unambiguous mobile GPU leadership. Last thing our GPU cost as we announced this quarter, allows us to generate revenue from markets previously and acceptable, such as vertically integrated smartphone OEMs.
+The mobile Kepler inside Logan has around three times the performance (indiscernible) of the iPad 4 GPU yet performs like a new desktop part. We showed it running Epic Games next generation game engine on real engine 4 and running Ira (indiscernible) as recently as of the Investor Day in April was restricted to high end gaming PCs.
+Forbes suggested that in video Logan could be a mobile graphic disruptor (indiscernible) said that if you get a new phone in 2014 with crazy battery life and amazing onscreen performance, the Kepler GPU will be a reason. Other press was similarly enthusiastic.
+Last year we made the decision to pull in Tegra 4i and Logan. This made a slate to market with Tegra 4. However, with Project Logan we're early and well positioned to capture key design wins.
+Moving on to our GPU server business, Telsa had an excellent quarter very nearly its best ever. Notably this quarter's revenue was driven by application-based deals. That is customers using off-the-shelf applications are turning to Tesla GPUs to accelerate them. This validates our continued investment in software. For example, last week's acquisition of PGI, the leading developer of (indiscernible) for high performance computing.
+Also, since this revenue passes through OEMs it requires much less sales and support resources from us and offers a more efficient reach to scale for that business. In professional visualization, Quadro displayed a strong sequential and year-over-year growth. We launched the Quadro K6000 to complete the lineup of Kepler top to bottom. Prospects look good for future growth. 80% of Quadro sales are driven by manufacturing and recent PMI and/or manufacturing data has been very encouraging.
+GRID is showing increased traction in the ecosystem. We announced this quarter that GRID is now supported natively within XenDesktop 7, so enterprise is considering Citrix virtualized infrastructures can easily also evaluate GPU acceleration. We have over 150 proof-of-concept trails underway and a dozen Citrix of our partners working on active GRID opportunities.
+I'll focus on gaming visualization and compute generated growth in the turbulent market, leveraging our IP into new markets and applying GPUs to the cloud would accelerate that growth in the future.
+With that, I'll now hand it over to Karen.
+Karen Burns
+Thanks, Chris. Hello, everyone. I want to highlight some key points before we open up for Q&A. Overall results for the second quarter exceeded our original expectations, driven by strong demand and the high end segments of our GPU business across desktop, workstation and server.
+Gross margins are now in the 56% range with Q2 being the fourth consecutive record quarter. The performance of our GPU business and intense focus on costs delivered EPS of $0.16 on a GAAP basis and $0.23 on a non-GAAP basis. These were $0.04 above consensus estimates of $0.12 for GAAP and $0.19 for non-GAAP.
+Revenue for the quarter of 977 million was at the midpoint of our outlook. The GPU business was very strong with a 9% increase quarter-over-quarter and 8% over the prior year. Growth was fueled by the release of new Kepler-based GPUs with high end and desktop and with Kepler-based GPUs now available top to bottom for workstation and server.
+Revenue for the Tegra Processor business was down 49% sequentially and 71% year-over-year. We had expected a drop as discussed last quarter with the ramp down of Tegra 3 products and ahead of Tegra 4 shipments. Nonetheless, we are disappointed with the size of the decline.
+Due to current dynamics in the mobile space, we believe it will be challenging for Tegra revenue to remain flat year-over-year as originally expected. That said we anticipate Tegra revenue to be up significantly in Q3 from Q2, as we start to ship Tegra 4 base design wins and SHIELD, our NVIDIA branded gaming and entertainment portable. We expect further growth in Q4 as more Tegra 4 OEM products come to market.
+Our revenue guidance for Q3 reflects these new expectations. We expect revenue to be up approximately 7% from the prior quarter with stable growth in the GPU business and significant growth in Tegra Processor.
+We again achieved record growth margins this quarter. The large increases you have seen quarter-over-quarter and year-over-year reflect our strong market position in high margin segments of our GPU business, particularly in desktop and workstations.
+For Q3 we expect gross margins to maintain at current levels. OpEx this quarter of 401 million was below our outlook at 7 million below the midpoint. Some of this investment shifted to Q3. For Q3 we expect OpEx of approximately 460 million for GAAP and 480 million for non-GAAP.
+Our OpEx investments remained tightly in line to our key growth strategies. For digital computing, we are extending the technical leadership of our GPUS, growing GPU for accelerated computing and engaging the market with our GRID GPU servers for enterprise VDI.
+GRID servers are in production by Cisco, Dell, HP and IBM. For Tegra [SSV], we are leveraging our core GPU investments to bring our visual computing leadership to industries that are being revolutionized by Android and ARM. We can make a contribution to many applications where a great GPU is desired.
+To-date, we have established a proven market position for Tegra that we will build on. Largely with Tegra 2 we generated 360 million in revenue in fiscal 2012 from smartphones and tablets alone. Largely with Tegra 3, we grew revenue 50% to 540 million from these devices in fiscal 2013.
+With Tegra 4, we are expanding our reach to other large markets where visual computing matters, such as auto navigation systems, TV set top boxes and new desktop foreign factors like all-in-one and smart monitors.
+With non-GAAP OpEx of 797 million in the first half of the year and 418 million expected in Q3, we are tracking at the high end of our full year expectations of approximately 1.6 billion. We aim to reduce this amount as we remain intensely focused on operating costs.
+Turning to the balance sheet, our overall position remains very strong. In the first half of the fiscal year, we generated 275 million in cash from operations and 122 million in free cash flow. Cash at the end of the quarter was 2.9 billion, a reduction of 778 million from Q1. This relates to our capital return allocation to shareholders of 793 million, consisting of 43 million in dividend payments and 750 million for share repurchases.
+In Q2 we executed in an accelerated share repurchase agreement to repurchase 750 million of shares. To-date, we have received 40 million shares under this agreement reducing our outstanding common stock. And we expect to receive additional shares when the contract ends in Q3.
+In addition, year-to-date we have returned $190 million to shareholders including 100 million in share repurchases and 90 million in quarterly dividend payments. With this capital allocation strategy along with our quarterly dividend payments in the second half, we are on track to return capital to shareholders in excess of 1 billion.
+Thank you. Chris?
+Chris Evenden
+Thanks, Karen. That concludes our prepared remarks. We'll now take questions. Please limit yourself to one question and one follow-up. Lisa?
+Question-and-Answer Session
+Operator
+(Operator Instructions). Our first question will come from the line of Christopher Rolland.
+Chris Rolland - Friedman, Billings, Ramsay, & Co., Inc.
+Hi, guys. How are you? Can you guys talk about initial sales or at least shipments of SHIELD so far? Is it above, below or in line with your estimates? Thanks.
+Jen-Hsun Huang
+Hi, Chris, yeah thanks a lot. SHIELD is doing great. The early reviews are fantastic. You probably read some of the reviews online, people really love that, it's a well made device, it feels exquisite and the performance is fantastic, it's an open platform and it does all the things that you would expect an Android device to do and more. And people are really loving, playing with the Beta version of our PC streaming and to be able to enjoy GeForce games that looks fantastic on a PC, on a small device like that while youâre sitting on a couch is pretty amazing. Sales have been great. Everything that we shipped so far has sold out and â but weâre just starting to ramp production, weâve shipped out to our partners only several thousand units, and so it's still quite early to tell. But weâre expecting to do quite well with SHIELD.
+Chris Rolland - Friedman, Billings, Ramsay, & Co., Inc.
+Okay, great. And also on the Tegra segment, maybe you can give us a little bit more detail there. How should we think about console royalties, I guess Pachinko, Auto versus your regular mobile sort of breakdown and I guess SHIELD is going to be in there too for next quarter; what that might look like this quarter as well as next? Thank you.
+Jen-Hsun Huang
+Well this was our Tegra trough quarter and we had talked about that before, the transition between Tegra 3 and Tegra 4. Because we pulled in two very important projects Tegra 4i with out integrated 4G modem and Logan which incorporated our mobile Kepler GPU as a result of that Tegra 4 was a little later than our typical cycle. And so we had to gap out and we expected Q2 to be the trough. We expect next quarter to be up substantially and as Karen mentioned earlier however there were some disappointments this year, some projects that we worked on that we had spent a lot of effort on didnât pan out as we expected and it's relatively well known now but nonetheless it didnât meet our expectations.
+But overall I would say that Tegra 4 is going to ramp up very nicely this coming quarter. There is tablets from Asus, Toshiba and HP. There is SHIELD thatâs ramping up and there are new devices that are going into production that are quite exciting. I think relative to your other question of auto we had said earlier that auto is about $100 million for the year or so roughly and last year it was 15% weâre expecting next year to be another 100% growth year. Auto as you know the design cycles are quite long and so the product life is also quite long, but it takes some time to ramp up.
+Chris Rolland - Friedman, Billings, Ramsay, & Co., Inc.
+Great. Thanks guys.
+Jen-Hsun Huang
+Yeah, and just one last thing. You had mentioned something about game console royalties. Weâre not accounting for much game console royalties.
+Chris Rolland - Friedman, Billings, Ramsay, & Co., Inc.
+Okay, great. Thank you guys.
+Jen-Hsun Huang
+Yeah, thanks a lot.
+Chris Evenden
+Hi, Lisa. Next question.
+Operator
+And our next question will come from the line of Ambrish Srivastava with BMO.
+Gabriel Ho - BMO Capital Markets
+Hi, this is Gabriel Ho calling in for Ambrish, thanks for taking my question. Actually can you give us more details on the licensing initiative for the graphic technology and also when should we expect that to translate into your F revenues and more importantly help us understand the thinking behind that what kind of customer pull were to seeing versus the means to diversify yourself?
+Jen-Hsun Huang
+Sure. Well we are a specialist in visual computing, this is our core business. And over the years weâve enhanced and extended our business model from just chips to now chips and systems such as GRID to system components such as GTX cards and Quadro cards and Tesla cards to now including GPU IP, and so weâre an end-to-end provider of GPU technologies to all of the application that relate to visual computing. And the way that we go to market has everything to do with how the customers would enjoy incorporating our technology into their products. In some customers they would like to buy our chip and put it on their own motherboard, with some customers they would like to buy our system components with our software and we integrated into their servers or work stations. Some customers would like to buy in retail adding cards of GeForce and some customers prefer to build their own chips, their own systems and take it to market themselves. And so in those vertically integrated opportunities weâve historically not had an opportunity to serve them with our technology and now with our mobile Kepler GPU that we revealed at SIGGRAPH it took us some three years to mobilize the worlds most advanced GPU. Now the worlds most advanced GPU is in a mobile format. It's the worlds first CUDA GPGPu available for mobile and it takes a huge advance in energy efficiency. And now with this Kepler GPU we could license our technology in a GPU core format to customers who would like to incorporate it into their own products and address their own vertically integrated market. And so thatâs basically the idea.
+Gabriel Ho - BMO Capital Markets
+Thanks. As a follow-up I just want to get an idea as you know two often three major game consoles being launched in the second half of the year, how should we think about the PC gaming business or what's your view on that?
+Jen-Hsun Huang
+Well game consoles are fantastic and I am looking forward to buying one myself. But today, just like in movies and music you game on every computing platform. And the fastest growing platforms in the world today are open platforms. PC is the fastest growing and it's now become the largest, some $20 billion worth of global software sales. Obviously China is very, very large, but the United States is large as well, Russia and Korea and you name it. PC gaming has become very large.
+The business models are vibrant whether it's declare online games, AAA titles or now free to play games. You could see that PC games are just really vibrant. The fastest growing -- so thatâs the largest, the fastest growing and now the second largest is mobile. One of the reasons why we really feel that we can make a contribution to mobile is because video games is such a large part of the mobile experience and in fact it's the largest download of the worlds largest digital store Google Play it is â video games is what people spend the most time actually doing on a tablet and video games and great computer graphics go hand in hand.
+This is an area where we can add a lot of value. And so these two platforms are the largest and now the fastest growing and I donât think there is anything that game consoles would do at this point that would disrupt that. People just have too many PCs and there are too many people with tablets and mobile devices and people like to game wherever they happen to be not just while theyâre sitting in front of their TV, sitting in front of the family room.
+Chris Evenden
+Letâs reach our next question please.
+Operator
+Yes sir. And our next question will come from the line of Blayne Curtis with Barclays.
+Blayne Curtis - Barclays Capital
+Weâre going to follow-up on the Tegra revenue, if you could just talk about the delta youâre looking at flat now, it's expected to be down. One, I was wondering if you could sell and if could give any sort of magnitude on how much you expect it to decline now and then, you had some ramps that didnât pan out in the first half but are you still looking at the same pipeline of that ramping in the second half for you? Thank you 
+Jen-Hsun Huang
+Missed a part of that question and Dwayne said it so fast.
+Blayne Curtis - Barclays Capital
+If you could dial in any, you expected decline, do you have any sort of range that you could provide us to how much it would decline?
+Jen-Hsun Huang
+Relative to last year?
+Karen Burns
+Yeah.
+Jen-Hsun Huang
+Oh relative to last year. The decline comes from, so coming into the year we had pretty high expectations on one particular platform and thereâs no sense mainly, but it's a very important platform that also derived from it a lot of design wins. And because this particular platform just didn't do as well as we or frankly anybody in the industry had hoped, we don't expect as much returns on that investment as we originally hoped. Our guess is that it's going to be down a couple of $100 million or so, maybe somewhere between $200 million or $300 million overall and we don't expect it in the short term to come back. But not all of the other platforms that we're talking about obviously are not affected by this one, one particular design win and all of its associated design wins.
+Blayne Curtis - Barclays Capital
+Okay, thanks for that. And then on the GPU side, you expected growth into Q3. Is that both desktop and notebooks and if you can just talk about the Haswell refresh. Your notebooks were down a little bit in Q2 of the June quarter or the third quarter. If you could talk about, are you expecting to see notebooks see a bit of a rebound with Haswell? Thanks.
+Jen-Hsun Huang
+I think that our notebook was down very, very low single digit year-over-year and was down single digits from Q2 in the last quarter. And so it's slightly down. The overall notebook, PC marketplace of course is not as vibrant as people have hoped. But you know that we're not really in the mainstream PC market, we're really in the specialty PC market whether it's gaming PC or workstation PCs or high performance computing PCs or premium consumer PCs or PCs that are used for video editing and digital content creation, that's primarily our target. The notebook part of it of course, the consumer part of it is not vibrant and we're not expecting it to â in our guidance we're not expecting the growth [Technical Difficulty] our growth from GPU is primarily attributed to gaming, to workstations, to Quadro, workstation GPU and the Tesla GPU.
+Blayne Curtis - Barclays Capital
+And that's relative to October with that comment?
+Jen-Hsun Huang
+I'm sorry, Blayneâ¦
+Blayne Curtis - Barclays Capital
+My question was when you look into October, you talked about broad growth, is both desktops and notebooks growing into October?
+Karen Burns
+Yeah, that's the quarter for Q3. That's where the growth we're expecting. I think that's your question.
+Blayne Curtis - Barclays Capital
+Sorry if I'm being difficult. I'm just trying to figure out â I think you're answering it, but when you mentioned all the drivers into October, you left notebooks. So I just wanted to clarify do you also expect notebooks to see a bit of rebound into October?
+Jen-Hsun Huang
+We're not expecting much growth from notebook.
+Blayne Curtis - Barclays Capital
+Okay, thank you.
+Jen-Hsun Huang
+Thanks. Lisa?
+Operator
+Our next question is going to come from the line of Patrick Wang with Evercore.
+Unidentified Analyst
+(Indiscernible) for Patrick. Thanks for taking my questions. Speaking on GPU, could you talk about the pricing around GPUs now? And how will share trend in the second half in your view?
+Jen-Hsun Huang
+ASPs are up but they've been on an upward trend for some time and that's one of the reasons why â also because they're shifting towards premium products or specialty products like gaming and workstations and high performance computing what we call GeForce, Quadro and Tesla because of the growth of those segments, it improves ASP and it improves gross margins. We haven't seen share movements substantially for some time and we're not expecting much later on this year.
+Unidentified Analyst
+All right, thanks for that. And then maybe, can you discuss the buyback plan you're looking for in 3Q and 4Q?
+Karen Burns
+Well, we haven't announced any new buyback plan but we certainly have a commitment to capital returns for the long term. The contracts that we're under right now does not add until the end of Q3.
+Unidentified Analyst
+Is there any dollar amount we should think about for each quarter?
+Karen Burns
+It was an accelerated share repurchase, so we're just waiting for the contract to complete.
+Jen-Hsun Huang
+Karen, why don't you just tell him what the whole thing is for the year? Maybe he hasn't seen some of the stuff.
+Karen Burns
+The 750 million is what we're going to repurchase and the bulk of it, the majority of 40 million shares we have received and we're expecting an incremental amount in Q3. So effectively a share repurchase in Q3 as well.
+Unidentified Analyst
+Okay. Will that be complete in Q3, I guess, is my question?
+Karen Burns
+That transaction will be complete in Q3. Any further repurchases we'll announce in Q3.
+Unidentified Analyst
+Good. Thank you.
+Operator
+Our next question will come from the line of Kevin Cassidy with Stifel Nicolaus.
+Unidentified Analyst
+[Dean] calling in for Kevin. Thank you very much for taking my call. Could you provide some extra color on the acceptance and progress in the GRID hardware area? We're seeing a number of software announcements. I was wondering how the hardware maybe coming along in terms of sale and potentials?
+Jen-Hsun Huang
+Thanks, [Dean]. GRID just as a background for everybody, GRID is our data center GPU server initiative and GRID has several attributes. One, of course, could be used to for high performance computing and one could be used for big data analysis whether it's image direct ignition or image processing or audio processing or video processing, you know that more and more people are uploading just an enormous amount of multimedia data onto the web. And the third initiative is enterprise virtualization. And one of the most challenging parts of enterprise virtualization is called VDI. And so these are the major applications of GRID. All of our OEMs have now completed all of their server and data in their certifications and are now in production; Cisco, Dell, HP and IBM. There are trials going around all over the world where we see visibility into some of them and we track about 150 all over the world; in Japan, in Europe, in United States, in China and this quarter we had just started shipping early samples. So we'll see how it turns out. But this is our first true enterprise computing application, our first true enterprise computing product and so we're quite excited about the prospects.
+Unidentified Analyst
+If you can't comment on this, is there â primarily interest in customers building their own hardware or in using the video design or how is the interest shaping up in this area?
+Jen-Hsun Huang
+There are three ways to access GRID. One is buy it from our OEMs and so that's Cisco and Dell and HP and IBM and there's some over â almost 30 different server platforms that are now available in the marketplace with GPUs in it. The second way is to build their own data centers and they would buy GPUs directly from us. And so these are data centers that â they're not announced yet, but they're just large data centers that want to build their own data centers. And the third way is for small or medium businesses who would like to build â who's customers are single application customers or don't have an IT department or not big enough to be served by large IT companies and they'll buy a fully integrated appliance from us. The last which is the GRID VCA appliance is not in volume production yet. It's sampling in North America but the first two are in production.
+Unidentified Analyst
+That's helpful. Thank you very much.
+Jen-Hsun Huang
+Thanks, Dean.
+Operator
+Our next question will come from the line of Chris Caso with Susquehanna Financial Group.
+Jen-Hsun Huang
+Hi, Chris, are you there?
+Chris Evenden
+Why donât we go to the next one?
+Chris Caso - Susquehanna Financial Group
+Hello, can you hear me? Hello.
+Chris Evenden
+Yes, there we go.
+Chris Caso - Susquehanna Financial Group
+Sorry about that.
+Chris Evenden
+Go ahead.
+Chris Caso - Susquehanna Financial Group
+Just, the first question about OpEx and the, I guess you said that some OpEx was pushed forward into this quarter, but your comments also suggested that the OpEx, I guess you were going to take some actions to reduce the OpEx going forward, could you expand on that a bit?
+Jen-Hsun Huang
+Actually what Karen said was that weâre going to target the $1.6 billion that we had we said before.
+Chris Caso - Susquehanna Financial Group
+Okay, so I mean, I guess going forward even as we look over the longer term, I know youâre making a lot of investments in the business at this point, just some general guidance about the level of OpEx spending we should expect going forward?
+Jen-Hsun Huang
+I donât think the plan is to reduce OpEx below the current levels. Weâre investing in three very, very important initiatives. One is GRID. GRID puts our GPUs and data centers which powers Cloud computing. I canât imagine a more important initiative. The second is Tegra, which is going after the Android and ARM computing revolution. Computing devices are cropping up everywhere of course it's already -- we know that it disrupted smartphones. It's in the process of disrupting computing with tablets, but itâs disruption will propagate out to consumer electronics to gaming to TVs to automobiles to just about anything with a computing device. And wherever there is a computer there is an opportunity that some of them would require GPUs. And what Tegra is about -- initiative is about is addressing those opportunities. And wherever we can address those opportunities, what Tegra -- the effort of Tegra, the focus of Tegra spins off because of that intense focus on energy efficiency and targeting mobile devices and small computing devices it spins off GPU course that we can now use as core IP. And so our investment is really around these three areas, GRID, Tegra and our core IP initiatives. And I think these are three very large and very important growth initiatives that are very important to investing, and so weâre not expecting to reduce OpEx. What Karen has been saying is that weâre constantly focused on making sure that there are no waste in the company. And we are the largest visual computing company in the world and our investments are leveraged from visual computing and leveraged from our GPUs, but these are still large investments as you know.
+Chris Caso - Susquehanna Financial Group
+Okay, great. And as a follow-up I just want to make sure that I understood the comments earlier with regard to the Tegra expectations for the year. I guess or I think what you said was $200 million to $300 million in Tegra revenues overall. If you could just clarify that, make sure that I got it right.
+Jen-Hsun Huang
+It's actually backwards. I think last year we had done something along the lines of $750 million in Tegra in overall Tegra from smartphones to tablets to automobile to embedded entertainment. Whether it's Windows on ARM -- excuse me Win RT or Android. Okay, so that all of that was under Tegra and last year it was about $750 million. This year weâre expecting it to be somewhat between $200 million to $300 million less than that. And even though the second half is going to be a big increase from the first half weâre not expecting the increase in the second half to make up for the full-year last year. Was that clear, Chris?
+Chris Caso - Susquehanna Financial Group
+[Likely].
+Operator
+Okay. And weâre going to move to our next question and that is from Betsy Van Hees with Wedbush Securities.
+Betsy Van Hees - Wedbush Securities Inc.
+Thanks for taking my questions. You guys have done a really great job of growing gross margin quarter-over-quarter and then I believe you guided it for 56% in this quarter, are we going to continue to see as we look forward the continued strides in gross margin or are we kind of plateauing out here? Thatâs my first question, thanks.
+Jen-Hsun Huang
+Hi, Betsy. There are several drivers for gross margins. One is Quadro our professional visualization products is quite rich in gross margins, because it's mostly a software product. Our value proposition in Quadro is very heavily related to all of the middleware and tools and all of the algorithm technologies that we incorporate into software packages all over the world that are processed by Quadro. Tesla is rich in gross margins, because again it's very much a computing platform products, it's not a chip product, and it's about the programming model, it's about the programming language, it's about compilers and tools and libraries and all about although the computation of mathematicians that work with our super computing centers and research centers around the world to solve the worlds most complex science problems. What also helps our gross margin â drives our gross margins is GRID.
+GRID again is a heavily software product. The GPU hypervisor, all of the compatibility thatâs integrated into all of the hypervisors and to enterprise infrastructures around the world, the value proposition that it delivers it's just very much a software product. And of course in the future if we were successful with our core - GPU core IP strategy that would be a big lift on gross margins. So we have products that are very software intensive, very IP intensive and therefore very margin rich. But we also have OEM products where we have to compete against other chip providers and our margins are much more compressed there. And so it just depends on where, which one of these parts of our businesses grow faster.
+I am not exactly sure whether I would be happier if the gross margins were to be richer and richer or whether our revenues were to outpace our gross margin growth, but we have the vehicles now from IP to chips to very value rich, software rich system components and systems to be able to drive our growth and yet we can be singularly focused on visual computing. We can be singularly focused and being the worldâs best GPU provider and serve these markets that are growing quickly.
+Betsy Van Hees - Wedbush Securities Inc.
+Thanks. And that was very, very helpful. And as we look at the guidance and we look a the GPU business and Tegra in the licensing, is it fair to say that the GPU business is kind of be inline with the mid-point of your guidance and then youâre going to have a significant growth in Tegra and but thatâs going to be offset the â because of some declines in the videogame consoles, is that how we should be looking at the quarter?
+Jen-Hsun Huang
+I think thatâs a good approximation. Our GPU product line basically is mid-point of margins and so if you see quarter growth faster than top line, if you see Tegra growth faster in top line, if you see GRID growth faster in top line, then I would expect our gross margins to increase. If you see Tegra growth faster than top line, then you would see our gross margins come under some pressure and if they both grow at similar rates, then our gross margins would stay flat.
+Betsy Van Hees - Wedbush Securities Inc.
+Okay, thanks. I know I said that was my last question. But I do have one more, and thatâs â I know you guys give forward guidance just the quarter, but as we look at the January quarter, what typical seasonality in the January quarter? I know things have changed a lot in the dynamics of the PC market. But how do you think we should be looking at seasonality for the January quarter?
+Jen-Hsun Huang
+I think there are seasonality factors, but I think that there are product cycle factors that are greater than the seasonality factor. And although -- and donât take this as a guidance for the January quarter, but weâre just in the process of ramping Tegra 4 into all of the devices that have been announced and devices that have not yet been announced. We're ramping SHIELD and the holiday season of course is a factor there and SHIELD is a brand new product for us. And we're ramping on Logan. And so we were late to market with Tegra 4 and it was a bit of a scramble, but I think the decisions were really, really good. We wanted to bring forward our modem technology so that we can start to engage the market and start the long process of certification. We also wanted to pull forward very importantly our mobile Kepler GPU. It was a three-year endeavor to take the world's most advanced GPU and mobilizing it and the results are just really quite spectacular. It's kind of amazing to see the graphics that you see in a high end PC or even a super computer for that matter running in a little mobile processor. And the architecture and the efficiency is so exquisite that the energy efficiency is really â really it's a big continuity. We've already demonstrated some three times better energy efficiency and as you know; energy efficiency if in a constrained energy environment like a mobile device, the most energy efficient processor is also the most high performance processor. And so I'm super excited for Logan and now we can get into the marketplace well ahead of the competition. And so those factors along with the work that we're doing in GPUs are likely to play a role and so we'll see how it turns out.
+Betsy Van Hees - Wedbush Securities Inc.
+Thanks, Jen-Hsun. I really appreciate it. Thank you.
+Jen-Hsun Huang
+Thanks, Betsy.
+Operator
+Our next question will come from the line of Jimmy Schneider with Goldman Sachs.
+Jim Schneider - Goldman Sachs
+Good afternoon. Thanks for taking my question. I wanted to ask about the qualification I think Tegra 4, the LTE modem, are you still on track for AT&T qualification by the end of this year. I was wondering if you could maybe give us some help to understand whether you might expect that the Tegra 4 product or the LTE modem might ship on other carriers before AT&T?
+Jen-Hsun Huang
+Let's see, first of all, our modem qualification comes in two different parts and they're related but not the same. First is the data service which is important for all of our tablet products. And so data modem cert is well ahead of the voice and we're in the process of doing that as we speak. And then there's the [voice] that goes with Tegra 4i. That happens when the certification completes near the end of the year. And so we're not expecting â the reason why we do AT&T is because it's the most rigorous and if we get through AT&T, you're pretty much set on just about vastly the western world's open markets. So that's the reason why we focus on AT&T first.
+Jim Schneider - Goldman Sachs
+Thanks. That's helpful. And then just as a quick follow-up, on the gross margins you saw in Q2, was more of the improvements due to the mix up of the Quadro and Kepler businesses or was more of that due to the increase in mix just from your desktop GSU businesses?
+Jen-Hsun Huang
+All three. Chris mentioned that Tesla had an almost record quarter and most of that was from not one singular supercomputing center installation. It was all from open markets and smaller installations, (indiscernible) purchased around off-the-shelf applications. So there is now just a current of business that appears to have developed around the world and that's really healthy for gross margins. And whenever we do well in gaming, it helps our gross margins. You know that GeForce has two parts. There's the GeForce for OEMs and there is GeForce GTX for gaming. Usually when I say gaming, I just mean GeForce GTX which happens to be most of our â the upper half of our GeForce business.
+Jim Schneider - Goldman Sachs
+That's helpful. Thank you.
+Operator
+Our next question comes from the line of Craig Ellis with B. Riley.
+Craig Ellis - B. Riley
+Thank you for taking the question. Jen-Hsun, just to clarify the question that Chris had asked, you had mentioned that you expect operating expense to stay at current levels. When you refer to current levels, were you referring to the levels that you'll be at with fiscal third quarter guidance or levels that you were at with the result that you had in fiscal 2Q?
+Jen-Hsun Huang
+This coming quarter plus or minus.
+Craig Ellis - B. Riley
+Okay, so annualized if that's where OpEx is, then you'd be on something closer to a 1.84 billion annual OpEx run rate, correct?
+Jen-Hsun Huang
+No, that's not correct. We â go ahead, Karen.
+Karen Burns
+So I mentioned we were at 700 â just under 800 million for the first half. And then if you add the 418 guidance and then on a path for Q4 if you do some trajectory small, we're just above 1.6 and it's a classic range of plus or minus 2%.
+Craig Ellis - B. Riley
+Okay, got it. And then switching gears to the products, Jen-Hsun, a lot of discussion on SHIELD as they get started to ramp for revenues. When you look out at the ramps that you have planned for those separate products, when do they start becoming a material relative to total company revenues? For example, when would either of them start to move into that 3% to 5% of company sales range?
+Jen-Hsun Huang
+I would really love to see GRID be able to contribute on a level like Telsa next year. And Telsa contributes materially. I think that SHIELD is just hard to say. We didn't â we had high expectations from a personal level but we didn't set high expectations from a financial level. We think it's just a really special and quite a distinguished product. And the more people that are playing with it and touching it and holding it and enjoying it, the more they become really passionate around it. It's a little bit like a gaming PC is to a PC. This is a gaming Android device to an Android device. And it's a specialized Android device just as our GeForce PCs are really a specialized PC for gaming. And so I think the logic is relatively similar. We can deploy the company's DNA expertise in graphics and gaming into SHIELD and so people understand it when NVIDIA brings a gaming product to market, they've known and grown up with GeForce for many of our â I even meet many engineers in NVIDIA who grew up on NVIDIA's GPUs. And they know our gaming brands very well and they know what we can do in this field. So I think it could be a really, really interesting outcome but we're modest with it right and we're just really grateful that everybody loves it so much.
+Craig Ellis - B. Riley
+So with the growth that you're seeing in theâ¦
+Chris Evenden
+Can we follow up with you afterwards? We've only got a couple of minutes left and let's get one more question in if possible.
+Craig Ellis - B. Riley
+Sure, Chris. Thanks.
+Chris Evenden
+Go ahead, Lisa.
+Operator
+Yes. Our next question will come from the line of David Wong with Wells Fargo.
+David Wong - Wells Fargo
+Thanks very much. Your notebook GPU sequential trend for July and October, is this purely a reflection of the overall notebook market or have you had any significant socket losses that would result in the market numbers showing a falling notebook GPU share in NVIDIA?
+Jen-Hsun Huang
+Our sequential and annual notebook decline is dramatically slower than the overall notebook decline.
+David Wong - Wells Fargo
+Okay, great. And do you expect Tegra 4 sales might ramp to a big equal or greater than Tegra 3 or should we expect a lower crest for Tegra 4?
+Jen-Hsun Huang
+That's a tough question because of two factors. One factor is, itâs hard to say exactly where SHIELD is going to be and weâre just expecting it â weâre just trying to be modest at the moment. Two, the separation between Tegra 4 and Tegra 3 or Tegra 3 and Tegra 4 is well over a year. The separation between Tegra 4 and Tegra Next is as you know relatively short, because Logan is already sampling. The sacrifice that we made on Tegra 4 to bring in Logan was really a good decision, because we wanted to introduce the mobile world to the most advanced GPU in the world and what NVIDIAâs core DNA is all about. And itâs a time when the market is really craving a great GPU. The next generation Tegra or Logan has a lot more than a great GPU in it. And there are many other surprises that weâve in store that Iâm just super excited about. But at the very minimum, it contains the most advanced GPU in the world binary compatible, architecturally compatible, but at a power envelope thatâs 100 times lower and itâs the most efficient GPU thatâs ever been built for mobile and any energy or performance comparison is against anything thatâs available around the horizon is just off the charts and so weâre going to take Logan to market as fast as we can. And so those two factors SHIELD and Logan are kind of makes that your question a little hard to answer.
+David Wong - Wells Fargo
+Great. Thanks very much.
+Jen-Hsun Huang
+I think the net of it is good.
+David Wong - Wells Fargo
+Okay, good. Thanks.
+Jen-Hsun Huang
+Thanks everyone. And we look forward to talking to you next time in our Q3 earnings call. Anyone we havenât got up with now we will catch up with you immediately after the call. Thank you.
+Operator
+And this does conclude todayâs conference call. You may now disconnect.
