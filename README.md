@@ -1,6 +1,6 @@
 # Stock Earnings Call Transcript Natural Language Processing
 
-Trying to replicate the results in S&amp;P Global's papers "**Natural Language Processing – Part II: Stock Selection**" and "**Natural Language Processing – Part III: Feature Engineering.**"
+Trying to replicate the results in the papers "**Natural Language Processing – Part II: Stock Selection**" and "**Natural Language Processing – Part III: Feature Engineering**" from S&P Global.
 
 # Background
 
