@@ -1,6 +1,6 @@
 # Stock Earnings Call Transcript Natural Language Processing
 
-Trying to replicate the results in the papers "**Natural Language Processing – Part II: Stock Selection**" and "**Natural Language Processing – Part III: Feature Engineering**" from S&P Global.
+Trying to replicate the results in the papers ["**Natural Language Processing – Part II: Stock Selection**"](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-II-Paper-S%26P-Global.pdf) and ["**Natural Language Processing – Part III: Feature Engineering**"](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-III-Paper-S%26P-Global.pdf) from S&P Global.
 
 # Background
 
