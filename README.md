@@ -17,7 +17,7 @@ Over the investment strategy period, a buy-and-hold strategy would have generate
 
 My results show much worse results than suggested in the papers. The long-only strategy slightly outperforms the buy-and-hold strategy, but not significantly. The long-short strategy fails to generate a profit, as the short side of the trades eats away at all of the long trades' profits.
 
-I am surpised that the short trades results were significantly different than the papers' results. Perhaps I incorrectly programmed the back test. Although, I heavily reviewed the back test programming logic.
+I am surpised that the short trades results were significantly different than the papers' results. Perhaps I incorrectly programmed the back test, although I heavily reviewed the back test programming logic.
 
  - NLP II long-only back test
 
