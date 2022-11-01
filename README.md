@@ -4,7 +4,7 @@ Trying to replicate the results in the papers [**Natural Language Processing –
 
 # Background
 
-S&P Global released two papers using natural language processing on stocks' earnings call transcripts.
+S&P Global released two papers using natural language processing on stocks' earnings call transcripts, which created an outperforming investment strategy backtest.
 
  - The Part II paper suggested that sentiment scores could be created using the Loughran and McDonald Sentiment Word Lists. Using the net positive score (the number of positive words minus the number of negative words divided by the total number of words in the transcript), an investment strategy was created. The investment strategy takes the top 20% quintile of transcript scores over a four-month lookback period. The stocks chosen are equal weighted and are rebalanced at month-end. The paper suggested that a long-only strategy yielded a 2.35% monthly average return, while a long-short strategy yielded a 4.14% monthly average return.
  - The Part III paper suggested that scores could be created using descriptor tags (i.e. revenue, earnings, profitability) along with positive or negative keywords within each transcript sentence. Using the net positive score (the number of positive descriptor tag sentences minus the number of negative descriptor tag sentences divided by the total number of sentences in the transcript), an investment strategy was created. The investment strategy is to take the top 20% quintile of transcript scores over a four-month lookback period. The stocks chosen are equal weighted and are rebalanced at month-end. The paper suggested that a long-only strategy yielded a 4.24% monthly average return, while a long-short strategy yielded a 9.16% monthly average return.
