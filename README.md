@@ -1,6 +1,6 @@
 # Stock Earnings Call Transcript Natural Language Processing
 
-Investment strategy based on the results of the S&P Global papers [**Natural Language Processing – Part II: Stock Selection**](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-II-Paper-S%26P-Global.pdf) and [**Natural Language Processing – Part III: Feature Engineering**](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-III-Paper-S%26P-Global.pdf).
+Investment strategy based on the results from S&P Global papers [**Natural Language Processing – Part II: Stock Selection**](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-II-Paper-S%26P-Global.pdf) and [**Natural Language Processing – Part III: Feature Engineering**](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-III-Paper-S%26P-Global.pdf).
 
 # Background
 
