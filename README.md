@@ -1,4 +1,4 @@
-# Stock Earnings Call Transcript Natural Language Processing
+# Natural Language Processing on Stocks' Earnings Call Transcripts: An Investment Strategy Backtest Based on S&P Global Papers
 
 Investment strategy based on the results from S&P Global papers [**Natural Language Processing – Part II: Stock Selection**](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-II-Paper-S%26P-Global.pdf) and [**Natural Language Processing – Part III: Feature Engineering**](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/NLP-III-Paper-S%26P-Global.pdf).
 
