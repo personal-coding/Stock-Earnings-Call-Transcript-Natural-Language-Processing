@@ -52,7 +52,7 @@ All of the earnings calls and stock data are in this repo, so feel free to test 
 There are several programs in this repository:
 
  - Two PDFs which are the two papers
- - [article folder](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/tree/main/article) - contains all of the earnings call transcripts
+ - [article folder](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/tree/main/article) - contains all of the earnings call transcripts (24k earnings call transcripts in total)
  - [stock_price folder](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/tree/main/stock_price) - contains Yahoo Finance stock prices for each ticker
  - [SP500 Download Prices.py](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/SP500%20Download%20Prices.py) - downloads stock price data from Yahoo Finance
  - [Download Transcript Links.py](https://github.com/ScrapeWithYuri/Stock-Earnings-Call-Transcript-Natural-Language-Processing/blob/main/Download%20Transcript%20Links.py) - downloads SeekingAlpha earnings call transcript links
